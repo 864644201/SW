@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>WormGearAndWormDesign</RootNamespace>
+    <AssemblyName>WormGearAndWormDesign</AssemblyName>
+    <LangVersion>7.3</LangVersion>
+    <Deterministic>true</Deterministic>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <AssemblyTitle>蜗轮蜗杆设计</AssemblyTitle>
+    <Description>迈迪蜗轮蜗杆设计系统 - 蜗轮蜗杆传动设计计算</Description>
+    <Product>麦豆宝</Product>
+    <Copyright>Copyright 2026</Copyright>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+  </PropertyGroup>
+
+</Project>

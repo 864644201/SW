@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>ComprehensiveTolerance</RootNamespace>
+    <AssemblyName>ComprehensiveTolerance</AssemblyName>
+    <LangVersion>7.3</LangVersion>
+    <Deterministic>true</Deterministic>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <AssemblyTitle>综合公差查询</AssemblyTitle>
+    <Description>综合公差查询模块 - 尺寸公差、形位公差、表面粗糙度、螺纹公差</Description>
+    <Product>麦豆宝</Product>
+    <Copyright>Copyright 2026</Copyright>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+  </PropertyGroup>
+
+</Project>

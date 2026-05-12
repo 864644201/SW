@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>PrintLayout</RootNamespace>
+    <AssemblyName>PrintLayout</AssemblyName>
+    <LangVersion>7.3</LangVersion>
+    <Deterministic>true</Deterministic>
+    <AssemblyTitle>拼图打印</AssemblyTitle>
+    <Description>拼图打印模块 - 图纸拼图排列与打印预览</Description>
+    <Product>麦豆宝</Product>
+    <Copyright>Copyright 2026</Copyright>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+  </PropertyGroup>
+
+</Project>

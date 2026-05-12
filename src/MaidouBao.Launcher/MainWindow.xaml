@@ -1,0 +1,87 @@
+<Window x:Class="MaidouBao.Launcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="麦豆宝工具集" Height="600" Width="900"
+        WindowStartupLocation="CenterScreen"
+        Background="#FFF0F0F0">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <Border Grid.Row="0" Background="#FF2D5F8A">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="20,0">
+                <TextBlock Text="麦豆宝工具集" FontSize="24" Foreground="White" FontWeight="Bold"
+                           VerticalAlignment="Center"/>
+                <TextBlock Text=" v2.0" FontSize="14" Foreground="#FFB0C4DE"
+                           VerticalAlignment="Center" Margin="10,0,0,0"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Tab Control for Categories -->
+        <TabControl Grid.Row="1" Margin="10" x:Name="tabControl">
+            <!-- 设计工具 -->
+            <TabItem Header="设计工具">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <WrapPanel x:Name="designToolsPanel" Margin="10"/>
+                </ScrollViewer>
+            </TabItem>
+
+            <!-- 二维工具 -->
+            <TabItem Header="二维工具">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <WrapPanel x:Name="draftingToolsPanel" Margin="10"/>
+                </ScrollViewer>
+            </TabItem>
+
+            <!-- 常用工具 -->
+            <TabItem Header="常用工具">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <WrapPanel x:Name="commonToolsPanel" Margin="10"/>
+                </ScrollViewer>
+            </TabItem>
+
+            <!-- 大国工匠 -->
+            <TabItem Header="大国工匠">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Orientation="Horizontal" Margin="10,5">
+                        <Button Content="添加程序" Click="BtnAddCustomTool_Click" Padding="12,4" Margin="0,0,8,0"/>
+                        <Button Content="删除选中" Click="BtnRemoveCustomTool_Click" Padding="12,4" Margin="0,0,8,0"/>
+                        <Button Content="刷新" Click="BtnRefreshCustomTools_Click" Padding="12,4" Margin="0,0,16,0"/>
+                        <RadioButton x:Name="radGridView" Content="图标" IsChecked="True" Checked="ViewMode_Changed" VerticalAlignment="Center" Margin="0,0,8,0"/>
+                        <RadioButton x:Name="radListView" Content="列表" Checked="ViewMode_Changed" VerticalAlignment="Center" Margin="0,0,16,0"/>
+                        <TextBlock x:Name="customToolsHint" Text="将exe放入 tools 文件夹可自动显示" VerticalAlignment="Center" FontSize="11" Foreground="#FF888888"/>
+                    </StackPanel>
+                    <!-- 图标视图 -->
+                    <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto" x:Name="gridViewScroll">
+                        <WrapPanel x:Name="customToolsPanel" Margin="10"/>
+                    </ScrollViewer>
+                    <!-- 列表视图 -->
+                    <ListView x:Name="customToolsListView" Grid.Row="1" Margin="10" Visibility="Collapsed"
+                              MouseDoubleClick="CustomToolsListView_DoubleClick">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="名称" Width="200" DisplayMemberBinding="{Binding Name}"/>
+                                <GridViewColumn Header="路径" Width="500" DisplayMemberBinding="{Binding ExePath}"/>
+                                <GridViewColumn Header="来源" Width="80" DisplayMemberBinding="{Binding Source}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+        <!-- Status Bar -->
+        <Border Grid.Row="2" Background="#FFD0D0D0">
+            <TextBlock x:Name="statusText" Text="就绪" Margin="10,0" VerticalAlignment="Center"
+                       FontSize="11" Foreground="#FF666666"/>
+        </Border>
+    </Grid>
+</Window>
