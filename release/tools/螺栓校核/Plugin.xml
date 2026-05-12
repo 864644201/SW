@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>螺栓校核</name>
+  <classname>常用工具</classname>
+  <classid>2090_2219_2223</classid>
+  <version>1.1.0</version>
+  <softkey>0404</softkey>
+  <username>迈迪设计宝</username>
+  <userid>83193</userid>
+  <startexe>pgrun.exe</startexe>
+  <isMd>False</isMd>
+  <explain><![CDATA[螺栓校核工具可以根据螺栓连接形式和受载荷情况，得出其许用的最小直径。螺栓校核工具也适用于双头螺柱连接与螺钉连接。]]></explain>
+</plugin>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <name>轴径计算</name>
+  <explain>按扭转强度或刚度计算轴径</explain>
+  <classid>2090_2219_2221</classid>
+  <startexe>TrunnionCalculation.exe</startexe>
+  <version>2.0</version>
+</Plugin>

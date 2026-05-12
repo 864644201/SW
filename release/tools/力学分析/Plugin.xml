@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>力学分析</name>
+  <classname>常用工具</classname>
+  <classid>2090_2219_2223</classid>
+  <version>1.1.0</version>
+  <softkey>0405</softkey>
+  <username>迈迪设计宝</username>
+  <userid>83193</userid>
+  <startexe>pgrun.exe</startexe>
+  <isMd>False</isMd>
+  <explain><![CDATA[迈迪设计宝力学分析工具可以实现一些简单的材料力学计算，节约设计师很多的计算时间。包括：多个扭转分析、简单扭转分析、应力圆分析、截面特性及压杆分析、静定梁分析、薄壳中的应力计算。]]></explain>
+</plugin>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <name>文件改名</name>
+  <explain>批量文件重命名</explain>
+  <classid>2090_2219_2222</classid>
+  <startexe>FileRename.exe</startexe>
+  <version>2.0</version>
+</Plugin>

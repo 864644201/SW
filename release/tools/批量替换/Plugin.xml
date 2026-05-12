@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>批量替换</name>
+  <classname>常用工具</classname>
+  <classid>2090_2219_2223</classid>
+  <version>1.1.0</version>
+  <softkey>0408</softkey>
+  <username>迈迪设计宝</username>
+  <userid>83193</userid>
+  <startexe>pgrun.exe</startexe>
+  <isMd>False</isMd>
+  <explain><![CDATA[工程图的标题栏需要进行修改或者填写信息时可以使用批量替换图模板来进行操作。]]></explain>
+</plugin>

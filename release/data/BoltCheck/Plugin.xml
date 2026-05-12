@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <name>螺栓校核</name>
+  <explain>螺栓强度校核</explain>
+  <classid>2090_2219_2221</classid>
+  <startexe>BoltCheck.exe</startexe>
+  <version>2.0</version>
+</Plugin>

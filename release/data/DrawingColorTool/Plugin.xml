@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <name>图层上色</name>
+  <explain>工程图分层上色</explain>
+  <classid>2090_2219_2222</classid>
+  <startexe>DrawingColorTool.exe</startexe>
+  <version>2.0</version>
+</Plugin>

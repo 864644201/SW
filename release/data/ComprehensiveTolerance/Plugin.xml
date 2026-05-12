@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <name>综合公差</name>
+  <explain>尺寸公差形位公差表面粗糙度螺纹公差</explain>
+  <classid>2090_2219_2221</classid>
+  <startexe>ComprehensiveTolerance.exe</startexe>
+  <version>2.0</version>
+</Plugin>

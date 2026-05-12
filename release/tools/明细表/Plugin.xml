@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>明细表</name>
+  <classname>二维工具</classname>
+  <classid>2090_2219_2222</classid>
+  <version>1.1.0</version>
+  <softkey>0305</softkey>
+  <username>迈迪设计宝</username>
+  <userid>83193</userid>
+  <startexe>pgrun.exe</startexe>
+  <isMd>False</isMd>
+  <explain><![CDATA[明细表中可以通过“选择明细表模板”、“材料明细表的类型”、“分割明细表”的选择进行设置，对于“生成明细表设置”选项，主要是处理明细表，在图纸上会立即生成符合国标要求的明细表，而且可以根据需要分列显示。]]></explain>
+</plugin>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <name>打印排版</name>
+  <explain>多图拼排打印</explain>
+  <classid>2090_2219_2223</classid>
+  <startexe>PrintLayout.exe</startexe>
+  <version>2.0</version>
+</Plugin>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>文件加密</name>
+  <classname>常用工具</classname>
+  <classid>2090_2219_2223</classid>
+  <version>1.1.0</version>
+  <softkey>0402</softkey>
+  <username>迈迪设计宝</username>
+  <userid>83193</userid>
+  <startexe>pgrun.exe</startexe>
+  <isMd>False</isMd>
+  <explain><![CDATA[针对有些企业对图纸数据的严格要求，我们开发了文件加密功能，可以针对所有文件格式进行加密，安全稳定，速度快。]]></explain>
+</plugin>

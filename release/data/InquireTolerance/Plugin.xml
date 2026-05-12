@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <name>公差查询</name>
+  <explain>ISO286标准公差与配合查询</explain>
+  <classid>2090_2219_2221</classid>
+  <startexe>InquireTolerance.exe</startexe>
+  <version>2.0</version>
+</Plugin>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <name>蜗轮蜗杆设计</name>
+  <explain>蜗轮蜗杆传动设计与热平衡校核</explain>
+  <classid>2090_2219_2221</classid>
+  <startexe>WormGearAndWormDesign.exe</startexe>
+  <version>2.0</version>
+</Plugin>

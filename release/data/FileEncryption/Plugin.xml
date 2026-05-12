@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <name>文件加密</name>
+  <explain>AES256文件加密解密</explain>
+  <classid>2090_2219_2223</classid>
+  <startexe>FileEncryption.exe</startexe>
+  <version>2.0</version>
+</Plugin>
