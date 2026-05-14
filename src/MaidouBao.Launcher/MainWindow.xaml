@@ -82,7 +82,11 @@
             <TabItem Header="表格工具大全">
                 <DockPanel>
                     <Border DockPanel.Dock="Top" Background="#FFF4F8FC" Padding="14,10" BorderBrush="#FFE2E8EF" BorderThickness="0,0,0,1">
-                        <TextBlock Text="预留给表格类工具模块，后续可集中放 Excel、明细表、数据整理和批量处理功能。" Foreground="#FF5C6E7E" TextWrapping="Wrap"/>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="自动扫描 tables 目录下的 Excel 文件，点击直接打开。" Foreground="#FF5C6E7E" VerticalAlignment="Center"/>
+                            <Button Content="刷新" Click="BtnRefreshTableTools_Click" Padding="12,4" Margin="16,0,0,0"/>
+                            <TextBlock x:Name="tableToolsHint" Text="将 xlsx/xls 放入 tables 文件夹可自动显示" VerticalAlignment="Center" FontSize="11" Foreground="#FF888888" Margin="16,0,0,0"/>
+                        </StackPanel>
                     </Border>
                     <ScrollViewer VerticalScrollBarVisibility="Auto">
                         <WrapPanel x:Name="tableToolsPanel" Margin="10"/>

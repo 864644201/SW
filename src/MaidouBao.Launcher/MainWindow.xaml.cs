@@ -13,6 +13,7 @@ namespace MaidouBao.Launcher
     {
         private string _dataDir;
         private string _toolsDir;
+        private string _tablesDir;
         private List<PluginInfo> _plugins;
         private List<PluginInfo> _allModuleEntries;
         private List<CustomToolEntry> _customTools;
@@ -28,11 +29,14 @@ namespace MaidouBao.Launcher
         {
             _dataDir = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data");
             _toolsDir = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "tools");
+            _tablesDir = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "tables");
             _customToolsFile = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "custom_tools.txt");
             if (!Directory.Exists(_dataDir)) Directory.CreateDirectory(_dataDir);
             if (!Directory.Exists(_toolsDir)) Directory.CreateDirectory(_toolsDir);
+            if (!Directory.Exists(_tablesDir)) Directory.CreateDirectory(_tablesDir);
             LoadAllPlugins();
             LoadCustomTools();
+            LoadTableTools();
         }
 
         private void LoadAllPlugins()
@@ -313,14 +317,35 @@ namespace MaidouBao.Launcher
             // 2. 加载手动添加的工具（custom_tools.txt）
             if (File.Exists(_customToolsFile))
             {
+                var baseDir = AppDomain.CurrentDomain.BaseDirectory;
                 foreach (var line in File.ReadAllLines(_customToolsFile))
                 {
                     if (string.IsNullOrWhiteSpace(line)) continue;
                     var parts = line.Split('|');
-                    if (parts.Length == 2 && File.Exists(parts[1]))
+                    if (parts.Length != 2) continue;
+
+                    // 解析路径：相对路径基于 exe 所在目录
+                    var exePath = parts[1];
+                    if (!Path.IsPathRooted(exePath))
                     {
-                        _customTools.Add(new CustomToolEntry { Name = parts[0], ExePath = parts[1] });
+                        exePath = Path.Combine(baseDir, exePath);
                     }
+
+                    if (!File.Exists(exePath)) continue;
+
+                    // 跳过与自动发现重复的工具
+                    bool isDuplicate = false;
+                    foreach (var existing in _customTools)
+                    {
+                        if (string.Equals(existing.ExePath, exePath, StringComparison.OrdinalIgnoreCase))
+                        {
+                            isDuplicate = true;
+                            break;
+                        }
+                    }
+                    if (isDuplicate) continue;
+
+                    _customTools.Add(new CustomToolEntry { Name = parts[0], ExePath = exePath });
                 }
             }
 
@@ -335,9 +360,16 @@ namespace MaidouBao.Launcher
         private void SaveCustomTools()
         {
             var lines = new List<string>();
+            var baseDir = AppDomain.CurrentDomain.BaseDirectory;
             foreach (var entry in _customTools)
             {
-                lines.Add($"{entry.Name}|{entry.ExePath}");
+                // 保存相对路径
+                var relPath = entry.ExePath;
+                if (relPath.StartsWith(baseDir, StringComparison.OrdinalIgnoreCase))
+                {
+                    relPath = relPath.Substring(baseDir.Length).TrimStart('\\', '/');
+                }
+                lines.Add($"{entry.Name}|{relPath}");
             }
             File.WriteAllLines(_customToolsFile, lines);
         }
@@ -610,6 +642,126 @@ namespace MaidouBao.Launcher
         {
             LoadCustomTools();
             statusText.Text = $"已刷新，共 {_customTools.Count} 个工具";
+        }
+
+        // ========== 表格工具大全 ==========
+
+        private void LoadTableTools()
+        {
+            tableToolsPanel.Children.Clear();
+
+            if (!Directory.Exists(_tablesDir))
+            {
+                tableToolsHint.Text = "tables 目录不存在，正在创建...";
+                Directory.CreateDirectory(_tablesDir);
+                return;
+            }
+
+            var files = new List<string>();
+            files.AddRange(Directory.GetFiles(_tablesDir, "*.xlsx"));
+            files.AddRange(Directory.GetFiles(_tablesDir, "*.xls"));
+
+            // 也扫描子目录
+            foreach (var dir in Directory.GetDirectories(_tablesDir))
+            {
+                files.AddRange(Directory.GetFiles(dir, "*.xlsx"));
+                files.AddRange(Directory.GetFiles(dir, "*.xls"));
+            }
+
+            foreach (var file in files)
+            {
+                tableToolsPanel.Children.Add(CreateTableToolButton(file));
+            }
+
+            tableToolsHint.Text = $"共 {files.Count} 个表格文件 | 将 xlsx/xls 放入 tables 文件夹可自动显示";
+        }
+
+        private Button CreateTableToolButton(string filePath)
+        {
+            var fileName = Path.GetFileNameWithoutExtension(filePath);
+            var fileInfo = new FileInfo(filePath);
+            var sizeText = fileInfo.Length > 1024 * 1024
+                ? $"{fileInfo.Length / 1024 / 1024.0:F1} MB"
+                : $"{fileInfo.Length / 1024.0:F0} KB";
+
+            var btn = new Button
+            {
+                Style = (Style)FindResource("ModuleButton"),
+                Tag = filePath,
+                Content = new StackPanel
+                {
+                    Children =
+                    {
+                        new TextBlock
+                        {
+                            Text = fileName,
+                            TextWrapping = TextWrapping.Wrap,
+                            TextAlignment = TextAlignment.Left,
+                            Foreground = Brushes.White,
+                            FontSize = 15,
+                            FontWeight = FontWeights.Bold
+                        },
+                        new TextBlock
+                        {
+                            Text = $"大小: {sizeText}",
+                            TextWrapping = TextWrapping.Wrap,
+                            TextAlignment = TextAlignment.Left,
+                            Foreground = new SolidColorBrush(Color.FromRgb(230, 240, 250)),
+                            FontSize = 11,
+                            Margin = new Thickness(0, 8, 0, 6)
+                        },
+                        new TextBlock
+                        {
+                            Text = "单击打开表格  |  右键打开目录",
+                            TextAlignment = TextAlignment.Left,
+                            Foreground = new SolidColorBrush(Color.FromRgb(210, 225, 240)),
+                            FontSize = 10
+                        }
+                    }
+                }
+            };
+            btn.Click += TableToolButton_Click;
+            ToolTipService.SetToolTip(btn, filePath);
+
+            var menu = new ContextMenu();
+            var openFolderItem = new MenuItem { Header = "打开所在目录" };
+            openFolderItem.Click += (s, args) =>
+            {
+                var dir = Path.GetDirectoryName(filePath);
+                if (Directory.Exists(dir))
+                    Process.Start(new ProcessStartInfo { FileName = dir, UseShellExecute = true });
+            };
+            menu.Items.Add(openFolderItem);
+            btn.ContextMenu = menu;
+
+            return btn;
+        }
+
+        private void TableToolButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender is Button btn && btn.Tag is string filePath)
+            {
+                try
+                {
+                    Process.Start(new ProcessStartInfo
+                    {
+                        FileName = filePath,
+                        UseShellExecute = true,
+                        WorkingDirectory = Path.GetDirectoryName(filePath)
+                    });
+                    statusText.Text = $"已打开: {Path.GetFileName(filePath)}";
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"打开表格失败：{ex.Message}", "错误",
+                        MessageBoxButton.OK, MessageBoxImage.Error);
+                }
+            }
+        }
+
+        private void BtnRefreshTableTools_Click(object sender, RoutedEventArgs e)
+        {
+            LoadTableTools();
         }
 
         private void ViewMode_Changed(object sender, RoutedEventArgs e)
