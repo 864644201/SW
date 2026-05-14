@@ -845,12 +845,13 @@ namespace Interop.Office.Core
             this.ClientSize = new System.Drawing.Size(372, 310);
             this.Controls.Add(this.tabControl6);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.MaximizeBox = false;
+            this.MaximizeBox = true;
             this.MinimizeBox = false;
             this.Name = "zhouj";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Tag = "3";
             this.Text = "计算最小轴径";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.zhouj_Load);
 
             this.ResumeLayout(false);

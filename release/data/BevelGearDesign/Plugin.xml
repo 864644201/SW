@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Plugin>
   <name>锥齿轮设计</name>
-  <explain>直齿锥齿轮强度计算</explain>
+  <explain>圆锥齿轮设计计算</explain>
   <classid>2090_2219_2221</classid>
   <startexe>BevelGearDesign.exe</startexe>
   <version>2.0</version>

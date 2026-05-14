@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Plugin>
   <name>链轮设计</name>
-  <explain>滚子链传动设计</explain>
+  <explain>链轮传动设计</explain>
   <classid>2090_2219_2221</classid>
   <startexe>SprocketDesign.exe</startexe>
   <version>2.0</version>

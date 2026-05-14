@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Plugin>
   <name>轴设计</name>
-  <explain>轴的强度校核与疲劳安全系数计算</explain>
+  <explain>轴的结构设计与强度校核</explain>
   <classid>2090_2219_2221</classid>
   <startexe>app.exe</startexe>
   <version>2.0</version>

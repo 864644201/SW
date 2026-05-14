@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Plugin>
   <name>凸轮设计</name>
-  <explain>凸轮机构设计与轮廓计算</explain>
+  <explain>凸轮轮廓与运动规律设计</explain>
   <classid>2090_2219_2221</classid>
   <startexe>CamDesign.exe</startexe>
   <version>2.0</version>

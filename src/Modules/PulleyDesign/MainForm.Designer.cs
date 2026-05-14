@@ -288,10 +288,11 @@ namespace PulleyDesign
             this.Controls.Add(this.grpOutput);
             this.Controls.Add(this.grpCheck);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.MaximizeBox = false;
+            this.MaximizeBox = true;
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "带传动设计 - PulleyDesign";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.grpInput.ResumeLayout(false);
             this.grpInput.PerformLayout();
             this.grpOutput.ResumeLayout(false);

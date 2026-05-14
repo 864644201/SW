@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Text;
 using System.Windows.Forms;
 
 namespace GearDesign
@@ -9,6 +10,8 @@ namespace GearDesign
     {
         private readonly GearCalculator _calculator;
         private readonly List<GearMaterial> _materials;
+        private TextBox _engineeringReportBox;
+        private string _lastEngineeringReport = string.Empty;
 
         public MainForm()
         {
@@ -16,6 +19,7 @@ namespace GearDesign
             _calculator = new GearCalculator();
             _materials = GearMaterial.GetPredefinedMaterials();
             LoadMaterials();
+            InitializeEngineeringPanel();
         }
 
         /// <summary>
@@ -93,6 +97,7 @@ namespace GearDesign
                 DisplayLoadResults();
                 DisplayStrengthResults();
                 DisplayConclusion();
+                UpdateEngineeringReport();
             }
             catch (ArgumentException ex)
             {
@@ -246,10 +251,11 @@ namespace GearDesign
         private void DisplayConclusion()
         {
             bool allOK = _calculator.ContactStrengthOK && _calculator.BendingStrengthOK;
+            string controllingItem = GetControllingItem();
 
             if (allOK)
             {
-                labelConclusion.Text = "校核结论: 全部通过 -- 齿轮强度满足要求";
+                labelConclusion.Text = $"校核结论: 全部通过，控制项目为 {controllingItem}";
                 labelConclusion.ForeColor = Color.Green;
             }
             else
@@ -259,7 +265,7 @@ namespace GearDesign
                     msg += "接触强度不足 ";
                 if (!_calculator.BendingStrengthOK)
                     msg += "弯曲强度不足";
-                msg += " -- 请调整齿轮参数或材料";
+                msg += $" -- 控制项目为 {controllingItem}，请调整齿轮参数或材料";
 
                 labelConclusion.Text = msg;
                 labelConclusion.ForeColor = Color.Red;
@@ -288,6 +294,194 @@ namespace GearDesign
             dgvStrength.Rows.Clear();
             txtLoadResult.Text = "";
             labelConclusion.Text = "";
+            _engineeringReportBox.Text = "";
+            _lastEngineeringReport = string.Empty;
+        }
+
+        private void InitializeEngineeringPanel()
+        {
+            var groupBoxEngineer = new GroupBox
+            {
+                Text = "工程建议与报告",
+                Dock = DockStyle.Top,
+                Height = 190,
+                Padding = new Padding(8)
+            };
+
+            var toolbar = new Panel { Dock = DockStyle.Top, Height = 34 };
+            var btnSave = CreateToolbarButton("导出报告");
+            var btnCopy = CreateToolbarButton("复制报告");
+            btnSave.Dock = DockStyle.Right;
+            btnCopy.Dock = DockStyle.Right;
+            btnCopy.Click += (sender, args) => CopyEngineeringReport();
+            btnSave.Click += (sender, args) => SaveEngineeringReport();
+            toolbar.Controls.Add(btnSave);
+            toolbar.Controls.Add(btnCopy);
+
+            _engineeringReportBox = new TextBox
+            {
+                Dock = DockStyle.Fill,
+                Multiline = true,
+                ReadOnly = true,
+                ScrollBars = ScrollBars.Vertical,
+                BackColor = Color.White,
+                Font = new Font("Microsoft YaHei UI", 9F)
+            };
+
+            groupBoxEngineer.Controls.Add(_engineeringReportBox);
+            groupBoxEngineer.Controls.Add(toolbar);
+            panelRight.Controls.Add(groupBoxEngineer);
+        }
+
+        private static Button CreateToolbarButton(string text)
+        {
+            return new Button
+            {
+                Text = text,
+                Width = 92,
+                Height = 28,
+                Margin = new Padding(0, 0, 8, 0)
+            };
+        }
+
+        private void UpdateEngineeringReport()
+        {
+            _lastEngineeringReport = BuildEngineeringReport();
+            _engineeringReportBox.Text = _lastEngineeringReport;
+        }
+
+        private string BuildEngineeringReport()
+        {
+            var builder = new StringBuilder();
+            double actualRatio = _calculator.Z1 == 0 ? 0 : (double)_calculator.Z2 / _calculator.Z1;
+            double ratioDeviation = Math.Abs(actualRatio - _calculator.RatioI);
+            string controllingItem = GetControllingItem();
+            double faceWidthRatio = _calculator.D1 <= 0 ? 0 : _calculator.FaceWidth / _calculator.D1;
+
+            builder.AppendLine("工程结论");
+            builder.AppendLine($"- 总体判定: {(_calculator.ContactStrengthOK && _calculator.BendingStrengthOK ? "校核通过，可进入结构与工艺细化阶段。" : "校核未完全通过，建议先调整参数再下发图纸。")}");
+            builder.AppendLine($"- 控制项目: {controllingItem}");
+            builder.AppendLine($"- 实际传动比: {actualRatio:F3}，与目标传动比偏差 {ratioDeviation:F3}");
+            builder.AppendLine($"- 圆周速度: {_calculator.Velocity:F2} m/s，当前精度等级 { _calculator.PrecisionGrade } 级");
+            builder.AppendLine($"- 齿宽比 b/d1: {faceWidthRatio:F3}，端面重合度 eps_a: {_calculator.EpsilonAlpha:F3}");
+            builder.AppendLine();
+            builder.AppendLine("资深工程师建议");
+
+            if (!_calculator.ContactStrengthOK)
+            {
+                builder.AppendLine($"- 接触安全系数 SH={_calculator.SH:F2} 偏低，优先增大模数、齿宽，或提高齿面硬度。");
+            }
+            else
+            {
+                builder.AppendLine($"- 接触安全系数 SH={_calculator.SH:F2}，接触疲劳裕量可接受。");
+            }
+
+            if (_calculator.SF1 < 1.0 || _calculator.SF2 < 1.0)
+            {
+                builder.AppendLine($"- 弯曲安全系数偏低，小齿轮 SF1={_calculator.SF1:F2}，大齿轮 SF2={_calculator.SF2:F2}，建议优先增大模数或优化齿根强度。");
+            }
+            else
+            {
+                builder.AppendLine($"- 弯曲强度通过，最小弯曲安全系数为 {Math.Min(_calculator.SF1, _calculator.SF2):F2}。");
+            }
+
+            if (_calculator.EpsilonAlpha < 1.20)
+            {
+                builder.AppendLine("- 端面重合度偏低，传动平稳性和噪声表现可能一般，可考虑增大齿数或修正中心距方案。");
+            }
+            else
+            {
+                builder.AppendLine("- 端面重合度处于较合理区间，啮合连续性较好。");
+            }
+
+            if (_calculator.Velocity > 8.0 && _calculator.PrecisionGrade >= 8)
+            {
+                builder.AppendLine("- 当前圆周速度较高，建议把精度等级控制在 7 级或更高，并关注齿面修形与安装误差。");
+            }
+
+            if (ratioDeviation > 0.05)
+            {
+                builder.AppendLine("- 齿数组合与目标传动比偏差较明显，若系统对同步性敏感，建议重选 Z1/Z2。");
+            }
+
+            if (_calculator.Z1 < 20)
+            {
+                builder.AppendLine("- 小齿轮齿数偏少，虽未必根切，但加工与噪声裕量偏紧，建议优先评估 20 齿以上方案。");
+            }
+
+            builder.AppendLine();
+            builder.AppendLine("关键结果");
+            builder.AppendLine($"- 接触应力/许用值: {_calculator.SigmaH:F1} / {_calculator.SigmaHP:F1} MPa");
+            builder.AppendLine($"- 小齿轮弯曲应力/许用值: {_calculator.SigmaF1:F1} / {_calculator.SigmaFP1:F1} MPa");
+            builder.AppendLine($"- 大齿轮弯曲应力/许用值: {_calculator.SigmaF2:F1} / {_calculator.SigmaFP2:F1} MPa");
+            builder.AppendLine($"- 总载荷系数 K: {_calculator.K:F3}");
+
+            return builder.ToString();
+        }
+
+        private string GetControllingItem()
+        {
+            double minFactor = _calculator.SH;
+            string item = "接触疲劳强度";
+
+            if (_calculator.SF1 < minFactor)
+            {
+                minFactor = _calculator.SF1;
+                item = "小齿轮弯曲疲劳强度";
+            }
+
+            if (_calculator.SF2 < minFactor)
+            {
+                item = "大齿轮弯曲疲劳强度";
+            }
+
+            return item;
+        }
+
+        private void CopyEngineeringReport()
+        {
+            if (string.IsNullOrWhiteSpace(_lastEngineeringReport))
+            {
+                return;
+            }
+
+            try
+            {
+                Clipboard.SetText(_lastEngineeringReport);
+                MessageBox.Show("齿轮设计报告已复制。", "已复制", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("复制失败: " + ex.Message, "提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+
+        private void SaveEngineeringReport()
+        {
+            if (string.IsNullOrWhiteSpace(_lastEngineeringReport))
+            {
+                return;
+            }
+
+            using (var dialog = new SaveFileDialog())
+            {
+                dialog.Filter = "文本报告 (*.txt)|*.txt";
+                dialog.FileName = "齿轮设计工程报告.txt";
+                if (dialog.ShowDialog(this) != DialogResult.OK)
+                {
+                    return;
+                }
+
+                try
+                {
+                    System.IO.File.WriteAllText(dialog.FileName, _lastEngineeringReport, Encoding.UTF8);
+                    MessageBox.Show("齿轮设计报告已导出。", "导出成功", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("导出失败: " + ex.Message, "提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
+            }
         }
     }
 }

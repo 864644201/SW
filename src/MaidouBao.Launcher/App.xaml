@@ -4,21 +4,23 @@
              StartupUri="MainWindow.xaml">
     <Application.Resources>
         <Style TargetType="Button" x:Key="ModuleButton">
-            <Setter Property="Width" Value="120"/>
-            <Setter Property="Height" Value="80"/>
+            <Setter Property="Width" Value="180"/>
+            <Setter Property="Height" Value="118"/>
             <Setter Property="Margin" Value="8"/>
             <Setter Property="FontSize" Value="12"/>
+            <Setter Property="Padding" Value="14"/>
             <Setter Property="Cursor" Value="Hand"/>
             <Setter Property="Template">
                 <Setter.Value>
                     <ControlTemplate TargetType="Button">
-                        <Border x:Name="border" Background="#FF4A90D9" CornerRadius="8"
+                        <Border x:Name="border" Background="#FF4A90D9" CornerRadius="10"
                                 BorderBrush="#FF357ABD" BorderThickness="1">
-                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            <ContentPresenter HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="{TemplateBinding Padding}"/>
                         </Border>
                         <ControlTemplate.Triggers>
                             <Trigger Property="IsMouseOver" Value="True">
                                 <Setter TargetName="border" Property="Background" Value="#FF5BA0E9"/>
+                                <Setter TargetName="border" Property="BorderBrush" Value="#FF2568B8"/>
                             </Trigger>
                             <Trigger Property="IsPressed" Value="True">
                                 <Setter TargetName="border" Property="Background" Value="#FF3A80C9"/>

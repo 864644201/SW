@@ -753,11 +753,12 @@ namespace MDSolids
             this.Controls.Add(this.tabControl);
             this.Controls.Add(this.statusStrip);
             this.Font = new Font("Microsoft YaHei", 9F);
-            this.FormBorderStyle = FormBorderStyle.FixedSingle;
-            this.MaximizeBox = false;
+            this.FormBorderStyle = FormBorderStyle.Sizable;
+            this.MaximizeBox = true;
             this.Name = "MainForm";
             this.StartPosition = FormStartPosition.CenterScreen;
             this.Text = "力学分析";
+            this.WindowState = FormWindowState.Maximized;
 
             this.tabControl.ResumeLayout(false);
             this.tabBending.ResumeLayout(false);

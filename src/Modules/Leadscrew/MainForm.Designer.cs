@@ -283,10 +283,11 @@ namespace Leadscrew
             this.Controls.Add(this.grpResult);
             this.Controls.Add(this.grpStatus);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.MaximizeBox = false;
+            this.MaximizeBox = true;
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "丝杠设计计算";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
 
             this.grpInput.ResumeLayout(false);
             this.grpInput.PerformLayout();

@@ -28,6 +28,7 @@ namespace CamDesign
             this.Name = "MainForm";
             this.Text = "迈迪凸轮设计系统";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.MainForm_Load);
 
             // ============================================

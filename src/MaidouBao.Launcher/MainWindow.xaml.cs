@@ -14,6 +14,7 @@ namespace MaidouBao.Launcher
         private string _dataDir;
         private string _toolsDir;
         private List<PluginInfo> _plugins;
+        private List<PluginInfo> _allModuleEntries;
         private List<CustomToolEntry> _customTools;
         private string _customToolsFile;
 
@@ -37,33 +38,19 @@ namespace MaidouBao.Launcher
         private void LoadAllPlugins()
         {
             _plugins = PluginManager.LoadPlugins(_dataDir);
-            designToolsPanel.Children.Clear();
-            draftingToolsPanel.Children.Clear();
-            commonToolsPanel.Children.Clear();
+            _allModuleEntries = new List<PluginInfo>();
 
             foreach (var plugin in _plugins)
             {
-                var btn = CreateModuleButton(plugin);
-                switch (plugin.ClassId)
-                {
-                    case "2090_2219_2221":
-                        designToolsPanel.Children.Add(btn);
-                        break;
-                    case "2090_2219_2222":
-                        draftingToolsPanel.Children.Add(btn);
-                        break;
-                    case "2090_2219_2223":
-                    default:
-                        commonToolsPanel.Children.Add(btn);
-                        break;
-                }
+                _allModuleEntries.Add(plugin);
             }
 
-            ScanStandaloneModules("设计工具", designToolsPanel);
-            ScanStandaloneModules("二维工具", draftingToolsPanel);
-            ScanStandaloneModules("常用工具", commonToolsPanel);
+            ScanStandaloneModules("设计工具");
+            ScanStandaloneModules("二维工具");
+            ScanStandaloneModules("常用工具");
+            ScanStandaloneModules("表格工具大全");
 
-            statusText.Text = $"已加载 {_plugins.Count} 个模块";
+            RenderModuleTabs();
         }
 
         private Button CreateModuleButton(PluginInfo plugin)
@@ -72,16 +59,46 @@ namespace MaidouBao.Launcher
             {
                 Style = (Style)FindResource("ModuleButton"),
                 Tag = plugin,
-                Content = new TextBlock
+                Content = new StackPanel
                 {
-                    Text = plugin.Name,
-                    TextWrapping = TextWrapping.Wrap,
-                    TextAlignment = TextAlignment.Center,
-                    Foreground = Brushes.White
+                    Children =
+                    {
+                        new TextBlock
+                        {
+                            Text = plugin.Name,
+                            TextWrapping = TextWrapping.Wrap,
+                            TextAlignment = TextAlignment.Left,
+                            Foreground = Brushes.White,
+                            FontSize = 15,
+                            FontWeight = FontWeights.Bold
+                        },
+                        new TextBlock
+                        {
+                            Text = plugin.Explain ?? "点击启动模块",
+                            TextWrapping = TextWrapping.Wrap,
+                            TextAlignment = TextAlignment.Left,
+                            Foreground = new SolidColorBrush(Color.FromRgb(230, 240, 250)),
+                            FontSize = 11,
+                            Margin = new Thickness(0, 8, 0, 6),
+                            MaxHeight = 34
+                        },
+                        new TextBlock
+                        {
+                            Text = "单击启动  |  右键打开目录",
+                            TextAlignment = TextAlignment.Left,
+                            Foreground = new SolidColorBrush(Color.FromRgb(210, 225, 240)),
+                            FontSize = 10
+                        }
+                    }
                 }
             };
             btn.Click += ModuleButton_Click;
             ToolTipService.SetToolTip(btn, plugin.Explain ?? plugin.Name);
+            var menu = new ContextMenu();
+            var openFolderItem = new MenuItem { Header = "打开模块目录" };
+            openFolderItem.Click += (sender, args) => OpenModuleFolder(plugin);
+            menu.Items.Add(openFolderItem);
+            btn.ContextMenu = menu;
             return btn;
         }
 
@@ -142,7 +159,25 @@ namespace MaidouBao.Launcher
             }
         }
 
-        private void ScanStandaloneModules(string category, WrapPanel panel)
+        private void OpenModuleFolder(PluginInfo plugin)
+        {
+            string moduleDir = plugin.DirPath ?? Path.Combine(_dataDir, plugin.Name);
+            if (!Directory.Exists(moduleDir))
+            {
+                MessageBox.Show($"找不到模块目录: {plugin.Name}", "打开失败",
+                    MessageBoxButton.OK, MessageBoxImage.Warning);
+                return;
+            }
+
+            Process.Start(new ProcessStartInfo
+            {
+                FileName = moduleDir,
+                UseShellExecute = true
+            });
+            statusText.Text = $"已打开目录: {plugin.Name}";
+        }
+
+        private void ScanStandaloneModules(string category)
         {
             if (!Directory.Exists(_dataDir)) return;
 
@@ -171,9 +206,80 @@ namespace MaidouBao.Launcher
                     Explain = dirName
                 };
 
-                var btn = CreateModuleButton(plugin);
-                panel.Children.Add(btn);
+                if (category == "表格工具大全")
+                {
+                    plugin.ClassId = "2090_2219_2224";
+                }
+
+                _allModuleEntries.Add(plugin);
             }
+        }
+
+        private void RenderModuleTabs()
+        {
+            designToolsPanel.Children.Clear();
+            draftingToolsPanel.Children.Clear();
+            commonToolsPanel.Children.Clear();
+            tableToolsPanel.Children.Clear();
+
+            string keyword = moduleSearchBox?.Text?.Trim();
+            int visibleCount = 0;
+
+            foreach (var plugin in _allModuleEntries)
+            {
+                if (!IsModuleMatched(plugin, keyword))
+                {
+                    continue;
+                }
+
+                visibleCount++;
+                var btn = CreateModuleButton(plugin);
+                switch (plugin.ClassId)
+                {
+                    case "2090_2219_2221":
+                        designToolsPanel.Children.Add(btn);
+                        break;
+                    case "2090_2219_2222":
+                        draftingToolsPanel.Children.Add(btn);
+                        break;
+                    case "2090_2219_2223":
+                        commonToolsPanel.Children.Add(btn);
+                        break;
+                    case "2090_2219_2224":
+                        tableToolsPanel.Children.Add(btn);
+                        break;
+                    default:
+                        commonToolsPanel.Children.Add(btn);
+                        break;
+                }
+            }
+
+            moduleSummaryText.Text = $"自研模块 {_allModuleEntries.Count} 个，当前显示 {visibleCount} 个";
+            statusText.Text = string.IsNullOrWhiteSpace(keyword)
+                ? $"已加载 {_allModuleEntries.Count} 个模块"
+                : $"搜索“{keyword}”得到 {visibleCount} 个模块";
+        }
+
+        private static bool IsModuleMatched(PluginInfo plugin, string keyword)
+        {
+            if (string.IsNullOrWhiteSpace(keyword))
+            {
+                return true;
+            }
+
+            return (plugin.Name?.IndexOf(keyword, StringComparison.OrdinalIgnoreCase) ?? -1) >= 0 ||
+                   (plugin.Explain?.IndexOf(keyword, StringComparison.OrdinalIgnoreCase) ?? -1) >= 0;
+        }
+
+        private void ModuleSearchBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            if (_allModuleEntries == null) return;
+            RenderModuleTabs();
+        }
+
+        private void BtnRefreshModules_Click(object sender, RoutedEventArgs e)
+        {
+            LoadAllPlugins();
         }
 
         // ========== 大国工匠 - 自定义工具 ==========

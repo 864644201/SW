@@ -489,6 +489,7 @@ namespace GearDesign
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "圆柱齿轮设计 - 麦豆宝";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
 
             this.groupBoxInput.ResumeLayout(false);
             this.groupBoxInput.PerformLayout();

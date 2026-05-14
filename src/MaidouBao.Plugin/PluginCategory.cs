@@ -18,6 +18,11 @@ namespace MaidouBao.Plugin
         /// <summary>
         /// 常用工具，分类标识 2090_2219_2223，软键前缀 04xx。
         /// </summary>
-        CommonTools = 3
+        CommonTools = 3,
+
+        /// <summary>
+        /// 表格工具大全，分类标识 2090_2219_2224。
+        /// </summary>
+        TableTools = 4
     }
 }

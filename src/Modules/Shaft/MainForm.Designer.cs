@@ -540,6 +540,7 @@ namespace ShaftDesign
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "轴设计 - 麦豆宝";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
 
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerMain)).EndInit();
             this.splitContainerMain.Panel1.ResumeLayout(false);

@@ -10,6 +10,8 @@ namespace ShaftDesign
     {
         private readonly ShaftCalculator _calculator;
         private List<ShaftMaterial> _materials;
+        private Label _estimateSummaryLabel;
+        private string _lastEngineeringReport = string.Empty;
 
         public MainForm()
         {
@@ -18,6 +20,7 @@ namespace ShaftDesign
             _materials = ShaftMaterial.GetDefaultMaterials();
             InitMaterialCombo();
             LoadDefaultData();
+            InitializeReportUi();
         }
 
         private void InitMaterialCombo()
@@ -98,6 +101,8 @@ namespace ShaftDesign
             dgvStrength.Rows.Clear();
             dgvFatigue.Rows.Clear();
             toolStripStatusLabel.Text = "已重置";
+            _estimateSummaryLabel.Text = "";
+            _lastEngineeringReport = string.Empty;
         }
 
         private void BtnCalculate_Click(object sender, EventArgs e)
@@ -297,6 +302,8 @@ namespace ShaftDesign
                     }
                 }
 
+                var sectionResults = new List<SectionResult>();
+
                 // 对每个零件位置进行校核
                 foreach (var comp in components)
                 {
@@ -315,6 +322,8 @@ namespace ShaftDesign
 
                     result.Position = comp.Position;
                     result.Description = comp.Name;
+                    result.Diameter = comp.Diameter;
+                    sectionResults.Add(result);
 
                     // 强度校核表格
                     int rowIdx = dgvStrength.Rows.Add(
@@ -366,6 +375,10 @@ namespace ShaftDesign
                     }
                 }
 
+                AppendEngineeringSummary(sb, sectionResults, material, dStandard, torqueNm, bmd, leftBearingPos, rightBearingPos, loads);
+                txtEstimateResult.Text = sb.ToString();
+                _lastEngineeringReport = sb.ToString();
+
                 // 默认显示强度校核页
                 tabControlResults.SelectedTab = tabStrength;
                 toolStripStatusLabel.Text = "计算完成";
@@ -413,6 +426,179 @@ namespace ShaftDesign
             if (double.TryParse(value.ToString(), out result))
                 return result;
             return 0;
+        }
+
+        private void InitializeReportUi()
+        {
+            var toolbar = new Panel { Dock = DockStyle.Top, Height = 36 };
+            var btnSave = new Button { Text = "导出报告", Width = 88, Height = 28, Dock = DockStyle.Right };
+            var btnCopy = new Button { Text = "复制报告", Width = 88, Height = 28, Dock = DockStyle.Right };
+            btnCopy.Click += (sender, args) => CopyEngineeringReport();
+            btnSave.Click += (sender, args) => SaveEngineeringReport();
+            toolbar.Controls.Add(btnSave);
+            toolbar.Controls.Add(btnCopy);
+
+            _estimateSummaryLabel = new Label
+            {
+                Dock = DockStyle.Top,
+                Height = 72,
+                Padding = new Padding(4, 6, 4, 6),
+                Font = new Font("Microsoft YaHei", 9F, FontStyle.Bold),
+                ForeColor = Color.FromArgb(25, 76, 125),
+                BackColor = Color.FromArgb(240, 247, 255),
+                TextAlign = ContentAlignment.MiddleLeft
+            };
+
+            tabEstimate.Controls.Add(_estimateSummaryLabel);
+            tabEstimate.Controls.Add(toolbar);
+        }
+
+        private void AppendEngineeringSummary(
+            StringBuilder sb,
+            List<SectionResult> sectionResults,
+            ShaftMaterial material,
+            double dStandard,
+            double torqueNm,
+            BendingMomentDiagram bmd,
+            double leftBearingPos,
+            double rightBearingPos,
+            List<ShaftLoad> loads)
+        {
+            SectionResult weakestStatic = null;
+            SectionResult weakestFatigue = null;
+
+            foreach (SectionResult result in sectionResults)
+            {
+                if (weakestStatic == null || result.SafetyFactor < weakestStatic.SafetyFactor)
+                {
+                    weakestStatic = result;
+                }
+
+                if (weakestFatigue == null || result.FatigueSafetyFactorS < weakestFatigue.FatigueSafetyFactorS)
+                {
+                    weakestFatigue = result;
+                }
+            }
+
+            bool strengthOk = weakestStatic == null || weakestStatic.PassesStrengthCheck;
+            bool fatigueOk = weakestFatigue == null || weakestFatigue.PassesFatigueCheck;
+            double recommendedDiameter = weakestStatic == null || weakestStatic.SafetyFactor <= 0
+                ? dStandard
+                : weakestStatic.Diameter * Math.Pow(_calculator.AllowableSafetyFactor / Math.Max(weakestStatic.SafetyFactor, 0.01), 1.0 / 3.0);
+            bool hasOutsideSpanLoad = false;
+            foreach (ShaftLoad load in loads)
+            {
+                if (load.Position < leftBearingPos || load.Position > rightBearingPos)
+                {
+                    hasOutsideSpanLoad = true;
+                    break;
+                }
+            }
+
+            sb.AppendLine();
+            sb.AppendLine("========== 工程结论 ==========");
+            sb.AppendLine();
+            sb.AppendLine($"材料: {material.Name}");
+            sb.AppendLine($"标准圆整轴径建议: {dStandard:F0} mm");
+            sb.AppendLine($"传递扭矩: {torqueNm:F0} N.mm");
+            if (bmd != null)
+            {
+                sb.AppendLine($"最大合成弯矩: {bmd.MaxMoment:F0} N.mm @ {bmd.MaxMomentPosition:F1} mm");
+            }
+            sb.AppendLine($"静强度结论: {(strengthOk ? "通过" : "未通过")}");
+            sb.AppendLine($"疲劳结论: {(fatigueOk ? "通过" : "未通过")}");
+
+            if (weakestStatic != null)
+            {
+                sb.AppendLine($"控制截面(静强度): {weakestStatic.Description} @ {weakestStatic.Position:F1} mm, n = {weakestStatic.SafetyFactor:F2}");
+            }
+
+            if (weakestFatigue != null)
+            {
+                sb.AppendLine($"控制截面(疲劳): {weakestFatigue.Description} @ {weakestFatigue.Position:F1} mm, S = {weakestFatigue.FatigueSafetyFactorS:F2}");
+            }
+
+            sb.AppendLine();
+            sb.AppendLine("工程建议:");
+            if (!strengthOk && weakestStatic != null)
+            {
+                sb.AppendLine($"- 静强度不足，优先把 {weakestStatic.Description} 截面由 {weakestStatic.Diameter:F1} mm 增大到不小于 {Math.Ceiling(recommendedDiameter / 5.0) * 5:F0} mm。");
+            }
+            else
+            {
+                sb.AppendLine("- 静强度满足要求，可继续进行轴肩、键连接和配合尺寸细化。");
+            }
+
+            if (!fatigueOk && weakestFatigue != null)
+            {
+                sb.AppendLine("- 疲劳安全系数偏低，建议优化过渡圆角、降低表面粗糙度，并重点检查键槽与轴肩处应力集中。");
+            }
+            else
+            {
+                sb.AppendLine("- 疲劳校核通过，若用于连续运转设备，仍建议复核制造误差与装配偏载。");
+            }
+
+            if (hasOutsideSpanLoad)
+            {
+                sb.AppendLine("- 部分载荷位于两轴承跨距之外，简支梁模型会低估实际局部危险，建议单独复核外伸段。");
+            }
+
+            if (Math.Abs(recommendedDiameter - dStandard) <= 2.5)
+            {
+                sb.AppendLine("- 当前标准圆整轴径与安全需求接近，说明初估值具有较好的工程可实施性。");
+            }
+
+            _estimateSummaryLabel.Text =
+                $"结论：静强度{(strengthOk ? "通过" : "偏紧")}，疲劳{(fatigueOk ? "通过" : "偏紧")}。" + Environment.NewLine +
+                (weakestStatic == null
+                    ? "请补充有效截面后再生成结论。"
+                    : $"控制截面为 {weakestStatic.Description} @ {weakestStatic.Position:F1} mm，建议重点关注轴肩/键槽细节。");
+        }
+
+        private void CopyEngineeringReport()
+        {
+            if (string.IsNullOrWhiteSpace(_lastEngineeringReport))
+            {
+                return;
+            }
+
+            try
+            {
+                Clipboard.SetText(_lastEngineeringReport);
+                MessageBox.Show("轴设计报告已复制。", "已复制", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("复制失败: " + ex.Message, "提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+        }
+
+        private void SaveEngineeringReport()
+        {
+            if (string.IsNullOrWhiteSpace(_lastEngineeringReport))
+            {
+                return;
+            }
+
+            using (var dialog = new SaveFileDialog())
+            {
+                dialog.Filter = "文本报告 (*.txt)|*.txt";
+                dialog.FileName = "轴设计工程报告.txt";
+                if (dialog.ShowDialog(this) != DialogResult.OK)
+                {
+                    return;
+                }
+
+                try
+                {
+                    System.IO.File.WriteAllText(dialog.FileName, _lastEngineeringReport, Encoding.UTF8);
+                    MessageBox.Show("轴设计报告已导出。", "导出成功", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("导出失败: " + ex.Message, "提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
+            }
         }
     }
 }

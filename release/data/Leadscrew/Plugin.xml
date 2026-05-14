@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Plugin>
   <name>丝杠设计</name>
-  <explain>梯形锯齿滚珠丝杠设计</explain>
+  <explain>滚珠丝杠选型计算</explain>
   <classid>2090_2219_2221</classid>
   <startexe>Leadscrew.exe</startexe>
   <version>2.0</version>
