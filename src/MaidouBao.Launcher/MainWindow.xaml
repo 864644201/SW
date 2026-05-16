@@ -40,6 +40,11 @@
             </Grid>
         </Border>
 
+        <!-- 搜索结果视图（搜索时显示，隐藏 TabControl） -->
+        <ScrollViewer Grid.Row="2" Margin="10" VerticalScrollBarVisibility="Auto" x:Name="searchResultScroll" Visibility="Collapsed">
+            <StackPanel x:Name="searchResultPanel" Margin="4"/>
+        </ScrollViewer>
+
         <!-- Tab Control for Categories -->
         <TabControl Grid.Row="2" Margin="10" x:Name="tabControl">
             <!-- 设计工具 -->
@@ -50,30 +55,6 @@
                     </Border>
                     <ScrollViewer VerticalScrollBarVisibility="Auto">
                         <WrapPanel x:Name="designToolsPanel" Margin="10"/>
-                    </ScrollViewer>
-                </DockPanel>
-            </TabItem>
-
-            <!-- 二维工具 -->
-            <TabItem Header="二维工具">
-                <DockPanel>
-                    <Border DockPanel.Dock="Top" Background="#FFF4F8FC" Padding="14,10" BorderBrush="#FFE2E8EF" BorderThickness="0,0,0,1">
-                        <TextBlock Text="工程图、公差和模板相关工具，适合批量处理与校核场景。" Foreground="#FF5C6E7E" TextWrapping="Wrap"/>
-                    </Border>
-                    <ScrollViewer VerticalScrollBarVisibility="Auto">
-                        <WrapPanel x:Name="draftingToolsPanel" Margin="10"/>
-                    </ScrollViewer>
-                </DockPanel>
-            </TabItem>
-
-            <!-- 常用工具 -->
-            <TabItem Header="常用工具">
-                <DockPanel>
-                    <Border DockPanel.Dock="Top" Background="#FFF4F8FC" Padding="14,10" BorderBrush="#FFE2E8EF" BorderThickness="0,0,0,1">
-                        <TextBlock Text="高频辅助工具区，集中放常用批处理、属性、BOM 和文件工具。" Foreground="#FF5C6E7E" TextWrapping="Wrap"/>
-                    </Border>
-                    <ScrollViewer VerticalScrollBarVisibility="Auto">
-                        <WrapPanel x:Name="commonToolsPanel" Margin="10"/>
                     </ScrollViewer>
                 </DockPanel>
             </TabItem>
@@ -90,6 +71,28 @@
                     </Border>
                     <ScrollViewer VerticalScrollBarVisibility="Auto">
                         <WrapPanel x:Name="tableToolsPanel" Margin="10"/>
+                    </ScrollViewer>
+                </DockPanel>
+            </TabItem>
+
+            <!-- 书籍资料 -->
+            <TabItem Header="书籍资料">
+                <DockPanel>
+                    <Border DockPanel.Dock="Top" Background="#FFF4F8FC" Padding="14,10" BorderBrush="#FFE2E8EF" BorderThickness="0,0,0,1">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="自动扫描 books 目录下的文档文件，点击直接打开。支持 PDF/CHM/EPUB/TXT/DOC 等格式。" Foreground="#FF5C6E7E" VerticalAlignment="Center"/>
+                            <Button Content="刷新" Click="BtnRefreshBooks_Click" Padding="12,4" Margin="16,0,0,0"/>
+                            <TextBlock x:Name="booksHint" Text="将书籍文件放入 books 文件夹可自动显示" VerticalAlignment="Center" FontSize="11" Foreground="#FF888888" Margin="16,0,0,0"/>
+                        </StackPanel>
+                    </Border>
+                    <Border DockPanel.Dock="Top" Padding="10,6" BorderBrush="#FFE2E8EF" BorderThickness="0,0,0,1">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="分类:" VerticalAlignment="Center" FontWeight="Bold" Foreground="#FF5C6E7E" Margin="0,0,8,0"/>
+                            <WrapPanel x:Name="bookCategoryBar"/>
+                        </StackPanel>
+                    </Border>
+                    <ScrollViewer VerticalScrollBarVisibility="Auto">
+                        <WrapPanel x:Name="booksPanel" Margin="10"/>
                     </ScrollViewer>
                 </DockPanel>
             </TabItem>

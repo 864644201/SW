@@ -47,6 +47,7 @@ namespace SectionProfileTool
         private SplitContainer _mainSplit;
 
         private CalculationResult _result;
+        private CalculationInput _lastInput;
         private double _animatedSag;
         private bool _isInitializing;
         private bool _isUpdatingPositionControls;
@@ -380,6 +381,7 @@ namespace SectionProfileTool
                 Dimension3 = (double)_dim3Input.Value,
                 SelectedSpec = _specCombo.SelectedItem as SectionSpec
             };
+            _lastInput = input;
 
             _result = SectionProfileCalculator.Calculate(input);
             _sectionPreview.CategoryKey = input.CategoryKey;
@@ -955,35 +957,205 @@ namespace SectionProfileTool
             }
 
             var builder = new StringBuilder();
-            builder.AppendLine("========== 型材工具工程结论 ==========");
-            builder.AppendLine($"截面: {BuildCurrentProfileDescriptor()}");
-            builder.AppendLine($"姿态: {SelectedOrientation.Value}");
-            builder.AppendLine($"支撑: {SelectedSupport.Value}");
-            builder.AppendLine($"材料: {SelectedMaterial.Value}");
-            builder.AppendLine($"跨度 L: {_lengthInput.Value:F2} m");
-            builder.AppendLine($"载荷点 a: {_positionInput.Value:F2} m ({_positionPercentInput.Value:F1}%)");
-            builder.AppendLine($"载荷 P: {_loadInput.Value:F0} kg");
-            builder.AppendLine();
-            builder.AppendLine($"此点位破坏载荷: {_result.BreakingLoadKg:N0} kg");
-            builder.AppendLine($"建议安全载荷: {_result.SafeLoadKg:N0} kg");
-            builder.AppendLine($"实际挠度: {_result.ActualDeflectionMm:F2} mm");
-            builder.AppendLine($"许用挠度: {_result.AllowableDeflectionMm:F2} mm");
-            builder.AppendLine($"最大正应力: {_result.StressMpa:F1} MPa");
-            builder.AppendLine($"应力饱和度: {_result.StressRatio * 100:F1}%");
-            builder.AppendLine($"惯性矩: {_result.InertiaMm4 / 10000.0:F1} cm4");
-            builder.AppendLine();
-            builder.AppendLine("工程判断:");
-            builder.AppendLine(_result.StatusText);
+            string line = new string('=', 56);
+            string thinLine = new string('-', 56);
 
+            // ===== 报告头 =====
+            builder.AppendLine(line);
+            builder.AppendLine("        型 材 工 具 工 程 结 论 报 告");
+            builder.AppendLine("        Section Profile Engineering Report");
+            builder.AppendLine(line);
+            builder.AppendLine($"报告日期: {DateTime.Now:yyyy-MM-dd HH:mm:ss}");
+            builder.AppendLine($"软件版本: 麦豆宝型材工具 v2.0");
+            builder.AppendLine(thinLine);
+
+            // ===== 一、工况参数 =====
+            builder.AppendLine();
+            builder.AppendLine("【一、工况参数 Input Parameters】");
+            builder.AppendLine();
+            builder.AppendLine($"  型材截面:  {BuildCurrentProfileDescriptor()}");
+            builder.AppendLine($"  摆放姿态:  {SelectedOrientation.Value}");
+            builder.AppendLine($"  支撑条件:  {SelectedSupport.Value}");
+            builder.AppendLine($"  材料牌号:  {SelectedMaterial.Value}  (屈服强度 {SelectedMaterial.Key:F0} MPa)");
+            builder.AppendLine($"  受力跨度:  L = {_lengthInput.Value:F2} m");
+            builder.AppendLine($"  载荷位置:  a = {_positionInput.Value:F2} m  (距左端 {_positionPercentInput.Value:F1}%)");
+            builder.AppendLine($"  施加载荷:  P = {_loadInput.Value:F0} kg  ({(double)_loadInput.Value * 9.8 / 1000:F2} kN)");
+
+            // ===== 二、截面力学参数 =====
+            builder.AppendLine();
+            builder.AppendLine(thinLine);
+            builder.AppendLine("【二、截面力学参数 Section Properties】");
+            builder.AppendLine();
+            builder.AppendLine($"  惯性矩 Ix:    {_result.InertiaMm4 / 10000.0:F2} cm4  ({_result.InertiaMm4:F0} mm4)");
+            builder.AppendLine($"  抗弯截面模量 W: {_result.SectionModulusMm3 / 1000.0:F2} cm3  ({_result.SectionModulusMm3:F0} mm3)");
+
+            // ===== 三、强度校核 =====
+            builder.AppendLine();
+            builder.AppendLine(thinLine);
+            builder.AppendLine("【三、强度校核 Strength Check】");
+            builder.AppendLine();
+            builder.AppendLine($"  极限破坏载荷:  {_result.BreakingLoadKg:N0} kg  ({_result.BreakingLoadKg * 9.8 / 1000:F2} kN)");
+            builder.AppendLine($"  建议安全载荷:  {_result.SafeLoadKg:N0} kg  (安全系数 K = 1.5)");
+            builder.AppendLine($"  最大弯曲正应力: σ = {_result.StressMpa:F2} MPa");
+            builder.AppendLine($"  材料屈服强度:  fy = {SelectedMaterial.Key:F0} MPa");
+            builder.AppendLine($"  应力饱和度:    σ/fy = {_result.StressRatio * 100:F1}%");
+            string stressVerdict;
+            if (_result.StressRatio >= 1.0)
+                stressVerdict = "  ▶ 强度判定:  ❌ 不合格 — 应力已超过屈服强度，结构将发生塑性破坏";
+            else if (_result.StressRatio >= 0.8)
+                stressVerdict = "  ▶ 强度判定:  ⚠ 勉强 — 应力接近屈服极限，安全裕度不足";
+            else if (_result.StressRatio >= 0.6)
+                stressVerdict = "  ▶ 强度判定:  △ 一般 — 应力在允许范围内，但裕量偏小";
+            else
+                stressVerdict = "  ▶ 强度判定:  ✔ 合格 — 应力水平较低，安全裕量充足";
+            builder.AppendLine(stressVerdict);
+
+            // ===== 四、刚度校核 =====
+            builder.AppendLine();
+            builder.AppendLine(thinLine);
+            builder.AppendLine("【四、刚度校核 Deflection Check】");
+            builder.AppendLine();
+            string deflectionLimit = SelectedSupport.Key == "cantilever" ? "L/150" : "L/250";
+            builder.AppendLine($"  挠度控制标准:  {deflectionLimit} = {_result.AllowableDeflectionMm:F2} mm");
+            builder.AppendLine($"  实际计算挠度:  δ = {_result.ActualDeflectionMm:F2} mm");
+            double deflectionRatio = _result.AllowableDeflectionMm > 0 ? _result.ActualDeflectionMm / _result.AllowableDeflectionMm : 0;
+            builder.AppendLine($"  挠度饱和度:    δ/δlim = {deflectionRatio * 100:F1}%");
+            string deflectionVerdict;
+            if (deflectionRatio >= 1.0)
+                deflectionVerdict = "  ▶ 刚度判定:  ❌ 不合格 — 挠度超出许用值，结构变形过大";
+            else if (deflectionRatio >= 0.8)
+                deflectionVerdict = "  ▶ 刚度判定:  ⚠ 勉强 — 挠度接近限值，可能影响使用功能";
+            else if (deflectionRatio >= 0.6)
+                deflectionVerdict = "  ▶ 刚度判定:  △ 一般 — 挠度在允许范围内，但变形较明显";
+            else
+                deflectionVerdict = "  ▶ 刚度判定:  ✔ 合格 — 挠度较小，结构刚度良好";
+            builder.AppendLine(deflectionVerdict);
+
+            // ===== 五、工程综合判断 =====
+            builder.AppendLine();
+            builder.AppendLine(thinLine);
+            builder.AppendLine("【五、工程综合判断 Engineering Judgment】");
+            builder.AppendLine();
+            builder.AppendLine($"  {_result.StatusText}");
+
+            // ===== 六、结构可靠性评估 =====
+            builder.AppendLine();
+            builder.AppendLine(thinLine);
+            builder.AppendLine("【六、结构可靠性评估 Structural Reliability Assessment】");
+            builder.AppendLine();
+
+            // 综合评估
+            bool stressOk = _result.StressRatio < 1.0;
+            bool deflectionOk = deflectionRatio < 1.0;
+            bool stressGood = _result.StressRatio < 0.6;
+            bool deflectionGood = deflectionRatio < 0.6;
+            bool stressMarginal = _result.StressRatio >= 0.8;
+            bool deflectionMarginal = deflectionRatio >= 0.8;
+
+            string reliabilityGrade;
+            string reliabilityConclusion;
+            string[] reliabilityDetails;
+
+            if (!stressOk || !deflectionOk)
+            {
+                reliabilityGrade = "不可靠 (NOT RELIABLE)";
+                reliabilityConclusion = "该结构在当前工况下不满足强度或刚度要求，存在失效风险，不可投入使用。";
+                reliabilityDetails = new[]
+                {
+                    !stressOk ? "弯曲应力已超过材料屈服强度，截面将发生塑性破坏。" : "挠度超出许用限值，结构变形不满足使用要求。",
+                    "建议：更换更大截面规格、缩短跨度、降低载荷或改用更高强度材料。"
+                };
+            }
+            else if (stressMarginal || deflectionMarginal)
+            {
+                reliabilityGrade = "可靠性不足 (MARGINAL)";
+                reliabilityConclusion = "该结构虽未失效，但安全裕量偏小，在动载荷、冲击或长期疲劳工况下存在隐患。";
+                reliabilityDetails = new[]
+                {
+                    stressMarginal ? $"应力饱和度达 {_result.StressRatio * 100:F0}%，安全储备不足。" : $"挠度饱和度达 {deflectionRatio * 100:F0}%，变形余量偏小。",
+                    "建议：适当加大截面规格以提高安全裕量，或在设计中增加约束条件。"
+                };
+            }
+            else if (stressGood && deflectionGood)
+            {
+                reliabilityGrade = "可靠 (RELIABLE)";
+                reliabilityConclusion = "该结构在当前工况下强度与刚度均满足要求，安全裕量充足，可放心使用。";
+                reliabilityDetails = new[]
+                {
+                    $"强度裕量: {(1.0 - _result.StressRatio) * 100:F0}%  |  刚度裕量: {(1.0 - deflectionRatio) * 100:F0}%",
+                    "各项指标均处于安全区间，结构设计合理。"
+                };
+            }
+            else
+            {
+                reliabilityGrade = "基本可靠 (ACCEPTABLE)";
+                reliabilityConclusion = "该结构在当前工况下满足强度与刚度要求，但安全裕量一般，建议关注长期使用工况。";
+                reliabilityDetails = new[]
+                {
+                    $"强度裕量: {(1.0 - _result.StressRatio) * 100:F0}%  |  刚度裕量: {(1.0 - deflectionRatio) * 100:F0}%",
+                    "满足静力工况要求，若存在动载荷或疲劳工况，建议进一步校核。"
+                };
+            }
+
+            builder.AppendLine($"  ★ 综合评级:  {reliabilityGrade}");
+            builder.AppendLine();
+            builder.AppendLine($"  {reliabilityConclusion}");
+            builder.AppendLine();
+            foreach (var detail in reliabilityDetails)
+            {
+                builder.AppendLine($"  - {detail}");
+            }
+
+            // 评估依据
+            builder.AppendLine();
+            builder.AppendLine("  评估依据:");
+            builder.AppendLine($"    强度准则: σ ≤ fy/K, K=1.5 (安全系数)");
+            builder.AppendLine($"    刚度准则: δ ≤ {deflectionLimit} (GB 50017 钢结构设计标准)");
+            builder.AppendLine($"    材料弹性模量: E = 206,000 MPa (钢材)");
+
+            // ===== 七、计算依据与标准 =====
+            builder.AppendLine();
+            builder.AppendLine(thinLine);
+            builder.AppendLine("【七、计算依据与标准 Calculation Basis & Standards】");
+            builder.AppendLine();
+            builder.AppendLine("  引用标准:");
+            builder.AppendLine("    GB 50017-2017  《钢结构设计标准》— 挠度限值、强度验算、安全系数取值依据");
+            builder.AppendLine("    GB 50009-2012  《建筑结构荷载规范》— 荷载组合与分项系数");
+            builder.AppendLine("    GB 50018-2002  《冷弯薄壁型钢结构技术规范》— 冷弯型材截面特性与设计规定");
+            builder.AppendLine("    GB/T 11263-2017 《热轧H型钢和剖分T型钢》— H型钢截面规格与力学参数");
+            builder.AppendLine("    GB/T 6728-2017  《结构用冷弯空心型钢》— 方管/矩管截面规格");
+            builder.AppendLine("    GB/T 700-2006   《碳素结构钢》— Q235 等材料力学性能");
+            builder.AppendLine("    GB/T 1591-2018  《低合金高强度结构钢》— Q345 等材料力学性能");
+            builder.AppendLine();
+            builder.AppendLine("  计算公式:");
+            builder.AppendLine("    弯曲正应力: σ = M / W = P·a·b / (L·W)  (简支梁集中载荷)");
+            builder.AppendLine($"    挠度计算:   δ = P·a²·b² / (3·E·I·L)  (简支梁集中载荷) — 许用值: {deflectionLimit}");
+            builder.AppendLine($"    安全系数:   K = 1.5 (静载荷工况, 依据 GB 50017-2017 第 3.3 节)");
+            builder.AppendLine($"    弹性模量:   E = 206,000 MPa (钢材标准值)");
+            builder.AppendLine($"    屈服强度:   fy = {SelectedMaterial.Key:F0} MPa ({SelectedMaterial.Value})");
+
+            // ===== 八、推荐截面 =====
             if (_result.Recommendations.Length > 0)
             {
                 builder.AppendLine();
-                builder.AppendLine("推荐截面:");
-                foreach (Recommendation recommendation in _result.Recommendations)
+                builder.AppendLine(thinLine);
+                builder.AppendLine("【八、推荐替代截面 Recommended Alternatives】");
+                builder.AppendLine();
+                builder.AppendLine("  以下截面满足当前工况的强度和刚度要求（按惯性矩从小到大排列）:");
+                builder.AppendLine();
+                for (int i = 0; i < _result.Recommendations.Length; i++)
                 {
-                    builder.AppendLine($"- {recommendation.Name}");
+                    builder.AppendLine($"  {i + 1}. {_result.Recommendations[i].Name}");
                 }
+                builder.AppendLine();
+                builder.AppendLine("  注: 双击列表中的推荐项可直接应用到当前计算。");
             }
+
+            builder.AppendLine();
+            builder.AppendLine(line);
+            builder.AppendLine("  本报告由麦豆宝型材工具自动生成，仅供参考。");
+            builder.AppendLine("  实际工程设计应结合现场工况、连接方式、加工工艺等因素综合判定。");
+            builder.AppendLine(line);
 
             return builder.ToString();
         }
@@ -1003,10 +1175,16 @@ namespace SectionProfileTool
 
         private void SaveReportButton_Click(object sender, EventArgs e)
         {
+            if (_result == null || _lastInput == null)
+            {
+                MessageBox.Show("请先进行计算，再导出报告。", "提示", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
             using (var dialog = new SaveFileDialog())
             {
-                dialog.Filter = "文本报告 (*.txt)|*.txt";
-                dialog.FileName = "型材工具工程结论.txt";
+                dialog.Filter = "HTML报告 (*.html)|*.html|文本报告 (*.txt)|*.txt";
+                dialog.FileName = "型材工具工程结论.html";
                 if (dialog.ShowDialog(this) != DialogResult.OK)
                 {
                     return;
@@ -1014,7 +1192,16 @@ namespace SectionProfileTool
 
                 try
                 {
-                    System.IO.File.WriteAllText(dialog.FileName, BuildSectionReport(), Encoding.UTF8);
+                    if (dialog.FileName.EndsWith(".txt", StringComparison.OrdinalIgnoreCase))
+                    {
+                        System.IO.File.WriteAllText(dialog.FileName, BuildSectionReport(), Encoding.UTF8);
+                    }
+                    else
+                    {
+                        ReportGenerator.GeneratePdf(dialog.FileName, _result, _lastInput,
+                            BuildCurrentProfileDescriptor(), SelectedOrientation.Value,
+                            SelectedSupport.Value, SelectedMaterial.Value);
+                    }
                     MessageBox.Show("报告已导出。", "导出成功", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
                 catch (Exception ex)
