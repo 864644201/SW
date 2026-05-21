@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Plugin>
-  <name>批量替换</name>
-  <explain>组件名属性名属性值批量替换</explain>
-  <classid>2090_2219_2223</classid>
-  <startexe>BatchReplace.exe</startexe>
-  <version>2.0</version>
-</Plugin>

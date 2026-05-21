@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Plugin>
-  <name>批量明细</name>
-  <explain>批量提取BOM明细并导出Excel</explain>
-  <classid>2090_2219_2223</classid>
-  <startexe>BatchDetail.exe</startexe>
-  <version>2.0</version>
-</Plugin>

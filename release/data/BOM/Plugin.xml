@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Plugin>
-  <name>明细表BOM</name>
-  <explain>装配体BOM表提取与导出</explain>
-  <classid>2090_2219_2222</classid>
-  <startexe>McBom.exe</startexe>
-  <version>2.0</version>
-</Plugin>

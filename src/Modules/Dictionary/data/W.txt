@@ -1,0 +1,2324 @@
+W-N gear   &&   圆弧齿轮
+W-bridge   &&   W型电桥
+W-cathode   &&   W-阴极
+W-cut   &&   W型掏槽，双楔形掏槽
+WAIS   &&   (Wide Area Information Server) 广域信息服务系统
+WAIS Service   &&   WAIS服务
+WAP   &&   (Wax Appearance Point) 石蜡析出温度
+WASA   &&   (Wax Anti-Settling Agent) 抗石蜡沉积剂
+WCM   &&   (Wax Crystal Modifier) 石蜡晶体调节剂
+WMI   &&   (World Manufacturer Identifier) 世界制造商识别符
+WOM   &&   (Write Only Memory) 只写存储器
+WOT   &&   (Wide Open Throttle) 开得很大的节气门
+WVTA   &&   (Whole Vehicle Type-Approval (European)) (欧洲)车型全面认证
+Waffle clutch   &&   华夫离合器，离合器
+Wagner casting machine   &&   瓦格纳金属型铸造机
+Wagner ground   &&   瓦格纳接地线路
+Wagner's alloy   &&   瓦格纳锡基凝壳铸造合金(Sb10％，Zn 3％，Cu l％，Bi l％，余为Sn)
+Waid's mini-max rule   &&   瓦尔特最小最大规则
+Wailer hitch   &&   挂车牵引联接装置
+Wairas equilibria   &&   瓦尔拉平衡
+Wairas-Cournot equilibrimn   &&   瓦尔拉-库尔洛平衡
+Waish function   &&   沃尔什函数
+Waiter engine   &&   沃尔特发动机
+Waliman circuit   &&   渥尔曼电路
+Walker phase advancer   &&   沃克进相机
+Walley engine   &&   韦利发动机
+Wallman ampiifier   &&   沃尔曼放大器，阴地-栅地级联放大器
+Wallman circuit   &&   沃尔曼电路
+Walsh transform   &&   沃尔什变换
+Wankel engine   &&   汪克尔发动机
+Wart's governor   &&   飞球调速器，瓦特调速器
+Waspaloy   &&   沃斯帕洛依镍基高温耐蚀合金
+Water jacket cylinder head   &&   汽缸盖水道
+Waterbury axial plunger motor   &&   沃特伯里轴向回转柱塞式液压马达
+Watson transform   &&   沃森变换
+Watt's linkage   &&   瓦特连杆机构
+Watts process for zinc extraction   &&   瓦茨(炼锌)法
+Web ridge continuous casting machine   &&   三连结晶器连铸机，韦布里奇连铸机
+Web-type gear   &&   幅板式齿轮
+Weber   &&   韦伯(磁通单位)
+Weber dynamometer   &&   韦伯功率计
+Weber photometer   &&   韦伯光度计
+Wechsler Intelligence Scale for Children   &&   韦克斯勒儿童智力表[WISC]
+Wehnelt breaker   &&   文纳尔断路器
+Wehnelt cathode   &&   文纳尔阴极
+Wehnelt electrode   &&   文纳尔电极
+Wehnelt interrupter   &&   文纳尔断续器
+Weibull distribution   &&   威布尔分布
+Weierstrass function   &&   维尔斯特拉斯函数
+Weierstrass's point   &&   维尔斯特拉斯点
+Weil conjecture   &&   魏尔猜测
+Weil homomorphism   &&   魏尔同态
+Weirzin   &&   镀锌钢
+Weiss coupling   &&   外斯万向节
+Weissach axle   &&   维塞克轴
+Weisskopf model   &&   魏斯科普夫模型
+Welch's alloy   &&   韦氏锡银合金(含52％Sn，48％Ag)
+Welcon   &&   韦尔康高强度钢
+Wessel alloy   &&   韦塞尔铜镍锌合金
+Wessel process   &&   韦塞尔半自动金属型铸造
+Westlake process   &&   韦斯特莱克自动成形法
+Weston moulding sand process   &&   韦斯顿树脂砂造型法
+Weston's standard cell   &&   韦斯顿标准电池
+Westphal balance   &&   韦氏比重天平，韦氏比重计
+Wetherill process   &&   韦瑟里尔真空吸铸法
+Weymann construction   &&   维曼结构
+Wheatstone bridge   &&   惠斯登电桥
+White's test   &&   白氏试验(白云石耐火材料中检定CaO的方法)
+Whitehead group   &&   怀特黑德群
+Whitehead product   &&   怀特黑德积
+Whitehead torsion   &&   怀特黑德挠率
+Whitney key   &&   半月销，半月键，月牙键
+Whitworth mechanism   &&   转动导杆机构
+Whitworth screw thread   &&   惠氏螺纹，惠氏标准螺纹
+Wickaloy   &&   威卡洛(硬质合金商品名)
+Widmanstatten pattern   &&   魏氏组织
+Widmanstatten plate   &&   魏氏组织面
+Widmanstatten structure   &&   魏氏组织
+Wieberg process   &&   威伯格海绵铁生产法
+Wiedemann-Franz ratio   &&   维德曼-弗朗茨比(热导率和电导率之比)
+Wien bridge   &&   维氏电桥
+Wien velocity filter   &&   维恩速度过滤器
+Wien's displacement law   &&   维恩位移定律
+Wien's radiation law   &&   维恩辐射定律
+Wiener information theory   &&   维纳信息论
+Wiener measure   &&   维纳测变
+Wiener process   &&   维纳过程
+Wiener-Hopf integral equation   &&   维纳-霍泊夫积分方程
+Wigner coefficient   &&   维格纳系数
+Wigner distribution   &&   维格纳分布
+Wigner function   &&   维格纳函数
+Wigner method   &&   维格纳方法
+Wigner-Seitz cell   &&   维格纳-赛茨晶胞
+Willan's Line Method   &&   维兰试验法
+Willey   &&   威利(硬质合金商品名)
+William's continuous process   &&   威廉连铸法
+William's plastometer   &&   威廉氏塑度计
+William's tube   &&   威廉氏管(静电存储管)
+Williamson amplifier   &&   威廉逊型放大器，高保真放大器
+Williamson kiln   &&   威廉逊窑
+Wilson cloud champer   &&   威廉逊云室
+Wilson gearbox   &&   威尔逊变速器
+Wimet   &&   威梅特(硬质合金商品名)
+Winchester disk drive   &&   温盘机
+Windows operating system   &&   Windows操作系统
+Winn bronze   &&   一种含铅黄铜
+Wishart distribution   &&   威沙特分布
+Wolf number   &&   沃尔夫数，黑子相对数
+Woliaston wire   &&   沃拉斯顿线(极细导线)
+Wollaston Prisms   &&   Wollaston棱镜
+Wollaston lens   &&   沃拉斯顿透镜
+Woltmann water meter   &&   螺翼式水表
+Wood's alloy   &&   伍德易熔合金(含Bl 50％，Pb 25％，Cd l2.5％，Sn l2.5％，低熔点合金)
+Woodword research studies   &&   伍德沃德研究
+Word mark   &&   字标
+World Factory Instrumentation Protocol   &&   World FIP总线，世界工厂仪表协议
+World Wide Web   &&   全球信息网[WWW]
+Worthite   &&   镍铬钼耐热不锈钢
+Woven-Cutting machines   &&   织麦激光切割机
+Wye level   &&   外氏水平仪
+wabble   &&   摆动，颤动
+wabbler   &&   ①梅花接头，摆动台②播床，摇摆机构
+wabbling lines   &&   微摆线
+wad   &&   ①耐火泥条，填料②心棒③塞头砖③锰土，石墨
+wadding   &&   ①软填料，纤维填料②衬料
+waddle   &&   摇摆
+wadeite   &&   钾钙板镐石
+wading rod   &&   测流标杆
+wafer   &&   ①板，片，薄片，薄模，圆片，芯片②极板③硅单芯片
+wafer base   &&   极板座(电子管的)，基极
+wafer bonder   &&   片结合器
+wafer cell   &&   叠层电池
+wafer core   &&   易割冒口心片，颈缩心片，隔片
+wafer level switch   &&   金属箔拉杆开关
+wafer matrix   &&   芯片矩阵
+wafer prober   &&   芯片检测器
+wafer processing   &&   硅片加工
+wafer scriber   &&   划片
+wafer silicon integration   &&   硅芯片集成
+wafer socket   &&   饼形管座，冲压管座
+wafer switch   &&   夹层开关，晶质开关
+wafer test   &&   硅片试验
+wafer transformer   &&   金属箔变压器
+wafer type check valve   &&   (平)板式单向止回阀
+wafer yield   &&   硅片成品率
+waferer   &&   压片机, 切片机
+waffle die flattening   &&   压纹效平
+wag hoist   &&   货车起重机
+wag loading elevator   &&   货车装车升降机
+wag tipper   &&   翻车机
+wag tippler   &&   翻车机
+wagging   &&   左右摇摆振动
+waggle   &&   摇动，摆动
+wagon   &&   ①货车，牵引小车，四轮拖车，挂车，篷车②左轮手枪
+wagon axle   &&   车轴
+wagon balance   &&   地磅，车辆秤，过车秤
+wagon body   &&   货车体(带篷汽车)
+wagon boiler   &&   车式锅炉，(铁路)货车锅炉，移动式锅炉
+wagon brake   &&   货车制动器
+wagon control computer   &&   车辆控制计算机
+wagon conveyer   &&   货车输送机
+wagon drill   &&   汽车式钻机，移动式钻机
+wagon elevator   &&   装车升运器
+wagon gear   &&   拖车底盘部分
+wagon jack   &&   车辆起重机
+wagon tipper   &&   翻车机，矿车翻笼
+wagon train   &&   运货列车
+wagon truck   &&   有篷载重汽车，厢式载重汽车
+wagon wheel effect   &&   车轮效应
+wagon with hopper bottom   &&   漏斗车，底开门车
+waiking cultivator   &&   手扶中耕机
+wail winch   &&   壁装绞盘
+wail-derrick   &&   墙上转臂起重机(厂房内沿墙行动的)
+waist   &&   ①收敛(部分)②减小直径③腰部，机身中部
+waist line   &&   腰线
+waist molding   &&   腰线饰条
+waist plate   &&   腰部托板
+waisting   &&   腰裂(初轧坯缺陷)
+wait acknowledge   &&   等待应答
+wait before transmission   &&   传输前等待，传输延迟
+wait before transmission positive acknowledgement   &&   确认传输前等待，确认传输延迟
+wait before transmit   &&   发送前等待，等待发送要求
+wait byte   &&   等待字节
+wait character   &&   等待字符
+wait condition   &&   等待条件
+wait event   &&   等待事件
+wait for call   &&   等待呼唤
+wait for response   &&   等待相应，等待应答
+wait routine   &&   等待程序
+wait statement   &&   等待语句
+wait subroutine   &&   等待子程序，延时子程序
+wait subroutine call   &&   延时子程序调用
+waiting   &&   等待
+waiting cost   &&   等待费用
+waiting line   &&   等待线，排队
+waiting line model   &&   等待线模型，排队模型
+waiting line problem   &&   等待线问题
+waiting line theory   &&   排队论
+waiting queue   &&   等待队列
+waiting queuing   &&   等待排队
+waiting space   &&   等待空间
+waiting state   &&   等待状态
+waiting system   &&   等待系统
+waiting time   &&   等待时间
+waiting-time distribution   &&   等待时间分布
+wake   &&   ①航迹②尾迹，尾流③伴流
+wake boundary   &&   尾流边界
+wake oscillator   &&   尾流振荡器
+wake velocity   &&   尾迹速度
+wake-up switch   &&   唤醒开关
+wake-up waiting   &&   等待开关
+walk   &&   ①途径，通道②移动，游动
+walk down   &&   信息丧失
+walk point   &&   侧滑点
+walk type mower   &&   手扶割草机
+walk-off loss   &&   逸散损耗
+walk-through test   &&   预检，流检(生产过程中的检验)
+walker excavator   &&   步行式挖掘机
+walkie type platform truck   &&   走行式平台运货车
+walkie-lookie   &&   便携式摄像发射机，手提式电视摄影机
+walkie-talkie   &&   步话机，携带式无线电话机，步谈机
+walking bar driving shaft connecting link   &&   上送传动曲轴连杆
+walking beam   &&   ①步进式炉底，步进式冷床②步进梁，摇梁，平衡梁
+walking crane   &&   执行起重机，活动吊车，行走悬臂起重机
+walking dragline   &&   步行拉铲挖掘机
+walking dredge   &&   行动式挖掘机
+walking excavator   &&   步行式挖掘机，行动式挖掘机
+walking machine   &&   步行机
+walking manipulator   &&   步行操纵装置
+walking mechanism   &&   行动式机构
+walking plough   &&   步犁
+walking props   &&   自移式支架
+walking reciprocating mower   &&   往复式手扶割草机
+walking scoop dredge   &&   步行式挖掘机，步行式铲斗挖泥机
+walking sprinkler   &&   移动式喷灌机
+walking time   &&   步行时间
+walking tractor   &&   手扶拖拉机
+walking-beam continuous furnace   &&   步进式炉
+walking-beam conveyer   &&   步移(梁)式输送机
+walking-beam furnace   &&   步进式炉
+walking-beam transfer   &&   步进式运输机
+walking-beam-type transfer device   &&   步进式传送装置
+wall   &&   ①墙，壁②炉墙，炉壁
+wall (pressure) tapping   &&   管壁取压口
+wall accretion   &&   炉瘤，炉壁结壁
+wall box   &&   暗线箱
+wall bracket travelling crane   &&   悬壁式沿墙移动起重机
+wall bushing   &&   穿墙套管
+wall crane   &&   墙上起重机，壁装式起重机
+wall drilling machine   &&   墙装钻床
+wall effect   &&   室壁效应
+wall entrance insulator   &&   穿墙绝缘子，进线绝缘子
+wall fitting   &&   壁灯
+wall insulator   &&   穿墙绝缘子
+wall jib crane   &&   旋臂起重机，旋臂吊车
+wall lamp   &&   壁灯
+wall mounting gauge   &&   墙装压力表
+wall mounting pressure gauge   &&   墙装压力表
+wall of dislocation   &&   位错墙
+wall outlet   &&   壁装电源插座
+wall plug   &&   墙上插头
+wall resistance   &&   管壁热阻
+wall sleeve   &&   穿墙套管
+wall socket   &&   墙装插座
+wall telephone set   &&   墙式电话机
+wall thickness   &&   壁厚(铸件)
+wall tube insulator   &&   穿墙绝缘管
+wall-attachment amplifier   &&   附壁放大器
+wall-attachment effect   &&   附壁效应
+wall-coated open-tubular column   &&   涂壁空心柱(WCOT column)
+wall-pattern switch board   &&   墙装交换机
+wallerite   &&   墨铜矿
+walnut parting   &&   核桃壳分型粉
+wamoscope   &&   行波示波管, 调波示波器
+wand   &&   ①杆，棒②条形码阅读器
+wand bar code scanners   &&   光笔式条码扫描器
+wand reader   &&   磁卡片信息读出器
+wander   &&   ①偏离方向②摆头③漂移，漂动
+wandering   &&   漂移，漂动
+wandering electron   &&   漂移电子
+wandering of an arc   &&   电弧漂移
+wandering of zero   &&   零点漂移
+wandering welding   &&   跳焊法
+wandering welding sequence   &&   跳焊法，无序焊接法
+wanding   &&   读磁卡过程
+waning   &&   减小，变小，衰落
+wap   &&   (线卷的)圈
+war production   &&   军工生产
+war vessel   &&   军舰
+warble rate   &&   调频深度，调频度
+warble tone   &&   口转音，低昂音
+warble tone generator   &&   音频发生器
+warbler   &&   频率摆动器，电抗管调制器
+warbling carrier system   &&   频率摆动载波系统
+warbling tone   &&   口转音，低昂音
+warcraft   &&   ①军用飞机，战斗机②军舰
+ware   &&   ①器皿②同类物品③制品④商品
+warehouse   &&   仓库
+warehouse hub   &&   仓库
+warhead   &&   弹头
+warm box   &&   温心盒
+warm box process   &&   温心盒法
+warm drawing   &&   温拉拔
+warm extrusion   &&   温挤
+warm forging   &&   温锻
+warm hardening   &&   温硬化，热沉淀硬化
+warm hydrostatic extrusion   &&   静水压温挤
+warm restart   &&   热重启动
+warm setting adhesive   &&   中温硬化黏合剂
+warm standby   &&   预热备用系统
+warm start   &&   ①半热态启动②重启动
+warm strength   &&   热强度
+warm up   &&   ①升温②加热，预热③暖机,用慢车启动(如汽轮机等)
+warm working   &&   温加工(600℃以下的加工)
+warm-air heating   &&   热风供暖，暖气设备
+warm-air heating system   &&   热风供暖系统
+warm-air pipe   &&   热风气管，热风管道
+warm-pressing   &&   温压
+warm-roiling   &&   温轧
+warm-up drift   &&   热漂移
+warm-up period   &&   预热期
+warm-up time   &&   升温时间，预热时间
+warmer   &&   加热器
+warming   &&   加热，升温
+warming-up   &&   预热，升温，热漂移
+warming-up light oil burner   &&   启动加热用轻油燃烧器
+warner   &&   报警器(件)
+warning   &&   ①警告，警报②预告③报警信号器
+warning agent   &&   报警剂
+warning apparatus   &&   ①报警信号器②警报装置，预告装置
+warning character   &&   报警符号
+warning circuit   &&   报警电路，(警告)信号电路
+warning color   &&   警戒色
+warning device   &&   报警器件，警告装置，报警器
+warning indicator   &&   报警指示器
+warning light   &&   警告信号灯
+warning light system   &&   旋转信号灯
+warning mark   &&   报警标志
+warning message   &&   报警报文
+warning net   &&   预警无线电网，报警电网
+warning radar   &&   警戒雷达
+warning sign   &&   警告标志
+warning signal   &&   报警信号，危险信号
+warning system   &&   报警系统
+warning valve   &&   警阀，报警阀
+warning whistle   &&   警笛
+warp   &&   扭曲，翘曲
+warp test   &&   翘曲试验
+warp tying machine   &&   接经机，穿经机
+warp-drawing machine   &&   穿经机
+warpage   &&   翘曲，扭曲， 热变形
+warped blade   &&   扭(曲)
+warped energy band   &&   弯曲能带，能带的弯曲
+warped surface   &&   翘曲面，翘扭曲面
+warped wing   &&   翘曲机翼
+warping   &&   变形，翘曲，扭曲，弯曲，变弯
+warping capstan   &&   卷缆绞盘
+warping chock   &&   导缆器
+warping knitting machine   &&   经编机
+warping machine   &&   整经机
+warping rigidity   &&   扭曲刚度
+warping winch   &&   绞缆车，牵曳绞车
+warship   &&   军舰
+wary processor   &&   n-元处理程序
+wash   &&   ①冲砂(铸造缺陷)②涂料③剔筋
+wash boring   &&   水冲钻探，冲洗钻掘
+wash marking   &&   冲刷痕(钢锭缺陷)，水纹痕
+wash metal   &&   清洗金属液(清洗炉子，浇包用)
+wash pipe   &&   冲水管
+wash tank   &&   清洗槽
+wash welding   &&   表面熔化焊接
+wash-out   &&   ①消磁，消音②冲洗，洗净
+washboard   &&   壁脚板
+washed and dried sand   &&   湿法再生砂
+washed clay   &&   淘洗黏土
+washed metal   &&   精炼生铁
+washer   &&   ①垫圈，垫片②去污设备，洗涤机，洗涤塔
+washer thermistor   &&   垫圈状热敏电阻器
+washer-grader   &&   清洗分级机
+washery   &&   ①洗涤②洗涤间③洗涤厂
+washing   &&   ①钢过热表面鳞皮熔化的现象②冲洗，洗涤，陶洗分级(磨料)③热补炉，上涂料
+washing machinery   &&   洗选设备
+washing mchine   &&   清洗机，洗涤机，洗衣机
+washing mill   &&   洗涤碾磨机
+washing station   &&   清洗装置
+washingtonite   &&   钛铁矿
+wastage allowance   &&   材料许可损耗率，边废料许可消耗量
+waste   &&   ①浪费②废物，回丝
+waste casting   &&   废铸件
+waste coal   &&   废煤，尾煤
+waste disposal   &&   ①废物处理②排废
+waste disposer   &&   废物清除器
+waste fluid   &&   废液
+waste gas   &&   废气
+waste gas emission standard   &&   废气排放标准
+waste gas feed heater   &&   废气给水加热器，废气给水预热器
+waste gas heat   &&   废气热
+waste gas pollution control   &&   废气控制
+waste gas superheater   &&   废气过热器
+waste gas treatment   &&   废气治理
+waste gate   &&   排泄阀门
+waste grinding machine   &&   碎胶机
+waste head   &&   切头
+waste heat   &&   余热
+waste heat boiler   &&   废热锅炉，余热锅炉
+waste heat engine   &&   废热蒸汽机
+waste heat utilization   &&   废热利用，余热利用
+waste instruction   &&   空指令
+waste liquid   &&   废液
+waste liquor   &&   废液
+waste liquor recovery   &&   废液回收
+waste liquor treatment   &&   废液处理
+waste management   &&   废液管理
+waste material boiler   &&   废料锅炉
+waste materials   &&   废料
+waste metal   &&   金属废料
+waste oil   &&   废油
+waste product recovery power plant   &&   利废火力发电站
+waste recovery   &&   废物回收
+waste recovery power plant   &&   燃垃圾电厂
+waste residue   &&   废渣
+waste residue treatment   &&   废渣处理，垃圾处理
+waste sand   &&   废砂
+waste silk spinning machine   &&   丝纺织机
+waste slag   &&   废渣，弃渣
+waste solution   &&   废液
+waste steam   &&   废汽
+waste steam boiler   &&   废汽锅炉
+waste steam turbine   &&   废汽汽轮机，乏汽汽轮机
+waste treatment   &&   废物处理
+waste vapor treatment   &&   废汽处理
+waste water treatment   &&   废水处理
+waste way   &&   ①溢洪道(水力发电)②废水路
+waste-heat losses   &&   废热损耗
+waste-heat recovery   &&   废热回收，废热利用
+waste-heat recovery power plant   &&   余热火力发电站
+waste-heat superheater   &&   废热过热器
+waste-heating   &&   废汽加热
+waste-rock yard   &&   废石场
+wasted dump   &&   废料堆
+wasted power   &&   耗散功率，损失功率
+waster   &&   废件
+wastewater   &&   废水
+watch   &&   手表，表
+watch cell   &&   手表电池
+watch glass   &&   表(面)玻璃
+watch maker's bench press   &&   钟表用台式压力机
+watch maker's lathe   &&   钟表车床
+watch press   &&   台式压力机
+watchdog   &&   监视器，监控设备
+watchdog timer   &&   监视时钟
+watching timer   &&   监视时钟
+watchmaker's machine tool   &&   仪表机床
+watchmaker's milling machine   &&   仪表铣床
+water   &&   ①水②给水
+water absorbability   &&   吸水性
+water absorption   &&   吸水
+water adjusting cylinder   &&   水力调整缸
+water analysis   &&   水分析
+water and oil separator   &&   水油分离器
+water annealing   &&   水冷退火
+water applicator   &&   灌溉装置
+water bath   &&   水浴，水槽
+water battery   &&   水电池
+water borne preservative   &&   水溶性防腐剂
+water calorimeter   &&   水量热计，水卡计
+water cart   &&   洒水车
+water cell   &&   滤水器
+water channel   &&   水路，水冷腔
+water circulation   &&   水循环，冷水环流
+water cock   &&   水龙头
+water colour   &&   水色
+water column   &&   水柱
+water condenser   &&   水冷凝器
+water conduit   &&   水管
+water conservancy   &&   水利(工程)
+water consumption   &&   用水量，耗水量
+water contamination   &&   水污染，水沾污
+water content   &&   含水量
+water coolant   &&   冷却水
+water cooled   &&   水冷
+water cooler   &&   水冷却器
+water cooling   &&   水冷
+water core   &&   水冷(金属)心
+water crack   &&   水淬裂痕
+water crane   &&   水鹤，给水设备
+water curing   &&   ①水处理②热水硫化
+water descaling unit   &&   水力除锈装置
+water discharge   &&   排水量，流量
+water disinfection   &&   水消毒
+water displacement   &&   排水量
+water drill   &&   湿式风钻，湿式凿岩机
+water ejector pump   &&   喷水抽气泵(一种机械真空泵)
+water electric resources   &&   水电资源
+water elevator   &&   提水机，抽水机，水车
+water environment   &&   水环境
+water equivalent of snow   &&   雪水当量
+water erosion   &&   水蚀
+water evaporation   &&   水蒸发
+water explosion blast cleaning   &&   水爆清砂
+water explosive sand cleaning plant   &&   水爆清砂装置
+water feeder   &&   给水器
+water flow   &&   水流
+water flushing   &&   用水冲洗
+water gate   &&   水门，水闸
+water gauge   &&   水位计，水表
+water gauge glass   &&   测水管，水位玻璃管
+water gauge level   &&   水尺高程
+water glass   &&   水玻璃，硅酸钠
+water glass refractory coating   &&   水玻璃耐火材料
+water hammer   &&   水锤，水冲击
+water hardening   &&   水淬
+water hardening tool steel   &&   水淬工具钢
+water head   &&   水头
+water heater   &&   热水器
+water heating   &&   热水供暖
+water hyacinth   &&   风眼蓝
+water hydraulic press   &&   水压机
+water hydraulic system   &&   水压系统
+water hydraulics   &&   水压技术
+water immersion method   &&   水浸(探伤)法
+water injection   &&   喷水
+water injection oil-gas field   &&   注水(油气田)
+water inlet   &&   进水口
+water intake   &&   进水口
+water jacket   &&   ①水(冷)套，水套②水冷电子管
+water jacket cylinder block   &&   汽缸体水道
+water jacketed copper crucible   &&   水套冷却铜坩埚
+water jacketed cupola   &&   水套冷却冲天炉，水冷冲天炉
+water jacketed furnace   &&   水套冷却炉
+water jacketed gasifier   &&   水套式气体发生装置
+water jacketed metal ignitron   &&   水套冷却金属引燃管
+water jacketed mould   &&   水套模，水冷铸型
+water jet   &&   ①喷水口②水射流
+water jet pile driver   &&   射水打桩机
+water jet pump   &&   喷射泵
+water leakage   &&   漏水
+water level   &&   水位
+water level gauge   &&   ①水位表，水准仪②水平仪
+water lifting machinery   &&   扬水机械，抽水机械，提水机械
+water lifts   &&   提水器，提水工具，扬水机
+water lubricated bearing   &&   水润滑轴承
+water lute   &&   水封，液封
+water main   &&   总水管，引水主管路
+water manometer   &&   水柱压力计
+water mark defect   &&   水纹(有色熔模铸件缺陷)
+water meters   &&   水表
+water of plasticity   &&   塑性水，增塑水
+water outlet   &&   出水口
+water paint   &&   水性漆，水性涂料
+water permeability   &&   透水性
+water pollution   &&   水污染
+water power   &&   水力，水能
+water power engineering   &&   水力发电工程
+water power hammer   &&   水力锤
+water power plant   &&   水电站，水力发电厂
+water power station   &&   水力发电站，水电站
+water press   &&   水压机
+water pressure   &&   水压
+water pressure pump   &&   水压泵
+water pressure test   &&   水压试验
+water proof   &&   防水的，不透水的
+water proofing   &&   防水
+water pump   &&   水泵
+water pump housing   &&   水泵壳体
+water pump impeller   &&   水泵叶轮
+water pump pulley   &&   水泵带轮
+water pump shaft   &&   水泵轴
+water pump unit   &&   水泵组件
+water pumping controller   &&   水泵控制器
+water purification   &&   净水
+water purification system   &&   纯水系统
+water purifier   &&   净水器
+water purifying plant   &&   净水装置
+water quality   &&   水质(量)
+water quality analysis   &&   水质分析
+water quality analyzer   &&   水质分析仪
+water quality control   &&   水质控制
+water quality indicator buoy   &&   水质监测浮标
+water quality management   &&   水质管理
+water quality monitoring   &&   水质监测
+water quality monitoring system   &&   水质监测系统
+water quality pollution   &&   水质污染
+water quality standard   &&   水质标准
+water quenching   &&   水淬火，水淬硬
+water recirculation pump motor   &&   水循环泵马达
+water removal   &&   脱水，除去水分
+water repellent concrete   &&   斥水性混凝土
+water reservoir   &&   水池，水库
+water resistance   &&   耐水力，水阻力
+water resource system   &&   水资源系统
+water resources   &&   水资源
+water rheostat   &&   水电阻器，水变阻器
+water rheostat test   &&   水电阻试验
+water saver equipment   &&   水回收设备
+water screen   &&   ①水冷壁②水滤网③水帘
+water seal   &&   水封
+water sealed tank   &&   水封槽
+water separator   &&   汽水分离装置
+water service system   &&   供水系统
+water ship   &&   供水船
+water softener   &&   软水剂
+water softening   &&   ①球化水冷退火②硬水软化法
+water solubility   &&   水溶性，水溶率
+water soluble coating   &&   水溶性漆
+water soluble polymer   &&   水溶性高聚物
+water source   &&   水源
+water spray cooling   &&   喷水冷却
+water spray nozzle   &&   喷水嘴，水幕喷嘴
+water spray test   &&   喷淋试验
+water sprinkler   &&   喷灌机(器)
+water standard   &&   水质标准
+water storage system   &&   储水系统
+water strainer   &&   滤水器
+water supply   &&   给水
+water supply and sewerage work   &&   给水排水工程，上下水道工程
+water supply source   &&   供水水源
+water switch   &&   水压开关
+water tank   &&   水箱
+water tap   &&   水龙头
+water temperature   &&   水温
+water tempering   &&   水回火
+water test   &&   水压试验，液压试验
+water thermometer   &&   水温表
+water tight   &&   ①水密②不漏水的
+water tightness   &&   不透水性，水密性
+water torch   &&   水炬，高压水枪
+water toughening   &&   水冷韧化处理，固溶化淬火
+water tower   &&   水塔
+water trap   &&   聚水器
+water treatment   &&   水处理
+water treatment equipment   &&   水处理设备
+water tube   &&   水管
+water tunnel   &&   输水隧道
+water turbine   &&   水轮机
+water turbine generator   &&   水轮发电机
+water uptake   &&   吸水
+water vapour   &&   水蒸气，水汽
+water vapour arc welding   &&   水蒸气保护电弧焊
+water vapour diffusion   &&   蒸汽扩散
+water vapour penetration   &&   蒸汽渗透
+water vapour permeability   &&   透水汽性
+water vapour proof packaging   &&   防潮包装
+water vapour transmission   &&   透水汽性
+water waggon   &&   洒水车，运水车
+water wagon   &&   洒水车，运水车
+water washable dye penetrant testing method   &&   水洗性着色渗透探伤法
+water washable fluorescent penetrant inspection   &&   耐酸荧光探伤法
+water washable fluorescent penetrant testing method   &&   水洗性荧光渗透探伤法
+water washable penetrant   &&   水洗性渗透液，自乳化性渗透液
+water well   &&   水井
+water wheel   &&   水轮，水车
+water wheel generator   &&   水轮发电机
+water wheel type ]alternator   &&   水轮式交流发电机
+water wings   &&   浮袋
+water-accumulator drive   &&   水力蓄压器压力传动
+water-accumulator installation   &&   水压蓄能设备，水力蓄压装置
+water-accumulator power press   &&   水力蓄压器式水压机
+water-activated battery   &&   水激活电池
+water-air-cooled machine   &&   水外冷空气循环式电机
+water-barrow   &&   洒水车
+water-base coating   &&   水基涂料
+water-blasting   &&   水力清砂
+water-cement ratio   &&   水灰比
+water-cooled   &&   水冷(式)的
+water-cooled TIG welding torch   &&   水冷式钨极氩狐焊炬
+water-cooled air conditioner   &&   水冷式空调器
+water-cooled bearing   &&   水冷轴承
+water-cooled brass collar   &&   水冷黄铜环
+water-cooled brass connection   &&   水冷黄铜接头
+water-cooled carbide film resistor   &&   水冷碳膜电阻器
+water-cooled cathode   &&   水冷阴极
+water-cooled coil   &&   水冷蛇管，水冷旋管
+water-cooled condenser   &&   水冷冷凝器
+water-cooled contact   &&   水冷电接头
+water-cooled conveyer   &&   水冷式输送带，水冷带式输送机
+water-cooled copper crucible   &&   水冷铜坩埚
+water-cooled copper hearth   &&   水冷铜坩埚
+water-cooled copper melting platform   &&   水冷铜坩埚熔化台
+water-cooled copper mould   &&   水冷铜坩埚，水冷铜模
+water-cooled copper shoe   &&   水冷铜积靴
+water-cooled copper tube crucible   &&   水冷铜管坩埚
+water-cooled crucible   &&   水冷坩埚
+water-cooled cupola   &&   水冷冲天炉，水冷化铁炉
+water-cooled die   &&   水冷模
+water-cooled electrode   &&   水冷电极
+water-cooled engine   &&   水冷式发动机
+water-cooled flash lamp   &&   水冷闪光灯
+water-cooled forced-oil transformer   &&   水冷强制油循环式变压器，水冷油浸变压器
+water-cooled furnace wall   &&   水冷炉璧
+water-cooled housing   &&   水冷套
+water-cooled jacket   &&   水套
+water-cooled load resistance   &&   水冷式负载电阻
+water-cooled machine   &&   水冷式电机
+water-cooled motor   &&   水冷式电动机
+water-cooled packaged air conditioner   &&   水冷式整体空调器
+water-cooled permanent mould   &&   水冷金属型
+water-cooled reactor   &&   ①水冷反应堆②水冷电抗器
+water-cooled reciprocating water chill   &&   水冷往复式冷水机组
+water-cooled screw conveyor   &&   水冷式螺旋运输机
+water-cooled seal   &&   水冷密封
+water-cooled shaft   &&   水冷轴
+water-cooled shaft furnace   &&   水冷竖炉
+water-cooled transformer   &&   水冷变压器
+water-cooled tube   &&   水冷电子管，水冷真空管
+water-cooled tuyere   &&   水冷风口
+water-cooled welding torch   &&   水冷式焊炬
+water-cooling system   &&   水冷系统
+water-cooling tower   &&   水冷塔
+water-filter   &&   水滤光器
+water-flow for power station   &&   电厂用水
+water-free   &&   无水的
+water-gas   &&   水煤气
+water-gas coke   &&   水煤气用焦炭
+water-gas flame   &&   水煤气火焰
+water-gas generator   &&   水煤气发生器
+water-gas lapweld process   &&   水煤气搭焊钢管法
+water-gas pipe   &&   水煤气管
+water-gas reaction   &&   水煤气反应
+water-gas welding   &&   液压焊
+water-generated electricity   &&   水电
+water-hardened steel   &&   水淬钢
+water-hardened wire rod   &&   水淬盘条
+water-head accumulator   &&   液压蓄能器
+water-heating solar collator   &&   水加热式太阳能收集器
+water-immiscible   &&   与水不混溶的
+water-in-oil emulsion   &&   油包水乳化液
+water-jet cutting technology   &&   水力切割法
+water-jet descaling   &&   喷水除锈，高压水去氧化皮
+water-jet loom   &&   喷水织机
+water-jet rock breaking   &&   水射流破碎岩石
+water-jet tunneller   &&   水炮掘进机
+water-mill   &&   ①水车②水磨
+water-motor   &&   水(力发)动机
+water-proof electrical equipment   &&   防水电器设备
+water-proof instrument   &&   防水型仪表
+water-proof machine   &&   防水式电机
+water-proof motor   &&   防水式电动机
+water-proof paint   &&   耐水漆，防水漆
+water-proof plywood   &&   耐水胶合板
+water-proof type induction motor   &&   防水式感应电动机
+water-pumping set   &&   抽水机组
+water-quench tank   &&   水淬火槽
+water-reducing agent   &&   减水剂
+water-reservoir capacity   &&   (水)库容(积)
+water-resistant adhesive   &&   耐水胶黏剂
+water-resistant magnet wire   &&   耐水电磁线
+water-resistant paint   &&   耐水漆
+water-sealed annealing furnace   &&   水封退火炉
+water-sealed gas producer   &&   水封式煤气发生炉
+water-soluble binder   &&   水溶性黏结剂
+water-soluble core   &&   水溶心
+water-soluble oil   &&   水溶性油
+water-soluble salt core   &&   水溶盐心
+water-source heat pump system   &&   水源热泵系统
+water-sprinkled cooling   &&   喷水式冷却
+water-tight cable   &&   不透水电缆
+water-tight case   &&   不透水外壳
+water-tight encloser   &&   不透水外壳
+water-tight housing   &&   不透水外壳
+water-tight machine   &&   不透水型电机
+water-tight seal   &&   不透水密封
+water-to-carbide acetylene generator   &&   水入电石式乙炔发生器，注水式乙炔发生器
+water-tube boiler   &&   水管式锅炉
+water-tube boiler with bent tubes   &&   弯管式水管锅炉
+water-tube boiler with straight tubes   &&   直管式水管锅炉
+water-water power reactor   &&   水-水动力反应堆
+waterer   &&   饮水器
+watering   &&   加水，加水稀释
+watering car   &&   洒水车
+watering cart   &&   冲洗车
+watering machine   &&   喷灌机
+waterless moulding sand   &&   无水型砂
+waterless sand binder   &&   无水黏结剂(配砂用)
+watermeter   &&   水表
+waterproof agent   &&   防水剂
+waterproof canvas   &&   防水布
+waterproof cloth   &&   防水布
+waterproof concrete   &&   防水混凝土
+waterproof fabric   &&   防水布，防雨布
+waterproof instrument   &&   防水式仪器仪表
+waterproof packaging   &&   防水包装
+waterproof paper   &&   防水纸
+waterproof solenoid valve   &&   防水型电磁阀
+waterproof type strain gauge   &&   防水应变计
+watertight instrument   &&   水密式仪器仪表
+watertight structure   &&   水密结构
+watertown process   &&   炮筒离心铸造
+waterworks   &&   自来水厂，自来水站
+waterworn   &&   水蚀的
+watt   &&   瓦(特)
+watt component   &&   有功部分，有效部分，有功分量，有效分量
+watt consumption   &&   功率消耗
+watt current   &&   有效(功)电流
+watt hour meter   &&   瓦时计，电度表，功率表
+watt loss   &&   功率损耗
+watt transmitter   &&   瓦特传感器
+watt-hour   &&   瓦时
+watt-hour meter   &&   瓦时计
+watt-second   &&   瓦秒
+wattage   &&   瓦(特)数
+wattage consumption   &&   功率消耗
+wattage dissipation   &&   损耗瓦数，功率耗散
+wattage output   &&   输出瓦数
+wattage rating   &&   额定瓦数
+wattage transformer   &&   小功率变压器
+wattful current   &&   有功电流，有效电流
+wattful power   &&   有功功率
+wattful power measurement   &&   有功功率测量
+wattless   &&   无功的
+wattless component   &&   ①无功部分②电抗部分③虚(数)部(分)
+wattless current   &&   无功电流
+wattless power   &&   无功功率
+wattless power measurement   &&   无功功率测量
+wattmeter   &&   功率计，功率表，瓦特计
+wave   &&   ①波，波浪②波筋，波动
+wave absorber   &&   电波吸收体，消波器
+wave acoustics   &&   波动声学
+wave action   &&   波动作用
+wave activated generator   &&   潮汐发电机，海波原动发电机
+wave amplitude   &&   波幅
+wave analysis   &&   波分析
+wave analyzer   &&   波形分析仪
+wave antenna   &&   行波天线
+wave band   &&   波段，频段
+wave clipper   &&   削波器
+wave converter   &&   波形变换器
+wave crest   &&   波顶，波峰
+wave detector   &&   检波器
+wave direction   &&   波向
+wave drag coefficient   &&   波阻系数
+wave duct   &&   波道
+wave equation   &&   波动方程
+wave filter   &&   滤波器
+wave form display type shallow-layer seismograph   &&   波形表示型浅层地震仪
+wave frequency   &&   波动频率
+wave front   &&   波前，波阵面
+wave function   &&   波函数
+wave generator   &&   波发生器，造波机
+wave guide   &&   波导管
+wave guide coupler   &&   波导耦合器
+wave guide dispersion   &&   波导色散
+wave guide filter   &&   波导滤波器
+wave guide isolator   &&   波导隔离器
+wave guide joint   &&   波导接头
+wave guide klystron   &&   波导速调管
+wave height   &&   波高
+wave hollow   &&   波谷，波底
+wave impedance   &&   波阻抗
+wave interaction   &&   波相互作用
+wave length interferometers   &&   波长干涉仪
+wave line   &&   波传播方向
+wave loop   &&   波腹
+wave mechanics   &&   波动力学
+wave mode   &&   波模，波型
+wave node   &&   波节
+wave normal   &&   波面法线
+wave observation   &&   波浪观测
+wave of surface   &&   表面波度
+wave operator   &&   波算子
+wave optics   &&   波动光学，物理光学
+wave packet   &&   波包，波束
+wave parameter   &&   波参数
+wave pattern   &&   波型
+wave penetration   &&   波穿透率
+wave period   &&   波周期
+wave plate   &&   波片
+wave polarization   &&   波偏振，波的极化
+wave power generation   &&   海浪发电
+wave power station   &&   波力发电站
+wave propagation   &&   波传播
+wave radiation   &&   电波辐射
+wave range   &&   波段
+wave reflection   &&   波的反射
+wave refraction   &&   波折射
+wave selector   &&   波段开关
+wave shape   &&   波型
+wave soldering   &&   波动焊接
+wave spectrogram   &&   波谱图
+wave spectroscopy   &&   波谱法
+wave spectrum   &&   波谱
+wave staff   &&   测波杆
+wave surface   &&   波面
+wave telemetering   &&   电波遥测
+wave train   &&   波列
+wave trough   &&   波谷
+wave vector   &&   波矢
+wave velocity   &&   波速
+wave winding   &&   波(形)绕组
+wave zone   &&   波带，波段
+wave-bands witch   &&   波段开关
+wave-guide antenna   &&   波导式天线
+wave-guide corner   &&   波导弯管
+wave-guide delay line   &&   波导延迟线
+waveform   &&   ①波形②信号波形
+waveform analysis   &&   波形分析
+waveform distortion   &&   波形畸变，波形失真
+waveform error   &&   波形误差
+waveform factor   &&   波形因素，波形系数
+waveform generator   &&   波形发生器，波形信号发生器
+waveform measurement   &&   波形测量
+waveform meter   &&   波形测量仪
+waveform monitor   &&   波形监视器
+waveform pulse   &&   波形脉冲
+waveform recording   &&   波形记录
+waveform repartition   &&   波形区分
+waveform sine-cosine disassembly   &&   波形正余弦分解
+waveform stabilization   &&   波形稳定
+waveform synthesizer   &&   波形综合器
+waveform viewer   &&   波形观测仪
+waveform washer   &&   波浪式垫圈
+wavefront angle   &&   波前倾角
+wavefront-splitting interference   &&   分波阵面干涉
+waveguide   &&   波导
+waveguide bend   &&   波导弯头
+waveguide circulator   &&   波导环行器
+waveguide communication   &&   波导通信
+waveguide communication system   &&   波导通信系统
+waveguide component   &&   波导组件
+waveguide connector   &&   波导连接器
+waveguide constant   &&   波导管常数
+waveguide laser   &&   波导激光器
+waveguide lens   &&   波导透镜
+waveguide line   &&   波导线路
+waveguide magnetron   &&   波导磁控管
+waveguide mode   &&   波导模式
+waveguide modulator   &&   波导调制器
+waveguide of arbitrary cross section   &&   任意截面波导，任意形状波导
+waveguide plunger   &&   波导短路塞头
+waveguide prism   &&   波导棱镜
+waveguide resonator   &&   波导谐振器
+waveguide slotted line   &&   波导测量线
+waveguide tee?   &&   波导接头
+waveguide theory   &&   波导理论
+waveguide transmission   &&   波导传输
+waveguide tube   &&   波导管
+waveguide tuner   &&   波导调谐器
+waveguide type phase meter   &&   波导式相位表
+wavelength   &&   波长
+wavelength band   &&   工作波段
+wavelength dispersion   &&   波长色散
+wavelength dispersion measuring equipment   &&   波长色散量测器
+wavelength drum   &&   波长鼓轮
+wavelength measurement   &&   波长测量
+wavelength measuring equipment   &&   波长测量设备
+wavelength spectrometer   &&   波长分光计
+wavelet   &&   子波，小波
+wavemeter   &&   波长计
+waveness   &&   波纹度，波形，波纹
+waver   &&   波形转换器
+waveshape   &&   波形
+waveshaper   &&   波形成形器
+waveshaping   &&   波形形成
+waveshaping circuit   &&   整形电路
+wavestrip   &&   波带
+wavetrap   &&   陷波器
+waviness   &&   ①波度，波形②波纹(钢板缺陷)，波纹度，波痕
+waviness curve   &&   波度曲线，波纹曲线
+waviness phenomena   &&   波纹现象
+wavingness   &&   波纹
+wavy crack   &&   波状裂纹
+wavy edge   &&   波浪边(带材的)
+wax   &&   石蜡
+wax element thermostat   &&   蜡组件恒温器
+wax injection   &&   喷蜡
+wax injection machine   &&   压蜡机(熔模)
+wax injection press   &&   压蜡机(熔模)
+wax injector   &&   压蜡机(熔模)
+wax master   &&   蜡主盘，原始蜡盘(录音)
+wax matrix   &&   蜡模
+wax mould casting   &&   失蜡铸造，熔模铸造
+wax moulding   &&   蜡型，蜡铸模
+wax original   &&   蜡主盘
+wax pattern   &&   蜡模，蜡模组
+wax pattern duster   &&   蜡模组
+wax pellet thermostat   &&   蜡球恒温器
+wax plugging   &&   蜡堵塞
+wax string   &&   蜡线
+wax substrate   &&   蜡衬底
+wax welding   &&   蜡焊(熔模铸造)
+wax wire   &&   蜡线(制心用)
+wax-insulated   &&   蜡绝缘的
+wax-like solid   &&   蜡状固体
+waxing   &&   蜡生成
+waxing machine   &&   上蜡机
+way   &&   ①轨，导轨②路③方法，途径④式样
+way grinding machine   &&   导轨磨床
+way in   &&   进口
+way of bed   &&   导轨
+way out   &&   出口
+way-type drilling unit   &&   组合钻具
+wblock   &&   写块，制作图块
+weak Hausdorff topology   &&   弱豪斯道夫拓扑
+weak acid   &&   弱酸
+weak alkaline   &&   弱碱性
+weak base   &&   弱碱
+weak bond   &&   弱键
+weak charge   &&   弱荷
+weak clay   &&   瘦黏土
+weak closure   &&   弱闭包
+weak coil-loading   &&   轻加感
+weak complex compound   &&   弱络合物
+weak component   &&   弱支，弱分图
+weak compression   &&   弱压缩
+weak connection   &&   弱连接
+weak convergence   &&   弱收敛
+weak correctness   &&   弱正确性
+weak coupling   &&   弱耦合，疏耦合
+weak coupling model   &&   弱耦合模型
+weak coupling superconductor   &&   弱耦合超导体
+weak coupling theory   &&   弱耦合理论
+weak current   &&   弱流，弱电，弱电流
+weak current cable   &&   弱电流电缆
+weak current engineering   &&   弱电工程(学)
+weak diagraph   &&   弱有向图
+weak efficient solution   &&   弱有效解
+weak electrolyte   &&   弱电解质
+weak electromagnetic unified theory   &&   弱电磁统一理论
+weak equality   &&   弱相等
+weak field   &&   弱场
+weak form factor   &&   弱形状因子
+weak hypercharge   &&   弱超荷
+weak interaction   &&   弱相互作用
+weak inversion   &&   弱反型
+weak law of large numbers   &&   弱大数定律
+weak link   &&   弱键
+weak linkage   &&   弱键
+weak liquor   &&   弱碱液
+weak mixing angle   &&   弱混合角
+weak mixture   &&   稀混合气
+weak nonlinearity   &&   弱非线性
+weak optimal solution   &&   弱最优解．
+weak ordering of acts   &&   行动弱排序
+weak point   &&   弱点
+weak position   &&   弱位置
+weak precedence   &&   弱优先
+weak precedence parser   &&   弱优先分析程序
+weak precedence relation   &&   弱优先关系
+weak relative minimum   &&   弱相对极小
+weak reverberatory off-gas   &&   反射炉低硫烟气
+weak ripple current   &&   弱纹波电流
+weak sand   &&   瘦砂，贫砂
+weak section   &&   危险剖面，危险截面
+weak signal   &&   弱信号
+weak solution   &&   ①弱解②稀溶液
+weak superconductivity   &&   弱超导性，约瑟夫森效应
+weak topology   &&   弱拓扑
+weak turbulence theory   &&   弱湍流理论
+weak variation   &&   弱变分
+weak weld   &&   低强度焊缝，不坚固焊缝
+weak-convexity for a preference preordering   &&   偏好预序关系的弱凸性
+weak-current insulator   &&   弱电流绝缘子
+weak-current line   &&   弱电流线路
+weak-current switch   &&   弱电流开关
+weak-field method   &&   弱场法
+weakening   &&   ①削弱，减弱②衰减，阻尼，消振③使稀薄，使淡薄
+weakening of excitation   &&   激发减弱
+weakening of metal   &&   金属强度降低
+weakening ratio   &&   (磁场)消弱比
+weakest precondition   &&   最弱前置条件
+weaking of moulding sand   &&   型砂强度降低，造型材料强度减弱
+weakly absorbing   &&   弱吸收
+weakly absorbing material   &&   弱吸收材料
+weakly absorbing medium   &&   弱吸收介质
+weakly compact   &&   弱紧
+weakly complete   &&   弱完备
+weakly connected digraph   &&   弱连通有向图
+weakly connected graph   &&   弱连通图
+weakly continuous   &&   弱连续
+weakly convergent   &&   弱收敛
+weakly coupled   &&   弱耦合
+weakly coupled subsystem   &&   弱耦合子系统
+weakly coupled superconductor   &&   弱连接超导体，约瑟夫森结
+weakly coupled system   &&   弱耦合系统
+weakly damped   &&   弱阻尼
+weakly dosed   &&   弱闭
+weakly stationary   &&   弱平稳
+weakly stationary process   &&   弱平稳过程
+weakly stationary stochastic process   &&   弱平稳随机过程
+weakness zone   &&   脆弱区
+weapon   &&   武器，兵器，军械
+weapon system software   &&   武器系统软件
+wear   &&   磨损，损耗，磨损
+wear abrasion   &&   磨损
+wear adjuster   &&   磨损补偿机构
+wear allowance   &&   磨损余量
+wear and tear   &&   耗损
+wear coefficient   &&   磨损系数
+wear factor   &&   磨损因数
+wear hardness   &&   磨损硬度
+wear inhibitor   &&   抗磨剂
+wear iron   &&   熟铁，锻铁
+wear of brush   &&   电刷磨损
+wear oxidation   &&   摩擦腐蚀
+wear pad   &&   心盒面板
+wear proof   &&   耐磨的
+wear property   &&   耐磨性
+wear resistance   &&   耐摩性，耐磨性
+wear resistant alloy   &&   耐磨合金
+wear resistant alloy steel   &&   耐磨合金钢
+wear resistant steel   &&   耐磨钢
+wear test   &&   耐磨试验
+wear value   &&   磨损值
+wear-and-waste test   &&   损耗试验
+wear-in   &&   磨合
+wear-life   &&   磨损期限，抗磨寿命
+wear-out   &&   磨损，用坏
+wear-out failure   &&   耗损故障，耗损失效，疲劳故障，磨损破坏
+wear-out failure period   &&   耗损失效期
+wear-resistant coating   &&   抗磨镀层，耐磨覆盖层
+wear-resistant material   &&   抗磨材料
+wear-resistant property   &&   耐磨性能
+wear-resisting permeability magnetic material   &&   耐磨导磁材料
+wear-test machine   &&   磨损试验机
+wearability   &&   耐磨性
+wearing capacity   &&   耐磨损量，耐磨性，磨损量
+wearing depth   &&   磨损深度
+wearing parts   &&   ①易损件②磨损部分
+wearing resistance   &&   ①耐磨性②磨损阻力，抗磨力
+wearing strip   &&   ①调整板②防磨损板
+wearing test   &&   磨损试验，磨耗试验
+wearlessness   &&   耐(抗)磨性
+weather   &&   风化
+weather cracking   &&   风化裂纹
+weather exposure test   &&   大气曝露腐蚀试验，风蚀曝露试验
+weather instrument   &&   气象仪
+weather monitoring equipment   &&   气候监测设备
+weather proofing   &&   耐风化性
+weather radar   &&   天气雷达
+weather resistance test   &&   耐候试验
+weather satellite   &&   气象卫星
+weather strip   &&   密封条
+weather strip of door window   &&   门窗密封条
+weather strip of front door   &&   车门外密封条
+weather strip of window   &&   车窗密封条
+weather stripping   &&   密封条
+weather-glass   &&   气压计，晴雨计
+weather-proof double braid   &&   双层编包耐风雨线
+weather-proof enclosure   &&   耐风雨机壳
+weather-proof wire   &&   耐风雨电线
+weather-protected machine   &&   风雨防护式电机
+weather-resistant mercury lamp   &&   耐风雨水银灯
+weather-resisting steel   &&   耐大气腐蚀钢
+weathered coal   &&   风化煤
+weathering   &&   ①失去光泽②风化，风蚀，老化，风化作用
+weathering aging   &&   气候老化
+weathering test   &&   风化试验
+weave   &&   ①编织②构成，设计③焊条摆动
+weaver's beam   &&   织轴
+weaving   &&   ①波状失真②机织，编，织
+weaving machine   &&   织机
+weaving machinery   &&   织造机械
+weaving welding   &&   摆动焊
+web   &&   ①筋②片，卷③纤维网④网，网状物⑤腹板
+web address   &&   网址
+web browser   &&   网络浏览器
+web crystal   &&   蹼晶
+web gear   &&   薄片齿轮(指无轮辐齿轮)
+web girder   &&   腹梁
+web page   &&   网页
+web plate   &&   连接板，组合型材腹板
+web site   &&   网址
+web-conveyor digger   &&   输送链式挖掘机
+web-fed printing press   &&   卷筒纸印刷机
+webbing   &&   熔塌
+webbing loom   &&   织带机
+webbite   &&   炼钢合金剂(Ti 5％～7％，余为Al)
+webless-type gear   &&   无幅板式齿轮
+wedge   &&   ①楔，楔形，楔体表面，楔形体②垫箱楔铁
+wedge adjustment   &&   楔块调整，斜楔调整
+wedge angle   &&   楔角，尖角(刀具)
+wedge block   &&   三角试块，楔形件
+wedge block gauge   &&   楔形块规
+wedge bolt   &&   楔形螺栓
+wedge bond   &&   ①楔形结合②楔形接点，楔形触点③楔焊
+wedge brake   &&   楔形制动器，楔形闸
+wedge cam   &&   移动凸轮
+wedge clamp   &&   楔形线夹
+wedge combustion chamber   &&   顶置气门的楔形燃烧室
+wedge contact   &&   楔形接点，插接触点
+wedge cotter   &&   楔形扁销
+wedge dislocation   &&   楔形位错
+wedge expander   &&   制动楔
+wedge gate   &&   楔形浇口，斧头浇口
+wedge groove   &&   楔形槽
+wedge key   &&   楔键，楔形键
+wedge lock   &&   楔形锁块
+wedge pattern   &&   楔形图
+wedge photometer   &&   劈片光度计，尖劈刀光度计
+wedge slot   &&   楔形槽
+wedge test   &&   ①三角试块试验②锤击韧性试验(可锻铸铁)③硬度试验(线材的)
+wedge transducer   &&   楔形换能器
+wedge washer   &&   楔形垫圈
+wedge-opening-loading   &&   楔形开裂加荷
+wedge-operated brakes   &&   楔式制动器
+wedge-shaped lightning arrester   &&   楔形隙避雷器
+weed destroyer   &&   除草机
+weed eradicator   &&   除草机
+weed extractor   &&   除草器，锄草机
+weep hole   &&   排气预留孔
+weft machines   &&   纬编机
+weigh-bridge   &&   ①计量台②地秤③秤桥
+weigh-feeder   &&   称量给料器
+weighing appliance   &&   称具
+weighing cell   &&   称重传感器
+weighing equipment   &&   衡器
+weighing frame   &&   称量框架
+weighing hopper   &&   ①计量斗②秤量料斗
+weighing house   &&   轨道衡房，称量房
+weighing instrument   &&   称重仪
+weighing machine   &&   磅秤，地秤
+weighing method   &&   称重法
+weighing platform   &&   称台
+weighing scale   &&   秤
+weighing section   &&   称量段
+weighing sensor   &&   重量传感器，称重传感器
+weighing transducer   &&   重量传感器，称重传感器
+weight   &&   ①重量，重物，加负荷②权(数学)，重量③砝码
+weight brake   &&   平衡重制动器
+weight capacity   &&   承重能力
+weight carrier   &&   底盘
+weight coefficient   &&   ①权系数②重量系数
+weight correction value   &&   砝码修正值
+weight distribution   &&   重量分布，轴荷分配
+weight efficiency   &&   重量效率
+weight equation   &&   权方程
+weight factor   &&   权重因素
+weight for counterbalance   &&   平衡重
+weight function   &&   权函数
+weight indication   &&   砝码标称值
+weight loss   &&   失重
+weight number   &&   权数
+weight of measurement   &&   测量的权
+weight per B.H   &&   甈. 每马力发动机重
+weight per axle   &&   轴负重
+weight ratio   &&   重量比
+weight set   &&   砝码组
+weight sets   &&   权重集，全齿高
+weight sorter   &&   (按)重量分级机
+weight standard   &&   标准砝码
+weight transfer   &&   重量转移
+weight value of practical mass   &&   砝码实际质量值
+weight-gaining industry   &&   增重产业
+weight-lifting ability   &&   起重能力
+weight-loaded accumulator   &&   重力(或重锤)蓄能器
+weight-loaded governor   &&   载重调节器
+weight-loaded regulator   &&   重力型自力式调节阀
+weight-power ratio   &&   重量功率比，重量马力比
+weight-strength ratio   &&   重量强度比
+weighted   &&   加权
+weighted accumulator   &&   重锤式蓄能器
+weighted aggregative index   &&   加权综合指数
+weighted approximation   &&   加权近似
+weighted arithmetic   &&   加权算术平均值，加权算术平均数，加权平均数
+weighted arithmetic mean   &&   加权算术平均值
+weighted average   &&   加权平均值
+weighted average method   &&   加权平均法
+weighted average utility   &&   加权平均效用
+weighted check   &&   加权校验
+weighted code   &&   加权码
+weighted deviational variable   &&   加权离差变量
+weighted digraph   &&   加权有向图
+weighted distortion   &&   加权失真
+weighted error   &&   加权误差
+weighted graph   &&   权图
+weighted maximum sequence   &&   加权极大序列
+weighted mean   &&   加权平均(值)
+weighted mean square   &&   加权均方
+weighted mean value   &&   加权平均值，计数平均值
+weighted method   &&   加权法
+weighted money   &&   加权货币
+weighted noise level   &&   加权噪声电平
+weighted reciprocal lattice   &&   加权倒易点阵
+weighted residual method   &&   加权剩余法
+weighted sum   &&   加权和
+weighted summing unit   &&   加权加法单元
+weighted twin shear limit surface   &&   加权双剪极限面，十二边形极限面
+weighted twin shear strain yield criterion   &&   加权双剪应变屈服准则
+weighted twin shear strength theory   &&   加权双剪强度理论，十二边形强度理论
+weighted twin shear stress critical condition   &&   加权剪应力临界条件
+weighted twin shear stress yield criterion   &&   加权双剪应力屈服准则，十二边形双剪屈服准则
+weighted twin shear yield surface   &&   加权双剪屈服面，十二边形双剪屈服面
+weighted valve   &&   重量阀，荷重阀
+weighted-in-point method   &&   加权计分法
+weighter   &&   称量装置
+weighting   &&   ①加重②加权③充填④过秤⑤评价
+weighting coefficient   &&   (加)权系数
+weighting efficient   &&   加权系数
+weighting factor   &&   权重因子，加权因数，重权因数，(加)权因子
+weighting function   &&   (加)权函数
+weighting machine   &&   衡器
+weighting matrix   &&   (加)权矩阵
+weighting method   &&   加权法
+weighting network   &&   计权网络
+weighting platform   &&   称台
+weightless fight   &&   失重飞行
+weightless simulations   &&   失重模拟
+weightless state   &&   失重状态
+weightlessness   &&   失重
+weightlessness effect   &&   失重效应
+weights   &&   法码
+weights and measures   &&   度量衡
+weir flow   &&   溢流量
+weir type flow sensor   &&   堰式流量传感器
+weld   &&   ①接合，熔合②焊接，熔焊焊接点，焊缝③焊接的
+weld all around   &&   围焊
+weld bead   &&   焊道，焊缝
+weld cladding   &&   焊包覆
+weld crack   &&   焊接裂缝
+weld decay   &&   焊接腐蚀，焊缝腐蚀
+weld decay test   &&   焊缝腐蚀试验
+weld defects   &&   焊接缺陷
+weld depth   &&   熔深
+weld flaw   &&   焊接缺陷，焊接裂纹
+weld flow mark   &&   焊接流痕
+weld flush   &&   焊缝凸起
+weld gate pulse   &&   焊流控制脉冲，焊接选通脉冲
+weld heat-affected zone   &&   焊接热影响区
+weld iron   &&   熟铁，锻铁，焊铁
+weld line   &&   熔合纹，焊接纹
+weld mark   &&   熔合痕，焊接痕，焊痕
+weld material   &&   焊接材料
+weld nuts   &&   焊接螺帽
+weld on   &&   焊上
+weld penetration   &&   熔深，熔接透入
+weld polarity   &&   焊接极性
+weld region   &&   焊接接头区
+weld rod   &&   焊条
+weld steel   &&   焊接钢
+weld strength   &&   焊接强度，焊缝强度
+weld structure   &&   焊接组织
+weld tracker   &&   焊缝跟踪装置
+weld up   &&   焊补，焊封
+weld wood   &&   胶合板
+weld zone   &&   焊接区
+weldability   &&   可焊性
+weldability test   &&   可焊性试验
+weldable contact   &&   可焊触点
+weldable copper   &&   可焊复合铜板(表层用磷铜或银磷铜合金)
+weldable pad   &&   可焊区
+weldable steel   &&   可焊钢，焊接用钢
+weldable strain gauge   &&   焊接式应变计
+welded bellows   &&   焊接波纹管
+welded bond   &&   焊接接头
+welded connection   &&   焊接接合，焊接接头
+welded connector   &&   熔接连接器
+welded construction   &&   焊接结构
+welded contact   &&   焊接触点
+welded encapsulation   &&   焊接封装
+welded ends   &&   焊接连接端
+welded joint   &&   焊接接点，焊缝
+welded long rail   &&   焊接长钢轨
+welded mounting coupler   &&   焊头
+welded pipe   &&   焊接管
+welded rear axle assembly   &&   后桥焊接总成
+welded seam   &&   焊缝
+welded steel   &&   焊接钢
+welded steel tube   &&   焊接钢管
+welded structure   &&   焊接结构
+welded tube   &&   焊缝(接)管
+welded tube mill   &&   焊管机
+welded-contact rectifier   &&   焊接整流器
+welder   &&   焊接设备，电焊机，焊工
+weldforged   &&   锻焊
+welding   &&   焊接，熔接，黏结
+welding agent   &&   焊药
+welding alloy   &&   焊接合金
+welding and cutting torch   &&   焊割两用气焊枪
+welding arc   &&   焊弧
+welding arc voltage   &&   焊弧电压
+welding assembly   &&   焊接构件
+welding base metal   &&   焊条金属
+welding bead   &&   焊接泡
+welding beam   &&   焊道，焊缝
+welding blowpipe   &&   气焊吹管
+welding burner   &&   焊炬喷枪
+welding by both sides   &&   双面焊
+welding by forging   &&   锻焊
+welding by one side   &&   单面焊
+welding cable   &&   电焊电缆
+welding circuit   &&   焊接电路
+welding compound   &&   焊剂
+welding condition   &&   焊接规范，焊接条件
+welding contactor   &&   焊接接触器
+welding crack   &&   焊接裂缝
+welding current   &&   焊接电流
+welding data   &&   焊接数据
+welding defect   &&   焊接缺陷
+welding deformation   &&   焊接变形
+welding direction   &&   焊接方向
+welding distortion   &&   焊接变形
+welding dynamo   &&   焊接发电机
+welding electrode   &&   电焊条，电焊电极，焊接电极
+welding equipment   &&   焊接设备
+welding flash   &&   弧光灼伤
+welding flux   &&   焊剂
+welding force   &&   焊接力，电极压力
+welding generator   &&   电焊发电机，焊接用发电机
+welding grade argon   &&   焊接级氩，焊接用氩
+welding ground   &&   焊接地线，电熔接地
+welding gun   &&   焊枪
+welding head   &&   焊接机头，焊枪
+welding impulse   &&   电焊脉冲
+welding inspection   &&   焊接检查
+welding interval   &&   焊接周期
+welding jig   &&   焊接夹具
+welding joint   &&   焊接接头
+welding line   &&   熔合痕
+welding machine   &&   电焊机
+welding mark   &&   溶合痕
+welding material   &&   焊接材料
+welding metal cracking   &&   焊接金属裂纹
+welding metallurgy   &&   焊接冶金
+welding motor generator   &&   电动旋转式电焊机
+welding pistol   &&   焊枪(焊接塑料用)
+welding point   &&   焊接接头
+welding pool   &&   焊接熔池
+welding powder   &&   焊粉
+welding quality   &&   焊接质量
+welding rectifier   &&   电焊整流器
+welding regulator   &&   焊接(电流)调节器
+welding residual stress   &&   焊接残余应力
+welding rod   &&   焊条
+welding rod coating   &&   焊条焊药
+welding rod core   &&   焊条心
+welding rod steel   &&   焊条钢
+welding roll   &&   焊条辊
+welding seam   &&   焊接缝，焊缝
+welding sequence   &&   焊接顺序
+welding slag   &&   焊渣
+welding specification   &&   焊接规范
+welding spot   &&   焊点
+welding steel   &&   焊接钢
+welding stick   &&   焊丝，焊条
+welding strain   &&   焊接应变
+welding stress   &&   焊接应力，熔接应变
+welding technique   &&   焊接技术
+welding technology   &&   焊接工艺
+welding test   &&   焊接试验
+welding thermit   &&   (铝)热剂
+welding timer   &&   焊接定时器
+welding tip   &&   焊嘴，焊接吹管火口
+welding tongs   &&   焊钳
+welding torch   &&   焊接喷灯，焊接吹管，焊炬，熔接气炬
+welding transformer   &&   电焊变压器
+welding wire   &&   焊丝，焊条
+weldless pipe   &&   无缝管
+weldment   &&   焊(接)件，焊接装配
+well   &&   ①井，坑②炉缸(冲天炉)③直浇口窝
+well base tyre   &&   凹纹轮胎
+well base wheel   &&   深轮辋车轮
+well boring   &&   钻井
+well gate   &&   浇口杯
+well line   &&   结合线
+well ordered set   &&   良序集
+well potential   &&   电位阱，势阱
+well type   &&   蓄料井
+well water   &&   井水
+well water pollution   &&   井水污染，地下水污染
+well winch   &&   矿井卷扬机，矿井提升机
+well-defined   &&   界限分明的
+well-defined set   &&   完全确定集合
+well-designed   &&   精心设计的
+well-developed crystal   &&   生长良好的晶体
+well-focused beam   &&   强聚焦电子束
+well-formed formula   &&   合式公式
+well-formed parenthesis string   &&   合式括号行
+well-posed problem   &&   适定问题
+well-structure   &&   优良结构
+welt   &&   衬板
+wet   &&   ①(潮)湿的②湿气，水分③沾湿④湿式，潮湿
+wet abrasive blasting   &&   湿喷砂
+wet and dry bulb hygrometer   &&   干湿球湿度表，干湿球温度计
+wet atmospheric corrosion   &&   湿气腐蚀
+wet back boiler   &&   屏蔽式锅炉，温背式锅炉
+wet bag   &&   湿袋法韦斯特莱克自动成形法
+wet ball   &&   湿球磨
+wet blasting   &&   水砂抛光处理
+wet boring   &&   湿式钻孔
+wet bulb   &&   湿球
+wet cell   &&   湿电池
+wet cleaner   &&   湿式除尘器，湿法洗涤器，湿清刷机
+wet clutch   &&   湿式离合器
+wet contact   &&   湿接触点，直流触点
+wet corrosion   &&   液体腐蚀
+wet emery mill   &&   金刚砂湿磨机
+wet extrusion moulding   &&   湿式挤压成型
+wet flash-over distance   &&   湿闪络距离，湿放电距离
+wet flash-over voltage   &&   湿闪络电压，湿放电电压
+wet gas meter   &&   湿式气体表
+wet geothermal reservoir   &&   湿地热库
+wet grinding   &&   湿球磨，湿磨法
+wet grip   &&   湿地附着
+wet lapping   &&   湿法抛光(研磨)法
+wet lead   &&   粗铅
+wet liner   &&   湿式气缸套
+wet machine   &&   纸浆机
+wet magnetic separator   &&   湿式磁选机
+wet metallurgy   &&   湿法冶金，水冶
+wet method   &&   湿法
+wet mill   &&   ①湿磨机②洗涤机(橡胶)
+wet mixing   &&   湿混合
+wet motor   &&   湿式电动机，潜水式电动机
+wet pan mill   &&   湿式盘碾，湿研盘，湿碾碎机
+wet pressing   &&   湿压法
+wet process   &&   ①湿法，水法②湿选法，湿法工艺
+wet process development   &&   湿过程显影
+wet quenching   &&   湿式淬火
+wet reclamation   &&   湿法再生(型砂)
+wet shelf life   &&   湿搁置寿命
+wet sleeve   &&   湿式气缸套
+wet smelting   &&   湿法冶金
+wet station   &&   沾湿台
+wet steam   &&   湿蒸汽
+wet strength   &&   ①耐湿性②湿态强度③湿型砂抗拉强度
+wet sump   &&   湿式油底壳
+wet tank   &&   贮液罐
+wet tempering   &&   湿式回火
+wet tensile strength   &&   湿拉力，湿拉张强度
+wet tumbling   &&   湿(法)抛光
+wet wire drawing   &&   湿法拉丝
+wet-bottom gas producer   &&   水封式煤气发生炉
+wet-bulb temperature   &&   湿球温度
+wet-bulb thermometer   &&   湿球温度计，湿球温度表
+wet-drawn wire   &&   湿拉钢丝
+wet-electrolytic capacitor   &&   液体电解质电容器，湿电解电容器
+wet-milling   &&   湿磨法
+wet-proof   &&   防潮的，耐湿的
+wet-scale disposal   &&   湿法排除氧化皮，湿法除鳞
+wet-wound   &&   湿绕
+wetness   &&   湿度，潮湿
+wetness fraction   &&   湿度
+wetout   &&   浸润处理
+wets   &&   湿胎
+wettability   &&   润湿法，浸湿性，可润湿性，润湿能力
+wetted-die   &&   湿模
+wetting   &&   润湿
+wetting ability   &&   润湿能力
+wetting action   &&   润湿作用
+wetting agent   &&   湿润剂，表面活性剂
+wetting angle   &&   润湿角
+wetting characteristics   &&   润湿特性
+wetting property   &&   润湿性，浸润性
+wetting treatment   &&   湿处理，湿选
+wetting tumbling barrel   &&   湿式清理滚筒
+wharf crane   &&   码头起重机
+wheel   &&   ①轮，车轮，滚轮，轮辋和轮辐总成，转向盘②转动，滚动，旋转③轮形图
+wheel abrator machine   &&   转轮喷砂机(清理带材或线材用)
+wheel arch   &&   车轮拱罩
+wheel assembly   &&   车轮总成
+wheel axis system   &&   车轮坐标系
+wheel axle   &&   轮轴
+wheel balancing device   &&   砂轮平衡装置
+wheel base   &&   轴距
+wheel blade   &&   轮叶
+wheel body   &&   轮心，轮体
+wheel bolt   &&   车轮螺栓
+wheel bore   &&   轮中心孔
+wheel box   &&   轮轴轴承箱
+wheel centre   &&   轮心
+wheel cylinder   &&   轮缸
+wheel disc   &&   轮辐
+wheel drag   &&   轮阻力
+wheel dresser   &&   砂轮整修器
+wheel dressers   &&   砂轮修整器
+wheel dressing device   &&   砂轮修整装置
+wheel dressing tool   &&   砂轮修正工具
+wheel excavator   &&   ①轮式挖土机②斗轮式挖土机
+wheel flange   &&   轮缘
+wheel flutter   &&   车轮摆振
+wheel head   &&   砂轮头架
+wheel hop   &&   车轮跳动
+wheel hub   &&   轮毂
+wheel lathe   &&   车轮车床
+wheel mill   &&   轮碾机，车轮轧机
+wheel motor   &&   车轮电动机
+wheel nut   &&   车轮螺母
+wheel nuts   &&   轮壳螺帽
+wheel plane   &&   车轮平面
+wheel plough   &&   轮式犁
+wheel printer   &&   轮式印刷机，轮形打字机
+wheel rib   &&   轮辐
+wheel rim   &&   轮辋，轮缘
+wheel rolling mill   &&   车轮轧机
+wheel shimmy   &&   车轮摆振
+wheel skid   &&   车轮滑移
+wheel slip   &&   滑转, 打滑, 车轮空转，车轮滑转
+wheel slip brake control system   &&   防抱死制动系统
+wheel slip torque   &&   车轮打滑扭矩
+wheel slippage   &&   车轮滑动
+wheel speed   &&   轮转速，砂轮转速
+wheel speed sensor   &&   车轮转速传感器
+wheel spider   &&   轮壳，车轮星形架
+wheel spin   &&   车轮滑转
+wheel spindle   &&   轮轴，砂轮主轴
+wheel tooth   &&   轮齿，齿轮的齿
+wheel torque   &&   车轮转矩
+wheel train   &&   轮系
+wheel tread   &&   ①轮距②轮胎花纹
+wheel trench excavator   &&   轮式挖沟机
+wheel trencher   &&   轮式挖沟机
+wheel truing   &&   砂轮修正
+wheel tyre   &&   车轮轮箍，轮箍
+wheel web   &&   车轮腹板
+wheel well   &&   ①轮窝②轮辋中部凹进部分
+wheel wobble   &&   ①车轮摆振②转向车轮绕转向主销的自激振动
+wheel-barrow   &&   手推车，独轮小车
+wheel-base   &&   轮距，轴距
+wheel-retracting gear   &&   起落架收放机构
+wheel-slide   &&   中车轮打滑，车轮滑行
+wheel-type tractor   &&   ①轮式拖拉机②轮式牵引机
+wheel-tyre lathe   &&   车轮车床，轮箍车床
+wheelbarrow seeder   &&   手推车式播种机
+wheelbarrow sprayer   &&   手推车式喷雾机
+wheelbase   &&   轴距
+wheeled   &&   带行走轮的，轮式的
+wheeled backhoe loader   &&   轮胎式挖掘装载机
+wheeled cable drum carriage   &&   电缆放线车
+wheeled crane   &&   轮式起重机，轮式吊挂
+wheeled dozer   &&   轮胎式推土机
+wheeled drill jambo   &&   轮胎式凿岩台车
+wheeled excavator   &&   轮胎式挖掘机
+wheeled loader   &&   轮胎式装载机
+wheeled tractor   &&   轮胎式拖拉机，轮式拖拉机，轮式牵引车
+wheelhead   &&   砂轮头，磨头
+wheelhouse   &&   驾驶室
+wheeling   &&   ①运行，运转②车辆搬运
+wheelless plow   &&   无轮犁
+wheelmark   &&   轮迹，轮辙
+wheelspin   &&   滑转, 打滑, 车轮空转
+whereabouts search   &&   下落搜索
+whereabouts search strategy   &&   下落搜索策略
+whereupon   &&   于是
+whetstone   &&   ①油石②磨刀石
+whim   &&   ①卷扬机，绞车②绞盘，绞绳滚筒，起重装置
+whip   &&   ①搅拌②打出，分开③绕，绞④滑轮吊车⑤用小滑车提升
+whip antenna   &&   鞭状天线
+whip crane   &&   动臂起重机
+whip guide   &&   防振导向
+whip hoist   &&   动臂起重机
+whiplash   &&   头部受伤
+whipping   &&   ①抖动②绕，捆，扎
+whirl   &&   旋转，迥转
+whirl gate   &&   离心集渣浇口，旋涡侧浇口(滤渣浇口)
+whirling   &&   ①轴扭转振动②旋转，回转
+whirling chamber   &&   涡流室
+whirling current   &&   涡流
+whirling cutter milling   &&   旋风铣削
+whirling psychrometer   &&   旋转干湿表
+whirling speed   &&   ①共振转速，共振回转速度②临界速度
+whirling test   &&   离心试验，旋转试验
+whirlpool   &&   ①涡流，旋涡②涡流器
+whirlpool effect   &&   旋涡效应
+whirlwind   &&   旋风，旋流
+whirlwind computer   &&   旋风计算机
+whirring   &&   嘘声
+whisker   &&   晶须
+whisker  reinforced metal   &&   须晶增强金属
+whisker crystal   &&   须晶
+whisker fibre   &&   晶须纤维，单晶纤维
+whisker growth   &&   晶须生长
+whisker reinforcement   &&   须晶增强(作用)
+whisker structure   &&   晶须组织
+whisker technology   &&   晶须工艺学
+whisker-like crystal   &&   须晶
+whistle   &&   ①啸声②警笛，汽笛
+whistle interference   &&   啸声干扰
+whistle operator   &&   警笛操作器，汽笛信号操作器
+whistle signal   &&   音响信号
+whistling   &&   振鸣声
+white X-rays   &&   白色X射线
+white alumina   &&   白色氧化铝
+white alundum   &&   白刚玉
+white annealing   &&   二次退火，光亮退火
+white balance   &&   白平衡
+white balancer   &&   白色平衡器
+white brass   &&   白铜(高锌)
+white bronze   &&   白青铜(含Ni 4％的铜锡镍合金)
+white cast iron   &&   白铸铁，白口铸铁
+white ceramic tile   &&   白瓷砖
+white clay   &&   白泥
+white clip circuit   &&   白色电子限制电路
+white cold-blast pig iron   &&   冷风白口铁
+white compression   &&   白色区域压缩
+white copper   &&   德银，辛白铜(Cu 65％，Ni 14％～15％，Zn 20％～21％)
+white edge   &&   白色边缘，白框(电视图像失真)
+white etch   &&   白色腐蚀剂
+white finished sheet   &&   酸洗薄板
+white flag   &&   白色标记(录像)
+white gold   &&   白金，白钯合金(Au 75％，Pt 0～10％，余为Pd)
+white gold alloy   &&   白色金银合金
+white graphite   &&   白石墨
+white heat   &&   白热，白炽
+white iron   &&   白口铁
+white layer   &&   白层
+white lead   &&   铅白，碱式硫酸铅，白铅粉
+white level   &&   白色电子(电视的)
+white metal   &&   巴比合金，白合金(含Sn，Sb，Pb和Cu的轴承合金)
+white moulding plaster   &&   造型白石膏
+white noise   &&   白噪声
+white olivine   &&   橄榄石(Mg2SiO4)
+white peak   &&   (电视图像)最白点的信号电子，最高白色信号电平，白峰(电视的)
+white peak point   &&   白色峰点(电视)
+white phosphor screen   &&   黑白荧光屏
+white phosphorus   &&   白磷，黄磷
+white pickling   &&   二次酸洗
+white pig iron   &&   白生铁，白口铁
+white plague   &&   白疫，白斑
+white random vibration   &&   白随机振动
+white recording   &&   白色记录法(传真)
+white reference level   &&   白色参考电平(传真)
+white resin   &&   松香，白树脂
+white rust   &&   白霜(锌铸件上)
+white saturation   &&   “白色”饱和(电视)
+white signal   &&   白色信号(电视)
+white slag   &&   白渣(电炉)
+white spot   &&   自点
+white tin   &&   白锡
+white transmission   &&   白色传输蜡
+white vaseline   &&   白凡士林，白矿蜡
+white zinc   &&   锌白
+white-box model   &&   白箱模型
+white-dot generator   &&   白色信号发生器
+white-heart malleable iron   &&   白心可锻铸铁
+white-noise generator   &&   白噪声发生器
+white-to-black amplitude range   &&   黑白信号振幅范围
+white-to-black frequency swing   &&   黑白频偏
+whitemetal   &&   白合金
+whiteness   &&   白度
+whitening   &&   白色化，白涂料(铝铸件用)，非碳素涂料，白化
+whiteware   &&   白色陶瓷器
+whitewash   &&   ①涂白②白涂料③氢氧化铝洗液
+whiting   &&   白色化，白化
+whizzer   &&   离心机，干燥机，分离机
+whole body irradiation   &&   整体照射
+whole coiled winding   &&   全线圈绕组
+whole depth   &&   全齿高，齿全高
+whole form with wax process   &&   整模涂蜡脱模工艺
+whole machine balancing   &&   整体平衡
+whole number   &&   整数，全数
+whole-part structure   &&   整体-部分结构
+wick   &&   ①灯心②油绳
+wick  lubricator   &&   油绳润滑器
+wick carburetor   &&   油绳化油器
+wicking   &&   浸锡
+wide address bus   &&   广地址总线
+wide angle lenses   &&   广角镜头
+wide angled lens   &&   广角镜头
+wide area   &&   宽区
+wide area network   &&   广布网络，广域网[WAN]
+wide area telephone service   &&   大区电话业务
+wide band oscillator   &&   宽频带振荡器
+wide band oscilloscope   &&   宽带示波器
+wide band oscilloscope tube   &&   宽频带示波管
+wide band seismograph   &&   宽频带地震仪
+wide band signal coding   &&   宽带信号编码
+wide fiat steel   &&   宽带钢
+wide frequency band device   &&   宽频带器件
+wide gauge railways   &&   宽轨铁路
+wide meter   &&   宽刻度仪表
+wide plate mill   &&   宽板轧机
+wide screen   &&   宽屏幕
+wide strip mill   &&   宽带轧机
+wide-angle   &&   广角的
+wide-angle scanner   &&   广角扫描器
+wide-angle shot   &&   广角摄像
+wide-angled object glass   &&   广角物镜
+wide-angled objective   &&   广角物镜
+wide-aperture lens   &&   大孔径物镜
+wide-aperture optical magnifier   &&   大孔径放大镜
+wide-band   &&   宽(频)带
+wide-band amplifier   &&   宽带放大器
+wide-band antenna   &&   宽波段天线
+wide-band axis   &&   宽带(色度)轴
+wide-band channel   &&   宽带信道
+wide-band communication system   &&   宽带通信系统，宽带调制解调器
+wide-band data set   &&   宽带数据机
+wide-band dipole   &&   宽带偶极子(天线)
+wide-band equipment   &&   宽带设备
+wide-band facsimile   &&   宽带传真机
+wide-band filter   &&   宽带滤波器
+wide-band link   &&   宽带通信线路
+wide-band signal   &&   宽带信号
+wide-band system   &&   宽带制
+wide-body aircraft   &&   宽机身飞机，巨型飞机
+wide-field eyepiece   &&   广视野目镜
+wide-flange I-beam   &&   宽缘工字钢
+wide-gap junction   &&   宽禁带结
+wide-range   &&   ①宽量程②宽波段③宽射程
+wide-range meter   &&   宽量程仪表
+wide-sense stationary process   &&   广义平稳过程
+wide-wheel grinding   &&   宽磨
+widening circuit   &&   展宽电路
+widescope   &&   宽频带示波器
+width   &&   宽度
+width across flat   &&   扳手开口宽度
+width coding   &&   宽度编码
+width coil   &&   调宽线圈(电视)
+width control   &&   ①(图像)宽度调整②脉宽调整
+width meter   &&   宽度计
+width of acoustic emission event   &&   声发射事件宽度
+width of cloth   &&   幅面
+width of cut   &&   切削寛度
+width of flat-face   &&   从动件平底宽度
+width series   &&   宽度系列，波发生器
+width standard plate   &&   宽度标准样板
+width-pulse modulation   &&   脉冲宽度调节
+wild steel   &&   强烈沸腾钢，沸腾钢
+willemite   &&   硅酸锌矿
+willful intercept   &&   任意截听
+winch   &&   绞车，稳车(凿井)
+winch drum   &&   绞车卷筒
+wind   &&   ①曲绕，卷绕②绞起③风
+wind blown coal   &&   风化煤
+wind brace   &&   防风拉条
+wind channel   &&   风洞，风道
+wind charger   &&   风力充电器
+wind cone   &&   圆锥风标
+wind cup   &&   风杯
+wind data   &&   风力数据
+wind direction   &&   风向
+wind energy   &&   风能
+wind erosion   &&   风蚀
+wind finding radar   &&   测风雷达
+wind force   &&   风力
+wind force scale   &&   风级
+wind furnace   &&   自然通风炉
+wind indicator   &&   风向仪
+wind loading   &&   风负载
+wind mill anemometer   &&   叶轮式风速表
+wind motor   &&   风力发动机
+wind pipe   &&   风管
+wind power   &&   风力，风能
+wind power generation   &&   风力发电
+wind power plant   &&   风力发电厂
+wind power system   &&   风力系统
+wind pressure   &&   风压
+wind proof   &&   ①不透风，防风②风压
+wind resistance   &&   风阻力
+wind run   &&   风程
+wind scale   &&   风级
+wind scooper   &&   风斗
+wind screen   &&   挡风板，风挡
+wind shear   &&   风切变
+wind shield   &&   ①挡风板，风挡②天线罩(雷达)
+wind sleeve   &&   风(向)袋
+wind sock   &&   风(向)袋
+wind speed   &&   风速，风速
+wind speed distribution   &&   风速分布
+wind speed of test point   &&   测试点风速
+wind stress   &&   风压应力
+wind survey   &&   测风
+wind tone horn   &&   气动喇叭
+wind tunnel   &&   风洞
+wind tunnel laboratory   &&   风洞实验室，空气动力学实验室
+wind tunnel plant system   &&   风洞装置系统
+wind turbine   &&   风轮机，风力涡轮机
+wind turbine generator   &&   风力发电机，风力涡轮发电机
+wind turbulence   &&   风湍流
+wind vane   &&   风向标，风向标，风浪
+wind velocity   &&   风速
+wind ward   &&   面风的，迎风的
+wind wheel   &&   风车
+wind-aggregated sand   &&   风集细砂
+wind-break   &&   防风设备
+wind-down   &&   逐渐减少
+wind-driven generator   &&   风力发电机
+wind-force   &&   风力
+wind-gauge   &&   测风速器，风速计
+wind-mill curve   &&   风车线
+wind-rower   &&   ①割晒机②作物铺条机，堆行机③割草铺条机
+wind-run   &&   风趋势
+wind-tunnel computer   &&   风洞型计算机
+wind-up   &&   ①缠绕②上发条③用绞车绞起
+windage   &&   ①风力修正量，偏差②游隙，余隙
+windage loss   &&   通风损耗(电机的)，鼓风损耗
+windage resistance   &&   风阻力
+winder   &&   ①绕线机，络纱机②卷纸机③高升机④绞车，拉丝机
+winder spooler   &&   翻丝机，络纱机
+windhole   &&   风眼
+winding   &&   绕，卷，绕组，线圈
+winding coefficient   &&   绕组系数
+winding conveyer   &&   风选输送机
+winding diagram   &&   绕组图
+winding displacement   &&   排线，绕组位移
+winding element   &&   绕组单元
+winding engine   &&   卷扬机，提升机
+winding factor   &&   绕线系数，绕组因数
+winding fault   &&   绕组故障
+winding frame   &&   绕组架
+winding impregnation   &&   绕组浸渍
+winding machine   &&   ①缠绕机，绕线机，络纱机②提升机③卷切机
+winding mechanism   &&   卷绕装置
+winding pitch   &&   绕组节距
+winding point   &&   分枝点
+winding reel   &&   绕线筒
+winding shield   &&   绕组屏蔽
+winding technique   &&   绕组绕制
+winding wire   &&   绕包线
+windlass   &&   锚机
+windmill   &&   风车
+windmill anemometer   &&   风车式风速表
+windmill generator   &&   风力发电机
+window   &&   ①金属带(干扰雷达用)②窗，窗孔，口③窗口，视窗，观察窗
+window absorption   &&   窗口吸收
+window function   &&   窗口函数
+window gasket   &&   车窗密封条
+window glass   &&   窗玻璃
+window in guide   &&   波导窗口
+window layer   &&   窗(口)层
+window lifter crank   &&   窗玻璃升降器摇手柄
+window lifter unit, front door   &&   前窗玻璃升降器总成
+window lifter unit, rear door   &&   后窗玻璃升降器总成
+window material   &&   窗(口)材料
+window polygon   &&   窗口多边形 多边形窗选
+window recess   &&   车窗凹槽
+window reveal   &&   车窗凹槽
+window sash section   &&   窗框钢
+window signal   &&   窗孔信号
+windowing   &&   开窗口
+windowless algorithm   &&   无窗算法
+windowtron   &&   高功率微波窗测试装置
+windproof lamp   &&   防风灯
+windscreen   &&   挡风玻璃
+windscreen angle   &&   挡风玻璃角
+windscreen wiper   &&   挡风玻璃雨刮
+windshield   &&   防风罩，挡风玻璃
+windshield angle   &&   挡风玻璃角
+windshield rake   &&   挡风玻璃倾角
+windshield wiper   &&   挡风玻璃雨刮
+windshield wiper arm   &&   (玻璃)风挡刮雨臂
+windy region   &&   多风地区
+windy site   &&   多风地点
+wing   &&   ①股，边(角钢的)，翼，翅②机翼③翼子板⑤翼面
+wing antenna   &&   机翼天线
+wing flats   &&   侧幕，背景屏
+wing light   &&   侧投灯光
+wing mirror   &&   后视镜
+wing nuts   &&   蝶型螺帽
+wing pump   &&   叶轮泵
+wing spot   &&   侧投点照灯光
+winged aircraft   &&   有翼飞行器
+wingless aircraft   &&   无翼飞行器
+winglet   &&   小翼
+winglets   &&   小翼
+wink   &&   ①闪烁②信号
+winker   &&   ①闪光灯②信号灯，信号装置
+winnow machine   &&   风选机
+winnow mill   &&   风选机
+winnower   &&   扬谷机
+winnowing conveyer   &&   风选输送机
+winter front   &&   水箱帘
+wipe   &&   ①撞击，冲击②擦，抹③挤锌辊④摩擦接触⑤消磁
+wipe chatter   &&   弧刷振动
+wipe in   &&   划入(电视)
+wipe out   &&   划出(电视)，消除
+wipe ring   &&   擦油圈
+wiper   &&   ①擦净器(复印机的)②刮水器③弧刷，电刷④涂油工具⑤滑臂，滑针⑥脱模钳
+wiper blade   &&   雨刮板
+wiper seal   &&   刮油密封环，刮油环，压力密封
+wiping   &&   ①接帚②滑触③消磁
+wiping action   &&   接帚作用，滑触作用
+wiping cloth   &&   擦布
+wiping current   &&   消磁电流
+wiping head   &&   消磁头
+wiping sleeve   &&   滑接套筒
+wiping, washing & dimming switch unit   &&   刮水、清洗、变光开关组件
+wipla   &&   铬镍钢
+wire   &&   ①钢丝，金属丝，线材②电线，导线③连线 线素
+wire E.D.M.   &&   线割放电加工机
+wire EDM   &&   线割
+wire and cable   &&   电线电缆
+wire angle indicator   &&   (钢丝绳)倾角器
+wire annealing   &&   钢丝退火，金属丝退火
+wire bar   &&   条锭
+wire bar copper   &&   条锭铜
+wire bond   &&   引线接合，引线连接
+wire bonder   &&   引线接合器
+wire braid   &&   金属丝编织层
+wire broadcasting   &&   有线广播
+wire brush   &&   钢丝刷
+wire cloth   &&   ①筛网②钢丝布，铁纱
+wire coil   &&   焊丝卷
+wire communication   &&   有线电通信
+wire conduit   &&   导线导管
+wire constant   &&   金属线常数
+wire core   &&   钢丝心(钢丝绳的)
+wire cutters   &&   剪线钳
+wire cutting EDM   &&   电火花线切割，电火花线切割机床
+wire dip   &&   线夹
+wire drawing die   &&   拉丝模
+wire duct   &&   电线管道
+wire entanglement   &&   铁丝网
+wire feeder   &&   送丝机构
+wire forming machine   &&   定型弯丝机
+wire frame   &&   线帧(显示所有线的一种方法)，全帧显示方式
+wire frame model   &&   线框模型，线架构模型
+wire fuse   &&   保险丝
+wire galvanizing   &&   钢丝镀锌
+wire gauze   &&   铁丝网，铁纱
+wire glass   &&   夹丝玻璃
+wire grip   &&   线器
+wire memory   &&   磁线存储器
+wire mesh   &&   钢丝网，铁丝网
+wire method   &&   热电偶测金属熔点法
+wire netting   &&   金属网，金属栅，铁丝网
+wire photo   &&   有线传真
+wire printer   &&   针式打印机
+wire recorder   &&   磁线录音机
+wire reel   &&   绕线盘
+wire relaying   &&   有线中继
+wire resistance   &&   线绕电阻
+wire ring   &&   支承环
+wire rod rolling   &&   线材轧制
+wire rope   &&   金属丝绳，钢丝绳
+wire rope machine   &&   制钢丝绳机
+wire sheath   &&   导线外皮
+wire soft shaft   &&   钢丝软轴，钢丝软轴
+wire solder   &&   焊线
+wire spark chamber   &&   丝火花室
+wire splicing   &&   导线编接
+wire spring   &&   圆线弹簧
+wire spring relay   &&   线簧继电器
+wire stitcher   &&   铁线订书机
+wire stitching machine   &&   铁线订书机
+wire stopper   &&   钢索制动器
+wire storage   &&   磁线存储器
+wire strain gauge   &&   丝式应变计
+wire stripper   &&   剥线钳
+wire symbol   &&   线号
+wire tension   &&   导线张力
+wire termination   &&   导线接线端
+wire torsion tester   &&   线材扭转试验机
+wire type transducer   &&   丝式传感器
+wire under voltage   &&   火线
+wire wheel   &&   辐条车轮
+wire wound resistor   &&   线绕电阻器
+wire wrap   &&   金属浇丝
+wire-armoured   &&   钢丝铠装的
+wire-cut brick   &&   机制砖(线割)
+wire-electrode copying cutting   &&   靠模线切割
+wire-electrode cutting   &&   线切割，电火花线切割
+wire-mesh screen   &&   丝网
+wire-moving system   &&   走丝系统
+wire-rolling mill   &&   线材轧机
+wire-sharing system   &&   分线传输系统
+wire-steel   &&   钢丝
+wire-wound potentiometer   &&   线绕电位器
+wire-wrap connector   &&   线接连接器
+wired duct   &&   电线管道
+wired in   &&   编排好的，布好线的
+wired radio   &&   有线载波通信
+wired rawing   &&   拉丝，拔丝
+wired rawing bench wire drawer   &&   拉丝机
+wireless communication   &&   无线通信
+wireless equipment   &&   无线电设备
+wireless message   &&   无线电报
+wireless microphone   &&   无线传声器
+wireless microphone receiver   &&   无线传声器接收机
+wireman   &&   线路工
+wiresonde   &&   系留探空仪
+wiring   &&   布线
+wiring capacity   &&   布线容量
+wiring harness   &&   线束
+wiring list   &&   布线表
+wiring loom   &&   线束
+wiring material   &&   布线材料
+wiring strategy   &&   布线圈
+wishbone   &&   叉形臂
+with respect to   &&   相对于
+with the grain   &&   顺纹
+withdrawable fire box   &&   退火箱
+withdrawal   &&   分离
+withdrawal bearing   &&   离合器分离轴承
+withdrawal plate   &&   分离盘
+without bias   &&   无偏(性)
+withstand   &&   经受，经得起
+withstand voltage test   &&   耐电压实验
+witness line   &&   证示线
+wobble   &&   ①摇摆，摆动，震颤，晃动②不稳定运动
+wobble bond   &&   振动焊接
+wobble plate   &&   斜盘，旋转斜板
+wobbler   &&   ①梅花头(轧钢)②凸轮，偏心轮，摆轮，摇摆轮③摇壁调焦器
+wobbler mechanism   &&   摇摆机构
+wobbling effect   &&   颤动效应
+wobbling system   &&   摇频制
+wobbulation   &&   频率摆动，射束微摆
+wobbulator   &&   摆频信号发生器，摇频信号发生器
+woggle joint   &&   活动连接，活接头
+wolfram   &&   钨W(74)
+wolfram brass   &&   钨黄铜(Cu 60％，Zn 22％，Ni 14％，W 4％)
+wolfram bronze   &&   钨青铜(W10％，余为Cu)
+wolfram steel   &&   钨钢
+woman's lavatory   &&   女厕所
+wood borer   &&   木钻床
+wood charcoal   &&   木炭
+wood coal   &&   褐煤，木煤
+wood craft machine   &&   木工机械
+wood cutter   &&   木工刀具
+wood match   &&   木胎模
+wood pattern   &&   木模
+wood planner   &&   刨木机
+wood planning-machine   &&   刨木机
+wood-pegging machine   &&   木栓机
+wood-plastic composite   &&   木塑料复合材料[WPC]
+wood-scraping machine   &&   平刀刨光机
+wood-splitting machine   &&   劈木机
+wood-working machine   &&   木工机械
+wood-working machine tool   &&   木工机床
+wooden bar   &&   木片，木煤
+wooden former   &&   木模
+wooden hammer   &&   木锤
+wooden land-measuring dividers   &&   弓
+wooden pattern   &&   木模
+wooden pole   &&   木柱，木杆
+woodruff key   &&   半圆键
+woody fracture   &&   木纹状断口
+woofer   &&   低音扬声器
+wool spinning machinery   &&   毛纺机械
+word   &&   字，单词
+word address   &&   字码地址
+word articulation   &&   字清晰度
+word boundary   &&   字边界
+word code   &&   字码
+word count compare mode   &&   字计数比较方式
+word generator   &&   字符生成器
+word key   &&   字键
+word length   &&   字长，字码长度
+word operand   &&   宇操作数
+word problem   &&   字问题
+word processing   &&   字处理
+word processing control function   &&   字处理控制功能
+word processing equipment   &&   字处理设备
+word processing equipment for print-out only   &&   只印出的字处理设备
+word processing equipment for recording and print-out only   &&   只纪录和印出的字处理设备
+word processing equipment for recording only   &&   只纪录的字处理设备
+word processing equipment using remote program   &&   使用远程序的字处理设备
+word processing equipment with changeable program   &&   配可变程序的宇处理设备
+word processing terminal class   &&   字处理终端类
+word recognition   &&   字识别
+word select   &&   选字，选语
+word size   &&   字号
+word wrap   &&   词语换行 文字折行
+word-organized storage   &&   字选存储器
+word-oriented machine   &&   面向字的计算机
+word-oriented processor   &&   面向宇的处理机
+word-series   &&   字符串行
+words per minute   &&   每分钟字数
+work   &&   ①功②工作③工件④作业⑤工厂⑥功夫
+work air   &&   主风，助燃空气
+work allocation   &&   工作分配
+work bag   &&   工具袋
+work bench   &&   工作台
+work blank   &&   毛坯
+work breakdown structure   &&   任务分解结构，工作分解结构[WBS]
+work brittleness   &&   加工脆性
+work capacity   &&   作功能力
+work cell   &&   工作间
+work center   &&   工作中心
+work content   &&   功函
+work file   &&   工作文卷
+work function   &&   功函数，姆霍兹自由能，逸出功
+work function difference   &&   功函数差
+work handling   &&   工件传送
+work handling device   &&   工件传送装置
+work hardening   &&   加工硬化，应变硬化
+work in process   &&   在制品
+work in progress product   &&   在制品
+work measurement   &&   作业测定
+work measurement techniques   &&   工作效率计算方法
+work of deformation   &&   变形功
+work order   &&   工作令，工令
+work piece   &&   工件
+work recrystallization   &&   加工再结晶
+work rest blade   &&   刀形支承，导(向)板，导向尺(无心磨床的)
+work roll   &&   工作辊
+work sheet   &&   工作卡
+work shop   &&   车间
+work softening   &&   加工软化
+work station   &&   工作站
+work station for computer aided design   &&   计算机辅助设计工作站
+work strengthening   &&   加工强化，加工硬化
+work study   &&   工作研究
+work tests roll   &&   检验工件主轴转角
+work-box   &&   工具箱
+work-hardening alloy   &&   加工硬化合金
+work-hardening behaviour   &&   加工硬化特性
+work-hardening curve   &&   加工硬化曲线
+work-hardness   &&   加工硬度，冷作硬度
+workability annealing   &&   改善加工性的退火
+workability of metal material   &&   金属材料加工性能
+worked crystal   &&   加工晶体
+worker   &&   工人
+workhead   &&   工件夹具
+workhead offset   &&   垂直轮位
+workholding equipment   &&   工件夹具
+working   &&   加工，作业
+working attenuation   &&   工作衰减量
+working chamber   &&   工作室
+working conditions   &&   工作条件
+working cycle diagram   &&   工作循环图
+working depth   &&   工作齿高
+working drawing   &&   工作图形 工作图面
+working equation   &&   运算方程式
+working fluid   &&   工作流体
+working flux   &&   工作通量
+working gauge   &&   工作量规
+working heads   &&   工件头架
+working hour meter   &&   工时计
+working line   &&   运行线路
+working link   &&   执行构件
+working load   &&   使用载荷，工作载荷
+working loss   &&   工作损耗
+working parameter   &&   运行参数
+working pressure   &&   工作压力
+working pressure angle   &&   啮合角
+working procedure   &&   工序
+working radius   &&   工作半径
+working reference plane   &&   基准面
+working resolution   &&   工作分辨率
+working sensitivity   &&   工作灵敏度
+working space   &&   工作空间
+working stand   &&   工作台
+working standard   &&   工作标准器
+working step   &&   工序
+working stress   &&   工作应力，工作允许应力
+working stroke   &&   动力冲程
+working surface   &&   工作面
+working table   &&   工作台
+working temperature   &&   工作温度
+working voltage   &&   工作电压
+working width   &&   有効宽度
+works trailer   &&   工作挂车
+worksheet   &&   计算表
+workstation   &&   工作站
+worktable   &&   工作台(机床)，工作桌
+world coordinate system   &&   世界坐标系，世界座标系统[WCS]
+world model   &&   全球模型，世界模型
+worm   &&   蜗杆，螺杆
+worm and lever   &&   蜗杆指销式转向器
+worm and lever steering   &&   蜗杆曲柄式转向器
+worm and nut steering   &&   蜗杆螺母式转向器
+worm and peg steering   &&   蜗杆指销式转向器
+worm and roller   &&   蜗杆滚轮机构
+worm and sector steering   &&   蜗杆齿扇式转向器
+worm and sector steering gear   &&   蜗杆与扇形转向齿轮
+worm and worm gear   &&   蜗杆蜗轮机构
+worm cam interval mechanism   &&   蜗杆形凸轮步进机构，蜗杆蜗轮机构
+worm conveyer   &&   螺旋输送机
+worm drive   &&   蜗杆传动
+worm feeding core extrusion machine   &&   螺旋挤心机
+worm gear   &&   ①蜗杆与涡轮②蜗轮③蜗杆蜗轮机构
+worm gear hob   &&   蜗轮滚刀
+worm gear machining   &&   蜗轮加工
+worm gear pair   &&   蜗轮副
+worm gear tester   &&   蜗轮付检查仪
+worm gearing   &&   蜗杆传动机构
+worm steering gear   &&   蜗杆转向装置
+worm wheel   &&   蜗轮
+worm with variable tooth thickness   &&   变齿厚蜗杆
+worming   &&   龟裂
+worn out   &&   磨穿，磨损
+wortle plate   &&   拉丝模板
+wound primary type current transformer   &&   绕线式电流互感器
+wound rotor asynchronous motor   &&   绕线型异步电动机
+wound-type capacitor   &&   卷绕型电容器
+woven metal   &&   金属网
+wow flutter   &&   频率颤动(录音)
+wrap-round boast   &&   侧面加速器，侧置助推机
+wraparound contact   &&   卷包式接触
+wraparound oven   &&   壳心电热炉
+wrapped boosters   &&   缠绕升压线圈
+wrapped pattern   &&   挠曲模样
+wrapping   &&   包装
+wrapping machine   &&   绕包机
+wrapping material   &&   包装材料
+wrapping test   &&   往复曲折试验，缠绕试验
+wrapround   &&   卷绕抱合的
+wreath product   &&   圈积
+wrecker   &&   ①清障车②抢险车
+wrench   &&   螺旋扳手，扳手
+wrenches   &&   扳手
+wriggling discharge   &&   扭曲放电
+wrinkle   &&   ①折叠，折皱，皱折②皱纹
+wrinkle recovery   &&   折皱回复，回皱性
+wrist   &&   腕部，肘节
+wrist pin   &&   活塞销
+write   &&   写
+write circuit   &&   写入电路
+write down   &&   记录
+write driver   &&   写数驱动器
+write enable   &&   允许写入
+write head   &&   记录头
+write inhibit ring   &&   禁止写入环
+write input signal   &&   记录输人信号
+write key   &&   写关键字
+write lockout   &&   写入封锁
+write only memory   &&   只写存储器[WOM]
+write read head   &&   读写头
+write signal   &&   记录信号
+write store   &&   写入存储器
+write-off   &&   报废
+write-protected memory   &&   保护写入存储器
+write-while-read   &&   边写边读
+writer   &&   ①打字机②记录器
+writing bar   &&   书写杆
+writing beam   &&   记录电于束
+writing materials   &&   文具
+writing rate   &&   记录速率，书写速率
+writing scan   &&   记人扫描
+writing speed   &&   记录速度
+writing-telegraph   &&   传真电极，打字电报机
+wrong number   &&   错号
+wrought   &&   可锻，精制
+wrought alloy   &&   锻造合金
+wrought aluminium alloy   &&   锻造铝合金
+wrought heat-treatment alloy   &&   可锻耐热合金，形变耐热合金
+wrought iron   &&   熟铁，锻铁
+wrought steel   &&   熟铁，锻钢，形变钢
+wrought-iron pipe   &&   熟铁管
+wrought-iron plate   &&   熟铁板
+wurtzite   &&   纤维锌矿
+wurtzite structure   &&   纤锌矿结构，纤维锌矿型组织
+wye junction   &&   Y形结线

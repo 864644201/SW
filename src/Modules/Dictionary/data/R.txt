@@ -1,0 +1,4915 @@
+RAC   &&   (Royal Automobile Club UK) (英)皇家汽车俱乐部
+RAC horsepower   &&   RAC功率
+RAC rating   &&   RAC速率
+RBN   &&   (Research Blending Number) 研究混合数
+RF   &&   (radio frequency) 射频, 无线电频率
+RF-presentation   &&   射频显示
+RGB colour   &&   红绿蓝颜色
+RHA   &&   (Road Haulage Association UK)  (英)公路货运协会
+RON   &&   (Research Octane Number) 研究法辛烷值
+ROPS   &&   (Roll-Over Protective Structure) 翻车保护结构
+RS-232 Interface   &&   RS-232接口
+RSI   &&   (Runaway Surface Ignition) 失控表面点火
+RTL   &&   (Resistor-Transistor Logic electronic) (电子学)电阻晶体管逻辑
+RUFIT   &&   (Rational Utilization of Fuels in Transport) 运输工具中的燃油合理利用
+RV   &&   (Recreational Vehicle) 休闲汽车
+RVI   &&   (Recreational Vehicle Institute US) (美)休闲汽车协会
+Raman displacement   &&   拉曼位移
+Raman line   &&   拉曼谱线
+Raman scattering   &&   拉曼散射
+Raman shift   &&   拉曼位移
+Raman spectrum   &&   拉曼光谱
+Rankine cycle   &&   兰肯循环
+Rankine temperature scale   &&   兰金温标
+Rapid Application Development   &&   应用程序快速开发工具
+Rare Earth Materials   &&   稀土族材料
+Request For Comments   &&   请求注解[RFC]
+Research Octane Number   &&   研究法辛烷值[RON]
+Reynolds number   &&   雷诺数
+Reynolds' number   &&   雷诺数
+Reynolds's equation   &&   雷诺方程
+Ribbon   &&   光纤带
+Ricardo engine   &&   里卡多发动机
+Ricardo head   &&   里卡多气缸盖
+Richardson number   &&   理查德逊数
+Ridg-AC   &&   镶片圆盘端面粗铣刀
+Ridging   &&   沟条变形
+Ring Laser Velocimeters   &&   环形激光流速计
+Rippling   &&   振纹
+Rivet gun   &&   拉钉枪
+Rivet table   &&   拉钉机
+Rivlin-Ericksen tensor   &&   里夫林-埃里克森张量(理性力学中的常用张量)
+Road and Traffic   &&   公路和交通
+Robot   &&   机器人
+Rochon Prisms   &&   Rochon棱镜
+Rocker arm   &&   摇臂
+Rockwell hardness   &&   洛氏硬度
+Rockwell hardness number   &&   洛氏硬度值
+Rockwell hardness penetrator   &&   洛氏硬度压头
+Rockwell hardness tester   &&   洛氏硬度计
+Rockwell superficial hardness number   &&   表面洛氏硬度值
+Rockwell superficial hardness tester   &&   表面洛氏硬度计
+Roesch rocker   &&   洛希摇臂
+Roland circle   &&   罗兰圆
+Roots blower   &&   罗茨增压器
+Rotoflex joint   &&   罗托夫莱克斯联轴节
+Routh approximate   &&   劳斯近似值法
+Routh array table   &&   劳斯数列表
+Routh-Hourwitz criterion   &&   劳斯-赫尔维茨判据
+Routh-Hourwitz theorem   &&   劳斯-赫尔维茨定理
+Rudge nuts   &&   罗基螺母
+Rutherford Back scattering spectroscopy   &&   卢瑟福背散射谱法(RBS spectroscopy)
+Rzeppa joint   &&   尔泽泊万向节
+fiber optic patch cord pigtail   &&   光纤跳接线
+fluorescent penetrant testing method   &&   荧光渗透探伤法
+formarc   &&   加工齿轮用的曲线齿廓刀具
+frequency measurement by vibration reed indicator   &&   用舌簧频率计测频
+rabbet   &&   ①刨刀②槽，槽口③榫接，嵌接
+rabbit antenna   &&   兔耳形天线
+rabbit ear   &&   兔耳形室内天线
+rabbling   &&   搅拌，刮平
+rabbling furnace   &&   搅拌炉
+rabbling roaster   &&   搅拌焙烧炉
+race   &&   ①座圈(滚珠轴承的)②滑流③逸转，空转
+race rotation   &&   逸转，空转
+racemic compound   &&   外消旋化合物
+racemic mixture   &&   外消旋混合物
+racemization   &&   外消旋作用
+raceway   &&   ①线槽②轴承座圈③输水道，电缆管道
+raceway flame temperature   &&   风口前燃烧带的温度，循环带火焰温度
+raceway wire   &&   槽板布线
+racing speed   &&   逸转速度
+rack   &&   ①齿条，齿杆②支架，座，台，齿板，牙条，齿条，框架③上料，机架
+rack and pinion   &&   齿条及小齿轮
+rack and pinion drive   &&   齿条齿轮传动
+rack bar   &&   齿条，齿杆
+rack broach   &&   齿条拉刀
+rack case   &&   齿条箱
+rack container   &&   格架式集装箱
+rack cutter   &&   齿条插刀
+rack cutting machine   &&   齿条切削机，切齿条机
+rack driving planer   &&   齿条传动刨床
+rack earth   &&   机壳地线，机架接地
+rack gear   &&   齿条传动
+rack insulator   &&   支架绝缘子
+rack jack   &&   齿条传动千斤顶
+rack machine   &&   齿条式装料机
+rack milling attachment   &&   齿条铣刨附件
+rack mount   &&   框架安装
+rack mounting   &&   支架安装
+rack panel   &&   机架仪表屏
+rack pinion   &&   齿条齿轮
+rack pinion drawbench   &&   齿轮式拉床
+rack pinion shaft   &&   齿轮齿条轴
+rack pinion steering gear   &&   齿轮-齿条转向机构
+rack rail   &&   齿轨
+rack railway   &&   齿条铁路
+rack rod   &&   齿条
+rack shaping machine   &&   齿条切齿机
+rack steering gear   &&   齿条式转向机构
+rack type cutter   &&   齿条式刀具
+rack type cutter for spur and helical gears   &&   正齿轮和斜齿轮齿条刀具
+rack type gear shaving cutter   &&   齿条式剃齿刀
+rack wheel with helical tooth   &&   螺旋齿轮
+rack-and-pinion   &&   齿轮-齿条副，齿条小齿轮，齿条齿轮传动
+rack-and-pinion gear   &&   齿轮一齿条机构
+rack-and-pinion jack   &&   齿轮-齿条千斤顶
+rack-and-pinion press   &&   齿轮-齿条传动压力机
+rack-and-pinion steering-gear   &&   齿轮-齿条式转向器
+rack-end pinion   &&   齿条传动
+rack-operated jack   &&   齿条传动起重器
+rack-shaped cutter   &&   齿条形刀具
+rack-shaped shaper cutter   &&   齿条插刀
+rack-type core-drying stove   &&   架式烘心炉
+rack-type drawbench   &&   齿轮式拉床，齿条式拉拔机
+rack-type pusher   &&   齿条式推钢机
+racked edges   &&   ①裂边(钢铁)②毛边，坏边(纺)
+racked gear hob   &&   斜角齿轮滚刀
+racking   &&   ①齿条传动②推压动作③台架，冷床
+racking force   &&   推压力
+racking load   &&   推压荷载
+racking motor   &&   推压电动机，移动电动机
+racking speed   &&   推压速度，移动速度
+racking stress   &&   推压应力
+racking winch   &&   支持索用绞车
+racking-type cooling bed   &&   锯齿式冷床
+radar   &&   雷达，雷达设备(radio detecting and ranging)
+radar absorbent material   &&   反雷达敷层材料
+radar absorbing material   &&   雷达吸收材料
+radar advisory   &&   雷达报告
+radar air traffic control   &&   雷达空中交通管制[RATCON]
+radar altimeter   &&   雷达高度计
+radar and television aid to navigation   &&   雷达和电视导航设备
+radar antenna   &&   雷达天线
+radar antijamming   &&   雷达抗干扰
+radar approach control   &&   飞机进场雷达控制[RAPCON]
+radar beacon   &&   雷达信标，无线电信标
+radar beam   &&   雷达射束
+radar bright display equipment   &&   雷达光亮显示设备
+radar buoy   &&   雷达浮标
+radar camouflage   &&   雷达伪装，对雷达的伪装
+radar chain   &&   雷达网，雷达防线
+radar clutter   &&   雷达背景干扰
+radar control   &&   雷达控制
+radar countermeasures   &&   雷达对抗，反雷达措施
+radar countermeasures and deception   &&   雷达对抗与伪装措施
+radar data   &&   雷达数据
+radar data converter   &&   雷达数据变换器，雷达数据密码机
+radar data filtering   &&   雷达数据滤波
+radar data processing   &&   雷达数据处理
+radar data processing system   &&   雷达数据处理系统
+radar deception   &&   雷达伪装
+radar decoy   &&   雷达诱骗
+radar detection   &&   雷达探测
+radar detection system   &&   雷达探测系统
+radar discrimination   &&   雷达分辨力
+radar display   &&   雷达显示器
+radar distance indicator   &&   雷达距离显示器
+radar echo   &&   雷达回波
+radar engineering   &&   雷达(工程)学
+radar fence   &&   雷达警戒网
+radar fire control   &&   雷达火力控制
+radar for collision avoidance   &&   避碰雷达
+radar guidance   &&   雷达制导_
+radar homing   &&   雷达自动引导，雷达寻的，雷达归航
+radar horizon   &&   雷达地平线
+radar identification point   &&   雷达识别点
+radar image   &&   雷达图像
+radar indicated face   &&   雷达显示表面，雷达荧光屏
+radar indicator   &&   雷达显示器，雷达示波器
+radar information   &&   雷达信息
+radar input mapper   &&   雷达输入制图器
+radar interface adapter   &&   雷达交接面接合器
+radar jamming   &&   雷达干扰
+radar link   &&   雷达中继站
+radar locating   &&   雷达测位
+radar map   &&   雷达地图
+radar marker   &&   雷达标志信标
+radar mast   &&   雷达天线桅杆，雷达电线升降装置
+radar meteorology   &&   雷达气象学
+radar motor generator   &&   雷达电动发电机
+radar navigation   &&   雷达导航
+radar netting unit   &&   雷达网装置
+radar picket   &&   雷达巡逻船，雷达哨
+radar picket destroyer   &&   雷达哨驱逐舰
+radar picket escort ship   &&   雷达哨护卫舰
+radar picket ship   &&   雷达哨舰
+radar power unit   &&   雷达动力装置
+radar pulse   &&   雷达脉冲
+radar range finder   &&   雷达测距仪
+radar receiver   &&   雷达接收机
+radar receiver-transmitter   &&   雷达收发两用机
+radar reconnaissance   &&   雷达侦察
+radar reflectivity   &&   雷达反射率
+radar relay   &&   雷达中继站
+radar remote sensing   &&   雷达遥感
+radar repeater   &&   雷达转发器
+radar report net   &&   雷达报告网
+radar resolution   &&   雷达分辨力
+radar return   &&   雷达回波
+radar scanner   &&   雷达扫描设备
+radar scope   &&   雷达屏，雷达显示器
+radar screen   &&   雷达荧光屏
+radar searchlighting   &&   雷达搜索
+radar set   &&   雷达设备
+radar shadow   &&   雷达盲区
+radar signal processing   &&   雷达信号处理
+radar sonde   &&   雷达探空仪
+radar sounding   &&   雷达探测
+radar target   &&   雷达目标
+radar tracing   &&   雷达跟踪
+radar tracking   &&   雷达跟踪
+radar tracking information   &&   雷达跟踪情报
+radar transceiver   &&   雷达收发机
+radar transmitter   &&   雷达发射机
+radar warning net   &&   雷达预警网
+radar wave packet   &&   雷达波包
+radar-homer   &&   雷达自动描准头，雷达导引头
+radar-proof   &&   反雷达
+radargrammetry   &&   雷达测量学
+radarship   &&   雷达舰(船)
+radial   &&   ①半径的，径向的②辐射的，辐向的，放射的，放射状的③径向④子午线轮胎
+radial admission   &&   径向进汽，径向进给，径向供给
+radial aeroengine   &&   星形航空发动机
+radial air gap   &&   径向气隙
+radial air-cooled engine   &&   星形孔冷式发动机
+radial angular contact ball bearing   &&   径向角面接触滚珠轴承
+radial antifriction bearing   &&   径向抗磨轴承
+radial arm   &&   摇臂，旋臂
+radial arm boring machine   &&   旋臂钻床，摇臂钻床
+radial arm routing   &&   旋臂式定线机
+radial armature   &&   凸极电枢
+radial articulated-arm cutting machine   &&   径向铰链式切割机
+radial axle   &&   径向轴，转向轴
+radial ball bearing   &&   径向滚珠轴承
+radial bearing   &&   向心轴承
+radial blade   &&   径向叶片
+radial blade blower   &&   径向叶片吹风机
+radial blade height   &&   径向叶片长度，辐向叶片长度
+radial blade impeller   &&   叶片径置式叶轮，辐射实叶轮
+radial blanket   &&   径向再生区(反应堆)
+radial breeder   &&   径向增殖区(反应堆)
+radial brush   &&   径向电刷，辐向电刷
+radial cable crane   &&   缆索起重机
+radial cam   &&   径向凸轮
+radial chaser   &&   径向螺纹梳刀
+radial clearance   &&   径向间隙
+radial clutch   &&   径向离合器
+radial commutator   &&   径向整流子
+radial compressive stress   &&   径向压缩应力
+radial compressor   &&   离心式压缩机
+radial contact bearing   &&   径向接触轴承
+radial correction of gyroscope   &&   陀螺径向修正
+radial crack   &&   径向裂纹
+radial cracking   &&   辐向龟裂
+radial crushing strength   &&   径向抗压溃强度
+radial crushing strength test   &&   径向压溃强度试验
+radial cut   &&   径向切口
+radial cutter   &&   侧面铣刀，三面刃铣刀
+radial cylinder   &&   星形汽缸
+radial diffuser   &&   径向扩压器
+radial diffusion coefficient   &&   径向扩散系数
+radial direction   &&   径向
+radial displacement   &&   径向位移
+radial distortion   &&   径向畸变
+radial distribution feeder   &&   径向配电馈路，辐射式配电馈路
+radial drawing forming   &&   径向拉伸成型
+radial drill   &&   摇臂钻床
+radial drill press   &&   摇臂钻床
+radial drilling machine   &&   旋臂铣床，摇臂钻床
+radial ducts   &&   径向通风道
+radial earth   &&   辐射状地线
+radial electron density distribution   &&   电子密度径向分布
+radial electrostatic field analyzer   &&   径向静电场分析器
+radial engine   &&   星形发动机，辐射式发动机
+radial extruding   &&   径向挤压
+radial facing   &&   车端面
+radial fan   &&   离心式风机，径向风机
+radial feed   &&   径向进给，径向进刀
+radial feeder   &&   径向(配电)馈路，辐射式(配电)馈路
+radial field   &&   径向场，辐射场
+radial field cathode-ray tube   &&   径向场阴极射线管，辐射场阴极射线管
+radial flow   &&   辐射流，辐向流，径流
+radial flow fan   &&   离心式扇风机，径流式扇风机
+radial flow noncondensing turbine   &&   辐流背压式汽轮机
+radial force   &&   径向力，辐射力
+radial forging machine   &&   径向锻机，精锻机
+radial forging process   &&   径向锻造法，径向模锻法
+radial gap   &&   径向缝隙
+radial grating   &&   辐射光栅
+radial grinding   &&   径向磨削
+radial heat shield   &&   隔热屏
+radial hobbing   &&   径向滚削
+radial impeller   &&   径向叶轮
+radial inflow compressor   &&   向心式压气机，向心式压缩机
+radial internal clearance   &&   径向游隙，径向平面
+radial journal bearing   &&   径向轴承，支持轴承，轴颈轴承
+radial ladle   &&   旋转式吊包
+radial lead   &&   径向引线
+radial load   &&   径向负载，径向负荷
+radial load factor   &&   径向载荷系数
+radial locating   &&   径向定位
+radial locating surface   &&   径向定位表面
+radial locomotive   &&   转向机车
+radial magnetic pull   &&   径向磁引力
+radial migration   &&   径向位移
+radial motor   &&   径向(液压)马达
+radial network   &&   径向网络
+radial outward flow turbine   &&   离心式涡轮机
+radial percussive coal cutter   &&   径向冲击式截煤机
+radial piston pump   &&   径向活塞泵
+radial piston pump with exterior admission   &&   外配流径向活塞泵
+radial piston pump with interior admission   &&   内配流径向活塞泵
+radial plane   &&   径向平面
+radial plunger motor   &&   径向柱塞马达
+radial plunger pump   &&   径向柱塞泵
+radial plunger type motor   &&   径向柱塞液压马达
+radial ply fire   &&   子午线轮胎
+radial pressure   &&   径向压力
+radial rack   &&   径向前角
+radial rake angle   &&   径向前角
+radial reciprocating follower   &&   对心移动从动件，对心滚子从动件
+radial repulsion   &&   径向斥力，沿径斥力
+radial roller follower   &&   对心滚子从动件
+radial runout   &&   径向跳动
+radial saw   &&   转向锯
+radial scan   &&   径向扫描
+radial search   &&   径向搜索
+radial section   &&   径向截面
+radial selector   &&   径向选择器，径向选择装置
+radial shear   &&   径向剪切
+radial shearing interferometer   &&   径向切变干涉仪
+radial shrinkage   &&   径向收缩
+radial spherical roller bearing   &&   径向球形滚珠轴承
+radial strain   &&   径向应变
+radial stress   &&   径向应力
+radial sweep   &&   径向扫描
+radial symmetry   &&   径向对称
+radial system   &&   径向配电制
+radial tension   &&   径向张力
+radial test   &&   ①射线检验，射线探伤②径向取样试验
+radial thrust   &&   径向推力
+radial thrust bearing   &&   径向止推轴承
+radial time-base   &&   径向时基
+radial tire   &&   子午线轮胎
+radial tool   &&   圆角切刀
+radial transfer   &&   内外传送，径向传递
+radial translating follower   &&   对心直动从动件，对心滚子从动件
+radial transmission line   &&   径向输电线路，辐射式输电线路
+radial truth   &&   径向跳动
+radial turbine   &&   辐流式汽轮机，辐流式涡轮机
+radial vane   &&   径向叶片
+radial ventilation   &&   径向通风
+radial vibration mode   &&   径向振动模式
+radial wheel   &&   径向桨轮
+radial whirl   &&   径向涡流
+radial winding   &&   辐射式绕组，辐射式绕法
+radial wiring   &&   径向拉线
+radial wobble   &&   径向摆动
+radial-axial compressor   &&   径向-轴向混流压气机
+radial-axial flow turbine   &&   混流式水轮机
+radial-axial flow water turbine   &&   混流式水轮机
+radial-axial ventilation   &&   径向通风
+radial-beam tube   &&   径向偏转电子射线管
+radial-draw deformation   &&   径向拉伸变形
+radial-flow back pressure turbine   &&   辐流式背压汽轮机
+radial-flow compressor   &&   径流式压气机
+radial-flow double-rotation turbine   &&   辐流式正反双转子汽轮机
+radial-flow gas turbine   &&   辐流式燃汽轮机
+radial-flow impulse turbine   &&   辐流冲动式汽轮机
+radial-flow reaction turbine   &&   辐流反冲式汽轮机
+radial-flow steam turbine   &&   辐流式汽轮机
+radial-flow tray   &&   辐射流盘
+radial-flow turbine   &&   径流涡轮
+radial-inlet impeller   &&   径向人口叶轮
+radial-inward flow turbine   &&   向心式涡轮机
+radial-inward turbine   &&   向心式涡轮机
+radial-ply tyre   &&   子午线轮胎
+radial-time-base display   &&   径向时基显示器
+radially outer coil side   &&   径向外侧线圈边
+radian   &&   弧度，弪
+radian frequency   &&   弧度频率，角频率
+radian length   &&   弧度长度
+radiance   &&   ①发光，光辉，(发)光强度②辐射率，幅射性能，幅射亮度
+radiance temperature   &&   亮度温度
+radiance thermometry   &&   亮度测温法
+radiant   &&   ①辐射源(热源，光源)，辐射点②辐射的
+radiant arc furnace   &&   辐射电弧炉
+radiant burners   &&   辐射燃烧器
+radiant cooling   &&   辐射冷却
+radiant cup   &&   辐射杯
+radiant density   &&   辐射密度
+radiant element   &&   辐射组件
+radiant energy   &&   辐射能(量)
+radiant exitance   &&   辐(射)出(射)度
+radiant flux   &&   辐射通量
+radiant flux density   &&   辐射通量密度
+radiant gain   &&   辐射增益
+radiant heat   &&   辐射热
+radiant heat energy   &&   辐射热能
+radiant heat flux   &&   辐射热流
+radiant heat loss   &&   辐射热损失
+radiant heater   &&   辐射发热管，辐射取暖装置
+radiant heating   &&   辐射式供暖
+radiant heating element   &&   辐射加热组件
+radiant intensity   &&   辐射强度
+radiant power   &&   辐射能力，辐射功率
+radiant reflectance   &&   辐射反射率，辐射反射系数
+radiant resistance furnace   &&   辐射电阻炉
+radiant sensitivity   &&   辐射灵敏度
+radiant solar heat   &&   太阳辐射热
+radiant superheater   &&   辐射式过热器
+radiant transmittance   &&   辐射透射比，辐射透射系数，辐射透射率
+radiant tube annealing   &&   辐射管加热式退火
+radiant tube furnace annealing   &&   辐射管式炉退火
+radiant tube heated furnace   &&   辐射加热管式炉
+radiant-tube   &&   辐射管
+radiant-tube bell-type annealing furnace   &&   辐射管加热钟罩式退火炉
+radiant-tube box annealer   &&   辐射管加热箱式退火炉
+radiant-tube furnace   &&   辐射管式炉
+radiant-tube-fired cover-type furnace   &&   辐射管加热罩式退火炉
+radiant-type boiler   &&   辐射式锅炉
+radiate   &&   辐射
+radiated characteristic   &&   辐射特性
+radiated element   &&   发射组件
+radiated interference   &&   辐射干扰
+radiated noise   &&   辐射噪声
+radiated power   &&   辐射功率
+radiated power output   &&   辐射功率输出
+radiated structure   &&   辐射状结构
+radiating body   &&   辐射体
+radiating brick   &&   辐射型砖
+radiating circuit   &&   辐射电路，天线电路
+radiating element   &&   辐射组件
+radiating fin   &&   散热片
+radiating guide   &&   辐射波导
+radiating pipe   &&   散热管
+radiating power   &&   辐射本领，辐射功率，发射能力
+radiating rib   &&   散热片
+radiating slot   &&   辐射缝隙
+radiating surface   &&   辐射表面
+radiating tube   &&   散热管
+radiation   &&   ①辐射，辐射线②放射，放射线，放射物
+radiation angle   &&   辐射角
+radiation attenuation   &&   辐射衰减
+radiation axis   &&   辐射轴线
+radiation balance meter   &&   辐射平衡表
+radiation belt   &&   辐射带
+radiation capture   &&   辐射俘获
+radiation characteristic   &&   辐射特性
+radiation chemistry   &&   辐射化学
+radiation constant   &&   辐射常数流温度
+radiation cooled tube   &&   辐射冷却电子管，自然冷却电子管
+radiation cooling   &&   辐射冷却
+radiation counter   &&   辐射计数器
+radiation counter tube   &&   辐射计数管
+radiation coupling   &&   辐射耦合
+radiation damage   &&   辐射损伤，辐照损伤
+radiation damage annealing   &&   辐射损伤退火
+radiation damping   &&   辐射阻尼(位错的)
+radiation detecting device   &&   辐射检测器
+radiation detector   &&   辐射探测器
+radiation direction   &&   辐射方向
+radiation distance   &&   辐射距离
+radiation dominated period   &&   辐射占优期
+radiation dosage   &&   辐射剂量
+radiation dose   &&   辐射剂量
+radiation dose sensor   &&   射线齐量传感器
+radiation dose transducer   &&   射线齐量传感器
+radiation dose-meter   &&   辐射剂量计，放射计量计
+radiation effect   &&   辐射效应
+radiation efficiency   &&   辐射效率
+radiation element   &&   放射性元素
+radiation energy   &&   辐射能量
+radiation excitation   &&   辐射激发，辐射激励
+radiation exposure   &&   辐射照射
+radiation factor   &&   辐射系数，辐射率，放射率
+radiation field   &&   辐射场
+radiation filter   &&   辐射滤波器
+radiation fin bonnet   &&   散热片型上阀盖
+radiation flux   &&   辐射通量
+radiation furnace   &&   辐射炉
+radiation hardening   &&   辐照硬化，辐射硬化
+radiation hardening process   &&   耐辐射工艺
+radiation hardness   &&   耐辐射
+radiation hazard   &&   辐射危害性
+radiation heat   &&   辐射热
+radiation heat flowmeter   &&   辐射热流计
+radiation heat leak   &&   辐射透热
+radiation heating   &&   辐射加热
+radiation heating-surface   &&   辐射受热面
+radiation impedance   &&   辐射阻抗
+radiation instrument   &&   辐射仪，剂量仪
+radiation intensity   &&   辐射强度
+radiation ionizing   &&   辐射电离
+radiation kernel   &&   辐射核
+radiation lobe   &&   辐射波瓣
+radiation loss   &&   ①辐射损失②辐射损耗
+radiation monitor   &&   辐射监测仪
+radiation noise   &&   辐射噪声
+radiation of heat   &&   热辐射
+radiation of light   &&   光辐射
+radiation of water wave   &&   水波辐射
+radiation pattern   &&   辐射图
+radiation potential   &&   辐射电势，辐射电位
+radiation power   &&   辐射功率
+radiation pressure   &&   辐射压力
+radiation protection   &&   辐射保护
+radiation pyrometer   &&   辐射高温计
+radiation receiver   &&   辐射接收机
+radiation relaxation time   &&   辐射弛豫时间
+radiation resistance   &&   抗辐射，辐射电阻，辐射阻力
+radiation resistance furnace   &&   辐射电阻炉
+radiation sensor   &&   射线敏感组件，射线传感器
+radiation shield   &&   辐射屏蔽
+radiation source   &&   辐射源
+radiation temperature   &&   辐射温度
+radiation temperature sensor   &&   辐射温度传感器
+radiation temperature transducer   &&   辐射温度传感器
+radiation test   &&   辐射试验
+radiation thermocouple   &&   辐射热电偶，辐射温差电偶
+radiation thermometer   &&   辐射温度计
+radiation thermometry   &&   辐射测温法
+radiation tolerance   &&   耐辐射能力
+radiation tolerance level   &&   允许辐射量
+radiation transducer   &&   射线传感器
+radiation transfer   &&   辐射传输
+radiation zone   &&   辐射区
+radiation-initiated polymerization   &&   辐射引发聚合(作用)
+radiation-resistant material   &&   耐辐射物质
+radiation-sensitive material   &&   辐射敏感材料，对照射灵敏物质
+radiation-transparent material   &&   对辐射透明物质
+radiationless   &&   无辐射
+radiationless transition   &&   无辐射跃迁
+radiative capture rate   &&   辐射俘获率
+radiative heat transfer   &&   辐射热传递
+radiative process   &&   辐射过程
+radiative recombination   &&   辐射复合
+radiative recombination rate   &&   辐射复合率
+radiative transfer   &&   辐射传热
+radiative transition   &&   辐射跃迁
+radiativity   &&   辐射性，放射性
+radiator   &&   辐射器，辐射体，散热器，散热管
+radiator air baffle   &&   散热器阻气板
+radiator blind   &&   散热器百叶窗
+radiator box   &&   散热器罩
+radiator cap   &&   水箱盖
+radiator case   &&   散热器箱
+radiator fan   &&   散热器风扇
+radiator fin   &&   散热器片
+radiator grille   &&   散热器格栅
+radiator guard   &&   散热器护罩
+radiator outlet pipe   &&   散热器出水管
+radiator shutter   &&   散热器百叶窗
+radiator strainer   &&   散热器粗滤器
+radiator temperature drop   &&   散热器温度降落
+radiator valve   &&   散热器阀
+radiator vent pipe   &&   散热器通风管
+radiator-type transformer   &&   散热管式变压器
+radical   &&   ①基的，原子团的②基，原子团③根本的，主要的④根的⑤基根，根号⑥烷烃基
+radical axis   &&   根轴
+radio   &&   ①无线，无线电，无线电广播，无线电设备，无线电接收机②射电③放射性的
+radio aid to navigation   &&   无线电导航设备
+radio altimeter   &&   无线电高度表(航空仪表)
+radio amplifier   &&   无线电放大器，高频放大器
+radio antenna   &&   无线电天线
+radio apparatus   &&   无线电器具，无线电机械
+radio approach aids   &&   无线电进场导航设备
+radio attenuation   &&   无线电衰减
+radio autocontrol   &&   无线电自动控制
+radio autogram   &&   无线电传真
+radio autopilot   &&   无线电自动驾驶
+radio beacon   &&   无线电指向标，电指向，无线电航空信标
+radio beam   &&   无线电射束，射电波束
+radio beam station   &&   定向无线电台
+radio bearing   &&   无线电方位，无线电定向
+radio blackout   &&   无线电中断
+radio brightness   &&   射电亮度
+radio broadcasting   &&   无线电广播
+radio burst   &&   无线电短脉冲
+radio button   &&   单选钮 圆钮
+radio cable   &&   高频电缆
+radio call letters   &&   无线电呼号
+radio car   &&   无线电汽车，警务车
+radio cassette player   &&   收放机
+radio center   &&   无线电中心
+radio ceramics   &&   高频陶瓷
+radio channel   &&   无线电波道，无线电信道
+radio chromatography   &&   放射色谱法
+radio circuit   &&   无线电电路，高频电路
+radio code   &&   无线电通信电码，无线电缩语
+radio coil   &&   无线电线圈
+radio command   &&   无线电指令
+radio communication   &&   无线电通信，射电通信
+radio compass   &&   无线电罗盘
+radio component   &&   无线电零件，无线电组件
+radio contact   &&   无线电联络，无线电呼叫
+radio control   &&   无线电控制，无线电操纵
+radio control landing   &&   无线电控制着陆
+radio control relay   &&   无线电控制继电器
+radio copying telegraph   &&   无线电传真电报
+radio countermeasures   &&   无线电干扰措施，无线电台对抗
+radio data   &&   无线电数据
+radio deception   &&   无线电迷惑
+radio detection   &&   无线电侦察
+radio detection and ranging   &&   无线电定向与测距(雷达)
+radio detonator   &&   无线电(控制)信管，无线电控制雷管
+radio direction finder   &&   无线电定向仪，无线电测向器
+radio direction finder station   &&   无线电定向台
+radio direction finding   &&   无线电测向
+radio distance finder   &&   无线电测距器
+radio distance radist   &&   无线电测距
+radio duct   &&   无线电波道
+radio echo   &&   无线电回波
+radio element   &&   放射元素
+radio emission   &&   无线电发射，射电发射
+radio engineering   &&   无线电工程(学)，无线电技术
+radio equipment   &&   无线电设备
+radio examination   &&   射线检验，x射线检验
+radio exchange   &&   无线电交换台
+radio facsimile   &&   无线电传真
+radio facsimile system   &&   无线电传真系统
+radio fadeout   &&   无线电波消失
+radio field intensity   &&   射电场强度，高频场强
+radio field strength   &&   高频场强
+radio field-to-noise ratio   &&   射电场-噪声比
+radio fix   &&   无线电定位
+radio frequency alternator   &&   射频发电机，射频交流发电机
+radio frequency amplifier   &&   射频放大器
+radio frequency cable   &&   射频电缆
+radio frequency choke   &&   高频扼流圈
+radio frequency component   &&   射频分量
+radio frequency current   &&   射频电流
+radio frequency dielectric heating   &&   电介质射频加热
+radio frequency filter   &&   射频滤波器
+radio frequency heating   &&   高频加热，射频加热
+radio frequency induction furnace   &&   高频感应炉
+radio frequency measurement   &&   无线电频率测量
+radio frequency oscillator   &&   射频振荡器
+radio frequency power supply   &&   射频高压电源
+radio frequency preheating   &&   射频预热
+radio frequency pulse   &&   射频脉冲
+radio frequency reactor   &&   射频电抗器
+radio frequency relay   &&   射频继电器
+radio frequency resistance welding   &&   射频电阻焊，无线电频率电阻焊
+radio frequency sensor   &&   射频敏感器
+radio frequency sputtering   &&   射频溅射
+radio frequency transformer   &&   射频变压器
+radio frequency transmission line   &&   射频传输线
+radio frequency welding   &&   高频焊接
+radio goniometry   &&   无线电测向术
+radio guard   &&   无线电警戒
+radio guidance   &&   无线电制导
+radio heater   &&   射频加热器
+radio heating   &&   射频加热
+radio homing aid   &&   无线电归航辅助设备
+radio horizon   &&   无线电地平线
+radio impulse   &&   无线电脉冲，高频脉冲
+radio inertial guidance   &&   无线电惯性制导
+radio intelligence   &&   无线电侦察
+radio interception   &&   无线电截听
+radio interference   &&   无线电干扰
+radio interference measurement   &&   无线电干涉测量法
+radio interference measuring instrument   &&   无线电干扰测量仪
+radio interference test   &&   无线电干扰试验
+radio interference voltage   &&   无线电干扰[RIV]
+radio interference voltage level   &&   无线电干扰电平
+radio interference voltage measurement   &&   无线电干扰电压测量
+radio interferometer   &&   无线电干涉仪，无线电干扰计
+radio jammer   &&   无线电干扰发生器
+radio jamming   &&   无线电干扰
+radio jamming station   &&   无线电干扰站
+radio lead   &&   放射性铅
+radio meteorology   &&   无线电气象学
+radio navigation   &&   无线电导航
+radio navigational warning   &&   无线电航行警告
+radio network   &&   无线电通信网
+radio noise   &&   无线电噪音
+radio positioning   &&   无线电定位
+radio radiation   &&   射电辐射
+radio range   &&   无线电测距
+radio range fix   &&   无线电定位
+radio receiver   &&   无线电接收机
+radio reconnaissance   &&   无线电侦察
+radio relay communication   &&   无线电中继通信
+radio remote-control   &&   无线电遥控
+radio resonance method   &&   射频共振法
+radio scattering communication   &&   无线电散射通信
+radio set   &&   收音机，无线电台，无线电设备
+radio shielding   &&   射频屏蔽
+radio signal   &&   无线电信号
+radio sounding   &&   无线电探空
+radio spectrum   &&   射电频谱
+radio station   &&   无线电台
+radio technique   &&   无线电技术
+radio technology   &&   无线电工艺，无线电技术
+radio telegraph   &&   ①无线电报②无线电报机
+radio telemetry   &&   无线电遥测术
+radio theodolite   &&   无线电经纬仪
+radio tower   &&   无线电天线塔
+radio tracking   &&   无线电跟踪
+radio tracking system   &&   无线电跟踪系统
+radio transmitter   &&   无线电发射机
+radio valve   &&   电子管
+radio watch   &&   无线电警戒
+radio wave   &&   无线电波
+radio wave borehole penetration system   &&   井中无线电波仪
+radio wave penetration system   &&   无线电波透视仪
+radio waveguide   &&   无线电波导(管)
+radio wind sounding   &&   无线电(高空)测风仪
+radio window   &&   射电窗口
+radio-acoustic position finding   &&   无线电电声测距
+radio-acoustic ranging   &&   无线电电声测距
+radio-acoustics   &&   无线电声学
+radio-beacon monitor station   &&   无线电信标监视站
+radio-bearing beam   &&   定向无线电射束
+radio-bearing station   &&   定向无线电站
+radio-broadcasting amplifier   &&   无线电广播放大器
+radio-broadcasting channel   &&   无线电广播通道
+radio-carrier frequency   &&   无线电载波频率
+radio-communication engineering   &&   无线电通信工程(学)
+radio-contaminant resistance   &&   耐辐射性，耐辐照度
+radio-echo detector   &&   无线电回波探测器
+radio-frequency   &&   无线电频率，射频[RF]
+radio-frequency amplifier transistor   &&   射频放大晶体管
+radio-frequency attenuator   &&   射频衰减器
+radio-frequency bandwidth   &&   射频带宽
+radio-frequency carrier shift   &&   射频载波漂移
+radio-frequency choke   &&   射频扼流圈
+radio-frequency converter   &&   射频变频器
+radio-frequency crack detector   &&   射频探伤仪
+radio-frequency curing   &&   射频熟化
+radio-frequency discharge detector   &&   射频放电检测器
+radio-frequency generator   &&   射频发生器，高频发生器
+radio-frequency gluing   &&   射频胶合
+radio-frequency interference   &&   射频干扰
+radio-frequency mass spectrometer   &&   射频质谱仪
+radio-frequency pentode   &&   射频五极管
+radio-frequency spark ion source   &&   射频火花离子源
+radio-frequency spectrum   &&   无线电频谱，射频频谱
+radio-frequency torch   &&   射频(火)炬
+radio-frequency transistor   &&   射频晶体管
+radio-inertial guidance system   &&   无线电-惯性制导系统
+radio-isotope   &&   放射性同位素
+radio-phase method   &&   无线电相位法
+radio-sondage   &&   无线电探空
+radio-surveying   &&   无线电勘测
+radio-telecontrol   &&   无线电遥控
+radio-telegraph printer   &&   印字无线电报机
+radio-telegraph transmitter   &&   无线电报发射机
+radio-telemetering   &&   无线电遥测
+radio-telephone   &&   ①无线电话②无线电话机
+radio-telephone beam communication   &&   定向无线电话
+radio-telephone circuit   &&   无线电话电路
+radio-telephone equipment   &&   无线电话器材
+radio-telephone network   &&   无线电话网
+radio-telephone transmission   &&   无线电话传送
+radio-telephone transmitter   &&   无线电话发射机
+radio-teletype   &&   无线电电传打字机，无线电电传打字设备
+radio-teletype receiver   &&   无线电电传打字接收机
+radio-teletype transmitter   &&   无线电电传打字发射机
+radio-teletype writer   &&   无线电电传打字机，无线电打字电报机
+radio-vulcanization   &&   无线电硫化
+radio-wave spectrum   &&   无线电频谱
+radioactivation   &&   辐射激活，辐射活化
+radioactivation analysis   &&   辐射激活分析，辐射活化分析
+radioactivation metal   &&   放射性金属
+radioactive annealing effect   &&   辐射退火效应
+radioactive atom   &&   放射性原子
+radioactive bombardment   &&   辐照，照射
+radioactive cloud   &&   放射云
+radioactive cobalt   &&   放射性钴
+radioactive constant   &&   放射常数
+radioactive contaminant   &&   放射性污染物
+radioactive contamination   &&   放射性污染
+radioactive debris   &&   放射性碎片
+radioactive decay   &&   放射性衰变
+radioactive detector   &&   放射性探测器
+radioactive dust   &&   放射性灰尘，放射性尘埃
+radioactive element   &&   放射性元素
+radioactive fallout   &&   放射性落下灰，放射性沉降物
+radioactive hardening   &&   辐射硬化
+radioactive heat   &&   放射性锐变热
+radioactive isotope   &&   放射性同位素
+radioactive material   &&   放射性物质，放射性材料
+radioactive materials packaging   &&   放射性物质包装
+radioactive measurement   &&   放射性测量
+radioactive processing plant   &&   放射性处理厂
+radioactive radiation   &&   放射性辐射，活性辐射
+radioactive ray   &&   放射线，放射性射线
+radioactive source   &&   放射源
+radioactive substance   &&   放射性物质
+radioactive survey   &&   放射性测量
+radioactivity   &&   放射性，放射能力
+radioanalysis   &&   放射性分析
+radioassay   &&   放射性分析
+radiocast   &&   无线电广播
+radiodirection finder   &&   无线电方位测定器
+radiofication   &&   无线电广播普及化，无线电化
+radiogenic heat   &&   辐射热
+radiogoniograph   &&   无线电定向计
+radiogoniometer   &&   ①无线电测角计，无线电定向器②无线电罗盘
+radiogram   &&   无线电报，射线照片
+radiogramophone   &&   无线电收音电唱两用机
+radiograph   &&   x射线照相
+radiographic examination   &&   透射检验(用x射线)
+radiographic inspection   &&   射线摄影检查，射线探伤
+radiographic test   &&   放射线照相试验
+radiographic thickness gauge   &&   放射线照相测厚法
+radiography   &&   X射线照相术，X射线检验学
+radiolocation   &&   无线电定位
+radiolocator   &&   无线电定位器，雷达
+radiological agent   &&   放射性物质
+radiological scanning   &&   放射性扫描
+radiological-safety protection   &&   辐射安全防护
+radiology   &&   放射学，x射线学
+radioluminescence   &&   辐射发光
+radiomasking   &&   无线电伪装
+radiomaterial   &&   放射性物质
+radiometal   &&   无线电用高磁导率合金，无线电高导磁性合金
+radiometallography   &&   X射线金相学，辐射金相学
+radiometallurgy   &&   辐射冶金学，辐射冶金术
+radiometeorogram   &&   无线电气象图解
+radiometer   &&   辐射仪，辐射表，辐射计，射线探测仪
+radiometric technique   &&   辐射测量技术
+radionics   &&   无线电电子学，射电电子学
+radiop   &&   无线电人员，无线电报务员
+radiophare   &&   无线电信标，无线电指示台
+radiophone   &&   无线电收发话机，无线电话
+radiophony   &&   无线电话术，无线电话学
+radiophoto   &&   无线电摄影，无线电传真照相，传真照片
+radiophotograph   &&   无线电传真照片
+radiophotography   &&   无线电传真术，无线电传真学，射电照相
+radiophototelegraphy   &&   无线电传真电报学
+radiophysics   &&   无线电物理学
+radiopilot   &&   无线电测风气球，无线电控制气球
+radiorelay station   &&   无线电中继站
+radioresistance   &&   ①辐射阻抗②耐辐射性，耐辐照度
+radioscopy   &&   X射线检验，x射线透视
+radiosonde   &&   无线电探空仪
+radiospectrography   &&   无线电频谱学
+radiospectroscopy   &&   无线电频谱学
+radiosynthesis   &&   辐射合成
+radiotelegram   &&   无线电报
+radiotelephony   &&   无线电话学
+radiotelevision   &&   无线电电视
+radiotheodolite   &&   无线电经纬仪
+radiothermics   &&   射频加热技术，射频加热学
+radiotolerance   &&   耐辐射性，耐辐照度
+radiotracer   &&   放射性示踪剂
+radiovision   &&   无线电传真，电视
+radiovisor   &&   电视机
+radiowarning   &&   无线电报警
+radiowave penetration instrument   &&   无线电波透视法仪器
+radiowind observation   &&   无线电测风观测
+radium   &&   镭Ra(88)
+radium-bearing   &&   含镭
+radius   &&   半径
+radius angle   &&   圆心角
+radius arm   &&   半径杆
+radius bar   &&   半径杆，曲拐臂
+radius bar brace   &&   径向杆拉条
+radius bar brace bolt   &&   径向杆撑臂螺栓
+radius gauge   &&   圆角规
+radius of action   &&   作用半径，活动半径
+radius of base circle   &&   基圆半径
+radius of bend   &&   弯曲半径
+radius of bore   &&   镗孔半径
+radius of curvature   &&   曲率半径
+radius of gyration   &&   回转半径
+radius of inertia   &&   惯性半径
+radius of notch   &&   切口半径
+radius of roller   &&   滚子半径，滚动轴承
+radius planer   &&   曲面刨床
+radius rod   &&   半径杆
+radius stay   &&   半径杆
+radius-changing mechanism   &&   变辐机构
+radius-changing pulley block   &&   变辐滑轮组
+radius-changing speed   &&   变辐速度
+radix   &&   ①根，基②基数③根值
+radix complement   &&   基数补码，补码(计算机的)
+radix mixed   &&   混合基数
+radix notation   &&   基数记数法
+radix number   &&   基数数
+radix numeration system   &&   基数表示法
+radix point   &&   小数点
+radix pointer   &&   基数指示字
+radix sorting   &&   基数法
+radix two computer   &&   多位二进制计算机
+radix two counter   &&   多位二进制计数器
+radix-digit   &&   基数数字
+radix-minus-one complement   &&   基数减-补码，反码(计算机的)
+radon   &&   氡Rn(86)
+rag   &&   毛刺，飞边
+rag bolt   &&   棘螺栓，地脚螺栓
+rag nail   &&   棘钉
+rag top   &&   活顶轿车
+rag-top   &&   活顶轿车
+ragged cut   &&   粗糙切割，锯齿形切割
+ragged fracture   &&   粗糙断口，锯齿状断口
+ragged rolls   &&   刻痕轧辊
+ragging   &&   压花，滚花，轧辊(刻纹)
+rail   &&   ①钢轨，轨道，铁轨②导轨③横条④栏杆
+rail anchors   &&   钢轨防爬器
+rail and structural steel mill   &&   轨梁轧机
+rail bar   &&   轨条
+rail bender   &&   钢轨弯曲压力机，弯轨机
+rail bending machine   &&   弯轨机
+rail bending press   &&   钢轨弯曲压力机
+rail breaker   &&   钢轨落锤试验机
+rail car   &&   有轨内燃机车，机动压道车，轻油车，铁路车皮，机动有轨车
+rail container crane   &&   集装箱轨道起重机
+rail conveyor   &&   轨式输送机
+rail crane   &&   轨道起重机，机车起重机
+rail flaw detector   &&   钢轨探伤仪
+rail gun   &&   轨道炮
+rail mill   &&   钢轨轧机
+rail motor car   &&   自动轨道车
+rail plane   &&   轨刨，刨轨机
+rail press   &&   压轨机
+rail relaying machine   &&   更换钢轨机
+rail removing machine   &&   移动钢轨机
+rail resistance   &&   钢轨电阻
+rail return current   &&   钢轨(返)回(电)流
+rail road   &&   铁道
+rail section   &&   钢轨断面
+rail steel   &&   钢轨钢
+rail straightener   &&   钢轨矫直机
+rail trolley   &&   轨道自动车
+rail unloading crane   &&   卸轨起重机
+rail-beam and section mill   &&   轨梁轧机
+rail-cambering machine   &&   钢轨弯曲机，弯轨机
+rail-drilling machine   &&   轨端钻孔机床
+rail-end milling machine   &&   钢轨端面铣床
+rail-end welding   &&   钢轨补焊
+rail-end-hardening machine   &&   轨端淬火机
+rail-finishing mill   &&   轨梁轧机精轧机座
+rail-joint bar   &&   联接钢轨用的鱼尾板钢材
+rail-mounted crane   &&   轨行起重机
+rail-mounted overhead crane   &&   轨行高架起重机
+rail-track   &&   铁路轨道
+railbus   &&   轨道汽车
+railroad   &&   导轨，铁路
+railroad car   &&   铁路车辆，火车
+railroad car axle   &&   火车车轴，车厢车轴
+railroad motor car   &&   铁路机动车，有轨机动车
+railroad rail   &&   钢轨，铁轨
+railroad roller   &&   钢轨滚轨机
+railroad rolling sequence   &&   钢轨轧制系统
+railroad sawing machine   &&   钢轨锯切机
+railroad tank car   &&   铁路油槽车
+railroad tanker   &&   铁路油槽车
+railroad wheel lathe   &&   车轮车床
+railway   &&   铁道，铁路
+railway car   &&   铁道机动车，轨道车
+railway car ferry   &&   铁路轮渡
+railway carriage   &&   铁道车
+railway communication network   &&   铁路通信网
+railway computer network   &&   铁路计算机网络
+railway construction equipments   &&   铁路施工机械
+railway crane   &&   铁道用起重机
+railway dieselization   &&   铁路内燃(机车)化
+railway division communication   &&   铁路区段通信
+railway electrification   &&   铁道电气化
+railway engine   &&   火车头
+railway motive power   &&   铁路牵引动力
+railway motor car   &&   内燃机车
+railway passenger car   &&   铁路客车
+railway rolling stock   &&   铁路车辆
+railway service car   &&   铁路特种用途车
+railway signal and interlocking   &&   铁路信号和联锁
+railway signal control console   &&   铁路信号控制台
+railway signal lamp   &&   铁路信号灯
+railway signaling   &&   铁路信号
+railway substation   &&   铁路变电所
+railway turbine   &&   机车燃气轮机
+railway vehicle   &&   铁路车辆
+railway wear tolerance   &&   钢轨磨耗余量
+railway wheel and tyre mill   &&   车轮和轮箍轧机
+railway wheel lathe   &&   轮箍车床
+railway wheel mill   &&   车轮轧机
+rain   &&   电子流
+rain of electrons   &&   电子流
+rain proof electrical equipment   &&   防雨式电气设备
+rain proof instrument   &&   防溅式仪器仪表
+rain proofness   &&   防雨性
+rain-shield insulator   &&   防雨绝缘子
+rainbow   &&   彩色条信号，彩色带信号
+rainbow generator   &&   彩色条信号发生器，彩色带信号发生器
+rainfall amount   &&   雨量
+rainfall intensity meter   &&   雨量强度计
+rainfall meter   &&   雨量强度计
+rainflow method   &&   雨流法
+raingauge   &&   雨量器
+raingauge receiver   &&   承水器
+raingauge shield   &&   雨量器防风罩
+raise-lower control   &&   升降控制，可上下控制
+raised face flange   &&   凸面法兰
+raised face tool   &&   凸面刀具
+raised head bolt   &&   凸头螺栓
+raised head screw   &&   凸头螺钉，高头螺钉
+raised welding method   &&   上升焊接法
+raising (embossing)   &&   压花起伏成形
+raising crank   &&   提升曲柄，提升机构曲柄
+raising gear   &&   提升机构，起落机构，起落机构齿轮
+rake   &&   ①倾斜，斜度，倾斜角，坡度②划痕③前角，刀面角
+rake angle   &&   ①前角，倾角，翘角②刀面角
+rake conveyor   &&   刮板运输机
+rake cooling bed   &&   斜坡式冷床
+rake dozer   &&   刮板推土机
+rake face   &&   倾斜面
+rake-type cooling bed   &&   倾斜式冷床
+raker   &&   耙路机
+ram   &&   ①冲头，压头，舂②推形③撞锤，夯锤，锤体④杆，推杆，连杆
+ram air   &&   冲击气
+ram air induction   &&   冲击进气
+ram air supercharging   &&   冲击进气
+ram compressor   &&   冲压式压缩机
+ram cylinder   &&   水压机缸
+ram duct   &&   冲击进气管
+ram effect   &&   冲压效应
+ram enable   &&   冲击机，打桩机
+ram impact machine   &&   锤击机，打夯机，打桩机
+ram injection moulding   &&   柱塞注模(塑)
+ram lift   &&   ①冲压升力，撞头②活塞起重机③柱塞行程
+ram pipe supercharging   &&   冲击进气
+ram piston   &&   压力机活塞
+ram press   &&   冲压机
+ram pressing   &&   可塑印坯成形(成形后吹气脱模)，冲压
+ram pressure   &&   冲压
+ram ratio   &&   冲压比
+ram recovery pressure ratio   &&   冲压恢复压力比
+ram rocket   &&   复合式冲压火箭发动机
+ram shaft   &&   动力油缸活塞杆，动力油缸柱塞杆
+ram speed   &&   冲压速度
+ram start-stop   &&   滑枕开停装置
+ram steam   &&   汽锤打桩机
+ram stroke   &&   滑枕行程
+ram tester   &&   撞击试验机，冲击式试验机
+ram travel   &&   滑块行程
+ram turbine   &&   冲压式空气涡轮
+ram turret lathe   &&   滑板式转塔六角车床
+ram type bend machine   &&   压头式弯机
+ram type miller   &&   滑枕式铣床
+ram-air   &&   冲压空气
+ram-and-inner-frame machine   &&   锤头内架式高速锤，锤-架式高速锤
+ram-away   &&   落砂，掉砂，错位(铸件缺陷)
+ram-contamination automobile   &&   无污染汽车
+ram-type pump   &&   柱塞泵
+ram-type pusher   &&   杆式推钢机
+ram-type turret lathe   &&   滑板式转塔六角车床，滑枕式转塔六角车床
+ramjet   &&   冲压式喷气发动机
+ramjet cycle   &&   冲压发动机循环
+ramjet duct   &&   冲压发电机
+ramjet engine   &&   冲压式喷气发动机
+ramjet helicopter   &&   冲压喷气式直升飞机
+ramjet propulsion   &&   冲压式喷气发动机
+ramjet sustainer   &&   冲压式主发动机
+ramjet-turbojet combination   &&   冲压-涡轮喷气发动机组合
+ramjet-turbojet power plant   &&   冲压式涡轮喷气动力装置
+ramless extruding   &&   无压杆挤压，静液挤压
+rammed bottom   &&   打结炉底，捣制炉底
+rammed concrete   &&   夯筑混凝土，捣实混凝土
+rammed hearth   &&   打结炉底，捣制炉底
+rammed ladle   &&   打结盛钢桶，捣制钢包
+rammed lining   &&   打结炉衬，捣制炉衬
+rammed mixture   &&   打结混合料
+rammer   &&   ①捣打锤，夯，压头，冲头，冲压②夯实机，造型机，舂砂器
+rammer process   &&   捣打成型法
+ramming   &&   锤击，夯实，舂砂
+ramming mass   &&   捣打料
+ramming moulding machine   &&   夯实造型机
+ramming refractory   &&   捣打成形耐火材料
+ramp   &&   ①副凸轮，凸轮滑边②滑行台③斜坡
+ramp angle   &&   坡度角
+ramp function   &&   斜坡函数
+ramp generator   &&   斜坡发生器
+ramp input   &&   斜坡输入，恒速输入
+ramp response   &&   斜坡响应
+ramp response time   &&   斜坡响应时间
+ramp voltage   &&   等边电压
+ramsdellite   &&   斜方锰矿
+random   &&   无规(的)，无序(的)，随机的
+random access   &&   随机存取，随机访问，随机存取输入输出程序
+random access computer   &&   随机存取计算机
+random access device   &&   随机存取设备
+random access discrete address   &&   随机存取分立地址
+random access disk file   &&   随机存取磁盘文件
+random access file   &&   随机存取文件，随机访问文件
+random access memory   &&   随机存储器[RAM]
+random access processing file   &&   随机存取处理文件
+random access programming   &&   随机存取程序设计
+random access protocol   &&   随机存取协议
+random access software   &&   随机存取软件
+random access sorter   &&   随机存取分类程序，随机访问分类程序
+random access storage   &&   随机存取存储器
+random access system   &&   随机存取系统
+random alloy   &&   无序合金
+random arrangement   &&   无规排列
+random binary process   &&   二元随机过程
+random chain   &&   无规链
+random chain conformation   &&   无规链构象
+random chain scission   &&   链无规断裂
+random channel   &&   随机信道
+random choice   &&   随机选择
+random coil   &&   无规线团
+random coincidence   &&   随机重合，随机符合
+random configuration   &&   无规构型
+random conformation   &&   无规构象
+random copolymer   &&   无规共聚物
+random crosslinking   &&   无规交联
+random current   &&   无规则电流
+random degradation   &&   无规降解
+random demand   &&   随机需求
+random deposition   &&   无规沉积
+random digits   &&   随机数字
+random distribution   &&   随机分布，随机分配
+random disturbance   &&   随机扰动
+random electron current   &&   无规则电子流
+random equation   &&   随机方程
+random error   &&   随机误差
+random event   &&   随机事件
+random factor   &&   随机因素
+random failure   &&   偶然失效，随机故障
+random failure period   &&   偶然故障(失效)期
+random fault   &&   随机故障
+random file   &&   随机文件
+random fluctuation   &&   无规涨落，随机波动
+random forcing function   &&   随机强制函数
+random function   &&   随机函数
+random geometry technique   &&   无规则形状技术(半导体的)
+random grain boundary   &&   任意晶界
+random house   &&   随机库
+random input   &&   随机输入
+random load   &&   随机载荷
+random logic   &&   随机逻辑
+random logic decoding   &&   随机逻辑译码
+random motion   &&   无规运动
+random node   &&   随机节点
+random noise   &&   随机噪声，无规噪声
+random noise generator   &&   随机噪声发生器，杂乱噪声发生器
+random number   &&   随机数
+random number generation   &&   随机数生成
+random number generator   &&   随机数发生器，随机数生成程序
+random number program   &&   随机数(生成)程序
+random number sequence   &&   随机数序列
+random occurrence   &&   随机事件
+random order   &&   随机次序
+random orientation   &&   无规取向，无规定向
+random packet length   &&   随机包长度
+random paralleling   &&   不规则并联
+random permutation   &&   随机排列，随机置换
+random phase   &&   随机相位
+random polymer   &&   无规聚合物
+random polypropylene   &&   无规聚丙烯
+random process   &&   随机过程
+random processing   &&   随机处理
+random pulse   &&   随机脉冲，杂乱脉冲
+random rehash   &&   随机再散列
+random replacement   &&   随机替换
+random routing   &&   随机路径选择
+random sample   &&   抽查试样，随机取样
+random scanning   &&   随机扫描
+random search   &&   随机搜索
+random search formula   &&   随机搜索公式
+random search method   &&   随机搜索法
+random sequence   &&   随机顺序，随机序列
+random service system   &&   随机服务系统
+random signal   &&   随机信号
+random solid solution   &&   无序固溶体
+random spiking   &&   随机峰值形成
+random stacking   &&   无规堆垛
+random stopping time   &&   随机停止时间
+random structure   &&   不规则结构
+random superimposed coding   &&   随机重叠编码
+random time-varying channel   &&   随机时变信道
+random uncertainty   &&   随机不确定度
+random variable   &&   随机变量
+random vector   &&   随机向量
+random vibration   &&   随机振动，无规振动
+random walk   &&   随机移动，随机游动
+random waves   &&   随机波
+random winding   &&   杂乱绕组，散绕绕组
+random wound coil   &&   散绕线圈
+random-sequential access   &&   随机顺序存取
+random-sequential memory   &&   随机顺序存储器
+randomization   &&   随机化，无规化，概率化
+randomized algorithm   &&   随机划算法
+randomized complete block design   &&   随机化完全模块设计
+randomized decision function   &&   随机决策函数
+randomized decision rule   &&   随机化决策规则
+randomized jitter   &&   随机(图像)跳动
+randomized policy   &&   随机策略
+randomizing file addressing   &&   随机文件编址，随机文件寻址
+randomly distributed data   &&   随机分布数据
+randomly distributed sweep   &&   随机分布扫描
+randomness   &&   随机性，无规性
+randomness test   &&   随机性检验
+rang-finding radar systems   &&   距离测定用激光雷达
+range   &&   ①范围，区域，作用区②射程③量程，距离，值域④排列，靶场
+range acceleration   &&   距离加速度
+range adjustment   &&   范围调整
+range algorithm   &&   范围算法，作用区算法
+range ambiguity   &&   距离模糊
+range analysis   &&   量程分析，值域分析
+range attenuation function   &&   距离衰减函数
+range azimuth display   &&   距离方位显示
+range azimuth presentation   &&   距离方位显示
+range blanking   &&   距离照明(雷达)
+range calibration   &&   距离校正
+range change   &&   分段式配档
+range coal   &&   大块无烟煤(50-100毫米)
+range coding   &&   距离(信号)编码
+range constraint   &&   区域约束
+range conversion   &&   距离变换
+range digital indicator   &&   距离数字显示器
+range display   &&   距离显示器
+range finders   &&   测距仪
+range finding   &&   测距
+range index   &&   范围索引
+range key   &&   范围健，范围关键字
+range limit   &&   距离极限
+range mark   &&   距离标记
+range markers   &&   距离标志
+range of DO   &&   循环域，DO语句域，DO循环体
+range of applicability   &&   可用性区域
+range of balance error   &&   对称误差范围
+range of composition   &&   成分范围
+range of error   &&   误差范围
+range of load   &&   负荷范围
+range of nominal tension   &&   额定电压范围
+range of partial ordering   &&   偏序的值域，半序的值域
+range of scalar variable   &&   标量变化范围
+range of set value   &&   设定值范围
+range of stability   &&   ①稳定范围②稳定阶段
+range of strain   &&   应变范围
+range of stress   &&   应力范围
+range query   &&   范围查询，范围询问
+range response time   &&   范围响应时间
+range selector   &&   距离转换开关，波段开关
+range variable   &&   范围变量
+range-bearing display   &&   距离方位显示
+range-change device   &&   范围转换器，量限转换器
+range-constriction search   &&   范围限制搜索
+range-elevation display   &&   距离-仰角显示器
+range-height indicator   &&   距离-高度显示器
+range-splitter   &&   综合式配档
+rangeability   &&   范围度
+rangefinder   &&   测距仪
+ranger   &&   测距仪
+ranging   &&   测距
+ranging distance   &&   测程
+rank   &&   ①序列，秩，排列②等级，分类
+rank analysis   &&   秩分析
+rank of an element   &&   元素秩
+rank order system   &&   序列法，排序法
+ranked alphabet   &&   有阶字母表
+ranked matching   &&   排列匹配
+ranking   &&   秩评定
+ranking alternatives   &&   备选方案排序
+ranking method   &&   序级法
+ranking system   &&   序级制
+rankinite   &&   硅钙石
+rape oil   &&   菜油
+rapid   &&   迅速的
+rapid Fourier transform NMR correlation spectroscopy   &&   快速傅立叶变换核磁共振相关波谱法
+rapid TG-DTA unit   &&   快速加热差示热分析仪热天平
+rapid access   &&   快速存取
+rapid access loop   &&   快速存取环，快速访问环
+rapid access memory   &&   快速存取存储器
+rapid access storage   &&   快速存取存储器
+rapid action hammer   &&   速动锤，高速锻锤
+rapid adjustment   &&   粗调整，快速调整
+rapid analysis   &&   快速分析
+rapid automatic checkout equipment   &&   快速自动检查设备
+rapid charging   &&   快速充电
+rapid closing   &&   快速闭合
+rapid condensation   &&   快速冷凝
+rapid cooling   &&   快冷，急冷
+rapid cooling blower   &&   快速冷却风机
+rapid cooling installation   &&   快速冷却装置
+rapid corrosion   &&   快速腐蚀
+rapid cut-off valve   &&   快速切断阀
+rapid determination   &&   快速测定
+rapid fatigue test   &&   快速疲劳试验
+rapid hardening   &&   快速硬化，快速淬火
+rapid identification of alloy and metals   &&   金属与合金的快速鉴定
+rapid machining steel   &&   高速切削钢
+rapid memory   &&   快速存储器
+rapid nitriding steel   &&   快速渗氮钢
+rapid printer   &&   快速打印机
+rapid random access memory   &&   快速随机存取存储器
+rapid response motor   &&   快速响应电动机
+rapid response thermocouple   &&   快速响应热电偶
+rapid setting   &&   快凝(固)
+rapid shut-down voltage   &&   快速停机电压，快速关闭电压
+rapid sintering   &&   快速烧结
+rapid steel   &&   高速(切削)钢，锋钢，风钢
+rapid storage   &&   快速存储器
+rapid tool steel   &&   高速工具钢
+rapid transit   &&   快速交通
+rapid traverse   &&   快速横动，快速行程，快速移动
+rapid-curing asphalt   &&   快固沥青
+rapid-record oscillograph   &&   快速纪录示波器
+rapid-response stop   &&   快速反应停机，快速反应停车
+rapid-response switch   &&   快速反应开关
+rapid-start fluorescent lamp   &&   快速起动荧光灯
+rapidity   &&   迅速度
+rapidly   &&   迅速地
+rapidly extensible language   &&   可快速扩充语言
+rapper   &&   松模工具
+rapping rod   &&   起模杆
+rare earth   &&   稀土元素
+rare earth calcium-silicon   &&   稀土钙硅铁合金
+rare earth doping   &&   稀土元素掺杂
+rare earth element   &&   稀土元素
+rare element   &&   稀有元素
+rare gas   &&   稀薄气体，稀有气体
+rare metal   &&   稀有金属，贵金属
+rare mixture   &&   贫混合料，稀有混合物
+rare-banded coal   &&   稀有层状煤
+rare-earth garnet   &&   稀土石榴石
+rare-earth mineral   &&   稀土石矿物
+rare-wrap connection   &&   绕接
+raster   &&   光栅
+raster display   &&   光栅显示，光栅显示器
+raster file format   &&   光栅文件格式 网格档案格式
+raster graphics   &&   光栅图形
+raster image   &&   光栅图像 网格式影像
+raster image boundaries   &&   光栅图像边界 网格式影像边界
+raster manipulation   &&   光栅操作，光栅处理
+raster plotter   &&   光栅绘图器，光栅图形显示器
+raster printer   &&   光栅打印机
+raster scan   &&   光栅扫描
+raster scan computer graphic display   &&   光栅扫描计算机图形显示
+raster scan display   &&   光栅扫描显示
+raster scan imaging   &&   光栅扫描图像
+raster scan plotter   &&   光栅扫描绘图仪
+rat   &&   多肉(铸造缺陷)
+rat tail   &&   鼠尾(铸造缺陷)
+ratchet   &&   棘轮，棘齿，棘爪
+ratchet blocking system   &&   棘轮闭锁装置
+ratchet clutch   &&   棘轮离合器
+ratchet coupling   &&   棘轮联轴器，爪形联轴器，闸轮联轴器
+ratchet drill   &&   手扳钻
+ratchet gear   &&   棘轮齿轮
+ratchet gearing   &&   棘轮传动装置，棘轮机构
+ratchet hob   &&   棘轮滚刀
+ratchet jack   &&   棘轮起重机
+ratchet lift   &&   棘轮起落机构
+ratchet mechanism   &&   棘轮机构，棘轮传动装置
+ratchet pawl   &&   棘轮掣子
+ratchet pump   &&   棘轮冲头，棘轮冲压机
+ratchet relay   &&   棘轮继电器
+ratchet stop   &&   止挡棘爪
+ratchet tooth   &&   棘轮齿
+ratchet wheel   &&   棘轮
+ratchet-and-pawl   &&   棘轮与掣爪
+ratchet-gear wheel   &&   棘齿轮
+rate   &&   ①率②速度，速率③定额，标准④比例，比率
+rate diagram   &&   速率图
+rate farming   &&   高速(冲击)成形
+rate feedback   &&   速率反馈
+rate generator   &&   速率(信号)发生器，导数(信号)发生器
+rate identification of metals and alloys   &&   金属与合金的快速鉴定
+rate limiting   &&   速度限制
+rate matrix   &&   速率矩阵
+rate multiplier   &&   比率乘数
+rate of agitation   &&   搅拌速度
+rate of change   &&   变化率
+rate of change limiting control   &&   变化率极限控制
+rate of circulation   &&   循环速度
+rate of combustion   &&   燃烧率，燃烧速率
+rate of convergence   &&   收敛速率
+rate of cooling   &&   冷却速度
+rate of corrosion   &&   腐蚀速率
+rate of crack propagation   &&   裂缝扩展速度
+rate of cracking   &&   裂化速率
+rate of creep   &&   蠕变率，蠕变速度
+rate of crystal growth   &&   晶体生长率
+rate of crystallization   &&   结晶速率
+rate of cure   &&   硫化速度
+rate of data signaling   &&   数据信号传送率
+rate of decay   &&   衰减率，衰减速度
+rate of deformation   &&   形变速率，变形速率
+rate of deposition   &&   沉积率
+rate of diffusion   &&   扩散率
+rate of discharge   &&   放电速度，放电率
+rate of energy flow   &&   能流速度
+rate of evaporation   &&   蒸发率
+rate of expansion   &&   膨胀率
+rate of extrusion   &&   挤出速率
+rate of flow   &&   流量
+rate of growth   &&   生长率，长大速率
+rate of gyro drift   &&   陀螺漂移率
+rate of heating   &&   加热速度
+rate of information throughput   &&   信息吞吐率
+rate of keying error   &&   健入错误率
+rate of language   &&   语言信息率
+rate of loading   &&   加荷速率
+rate of nucleation   &&   成核速度
+rate of perforation   &&   穿孔速度
+rate of progress   &&   进度
+rate of propagation   &&   传播速度
+rate of punch   &&   穿孔速度
+rate of reading   &&   读数速度
+rate of reclamation   &&   回收率
+rate of recovery   &&   回收率
+rate of recrystallization   &&   再结晶速率
+rate of return function   &&   返回函数率
+rate of salt spray precipitation   &&   盐雾沉降率
+rate of strain   &&   应变(率)(相对变形)
+rate of stretch   &&   伸展速度
+rate of wear   &&   磨损速率，磨损率
+rate of work hardening   &&   加工硬化率
+rate process   &&   速率过程
+rate process model   &&   反应速率模型
+rate system of electricity   &&   电费收费制
+rate time   &&   预调时间
+rate-controlling mechanism of slip   &&   滑动速度控制机构
+rate-grown transistor   &&   变速生长晶体管
+rate-of-flow meter   &&   流量计
+rate-of-retraction test   &&   回缩(速)度试验
+rated accuracy limit primary current of a protective current transformer   &&   保护用电流互感器的准确度限定的额定一次电流
+rated alternating voltage   &&   额定交流绕组电压
+rated alternating-current winding voltage   &&   额定交流绕组电压
+rated blowing-current   &&   额定熔断电流
+rated boiler horsepower   &&   额定锅炉马力
+rated breaking current   &&   额定断路电流
+rated broad band random force   &&   额定宽带随机激振动力
+rated burden   &&   额定负载
+rated capacitance   &&   额定电容
+rated capacity   &&   额定容量
+rated carrying current   &&   额定负载电流
+rated circuit voltage   &&   额定电路电压
+rated consumption   &&   额定消耗量
+rated contact current   &&   额定触点电流
+rated contact voltage   &&   额定触点电压
+rated continuous thermal current   &&   额定的连续热电流
+rated continuous working voltage   &&   额定连续工作电压
+rated current   &&   额定电流
+rated current-carrying capacity   &&   额定载流容量
+rated direct voltage   &&   额定直接电压
+rated direct-current winding voltage   &&   额定直流绕组电压
+rated duty   &&   额定工作方式，额定负载
+rated dynamic current   &&   额定动态电流
+rated efficiency   &&   额定效率
+rated engine speed   &&   发动机额定转速
+rated excitation   &&   额定励磁
+rated flow   &&   额定流量
+rated flow coefficient   &&   额定流量系数
+rated force under sinusoidal conditions   &&   正弦态额定激振力
+rated frequency   &&   额定频率
+rated head   &&   额定落差
+rated high voltage   &&   额定高压
+rated horsepower   &&   额定马力
+rated impedance   &&   额定阻抗
+rated impulse withstand voltage   &&   额定耐冲击电压
+rated instrument limit primary current   &&   仪表的额定极限一次电流
+rated insulation class   &&   额定绝缘等级
+rated kilovolt-ampere   &&   额定千伏安
+rated load   &&   定额负载，额定载荷
+rated making capacity   &&   额定接通容量，额定闭合容量
+rated making current   &&   额定接通电流，额定闭合电流
+rated minimum tripping current   &&   额定最小脱扣电流
+rated operating condition   &&   正常工作条件，额定工作条件
+rated operating range   &&   额定工作范围
+rated operating specification   &&   额定工作规程
+rated output   &&   额定产量，额定输出(量)
+rated performance   &&   额定(运转)性能
+rated power   &&   额定功率
+rated power factor   &&   额定功率因数
+rated power output   &&   额定输出功率，额定出力
+rated primary current   &&   额定一次电流
+rated primary voltage   &&   额定一次电压
+rated range   &&   额定范围
+rated range of use   &&   额定使用范围
+rated revolution per minute   &&   额定转速，额定转数
+rated rupturing capacity   &&   额定遮断容量
+rated secondary current   &&   额定二次电流
+rated secondary voltage   &&   额定二次电压
+rated short time thermal current   &&   额定短时热电流
+rated slip   &&   额定转差率，额定滑差
+rated speed   &&   额定转速，额定转数
+rated static longitudinal load   &&   额定静态纵向负荷
+rated static transverse load   &&   额定静态横向负荷
+rated temperature   &&   额定温度
+rated temperature-rise   &&   额定温升
+rated torque   &&   额定转矩
+rated transformation ratio of a current transformer   &&   电流互感器的额定变比
+rated transformation ratio of a voltage transformer   &&   电压互感器的额定变比
+rated travel   &&   额定行程，标称行程
+rated travel time   &&   额定行程时间
+rated tube current   &&   额定管电流
+rated tube voltage   &&   额定管电压
+rated value   &&   额定值
+rated valve capacity   &&   阀额定容量
+rated voltage   &&   额定电压，标准电压
+rated voltage factor   &&   额定电压因数
+rated-load condition   &&   额定负载工况
+rated-load impedance   &&   额定负载阻抗
+rated-load torque   &&   额定负载转矩
+rates of transfer   &&   转移率
+rating   &&   ①率②额定，额定值
+rating attraction force   &&   额定吸力
+rating factor   &&   额定因数，额定值系数
+rating life   &&   额定寿命
+rating matrix   &&   分等矩阵
+rating of machine   &&   电机规格
+rating power consumption   &&   额定功耗
+rating test   &&   标定试验
+ratio   &&   比，比例，系数
+ratio adjuster   &&   比例调整器
+ratio arm   &&   比例臂，电桥臂
+ratio chromatism   &&   倍率色差
+ratio control   &&   比例控制
+ratio control roughing   &&   变滚比粗切
+ratio controller   &&   比值控制器
+ratio cutting machine   &&   按比例仿型切割机
+ratio detector   &&   比例检波器
+ratio enhancement   &&   比例增强
+ratio factor   &&   比率因数
+ratio gears   &&   滚比挂轮
+ratio meter   &&   比率表
+ratio of attenuation   &&   衰减比
+ratio of combustion   &&   燃烧比
+ratio of compression   &&   压缩比，压缩率
+ratio of elongation   &&   伸长率，延伸率
+ratio of gains   &&   增益比
+ratio of grate area to heating surface   &&   炉蓖面和受热面比
+ratio of revolution   &&   转数比
+ratio of roll   &&   滚比
+ratio of roll gears   &&   滚比挂轮
+ratio of specific heat capacities   &&   比热比
+ratio of specific heats   &&   热容比(Cp/Cr)
+ratio of strength-to-porosity   &&   强度与孔隙度比率
+ratio of the pole spacing to the bore diameter of the pole pieces   &&   极靴的间距与孔径比
+ratio of transmission   &&   传动比
+ratio regulator   &&   比例调节器
+ratio scale   &&   比例尺度
+ratio station   &&   比值操作器
+ratio thermometer   &&   比色温度计
+rational analysis   &&   示性分析(矿物组成表示分析结果)
+rational approximation   &&   有理近似
+rational expression   &&   有理式
+rational fraction   &&   有理分式
+rational function   &&   有理函数
+rational interpolating function   &&   有理插值函数
+rational number   &&   有理数
+ratting machine   &&   抗磨试验机
+rattler   &&   ①(转简式)磨损试机②清理滚筒
+rattler loss   &&   磨损，磨耗率，磨损失重
+rattler test   &&   磨损试验
+rave   &&   货车挡板
+rave hook   &&   侧帘挂钩
+raw   &&   未加工的
+raw brick   &&   生砖，砖胚
+raw casting   &&   粗铸件，毛坯铸件
+raw coal   &&   原煤
+raw copper   &&   粗铜，泡铜
+raw data   &&   原始数据
+raw edges   &&   ①裂边(钢铁)②毛边，坏边(纺)
+raw material   &&   原材料，原料
+raw material inspection   &&   原材料检查
+raw materials   &&   原料
+raw meal   &&   生料
+raw metal   &&   金属原料，粗金属
+raw mica   &&   原云母
+raw ore   &&   原矿
+raw pig iron   &&   铸造用生铁
+raw rubber   &&   生橡胶
+raw sand   &&   原砂
+raw sheet   &&   粗加工薄钢板
+raw spectra   &&   原谱
+raw steel   &&   ①末清理钢②原钢
+rawin   &&   无线电(高空)测风仪
+rawinsonde   &&   无线电测风探空仪
+ray   &&   射线 射线， 光线
+ray casting   &&   射线法
+ray of spark   &&   火花射线(研磨的)
+ray of sparks   &&   电火花射线
+rayon direct-spinning machine   &&   人造丝直接纺丝机
+rayotube   &&   光电高温计
+raytraced renderer   &&   光线跟踪渲染，光线追踪彩现
+raytraced shadows   &&   光线跟踪阴影，光线追踪阴影
+razor blade   &&   刀片
+razor steel   &&   刀片钢
+re-aerate   &&   再曝气
+re-close   &&   重合闸，再次接通
+re-close circuit-breaker   &&   重合闸断路器
+re-enabled interrupt   &&   重新允许中断
+re-entrant   &&   凹入的
+re-entrant mold   &&   倒角式模具，凹入模
+re-entry corridor   &&   再入走廊(返回航天器在再入大气层时的“走廊”)
+re-entry observation   &&   再入测量(航天器返回大气层的测量)
+re-entry point   &&   重入点，返回点
+re-entry thermal protective structure   &&   再人防热结构(航天器返回大气层免遭烧毁结构)
+re-refining   &&   再精炼
+re-righting   &&   再次点火
+re-use   &&   重新使用
+reaccess   &&   再存取，重存取
+reach   &&   ①有效范围，领域②伸展到，到达③伸出长度
+reach of crane   &&   起重机工作半径
+reach rod   &&   拉杆
+reach rod reverse nut   &&   拉杆反向螺母
+reachability   &&   可达性，能达性
+reachability map   &&   可达映射
+reachability matrix   &&   可达性矩阵
+reachability set   &&   可达集
+reachable set   &&   可达集，能达集
+reachable state   &&   可达状态，能达状态
+react   &&   反应
+reactance   &&   电抗
+reactance amplifier   &&   电抗耦合放大器
+reactance blade   &&   反作用叶片，反击式叶片
+reactance bridge method   &&   电抗桥接法
+reactance coil   &&   电抗线圈
+reactance compensation   &&   电抗补偿
+reactance coupling   &&   电抗耦合
+reactance drop   &&   电抗压降
+reactance factor   &&   电抗因数(无功功率与总功率之比)
+reactance grounded   &&   电抗接地
+reactance load   &&   电抗载荷
+reactance measurement   &&   电抗测量
+reactance starter   &&   电抗启动器
+reactance triangle   &&   电抗三角形
+reactance tube   &&   电抗管
+reactance valve   &&   电抗管
+reactance voltage   &&   电抗电压
+reactance-resistance ratio   &&   电抗-电阻比
+reactant   &&   反应物
+reactant dislocation   &&   反应物位错
+reacting force   &&   反作用力
+reacting substance   &&   反应物
+reaction   &&   ①反应②反作用，反作用力③反馈，回授
+reaction alternator   &&   反应交流发电机，无功交流发电机
+reaction chamber   &&   反应室
+reaction channel   &&   反应道
+reaction coefficient   &&   反馈系数，回授系数，反应系数
+reaction component   &&   电抗部分，无功部分
+reaction condenser   &&   反馈电容器，再生电容器
+reaction condition   &&   反应条件
+reaction control   &&   反馈控制，回授控制，反作用控制
+reaction control system   &&   反馈控制系统
+reaction coupling   &&   电抗耦合
+reaction disc   &&   反馈盘
+reaction energy   &&   反应能
+reaction engine   &&   反作用式发动机，喷气式发动机
+reaction equation   &&   反应(方程)式
+reaction flux   &&   反应钎(焊)剂
+reaction gas   &&   反应气
+reaction gas chromatography   &&   反应气相色谱法
+reaction generator   &&   反作用发电机
+reaction heat   &&   反应热
+reaction hot pressure   &&   反应热压
+reaction injection molding   &&   反应注塑
+reaction interval   &&   反应区间，反应程
+reaction kinetics   &&   反应动力学
+reaction machine   &&   反作用电机
+reaction mass   &&   反应物
+reaction mechanism   &&   反应机理
+reaction medium   &&   反应介质
+reaction member   &&   导向杆
+reaction motor   &&   反作用电动机
+reaction number   &&   反应值
+reaction of supports   &&   支点反力
+reaction order   &&   反应级数
+reaction period   &&   反应周期
+reaction principle   &&   反作用原理，反动原理
+reaction process   &&   反应过程
+reaction product   &&   反应产物
+reaction propulsion   &&   反作用力推进
+reaction rate   &&   反应速率
+reaction rate constant   &&   反应速度常数
+reaction rate model   &&   反应速率模型
+reaction ring   &&   导向环，定子环，止推环
+reaction scheme   &&   反应图解
+reaction servo-mechanism   &&   反作用伺服机构
+reaction soldering   &&   反应焊接，还原焊接
+reaction stage   &&   反应阶段，反应步骤
+reaction step   &&   反应阶段，反应步骤
+reaction still   &&   反应釜
+reaction surface   &&   反应面
+reaction tank   &&   反应池
+reaction thrust   &&   反推力
+reaction time   &&   反应时间
+reaction tower   &&   反应塔
+reaction turbine   &&   反动式汽轮机，反击式水轮机，反作用式水轮机，多汽压级反动式汽轮机
+reaction type wheel   &&   反击式水轮机，反作用式水轮机
+reaction velocity   &&   反应速度
+reaction vessel   &&   反应容器
+reaction wheel   &&   反作用轮
+reaction wheel control   &&   反作用轮控制
+reaction winding   &&   反作用绕法，反作用绕组
+reaction yield   &&   反应产额
+reaction zone   &&   反应区，活性区(反应堆)
+reactivation   &&   重激活，再生，复活
+reactive   &&   ①反应②电抗性
+reactive circuit   &&   电抗电路，反馈电路，回授电路
+reactive coil   &&   电抗线圈
+reactive component   &&   电抗部分，无功分量
+reactive current   &&   电抗性电流，无功电流
+reactive diffusion   &&   反应扩散
+reactive drawing   &&   反拉力拉丝
+reactive electromotive force   &&   无功电动势(reactive e.m.f.)
+reactive element   &&   电抗组件，无功组件
+reactive energy meter   &&   无功电度表
+reactive factor   &&   无功(功率)因数
+reactive ground   &&   电抗性接地
+reactive group   &&   反应基
+reactive ignition cable   &&   电抗性引燃电缆，电抗性点火电缆
+reactive kVA   &&   无功千伏安
+reactive kilovolt ampere-hour meter   &&   无功电度表
+reactive load   &&   电抗性负载，无功负载
+reactive materials   &&   反应材料
+reactive mode   &&   反应方式
+reactive output   &&   无功输出
+reactive power   &&   无功功率
+reactive power compensation   &&   无功功率补偿
+reactive power meter   &&   无功功率表
+reactive power regulator   &&   无功功率调节器
+reactive powermeter   &&   无功功率表
+reactive radiator   &&   无源辐射器
+reactive source   &&   无功源
+reactive sputtering   &&   反应溅射
+reactive suspension   &&   平衡悬架
+reactive var hour meter   &&   无功乏时计
+reactive varhour meter   &&   无功乏时计
+reactive volt-ampere meter   &&   无功伏安计，乏时计
+reactive voltage   &&   无功电压，电抗性电压
+reactive voltage component   &&   无功电压分量
+reactive-current compensation   &&   无功电流补偿
+reactive-current generator   &&   无功电流发生器
+reactive-factor meter   &&   无功功率因数表
+reactivity   &&   反应度，反应能力
+reactivity ratio   &&   反应速比(两种单体在共聚物中的)
+reactor   &&   ①反应堆，反应器②电抗器
+reactor appurtenances   &&   反应堆辅助设备
+reactor auxiliary system   &&   反应堆辅助系统
+reactor behaviour   &&   反应堆性能
+reactor blanket   &&   反应堆再生区
+reactor block   &&   反应堆体，反应堆块，反应堆舱
+reactor bridge   &&   反应堆桥式起重机
+reactor circuit   &&   反应堆回路
+reactor container   &&   反应堆安全壳
+reactor control   &&   反应器控制
+reactor coolant   &&   反应堆冷却剂
+reactor cooling   &&   反应器冷却
+reactor core   &&   反应堆心
+reactor cross section   &&   反应堆截面
+reactor design   &&   反应器设计
+reactor disaster   &&   反应堆事故
+reactor engineering   &&   反应器工程学
+reactor feed   &&   反应器进料
+reactor fuel   &&   反应堆燃料
+reactor heat removal   &&   反应堆排热
+reactor instrumentation   &&   反应堆检测仪表
+reactor kinetics   &&   反应堆动力学
+reactor lattice   &&   反应堆栅格
+reactor lid   &&   反应堆顶盖
+reactor main circuit   &&   反应堆主回路
+reactor material metallurgy   &&   反应堆材料冶金(学)
+reactor materials   &&   反应堆材料
+reactor measurement   &&   反应堆测量
+reactor neutron source   &&   反应堆中子源
+reactor noise   &&   反应堆噪声
+reactor period   &&   反应堆周期
+reactor physical start-up   &&   反应堆物理启动
+reactor poisoning   &&   反应堆中毒
+reactor pressure vessel   &&   反应堆压力容器
+reactor resistance   &&   电抗器电阻
+reactor simulator   &&   反应堆模拟装置，反应堆模拟器
+reactor starting   &&   电抗器启动
+reactor tap changer   &&   电抗器抽头切换装置
+reactor transfer function   &&   反应堆传递函数
+reactor type   &&   反应堆型式
+reactor-start motor   &&   电抗线圈启动电动机
+read   &&   读，读数，输入，读取
+read access time   &&   读取数时间
+read address counter   &&   读地址计数器
+read amplifier   &&   读出放大器
+read back check   &&   回读校验
+read back signal   &&   读回信号
+read backward   &&   反读，反向读出
+read command   &&   读命令
+read control register   &&   读控制寄存器
+read cycle time   &&   读周期
+read data   &&   读出数据
+read data strobe   &&   读数据选通
+read in   &&   读入
+read initial program   &&   读出初始程序
+read interpreter   &&   读入解释程序
+read mostly memory   &&   主读存储器
+read out   &&   读出
+read pass   &&   读通路
+read protection   &&   读保护
+read pulse   &&   读脉冲
+read punch   &&   读卡穿孔机，卡片阅读器
+read status microstructure   &&   读状态微指令
+read time   &&   读出时间
+read vector instruction   &&   读向量指令
+read-around ratio   &&   周围读数比
+read-in program   &&   读入程序
+read-lock   &&   封锁读
+read-only   &&   只读
+read-only access mode   &&   只读存取方式
+read-only flag   &&   只读标志
+read-only input tape   &&   只读输入带
+read-only memory   &&   只读存储器[ROM]
+read-only mode   &&   只读方式
+read-only optical disc drives   &&   资讯用仅读型光盘机
+read-only register   &&   只读寄存器
+read-only storage   &&   只读存储器
+read-only subpool   &&   只读子库
+read-only view   &&   只读窗口
+read-out device   &&   读出设备
+read-out gate   &&   读出门
+read-out information   &&   读出信息
+read-out signal   &&   读出信号
+read-out time   &&   读出时间
+read-pulse synchronization logic   &&   读脉冲同步逻辑
+read-request cycle   &&   读请求周期
+read-response cycle   &&   读响应周期
+read-write access mode   &&   读写存取方式
+read-write counter   &&   读写计数器
+read-write head   &&   读写磁头
+read-write memory   &&   读写存储器
+read-write memory module   &&   读写存储器插板
+read-write protection   &&   读写保护
+read-write speed   &&   读写速度
+read-write storage tape   &&   读写存储带
+read-write subpool   &&   读写子库
+read-write waiting time   &&   读写等待时间
+readability   &&   易读性，可读度，读数精度
+readdressing   &&   再编址，再寻址
+reader   &&   阅读器，阅读程序，输入机
+reader-copier   &&   阅读复印机
+reader-interpreter   &&   读入解释程序
+reader-printer   &&   阅读打印机
+reading bridge   &&   读数电桥
+reading device   &&   读数装置
+reading glass   &&   读数镜
+reading strain   &&   应变读数
+reading time   &&   阅读时间
+readjustments   &&   重调
+readout time   &&   读出时间
+ready   &&   就绪
+ready condition   &&   就绪状态
+ready control   &&   准备控制，控制就绪
+ready control input   &&   准备控制输入
+ready for next message   &&   准备下报文[RFNM]
+ready line   &&   就绪引线
+ready list   &&   就绪表
+ready mode   &&   就绪状态
+ready queue   &&   就绪队列
+ready read car   &&   备读卡片
+ready state   &&   就绪状态
+ready status word   &&   就绪状态字
+reagent   &&   反应物
+real address   &&   实地址
+real address area   &&   实地址区
+real analysis   &&   实分析
+real axis   &&   实轴
+real closed field   &&   实闭域
+real concentric cavity   &&   实共心腔
+real constant   &&   实常数
+real domain   &&   实域
+real drive   &&   实驱动
+real field   &&   实域
+real file   &&   实文件
+real focus   &&   实焦点
+real function   &&   实函数
+real gas critical flow coefficient   &&   真实气体临界流量系数
+real hinge   &&   实铰
+real image   &&   实像(物)，实象
+real installation capacity   &&   实装机容量
+real line   &&   实线
+real loss   &&   实际损失
+real matrix   &&   实矩阵
+real mode   &&   ①实模态②实址方式
+real module   &&   实模块
+real number   &&   实数
+real page number   &&   实际页面号
+real partition   &&   实分段，实分块
+real pattern   &&   实模式，实图像
+real process   &&   实际过程
+real resistance   &&   实电阻
+real root   &&   实根
+real storage   &&   实存储器
+real strain   &&   真实应变
+real system   &&   真实系统
+real time   &&   实时
+real time analysis   &&   实时分析
+real time analyzer   &&   实时分析仪
+real time control   &&   实时控制
+real time date processing   &&   实时数据处理
+real time display   &&   实时显示
+real time expert system   &&   实时专家系统
+real time input   &&   实时输入
+real time operation   &&   实时操作
+real time output   &&   实时输出
+real time process system   &&   实时处理系统
+real time remote control   &&   实时遥控
+real time simulation   &&   实时仿真
+real time simulation algorithm   &&   实时仿真算法
+real time system   &&   实时系统
+real time system software   &&   实时系统软件
+real time telemetry   &&   实时遥测
+real valued function   &&   实值函数
+real variable   &&   实变量
+real variable function   &&   实变函数
+real-analytic function   &&   实解析函数
+real-aperture side-looking airborne radar   &&   实孔径侧视雷达
+real-time   &&   实时
+real-time address   &&   零级地址
+real-time addressing   &&   零级编址
+real-time algorithm   &&   实时算法
+real-time analyzer   &&   实时分析仪
+real-time batch processing   &&   实时成批处理
+real-time clock   &&   实时时钟
+real-time communication   &&   实时通信
+real-time computation   &&   实时计算
+real-time computer program   &&   实时计算机程序
+real-time concurrency   &&   实时并行性
+real-time control   &&   实时控制
+real-time control routine   &&   实时控制程序
+real-time control system   &&   实时控制系统
+real-time correction   &&   实时校正
+real-time correlation   &&   实时相关
+real-time data base   &&   实时数据库
+real-time data processing   &&   实时数据处理
+real-time data reduction   &&   实时数据简化
+real-time data transmission   &&   实时数据传输
+real-time debugger   &&   实时调试程序
+real-time digital governor   &&   实时数字控制器
+real-time disk operating system   &&   实时磁盘操作系统
+real-time dock   &&   实时时钟
+real-time executive system   &&   实时执行系统
+real-time flight simulation   &&   实时飞行模拟
+real-time holography   &&   实时法(全息干涉方法的一种)
+real-time information system   &&   实时信息系统
+real-time input-output   &&   实时输入/输出
+real-time interface   &&   实时接口
+real-time microcomputer   &&   实时微型计算机
+real-time mode   &&   实时方式
+real-time multicomputing   &&   实时多重计算
+real-time multiprocessing system   &&   实时多重处理系统
+real-time on-line operation   &&   实时联机操作
+real-time pattern recognition   &&   实时模式识别
+real-time performance optimization   &&   实时执行优化
+real-time processing   &&   实时处理
+real-time processing communication   &&   实时处理通信
+real-time processor   &&   实时处理机
+real-time programming   &&   实时程序设计
+real-time protocol   &&   实时协议
+real-time relative addressing   &&   实时相对寻址
+real-time remote inquiry   &&   实时远程询问
+real-time response   &&   实时响应
+real-time satellite computer   &&   实时卫星计算机
+real-time signal analysis   &&   实时信号分析
+real-time simulation   &&   实时仿真
+real-time software   &&   实时软件
+real-time synchronization   &&   实时同步
+real-time system   &&   实时系统
+real-time task   &&   实时任务
+real-time telemetry   &&   实时遥测
+real-time trend panel   &&   实时趋势画面
+reality   &&   实体，真实性，现实性
+realizability   &&   可实现性，能实现性
+realization   &&   实现，现实化，现实
+realization of international temperature scale   &&   国际温标的复现
+realization of process   &&   过程实现
+reallocation   &&   再分配
+realm   &&   领域
+realm currency indicator   &&   领域现行指示符
+realm data item   &&   领域数据项
+realtime   &&   实时，即时模式
+ream   &&   ①铰孔，铰，扩孔②铰大
+ream grab   &&   抓土机
+reamer   &&   铰刀，铰床，扩孔锥，扩孔钻
+reamer bar   &&   铰刀杆
+reamer bolt   &&   铰刀螺栓
+reamer cutter   &&   铰刀槽铣刀
+reamer set   &&   成套铰刀
+reamer with helical flutes   &&   螺旋槽铰刀
+reamer with spiral flutes   &&   螺旋槽铰刀
+reaming   &&   ①铰孔，扩孔②清除毛边，铰孔修润
+reaming bench   &&   铰孔机
+reaming drilling machine   &&   铰孔钻床
+reaming lathe   &&   铰孔车床
+reaper   &&   收割机
+reaper-thresher   &&   收割脱粒机
+reaping apparatus   &&   收割装置
+reaping machine   &&   收割机
+rear   &&   ①后面的，背面的，背部②排尾
+rear and front axle stand   &&   前后车轴架
+rear axle   &&   后桥(汽车的)，后轮轴，后轴
+rear axle and suspension   &&   后桥与后悬架
+rear axle bevel gear and pinion set   &&   后桥主动及被动伞齿轮
+rear axle bevel pinion end bearing   &&   后桥主动伞齿轮端轴承
+rear axle bevel pinion flange   &&   后桥主动伞齿轮法兰
+rear axle bogie   &&   后轴转向架
+rear axle bumper   &&   后轴挡
+rear axle casing   &&   后轴箱
+rear axle cone bearing   &&   后轴锥轴承
+rear axle differential   &&   后桥差速器
+rear axle drive gear   &&   后轴变速齿轮
+rear axle dual drive   &&   后桥双重传动
+rear axle gear   &&   后轴齿轮
+rear axle gear drive   &&   后轴齿轮传动
+rear axle housing   &&   后桥壳，后轴套
+rear axle nut   &&   后轴螺母
+rear axle reductor   &&   后桥减速器
+rear axle shaft   &&   后桥轴，后轮轴
+rear axle spring seat   &&   后轴弹簧座
+rear axle stand   &&   后桥架
+rear axle steering   &&   后轴转向
+rear axle universal joint   &&   后轴万向节
+rear bearing   &&   后轴承
+rear brake screw   &&   后制动轮缸
+rear bumper   &&   后挡
+rear centre   &&   后顶尖
+rear coil spring   &&   后螺旋弹簧
+rear connection   &&   屏后接线
+rear cover   &&   后盖，后罩盖
+rear door   &&   后车门
+rear door shell right   &&   后右车门焊接总成
+rear drive chain   &&   后传送链
+rear drive gear   &&   后主动齿轮
+rear drive shaft   &&   后驱动轴，后主动轴
+rear drum brake   &&   后制动器
+rear dump truck   &&   后卸卡车
+rear dump wagon   &&   后卸车
+rear elevation   &&   后视图，背立图
+rear end roll steer   &&   后悬架侧倾转向
+rear engine   &&   后置发动机
+rear engine bus   &&   后置发动机公共汽车
+rear fender   &&   后翼子板
+rear fuel tank   &&   后油箱
+rear furrow wheel   &&   尾轮
+rear housing   &&   后端盖
+rear housing unit   &&   后壳体组件
+rear idler eccentric wheel   &&   后空转偏心轮
+rear idler wheel   &&   后空转轮
+rear lamp   &&   后灯
+rear main shaft   &&   后主轴
+rear math bearing   &&   后部主轴承
+rear plate   &&   后板
+rear propeller shaft   &&   后螺旋桨轴
+rear quarter panel   &&   后围侧板
+rear return cam   &&   后转向凸轮
+rear screen heater   &&   后窗除霜装置
+rear screw shaft   &&   后螺旋轴
+rear seat assembly   &&   后坐总成
+rear shock absorber   &&   后减振器
+rear spoiler   &&   后扰流板
+rear spring   &&   后弹簧
+rear stop   &&   后挡
+rear support   &&   后支架
+rear suspension   &&   后悬架
+rear tool rest   &&   后刀架
+rear transmission gear box   &&   后变速箱
+rear turbine bearing   &&   透平后轴承
+rear universal joint   &&   后万向节
+rear vision area   &&   后视野
+rear vision mirror   &&   后视镜
+rear wheel   &&   后轮
+rear wing   &&   后翼子板
+rear-end   &&   ①后端②尾部(火箭或发动机的)
+rear-end car   &&   列车
+rear-end compaction   &&   后端压缩
+rear-end transmission gear   &&   后端传动装置
+rear-end truncation   &&   后端停车灯，后端截断
+rear-loading vehicle   &&   后装载车
+rear-unloading vehicle   &&   后卸汽车
+rear-view mirror   &&   后视镜
+rear-wheel drive   &&   后轮驱动
+rearmounted engine   &&   后置发动机，尾部发动机
+rearmounted flywheel   &&   后置飞轮
+rearrange   &&   重新排序，重新整理
+rearranged molecular ion   &&   重排分子离子
+rearrangement   &&   重排
+rearrangement ion   &&   重排离子
+rearrangement peak   &&   重排峰
+rearrangement product   &&   重排物
+rearrangement reaction   &&   重排反应
+rearward conveyer   &&   尾部运输机，卸装运输机
+reasonable decision function   &&   合理决策函数
+reasonableness check   &&   合理检查
+reasonableness test   &&   合理性检测
+reasoning   &&   推理，推论，推导
+reasoning backward   &&   倒推论
+reassemble   &&   重编，再汇编
+reassembled multipacket message   &&   重装多包信息
+reassembling   &&   再次安装，重新装配
+reassociation   &&   重新组合,重新联合
+rebate bead   &&   槽舌圆线
+rebated mitre joint   &&   凹凸榫斜接
+rebatron   &&   大功率电子聚束器
+reblending   &&   再次混合
+rebore   &&   气缸重镗
+rebound   &&   ①反跳②回跳，回弹
+rebound clip   &&   回弹夹
+rebound hardness   &&   反跳硬度
+rebound hardness test   &&   反跳硬度试验
+rebound stop   &&   回弹缓冲块
+rebound table   &&   回跳表
+rebound valve disc   &&   复原阀片
+rebroadcast transmitter   &&   转播发射器
+rebroadcasting   &&   (无线电)转播
+recall   &&   ①检索，再调用②再呼叫③记起，想起
+recall ratio   &&   查全率，检索率
+recall signal   &&   回叫信号
+recall-fallout plot   &&   查全率-错检率曲线
+recapped fire   &&   翻新轮胎
+recast   &&   ①另算，重作②重铸
+recede   &&   收回，后退
+receded disk impeller   &&   离心式叶轮
+receipt signal   &&   收到信号
+receive   &&   接收
+receive interruption   &&   接收中断
+receive not ready   &&   不能接收
+receive ready   &&   可以接收
+receive sequence number   &&   接收序号
+receive state variable   &&   接收状态变量
+receive-only service   &&   只接收服务
+received data present   &&   接收数据指示
+receiver   &&   ①接收机，接受机-受话机，听筒②前床，前炉，转化炉
+receiver amplifier   &&   接收机放大器
+receiver analyser   &&   接收机试验器
+receiver attachment   &&   接收机附件
+receiver cupola   &&   带前床的冲天炉
+receiver drier   &&   贮液干燥器
+receiver element   &&   接收器组件
+receiver field-of-view selector   &&   接收机视场选择器
+receiver filter   &&   接收机滤波器，收音机滤波器
+receiver noise   &&   接收机噪声
+receiver of frequency modulation   &&   调频接收机，调频收音机
+receiver transformer   &&   接收机变压器
+receiving aerial   &&   接收天线
+receiving amplifier   &&   接收放大器
+receiving antenna   &&   接收天线
+receiving compensation piston   &&   补偿反应活塞
+receiving condenser   &&   接收电容器
+receiving core   &&   接收铁心
+receiving elevator   &&   接收升运器
+receiving end   &&   接收端，受电端
+receiving item   &&   接收项目
+receiving ladle   &&   移动式前炉
+receiving loop   &&   环形接收天线
+receiving quality   &&   接收机质量
+receiving register   &&   接收寄存器
+receiving relay   &&   接收继电器
+receiving selsyn   &&   自动同步接收机
+receiving sequence   &&   接收序列
+receiving station   &&   接收机台
+receiving wave range   &&   接收波段
+receiving-end impedance   &&   接收端阻抗
+receiving-end voltage   &&   接收端电压，终端电压
+recentrifuge   &&   再次离心
+receptacle   &&   ①容器②插座，插孔，塞孔
+receptacles   &&   插座
+reception   &&   接收，接收法
+reception channel   &&   接收机通道
+reception congestion   &&   接收拥挤
+reception level   &&   接收电平
+receptivity   &&   接收机性(能)
+recess   &&   ①凹槽，凹座，环槽②切口，凹口，凹进处
+recess action   &&   啮出
+recessed bearing   &&   槽形支承
+recessed heading tool   &&   空心顶锻凸模
+recessed switch   &&   暗线开关
+recessing punch   &&   有槽凸模
+recessing tool   &&   圆根切刀，圆根车刀，平面切刀，端面切刀，镗凸缘刀具，凹槽车刀
+recession   &&   ①衰退②凹处
+recession cone   &&   回收锥
+recharge   &&   ①再次充电②再装料
+recharge current   &&   再充电电流
+rechargeable battery   &&   再充式电池，蓄电池
+recharging   &&   ①再充电，二次充电②再填充
+rechipper   &&   精削机
+recipient processor   &&   接收处理机
+reciprocal   &&   倒数，往复的，相互的，可逆的
+reciprocal axis   &&   倒易轴
+reciprocal capacitance   &&   反向电容，逆向电容
+reciprocal cell   &&   倒易晶胞
+reciprocal circuit   &&   可逆电路，倒易电路
+reciprocal coefficient   &&   反系数
+reciprocal difference   &&   倒数差分
+reciprocal ferrite switch   &&   可逆铁氧体开关，互易性铁氧体开关
+reciprocal function   &&   倒数函数
+reciprocal impedance   &&   互易阻抗
+reciprocal interlock   &&   互相连锁，可逆连锁
+reciprocal junction   &&   互易性接头
+reciprocal lattice   &&   倒易点阵，互易点阵
+reciprocal linear dispersion   &&   倒数线色散
+reciprocal matrices   &&   互逆矩阵
+reciprocal motor   &&   往复式发动机
+reciprocal net   &&   可逆网络
+reciprocal network   &&   倒易网络，互易网络
+reciprocal one-to-one correspondence   &&   一一反对应
+reciprocal polynomial   &&   互反多项式
+reciprocal proportion   &&   反比(例)
+reciprocal reaction   &&   往复反应
+reciprocal relationship   &&   互反关系
+reciprocal space   &&   倒易空间
+reciprocal theorem   &&   互易定理
+reciprocal theorem of displacement   &&   位移互等定理
+reciprocal theorem of work   &&   功的互等定理
+reciprocal transducer   &&   可逆变换器，倒易换能器
+reciprocal trihedral   &&   倒三面体(的)
+reciprocal vector   &&   倒易矢量
+reciprocal-energy theorem   &&   能量互易定理
+reciprocate   &&   往复
+reciprocating air pump   &&   往复式空气压缩泵
+reciprocating block side crank mechanism   &&   往复滑块曲柄机构
+reciprocating blower   &&   往复鼓风机
+reciprocating compressor   &&   往复式压缩机，活塞式压缩机
+reciprocating conveyor   &&   往复运输机
+reciprocating engine   &&   往复式发动机
+reciprocating feeder   &&   往复进料器
+reciprocating filing and sawing machine   &&   往复式锉锯机
+reciprocating filing machine   &&   往复式锉床
+reciprocating follower   &&   移动从动件，摇杆
+reciprocating grinder   &&   往复式磨床
+reciprocating heater   &&   往返互换式加热器
+reciprocating internal combustion engine   &&   往复式内燃机
+reciprocating linear motor   &&   往复式直线电动机
+reciprocating machine tool   &&   往复式机床
+reciprocating mechanism   &&   往复运动机构
+reciprocating motion   &&   往复移动
+reciprocating piezoelectric effect   &&   往复压电效应，反压电效应
+reciprocating piston engine   &&   活塞式发动机
+reciprocating piston flowmeter   &&   簇复活塞式流量计
+reciprocating pump   &&   往复泵
+reciprocating rolling mill   &&   往复式轧机
+reciprocating rotary piston engine   &&   往复式转子发动机
+reciprocating saw   &&   往复锯
+reciprocating screen   &&   摆动筛
+reciprocating screw injection machine   &&   往复式螺杆注压机
+reciprocating seal   &&   往复式密封
+reciprocating shaft   &&   往复轴
+reciprocating spraying machine   &&   往复式喷涂机
+reciprocating steam engine   &&   往复式蒸汽机
+reciprocating-motion vertical conveyer   &&   往复式垂直输送机
+reciprocating-type compressed-air hammer   &&   往复式压缩气锤
+reciprocity   &&   互反性
+reciprocity calibration   &&   互易法校准
+reciprocity formula   &&   互反公式
+reciprocity principle   &&   可逆性原理
+recirculating ball steering   &&   循环球式转向器
+recirculating loop memory   &&   循环存储器
+recirculating network   &&   循环网络
+recirculating state   &&   循环状态
+recirculating system of ventilation   &&   循环通风系统
+recirculation   &&   ①再循环，二次循环②信息再循环③回流，逆环流
+recirculation cooler   &&   循环冷却器，环流冷却器
+recirculation pipe   &&   再循环水管
+reckon   &&   计算，估算
+reclaim   &&   回收
+reclaimed copper   &&   再生铜
+reclaimer   &&   回收程序
+reclamation of waste water   &&   废水回收利用
+recloser   &&   自动开关，复合继电器，自动接入继电器
+reclosing fuse   &&   重合熔断器
+reclosing relay   &&   重合闸继电器
+reclosing time   &&   重合时间，再闭路时间
+reclosure   &&   重合闸，再次接入
+recodification   &&   重编码
+recognition   &&   识别，分辨，承认
+recognition algorithm   &&   识别算法
+recognition font   &&   识别字形
+recognition gate   &&   识别门
+recognition machine   &&   识别机
+recognition matrix   &&   识别矩阵
+recognition network   &&   识别网络
+recognition process   &&   识别过程
+recognition program   &&   识别程序
+recognition system   &&   识别系统
+recognition time   &&   识别时间
+recognizable character   &&   可识别字符
+recognizable character set   &&   可识别字符集
+recognizable pattern   &&   可识别模型，可识别模式
+recognizable set   &&   可识别范围
+recognizable sum   &&   识别总数
+recognizer   &&   ①识别器②识别程序③识别算法
+recognizing colour relationship   &&   识别颜色关系
+recognizing language   &&   识别语言
+recognizing type relationship   &&   识别类型关系
+recoil   &&   ①反冲，反冲力②重绕，再绕
+recoil atom   &&   反冲原子
+recoil electron   &&   反冲电子
+recoil starter   &&   卷簧起动器
+recoiler   &&   卷取机，重卷机
+recoiling machine   &&   卷取机，重卷机
+recoiling reel   &&   卷取机，重卷机
+recombination coefficient   &&   复合系数
+recombination noise   &&   复合噪声
+recombination ramjet   &&   复合式冲压空气喷气发动机
+recombination ramjet engine   &&   复合冲压式发动机
+recombination type sensor   &&   复合型传感器
+recombination type transducer   &&   复合型传感器
+recompilation   &&   重新编译，再编译
+recomposing   &&   重排
+recompression   &&   再次压缩，再压
+recompression pressure   &&   再压压力
+recon   &&   修复的发动机
+recondition   &&   回收
+reconditioned engine   &&   修复的发动机
+reconditioning   &&   再调质
+reconfiguration   &&   结构变换，重新配置，再组合，重新组合
+reconnaissance   &&   普查，踏勘，初测
+reconnaissance airplane   &&   侦察机
+reconnaissance car   &&   侦察车
+reconnaissance plane   &&   侦察机
+reconnaissance radar   &&   侦察雷达
+reconnaissance satellite   &&   侦察卫星
+reconsolidation   &&   再固结
+reconstruct program   &&   重构程序
+reconstructed image   &&   重构图像，重构映象
+reconstructed sample   &&   重构抽样
+reconstruction   &&   重构，改造，再建
+recooling   &&   再冷却
+record   &&   ①记录②唱片③资料，数据
+record access pass   &&   记录存取通路
+record accessing   &&   记录存取
+record address file   &&   记录地址文件
+record aggregate   &&   记录聚集
+record amplifier   &&   记录放大器，录音放大器
+record area   &&   记录区域
+record attribute   &&   记录属性
+record block   &&   记录块
+record chain   &&   记录链
+record chart   &&   记录表(格)
+record contain   &&   记录包含
+record control system   &&   记录控制系统
+record conversion system   &&   记录转换系统
+record definition field   &&   记录定义字段[RDF]
+record description   &&   记录说明
+record description entry   &&   记录描述体
+record description word   &&   记录说明字
+record discriminator   &&   记录鉴别器
+record format   &&   记录格式
+record format message   &&   记录格式信息
+record gap   &&   记录间隔，记录间隙
+record generator   &&   记录生成程序
+record group   &&   记录组
+record head   &&   记录头
+record length   &&   记录长度
+record number   &&   记录数
+record playback robot   &&   记录再现机器人
+record player   &&   电唱机
+record ready   &&   记录就绪
+record retrieval   &&   记录检索
+record searching   &&   记录查找
+record selection expression   &&   记录选择表达式
+record separator   &&   记录分离符
+record separator character   &&   记录分离符字母
+record transmission   &&   记录传输
+record updating   &&   记录更新
+record-at-a-time-processing   &&   每次处理一次记录
+record-oriented data transmission   &&   面向记录的数据传输
+recordable optical disc drives   &&   资讯用仅写一次型光盘机
+recorder   &&   ①记录仪，记录器②录音机，印码收报机
+recorder motor   &&   记录器电动机
+recorder strip   &&   录音带
+recorder-controller   &&   记录-控制器
+recording   &&   记录，录音，存储
+recording ammeter   &&   记录式电流表
+recording amplifier   &&   录音放大器
+recording anemometer   &&   风速计
+recording apparatus   &&   记录仪器
+recording barometer   &&   记录气压计
+recording bridge   &&   记录电桥
+recording chart   &&   记录纸
+recording clock   &&   自记钟
+recording data requirement   &&   记录数据要求
+recording device   &&   记录装置
+recording drum   &&   记录滚筒
+recording electrical meter   &&   记录电表
+recording flow meter   &&   记录式流量计
+recording gear   &&   记录传动装置
+recording head   &&   记录头
+recording hygrometer   &&   记录湿度计
+recording impulse   &&   记录脉冲
+recording ink   &&   记录墨水
+recording instrument   &&   自记仪器
+recording key   &&   记录键，记录关键码
+recording liquid level gauge   &&   记录液面仪
+recording machine   &&   录音机
+recording manometer   &&   记录压力表
+recording measuring apparatus   &&   记录式测量仪器
+recording medium   &&   记录介质
+recording microbalance   &&   记录微量天平
+recording noise   &&   录音噪声
+recording paper   &&   记录纸
+recording pen   &&   记录笔(仪表的)
+recording pen lifter   &&   记录笔升降机构
+recording pressure gauge   &&   记录压力表
+recording program   &&   记录程序
+recording pyrometer   &&   记录式高温计
+recording rater   &&   记录温度计，自记温度计
+recording snow-gauge   &&   自记雪量计
+recording sound head   &&   录音头
+recording spectrometer   &&   记录式分光计
+recording spectrophotometer   &&   记录式分光光度计
+recording stylus   &&   记录笔(仪表的)
+recording sync   &&   记录同步
+recording tape   &&   记录(磁)带，录音带
+recording theodolite   &&   自记经纬仪
+recording(measuring)instrument   &&   记录(测量)仪器
+recover   &&   回收，回复，恢复，修复 修复
+recoverable error   &&   可恢复错误
+recoverable stage rocket   &&   回收级火箭
+recoverable synchronization   &&   可恢复同步
+recovered acid   &&   回收酸
+recovered alcohol   &&   回收酒精
+recovered oil   &&   回收油
+recovered solvent   &&   回收溶剂
+recovered temperature   &&   回收温度
+recovering factor   &&   恢复系数
+recovery   &&   恢复、复原
+recovery block   &&   恢复程序块
+recovery capsule   &&   回收舱
+recovery characteristic   &&   回复特性
+recovery clustering algorithm   &&   恢复群聚算法
+recovery control   &&   恢复控制
+recovery factor   &&   回收系数，回收率
+recovery from deadlock   &&   死锁恢复
+recovery from failure   &&   故障恢复
+recovery gas turbine   &&   回收气体涡轮
+recovery information set   &&   恢复信息集
+recovery interrupt   &&   恢复中断
+recovery management support   &&   恢复管理支持
+recovery of elasticity   &&   弹性恢复
+recovery of waste heat   &&   余热回收
+recovery per cent   &&   回收百分率
+recovery physical state   &&   回复自然状态
+recovery plant   &&   回收设备
+recovery pressure   &&   回收压力
+recovery procedure   &&   恢复过程
+recovery process   &&   恢复过程，恢复进程
+recovery processing   &&   恢复处理，恢复加工
+recovery program   &&   恢复程序
+recovery rate   &&   回收率，恢复率
+recovery routine   &&   恢复例行程序
+recovery time   &&   恢复时间
+recovery total   &&   回收总量
+recovery tower   &&   回收塔
+recovery value   &&   回复值
+recovery variable set   &&   恢复变量集
+recovery vehicle   &&   工程抢险车
+recovery voltage   &&   恢复电压
+recovery volume   &&   回收体积
+recovery waste heat   &&   回收余热
+recovery zone   &&   回收段(区)
+recreational vehicle   &&   休闲车[RV]
+recrystal   &&   再结晶
+recrystal grain   &&   再结晶晶粒
+recrystalling heat treatment   &&   再结晶热处理
+recrystallization   &&   再结晶，重结晶
+recrystallization annealing   &&   再结晶退火
+recrystallization boundary   &&   再结晶边界
+recrystallization temperature   &&   再结晶温度
+recrystallization texture   &&   再结晶组织，再结晶结构
+recrystallization twin   &&   再结晶孪晶
+recrystallization zone   &&   再结晶区
+recrystallized structure   &&   再结晶结构
+rectangle   &&   矩形，长方形，直角
+rectangular   &&   矩形，成直角
+rectangular aperture diffraction   &&   矩孔衍射
+rectangular array   &&   矩形数组，矩阵列
+rectangular bar   &&   矩形杆，矩形棒，矩形条钢
+rectangular bus bar   &&   矩形母线，矩形汇流条
+rectangular coil   &&   矩形线圈
+rectangular connector   &&   矩形连接器
+rectangular coordinate type potentiometer   &&   直角坐标式电位差计
+rectangular coordinates   &&   直角坐标
+rectangular distance   &&   矩形距离
+rectangular distribution   &&   矩形分布
+rectangular game   &&   矩形对策
+rectangular hysteresis material   &&   矩磁材料
+rectangular impulse   &&   矩形脉冲
+rectangular jet   &&   矩形射流
+rectangular kiln   &&   矩形窑
+rectangular laser diode   &&   矩形激光二极管
+rectangular loop material   &&   矩形磁滞回线材料
+rectangular net   &&   矩形网格
+rectangular prisms   &&   直角棱镜
+rectangular property of saddle point   &&   鞍点矩形特性
+rectangular pulse   &&   矩形脉冲
+rectangular section   &&   矩形(断面)钢材，矩形断面
+rectangular set   &&   矩形集
+rectangular thread   &&   矩形螺纹
+rectangular waveguide   &&   矩形波导
+rectangular wing   &&   矩形机翼
+rectangular wire   &&   矩形线
+rectangular-shaped pulse   &&   矩形脉冲
+rectangularity   &&   矩形性
+rectiblock   &&   整流片
+rectification   &&   整流，检波
+rectification coefficient   &&   整流系数
+rectification effect   &&   整流效应
+rectified feedback   &&   整流反馈
+rectified output   &&   整流输出
+rectified power source   &&   整流电源
+rectified waveform   &&   整流波形
+rectifier   &&   整流器，检波器，纠正仪
+rectifier bridge   &&   整流器电桥
+rectifier conduction time   &&   整流管导电时间
+rectifier efficiency   &&   整流器效率
+rectifier filter   &&   整流器滤波器，平滑滤波器
+rectifier instrument   &&   整流式仪表
+rectifier photocell   &&   整流光电管
+rectifier ripple factor   &&   整流波纹系数，整流脉动系数
+rectifier stage   &&   整流级
+rectifier station   &&   整流站
+rectifier transformer   &&   整流变压器
+rectifier tube   &&   整流管
+rectifier unit   &&   整流机组，整流设备
+rectifier valve   &&   整流管
+rectiformer   &&   整流变压器
+rectifying device   &&   整流器件
+rectilineal face tool   &&   直面齿轮
+rectilinear current   &&   直线性电流
+rectilinear ordinates recording instrument   &&   直线坐标记录仪
+rectilinear vibration   &&   直线振动
+rectilinear vortex   &&   直线涡流
+rectistack   &&   整流堆
+recuperation   &&   复原，回流换热法，反馈，回收
+recuperative cooler   &&   换热式冷却器
+recuperative furnace   &&   换热炉
+recuperative gas turbine   &&   间壁回热式燃气轮机
+recuperative heater   &&   回流换热器，再生式热风机
+recuperator   &&   回流换热器，换热室(器)
+recurrence   &&   ①递归，循环②复现，再现
+recurrence code   &&   循环码
+recurrence event   &&   循环事件，递归事件
+recurrence formula   &&   递归公式
+recurrence frequency   &&   脉冲重复频率，重发频率
+recurrence relation   &&   递归关系
+recurrence time   &&   循环时间
+recurrent   &&   ①递归的，循环的②复现的，再现的
+recurrent game   &&   递归对策
+recurrent state   &&   循环状态
+recursion   &&   递归，递推，递归式，循环，递回
+recursion formula   &&   递推公式
+recursion length   &&   递归长度
+recursive   &&   递归
+recursive address   &&   递归地址
+recursive algorithm   &&   递归算法
+recursive attribute   &&   递归属性
+recursive call   &&   循环呼叫，循环调用
+recursive compilation   &&   递归编译
+recursive computation   &&   递归计算
+recursive control algorithm   &&   递归控制算法
+recursive data flow   &&   递归数据流
+recursive definition   &&   递归定义
+recursive enumerability   &&   递归可枚举性语言
+recursive equation   &&   递归型方程
+recursive estimation   &&   递归估计，递推估计
+recursive function   &&   递归函数
+recursive games   &&   递归对策
+recursive least squares   &&   递归最小二乘方
+recursive length   &&   递归长度
+recursive linear regression   &&   递归线性回归
+recursive macro   &&   递归宏功能，递归宏指令
+recursive orbit   &&   回归轨道
+recursive pattern matcher   &&   递归模式匹配程序
+recursive predicate   &&   递归谓词
+recursive procedure   &&   递归过程
+recursive procedure call   &&   递归过程调用
+recursive process   &&   递归过程，递归进程
+recursive program   &&   递归程序
+recursive relation   &&   递归关系
+recursive set   &&   递归集合
+recursive subroutine   &&   递归例行程序
+recursive theory   &&   递归论
+recursive transition network   &&   递归传输网
+recursive-enumerable language   &&   递归可枚举语言
+recut tire   &&   复切轮胎
+recycle   &&   ①再循环②回注(石油的)
+recycle chromatography   &&   循环色谱法
+recycle gas blower   &&   循环(气)鼓风机
+recycling program   &&   再循环程序
+recycling reactor   &&   核燃料再循环反应堆
+red brass   &&   红(色黄)铜，低锌黄铜，锡锌黄铜(Zn<20％)
+red brass alloy   &&   红铜合金(Cu 85％，Zn l5％)
+red brittle iron   &&   热脆钢
+red brittlement   &&   热脆，热脆性
+red brittleness   &&   红脆性，热脆性
+red bronze   &&   红铜
+red copper   &&   紫铜，赤铜
+red copper ore   &&   赤铜矿
+red haematite   &&   赤铁矿
+red hard steel   &&   热硬钢，红硬钢
+red iron ore   &&   赤铁矿
+red short iron   &&   热脆钢
+red shortness   &&   红热脆性
+red-hot   &&   炽热
+red-sensitive cell   &&   红敏光电管
+redefinable cross assembler   &&   可复位义的交叉汇编程序
+redefine   &&   复位义 重新定义
+redline   &&   红线
+redo   &&   再循环，改写，重做
+redox electrode assembly   &&   氧化还原复合电极
+redox potential meter   &&   氧化-还原电位测定仪
+redraw   &&   ①重拉拔②回火③重画 重绘
+redraw all   &&   全重画 全部重绘
+reduce   &&   还原，简化，减少，降低，衰减
+reduce roll machine   &&   锻轧机
+reduced annealing   &&   还原退火
+reduced capacity trim   &&   低容量阀内件
+reduced cocycle matrix   &&   缩减余圈矩阵
+reduced cut-set   &&   简化割集
+reduced cycle matrix   &&   缩减圈矩阵
+reduced equation   &&   简化方程，简约方程
+reduced finite-state machine   &&   缩减有限状态机
+reduced form   &&   简约型
+reduced form of general game   &&   简约型一般对策
+reduced gradient method   &&   简化梯度法
+reduced impedance   &&   归一化阻抗
+reduced incidence matrix   &&   缩减关联矩阵
+reduced instruction system computer   &&   RISC计算机
+reduced machine   &&   归约机
+reduced model   &&   降阶模型
+reduced order modeling   &&   降解模型
+reduced order observer   &&   降阶观测器
+reduced ordered pair group   &&   约化有序对群
+reduced programming   &&   简约规划
+reduced scale   &&   缩尺
+reduced space   &&   退化空间
+reduced tree height   &&   简化的树结构
+reduced viscosity   &&   还原粘度
+reducer   &&   ①减压器，减速器②节流器③减振器
+reducer coupling   &&   缩(小管)接
+reducibility   &&   ①可约性，可归性②还原性
+reducible correspondence   &&   可约对应
+reducible fraction   &&   可约分数
+reducible graph   &&   可约图
+reducible matrix   &&   可约矩阵，可简化矩阵
+reducible operator   &&   可约算子
+reducing action   &&   还原作用
+reducing atmosphere   &&   还原气氛
+reducing bend   &&   变径弯头
+reducing cross   &&   变径四通
+reducing die   &&   拉丝模，缩颈模
+reducing electrode   &&   还原电极
+reducing flame   &&   还原焰
+reducing flange   &&   缩口法兰
+reducing furnace   &&   还原炉
+reducing gas   &&   还原气体
+reducing mill   &&   减径机
+reducing pipe   &&   渐缩管
+reducing plane table equipment   &&   归算平板仪
+reducing power   &&   还原本领
+reducing process   &&   还原法
+reducing slag   &&   还原渣
+reducing tee   &&   变径三通，大小头三通
+reducing value   &&   还原值
+reducing valve   &&   减压阀
+reducing zone   &&   还原层
+reduction   &&   简化，简约，归约，还原，减少，还原作用
+reduction carrier   &&   还原载体
+reduction flame   &&   还原焰
+reduction furnace   &&   还原炉
+reduction gear   &&   减速齿轮、减速装置
+reduction intensity   &&   还原强度
+reduction of area   &&   断面收缩率
+reduction of cross-sectional area   &&   断面收缩蛊
+reduction of dimensionality   &&   维数缩减
+reduction of length   &&   缩短率
+reduction potential   &&   还原电势
+reduction process   &&   还原过程
+reduction ratio   &&   减速比
+reduction value   &&   还原值
+redundancy   &&   冗余，冗余位，冗余项，过多
+redundancy computer system   &&   冗余计算机系统
+redundancy of attribute   &&   多余属性
+redundancy of data   &&   数据冗余性
+redundancy optimization problem   &&   冗长优化问题
+redundancy technique   &&   储备技术
+redundancy term   &&   冗余项
+redundancy unit   &&   冗余单元，冗余设备
+redundant   &&   冗长，冗余
+redundant allocation   &&   冗长分配
+redundant bit   &&   冗余位，多余位
+redundant check   &&   冗余检验，多余检验
+redundant check bit   &&   冗余检查位
+redundant code   &&   冗余码
+redundant configuration   &&   冗余配置
+redundant constraint   &&   虚约束，多余约束条件
+redundant data   &&   冗余数据
+redundant degree of freedom   &&   冗余自由度
+redundant design   &&   冗长设计
+redundant digit   &&   冗余数字
+redundant equation   &&   多余方程
+redundant frame   &&   超静定框架
+redundant hologram   &&   多余全息图
+redundant information   &&   冗余信息
+redundant member   &&   多余杆件
+redundant network   &&   冗余网络
+redundant number   &&   冗余数
+redundant phase encoding   &&   冗长相位编码
+redundant repairable system   &&   冗长修理系统
+redundant robot   &&   冗长机器人
+redundant symbol   &&   冗余符号
+redundant system   &&   冗余系统
+redundant system reliability   &&   冗余系统可靠性
+reed   &&   簧片
+reed switch   &&   簧片开关
+reed valve   &&   簧片阀
+reed-type relay   &&   簧片式继电器
+reeding machine   &&   穿筘机
+reefer   &&   冷藏车
+reel   &&   纸带卷，磁带卷
+reel bar   &&   推杆(推钢机的)
+reel number   &&   带号
+reel of tape   &&   带卷
+reel stretch   &&   卷圆压平
+reel-stretch punch   &&   卷圆压平冲子
+reenterability   &&   可重人性
+reenterable load module   &&   可重入装配模块
+reenterable program   &&   可重入程序
+reenterable routine   &&   可重入例行程序
+reenterable subroutine   &&   可重入子程序
+reentrant code   &&   可重入代码
+reentrant control state   &&   重入控制态
+reentrant procedure   &&   重入过程
+reentrant program   &&   可重入程序
+reentrant routine   &&   重入例行程序
+reentrant subroutine   &&   重入子程序
+reentry   &&   重返，重返大气层
+reentry communication   &&   重返大气层通信(卫星通信的)
+reentry control   &&   再入控制
+refer   &&   指，涉及，谈及
+referencable data area   &&   可引用的数据区
+referencable variable   &&   可引用变量
+reference   &&   参比，参考，依据，引用，参照，参考
+reference address   &&   参考地址，基本地址
+reference angles   &&   参考角 参考角度
+reference area   &&   参考面积
+reference axis   &&   参考轴，基准轴
+reference bit   &&   参考位
+reference block   &&   比较试块，对比试块，参考试块
+reference call   &&   参考调用
+reference cell   &&   参比电池
+reference chart   &&   参比记录纸
+reference chromatogram   &&   参比色谱图
+reference circle   &&   参考圆，分度线
+reference class   &&   参考类
+reference coil   &&   参考线圈，基准线圈
+reference column   &&   参比柱
+reference computer   &&   基准计算机
+reference condition   &&   参比条件
+reference cone   &&   分度圆锥
+reference coordinate   &&   参考坐标
+reference cylinder   &&   参考圆柱
+reference data   &&   参考数据
+reference data table   &&   参考数据表
+reference debugging aid   &&   调试辅助程序
+reference dimension   &&   参考尺寸
+reference direction   &&   参考方向
+reference edge   &&   参考边
+reference electrode   &&   参比电极
+reference element   &&   参比元素
+reference external symbol   &&   外部参引符号
+reference field   &&   参考场
+reference format   &&   标准格式，基准格式，引用格式，参引格式
+reference frequency   &&   参考频率，基准频率
+reference generator   &&   基准信号发生器
+reference holder   &&   参比物支持器，参比器
+reference image height   &&   参考帧高
+reference input signal   &&   参引输入信号
+reference instruction   &&   参考指令，参引指令
+reference junction   &&   参考结，基准结，参比端
+reference junction error   &&   参比端误差
+reference junction error of thermocouple   &&   热电偶的参比端误差
+reference junction temperature compensator   &&   参比端温度补偿器
+reference language   &&   参考语言，参引语言，基准语言
+reference length   &&   参考长度
+reference level   &&   基准面，参考水位
+reference line   &&   基准线，参比线，分度线
+reference list   &&   引用表，参引表
+reference load calibrating machine   &&   基准测力机
+reference mark   &&   基准点，参考标记
+reference material   &&   参比物质
+reference model   &&   引用模型，参考模型
+reference module   &&   参比组件
+reference monitor   &&   参引监督程序
+reference node   &&   参考节点，引用节点
+reference number   &&   参考数
+reference operating condition   &&   参比工作条件
+reference order   &&   参考指令，参引指令
+reference page   &&   参考页，参引页
+reference peak location   &&   参比峰位
+reference performance characteristic   &&   参比性能特性
+reference phase   &&   参考相(位)
+reference plane   &&   参考(平)面，基准面
+reference point   &&   参考点，依据点(测量)
+reference power meter   &&   参考功率计
+reference power supply   &&   参考电源
+reference pressure   &&   参考压力，基准压力
+reference program   &&   引用程序
+reference range   &&   参比范围
+reference reaction   &&   参比反应
+reference record   &&   参考记录，引用记录
+reference resistance   &&   参考电阻
+reference retrieval   &&   引文检索
+reference sample   &&   参比试样，标准试样
+reference scan   &&   参考扫描，引用扫描
+reference signal   &&   参比信号
+reference signal generator   &&   参考信号发生器
+reference solution   &&   参比溶液
+reference sound intensity   &&   参考声强
+reference sound power   &&   参考声功率
+reference sound pressure   &&   参考声压
+reference source   &&   参比源
+reference sphere   &&   参考球
+reference standard   &&   参比标准，参考标准
+reference state   &&   参比状态
+reference substance   &&   参比物
+reference system   &&   参比系统
+reference table   &&   参考表
+reference table of thermocouple   &&   热电偶的分度表
+reference tape   &&   参考带
+reference test pieces   &&   对比试块
+reference value   &&   参比值
+reference variable   &&   参考变量，基准变量
+reference vector   &&   参考向量
+reference voltage   &&   参考电压，基准电压
+reference wave   &&   参考波，参考声束
+reference-input variable   &&   参考输入变量，基准输入变量
+reference-value method   &&   参比值法
+reference-value scale   &&   参比值标度
+reference-value scale of a quantity or property   &&   量或特性参比值标度
+refetch logic   &&   重取逻辑
+refile   &&   接力传送
+refilling   &&   回填，再填
+refine   &&   精度控制 精细化
+refined net   &&   加密网络，细网络
+refinement   &&   ①精炼，提纯②加细，加密
+refining   &&   精制
+refining mill   &&   精研机
+refining temperature   &&   调质温度
+reflation   &&   再膨胀
+reflect   &&   反射
+reflectance   &&   反射比，反射率
+reflectance spectrum   &&   反射波谱
+reflected binary code   &&   反射二进制码
+reflected binary number system   &&   反射二进位制
+reflected binary unit-distance code   &&   反射二进制单位间距码
+reflected code   &&   循环码
+reflected image   &&   反射像
+reflected light   &&   反射光
+reflected ray   &&   反射线
+reflected sound   &&   反射声
+reflected wave   &&   反射波，回波
+reflecting ability   &&   反射能力
+reflecting antenna   &&   反射天线
+reflecting goniometer   &&   反射测角计
+reflecting layer   &&   反射层
+reflecting material   &&   反射材料
+reflecting microscope   &&   反射显微镜
+reflecting power   &&   反射能力
+reflecting sketchmaster   &&   反光转绘仪
+reflecting surface   &&   反射面
+reflecting telescopes   &&   反射望远镜
+reflection   &&   反射
+reflection angle   &&   反射角
+reflection coefficient   &&   反射系数
+reflection color   &&   反射色 反射色
+reflection electron microscope   &&   反射电子显微镜
+reflection factor   &&   反射系数
+reflection grating   &&   反射光栅
+reflection high energy electron diffraction spectroscopy   &&   反射高能电子衍射能谱法[RHEED]
+reflection hologram   &&   反射全息图
+reflection law   &&   反射定律
+reflection loss   &&   反射损耗，反射损失
+reflection mapping   &&   反射贴图 反射贴图
+reflection matrix   &&   反射矩阵
+reflection method   &&   脉冲反射法
+reflection nephoscope   &&   反射测云器
+reflection plate   &&   反射板
+reflection spectrum   &&   反射谱
+reflection type star optical couplers   &&   星状光纤耦合器(反射形)
+reflective coating   &&   反射膜
+reflective index   &&   反射率
+reflective insulation   &&   反射隔热，反射绝热
+reflective optic tachometric transducer   &&   反光式转速传感器
+reflective thermal radiation   &&   反射热辐射
+reflectivity   &&   反射系数，反射性，反射能力，反射率
+reflectivity method   &&   反射率法
+reflectogram   &&   反射图，探伤器波形图
+reflectometer   &&   反射表
+reflector   &&   反射器，反光镜
+reflector fog lamp   &&   雾灯反射镜
+reflector panel   &&   反光板
+reflector path   &&   外光路
+reflector rear fog lamp   &&   后雾灯反射镜
+reflector space   &&   反射空间
+reflectoscope   &&   反射测试仪
+reflecxivity   &&   自反性
+reflex   &&   回复
+reflex klystron   &&   反射速调管
+reflex reflection   &&   回复反射
+reflex reflector   &&   反射器
+reflexion   &&   反射，反射波
+reflexive and transitive closure   &&   自反转移闭包
+reflexive closure   &&   自反闭包
+reflexive partial ordering   &&   自反半定序
+reflexive relation   &&   自反关系，反射关系
+reflexive transitive closure   &&   自反传递闭包
+reflexivity of a fuzzy relation   &&   模糊关系自反性
+reflexivity of strategic equivalence   &&   策略等价自反性
+reflow   &&   回流
+reflux   &&   回流
+reflux column   &&   回流(蒸馏)塔
+reflux ratio   &&   回流比
+reflux valve   &&   逆流阀
+reformat   &&   复位格式
+reformulated gasoline   &&   重整汽油
+refracting telescope   &&   折射望远镜
+refractive humidity sensor   &&   折射式湿度传感器
+refractive humidity transducer   &&   折射式湿度传感器
+refractive index   &&   折射指数 折射系数
+refractive index liquids   &&   折射率液
+refractometer   &&   折射计，折光仪，折光率测定仪，折射盐度计
+refractometers   &&   折射计
+refractoriness   &&   耐熔性
+refractory   &&   耐火材料
+refractory alloy   &&   耐高温合金
+refractory metals-ceramic coating   &&   难熔金属陶瓷涂层
+refresh   &&   刷新，再生，恢复，更新
+refresh display   &&   刷新显示
+refreshed-picture display   &&   刷新式画面显示
+refrigerant   &&   冷媒，冷冻剂
+refrigerant inlet   &&   制冷剂进口
+refrigerant outlet   &&   制冷剂出口
+refrigerant pressure gauge   &&   致冷压力表
+refrigerate   &&   冷冻
+refrigerated truck   &&   冷藏汽车
+refrigerated vehicle   &&   冷藏车
+refrigerating fluid   &&   冷冻液
+refrigerating installation   &&   冷冻设备
+refrigerating machine   &&   冷冻机
+refrigeration   &&   致冷
+refrigeration compressor   &&   冷冻压缩机
+refrigerator   &&   电冰箱，冷冻机
+refuse vehicle   &&   垃圾车
+refuse-burning power plant   &&   燃烧垃圾发电厂
+refutation tree   &&   反驳树，反演树
+regain   &&   回收
+regen   &&   重生成，重生
+regenall   &&   全重生成，全部重生(autoCAD制图用)
+regenauto   &&   自动重生成，自动重生(autoCAD制图用)
+regenerate   &&   重生成 重生
+regeneration   &&   重生成 重生
+regeneration connection   &&   再生连接
+regeneration gas   &&   再生气体
+regeneration period   &&   再生周期
+regeneration point   &&   再生点
+regeneration point property   &&   再生点特性
+regeneration signal   &&   再生信号
+regeneration temperature   &&   再生温度
+regenerative braking   &&   回馈制动，再生制动
+regenerative carbon   &&   再生活性碳
+regenerative circuit   &&   再生电路
+regenerative cycle   &&   再生循环
+regenerative detector   &&   再生检波器
+regenerative feedback   &&   再生反馈
+regenerative furnace   &&   再生炉，回热炉
+regenerative heat   &&   回热
+regenerative heat exchanger   &&   回热式热交换器，交流换热器，再生热交换器
+regenerative oven   &&   再生炉
+regenerative process   &&   再生过程
+regenerative reactor   &&   再生反应堆
+regenerative steam turbine   &&   回热式蒸汽轮机
+regenerator   &&   回热器，再生器
+regeneratory furnace   &&   再生炉
+regiment   &&   编制，系统化
+region   &&   区域，面域 面域
+region of acceptance   &&   接收区
+regional address   &&   区地址
+regional analysis   &&   区域分析
+regional coding   &&   局部编码
+regional model   &&   区域模型
+register   &&   ①寄存器，寄存器组，记录器②节气门，通风装置③记录，显示，记数
+register addressing   &&   寄存地址
+register allocation   &&   寄存器分配
+register capacity   &&   寄存器容量
+register file block   &&   寄存器文件块
+register immediate instruction   &&   寄存器立即指令
+register indirect addressing   &&   寄存器间接寻址
+register of an integrating instrument   &&   积分式仪表的计度器
+register pair   &&   寄存器对
+register pointer   &&   寄存器指示位
+register reference instruction   &&   寄存器参考指令
+register ring   &&   定位环
+register transfer language   &&   寄存器传送语言[RTL]
+register transfer microprogramming language   &&   寄存器传送微程序设计语言
+register transfer module   &&   寄存器传送模块
+register transfer simulation   &&   寄存器传送模拟
+registered address   &&   电报挂号
+registered standard   &&   注册标准
+registering instrument   &&   记录仪器
+registration   &&   记录，重合，重叠，叠加
+registration plate lamp   &&   牌照灯
+registry   &&   注册表 登录
+regress   &&   倒退
+regression   &&   倒退，回归，回归
+regression analysis   &&   回归分析
+regression analysis method   &&   回归分析法
+regression coefficient   &&   回归系数
+regression equation   &&   回归方程式
+regression estimate   &&   回归估计
+regression line   &&   回归直线
+regression model   &&   回归模型
+regression rater   &&   回归参数
+regrind   &&   再磨研
+regrinding   &&   再次研磨
+regrooved tire   &&   重新压槽轮胎
+regroover   &&   再次刻纹机
+regrooving   &&   再次刻纹
+reground   &&   重磨
+regrowth   &&   再生长
+regular arc   &&   正弧
+regular binary   &&   正规二进制，普通二进制
+regular character   &&   正规字符
+regular character code   &&   正规字符代码
+regular column   &&   正则列
+regular detection function   &&   正规检测函数
+regular event   &&   正规事件
+regular expression   &&   正则表达式
+regular function   &&   正则函数
+regular fuzzy grammar   &&   正则模糊语法
+regular graph   &&   正规图
+regular language   &&   正规语言
+regular net   &&   正则网络，规则网格
+regular net region   &&   规则网格区域
+regular point   &&   正则点
+regular reflection   &&   单向反射，正反射
+regular ring   &&   正则环
+regular sequence   &&   正则序列
+regular set   &&   正则集，正规集
+regular translation   &&   正则翻译
+regular velocity distribution   &&   规则速度分布
+regularity   &&   规律性
+regulating action   &&   调节作用
+regulating device   &&   调节装置
+regulating unit   &&   调节单元
+regulating wheel   &&   导轮(无心磨床的)
+regulation   &&   法规，调节
+regulation for technical operation   &&   技术操作规程
+regulation in steps   &&   分级调整
+regulation of line voltage   &&   电压调整率
+regulator   &&   ①调节器②调节机构
+regulator handle   &&   车窗升降机构摇手把
+regulator, governor   &&   调速器
+regulex   &&   磁饱和放大器，电机调节器
+rehabilitation   &&   恢复，复新
+rehandling   &&   再处理，再整顿
+reignition   &&   再次点火
+reinforced  glass fibre composite   &&   玻璃纤维增强复合材料
+reinforced plastic glass fibre   &&   玻璃钢纤维
+reinforcement method   &&   增量法
+reinforcement of weld   &&   加强焊接
+reinforcing plies   &&   加强层
+reinforcing steel machinery and equipment   &&   钢筋加工机械
+reinforcing steel work   &&   钢筋加工
+reinforcing wire   &&   钢丝
+reinit   &&   重初始化
+reinsertion   &&   再次插入
+reinstall   &&   重新安装 重新安装
+reject region   &&   拒绝区
+rejected character   &&   拒识字符
+rejected line   &&   拒识行
+rejected sequence   &&   拒识序列
+rejection   &&   抑制
+rejection amplifier   &&   带除放大器
+rejection band filters   &&   排除频带滤光镜
+rejoint   &&   重接
+related software   &&   相关软件
+relation   &&   关系，关系式
+relation algebra   &&   关系代数
+relation character   &&   关系字符
+relation direct access method   &&   关系直接存取法
+relation matrix   &&   关系矩阵
+relation of inclusion   &&   包含关系
+relation operation   &&   关系运算
+relational calculus   &&   关系演算
+relational complete language   &&   关系完备语言
+relational data language   &&   关系数据语言
+relational database   &&   关系数据库
+relational database model   &&   关系数据模型
+relational database schema   &&   关系数据库模式
+relational expression   &&   关系表达式关系式
+relational file   &&   关系文件
+relational interface optimization   &&   关系接口化，相关接口优化
+relational model   &&   关系模型
+relational operator   &&   关系算符，关系操作符，关系运算符
+relational programming   &&   相关程序设计
+relational query processing   &&   关系查询处理
+relational schema normalization   &&   关系模式规范化
+relational system   &&   关系系统
+relational theory   &&   关系理论
+relational tree   &&   关系树
+relationship   &&   联系，关系
+relative   &&   相当的，比较的
+relative abundance   &&   相对丰度
+relative activity   &&   相对活度
+relative address   &&   相对地址
+relative addressing   &&   相对寻址，相对编址
+relative angles   &&   相对角 相对角度
+relative aperture   &&   相对孔径
+relative band   &&   相对波段
+relative coding   &&   相对编码
+relative complement   &&   相对补码
+relative complement set   &&   相对补(余)集
+relative control range   &&   相对控制范围
+relative coordinates   &&   相对坐标 相对座标
+relative correction   &&   相对校正
+relative deferred addressing   &&   相对延迟寻址
+relative deformation   &&   相对形变
+relative density   &&   相对密度
+relative detuning   &&   相对解调(谐)，相对失调
+relative dielectric constant   &&   相对介电常数
+relative displacement   &&   相对位移
+relative efficiency   &&   相对效率
+relative elevation   &&   相对标高
+relative entropy   &&   互熵
+relative error   &&   相对误差
+relative extreme   &&   相对极值
+relative flow coefficient   &&   相对流量系数
+relative flying height   &&   相对航高
+relative frequency   &&   相对频率
+relative gap   &&   相对间隙，向心轴承
+relative gravity measurement   &&   相对重力测量
+relative gravity survey   &&   相对重力测量
+relative height   &&   相对高度
+relative humidity   &&   相对湿度
+relative importance   &&   相对重要性
+relative interior of convex set   &&   凸集相对内部
+relative invariant   &&   相对不变式
+relative length closing error of traverse   &&   导线相对闭合差
+relative luminosity factor   &&   相对发光度系数
+relative maximum   &&   相对极大值
+relative measurement method   &&   相对式测量法
+relative minimum point   &&   相对极小点
+relative motion   &&   相对运动
+relative movement   &&   相对运动
+relative orientation   &&   相对定向
+relative permeability   &&   ①相对渗透率②相对磁导率
+relative permittivity   &&   相对介电常数，相对电容率
+relative pitch   &&   相对节距
+relative polarity   &&   相对极性
+relative precision   &&   相对响应值
+relative program   &&   相对程序
+relative radius of curvature   &&   相对曲率半径
+relative redundancy   &&   相对冗余度
+relative retention value   &&   相对保留值
+relative scale   &&   相对标尺，相对尺度
+relative sensitivity coefficient   &&   相对灵敏度系数
+relative stability   &&   相对稳定性
+relative tolerance between forward and backward in indicating value   &&   示值进回程相对误差
+relative travel   &&   相对行程
+relative value   &&   相对值
+relative variation in the indicating value   &&   示值相对变动值
+relative velocity   &&   向心轴承
+relative virtual address   &&   相对虚拟地址
+relative viscosity   &&   相对粘度
+relative volatility   &&   相对挥发度
+relative voltage response   &&   相对电压反应
+relative wind   &&   相对风
+relatively closed set   &&   相对闭集
+relatively open set   &&   相对开集
+relativism   &&   ①关系原则②相对论③相对主义
+relativistic correction   &&   相对论改正
+relativistic electron bunching accelerator   &&   大功率电子聚束器
+relativistic electronics   &&   相对论电子学
+relativistic expression   &&   相对论表达式
+relativistic physics   &&   相对论性物理学
+relativity   &&   相对作用，相对性
+relaxation   &&   松弛，弛豫
+relaxation absorption   &&   弛豫吸收
+relaxation and tension   &&   弛张
+relaxation effect   &&   弛豫效应
+relaxation internal friction   &&   弛豫内耗
+relaxation internal friction peak   &&   弛豫内耗分峰
+relaxation loss   &&   弛张损失(介质的)
+relaxation method   &&   松弛法
+relaxation of residual stress   &&   消除残余应力
+relaxation oscillator   &&   弛豫振荡器
+relaxation parameter   &&   松弛参数
+relaxation period   &&   弛张周期
+relaxation phenomenon   &&   弛豫现象
+relaxation principle   &&   松弛原理
+relaxation procedure   &&   松弛方案
+relaxation process   &&   弛豫过程
+relaxation rate   &&   弛豫速度
+relaxation semiconductor   &&   弛豫半导体
+relaxation strength   &&   弛豫强度
+relaxation test   &&   弛豫试验
+relaxation testing machine   &&   松弛试验机
+relaxation theory   &&   弛张理论
+relaxation time   &&   弛豫时间
+relaxation time approximation   &&   弛豫时间近似
+relaxation vibration   &&   张弛振动
+relaxation-type spectrum of dielectrics   &&   弛豫型介质谱
+relaxational mode   &&   弛豫模
+relay   &&   ①继电器②控制单元
+relay act trip   &&   继电器操作跳闸
+relay adjustment   &&   继电器调节
+relay air valve   &&   继电器空气阀
+relay armature   &&   继电器衔铁
+relay automatic telephone system   &&   继电器式自动电话系统
+relay center   &&   转接中心
+relay characteristics   &&   继电(器)特性
+relay computer   &&   继电器计算机
+relay contact network   &&   继电器触点网络
+relay control   &&   继电器控制，继电控制
+relay control system   &&   继电控制系统
+relay core   &&   继电器铁心
+relay emergency valve   &&   应急继动阀(RE valve)
+relay governor   &&   继动调节器
+relay just-release value   &&   继电器始可释放值
+relay lamp   &&   附加转向指示灯
+relay lenses   &&   替续透镜
+relay must-operate value   &&   继电器保证启动值
+relay must-release value   &&   继电器保证释放值
+relay non-operate value   &&   继电器未动作值
+relay operating time   &&   继电器吸合时间
+relay pull curve   &&   继电器吸引力曲线
+relay register   &&   继电器式寄存器
+relay restoring spring   &&   继电器复位弹簧
+relay rod   &&   继动拉杆
+relay seating   &&   继电器衔铁就位，继电器衔铁入位
+relay setting   &&   继电器整定值
+relay starting switch   &&   继电器启动开关
+relay valve   &&   继动阀
+relay winding   &&   继电器线圈
+relay yoke   &&   继电器轭
+relay-type recording instrument   &&   继电器式记录仪表
+release   &&   ①版本②放气装置，释放
+release bearing   &&   分离轴承，离合器分离轴承
+release busy   &&   释放占用，解除忙碌状态
+release catch   &&   脱钩
+release cock   &&   放气活门
+release guard signal   &&   释放保护信号
+release lever   &&   离合器分离杆
+release lever plate   &&   分离杠杆套筒
+release mechanism for plankton net   &&   浮游生物网闭锁器
+release order   &&   释放指令
+release read   &&   释放读
+release shaft   &&   分离轴
+releasing hook   &&   脱扣钩，松绳钩
+releasing key   &&   脱模楔
+releasing pin exterior handle   &&   外拉手开启销
+releasing rod door lock   &&   门锁开启拉杆
+releasing shaft unit, clutch   &&   离合器分离轴组件
+relegate   &&   把降低到
+relevance matrix   &&   相关矩阵
+relevance ratio   &&   检出率
+relevance tree   &&   相关树
+relevance tree method   &&   相关树法
+relevant character   &&   关联字符，相关字符
+relevant failure   &&   关联失效
+relevant identifier   &&   相关标志符
+relevant specification   &&   有关规范
+relevant vocoder   &&   相关声码器
+reliability   &&   可靠性，可靠度
+reliability allocation   &&   可靠性分配
+reliability analysis   &&   可靠性分析
+reliability apportionment   &&   可靠性分配
+reliability assessment   &&   可靠性评估
+reliability assignment   &&   可靠性分配
+reliability assurance program   &&   可靠性保证规划
+reliability block diagram   &&   可靠性方框图
+reliability certification   &&   可靠性证明，可靠性认证
+reliability compliance test   &&   可靠性试验证试验
+reliability constraints   &&   可靠性约束
+reliability control   &&   可靠性控制
+reliability design   &&   可靠性设计[RD]
+reliability design methodology   &&   可靠性设计方法论
+reliability design review   &&   可靠性设计评审
+reliability determination test   &&   可靠性测定试验
+reliability engineering   &&   可靠性工程
+reliability evaluation   &&   可靠性评定
+reliability evaluation from demonstration data   &&   利用验证数据的可靠性评定
+reliability function   &&   可靠性函数
+reliability growth   &&   可靠性增长
+reliability improvement   &&   可靠性改进
+reliability index   &&   可靠性指标
+reliability level   &&   可靠度等级
+reliability logics   &&   可靠性逻辑
+reliability management   &&   可靠性管理
+reliability mathematics   &&   可靠性数学
+reliability methods   &&   可靠性方法
+reliability model   &&   可靠性模型
+reliability of equipment   &&   设备可靠性
+reliability of forecast   &&   预报可靠程度
+reliability of structure   &&   结构可靠度
+reliability optimization   &&   可靠性最优化
+reliability physics   &&   可靠性物理
+reliability policy   &&   可靠性方针政策
+reliability prediction   &&   可靠性预测，可靠性预计
+reliability principle   &&   可靠性原理
+reliability program   &&   可靠性计划
+reliability program for system   &&   系统可靠性规划
+reliability reassignment   &&   可靠性再分配
+reliability report   &&   可靠性报告
+reliability stress analysis   &&   可靠性应力分析
+reliability test   &&   可靠性试验
+reliability theory   &&   可靠性理论
+reliable database system   &&   可靠的数据库系统
+reliable process control software   &&   可靠的过程控制软件
+reliable virtual circuit service   &&   可靠的虚拟线路服务
+relief   &&   解除
+relief angle   &&   切口斜角
+relief cock   &&   减压龙头
+relief spring   &&   保险弹簧
+relief valve   &&   保险阀，安全阀
+relief valves   &&   安全阀
+relieve   &&   减轻，解除
+relieving   &&   放出，消除，使凸起，衬托
+reload   &&   重载，重新载入
+reloadable control storage   &&   可写控制存储器
+reloading   &&   重变荷载
+relocatability   &&   浮动性，可再定位性
+relocatable address   &&   浮动地址，可再定位地址
+relocatable machine code   &&   复位位机器代码
+relocatable module   &&   可重新安放的模块
+relocatable object code   &&   可再定位目标代码
+relocate   &&   浮动，再定位
+relocating loader   &&   浮动装入程序
+relocation   &&   ①改线，重新分配②浮动，再定位
+relocation address   &&   浮动地址
+relocation binary program   &&   再定位二进制程序
+relocation bit   &&   再定位，重新分配位
+relocation dictionary   &&   浮动字典，再定位字典
+reluctance   &&   磁阻
+reluctance motor   &&   磁阻电动机
+reluctance stepping motor   &&   磁阻式步进电动机
+reluctance torque   &&   磁阻转矩
+reluctance-synchronous machine   &&   磁阻式同步电机
+reluctive pressure transducer   &&   磁阻式压力传感器
+reluctive sensor   &&   磁阻式传感器
+reluctive transducer   &&   磁阻式传感器
+reluctivity   &&   磁阻率
+reluctor   &&   磁阻分配头
+remainder   &&   残余物，剩余，剩余部分，剩余物，其余部分
+remainder of exhaust gases   &&   排气余气
+remainder theorem   &&   剩余定理
+remaining slag   &&   残渣
+remaining strategy   &&   剩余策略
+remaining stress   &&   残余应力
+remains   &&   残余，剩余
+remanence   &&   剩磁，剩余磁化，剩余磁感应
+remanence relay   &&   剩磁继电器
+remanent attraction force   &&   残留吸力
+remanent flux density   &&   剩余磁(通)密(度)
+remanent induction   &&   剩余磁感应
+remanent magnetism   &&   剩磁，剩余磁化
+remanent magnetization   &&   剩余磁化强度，剩余磁性
+remanent polarization   &&   剩余极化强度
+remanent strain   &&   残余应变
+remanent vibration   &&   残余振动
+remark   &&   备注
+rematching relay   &&   连续匹配继电器
+remelt   &&   再熔，回炉
+remelt crucible   &&   再熔坩埚
+remelt junction   &&   再熔结
+remelted alloy   &&   再熔合金
+remelted iron   &&   再熔铁
+remelter   &&   再熔器
+remelting   &&   再熔
+remembering   &&   存储，记忆
+remesh   &&   再啮合，重啮合
+remixer   &&   复拌机
+remixing   &&   再拌合，再混合
+remodeling   &&   重新造型
+remold tire   &&   翻新轮胎
+remote   &&   远距离
+remote access   &&   远程存取，远程访问
+remote adjustment   &&   遥控，远程调整
+remote batch access   &&   远控信息存取，远程成批存取，分批信息存取
+remote batch entry   &&   远程成批输入
+remote batch processing   &&   远程成批处理
+remote bulb thermostat   &&   遥控恒温器
+remote command control   &&   指令遥控
+remote command execution   &&   远程命令执行
+remote communication   &&   远程通信
+remote computer   &&   远程计算机
+remote computing monitor   &&   远程计算监督系统
+remote computing-system language   &&   远程计算系统语言
+remote console   &&   远程操作台
+remote control   &&   遥控，远距离操纵，远距离控制
+remote control aircraft   &&   遥控飞机
+remote control apparatus   &&   遥控设备
+remote control coder   &&   遥控编码器
+remote control coding   &&   遥控编码
+remote control command   &&   遥控指令
+remote control crane   &&   遥控起重机
+remote control equipment   &&   遥控装置，遥控设备
+remote control hoist   &&   遥控起重机
+remote control plant   &&   遥控装置
+remote control power station   &&   遥控设备
+remote control system   &&   遥控系统
+remote control technology   &&   遥控技术
+remote controlled Niskin sampler   &&   尼斯金遥控采水器
+remote controlled diagnosis   &&   遥控诊断
+remote controlled radar   &&   遥控雷达
+remote data base   &&   远程数据库
+remote data capture   &&   远程数据采集，远程数据俘获
+remote data entry   &&   远程数据输入
+remote data processing   &&   远程数据处理
+remote debugging   &&   远程调试
+remote display   &&   远程显示
+remote entry network   &&   远程输入网络
+remote error sensing   &&   远距离误差传感
+remote execution   &&   远程执行
+remote format item   &&   间接格式项
+remote indicating instrument   &&   远距离指示仪器
+remote inquiry   &&   远程询问
+remote job entry   &&   远程作业输入
+remote job entry network   &&   远程作业输入网络
+remote job entry protocol   &&   远程作业录入协议
+remote manipulation   &&   远距离操纵
+remote manipulator   &&   遥控操作器
+remote measuring apparatus   &&   远距离测试仪器
+remote measuring meteorograph   &&   遥测气象记录仪
+remote measuring system   &&   远距离测量系统
+remote message processing   &&   远程信息处理
+remote mode   &&   远程传输方式
+remote modem   &&   远程调制解调器
+remote monitor   &&   远距离监测器，遥控监视器
+remote network   &&   远程网络
+remote office work   &&   远程办公室工作
+remote operating system   &&   远程操作系统
+remote packet concentrator   &&   远程包集中器
+remote polling   &&   远程轮询，远程询问
+remote power-off   &&   遥控断电
+remote printing   &&   远程打印
+remote procedure call   &&   远程过程调用
+remote program entry   &&   远程程序输入
+remote program translation   &&   远程程序翻译
+remote reading   &&   遥读，遥测读数
+remote reading instrument   &&   远距离读数仪表
+remote regulating   &&   遥调
+remote restart process   &&   远程再启动过程
+remote segment access   &&   远程段存取，远程段访问
+remote sensing   &&   遥感
+remote sensing information   &&   遥感信息
+remote sensing instrumentation for oceanography   &&   海洋学遥感仪器
+remote sensing mapping   &&   遥感制图
+remote sensing platform   &&   遥感平台
+remote sensing system   &&   遥感系统
+remote sensing technique of oceanography   &&   海洋学遥感技术
+remote sensing technology   &&   遥感技术
+remote set point adjuster   &&   远程设定点调整器
+remote signal   &&   远程信号
+remote software   &&   远程软件
+remote terminal   &&   远程终端设备
+remote thermometer   &&   遥测温度表
+remote transmission   &&   远程传输
+remote user   &&   远程用户
+remote work station   &&   远程工作站
+remote-control manipulator   &&   遥控人员
+remote-measuring thermohygrograph   &&   遥测温湿记录仪
+remote-operated   &&   遥控
+remote-operation   &&   远距离操作
+remote-sensing information processing   &&   遥感信息处理
+remotely piloted vehicle   &&   遥控飞行器(无人驾驶飞机)
+remould   &&   翻新轮胎
+remoulding effort   &&   和易性，易灌注性
+removability   &&   可更换性，可拆卸性
+removable   &&   可更换的，可拆卸的
+removable back plate   &&   可拆卸的后盖板
+removable flask   &&   活动砂箱
+removable tackle   &&   移动滑车
+removable traction device   &&   可拆卸牵引装置，活动牵引装置
+removal   &&   移去，清除，排除，取出
+removal coil type   &&   A.C. welder可动线圈交流焊机
+removal of the mould   &&   拆模
+removal van   &&   大型厢式货车
+remove   &&   ①删除，移除②切除，切削
+remove redundant operation   &&   消除冗余运算
+removed section   &&   移出剖面
+removing gear   &&   滑动齿轮，推移齿轮
+rename   &&   更名，改名，重命名
+rend   &&   割裂，劈开
+render   &&   渲染，彩现
+renderer   &&   渲染程序，彩现程序
+rendezvous   &&   会合，聚集，集结
+rendezvous and docking   &&   交会和对接(航天器)
+rendezvous problem   &&   会合问题，聚集问题，集结问题
+renewal   &&   换新，更换，大修
+renewal equation   &&   更新方程
+renewal process   &&   更新过程
+renewal theory   &&   更新理论
+rent a car and go as you please   &&   租辆车想去哪就去哪
+reorganization   &&   重新组织，结构变换
+reorientation   &&   重取向，重新取向
+repair   &&   修理，修复
+repair rate   &&   修复率
+repair time   &&   修复时间
+repairability   &&   可修性
+repairable system   &&   可维修系统
+repeat   &&   重复
+repeat counter   &&   重复次数计数器
+repeat-rolling   &&   反复轧制，围盘轧制
+repeatability   &&   重复性
+repeatability error   &&   重复性误差
+repeatability of wavelength   &&   波长重复性
+repeated assembly   &&   重复汇编
+repeated blow impact test   &&   冲击疲劳试验
+repeated cycle   &&   重复周期
+repeated flexural stress   &&   重复弯曲应力，重复挠曲应力
+repeated flow turbine   &&   回流式汽轮机
+repeated fluctuating load   &&   交变应力，交变载荷
+repeated hardening   &&   重新淬火
+repeated impact   &&   多次冲击，反复冲击
+repeated impact testing machine   &&   多次冲击试验机
+repeated index   &&   重复指标
+repeated loading   &&   重复载荷
+repeated shock   &&   多次冲击，反复冲击
+repeated start   &&   重复启动
+repeated strain   &&   疲劳应变
+repeated stress   &&   交变应力，重复应力
+repeated test   &&   重复试验
+repeated trial   &&   重复试验
+repeated-load test   &&   重复载荷试验
+repeater   &&   中继器，增音器，转发器
+repeater gain   &&   增音机增益
+repeating decimal   &&   循环小数
+repeating motor   &&   步进电机
+repeller   &&   ①弹回装置②导流板③反射极
+repercussion   &&   弹回
+repertoire   &&   指令表，一览表，清单
+repertoire of command response   &&   命令响应表
+repertoire of computer   &&   计算机指令系统
+repertory   &&   指令表，一览表，项目表
+repertory code   &&   指令码
+repetition   &&   反复，重复，副本，拷贝(电影胶片)
+repetition character   &&   重复字符
+repetition frequency   &&   重复频率
+repetition instruction   &&   重复指令
+repetition lath   &&   仿形车床
+repetition rate   &&   重复率
+repetition theodolite   &&   复测经纬仪
+repetitive   &&   重复
+repetitive addition   &&   重复加
+repetitive addressing   &&   重复寻址
+repetitive analogue computer   &&   重复模拟计算机
+repetitive computer   &&   重复计算机
+repetitive cycle   &&   重复循环
+repetitive decision process   &&   反复决策过程，重复决策过程
+repetitive error   &&   重复误差
+repetitive forms   &&   反复使用的模板
+repetitive instruction   &&   重复指令
+repetitive manufacturing   &&   重复生产
+repetitive process   &&   反复过程，重复过程
+repetitive routine   &&   重复程序
+repetitive sequence   &&   重复顺序
+rephosphorised steel   &&   回磷钢
+repiercing mill   &&   扩径机
+replace   &&   替换，置换，代换，代替
+replace policy   &&   替换策略
+replaceability   &&   可代替性，替换性
+replaceable bit   &&   可替换刀头
+replaceable blade   &&   可换刀片，可换刀刃
+replaceable slipper   &&   可换滑块
+replaceable type bearing   &&   可更换轴承，置换式轴承
+replacement   &&   代替，更新，取代，置换
+replacement analysis   &&   更新分析
+replacement character   &&   替换字符
+replacement demand   &&   替换性需求
+replacement problem   &&   更新问题
+replacement process   &&   替换过程
+replacement selection sorting   &&   置换选择排序
+replacement theory   &&   替换理论，更新理论
+replacement wheel   &&   置换轮
+replay   &&   重放 回放
+replenishment   &&   补充
+replenishment cost   &&   供给费用
+replica   &&   ①仿形②复制品，拷贝
+replica grating   &&   复制光栅
+replica plant   &&   复制厂
+replicate   &&   重复
+replicated data   &&   重复数据
+replication   &&   回答，反响，复制
+reply message   &&   回答报文
+repolish   &&   再抛光，再磨光
+report   &&   报表，报告(书)
+report analysis   &&   报告分析
+report clause   &&   报表子句
+report description   &&   报表描述
+report file   &&   报表文件
+report footing   &&   报表尾
+report form   &&   报表
+report format   &&   报表格式
+report generation   &&   报表生成
+report generator   &&   报表生成程序
+report group   &&   报表栏
+report heading   &&   报表头
+report name   &&   报表名
+report section   &&   报表节
+report writer   &&   报表打印
+reporting period   &&   报表周期
+reposition   &&   重新安排
+repository   &&   ①仓库②储藏所③容器
+repousse   &&   模锻件
+represent   &&   代表，象征
+representation   &&   表示，表观
+representation of data   &&   数据的表示方法
+representation of number   &&   数字表示
+representation of programming knowledge   &&   程序设计知识的表示法
+representation of raster image   &&   光栅图像的表示
+representation of the a.c. properties of resistor   &&   电阻器交流特性的表示
+representation unit   &&   表示单位
+representational tool   &&   表示工具
+representative element   &&   表现元素
+representative engine   &&   典型发动机
+representative intelligence   &&   表象性智能
+representative sampling   &&   典型抽样
+representativeness   &&   代表性
+repressurize   &&   增压
+reprocess   &&   再生
+reprocessing plant   &&   后处理工厂(核燃料的)
+reproduce   &&   再生
+reproducer   &&   再生程序，复制程序，复制机，复穿孔机
+reproducibility   &&   再现性，复现性
+reproducibility error   &&   再现性误差
+reproducibility of measurement   &&   测量再(复)现性
+reproducing lathe   &&   仿形车床
+reproduction   &&   ①再生，再现，还原②复制，仿制
+reproduction code   &&   再现代码
+reproductive system   &&   再生产式系统
+reprogrammable   &&   可改变程序的
+reprogrammable equipment   &&   可跛变程序的设备
+reprogramming   &&   改变程序，重编程序
+reprogramming software   &&   重编程序软件
+reproportion   &&   比率改变
+repulsion   &&   斥力，推斥
+repulsion induction motor   &&   推斥式感应电动机
+repulsion motor   &&   推斥式电动机
+repulsion start induction motor   &&   推斥启动式感应电动机
+repulsive force   &&   排斥力，斥力
+reputable   &&   有名的，受尊敬的
+request   &&   请求，要求
+request block   &&   请求分程序，请求块
+request entry key   &&   请求输入键
+request header   &&   请求报头，请求首部
+request parameter list   &&   请求参数表
+request priority   &&   请求优先数
+request signal   &&   询问信号
+request stop   &&   请求停机，随机停机
+request to send   &&   请求发送
+request word   &&   请求字
+request-send   &&   请求发送
+required gear   &&   所需排档
+required horsepower   &&   需用功率，需用马力
+required input   &&   所需输入量，所需输入信息
+required peripherals   &&   所需外部设备
+required power   &&   需用功率
+required time   &&   需求时间
+requirement   &&   必要条件，需求，需求量
+requirement analysis   &&   需求分析
+requirement constraint   &&   需求约束条件
+requirement description language   &&   要求描述语言
+requirement for compiler   &&   编译程序要求
+requirement language   &&   要求语言
+requirement matrix   &&   需求矩阵
+requirement trace   &&   要求追踪(程序)
+requirement vector   &&   需求向量
+requirements analysis   &&   需求分析
+requirements specification   &&   需求规格说明
+rerailer   &&   复轨器
+reread   &&   重读
+rerolling   &&   再轧，二次轧制
+rerolling mill   &&   再轧机
+rerolling rail   &&   再轧钢轨
+rerun   &&   重算，恢复，重新运行
+rerun dump   &&   重新运行转储
+rerun point   &&   重算点，重新运行点
+rerun routine   &&   恢复程序，重复运行程序
+rescan   &&   重复扫描
+rescap   &&   阻容组件
+rescatter   &&   重新扩散
+reschedule   &&   重安排，重调度
+rescue dump   &&   拯救转储
+rescue point   &&   拯救点，重入点
+research rocket   &&   试验用火箭，研究用火箭
+research-oriented computer   &&   面向研究的计算机
+reseau   &&   ①网，网络，网格②栅，光栅，栅网
+reserve battery   &&   储备电池
+reserve buoyancy   &&   储备浮力
+reserve capacity   &&   储备功率，备用电容
+reserve drive   &&   备用传动装置
+reserve factor   &&   储备因数
+reserve management   &&   储量管理
+reserve motion   &&   逆动
+reserve power supply   &&   备用电源
+reserve tractive force   &&   储备牵引力
+reserve volume   &&   储气室
+reserved bandwidth   &&   预约带宽，保留带宽
+reserved energy   &&   备用能
+reserved name   &&   保留名
+reserved pump   &&   备用泵
+reserved word   &&   保留字，预定字
+reserves   &&   储量
+reservoir   &&   储液器，容器，储存器
+reservoir bed   &&   储集层
+reservoir cap   &&   膨胀箱盖
+reservoir capacity   &&   水库容量，储集层容量
+reservoir characteristic   &&   储集层特性
+reservoir energy   &&   储集层能量
+reservoir fluid   &&   储层流体
+reservoir for coolant expansion   &&   冷却液膨胀箱
+reservoir gas-oil ratio   &&   储集层油气比
+reservoir leakage   &&   水库渗漏
+reservoir silting   &&   水库沉泥
+reservoir stratum   &&   储集层
+reservoir type power plant   &&   水库发电厂
+reset   &&   重置，重设，复原，复位，置“0”，清除
+reset button   &&   重置键
+reset circuit   &&   复接电路
+reset contactor   &&   复原接触器
+reset cycle   &&   复位周期，复位循环
+reset file   &&   重建文件，清除文件
+reset key   &&   清除键
+reset mode   &&   复位方式，重置方式
+reset pulse   &&   复位脉冲
+reset relay   &&   复位继电器，归位继电器
+reset signal   &&   清除信号，复位信号
+reset time   &&   再调时间
+resetting cam   &&   回动凸轮
+resetting shaft   &&   反馈轴，回授轴
+reshaper   &&   整形器
+reshear   &&   重剪机，精剪机
+reshoring   &&   重新支撑
+resid   &&   残油
+residence   &&   常驻，驻留，保留
+residence time distribution   &&   停留时间分布(流体力学概念)
+resident   &&   驻存的
+resident area   &&   常驻区
+resident assembler   &&   常驻汇编程序
+resident control system   &&   常驻控制系统
+resident development system program   &&   常驻开发系统程序
+resident executive program   &&   常驻执行程序，常驻管理程序
+resident macroassembler   &&   常驻宏汇编程序
+resident module   &&   常驻模块
+resident monitor   &&   常驻监督程序
+resident nucleus   &&   常驻核心程序
+resident shared-page index   &&   常驻分页索引
+resident supervisor   &&   常驻管理程序
+resident system program   &&   常驻系统程序
+resident text editor   &&   常驻正文编辑程序
+residental strain   &&   残余应变
+residental stress   &&   残余应力
+residual   &&   ①残余，剩余②残渣
+residual activity   &&   残余活度，残余活性
+residual affinity   &&   残余亲和力
+residual air   &&   剩余空气
+residual angle of internal friction   &&   残余内摩擦角
+residual austenite   &&   残余奥氏体
+residual buoyancy   &&   剩余浮力
+residual capacitance   &&   残余电容
+residual capacity   &&   残余电容
+residual carrier   &&   残余载波
+residual cementite   &&   残余渗碳体
+residual charge   &&   剩余电荷
+residual cohesion   &&   残余黏聚力
+residual current   &&   残余电流，剩余电流
+residual current transformer   &&   剩余电流互感器
+residual deflection   &&   残余偏转
+residual deformation   &&   残余形变，残余变形
+residual drag   &&   剩余阻力
+residual elasticity   &&   残余弹性
+residual electromotive force of potentiometer   &&   电位差计残余电动势
+residual element   &&   残余元素
+residual elongation   &&   残余伸长
+residual equation   &&   剩余方程
+residual error   &&   残余误差，剩余误差
+residual error rate   &&   残差率
+residual extension   &&   残余伸长
+residual flux   &&   剩磁通
+residual fraction   &&   残余馏分
+residual gap   &&   剩余气隙(继电器衔铁的)
+residual gas   &&   残余气体
+residual gravity anomaly   &&   剩余重力异常
+residual hardness   &&   剩余硬度
+residual impurity   &&   残余杂质
+residual inductance of resistance box   &&   电阻箱残余电感
+residual induction   &&   剩余电感，剩磁电感
+residual intelligibility   &&   剩余可理解度
+residual ionization   &&   剩余电离
+residual loss   &&   剩余损失
+residual magnetic field detector   &&   剩磁检查仪
+residual magnetism   &&   剩磁，剩余磁化
+residual method   &&   剩磁法
+residual oil   &&   残余油，残油
+residual pearlite   &&   残余珠光体
+residual polarization   &&   剩余极化
+residual power   &&   剩余功率
+residual pressure   &&   剩余压力
+residual product   &&   残余产物
+residual pulp   &&   残余矿浆
+residual radioactivity   &&   剩余放射性
+residual resistance   &&   ①剩余阻力②剩余电阻
+residual resistance of resistance box   &&   电阻箱残余电阻
+residual shrinkage   &&   残余收缩，剩余收缩
+residual standard deviation   &&   残余标准偏差
+residual strain   &&   残余应变
+residual strength   &&   残余强度
+residual stress   &&   残余应力
+residual stretch   &&   剩余伸展，剩余拉伸
+residual unbalance   &&   剩余不平衡量
+residual valence   &&   残余化合价
+residual variance   &&   剩余方差
+residual voltage   &&   残压，剩余电压
+residual voltage at zero   &&   零点残余电压
+residual voltage transformer   &&   剩余电压互感器
+residual voltage winding   &&   剩余电压绕组
+residue   &&   残余，残余物，残渣
+residuum   &&   残余物，残油，残渣
+residuum coking   &&   残油的焦化
+residuum cracking process   &&   残油式裂化操作过程
+residuum grease   &&   残油润滑脂
+residuum pressure process   &&   残油式加压裂化过程
+resilience   &&   冲击值，弹力，弹性，弹回
+resilient anchor   &&   弹簧防爬器
+resilient coupling   &&   弹性连接
+resilient drive   &&   弹性传动
+resilient gear   &&   弹性齿轮
+resilient gear wheel   &&   弹性齿轮
+resilient joint   &&   弹性接合
+resilient wheel   &&   弹性车轮
+resin   &&   树脂
+resin boarded insulated fishplate-joint   &&   合成树脂鱼尾板绝缘接头
+resin cored solder   &&   松香心焊条
+resin oil   &&   松香油
+resin shell mould casting   &&   树脂壳模铸造
+resin streak   &&   树脂条痕，树脂流纹
+resin wear   &&   树脂脱落
+resist   &&   抗蚀护膜，抵抗
+resistance   &&   ①电阻②阻力，阻抗力
+resistance alloy   &&   电阻合金
+resistance amplification   &&   电阻放大
+resistance attenuator   &&   电阻衰减器
+resistance balance   &&   电阻平衡
+resistance box   &&   电阻箱
+resistance box with plug   &&   插头式电阻箱
+resistance box with rotary switch   &&   旋转开关式电阻箱
+resistance box with terminals   &&   端接(钮)式电阻箱
+resistance bridge   &&   电阻电桥
+resistance butt welding   &&   对接接触焊，电阻对接焊
+resistance coil   &&   电阻线圈，线绕电阻
+resistance cutting   &&   电阻加热切割
+resistance electro-slag welding   &&   接触电渣焊，电阻电渣焊
+resistance electrode   &&   电阻焊条
+resistance feedback   &&   电阻反馈，电阻回输
+resistance flash welding   &&   电阻弧花压焊接，闪光对焊
+resistance force   &&   阻力
+resistance grid   &&   电阻栅
+resistance heated furnace   &&   电阻加热炉
+resistance hygrometer   &&   电阻湿度计
+resistance in series   &&   串联电阻
+resistance inclinometer   &&   电阻式井斜仪
+resistance loss   &&   电阻损耗
+resistance meter   &&   电阻表
+resistance method of temperature determination   &&   电阻测温法
+resistance network analogy   &&   电阻网络比拟，电阻网络模拟
+resistance of deformation   &&   变形抗力
+resistance of friction   &&   摩擦阻力
+resistance of ground connection   &&   接地电阻
+resistance of materials   &&   材料力学
+resistance of parallel   &&   并联电阻
+resistance pressure   &&   阻力
+resistance probe   &&   电阻(测温器)探头
+resistance psychrometer   &&   电阻(干湿球)湿度计
+resistance pyrometer   &&   电阻高温计
+resistance ratio   &&   电阻比
+resistance ratio of resistance thermometer sensor   &&   热电阻的电阻比
+resistance seam welding   &&   电阻缝焊
+resistance spiral   &&   螺旋形电阻丝
+resistance spot-welding   &&   电阻点焊
+resistance start motor   &&   电阻启动的电动机
+resistance starter   &&   电阻启动器
+resistance stitch-welding   &&   电阻垫缝焊接
+resistance strain gauge   &&   电阻应变计，电阻应变仪
+resistance strain gauge drawing force and compression force transducer   &&   电阻应变式拉压力传感器
+resistance strain gauge drawing force transducer   &&   电阻应变式拉力传感器
+resistance strain gauge force transducer   &&   电阻应变式力传感器
+resistance strain gauge load cell   &&   电阻应变式称重传感器
+resistance strain gauge rolling force measuring instrument   &&   电阻应变式轧制力测量仪
+resistance strain gauge technique   &&   电阻应变计测量技术(力学测量技术)
+resistance strain gauge tensiometer resolution   &&   电阻应变式张力计分辩力
+resistance stud welding   &&   电阻栓焊
+resistance temperature coefficient   &&   电阻温度系数
+resistance thermometer   &&   电阻温度计
+resistance thermometer clement   &&   热电阻组件
+resistance thermometer detector   &&   热电阻[RTD]
+resistance thermometer sensor   &&   热电阻
+resistance thermometry   &&   电阻测温法
+resistance to corona   &&   耐电晕性
+resistance to driving   &&   锤人阻力，抗锤入
+resistance to moisture   &&   耐潮
+resistance to shock   &&   耐冲击，耐震，冲击阻力
+resistance upset-butt welding   &&   电阻对接焊
+resistance voltage divider   &&   电阻分压器
+resistance voltage to power supply   &&   耐(电)压
+resistance welder   &&   电阻焊接机
+resistance welding   &&   电阻焊
+resistance winding   &&   欧姆线圈，线绕电阻
+resistance wire   &&   电阻丝，电阻线
+resistance wire gauge   &&   电阻线验潮仪
+resistance-capacitance coupling   &&   电阻-电容耦合
+resistance-capacitance divider   &&   电阻-电容分压器
+resistance-capacitance shaping circuit   &&   阻容形成电路
+resistance-coupled amplifier   &&   电阻耦合放大器
+resistance-drop compensation   &&   电阻压降补偿
+resistance-reactance ratio   &&   电阻-电抗比
+resistance-shunt method   &&   电阻分流法
+resistance-temperature coefficient   &&   电阻温度系数
+resistance-temperature coefficient of resistance thermometer sensor   &&   热电阻的电阻温度系数
+resistance-weld mill   &&   电阻焊管机
+resistance-weld pipe   &&   电阻焊管
+resistance-welding electrode   &&   电阻焊电极
+resistance-welding machine   &&   电阻焊接机
+resisting force   &&   阻力
+resisting moment   &&   抵抗力矩
+resisting torque   &&   抵抗力矩
+resistive component   &&   电阻(性)分量
+resistive ground   &&   电阻性接地
+resistive load   &&   电阻(性)负荷
+resistive moisture sensor   &&   电阻式湿敏组件
+resistive sensor   &&   电阻式传感器
+resistive thermal detector   &&   电阻式热探测器
+resistive transducer   &&   电阻式传感器
+resistivity   &&   电阻率
+resistivity instrument   &&   电阻率仪器
+resistivity of lattice imperfections   &&   晶格不完整性电阻率
+resistojet   &&   电阻加热电离式发动机
+resistor   &&   电阻(器)
+resistor caliper   &&   电阻式井径仪
+resistor divider   &&   电阻分压器
+resistor-capacitor diode transistor logic   &&   阻容二极管晶体管逻辑
+resizing   &&   改变大小 重新调整尺寸
+resmelt   &&   回炉
+resnatron   &&   谐振腔四极管
+resojet   &&   脉动式喷气发动机
+resolution   &&   ①分解，分辨力，分辨度，分辨率，分辨率②归结，融入
+resolution error   &&   分解误差，分辨率误差
+resolution factor   &&   分辨力因数
+resolution of a force   &&   一个力的分解
+resolution of strain instrument   &&   应变仪分辨率
+resolution power   &&   分辨力，分辨率
+resolution principle   &&   分解原理
+resolution proof graph   &&   分解证明图
+resolution proof tree   &&   分解证明树
+resolution refutation   &&   归结反演，分解反驳
+resolution theorem proving   &&   归结定理证明
+resolution-refutation graph   &&   分解反驳图
+resolvent   &&   消解式，归结式
+resolvent matrix   &&   预解矩阵
+resolvent operator   &&   预解算子
+resolving ability   &&   分辨能力，辨别能力
+resonance   &&   谐振，共振，共鸣
+resonance Raman effect   &&   共振拉曼效应
+resonance absorber   &&   共振吸声器
+resonance capacitor   &&   谐振电容器
+resonance characteristics   &&   谐振特性
+resonance dispersion   &&   共振色散
+resonance effect   &&   共振效应
+resonance electron   &&   共振电子
+resonance energy   &&   共振能
+resonance frequency   &&   诺振频率
+resonance frequency meter   &&   谐振式频率计
+resonance hump   &&   共振峰
+resonance hybrid   &&   共振杂化
+resonance indicator   &&   谐振指示器
+resonance matching   &&   谐振匹配
+resonance method   &&   共振法
+resonance method of measurement   &&   共振测量法
+resonance neutron   &&   共振中子
+resonance oscillation   &&   共振振荡，谐振振荡
+resonance overvoltage   &&   谐振过电压
+resonance parameter   &&   共振参数
+resonance peak   &&   共振峰，谐振峰
+resonance potential   &&   共振电势
+resonance probe   &&   共振探针
+resonance radiation   &&   共振辐射
+resonance scattering   &&   共振散射
+resonance sharpness   &&   谐振锐度
+resonance state   &&   共振态
+resonance technique   &&   共振法
+resonance theory   &&   共振学说
+resonance transfer   &&   共振转移
+resonance transformer   &&   谐振变压器
+resonance tube   &&   共鸣管
+resonance type absorption   &&   共振型吸收
+resonance type dispersion   &&   共振型分散
+resonance type voltage regulator   &&   谐振式电阻调整器
+resonance wavemeter   &&   谐振式波长计
+resonance-absorption peak   &&   共振吸收峰
+resonant   &&   谐振
+resonant cavity   &&   共振腔，谐振腔
+resonant circuit   &&   谐振电路
+resonant four-terminal network   &&   共振四端网络，谐振四端网络
+resonant frequency   &&   共振频率
+resonant iris   &&   谐振窗，谐振膜片
+resonant line   &&   谐振线
+resonant mode   &&   共振(波)模
+resonant relay   &&   谐振继电器
+resonant transfer   &&   共振跃迁
+resonant type instrument   &&   谐振式仪表
+resonant value   &&   共振值
+resonant vibration   &&   共振，谐振
+resonant vibrator   &&   共振振动器
+resonant vibrometer   &&   共振示振仪
+resonant wire drawing force meter   &&   振弦式拉力计
+resonant wire force transducer   &&   振弦式力传感器
+resonant wire tensiometer   &&   振弦式张力计
+resonant wire tension transducer   &&   振弦式张力传感器
+resonant wire torque measuring instrument   &&   振弦式转矩测量仪
+resonant wire torque transducer   &&   振弦式转矩传感器
+resonant-gate transistor   &&   谐振栅晶体管
+resonator   &&   共鸣器，共振器，谐振器
+resonator pressure transducer   &&   谐振式压力传感器
+resonator sensor   &&   谐振式传感器
+resonator transducer   &&   谐振式传感器
+resonators for lasers   &&   激光用共振腔
+resonatron   &&   谐振管
+resonoscope   &&   共振示波器
+resound   &&   反响，回声
+resource   &&   资源，物力
+resource access   &&   资源存取
+resource allocation   &&   资源分配
+resource allocation microcomputer   &&   资源分配微处理机
+resource allocation of multi-project scheduling   &&   安排多项工程时的资源分配[RAMPS]
+resource allocator   &&   资源分配程序
+resource allocator model   &&   资源分配模型
+resource busy indicator   &&   资源忙闲指示器
+resource coordination   &&   资源协调
+resource deallocation   &&   资源再分配
+resource management   &&   资源管理
+resource manager   &&   资源管理程序
+resource operator   &&   资源算子
+resource optimization   &&   资源优化
+resource optimum utilization   &&   资源最优利用
+resource queue   &&   资源队列
+resource sharing   &&   资源共享
+resource sharing multiprocessor   &&   资源共享多处理机
+resource sharing network   &&   资源共享网
+resources for computer system   &&   计算机系统资源
+resources of consumer   &&   消费者资源
+resources requirement planning   &&   资源需求计划
+resources vector   &&   资源向量
+respective   &&   分别的，各自的
+respiratory flow sensor   &&   呼吸流量传感器
+respiratory flow transducer   &&   呼吸流量传感器
+respiratory frequency sensor   &&   呼吸频率传感器
+respiratory frequency transducer   &&   呼吸频率传感器
+respond   &&   ①对称(柱，基础等的)②反应，响应，作出反应
+responder   &&   响应站
+response   &&   响应，响应值，反应，感应
+response characteristic   &&   响应特性
+response characteristic measurement   &&   响应特性测量
+response characteristic measuring instrument   &&   响应特性测量仪
+response curve   &&   响应曲线
+response data   &&   响应数据
+response equation   &&   反应方程
+response factor   &&   响应因子
+response function   &&   响应函数
+response header   &&   应答头，应答首部
+response language   &&   应答语言
+response message   &&   应答信息
+response speed   &&   响应速度
+response strength   &&   反应力
+response surface   &&   响应面
+response time   &&   响应时间，应答时间，回答时间
+response time simulation   &&   应答时间模拟
+response time utility function   &&   响应时间的效用函数
+response value   &&   响应值
+response variable   &&   响应变量
+responser   &&   响应器
+responsibility   &&   责任
+responsible department   &&   负责单位
+responsiveness   &&   响应性，响应度
+responsivity   &&   响应度
+rest   &&   底座
+rest decimal fraction   &&   余留十进制小数
+restart   &&   再启动，重新启动，重新开始
+restart and recovery technique   &&   重新启动和恢复技术
+restart instruction   &&   再启动指令
+restart interruption   &&   再启动中断
+restart key   &&   重新启动键
+restart sorting   &&   再排序，重新排序
+restitute   &&   重建
+restitution   &&   ①恢复，复原，还原②重建
+restore   &&   回复，恢复，恢复 取回
+restore voltage   &&   回复电压
+restoring couple   &&   回复力偶
+restoring force   &&   回复力，恢复力
+restoring moment   &&   回复力矩
+restoring torque   &&   回复力矩，反作用力矩
+restrain   &&   抑制
+restraint   &&   ①约束②限制
+restraint system   &&   ①约束系统②安全约束系统
+restrict   &&   限制，限定
+restricted Turning machine   &&   受限图灵机
+restricted breathing enclosure   &&   限制通气外壳
+restricted context-free grammar   &&   受限上下文无关文法
+restricted format   &&   限制格式
+restricted fuzzy automation   &&   受限模糊自动化
+restricted gate   &&   穿浇口
+restricted master programming   &&   约束主规划
+restricted parallel language   &&   受限并行语言
+restricted sum   &&   约束和
+restriction   &&   约束，限定，限制
+restrictor   &&   限流器
+restrike of arc   &&   电弧再触发
+restructurable multiprocessor architecture   &&   可重构多处理机体系结构
+result   &&   结果
+result address   &&   结果地址
+result call   &&   结果调用
+result identifier   &&   结果标志符
+result of a measurement   &&   测量结果
+result packet   &&   结果包
+resultant bending moment   &&   合成弯矩，滚柱式单向超越离合器
+resultant current   &&   合成电流
+resultant force   &&   合力，总反力
+resultant impedance   &&   总阻抗，合成阻抗
+resultant magnetic field   &&   合成磁场
+resultant magnetization   &&   复合磁化
+resultant moment of force   &&   合力矩
+resultant moment of inertia   &&   惯性主矩
+resultant program   &&   结果程序
+resultant rake   &&   合成前角(刀具的)
+resultant string   &&   结果串
+resultant vector of inertia   &&   惯性主失
+resultant vibration   &&   合成振动
+resume   &&   恢复执行 继续执行
+resurfacing   &&   表面重修
+retain   &&   保持，保留
+retained austenite   &&   残余奥氏体
+retainer   &&   ①护圈②拦阻物，托架
+retainer pin   &&   嵌件回程销
+retainer plate   &&   托料板，嵌件托板
+retaining collar   &&   挡块，挡圈
+retaining collar dust boot   &&   防尘护套挡圈
+retaining dam   &&   拦水坝，挡水坝，滚水坝
+retaining part   &&   挡板
+retaining plate   &&   盖板，顶出固定板
+retaining ring   &&   护圈
+retaining spring   &&   小弹簧
+retaining works   &&   蓄水工程
+retard   &&   迟延
+retard pressure gauge   &&   缓行压力表
+retard stop   &&   延迟挡块
+retardation   &&   ①减速度②阻滞，延迟
+retardation time   &&   迟延时间
+retarded cement   &&   缓凝水泥
+retarded ignition   &&   延迟点火
+retarded oil-well cement   &&   缓凝油井水泥
+retarder   &&   ①减速剂，迟延剂②缓行器
+retarding agent   &&   迟延剂
+retarding thermal decomposition   &&   迟延热分解
+retargetable code generator   &&   可复位目标的代码生成程序
+retargetable cross compiler   &&   可复位目标的交叉编译程序
+retargetable microcode assembler   &&   可复位目标的微代码汇编程序
+retargetable microprogram compiler system   &&   可复位目标的微程序编译程序系统
+retempering   &&   重新回火
+retention   &&   ①保留，保持②保持力
+retention basin   &&   调节池
+retention index   &&   保留指数
+retention period   &&   保存期
+retention time   &&   保留时间
+retention volume   &&   保留体积
+retentive alloy   &&   硬磁合金
+retentive material   &&   硬磁(性)材料
+retentivity   &&   剩磁，剩余磁化
+retest   &&   重新测试
+reticular   &&   网状的
+reticule   &&   标线，标线板，刻度板
+retiming   &&   再定时
+retort   &&   曲颈瓶，蒸馏罐
+retrace   &&   回扫，回描
+retrace interval   &&   回扫间隔，回描间隔
+retrace line   &&   回描线
+retrace ratio   &&   回扫率
+retrace time   &&   回描时间
+retract   &&   回复，回程
+retractable   &&   可收缩的
+retractable radiator   &&   收发式散热器
+retractable undercarriage   &&   收发式起落架
+retraction modulus   &&   回复模数
+retransmission   &&   重新发射，重新传输
+retransmission interval   &&   重发间隔
+retreaded tire   &&   翻新轮胎
+retrievable information   &&   可检信息
+retrieval   &&   检索
+retrieval data   &&   检索数据
+retrieval operation   &&   检索操作
+retrieval performance   &&   检索性能
+retrieval process   &&   检索过程
+retrieval usage mode   &&   检索实用状态
+retrieve   &&   ①检索②回收
+retro-reflection   &&   回复反射
+retro-reflector   &&   回射器
+retroaction   &&   反馈
+retroengine   &&   制动发动机
+retrogradation   &&   倒退
+retrograde rocket   &&   减速火箭，制动火箭
+retrogression   &&   倒退
+retrogressive lap winding   &&   倒退叠绕组
+retropack   &&   制动发动机组
+retrorocket   &&   制动火箭
+retrospective conversion   &&   追溯转换
+retrospective search   &&   追溯检索法，逆检索法
+retroversion   &&   倒退
+return   &&   返回，回送，回车，回复，回路
+return address   &&   返回地址
+return air   &&   回风
+return attribution   &&   返回属性
+return bend   &&   回转弯头，180°弯头
+return busy tone   &&   返回忙音
+return button   &&   回车键 Enter 键
+return code   &&   返回(代)码
+return control   &&   返回控制
+return control word   &&   返回控制字
+return difference   &&   回差
+return difference matrix   &&   回差矩阵
+return electron   &&   返回电子
+return feed   &&   回行进给
+return flow   &&   回流
+return flow compressor   &&   回流式压缩机
+return from interrupt   &&   中断返回址
+return information   &&   返回信息
+return instruction   &&   返回指令
+return line   &&   ①回流管②回描线，回扫线
+return mechanism   &&   回行机构
+return motion   &&   回行运动
+return passage   &&   回路
+return period   &&   重现期
+return pin   &&   回位销反顶针
+return pipe   &&   回流管，回行管道
+return scrap   &&   回路废钢
+return shock   &&   反冲
+return spring   &&   回动弹簧，复位弹簧
+return stroke   &&   反冲程，返回行程，回程
+return time   &&   回描时间，回程时间
+return to normal   &&   回复正常
+return trajectory   &&   返回轨道(航天器)
+return transfer function   &&   返回传送函数
+return trip   &&   回程
+return valve   &&   回流阀
+return valve stem   &&   复原阀杆
+return wave   &&   回波，反波
+return wire   &&   回线
+return-flow system   &&   回流系统
+return-flow wind tunnel   &&   回流式风洞
+return-jump instruction   &&   返回转移指令
+return-to-zero   &&   归零制[RZ]
+return-to-zero logic   &&   归零(制)逻辑(RZ logic)
+return-to-zero recording   &&   归零记录
+return-to-zero system   &&   归零系统
+returned acid   &&   回流酸
+returning iron   &&   回路铁
+returns   &&   回路料
+reusable code   &&   可重用的代码
+reusable launch vehicle   &&   重复使用运载火箭
+reusable medium   &&   可重用介质，可重用媒体
+reusable module   &&   可重用模块
+reusable resource   &&   可重用资源
+reusable routine   &&   可重用例行程序
+reusable software   &&   可重用软件
+rev counter   &&   转速表
+revacycle   &&   加工直伞齿轮的机床及刀具
+reveal   &&   显示，展现
+reverberant field   &&   混响声场
+reverberate   &&   反冲，反射
+reverberation   &&   回响，混响
+reverberation chamber   &&   混响室
+reverberation room   &&   混响室
+reverberation time   &&   混响时间
+reverberatory furnaces   &&   反射炉
+reverberometer   &&   混响仪
+reversal   &&   反向，倒转，逆，翻转
+reversal of magnetism   &&   磁性反转
+reversal of phase   &&   倒相
+reversal of stroke   &&   反冲程,返回行程
+reversal osmosis method for desalination   &&   反渗透淡化法
+reversal valve   &&   可逆阀，换向阀
+reverse   &&   倒转，反转，反向，回动
+reverse Ackerman   &&   反阿克曼梯形
+reverse action   &&   反作用
+reverse actuator   &&   反作用执行机构
+reverse bend tester   &&   弯折试验机
+reverse clutch   &&   反向离合器
+reverse code dictionary   &&   逆向码字典
+reverse digit sorting method   &&   逆向数位排序法
+reverse direction   &&   反向
+reverse flow   &&   横流扫气
+reverse gear   &&   倒档齿轮
+reverse order   &&   倒序，反顺序
+reverse read   &&   反读
+reverse rod   &&   倒档杆
+reverse rotation   &&   倒转
+reverse running   &&   倒车，回程
+reverse scan   &&   反向扫描
+reverse search   &&   逆谱库检索
+reverse shaft   &&   倒档轴
+reverse shift fork   &&   倒档拨叉
+reverse shift fork axle   &&   倒档拨叉轴
+reverse side   &&   倒换边
+reverse step signal   &&   反走步信号
+reverse video   &&   反相显示
+reverse-acting valve   &&   可逆阀
+reverse-direction flow   &&   反向流
+reverse-flow system   &&   回流系统
+reverse-gear   &&   倒档，倒车齿轮，回动齿轮，回动装置，回行机构
+reversed Elliot   &&   反埃利奥特前轴
+reversed access   &&   反向存取
+reversed flow   &&   回流
+reversed image   &&   倒像
+reversed line printing   &&   反行打印
+reversed offset wheel   &&   反偏置车轮
+reversed phase   &&   倒相
+reversed-phase column   &&   反相柱
+reversed-phase liquid chromatography   &&   反相液相色谱法
+reverser   &&   ①反向器②换向开关
+reversibility   &&   可逆性
+reversibility principle   &&   可逆性原理
+reversible   &&   可逆
+reversible absorption current   &&   可逆吸收电流
+reversible cell   &&   可逆电池
+reversible change   &&   可逆变化
+reversible counter   &&   可逆计数器
+reversible cycle   &&   可逆循环
+reversible denaturation   &&   可逆变性作用
+reversible drive   &&   可逆传动
+reversible electrode   &&   可逆电极
+reversible electrolysis   &&   可逆电解
+reversible engine   &&   可逆机
+reversible generator-motor   &&   可逆式发电电动机
+reversible kingpin   &&   可调换牵引
+reversible law   &&   可逆律
+reversible motor   &&   可逆电动机
+reversible operation   &&   可逆运行，可逆运转
+reversible process   &&   可逆过程
+reversible pumped storage station   &&   可逆式抽水蓄能电站
+reversible reaction   &&   可逆反应
+reversible saw   &&   两刃锯
+reversible stepping motor   &&   可逆式步进电动机
+reversible temperature indicating pigment   &&   可逆性示温颜料
+reversible work   &&   可逆功
+reversing bleeper   &&   倒车警报器
+reversing lamp   &&   倒车灯
+reversing mechanism   &&   回动机构
+reversing mill   &&   可逆式轧钢机，可逆式轧机
+reversing mill moor   &&   可逆轧机电动机
+reversing switch   &&   换向开关
+reversing thermometer   &&   颠倒温度表
+reversing valve   &&   回动阀，换向阀
+reversion   &&   重新求逆
+reversion storage   &&   反转存储
+revert   &&   复原，恢复原状
+revertive impulse   &&   回送脉冲，倒脉冲
+revex   &&   直齿锥齿轮粗拉法
+revibration   &&   重复振动
+revised lower-bound   &&   修改下界
+revised recognizer   &&   修正识别程序
+revising method of electromotive force   &&   电动势修正法
+revising method of thermal electromotive force   &&   热电动势修正法
+revision   &&   版次
+revisit rate   &&   回访速率
+revival   &&   恢复
+revolute joint   &&   转动关节
+revolute joint of robot   &&   机器人转动关节
+revolute pair   &&   转动副
+revolution   &&   旋转
+revolution counter   &&   转速表
+revolution per minute   &&   每分转速
+revolution speed   &&   转速
+revolution speed check table   &&   转速校验台
+revolution speed transducer   &&   转速传感器
+revolutions per minute   &&   每分钟转数(r.p.m)
+revolve   &&   回转，旋转
+revolver   &&   快速访问道，快速循环取数区
+revolving antenna   &&   旋转天线
+revolving centre   &&   活顶尖
+revolving circular cutter   &&   回转圆铣刀
+revolving gear   &&   回转机构
+revolving magnetic field   &&   旋转磁场
+revolving member   &&   回转构件
+revolving shaft   &&   转轴
+revolving shovel   &&   回转挖掘机
+revolving turret   &&   回转六角刀架
+revolving-armature type alternator   &&   旋转电枢型交流发电机
+revolving-drum concrete mixer   &&   转筒式混凝土搅拌机
+revsurf   &&   旋转曲面，回转曲面
+rewind   &&   ①倒带，倒片②反绕，重绕
+rewinder   &&   倒片机
+rewritable optical disc drives   &&   资讯用可覆写型光盘机
+rewrite   &&   重写，再写
+rhe   &&   流值(流度单位)
+rheology   &&   ①流变学②河流学③液流学
+rheometer   &&   电流计
+rheoscope   &&   验电器
+rheostatic starter   &&   电阻启动器
+rheotron   &&   电磁感应加速器，电子回旋加速器
+rheotrope   &&   电流转换开关
+rhodium-iron resistance thermometer   &&   铑铁电阻
+rhodochrosite   &&   锰晶石，菱锰矿
+rhomb   &&   菱形，斜方形
+rhombic drive   &&   菱形传动
+rhomboid   &&   长斜方形，扁菱形
+rhombus   &&   长斜方形，扁菱形
+rhumb line   &&   罗盘方位线
+rhyolite   &&   流纹岩
+rhyolith   &&   流纹岩
+rhysimeter   &&   流体流速测定计
+rib   &&   肋，花纹条
+ribbed surface electric machine   &&   翅面电机
+ribbet   &&   槽口，企口缝
+ribbon   &&   带，带子，色带，袋状物
+ribbon antenna   &&   带形天线
+ribbon cable   &&   带状电缆
+ribbon conductor   &&   带形导体
+ribbon fuse   &&   带状熔线，熔丝片
+ribbon microphone   &&   带式传声器，带式微音器
+ribbon punch   &&   压筋冲子
+ribbon saw   &&   带锯
+ribbon shape   &&   带形
+ribbon tape   &&   皮带尺
+ribbon type   &&   带式
+rice transplanter   &&   水稻插秧机
+rich mixture   &&   浓混合气
+richochet   &&   反跳，回弹
+ride   &&   平顺性
+ride clearance   &&   悬架装载间隙
+ride height   &&   悬架装载高度
+ridge   &&   棱 脊线
+ridging   &&   啃边
+riding   &&   凹陷
+riding stripper   &&   浮动脱模器
+riffler   &&   凹锉
+rift-over height   &&   举过高度
+rift-saw   &&   裂木锯
+rigging screw   &&   装配螺钉
+right and left nut   &&   左右纹螺母
+right angle   &&   直角
+right angle intersection   &&   正交，直角相交
+right coset relation   &&   右旁系关系，右陪集关系
+right endpoint   &&   右端点
+right helicoid   &&   右螺旋面
+right inverse   &&   右逆元
+right limit   &&   右极限
+right radical   &&   右根
+right recursion   &&   右递归
+right side view   &&   右视图
+right steering tie rod   &&   右横拉杆
+right triangle   &&   直角三角形
+right-angle   &&   直角，直角棱镜
+right-angled   &&   成直角的
+right-annihilating   &&   右零化
+right-hand rule   &&   右手定则
+right-hand screw   &&   右旋螺旋
+right-hand thread   &&   右旋螺纹
+right-hand threads   &&   右旋螺纹
+right-hand winding   &&   右向绕组
+right-handed coordinate system   &&   右手坐标系定则
+right-handed quartz   &&   右旋石英
+right-handed screw rule   &&   右手螺旋定则
+rigid   &&   硬性
+rigid axle   &&   刚性轴
+rigid bearing   &&   刚性轴承，刚性冲击
+rigid circular spline   &&   刚轮
+rigid contact   &&   硬触点
+rigid coupling   &&   刚性联轴器，刚性冲击
+rigid disk drive   &&   硬磁盘机
+rigid impulse   &&   刚性冲击
+rigid joint   &&   刚性结点
+rigid meter   &&   刚度计
+rigid plastics   &&   硬质塑料
+rigid polyvinyl chloride   &&   硬聚氯化烯
+rigid rotor   &&   刚性转子，刚性冲击
+rigid shock   &&   刚性冲击
+rigid truck   &&   单车非铰接的单车货车
+rigid vehicle   &&   单车，单车汽车
+rigidity   &&   刚性，刚度
+rigidization   &&   硬化
+rigorous analysis   &&   精密分析
+rigorous solution   &&   精确解
+rim   &&   ①轮辋②圆盘外缘③缘，边，环
+rim bearing   &&   ①轮，缘座②环梁支承
+rim flange   &&   轮缘
+rim gate   &&   边形浇口
+rim pull   &&   驱动力
+rim wheel   &&   叶轮
+rim width   &&   轮辋宽
+ring balance   &&   环秤
+ring balance manometer   &&   环秤压力计
+ring circuit passage   &&   环形回路
+ring collector   &&   集电环
+ring expander   &&   衬环
+ring gall   &&   环裂
+ring gap   &&   活塞环切口
+ring gate   &&   环形浇口
+ring gauge   &&   环规
+ring gear   &&   大轮，环形齿轮，内齿圈
+ring groove   &&   活塞环槽
+ring joint   &&   环接
+ring kiln   &&   转窑
+ring latch   &&   环锁
+ring network   &&   环形网络
+ring roll mill   &&   环辊研磨机
+ring viscometer   &&   环式粘度计
+ring-down pulse   &&   振铃脉冲
+ringing frequency   &&   自振周期
+ringing period   &&   自振周期
+ringing pile engine   &&   人工打桩机
+rinse   &&   水洗
+rip   &&   割裂
+rip saw   &&   粗木锯，粗齿锯
+ripping   &&   ①直锯②拆除③劈开④极好的
+ripple   &&   纹波
+ripple coefficient of voltage   &&   电压纹波系数
+ripple noise   &&   电源交流噪声
+ripple voltage   &&   纹波电压
+rise   &&   升程，推程
+rise time   &&   上升时间
+rise-span ratio   &&   高-跨比
+rise-time discrimination   &&   上升时间鉴别
+riser vent   &&   出气冒口
+rising rate suspension   &&   刚度渐进式悬架
+risk analysis   &&   风险决策
+risk evaluation   &&   风险评价
+rivet   &&   铆钉
+riveted bend   &&   铆钉接合
+riveted lap joint   &&   铆合互搭接头
+riveter   &&   ①铆钉工②铆钉枪
+riveting   &&   铆接，铆合
+riveting die   &&   铆合模
+road builder   &&   筑路机
+road feel   &&   路感
+road finisher   &&   路面整修机，平路机
+road grader   &&   平路机
+road lighting   &&   道路照明
+road mixer   &&   筑路拌料机
+road octane number   &&   行车辛烷值
+road plane   &&   道路平面
+road planer   &&   平路机
+road ranker   &&   罐式汽车
+road roller   &&   压路机，路碾
+road train   &&   重型汽车列车
+roadable airplane   &&   空陆两用飞机，飞行汽车
+roadholding   &&   抓地能力
+roadster   &&   活顶轿车
+roadway flusher   &&   冲洗车
+roaming   &&   移动，移像
+roaming addressing   &&   移像寻址
+roaming electron   &&   漫游电子
+robot   &&   机械手、机器人
+robot aircraft   &&   无人驾驶飞机，遥控飞机
+robot arm   &&   机器人臂
+robot arm controller   &&   机器人手臂控制器
+robot assembling system   &&   机器人装置系统
+robot bomb   &&   自动操纵飞弹
+robot bomber   &&   无人驾驶轰炸机，遥控轰炸机
+robot brain   &&   机器脑，自动计算装置
+robot control system   &&   机器人控制系统，自动控制系统
+robot decision making system   &&   机器人决策系统
+robot devices   &&   机器人
+robot engineering   &&   机器人工程学
+robot geometry   &&   机器人几何学，机器人几何结构
+robot killer   &&   雷达自动瞄准器
+robot machining system   &&   机器人机加工系统
+robot manipulator control   &&   机器人操作器控制
+robot model of human behavior   &&   人动作的机器人模型
+robot observation   &&   机器人观测
+robot operating system   &&   机器人操作系统[ROS]
+robot pilot   &&   自动驾驶仪
+robot planning   &&   机器人规划
+robot planning system   &&   机器人规划系统
+robot problem solving   &&   机器人问题解决
+robot program   &&   机器人规划
+robot programming language   &&   机器人编程语言
+robot sensory system   &&   机器人感觉系统
+robot system   &&   机器人系统
+robot visual system   &&   机器人视觉系统
+robot-machine system   &&   机器人机器系统
+robot-machine-plant interaction   &&   机器人机器-工厂相互作用
+robotics   &&   机器人学
+robotization   &&   自动化
+robotology   &&   机器人技术，机器人工程学
+robust control   &&   粗控制，鲁棒控制
+robust controller   &&   鲁棒控制器
+robust design   &&   稳健设计，往复式密封
+robustness   &&   鲁棒性
+rock borer   &&   凿岩机
+rock crusher   &&   碎矿机，碎石机
+rock densitometer   &&   岩石密度计
+rock drill   &&   凿岩机，钻岩设备，冲击钻机
+rock oil   &&   石油
+rock pression sclerometer   &&   岩石压入硬度计
+rock wheel   &&   齿轮
+rock-rolled sheet   &&   叠轧薄板
+rock-wool   &&   矿棉(绝缘材料)
+rocker   &&   摇臂，摇床
+rocker arm   &&   摇臂，摇杆
+rocker arm cover   &&   摇臂室罩
+rocker arm resistance welding machine   &&   摇臂式接触焊机
+rocker arm shaft   &&   摇臂轴
+rocker bar   &&   摇杆
+rocker beam   &&   摇杆
+rocker box   &&   摇臂室罩
+rocker conveyor   &&   摆动式输送机，悬链式输送机
+rocker drilling machine   &&   摇臂钻床
+rocker shaft   &&   ①摇臂轴②转向器摇臂轴
+rocker-type cooling bed   &&   摆动齿条式冷床
+rocket   &&   火箭
+rocket airplane   &&   火箭式飞机
+rocket ammunition   &&   火箭武器
+rocket artillery   &&   火箭炮
+rocket assist takeoff   &&   火箭助推器起飞
+rocket bomb   &&   火箭(助推)炸弹
+rocket engine   &&   火箭发动机
+rocket framing   &&   包成帧
+rocket head   &&   火箭头部，火箭弹头部
+rocket jet   &&   火箭喷口，火箭(喷)射流
+rocket jettison switch   &&   火箭紧急投弃开关
+rocket launcher   &&   火箭发射装置，火箭筒
+rocket manufacturing   &&   火箭制造
+rocket motor   &&   火箭发动机
+rocket or missile flight test   &&   火箭或导弹飞行试验
+rocket propellant   &&   火箭助推剂
+rocket propulsion   &&   火箭推进
+rocket signal   &&   火箭信号
+rocket sled   &&   火箭橇(火箭空气动力特性试验用)
+rocket sounding   &&   火箭探测
+rocket static test-firing   &&   火箭地面试车
+rocket target   &&   火箭目标
+rocket thrust   &&   火箭推力
+rocket tube   &&   火箭发动机喷管，火箭筒
+rocket-firing button   &&   火箭发射按钮
+rocketsonde   &&   火箭探空仪
+rocking arm   &&   摇臂
+rocking block   &&   滑块锁紧块
+rocking die forging   &&   摇动锻造
+rocking table   &&   摇床
+rod   &&   ①杆，棒②连杆③调整过的汽车
+rod anode X-ray tube   &&   棒阳极X射线管
+rod bearing   &&   联杆轴承
+rod bolt   &&   闩销
+rod of pendulum   &&   摆杆
+rod pin   &&   定位销
+roentgen   &&   伦琴
+roll   &&   侧倾
+roll axis   &&   侧倾轴线
+roll bar   &&   ①翻车保护杆②稳定杆
+roll cage   &&   翻车保护架
+roll camber   &&   侧倾外倾
+roll center   &&   侧倾中心
+roll centering   &&   滚动定心
+roll chart   &&   卷筒式记录纸
+roll gears   &&   摆角挂轮
+roll mill   &&   辊轧机
+roll moulding   &&   卷线脚，漩涡形线脚
+roll of wire   &&   铁线盘，盘条
+roll out   &&   扩展
+roll over steer   &&   侧倾过多转向
+roll paper   &&   卷筒式记录纸
+roll quenching   &&   滚动式淬火压床
+roll rate   &&   ①悬架侧倾刚度 ②汽车侧倾角速度或侧倾频率
+roll rim   &&   卷边
+roll steer   &&   侧倾转向
+roll stiffness   &&   侧倾刚度
+roll understeer   &&   侧倾不足转向
+roll velocity   &&   侧倾速度
+roll-gap   &&   辊缝
+roll-over   &&   翻车
+roll-over bar   &&   翻车保护杆
+rollback   &&   回卷 溯回
+rolled steel   &&   轧制钢，钢材
+rolled wire   &&   轧制钢丝
+roller   &&   滚子，滚筒
+roller bearing   &&   滚子轴承，圆柱滚子轴承
+roller chain   &&   滚子链
+roller clutch   &&   滚柱式单向超越离合器，自由轮离合器
+roller follower   &&   滚子从动件，滚动轴承
+roller lifter   &&   滚子挺柱
+roller mat conveyor   &&   滚子垫轨
+roller mill   &&   环式研磨机，辊式研磨机
+roller pin formality   &&   滚针形式
+roller shoe   &&   滚轴支座
+roller support   &&   滚轴支灶座，滚轴支座
+rollers   &&   滚筒
+rolling   &&   ①轧(件)②转圧，圧延，滚轧
+rolling bearing   &&   滚动轴承
+rolling bearing identification code   &&   滚动轴承代号
+rolling chains   &&   滚链
+rolling diaphragm actuator   &&   滚动膜片执行机构
+rolling door   &&   滑动门，卷门
+rolling element   &&   滚动体，惯性主矩
+rolling element bearing   &&   滚动组件轴承
+rolling load   &&   滚动载荷，轮压
+rolling machines   &&   辗压机
+rolling mill   &&   轧钢机，碾磨机
+rolling radius   &&   滚动半径
+rolling resistance   &&   滚动阻力
+rolling road   &&   滚筒道路模拟机
+rolling sphere viscometer   &&   滚球式粘度计
+rolling test   &&   滚动试验
+rolling velocity   &&   滚动速度
+roof bow   &&   顶盖横梁
+roof crane   &&   屋顶起重机
+roof lining   &&   车顶衬里
+roof panel   &&   顶盖
+roof prisms   &&   脊角棱镜
+roof rack   &&   车顶支架
+roof stick   &&   顶盖横梁
+room temperature cold setting   &&   冷固化
+root   &&   ①根②基础
+root angle   &&   根锥角
+root angle tilt   &&   齿根角倾斜
+root apex   &&   根锥顶
+root apex beyond crossing point   &&   根锥顶至相错点的距离
+root apex to back   &&   根锥顶至安装基准面距离
+root circle   &&   齿根圆
+root cone   &&   根锥
+root diameter   &&   根圆直径
+root line   &&   齿根线
+root mean square   &&   均方根[RMS]
+root mean square detector   &&   均方根检波器
+root point   &&   原点 根点
+root radius   &&   根圆半径
+root running   &&   背面熔接
+root surface   &&   齿根曲面
+root-mean-square current   &&   电流均方根值
+roots flowmeter   &&   腰轮流量计
+rope haulage   &&   钢丝绳运输
+rose   &&   记录盘(罗盘的)
+rose joint   &&   球座接头
+rosette sampling system   &&   多袋采水器
+rotary displacement meter   &&   “旋转”排量式仪表
+rotary eccentric plug valve   &&   偏心旋转阀
+rotary engine   &&   ①转子发动机②转缸式发动机
+rotary forging   &&   回转锻造
+rotary molding   &&   轮转式模塑
+rotary motion   &&   旋转力矩
+rotary motion valve   &&   角行程阀
+rotary pump   &&   机械泵
+rotary rolling mill   &&   辊式钢管轧机，蘑菇形轧辊穿孔机，蘑菇形轧辊管材扩径机
+rotary tables   &&   转台
+rotary valve   &&   旋转阀
+rotate   &&   (使)旋转
+rotate 3D   &&   三维旋转，旋转 3D
+rotating arm basin   &&   旋臂水池(水动力学实验的一种设备)
+rotating beacon   &&   旋转信号灯
+rotating beam apparatus   &&   旋臂装置
+rotating cylinder viscometer   &&   旋转圆筒式粘度计
+rotating magnetometer   &&   旋转磁力仪
+rotating piston flowmeter   &&   旋转活塞流量计
+rotating seal   &&   旋转式密封
+rotating shaft seal   &&   转轴密封
+rotating target X-ray tube   &&   旋转阳极X射线管
+rotating vibration generator   &&   回转振动器
+rotating warning lamp   &&   旋转信号灯
+rotating-beam ceilometer   &&   旋转波束云高计
+rotating-beam cloud height meter   &&   旋转波整束云高计
+rotation   &&   旋转 旋转
+rotation magnetic field   &&   旋转磁场
+rotation magnetization   &&   旋转磁化
+rotation of a rigid body about a fixed axis   &&   刚体定轴转动(理论力学重要概念)
+rotation or vibrating coil magnetometer   &&   旋转或振动线圈磁强计
+rotational distortion   &&   旋转畸变
+rotational molding   &&   离心成形
+rotational speed meters   &&   转速仪
+rotational viscometer   &&   旋转粘度计
+rotative speed   &&   转速
+rotative speed difference   &&   转速差
+rotor   &&   ①转子，转动关节②转子发动机转子③空气压缩机和燃气轮机包括叶片在内的转动部件④分火头
+rotor arm   &&   分火头
+rotor axis   &&   转子轴线
+rotor dynamics   &&   转子动力学(机械动力学的一个分支)
+rotor flow sensor   &&   转子流量传感器
+rotor flow transducer   &&   转子流量传感器
+rotor gear   &&   转子齿轮
+rotor stability   &&   转子稳定性(机械动力学的一个重要问题)
+rotor with several masses   &&   多质量转子，对心滚子从动件
+rough   &&   粗略的
+rough adjustment   &&   粗调整
+rough bloom   &&   粗轧钢坯
+rough break   &&   粗糙断口
+rough cut capacity planning   &&   粗能力计划
+rough draft   &&   草图
+rough grinding   &&   粗磨
+rough layer   &&   粗糙层
+rough meter   &&   粗糙度仪
+rough ore   &&   原矿
+rough plane   &&   粗刨(木工用)
+rough planning   &&   粗刨
+rough rolling   &&   粗轧
+rough surface scale   &&   粗糙表面氧化皮
+rough threading   &&   粗车螺纹
+rough turning   &&   粗车
+rough weight   &&   毛重
+rough-cut file   &&   粗纹锉
+roughac   &&   弧齿锥齿轮粗切刀
+roughcast   &&   ①粗制②打底子③订初步方案④拉毛墙面
+roughed-out   &&   粗加工
+rougher   &&   粗切机
+roughing   &&   粗加工
+roughing cut   &&   粗纹(锉刀的)
+roughing down   &&   粗轧
+roughing mill   &&   粗轧机，开坯机
+roughing roll   &&   粗轧辊
+roughing scale breaker   &&   粗轧除鳞机
+roughing tool   &&   粗加工刀具
+roughness   &&   粗糙度
+roughness factor   &&   粗糙因素
+roughness layer   &&   粗糙层
+round   &&   ①圆的②次数③外圆角
+round belt   &&   圆带
+round belt drive   &&   圆带传动
+round file   &&   圆锉
+round nuts   &&   圆螺帽
+round pierce punch   &&   圆冲子
+round pin   &&   圆柱销
+round punch   &&   圆冲子
+round trip propagation time   &&   往返传播时间
+round-robin   &&   循环法
+rounding   &&   圆形加工
+roundness   &&   圆度
+route control   &&   路程控制
+route sheet   &&   路线表，路线图
+router   &&   路由器，槽刨
+routine   &&   例行程序 例程
+routine library   &&   程序库
+routine test   &&   出厂检验，例行试验
+routing bit   &&   刳钻(木工用)
+routing file   &&   工艺路线文件
+roving frame   &&   粗纺机
+row coordinate   &&   行座标
+row rank   &&   行秩
+row vector   &&   行向量
+rows dialog box   &&   “行”对话框 列对话方块
+rpref   &&   渲染选项
+rscript   &&   重复执行，重新执行脚本
+rubber   &&   橡胶
+rubber bearing   &&   橡胶支承圈
+rubber boot   &&   橡胶护套
+rubber cup   &&   槽皮圈
+rubber molding   &&   橡胶成形
+rubber reservoir   &&   橡胶贮液囊
+rubber sleeve   &&   橡胶衬套，密封套
+rubber tube   &&   橡胶软管
+rubber-band line   &&   拖引线 伸缩线
+rubber-cushioned sleeve bearing coupling   &&   弹性套柱销联轴器
+rubber-metal bearing seat   &&   橡胶-金属支承座
+rubbing strip   &&   腰带
+ruby lasers   &&   红宝石激光
+rule   &&   尺、刻度尺
+rule surf   &&   直纹曲面，规则曲面
+rule-based system   &&   基于规则的系统
+rumble   &&   ①爆燃响声②轮胎低频噪声
+rumble seat   &&   折叠座椅
+run of wind   &&   风程
+run script   &&   运行脚本 执行脚本
+run-fiat tire   &&   泄气保用轮胎
+run-in   &&   走合
+run-of-wind anemometer   &&   风程表
+run-on   &&   继续旋转
+run-on tire   &&   持续旋转轮胎
+runaway  knock   &&   失控爆震
+runaway surface ignition   &&   失控表面点火
+runner   &&   流道
+runner and gate systems   &&   流道和浇口系统
+runner ejector set   &&   流道顶出器
+runner less   &&   无浇道
+runner lock pin   &&   流道拉梢
+runner plat   &&   浇道模块
+runner stripper plate   &&   流道顶出板
+runner system   &&   浇道系统
+runnerless injection mold   &&   无流道冷料模具
+runnerless molding die   &&   无流道模具
+running board   &&   踏脚板
+running fit   &&   间隙配合、转动配合
+running gear   &&   ①底盘的统称②车辆底架
+running means   &&   滑动平均
+running object snap   &&   执行对象捕捉，常驻式对象锁点
+running override   &&   整体替代 整体取代
+running torque   &&   旋转力矩
+running-in   &&   走合
+runout   &&   径向跳动
+runout tolerance   &&   径向跳动公差
+rupture pressure   &&   破坏压力
+rust   &&   锈
+rust inhibitor   &&   防锈涂层
+rust prevention   &&   防蚀
+rust preventive   &&   防锈剂
+rust preventive packaging   &&   防锈包装
+rustproof packaging   &&   防锈包装

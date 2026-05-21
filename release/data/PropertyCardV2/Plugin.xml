@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Plugin>
-  <name>属性卡</name>
-  <explain>自定义属性编辑</explain>
-  <classid>2090_2219_2222</classid>
-  <startexe>PropertyCardV2.exe</startexe>
-  <version>2.0</version>
-</Plugin>

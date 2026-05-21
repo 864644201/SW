@@ -1,0 +1,429 @@
+V and H check   &&   锥齿轮啮合的VH检查
+V belt   &&   V 带
+V belt tight-up   &&   V 带联组
+V thread screw   &&   三角形螺纹
+V-belt   &&   V带
+V-belt pulley   &&   V带轮
+V-belt pulley crankshaft   &&   曲轴V带轮
+V-block   &&   V形定位板
+V-engine   &&   V型发动机
+V-notch   &&   V形缸口
+V-pulley   &&   V带轮
+V-tool   &&   V型刀具
+VC   &&   (Virtual Channel) 虚拟通道
+VCA   &&   (Vehicle Certification Agency UK) (英)车辆鉴定机构
+VCM   &&   (Vehicle Condition Monitoring) 汽车状况监控
+VCR   &&   (Variable Compression Ratio) 可变压缩比
+VDI   &&   (Verein Deutsche Industrie Germany)  德国工业协会
+VEC   &&   (Vehicle Emission Configuration) 汽车排放物结构
+VF   &&   (Video Frequency) 视频
+VF presentation   &&   视频显示，检波显示
+VFD   &&   (Vacuum Fluorescent Display) 真空荧光屏显示
+VHVI   &&   (Very High Viscosity Index oils) (油料的)甚高粘度指数
+VI   &&   (Viscosity Index) 粘度指数
+VI improver   &&   粘度改进剂
+VIM   &&   可变几何形状进气管
+VIN   &&   (Vehicle Identification Number) 汽车出厂号码
+VIP car park   &&   贵宾停车场
+VLI   &&   (Vapor Lock Index) 气阻指数
+VOC   &&   (Volatile Organic Compounds)  挥发性有机化合物
+VP   &&   虚拟路径
+VSE   &&   (Vehicle Standards and Engineering Division) (运输部)汽车标准与工程局
+VTAC   &&   (Vehicle Type Approval Center) 车型认证中心
+VTR   &&   (Videotape Recorder) 磁带录像机
+VTR Cameras   &&   VTR摄影机
+VVA   &&   (Variable Valve Actuation)可变气门驱动
+VVT   &&   (Variable Valve Time)可变气门正时
+VWTA   &&   (Whole Vehicle Type Approval) 车型全面认证
+Vacuum Light Sources   &&   真空紫外线光源
+Vallot helio-thermometer   &&   瓦劳特日光温度表
+Venturi   &&   文丘管，文丘里管
+Venturi nozzle   &&   文丘里喷嘴
+Venturi tube   &&   文丘里管
+Vickers hardness   &&   维氏硬度，维氏硬度
+Vickers hardness number   &&   维氏硬度值
+Vickers hardness penetrator   &&   维氏硬度压头
+Vickers hardness tester   &&   维氏硬度计
+Volve Long Drain Lubricant Specification   &&   沃尔沃长换油期润滑油规格 [VDS，VDS2]
+v-belt   &&   V形带
+vacancy   &&   空位
+vacancy chromatography   &&   空穴色谱法
+vacuum   &&   真空，负压
+vacuum accumulator   &&   真空贮气筒
+vacuum advance   &&   真空点火提前
+vacuum advance device   &&   真空提前装置
+vacuum booster   &&   真空助力器
+vacuum booster with master cylinder   &&   带制动主缸真空助力器
+vacuum brake   &&   真空式制动器
+vacuum carbonitriding   &&   真空渗碳氮化
+vacuum carburetor   &&   真空式化油器
+vacuum carburizing   &&   真空渗碳处理
+vacuum casting steel   &&   真空浇注钢
+vacuum controller air conditioner   &&   空调真空控制器
+vacuum controller choke   &&   阻风门真空控制器
+vacuum controller secondary barrel   &&   副腔真空控制器
+vacuum controller valve position   &&   阀门位置真空控制器
+vacuum correction   &&   真空修正
+vacuum deposition   &&   真空蒸镀
+vacuum drying chamber   &&   真空干燥箱
+vacuum evaporation chemicals   &&   真空蒸镀化学药品
+vacuum evaporator   &&   真空镀膜台
+vacuum fluorescent display   &&   真空萤光显示器，真空荧光显示[VFD]
+vacuum forming   &&   真空成形
+vacuum fusion gas chromatography   &&   真空熔融气相色谱法
+vacuum gauge   &&   真空表，真空规管
+vacuum hardening   &&   真空淬火
+vacuum heat treatment   &&   真空热处理
+vacuum hose   &&   真空软管
+vacuum melting steel   &&   真空熔解钢
+vacuum metallization   &&   真空金属喷镀
+vacuum metallizing   &&   真空金属喷镀
+vacuum nitriding   &&   真空氮化
+vacuum port thermostat   &&   温控开关真空接口
+vacuum pump   &&   真空泵
+vacuum quenching   &&   真空淬火
+vacuum sensor   &&   真空(负压)传感器
+vacuum servo   &&   真空伺服
+vacuum system   &&   真空系统
+vacuum tempering   &&   真空回火
+vacuum transducer   &&   真空(负压)传感器
+vacuum ultraviolet lasers   &&   真空紫外线激光
+vacuum valve   &&   真空阀
+vacuum-assisted brake   &&   真空助力制动器
+vacuum-over-hydraulic brake   &&   真空助力液压制动系
+validation   &&   校验 检验
+validity check   &&   有效性检验
+validity event   &&   有效事件
+valley   &&   谷
+value   &&   (量)值
+value analysis   &&   价値分析
+value engineering   &&   价值工程
+value of a quantity   &&   (量)值
+value of image shift   &&   图象漂移量
+value of scale division   &&   标度分格值
+value of scale mark   &&   标度值
+value-added network   &&   增值网络[VAN]
+values transfer   &&   量值传递
+valve   &&   ①阀②气门③阀门
+valve accelerating pump   &&   加速泵阀
+valve beat-in   &&   气门头，气门沉陷
+valve block partition disc   &&   阀体隔盘
+valve body   &&   阀体
+valve bounce   &&   气门跳动
+valve cap   &&   ①气门嘴帽 ②气门室盖
+valve capacity   &&   阀容量
+valve crown   &&   气门头
+valve disc   &&   阀片
+valve face   &&   气门工作面
+valve gate   &&   阀门浇口
+valve gear   &&   气门机构
+valve guide   &&   气门导管
+valve head   &&   气门头
+valve lifter   &&   ①气门挺杆②(英)气门拆卸工具
+valve lock   &&   气门锁紧螺母
+valve locking split   &&   气门锁片
+valve outlet Mach number   &&   阀出口马赫数
+valve overlap   &&   气门重叠
+valve plate   &&   阀板
+valve plug   &&   阀芯
+valve plunger   &&   气门挺杆
+valve recession   &&   气门沉陷
+valve retainer   &&   限位板
+valve rocker   &&   气阀摇臂
+valve rotator   &&   气门旋转机构
+valve seal   &&   气门油封
+valve seat   &&   气门座，阀座面
+valve seat insert   &&   气门镶座
+valve shaft   &&   阀轴
+valve sink   &&   气门沉陷
+valve sizing   &&   阀尺寸计算，阀口径计算
+valve spring   &&   气门弹簧
+valve spring shimmy   &&   气门弹簧振动，气门弹簧的共振。
+valve stem   &&   气门杆，阀杆
+valve stem inlay component   &&   阀杆嵌件
+valve stem position transmitter   &&   阀位发送器
+valve stem seal   &&   气门杆油封
+valve stem unbalance   &&   阀杆不平衡力
+valve timing   &&   气门定时
+valve train   &&   气门机构
+van   &&   厢式汽车
+vanadium   &&   钒
+vane   &&   阀板，方向标
+vapor lock   &&   气阻
+vapor lock index   &&   气阻指数
+vapor recovery unit   &&   蒸气回收装置
+vaporize   &&   (使)蒸发，汽化
+vaporizer   &&   汽化室
+vaporizing heat   &&   气化热
+vapour concentration   &&   水汽浓度
+vapour lock   &&   气阻
+vapour pressure   &&   水汽压
+vapour tension   &&   水汽张力
+variable   &&   变量，变数
+variable angle probe   &&   可变有探头
+variable area flowmeter   &&   变面积流量计
+variable choke carburetor   &&   变喉管截面化油器
+variable compression engine   &&   可变压缩比发动机
+variable depression carburetor   &&   固定喉管化油器
+variable focal ength zoom lenses   &&   可变焦伸缩镜头
+variable gain   &&   可变增益，可变放大系数
+variable gain method   &&   可变增益法
+variable magnetic-resistance type transducer   &&   变磁阻式传感器
+variable pressure   &&   变化压力，变压
+variable roll   &&   变滚动
+variable standard capacitor   &&   可变标准电容器
+variable structure control system   &&   变结构控制系统
+variable torque dividing   &&   可变转矩分配
+variable valve timing   &&   可变计时阀
+variable voltage control   &&   调压调速
+variable-angle internal reflection element   &&   可变角度内反射组件
+variable-area methods   &&   可变面积法
+variable-head flowmeter   &&   可变压头流量计
+variation   &&   变化量，变差，变化
+variation due to influence quantity   &&   影响量引起的变化量，变差
+variation in testing temperature   &&   试验温度波动度
+variation in the indicating value   &&   示值变动值
+variety   &&   品种
+various   &&   不同的，各种的
+varistor   &&   电压敏电阻器
+varnish   &&   ①透明亮漆 ②漆状沉积物
+vectopluviometer   &&   雨向计
+vector   &&   矢量，向量
+vector averaging current meter   &&   矢量平均海流计
+vector feedrate computation   &&   向量进刀速率计算
+vector graph   &&   矢量图形，向量图形
+vee   &&   字形
+vehicle clearance circle   &&   汽车最小转弯圆(直径)
+vehicle identification number   &&   汽车编号[VIN]
+veiling glare   &&   杂光
+veiling glare coefficient   &&   杂光系数
+vein color   &&   纹理颜色 纹路颜色
+velocity   &&   速度
+velocity diagram   &&   速度曲线
+velocity distribution   &&   速度分布
+velocity error   &&   速度误差
+velocity error coefficient   &&   速度误差系数
+velocity factor   &&   速度系数
+velocity feedback   &&   速度反馈
+velocity focusing   &&   速度聚焦
+velocity limiter   &&   速度限制器
+velocity measure thermistor   &&   测速热敏电阻器
+velocity of approach factor   &&   渐近速度系数
+velocity pickup   &&   速度传感器
+velocity sensor   &&   速度传感器
+velocity shock response spectrum   &&   速度冲击响应谱
+velocity transducer   &&   速度传感器
+velocity type water meter   &&   速度式水表
+velocity-area methods   &&   速度面积法
+vena contracta   &&   缩流断面
+vena contracta pressure tappings   &&   缩流取压口
+vent   &&   通气口，通气孔
+vent holes   &&   排气孔
+ventilated disc   &&   通风盘
+ventilated psychrometer   &&   通风干湿表
+ventilated thermometer   &&   通风温度表
+ventilation   &&   通风
+ventilation rate   &&   换气量
+ventilator   &&   通风器，通风口
+verification   &&   检验，检定
+verifier   &&   校对机
+verify   &&   校对
+vernier   &&   游标
+vernier caliper   &&   游标卡尺
+vers-grip   &&   卡紧小齿轮用的卡盘
+versacut   &&   弧齿锥齿轮加工多用刀盘
+versatile   &&   多才多艺的，万用的
+vertex   &&   顶点 顶点
+vertical   &&   垂直的
+vertical Drilling machines   &&   立式钻床
+vertical angle   &&   竖直角
+vertical axis   &&   竖轴
+vertical balancing machine   &&   立式平衡机
+vertical current flow method   &&   直角通电法
+vertical dimension   &&   垂直标注
+vertical direction   &&   垂直方向
+vertical displacement   &&   垂直位移
+vertical engine   &&   立式发动机
+vertical extent of a cloud   &&   云的垂直厚度
+vertical factor   &&   垂直系数
+vertical flash   &&   纵溢量
+vertical force   &&   垂直力
+vertical hydraulic broaching machine   &&   立式油压拉床
+vertical lathe   &&   立式车床
+vertical limit   &&   垂直极限
+vertical machine center   &&   立式加工制造中心
+vertical offset   &&   垂直偏置距
+vertical parting flaskless shoot-squeeze moulding machine   &&   垂直分型无箱射压造型机
+vertical plane   &&   垂直面
+vertical scanning   &&   帧扫描
+vertical tail   &&   垂直翼
+vertical temperature profiler radiometer   &&   垂直温度剖面仪[VTPR]
+vertical visibility   &&   垂直能见度
+vertices   &&   顶点 顶点
+very high viscosity index   &&   很高粘度指数[VHVI]
+very large database   &&   超大型数据库[VLDB]
+very large memory   &&   超大型内存[VLM]
+very low frequency electromagnetical receiver   &&   甚低频电磁仪
+veteran car   &&   古老车
+via prep   &&   经，通过
+vibrating reed instrument   &&   振簧系仪表
+vibrating sample magnetometer   &&   振动样品磁强计
+vibrating viscometer   &&   振动粘度计
+vibrating wire drawing force meter   &&   振弦式拉力计
+vibrating wire force transducer   &&   振弦式力传感器
+vibrating wire tensiometer   &&   振弦式张力计
+vibrating wire tension transducer   &&   振弦式张力传感器
+vibrating wire torque measuring instrument   &&   振弦式转矩测量仪
+vibrating wire torque transducer   &&   振弦式转矩传感器
+vibrating wire transducer   &&   振弦式(压力)传感器
+vibration   &&   振动
+vibration amplitude   &&   振幅
+vibration analyzer   &&   振动分析仪
+vibration controller   &&   振动控制仪
+vibration cylinder barometer   &&   振筒式气压表
+vibration cylinder pressure transducer   &&   振筒式气压传感器
+vibration damper   &&   ①减振器②平衡机构
+vibration error   &&   振动误差
+vibration galvanometer   &&   振动检流计
+vibration generator   &&   振动台，振动发生器
+vibration isolation   &&   隔振
+vibration isolator   &&   隔振器
+vibration measurement by absolute method   &&   绝对测振法
+vibration measurement by mechanical method   &&   机械测振法
+vibration measurement by relative method   &&   相对测振法
+vibration monitor   &&   振动监视器
+vibration pick-up   &&   振动传感器
+vibration sensor   &&   振动传感器
+vibration severity   &&   振动烈度
+vibration standard exciter   &&   标准振动台
+vibration test   &&   振动试验
+vibration transducer   &&   振动传感器
+vibrational severity   &&   振动严酷度
+vibrator   &&   振动器
+vibrator galvanometer   &&   振动检流计
+vibrometer   &&   振动计
+vice   &&   台钳，虎钳
+vice manager   &&   副理
+vice section supervisor   &&   副课长
+vicinity   &&   附近
+video CD Players   &&   激光视盘机
+video CDs   &&   激光视盘片
+video camera recorder   &&   视频录像设备
+video card   &&   视频卡
+video conferencing   &&   可视会议
+video display   &&   视频播放，视频显示器
+video electronic standard association   &&   VESA总线
+video playback   &&   视频重放
+videometer   &&   视程仪
+view   &&   视图，视景
+view aligned   &&   对齐浏览 对齐视景
+viewpoint   &&   视点，检视点
+viewport   &&   视口，视埠
+viewport configuration   &&   视口配置，视端口规划
+viewres   &&   显示精度，视景分辨率
+vintage cat   &&   老式车
+vinyl tapped steel sheet   &&   塑胶覆面钢板
+virtual gear   &&   当量齿轮
+virtual image   &&   虚象
+virtual image mass spectrometer   &&   虚象质谱计
+virtual interface   &&   接口
+virtual machine   &&   虚拟机
+virtual memory   &&   虚拟存储，虚拟存储器
+virtual network   &&   虚拟网络
+virtual number of teeth   &&   当量齿数
+virtual pitch radius   &&   当量节圆半径
+virtual reality   &&   虚拟现实
+virtual reality design   &&   虚拟现实
+virtual reality design, VRD   &&   虚拟现实设计
+virtual reality technology   &&   虚拟现实
+virtual reality technology, VRT   &&   虚拟现实技术
+virtual screen display   &&   虚屏显示 虚拟萤幕显示
+viscometer   &&   粘度计
+viscosity   &&   粘度，涂料粘度，能量指示图
+viscosity balance   &&   粘度天平
+viscosity improver   &&   粘度改善剂
+viscosity index improver   &&   粘度指数改进剂 [VII]
+viscosity modifier   &&   粘度改进剂 [VM]
+viscosity sensor   &&   粘度传感器
+viscosity transducer   &&   粘度传感器
+viscous coupling   &&   黏滞偶合器
+viscous damping   &&   粘性阻尼
+vises   &&   虎钳
+vises tool-maker   &&   精密平口钳
+visibility   &&   可见性，能见度
+visibility marker   &&   能见度目标物
+visibility meter   &&   能见度仪
+visibility object   &&   能见度目标物
+visible LEDs   &&   可见光发光二极体
+visible function   &&   视见函数
+visible light sensor   &&   可见光传感器
+visible light transducer   &&   可见光传感器
+visible line   &&   粗实线
+visible magnetic particle   &&   非荧光磁粉
+visible photodiodes   &&   光二极体(可见光)
+visible radiation   &&   可见光辐射
+visible spectral remote sensing   &&   可见光遥感
+visor   &&   透明护板
+visual axis   &&   视轴
+visual range   &&   视程
+visual range meter   &&   视距测定仪
+vocational addition network   &&   增值业务网络[VAN]
+void   &&   ①沟槽②空隙
+volatile   &&   挥发性
+volatility   &&   挥发性
+volt-ampere meter   &&   视在功率表
+volt-ampere-hour meter   &&   视在功率电度表，伏安时计
+voltage amplifier   &&   电压放大器
+voltage center   &&   电压中心
+voltage circuit   &&   电压电路
+voltage constant   &&   电压常数
+voltage controlled gate   &&   电压控制门[VCG]
+voltage controlled gate module   &&   电压控制门组件
+voltage divider   &&   分压器
+voltage divider with auxiliary branch circuit   &&   具有辅助支路的分压箱
+voltage droop   &&   电压下降
+voltage error   &&   电压比值差
+voltage matching transformer   &&   电压匹配互感器
+voltage ratio   &&   电压比
+voltage ratio of a capacitor divider   &&   电容器式分压器的电压比
+voltage regulator   &&   电压调节器
+voltage sensitivity   &&   电压灵敏度
+voltage sensor   &&   电压传感器
+voltage stabilized thermistor   &&   稳压热敏电阻器
+voltage switch of SPS   &&   电源电压接拉键
+voltage transducer   &&   电压传感器
+voltage transformer   &&   电压互感器
+voltage-dependent resistor   &&   电压敏电阻器
+voltage-regulation coefficient   &&   稳压系数
+voltage-second calibrator   &&   伏秒定标器
+voltammetry   &&   伏安法
+voltmeter   &&   电压表
+volume   &&   容积
+volume conductive humidity sensor   &&   体电导式湿度传感器
+volume conductive humidity transducer   &&   体电导式湿度传感器
+volume flow   &&   体积流量总量
+volume flow-rate   &&   体积流量
+volume of the chamber   &&   试验箱容积
+volume thermodilatometry   &&   体膨胀法
+volume viscosity   &&   体积粘度
+volumetric chromatography   &&   体积色谱法
+volumetric efficiency   &&   容积效率
+volumetric flowmeter   &&   容积式流量计
+volumetric method   &&   容积法
+volumetric shadows   &&   体积阴影
+volumetric water meter   &&   容积式水表
+vortex flow sensor   &&   涡街流量传感器
+vortex flow transducer   &&   涡街流量传感器
+vortex flowmeter   &&   旋涡流量计
+vortex induced drag   &&   诱导阻力
+vortex pair   &&   旋涡对
+vortex precession flowmeter   &&   旋涡进动流量计
+vortex shedding flow transducer   &&   涡街流量传感器
+vortex stabilizer   &&   ①减涡装置②稳流装置
+vortex-shedding flowmeter   &&   涡街流量计
+vplayer   &&   视口图层，视埠图层控制
+vpoint   &&   设置视点，检视点
+vports   &&   多视口，视埠
+vslide   &&   观看幻灯，检视幻灯片
+vulcanise   &&   硫化，硬化，热补
+vulcanize   &&   硫化，硬化，热补

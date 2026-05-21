@@ -1,0 +1,2664 @@
+O attenuator   &&   O型衰减器
+O network   &&   0型网络
+O ring   &&   O形环、密封圈
+O ring seal   &&   O 形密封圈密封
+O scope   &&   O型显示器
+O type backward-wave oscillator   &&   O型返波振荡器
+O-ring   &&   O形密封圈
+O.B.I. press   &&   (Open-Back Inclinable press) 开式可倾压力机
+O.S. process   &&   O.S.精密冲裁法(在双动过程中完成)
+OBD   &&   (On-Board Diagnostics) 车载故障诊断
+OBM   &&   (Oxygen Bottom blowing converter) 氧气底吹转炉
+OBM process   &&   OBM法，氧气底吹转炉炼钢
+OCP process   &&   氧顶吹喷(石灰)粉转炉炼钢法，氧气转炉(炼钢)法
+OCR   &&   (Optical Character Recognition ) 光识别系统
+ODBC   &&   (Open Database Connectivity) 开放数据库联接
+ODBC database   &&   ODBC数据库，ODBC 资料库
+OEM   &&   (Original Equipment Manufacturer) 原装件制造商
+OFP   &&   (Ozone Forming Potential) 臭氧形成可能性
+OH process   &&   平炉炼钢法
+OHC   &&   (Overhead Camshaft) 顶置凸轮轴
+OHV   &&   (Overhead Valve)顶置气门
+OLE   &&   (Object Linking and Embedding) 对象链接与嵌入
+OLP furnace   &&   OLP炉，氧气顶吹转炉
+OLP process   &&   OLP法，氧气顶吹转炉炼钢
+ON-Board Diagnostics   &&   车上诊断 [OBD]
+OPM   &&   (Object Property Manager) 对象特性管理器
+OR circuit   &&   或门电路
+OR-not circuit   &&   或非门电路
+ORI   &&   (Octane Requirement Increase) 辛烷值要求提高
+ORV   &&   (Off-Road Vehicle US) (美)越野汽车
+OS/2 Operating System   &&   OS/2操作系统
+OTA   &&   (Office of Technology Assessment US) (美)技术评价办公室
+OTC   &&   (Ozone Transportation Commission US) (美)臭氧运输委员会
+Obach cell   &&   阿巴赫电池
+Octanium   &&   奥克塔尼厄姆镍铬钴低膨胀合金(含Co 40％，Cr 20，Ni 15.5％，Fe 15％，Mo 7％，Mn 2％，C 0.15％)
+Octoid teeth   &&   锥齿轮的"8"字啮合
+Ohm's law   &&   欧姆定律
+Ohmal   &&   欧玛尔钢，锰镍(铜)电阻合金(Cu 87.5％，Ni 3.5％，Mn 9％)
+Ohmax alloy   &&   高欧姆合金(Cr 20％，Al 5％～8.8％，Co O.5％，余为Fe)
+Ohmic plasma loss   &&   等离子体欧姆损失，能量损失
+Oidham-Wheat lamp   &&   奥尔德姆-惠特灯
+Oidsmoloy   &&   奥尔兹莫洛伊铜锌镍合金(Cu 45％，Zn 39％，Ni 14％，Sn 2％)
+Oker   &&   奥卡铸黄铜(Cu 72％，Zn 24．5％，Fe 2.32％，Pb 1.1％)
+Oldham coupling   &&   双转块机构
+Oldham's coupling   &&   十字滑块联轴器
+Olefin Co-Polymer   &&   烯烃共聚物 [OCP]
+Olivor filter   &&   奥利佛过滤机
+Olsen ductility test   &&   艾尔逊杯凸试验
+Olsen tester   &&   艾尔逊杠杆式材料试验机
+Omax   &&   高欧姆铁铬钼电阻合金(Cr 20％，Al 5～8％，Co O.5％，余为Fe)
+Omega   &&   奥米加导航系统
+Onsager theory of dielectrics   &&   翁萨格电介质理论
+Oppemuer oxidation   &&   奥本瑙尔氧化反应
+Oppenheimer-Phillips reaction   &&   奥本海默-菲利普斯反应(物)
+Optical Fiber Laser Gyros   &&   光纤陀螺仪
+Orford process   &&   奥福特分层炼镍法
+Orthonik   &&   镍铬耐磨白口铁，奥素尼克软磁合金(Ni 50％，Fe 50％)
+Orton cone   &&   标准测温熔锥，奥顿耐火锥(美)
+Osaki diode   &&   隧道二极管
+Osmayal   &&   奥斯马亚尔铝锰合金(Mn 1.8％，余为Al)
+Ospray process   &&   奥斯泼雷加工法，喷粉(直接)锻造法
+Osram   &&   ①锇钨灯丝合金②灯泡钨丝
+Otto cycle   &&   奥托循环
+Otto engine   &&   奥托发动机
+Oudin resonator   &&   奥丁谐振器
+Ovshinshy effect   &&   奥维辛斯基效应
+Owen bridge   &&   欧文电桥
+Oxford-blue   &&   暗蓝色
+o-ring   &&   O形密封圈
+oakum   &&   麻絮，麻刀
+oat amplifier   &&   输出放大器
+object   &&   对象，物件
+object analysis   &&   目标分析
+object carrier   &&   载物玻璃(显微镜)
+object code   &&   目标码，目的码
+object code compatibility   &&   目标代码兼容性
+object code listing   &&   目标代码表
+object code module   &&   目标代码模块，目标代码块
+object code program   &&   目标代码程序
+object computer   &&   目标计算机
+object deck   &&   目标(卡片)组
+object definition   &&   目标定义
+object distance   &&   物距
+object focus   &&   物方焦点
+object glass   &&   物镜(经纬仪、显微镜等的)
+object language   &&   目标语言，对象语言
+object leas   &&   物镜
+object level program   &&   目标级程序
+object library   &&   目标库
+object model   &&   对象模型
+object modeling technique   &&   对象建模技术[OMT]
+object module   &&   目标模块，结果模块
+object module data set   &&   目标模块数据集
+object module library   &&   目标模块库
+object oriented analysis and design   &&   面向对象的分析与设计[OOA&OOD]
+object plane   &&   物面
+object program   &&   目标程序
+object program optimization   &&   目标程序优
+object properties   &&   对象特性 对象性质
+object properties manager   &&   对象特性管理器 对象性质管理员
+object proven library   &&   目标程序库
+object snap   &&   对象捕捉 对象锁点
+object snap override   &&   对象捕捉覆盖 对象锁点取代
+object snap setting   &&   对象捕捉设置
+object space   &&   目标空间
+object tape   &&   目标带
+object time   &&   目标时间
+object wave   &&   物体声束
+object-oriented database   &&   面向对象数据库[OODB]
+object-oriented language   &&   面向对象的语言
+objection   &&   缺陷，缺点，障碍
+objectionable   &&   有异议的，讨厌的
+objectionable constituent   &&   有害成分
+objectionable impurities   &&   有害杂质
+objective   &&   ①目的，目标，对象②物镜③客观的
+objective and procedure   &&   目标和程序
+objective aperture   &&   物镜孔径
+objective attribute   &&   客观属性，目标属性
+objective chart   &&   目标图
+objective evidence   &&   客观证据
+objective function   &&   目标函数，目标功能
+objective function reference plane   &&   目标函数参考面
+objective grating   &&   物端光栅
+objective lens   &&   物镜
+objective lens of the scanning electron microscope   &&   扫描电子显微镜物镜
+objective lens of the transmission electron microscope   &&   透射电子显微镜物镜
+objective magnification   &&   物镜放大倍数
+objective management   &&   目标管理
+objective prism   &&   物镜棱镜，物端棱镜(天)
+objective prism lens   &&   物端棱镜
+objective program   &&   目标程序
+objectivistic decision criteria   &&   目标决策准则
+objects   &&   对象 物件
+oblique   &&   斜尺寸界线 倾斜
+oblique butt joint   &&   斜对接
+oblique cone   &&   斜圆锥(体)
+oblique crystal   &&   单斜晶
+oblique cut   &&   斜切
+oblique cylinder   &&   斜面圆筒
+oblique drawing   &&   斜视图
+oblique eccentric loading   &&   斜偏心荷载
+oblique engine   &&   斜置汽缸
+oblique fillet weld   &&   斜贴角焊接
+oblique impact   &&   斜冲
+oblique incidence   &&   斜入射
+oblique joint   &&   斜接头
+oblique lattice   &&   斜点阵
+oblique notching   &&   开斜槽
+oblique photogrammetry   &&   倾斜摄影测量法
+oblique projection   &&   斜投影
+oblique scarf joint   &&   斜嵌接头
+oblique scarf with wedge   &&   楔形斜嵌
+oblique stress   &&   斜应力
+oblique tabled scarf   &&   斜叠嵌接
+oblique tabled scarf with key   &&   斜叠键嵌接
+oblique tenon   &&   斜榫
+oblique visibility   &&   斜能见度
+oblique wing aircraft   &&   斜置翼飞机
+oblique wing airplane   &&   斜翼(飞)机
+oblique γ-field type   &&   扩大γ-区型
+oblique-incidence transmission   &&   斜入射传播
+oblong-punched plate   &&   长方眼钢板
+observability   &&   可观测性，能观测性
+observability index   &&   可观测性指标
+observable vector   &&   可观测向量
+observation and recording device   &&   观察和记录装置
+observation apparatus   &&   观测设备
+observation pipe   &&   观察管
+observation program   &&   观察程序
+observation station   &&   ①观察站，观察位置②测位
+observation system   &&   监测系统
+observational error   &&   观测误差
+observational unit   &&   观察单元
+observe   &&   观察
+observed availability   &&   有效度观测值
+observed cumulative failure probability   &&   累积失效概率的观测值
+observed data   &&   观测数据，实验数据
+observed failure rate   &&   失效率观测值
+observed gravity value   &&   观察重力值
+observed mean failure rate   &&   平均失效率观测值
+observed mean repair rate   &&   平均修复率观测值
+observed mean repair time   &&   平均修复时间的观测值
+observed mesh life   &&   平均寿命观测值
+observed reliability   &&   可靠度观测值
+observed value   &&   观测值
+obsolete   &&   废弃 旧式
+obsolete material   &&   良品已呆滞
+obstacle   &&   干扰，雷达目标
+obstacle diffraction   &&   障碍绕射
+obstacle diffraction lass   &&   障碍绕射损耗
+obstacle gain   &&   障碍增益
+obstruct   &&   障碍，阻碍，阻塞，干扰
+obstruction light   &&   障碍物标志灯
+obturator   &&   闭塞器
+obviously   &&   明显地
+occlusion   &&   ①闭塞②吸留③夹杂物，夹附物
+occulting light   &&   明灭相间灯，明暗灯
+occupied factor   &&   占有带宽
+oce hardening   &&   无渗碳表面硬化处理
+ocean bottom seismograph   &&   海底地震仪
+ocean date station   &&   浮标站
+ocean depot   &&   海洋燃料库
+ocean ground cable   &&   海底接地电缆
+ocean power generation   &&   海洋发电
+ocean surveillance satellite   &&   海洋监视卫星
+ocean temperature differential power generation   &&   海水温差发电
+ocean-going tanker   &&   海洋油轮
+ocean-going vessel   &&   海船，远洋船
+oceanographic geological instrument   &&   海洋地质仪器
+oceanographic instrumentation   &&   海洋仪器
+oceanographic measuring system   &&   海洋测量系统
+oceanographic observation   &&   海洋观测
+oceanographic survey   &&   海洋调查
+oceanographic vessel   &&   海洋调查船
+octagon   &&   八角形，八边形
+octagon steel   &&   八角钢(条)
+octagonal bar   &&   ①八角型钢②八角棒材
+octagonal hammer   &&   八方锤，八楞锤
+octagonal ingot   &&   八角钢锭
+octahedral coordination   &&   八面体配位
+octahedral crystal   &&   八面晶体
+octahedral hybrid orbital   &&   八面体杂化轨道
+octahedral interstice   &&   八面体空隙
+octahedral normal stress   &&   八面体法向应力
+octahedral plane   &&   八面体面
+octahedral shear stress   &&   八面体剪应力
+octahedral shear stress theory   &&   八面体剪应力理论
+octahedral shearing strain   &&   八面体剪应变
+octahedral shearing stress   &&   八面体剪应力
+octahedral sites   &&   八面体座，八面体位置
+octahedral stress   &&   八面体应力
+octahedron   &&   八面体
+octahedronlike molecule   &&   八面体状分子，类八面体分子
+octal   &&   八进制的
+octal base   &&   八脚管座
+octal debugger   &&   八进制调试程序
+octal digit   &&   八进位数字
+octal display format   &&   八进制显示格式
+octal loading program   &&   八进制装入程序
+octal numbering system   &&   八位数制
+octal socket   &&   八脚管座
+octal timing signal   &&   八进制定时信号
+octamer   &&   八聚物
+octane   &&   辛烷
+octane improvement   &&   改善辛烷值，改善爆炸稳定性
+octane no.   &&   汽油牌号
+octane number   &&   辛烷值
+octant   &&   八分仪，八分圆
+octave   &&   倍频程
+octave band filter   &&   倍频带滤波器
+octave bandwidth   &&   倍频程带宽
+octave bandwidth filter   &&   倍频程宽带滤波器
+octave filter   &&   倍频程滤波器
+octave filter set   &&   倍频程滤波器组
+octave-bond oscillator   &&   倍频带振荡器
+octivalence   &&   八价
+octode   &&   八极管
+octonary signaling   &&   八进制信号发送
+odd address   &&   奇地址
+odd and even parity function   &&   奇偶校验函数
+odd byte   &&   奇字节
+odd component   &&   奇分支
+odd cycle   &&   奇回路
+odd electron   &&   奇(数)电子
+odd electron bond   &&   奇(数)电子键
+odd electron compound   &&   奇(数)电子化合物
+odd function   &&   奇函数
+odd harmonic   &&   奇次谐波
+odd molecule   &&   奇(数)分子
+odd number   &&   奇数
+odd symmetric   &&   奇对称
+odd-even check   &&   奇偶校验
+odd-mass nucleus   &&   奇质量数核
+odd-parity check   &&   奇数奇偶校验
+odds and ends   &&   残余
+odometer   &&   速度计，里程表
+odometry   &&   测程法
+odontograph   &&   画齿规
+odontometer   &&   齿轮公法线测量仪
+odorless kerosene   &&   无臭煤油
+off   &&   ①断开，关闭②截止③脱离，离开
+off centre   &&   偏心，脱离中心
+off hook signal   &&   摘机信号方式
+off loader   &&   卸材机
+off register   &&   合模不正确，花纹错位
+off-axis paraboloids and ellipsoids mirrors   &&   抛物面镜，椭圆面镜
+off-axis response   &&   离轴响应
+off-axis test   &&   偏轴试验
+off-blast   &&   停风
+off-centre arrangement   &&   偏心布置
+off-centre loading   &&   偏心载荷
+off-centre plane-position indicator   &&   偏心平面位置显示器
+off-fired furnace   &&   燃油炉
+off-gas   &&   废气，尾气，出口气
+off-gas pump   &&   抽气泵
+off-grade metal   &&   不合格钢，号外钢
+off-highway vehicle   &&   非公路用车
+off-hook   &&   ①离钩②摘机
+off-hook service   &&   离钩业务
+off-line   &&   ①离线②脱机，脱机的
+off-line cipher   &&   脱机密码
+off-line control   &&   离线控制
+off-line data transfer   &&   脱机数据传输
+off-line equipment   &&   脱机设备
+off-line mode   &&   脱机方式
+off-line operation   &&   脱机操作
+off-line processing   &&   离线处理，脱机处理
+off-line system   &&   脱机系统
+off-line system simulation   &&   离线系统仿真
+off-load period   &&   无负荷期，卸载期
+off-on control   &&   开关控制
+off-peak hours   &&   非繁忙时间，非高峰时间
+off-peak load   &&   非高峰荷载，峰外负载
+off-position   &&   折断位置，不工作状态
+off-punch   &&   偏穿孔
+off-size   &&   ①短尺②(钢材的)等外品，不合格品，非规格尺寸
+off-sulphur iron   &&   去硫铸铁
+off-time   &&   停止时间，空闲时间
+off-winding   &&   退绕
+offals   &&   废料，废品，垃圾，次品
+offensive grenade   &&   进攻性手榴弹
+offer   &&   ①加油器，油杯②涂油机
+office   &&   办公室
+office automation   &&   办公自动化，办公室自动化I自控]
+office automation system   &&   办公自动化系统[OAS]
+office display terminal   &&   办公用显示终端
+office information system   &&   办公信息系统[OIS]
+office machine   &&   办公计算机
+office procedure   &&   办公程序
+office typewriter   &&   办公打字机，事务打字机
+officially recognized standard   &&   官方认可标准
+offscum   &&   废渣
+offset   &&   ①胶版印刷，胶印，平版印刷②壁阶，阶宽③偏置管，迂回管④旁支，支脉⑤补偿⑥偏置式，偏移⑦偏距
+offset bend   &&   迂回管弯头
+offset bending die   &&   双折冷弯模具
+offset cam   &&   偏心凸轮
+offset circle   &&   ①偏距圆
+offset coefficient   &&   静差系数
+offset connecting rod   &&   偏置连杆
+offset crank mechanism   &&   偏置曲柄机构
+offset creep limit   &&   条件蠕变极限
+offset current   &&   失调电流，补偿电流
+offset cylinder   &&   偏置汽缸
+offset die   &&   双弯折弯模，z形折弯模
+offset distance   &&   ①偏(心) 距
+offset elastic limit   &&   条件弹性极限
+offset engine   &&   偏置汽缸
+offset flange   &&   偏置凸缘
+offset knife-edge follower   &&   偏置尖底从动件
+offset knockout pin   &&   偏置顶料杆
+offset method   &&   残余变形法(测定屈服点)
+offset moulding   &&   变温注射模制，透印压制
+offset perfector   &&   双面胶印机
+offset pipe   &&   偏置管，迂回管
+offset power steering   &&   半整体式动力转向器
+offset press   &&   平版印刷机，胶印机
+offset proportional limit   &&   条件比例极限(用截距法测定的比例极限)
+offset roller follower   &&   偏置滚子从动件
+offset section   &&   断裂线
+offset slider-crank mechanism   &&   偏置曲柄滑块机构
+offset stacker   &&   分选接卡箱
+offset staff   &&   偏距尺(测量用短杆)
+offset upsetting   &&   偏心镦粗，偏心顶镦
+offset voltage   &&   失调电压，补偿电压
+offset wheel   &&   偏置轮辐车轮
+offset yield strength   &&   条件屈服强度(用截距法测定的屈服强度)
+offset yield stress   &&   条件屈服应力，残余变形屈服应力
+offsetting   &&   偏置法
+offsetting spring   &&   复位弹簧
+offshore nuclear power plant   &&   近海核电站
+offside   &&   外侧
+offtake   &&   ①泄水管②排水渠③移去，耗去
+ohm   &&   欧(姆)(电阻单位)
+ohmammeter   &&   欧姆安培计
+ohmic contact   &&   欧姆接触
+ohmic dissipation   &&   欧姆(电阻)损耗
+ohmic heating   &&   欧姆加热
+ohmic loss   &&   欧姆损耗，电阻损耗
+ohmic resistance   &&   欧姆电阻
+ohmmeter   &&   欧姆计
+oil   &&   ①油②石油
+oil and gas separator   &&   油气分离器
+oil and water quenching tank   &&   油水双液淬火槽
+oil bath   &&   ①油浴②油池，油槽
+oil bath lubrication   &&   油浴润滑
+oil bearing   &&   含油轴承
+oil bottle   &&   油杯
+oil buffer   &&   油压缓冲器
+oil burner   &&   ①油燃烧器，油喷灯②火油炉
+oil can   &&   油壶
+oil circuit breaker   &&   油断路器
+oil circuit breaker oil   &&   油开关油
+oil circuit connecting rod   &&   连杆油道
+oil circuit crankshaft   &&   曲轴油道
+oil consumption   &&   耗油量
+oil consumption factor   &&   耗油量系数
+oil control ring   &&   油环
+oil cooler   &&   油冷却器，油散热器，润滑油冷却器
+oil coolers   &&   油冷却器
+oil cooling   &&   油冷却，油冷
+oil core   &&   油心
+oil corrosion test   &&   油腐蚀试验(石油产品的金属腐蚀试验)
+oil cup   &&   油杯
+oil cylinder   &&   油缸，液压缸
+oil damper   &&   油阻尼器，油减振器，油缓冲器
+oil damping   &&   油压阻尼，油压制动，油类减震
+oil desulfurization   &&   原油脱硫
+oil dilution   &&   机油稀释
+oil disc   &&   甩油盘
+oil drain interval   &&   换油期 [ODI]
+oil engine   &&   内燃机
+oil expeller   &&   榨油机
+oil fill plug   &&   注油塞
+oil filler cap   &&   加机油口盖
+oil film   &&   油膜
+oil film bearing   &&   油膜轴承
+oil filter   &&   滤油器，机油滤清器
+oil finished terne plate   &&   涂油白钢皮
+oil fired boiler   &&   燃油锅炉
+oil flinger   &&   甩油盘
+oil forge   &&   ①烧油打铁炉，燃油锻造加热炉②燃油锻炉
+oil fuel   &&   燃料油
+oil furnace   &&   油炉
+oil gage   &&   ①机油量尺②机油压力表
+oil gasification   &&   油化气，液体燃料的气化
+oil gauge   &&   油表
+oil groove   &&   油槽
+oil hardened steel   &&   油淬硬钢
+oil hardening   &&   油淬(火)
+oil hardening steel   &&   油淬硬钢
+oil heater   &&   油加热器
+oil hole drill   &&   帯油孔深钻
+oil hydraulic bench press   &&   台式油压机
+oil hydraulic die cushion   &&   液压垫
+oil hydraulic press   &&   油压机
+oil immersed water cooled transformer   &&   油浸水冷变压器
+oil impregnated metal   &&   浸油金属，含油轴承合金
+oil insulation   &&   油绝缘
+oil insulator   &&   油类绝缘体
+oil jack   &&   油压千斤顶
+oil level gauge   &&   油位表，油规，量油计
+oil level indicator   &&   油位指示器
+oil material contamination   &&   油料污染
+oil motor   &&   油马达，液压马达
+oil of vitriol   &&   (浓)硫酸
+oil pan   &&   机油盘，油底壳
+oil pan gasket   &&   机油盘衬垫
+oil paper   &&   油纸，油绝缘纸
+oil passage   &&   油路
+oil pollutant   &&   含油污染物，油质污染物
+oil pollution   &&   油污染
+oil powder method   &&   渗油撒法探裂法
+oil pressure   &&   油压
+oil pressure bearing   &&   油压轴承
+oil pressure gauge   &&   油压表
+oil pressure regulator   &&   油压调整器
+oil pressure relief valve   &&   陷压阀
+oil pressure sensor   &&   机油压力传感器
+oil pressure switch   &&   机油油压开关
+oil protection and emission system test   &&   油品保护及排放系统试验 [OPEST]
+oil pump   &&   齿轮油泵，机油泵
+oil pump strainer   &&   机油集滤器，集滤器
+oil quenched fuse   &&   油猝灭熔断器
+oil quenching   &&   油淬(火)，冷油淬火
+oil quenching bath   &&   淬火油池
+oil radiator   &&   (电热)油液散热器
+oil relief valve   &&   (油)溢流阀，油压安全阀
+oil reservoir casing   &&   储液桶，贮液筒套
+oil ring   &&   油环
+oil seal   &&   油封
+oil seal piston rod   &&   活塞杆密封圈
+oil slinger   &&   ①抛油环②甩油盘
+oil stove   &&   油炉
+oil sump   &&   油底壳
+oil switch   &&   油开关
+oil tank car   &&   油罐车
+oil tank wagon   &&   油罐车
+oil tanker   &&   油轮，运油车
+oil tar   &&   焦油
+oil tempered wire   &&   油回火钢丝
+oil tempering   &&   油回火
+oil thrower   &&   ①抛油环②甩油盘
+oil tight test   &&   油密封试验
+oil-break   &&   油断路
+oil-burning boiler   &&   燃油锅炉
+oil-burning locomotive   &&   燃油蒸汽机车
+oil-burning stove   &&   燃油炉
+oil-compression cable   &&   高油压充油电缆
+oil-drill bearing   &&   石油钻机轴承
+oil-electric engine   &&   柴油发电机
+oil-electric locomotive   &&   内燃机车
+oil-engine driven   &&   内燃机驱动的
+oil-filled cable   &&   充油电缆
+oil-filled cut-out   &&   充油断电器
+oil-filled enclosure (Ex o)   &&   充油外壳(Ex o)
+oil-fired boiler   &&   燃油锅炉
+oil-fired furnace   &&   燃油炉
+oil-free piston expansion engine   &&   无油润滑活塞式膨胀机
+oil-free vacuum   &&   无油真空
+oil-gas   &&   (石)油气
+oil-hydraulic system   &&   油压系统
+oil-immersed   &&   油浸的
+oil-immersed transformer   &&   油浸变压器
+oil-immersed type transformer   &&   油浸变压器
+oil-immersion test   &&   油浸试验
+oil-impregnated bearing   &&   含油轴承
+oil-impregnated cable   &&   油浸电缆
+oil-impregnated treatment   &&   浸油处理
+oil-less bearing   &&   无油轴承，自润滑轴承
+oil-poor circuit breaker   &&   贫油断路器
+oil-pressurized capacitor   &&   油压式电容器
+oil-quenching steel   &&   油淬火钢
+oil-quenching tank   &&   油淬火槽
+oil-scraper ring   &&   油环
+oil-water meter   &&   原油水分仪
+oiling   &&   ①加油，油润滑②加油法
+oilite   &&   (多孔)含油轴承合金，石墨青铜轴承合金
+oilless circuit breaker   &&   无油断路器
+oilless metal   &&   无油轴承合金
+oilostatic cable   &&   高油压充油电缆
+oilway   &&   油路
+oily ditch seal   &&   油沟密封
+okonite   &&   奥科耐特，精制石蜡
+old iron   &&   废铁
+old metal   &&   废金属
+oldham coupling   &&   十字联周节
+ole links   &&   OLE链接，OLE 连结
+oleaginous fluid   &&   油质液体
+oleaginous material   &&   含油物质
+oleaginousness   &&   含油量
+olefiant gas   &&   乙烯
+olefination   &&   烯化作用
+oleic press   &&   油压机
+oleo damper   &&   液压减震器
+oleo-pneumatic shock absorber   &&   油气减震器，油传动减震器
+oleometer   &&   量油计，油比重计
+oleostrut   &&   油压减震器，油减震器支柱
+oliver   &&   脚踏铁锤
+olivine refractory   &&   橄榄石质耐火材料
+omega navigation   &&   奥米加导航
+omega navigation system   &&   奥米伽导航系统
+omega steel   &&   奥米伽高硅钢
+omegatron   &&   奥米加器，高频质谱仪， 回旋质谱计，真空管残余气体测量仪
+omegatron mass spectrometer   &&   回旋质谱计
+omission factor   &&   漏查率
+omission of examination   &&   漏验
+omission solid solution   &&   缺位固溶体
+omnibearing beacon   &&   全方位信标
+omnibearing-distance station   &&   全方位-距离电台
+omnibus   &&   公共汽车
+omnibus bar   &&   汇流排，母线
+omnidirectional   &&   全向的
+omnidirectional antenna   &&   全向天线
+omnidirectional intensity   &&   全方向强度，各向均匀强度
+omnidirectional microphone   &&   全向传声器
+omnidirectional radiator   &&   全方位辐射器
+omnidirectional radio beacon   &&   全向无线电信标
+omnifont   &&   全字体
+omnigraph   &&   ①缩图器②(发送电报电码的)自动拍发器
+on   &&   ①接通②开动
+on and off switch   &&   通断开关
+on centers   &&   中心距
+on line system   &&   联机系统
+on load   &&   加载，在应力状态下
+on time   &&   接通时间
+on way location   &&   在途仓
+on-call circuit   &&   应需线路
+on-carriage fire control equipment   &&   炮上射击控制设备
+on-center handling   &&   直线行驶性
+on-cold column injector   &&   冷柱头进样器
+on-hand inventory   &&   现有库存
+on-hook   &&   在钩
+on-hook signal   &&   挂机信号
+on-line   &&   在线，联机
+on-line assistance   &&   在线帮助
+on-line automatic recognition   &&   在线自动识别
+on-line central file   &&   联机中央文件
+on-line cipher   &&   联机密码
+on-line computer system   &&   联机计算机系统
+on-line control   &&   在线控制
+on-line data processing   &&   联机数据处理
+on-line data reduction   &&   联机数据整理
+on-line debugging   &&   联机调试
+on-line devices   &&   联机设备
+on-line diagnostics   &&   联机诊断
+on-line disk file   &&   联机磁盘文件存储器
+on-line dynamic coordination   &&   在线动态协调
+on-line equipment   &&   联机设备
+on-line hierarchical control   &&   在线分层控制
+on-line measurement and frequency spectrum analysis   &&   在线测量频谱分析
+on-line mode   &&   联机方式
+on-line operation   &&   联机操作，在线操作
+on-line peripheral memories   &&   联机外围存储器，外存储器
+on-line process control   &&   在线过程控制，在线控制
+on-line process gas chromatograph   &&   在线过程气相色谱仪
+on-line process identification   &&   在线过程辨识，在线识别
+on-line processing   &&   在线处理，联机处理
+on-line program   &&   联机程序
+on-line real-time processing   &&   在线实时处理
+on-line real-time system   &&   联机实时系统
+on-line secured communication system   &&   联机保密通信系统
+on-line storage   &&   联机存储器
+on-line system   &&   联机系统
+on-line system simulation   &&   在线系统仿真
+on-line typewriter   &&   联机打字机
+on-load temperature measurement of winding   &&   绕组带电测温
+on-load voltage regulation   &&   有载调压
+on-net design   &&   网上设计[OND]
+on-off action   &&   开关作用，通断作用
+on-off control   &&   通断控制，开关控制
+on-off control system   &&   “开-停”控制系统
+on-off controller   &&   通断控制器
+on-off keying   &&   开关键控
+on-off switch   &&   通断开关
+on-off test   &&   接通-断开试验
+on-off thermostat   &&   ①自动调温开关②开关调温器
+on-state   &&   接通状态
+on-the-fly printer   &&   飞击式打印机
+on-the-job forming   &&   现场架模
+on-the-rood mixer   &&   路上拌合机
+on-the-spot sample analysis   &&   炉前分析
+once-through boiler   &&   直通锅炉
+once-through conversion   &&   单程转化
+once-through lubrication   &&   非循环润滑
+once-through operation   &&   单程操作
+once-through process   &&   单程过程，非循环过程
+once-through steam generator   &&   单流式蒸汽发生器
+ondograph   &&   高频示波器，电容式波形记录器
+ondoscope   &&   辉光管振荡指示器
+one chip microcomputer   &&   单片微型机
+one component phase diagram   &&   一元相图
+one condition   &&   “1”状态
+one degree of freedom system   &&   单自由度系统
+one digit adder   &&   半加器
+one dimension detector arrays   &&   线型检光组件
+one dimensional stress   &&   一元应力，单向应力
+one hour rating   &&   1小时额定出力
+one pass weld   &&   单层焊缝
+one pass welding   &&   单层焊
+one phase alloy   &&   单相合金
+one piece casting   &&   整体铸件
+one piece frame press   &&   整体机身压力机
+one plunger compressed air hydraulic lifter   &&   单活塞液力升降机
+one plunger hydraulic lifter   &&   单柱塞液力升降机
+one shot molding   &&   一次成形
+one sided eccentric drive   &&   单边偏心传动
+one sided gear drive   &&   单边齿轮传动
+one sided search   &&   单侧搜索
+one step camera   &&   一步成像照像机
+one stroke   &&   单行程
+one to one correspondence   &&   一一对应
+one to one function   &&   一对一函数
+one to one mapping   &&   一对一映射，1-1映照
+one way automatic feeder   &&   单路自动送料装置
+one way rolling key clutch   &&   单转键离合器
+one way shear   &&   单边剪切
+one's complement   &&   二进制反码
+one's complement code   &&   反码
+one-address code   &&   一地址码
+one-address instruction   &&   一地址指令
+one-atom model   &&   单原子模型
+one-axis oriented array   &&   单轴定向方阵
+one-column radiator   &&   单柱暖气片，单柱散热器
+one-component system piezoelectric ceramics   &&   一元系压电陶瓷
+one-cylinder motor   &&   单缸发动机
+one-dimensional analysis   &&   单继分析法，一元分析法
+one-dimensional consolidation   &&   单维压缩(固结)
+one-dimensional disorder   &&   一维无序
+one-dimensional high-speed flow   &&   一维高速管流
+one-dimensional lattice   &&   一维晶格
+one-dimensional location   &&   线定位，一维空间定位
+one-dimensional optimization   &&   一维最优化
+one-dimensional order   &&   单向有序，线型有序
+one-dimensional search   &&   一维搜索
+one-dimensional superconductor   &&   一维超导体
+one-electron bond   &&   单电子键
+one-electron theory   &&   单电子理论
+one-group model   &&   单群模型
+one-heat forging   &&   一火锻造
+one-level address   &&   一级地址
+one-level code   &&   一级代码
+one-level subroutine   &&   一级子例行程序
+one-line adapter   &&   单线适配器
+one-line operation   &&   单线操作
+one-man atmospheric submersible   &&   常人常压潜水器
+one-man flight vehicle   &&   单人飞行器
+one-man grader   &&   单人平地机
+one-man machine   &&   单人操纵机
+one-many function switch   &&   一-多函数开关
+one-one relationship   &&   一对一关系
+one-parametric loading   &&   单参数荷载
+one-part code   &&   单要素码
+one-particle distribution function   &&   单粒子分布函数
+one-particle exchange   &&   单粒子交换
+one-particle state   &&   单粒子态
+one-pass operation   &&   一次扫视操作
+one-pass roll   &&   单道次辊
+one-phase electric-arc furnace   &&   单相电弧炉
+one-piece spherical washer   &&   球形垫圈
+one-pipe circuit system   &&   单管环行系统
+one-pipe drop down feed heating system   &&   单管上行下给供暖系统
+one-pipe drop system   &&   单管上行下给系统
+one-pipe forced system   &&   单管强制循环系统
+one-pipe gravity system   &&   单管重力循环系统
+one-pipe heater   &&   单管加热器
+one-pipe hot water heating system   &&   单管热水供暧系统
+one-plus-one address instruction   &&   一加一地址指令
+one-point ingle action press   &&   单点单动压力机
+one-point suspension double action crankless press   &&   单点双动偏心齿轮式压力机
+one-point suspension triple action crankless press   &&   单点三动偏心齿轮式压力机
+one-port network   &&   单口网络
+one-quadrant multiplier   &&   单象限乘法器
+one-side galvanized steel   &&   单面镀锌钢材
+one-side zinc coated steel   &&   单面镀锌钢材
+one-sided approximation   &&   单侧逼近
+one-sided step junction   &&   单边突变结
+one-sided test   &&   单边检验
+one-stage missile   &&   单级导弹
+one-stage rocket   &&   单级火箭．
+one-step method   &&   一步法
+one-step pressure regulator   &&   单级压力调节器
+one-step synthesis   &&   一步合成
+one-story furnace   &&   单层炉
+one-third octave filter   &&   13倍频程滤波器
+one-to-one assembler   &&   一对一汇编程序
+one-to-one transformer   &&   1:1变压器
+one-turn time of output shaft   &&   输出轴每转时间
+one-way analysis of variance   &&   单向方差分析
+one-way channel   &&   单向信道
+one-way clamp   &&   单向钳位
+one-way clutch   &&   单向离合器
+one-way communication   &&   单向通信
+one-way fired furnace   &&   单向火焰炉，单室炉
+one-way fired soaking pit   &&   单向火焰均热炉
+one-way movement   &&   单向运动
+one-way path   &&   单向通道
+one-way reinforcement   &&   单向钢筋
+one-way switch   &&   单路开关
+one-way traffic   &&   单向通信业务
+one-way transfer   &&   单向传递
+one-way trunk   &&   单向中继线
+one-way valve   &&   单向阀
+online help   &&   联机帮助 线上说明
+online manuals   &&   联机手册 线上手册
+only loadable   &&   尽可装入的
+oops   &&   恢复 取消删除
+opacification   &&   乳白化，乳浊化(作用)，乳浊状
+opacifier   &&   不透光剂，遮光剂
+opacifled glass   &&   乳浊玻璃，乳白玻璃
+opacifying agent   &&   乳浊剂，遮光剂
+opacimeter   &&   暗度计
+opacity   &&   ①不透明性，阻旋光性②不透明度，阻光度③暗度，浑浊度
+opacity map   &&   不透明贴图 不透明贴图
+opacity plate glass   &&   不透明板玻璃，乳浊玻璃
+opacity to sound   &&   隔声性
+opaque fused silica   &&   不透明熔融石英玻璃
+opaque glass   &&   不透明玻璃
+opaque illuminator   &&   不透明施照体
+opaque mineral   &&   不透明矿物
+opaque plasma   &&   不透明等离子体，蔽光等离子体
+opaque quartz glass   &&   不透明石英玻璃
+opaque silica glass   &&   不透明石英玻璃
+opaqueness   &&   不透明性，不透明度，不透性，不透度
+open   &&   ①打开②开启③断开
+open aerial   &&   开端天线
+open annealing   &&   开式退火，敞露退火
+open arc   &&   开弧
+open arc furnace   &&   开弧炉
+open beading   &&   波纹板冲压法
+open bed   &&   开式床身
+open belt   &&   开口皮带
+open bevel   &&   锐角翻边
+open butt joint   &&   明对接
+open caliber   &&   开式孔型
+open car   &&   敞蓬车
+open cavity   &&   明缩孔
+open cell foam   &&   开孔泡沫塑料
+open cell foamed plastic   &&   开孔泡沫塑料
+open cell formation   &&   开口小孔的形成
+open chain   &&   开链
+open chain compound   &&   开链化合物
+open chain mechanism   &&   开链机构
+open circuit   &&   ①开路②开式(液压)回路③断路
+open circuit voltage decay   &&   开路电压衰减
+open circuited line   &&   开路线
+open coil annealing furnace   &&   松卷退火炉
+open combustion chamber   &&   开式燃烧室
+open conduit   &&   露明管道
+open continuous mill   &&   单机轧制的连续式轧机
+open cut-out   &&   敞露断流器
+open cycle   &&   开环，开循环
+open cycle control   &&   开环控制
+open cycle cooling system   &&   开环冷却系统
+open cycle geothermal power generation   &&   开式循环地热发电
+open cycle magnetohydrodynamic generation   &&   开式循环磁流体发电
+open cycle system   &&   开环系统，开环控制
+open cycle turbine   &&   开环透平
+open die   &&   敞开式锻模，开式锻模(两半的)，开口锻模
+open drive   &&   空车运转
+open dump body   &&   敞口翻斗车身
+open end shaving machine   &&   敞开式刨皮革机
+open fire   &&   ①活火②射击，明火
+open fired furnace   &&   敞焰炉
+open flame furnace   &&   露焰炉，有焰炉
+open flange   &&   锐角翻边
+open forging   &&   自由锻造，无型锻造
+open forging steel   &&   商业锻钢坯
+open frame   &&   开式框架
+open freight car   &&   敞车
+open front and solid back crank power press   &&   单柱偏心压力机
+open front case with pressure relief   &&   带泄压装置的前开式外壳
+open front case without pressure relief   &&   无泄压装置的前开式外壳
+open fuel nozzle   &&   开式燃料喷嘴
+open furnace   &&   敞开炉
+open fuse   &&   明保险丝
+open gauge   &&   敞口压力计
+open half line   &&   开半直线
+open hearth   &&   平炉
+open hearth furnace steelmaking   &&   平炉炼钢
+open hearth iron   &&   平炉生铁
+open hearth slag   &&   平炉钢渣
+open height   &&   开口高度(压力机)
+open hole   &&   安装孔，空心
+open hole caliper   &&   井径仪
+open impeller   &&   开(敞)式叶轮
+open interval   &&   开区间
+open joint   &&   露缝接头
+open kinematic chain   &&   开式链
+open line   &&   架空明线
+open loop   &&   开环
+open loop control   &&   开环控制
+open loop control circuit   &&   开环控制线路
+open loop control system   &&   开环控制系统
+open loop electronic balance   &&   开环式电子天平
+open loop frequency response   &&   开环频率响应
+open loop gain   &&   开环增益
+open loop optimal feedback   &&   开环最优反馈
+open loop pole   &&   开环极点
+open loop process control   &&   开环过程控制
+open loop remote control system   &&   开环遥测控制系统
+open loop stabilization   &&   开环稳定
+open loop system   &&   开环系统
+open loop transfer function   &&   开环传递函数
+open loop voltage gain   &&   开环电压增益
+open loop zero   &&   开环零点
+open machine capacity   &&   机器的工作空间
+open manometer   &&   敞口压力计
+open method   &&   开型法
+open mode   &&   打开状态
+open mortise and tenon joint   &&   明榫槽接口
+open motor   &&   开敞型电动机
+open mould   &&   明浇铸型(无上箱)，敞口铸型
+open mouth tongs   &&   开口钳
+open pass   &&   开式孔型
+open pattern return bend   &&   开敞式回转弯头
+open pipe   &&   开口缩孔，开管
+open plug   &&   开路插头
+open pore   &&   敞露孔，开口孔
+open resonator   &&   开放式谐振器
+open routine   &&   开型程序
+open sand   &&   松散砂
+open sand filter   &&   敞露式砂滤池
+open section   &&   空心断面
+open set   &&   开集
+open ship   &&   敞舱船，大舱口船
+open side hammer   &&   单臂锤
+open side planer   &&   单柱龙门刨(床)
+open side press   &&   开式压力机
+open side up   &&   开口向上
+open slot   &&   开口槽
+open source   &&   裸式离子源
+open square butt weld   &&   平头开口对接焊缝
+open square butt welding   &&   平头开口对接焊
+open steel   &&   不完全脱氧钢，沸腾钢
+open structure   &&   ①敞形结构②开放结构(聚合物的)③开式结构
+open subroutine   &&   开型子程序
+open system   &&   开放系统，开环系统
+open system interconnection   &&   开放系统互连[OSI]
+open tee joint   &&   ①露缝T形接头②有缝T形一接合
+open test   &&   开路测试[电工
+open top ingot   &&   没有保温剂铸成钢锭
+open top mold   &&   敞口模
+open train mill   &&   横列式轧机
+open tube manometer   &&   开口气压计
+open tubular column   &&   空心柱
+open type double action crank press   &&   开式双动曲柄压力机
+open type impeller   &&   开式叶轮
+open type single action crank press   &&   开式单动曲柄压力机
+open type transformer   &&   开放式变压器
+open wagon   &&   敞车
+open water-cooling tower   &&   敞开式水冷塔
+open weld   &&   空隙焊
+open wire   &&   明线，裸线
+open-air weathering test   &&   室外耐气候试验，露天耐候性试验
+open-band twist   &&   Z捻，反手捻
+open-belt drive   &&   开口皮带传动
+open-buck inclinable press   &&   开式双柱可倾压力机
+open-buck press   &&   开式双柱压力机
+open-burning coal   &&   长焰煤(非炼焦的)，非结丝性煤
+open-butt weld   &&   开口对焊
+open-circuit characteristic   &&   开路特征曲线
+open-circuit grinding   &&   开路粉磨
+open-circuit impedance   &&   开路阻抗
+open-circuit intermediate voltage   &&   开路中间电压
+open-circuit jack   &&   开路插孔
+open-circuit photovoltage   &&   开路光生电压
+open-circuit signaling   &&   开路信号发射
+open-circuit transition   &&   开路换接过程
+open-circuit voltage   &&   开路电压
+open-cycle MHD generator   &&   开环磁流体动力发电机
+open-cycle engine   &&   开式循环发动机
+open-cycle gas turbine   &&   开式循环燃气轮机
+open-cycle power plant   &&   开路循环(汽轮)发电厂
+open-cycle reaction system   &&   开式循环反应堆系统
+open-delta connection   &&   开式三角形接法
+open-die forging   &&   开式模锻造，自由锻
+open-discharge filter-press   &&   敞口卸料压滤机
+open-end pipe pile   &&   敞口管桩
+open-ended   &&   可扩充的
+open-ended system   &&   开端型系统
+open-flame turbine   &&   开(敞)式水轮机
+open-frame tractor   &&   自动底盘拖拉机
+open-fuse cutout   &&   明熔丝断路器
+open-grain structure   &&   粗晶组织
+open-grained cast iron   &&   粗晶粒铸铁，多孔铸铁
+open-hearth cinder   &&   平炉渣
+open-hearth furnace   &&   平炉，马丁炉
+open-hearth pig   &&   平炉炼钢生铁
+open-hearth pig iron   &&   平炉生铁
+open-hearth process   &&   平炉炼钢法
+open-hearth refining   &&   平炉精炼，平炉炼钢
+open-hearth rolling furnace   &&   可倾式平炉
+open-hearth slag   &&   平炉渣
+open-hearth steel   &&   平炉钢
+open-hearth steel furnace   &&   平炉
+open-heated steel   &&   过热钢
+open-jet wind tunnel   &&   开口式风洞
+open-jointed pipe   &&   不嵌缝的接口管
+open-link fuse   &&   明熔丝片
+open-loop engine control   &&   发动机开环控制
+open-loop frequency response   &&   开环频率响应
+open-loop gain   &&   开环增益
+open-loop gain characteristic   &&   开环增益特性
+open-loop mode   &&   开环模式
+open-mould method   &&   开模法
+open-phase protection   &&   断相保护(装置)
+open-phase relay   &&   斯相继电器
+open-poured steel   &&   不完全脱氧钢，沸腾钢
+open-reel tape recorders   &&   开卷式磁带录音机，盘式磁带录音机
+open-ring waveguide   &&   开环波导，环波导
+open-rod press   &&   柱式油压机
+open-textured grading   &&   疏松级配
+open-top duplex lantern   &&   开顶双灯(航标灯)
+open-top single lantern   &&   开顶单灯(航标灯)
+open-tube diffusion   &&   开管扩散
+open-type heat exchanger   &&   敞开式热交换器
+open-wire carrier system   &&   明线载波系统
+open-wire loop   &&   架空回路
+open-wire transmission line   &&   架空传输线
+opencast   &&   露天开采，露天矿
+opened coil annealing   &&   松卷退火
+opening   &&   ①孔，洞，口②开度③缝隙
+opening angle   &&   张开角，张角
+opening die   &&   自动开合板牙
+opening for feed   &&   进料口
+opening material   &&   促干防缩材料
+opening of bond   &&   键的断开
+opening of link   &&   键的断开
+opening of linkage   &&   键的断开
+opening of ring   &&   开环
+opening pressure   &&   开启压力
+opening speed   &&   回程速度(压力机等的)
+opening stopper front door   &&   前车门开度限位器
+opening stopper rear door   &&   后车门开度限位器
+opening time   &&   分开时间
+opening valve time   &&   开阀时间
+openside planing machine   &&   单臂龙门刨床
+openside vertical shears   &&   开式剪切机
+operability   &&   操作性，适用性
+operameter   &&   ①动数计②计算轮转的仪器
+operand   &&   运算数，操作数
+operand-precision register   &&   操作数精度寄存器
+operating angle   &&   工作角
+operating bias   &&   工作偏压
+operating characteristic curve   &&   操作特征曲线
+operating characteristics   &&   工作特性，操作特性
+operating characteristics of electric machine   &&   电机运行特性
+operating characteristics of electrical apparatus   &&   电器特性
+operating condition   &&   ①操作规程，操作条件②工艺规程，工作条件，工况③运算条件④经营情况，经营条件
+operating conditions   &&   工作条件
+operating console   &&   操作控制台
+operating delay   &&   操作延误
+operating duty   &&   ①操作规程，操作制度②操作任务
+operating error   &&   工作误差
+operating factor   &&   运行系数
+operating fluid   &&   工作液体
+operating function   &&   操作功能
+operating handle   &&   操作手柄
+operating influence   &&   工作条件影响
+operating instruction   &&   操作指南
+operating level accelerating pump   &&   加速泵操纵杆
+operating lever   &&   操纵杆
+operating life   &&   工作寿命
+operating life test   &&   运用寿命试验
+operating limits   &&   极限工作条件
+operating liquid   &&   工作液体
+operating load   &&   工作负荷，工作负载
+operating mechanism   &&   操作机构
+operating mode   &&   运算(操作，使用)模式
+operating motor   &&   执行电动机
+operating panel   &&   操作面板，操作台
+operating period   &&   工作周期
+operating point   &&   工作点
+operating position   &&   操作位置
+operating power   &&   工作功率
+operating practices   &&   运算(操作，使用)实践
+operating pressure   &&   操作压力
+operating pressure angle   &&   工作压力角
+operating pressure differential   &&   工作压差
+operating principle   &&   工作原理
+operating procedure   &&   操作程序，工作方法
+operating rate   &&   操作率
+operating ratio   &&   机器运行比
+operating schedule   &&   运用程序，操作程序
+operating sequence   &&   运用程序，操作程序
+operating station   &&   操作位置，工位
+operating status   &&   工况
+operating stress   &&   运转应力
+operating stroke   &&   工作行程
+operating strut   &&   操纵杆
+operating system   &&   操作系统[OS]
+operating system supervisor   &&   操作系统管理程序
+operating temperature   &&   工作温度
+operating temperature range   &&   工作温度范围
+operating time   &&   工作时间
+operating torque   &&   工作扭矩
+operating voltage   &&   工作电压
+operating wavelength   &&   工作波长
+operating weight   &&   运转量
+operation   &&   ①作业，操作②运算③实施
+operation analysis   &&   工程分析
+operation and maintenance   &&   使用和保养
+operation and support   &&   使用和保障
+operation building   &&   操作间
+operation card   &&   工艺卡片，工序卡片
+operation code   &&   ①操作码②工艺卡
+operation control device   &&   操纵及控制装置
+operation control system   &&   作业控制系统
+operation control valve   &&   操作控制阀
+operation curve   &&   运行曲线
+operation cycle   &&   操作周期
+operation decoder   &&   操作译码器
+operation drawing   &&   加工图
+operation flow chart   &&   生产流向线图
+operation life   &&   工作寿命，使用期限
+operation line   &&   操纵线
+operation mechanism   &&   工作机构
+operation method   &&   运算方法
+operation number   &&   操作号码
+operation part   &&   操作码部分
+operation process   &&   运算过程
+operation ratio   &&   运行率，开工率
+operation register   &&   操作寄存器
+operation sequence   &&   作业顺序，操作程序
+operation sheet   &&   ①操作卡片，运算卡片②操作说明书
+operation system   &&   操作系统
+operation time   &&   运算时间，操作时间
+operational   &&   操作的，运作的
+operational amplifier   &&   运算放大器
+operational analysis   &&   运算分析
+operational aspect   &&   运行情况
+operational attributes   &&   运算属性，操作属性
+operational control   &&   作业控制，操作条件
+operational control system   &&   操作控制系统
+operational data   &&   操作数据
+operational decision making   &&   业务决策
+operational element   &&   运算器
+operational failure   &&   操作故障，操作事故，运行事故
+operational flexibility   &&   操作适应性，操作灵活性
+operational information system   &&   业务信息系统[OIS]
+operational label   &&   操作标号
+operational level   &&   作业级
+operational method   &&   运算方法
+operational phase   &&   运用阶段
+operational planning system   &&   操作计划系统
+operational readiness   &&   作战待机状态，运用准备状态
+operational reliability   &&   使用可靠性，工作可靠性
+operational research   &&   ①作战研究②运筹学[OR]
+operational research model   &&   运筹学模型
+operational site   &&   运行场所，工作场所
+operational speed   &&   运算速度
+operational stability   &&   操作稳定性，运行稳定性
+operational standby program   &&   备用操作程序
+operational unit   &&   运算器
+operations flowchart   &&   操作程序图
+operations of dilation   &&   稀释算子
+operations process chart   &&   作业流程图
+operations research   &&   ①运筹学②运用研究[OR]
+operative   &&   ①操作的②运算的
+operative limits   &&   极限工作条件
+operator   &&   ①技师②驾驶人员，操作者③操作符④算符，算子
+operator algebra   &&   算子代数
+operator command   &&   操作员命令
+operator equation   &&   算子方程
+operator interrupt   &&   操作员中断
+operator's console   &&   操作员操纵台
+operator's station   &&   操作员站
+operators cab   &&   驾驶间(起重机的)
+opisometer   &&   曲线计
+opportunity   &&   时机，机会
+opposed   &&   对面的，相反的，对置的，反向的
+opposed balance compressor   &&   对称平衡型压缩机
+opposed compressor   &&   对置式压缩机
+opposed cylinder engine   &&   对置气缸式发动机
+opposed piston engine   &&   对置活塞式发动机
+opposed pistons   &&   对置活塞
+opposed-cylinder engine   &&   对置汽缸发动机
+opposed-voltage protective system   &&   对消电压保护系统
+opposing   &&   对立的，对面的
+opposing electromotive force   &&   反电动势
+opposite   &&   ①相反的，相对的，对面的②反面
+opposite angle   &&   对角
+opposite conductivity type   &&   相反导电类型
+opposite direction   &&   反向
+opposite force   &&   反向力
+opposite joint   &&   对接
+opposite lock   &&   反打转向盘以制止后轮侧滑
+opposite pressure   &&   反压力
+opposite spin   &&   反相自旋
+opposite travelling wave   &&   反向行波
+opposition   &&   冲，对抗，反对
+oppress   &&   压制，压抑，压迫
+optic axial angle   &&   光轴角
+optic disk   &&   光盘
+optic fiber displacement meter   &&   光纤式位移计
+optic fiber position measuring instrument   &&   光纤式位置测量仪
+optic fiber pressure transducer   &&   光纤压力传感器
+optic fiber tachometer   &&   光纤式转速表
+optic fiber tachometric transducer   &&   光纤式转速传感器
+optic integrated circuit   &&   光集成电路，集成光学组件
+optic microscopical image   &&   光学显微镜像
+optic plastics   &&   光学塑料
+optical   &&   光学的，视觉的，旋光的
+optical Doppler effect   &&   光的多普勒效应
+optical absorption   &&   光(学)吸收
+optical absorption edge   &&   光吸收限
+optical absorption spectrum   &&   光学吸收谱
+optical activation energy   &&   光激活能
+optical activity   &&   旋旋光性(度)，光学活动性，光学活性
+optical air pollution measurement and detection equipment   &&   光学大气污染检测设备
+optical alignment   &&   ①光学校准，光学调准②光学准直
+optical altimeter   &&   光测高度计
+optical ammeter   &&   光学安培计
+optical amplifier   &&   光放大器，激光放大器
+optical analysis   &&   光学分析
+optical anisotropy   &&   ①光学各向异性②光学非均质性
+optical antenna   &&   光天线
+optical antimer   &&   旋光对映体
+optical antipode   &&   旋光对映体
+optical arm   &&   光学臂
+optical arm length   &&   光臂长度
+optical astronomy   &&   光学天文学
+optical avalanche laser   &&   光雪崩激光器
+optical axis   &&   光轴
+optical bench   &&   光具座
+optical birefringence   &&   光学双折射
+optical bleaches   &&   荧光增白剂
+optical bleaching   &&   光漂白
+optical borate flint   &&   硼酸盐火石玻璃
+optical brightener   &&   光学增白剂
+optical cable   &&   光缆
+optical cable communication   &&   光缆通信
+optical cements and adhesives   &&   光学用胶合剂接着剂
+optical center   &&   光学中心
+optical ceramics   &&   光学陶瓷
+optical character   &&   光学特性
+optical character recognition   &&   光学字符识别
+optical character recognition equipment   &&   光学字符阅读机[OCR]
+optical choppers mechanical modulators   &&   光截波器，机械式光调变器
+optical circulators   &&   光环流器
+optical cleaning agent   &&   荧光增白剂
+optical communication   &&   光学通信
+optical communication equipment   &&   电信用光通讯设备
+optical communication fiber   &&   光学通信纤维，光导纤维
+optical comparator   &&   ①光学比较仪②光学比色计
+optical compensator   &&   光学补偿器
+optical computer   &&   光学计算机
+optical conductivity   &&   光导性，光导率
+optical connector sizes measuring equipment   &&   光连接器尺寸量测器
+optical connectors   &&   光连接器(含光纤线 with fiber)
+optical constant   &&   光学常数
+optical contour grinder   &&   光学曲线磨床
+optical counterpart   &&   光学对应体
+optical couplers   &&   光纤耦合器(两分支 tap splitter)
+optical couplers   &&   光纤耦合器(树状分支 tree)
+optical couplers WDM   &&   光分波合波器(两波长 dual-wavelength)
+optical couplers WDM   &&   光分波合波器(多波长 over two wavelength)
+optical coupling   &&   光学耦合
+optical crown glass   &&   冕光学玻璃(指低色散光学玻璃)
+optical curve grinding machine   &&   光学曲线磨床
+optical data communication network equipment   &&   数据通讯光纤网路设备
+optical densitometer   &&   光学密度计
+optical density   &&   光密度
+optical density colour   &&   光密度色度
+optical depolarization   &&   去偏振作用
+optical depth   &&   光深
+optical detection   &&   光探测
+optical diagnostic equipment   &&   光学诊断仪器
+optical diagnostics   &&   光学诊断
+optical digital loop carrier equipment SDH-based   &&   同步数位阶层光数位回路载波机设备
+optical digital loop carrier equipment SONET-based   &&   同步光纤网路光数位回路载波机设备
+optical disc cartridges   &&   光盘匣
+optical discs   &&   光盘片
+optical disk data storage materials   &&   光盘记录材料
+optical disk drive inspection equipment   &&   光盘测定检查设备(装置用)
+optical disk inspection equipment   &&   光盘测定检查设备(盘片用)
+optical disk memory   &&   光盘存储器
+optical disk substrate materials   &&   光盘基板，基板材料
+optical dispersion   &&   光色散
+optical display   &&   光学显示
+optical distance   &&   光程
+optical distortion   &&   光学扭曲，光的畸变
+optical dividing head   &&   光学分度头
+optical double  magnetic  resonance   &&   光频双磁共振，磁双共振[ODMR]
+optical efficiency   &&   光学效应
+optical electron   &&   光(学)电子
+optical electronics   &&   光电子学
+optical element   &&   光学组件
+optical encoders   &&   光学式编码器
+optical energy   &&   光能，光编码器
+optical energy gap   &&   光(学)能隙
+optical fiber   &&   光导纤维，光学纤维
+optical fiber chemical sensor   &&   光纤化学传感器
+optical fiber communication   &&   光纤通信
+optical fiber displays   &&   光纤显示器
+optical fiber mode field parameters test equipment   &&   光纤模态参数测试器
+optical fiber scope   &&   光纤显微镜
+optical fiber sensor   &&   光纤式传感器
+optical fiber sizes measuring equipment   &&   光纤尺寸量测器
+optical fiber strength test equipment   &&   光纤强度测试器
+optical fiber test equipment   &&   光纤测试设备
+optical fibre   &&   光学纤维
+optical fibre amplifier   &&   光纤维放大器
+optical fibre communication   &&   光纤通信
+optical fibre communication system   &&   光导纤维通信系统
+optical fibre converter   &&   纤维光学换向器
+optical fibre devices   &&   光纤器材
+optical fibre magnetometer   &&   光纤磁强计
+optical fibre scanning   &&   光导纤维扫描
+optical film of device   &&   光学薄膜器件
+optical filter   &&   滤光器，滤光片
+optical flat   &&   光学测平仪，光学平晶，光学平玻璃
+optical flint glass   &&   火石光学玻璃(指离色散光学玻璃)
+optical frequency mixing   &&   光混频
+optical generation   &&   光生
+optical glass   &&   光学玻璃
+optical glass fibre   &&   光学玻璃纤维
+optical grating   &&   光栅
+optical guidance   &&   光学制导
+optical gyroscope   &&   光学陀螺仪
+optical head controllers   &&   光学头伺服装置
+optical head servomotors   &&   光学头驱动装置
+optical heads   &&   光学头
+optical holography   &&   光学全息照相
+optical homogeneity   &&   光学均匀性
+optical identification   &&   光学认证
+optical injection   &&   光注入
+optical instrument   &&   光学仪器
+optical interference   &&   光波干涉
+optical interferometer   &&   光学干涉仪
+optical isolator   &&   光隔离器
+optical isolators for communication   &&   通信用光隔离器
+optical isolators for non-communication   &&   非通信用光隔离器
+optical isomer   &&   旋光异构体，旋光异构物
+optical isomerism   &&   光学异构，旋光异构
+optical jig boring machine   &&   光学坐标镗床
+optical length   &&   光程
+optical lens   &&   光学透镜
+optical level   &&   光学水平仪
+optical magnetometer   &&   光泵磁力仪
+optical maser   &&   光脉泽，激光器，受激辐射微波放大器
+optical mask   &&   光学掩模
+optical material   &&   光学材料
+optical materials   &&   光学材料
+optical measurement   &&   光测(法)
+optical measurement method   &&   光测法
+optical memory   &&   光存储器
+optical memory glass semiconductor   &&   光存储玻璃半导体
+optical mice   &&   光学鼠标
+optical micrometer   &&   光学测微器
+optical microscope   &&   光学显微镜
+optical microscopic technique   &&   光学显微技术
+optical microscopy   &&   光学显微术
+optical mode   &&   光学模式
+optical model   &&   光学模型
+optical modulator   &&   光调制器
+optical network unit   &&   光纤网路单体[ONU]
+optical orientation   &&   光学取向
+optical parallel   &&   光学平晶，平行平晶，光学平行
+optical path   &&   光程，光径
+optical path difference   &&   光程差
+optical pattern   &&   光图样
+optical phase shifters   &&   光移相器
+optical photon   &&   光学光子
+optical pick-up heads   &&   光学读取头
+optical plastics   &&   光学塑料
+optical plummet   &&   垂准仪，光学对中器
+optical positive crystal   &&   正旋光性晶体
+optical printers   &&   光学印表机
+optical projector   &&   光学投影仪
+optical property   &&   光学性质
+optical protractor   &&   光学量角器
+optical pulsar   &&   光学脉冲星
+optical pulse generator   &&   光脉冲发生器
+optical pulse generators   &&   光脉冲产生设备
+optical pumping   &&   光泵磁强计
+optical quantity sensor   &&   光学量传感器
+optical quantity transducer   &&   光学量传感器
+optical quartz   &&   光学石英
+optical quartz glass   &&   光学石英玻璃
+optical radar   &&   光雷达，激光雷达
+optical range   &&   视线距离
+optical reader   &&   光阅读器
+optical reading range   &&   光学读数范围
+optical reflectivity   &&   光(学)反射率
+optical registration   &&   光学校准
+optical relay   &&   光继电器
+optical remote control equipment   &&   光遥控器
+optical remote sensing   &&   光学遥感
+optical resin   &&   光学树脂胶
+optical resonance   &&   光学共振
+optical resonators   &&   光共振器
+optical response   &&   光(学)响应
+optical retardation line   &&   正程差线
+optical rotation   &&   旋光度，旋旋光性，(光学的)偏振转
+optical sand head   &&   光声头
+optical scanner   &&   光学扫描器，红外扫描系统
+optical scanning   &&   光学扫描
+optical sensitization   &&   光学敏化
+optical sensor   &&   光敏组件，光传感器
+optical signal   &&   视光标志
+optical sound recording   &&   光学录音
+optical sound reproducers   &&   光学扬声机
+optical spectrometer   &&   光学光谱仪
+optical spectrum   &&   光谱
+optical spectrum analyzers   &&   光谱分析仪
+optical square   &&   直角转光器
+optical strain gauge   &&   光学应变仪
+optical system   &&   光学系统
+optical technology   &&   光学技术
+optical telescope   &&   光学望远镜
+optical theodolite   &&   光学经纬仪
+optical thermometry   &&   光学测温法
+optical thickness   &&   光学厚度
+optical thin film   &&   光学薄膜
+optical thin film element   &&   光学薄膜组件
+optical time-domain reflectometers   &&   光时域反射计[OTDR]
+optical tracking system   &&   光学跟踪测量系统
+optical transducer   &&   光传感器
+optical transition   &&   光(学)跃迁
+optical transmission   &&   ①光的透射②光的传输
+optical transmission equipment CATV   &&   有线电视光传输设备
+optical transmission equipment measure control   &&   量测控制信号光传输设备
+optical transmission equipment spatial wireless   &&   空间无线光传输设备
+optical transmission equipment special purpose   &&   特殊用途光传输设备
+optical transmission equipment video cctv   &&   视讯闭路监视光传输设备
+optical transmission system   &&   光传输系统
+optical transmittance   &&   光透射比，光透射率，光透射系数
+optical transparency   &&   光学透明度，光学透明性，透光度
+optical type font   &&   光字体
+optical vibrometer   &&   光学测振仪
+optical view finder   &&   光学取景器，光学寻像器
+optical water pollution measurement and detection equipment   &&   光学水质污染检测设备
+optical wave   &&   光波
+optical waveguide   &&   光波导
+optical waveguide communication system   &&   光波导通信系统
+optical waveguide detector   &&   光导探测器
+optical waveguide excitation   &&   光波导激励
+optical waveguide fiber   &&   光导纤维
+optical waveguide modulators   &&   波导形调变器
+optical wavelength meters   &&   光波长计
+optical wedge   &&   光楔
+optical wedge micrometer   &&   光楔测微器
+optical whitening agent   &&   荧光增白剂
+optical window   &&   光学窗口
+optical zinc crown   &&   锌冕光学玻璃
+optical-coated abrasive   &&   光学研磨材料(研磨布纸)
+optical-powder or grin abrasive   &&   光学研磨材料(砥粒)
+optical-pyrometer   &&   光测高温仪，光学高温计
+optical-wheel abrasive   &&   光学研磨材料(砥石)
+optically active body   &&   旋光体
+optically active covalent compound   &&   旋光共价化合物
+optically active form   &&   旋光体
+optically active isomer   &&   旋光异构体，旋光异构物
+optically active polymer   &&   旋光聚合物
+optically active resin   &&   光学活性树脂
+optically active substance   &&   旋光物
+optically denser medium   &&   光密介质
+optically inactive   &&   不旋光的，非旋光的
+optically inactive substance   &&   不旋光物
+optically pure   &&   光学纯的
+optically thick medium   &&   光厚介质
+optically thick plasma   &&   旋光性厚等离子体
+optically thin medium   &&   光薄介质
+optically thin plasma   &&   旋光性薄等离子体
+optically thinner medium   &&   光疏媒质
+opticity   &&   旋旋光性，光偏振性
+optics   &&   光学
+optima estimation   &&   最优估计
+optimal   &&   最佳的，最优的
+optimal Bayes control   &&   最优巴叶斯控制
+optimal adaptive search   &&   最优适应搜索
+optimal aggregate matrix   &&   最优集结
+optimal approximation   &&   最佳逼近
+optimal basic feasible solution   &&   最优基本可行解
+optimal control   &&   最优控制
+optimal control equation   &&   最优控制方程
+optimal control law   &&   最优控制律
+optimal control layer   &&   最优化控制层
+optimal control problem   &&   最优控制问题
+optimal control system   &&   最优控制系统
+optimal control techniques   &&   最优控制技术
+optimal control theory   &&   最优控制理论
+optimal criterion   &&   最优性判别
+optimal decision problem   &&   最优决策问题
+optimal decoding   &&   最佳译码
+optimal design   &&   优化设计
+optimal distributed parameter   &&   最佳分布参数
+optimal flight control   &&   最佳飞行控制
+optimal hiding strategy   &&   最优隐藏策略
+optimal integer solution   &&   最优整数解
+optimal moisture for carbonation   &&   最优碳化含水率
+optimal nonadaptive plan   &&   最优非适应方案
+optimal ordering policy   &&   最优排序策略
+optimal path   &&   最优路径
+optimal planning   &&   方案选取
+optimal plans   &&   最优方案
+optimal policy   &&   最优方针
+optimal policy curve   &&   最佳政策曲线
+optimal policy function   &&   最优策略函数
+optimal ray   &&   最优射线
+optimal return function   &&   最优返回函数
+optimal search and stop plan   &&   最优搜索与停止方案
+optimal solution   &&   最优解
+optimal strategy   &&   最做出策略
+optimal stress-bearing position   &&   最佳应力承受位置
+optimal substrategy   &&   最优子策略
+optimal system configuration   &&   最优系统结构
+optimal trajectory   &&   最优轨道
+optimal value   &&   最佳值
+optimal value function   &&   最优值函数
+optimal vector   &&   最优向量
+optimality   &&   最优性
+optimality conditions   &&   最优性条件
+optimality criterion   &&   最优性判别
+optimality principle   &&   最优性原理
+optimalizing control   &&   自寻最优点控制，最佳控制，自佳控制
+optimat   &&   优化规范
+optimeter   &&   ①光学比较仪②光电比色计
+optiminimeter   &&   光学测微计
+optimistic approximation   &&   最佳近似
+optimistic fuzzy automaton   &&   乐观的模糊自动机
+optimization   &&   优化，最优化，寻优，最佳化
+optimization algorithm   &&   (最)优化算法
+optimization layer   &&   优化层
+optimization method   &&   最优化方法，优选法
+optimization of system design   &&   系统设计最优化
+optimization technique   &&   最优化方法，最优化技术
+optimization techniques   &&   最优化技术
+optimization theory   &&   最佳化理论
+optimize design   &&   最佳设计
+optimizing   &&   寻优
+optimizing control theory   &&   最优控制理论
+optimizing model   &&   最优化模型
+optimum   &&   最佳，最适宜(的)
+optimum allocation   &&   最优分配
+optimum array current   &&   最佳天线阵电流
+optimum bunching   &&   最佳聚束
+optimum clearance   &&   合理间隙
+optimum code   &&   最佳编码
+optimum compression ratio   &&   最好压缩比
+optimum concentration   &&   最适浓度
+optimum consumptive use   &&   最佳耗水量
+optimum control   &&   最优控制
+optimum coupling   &&   最佳耦合
+optimum cure   &&   最适硫化，正硫化
+optimum cutting condition   &&   最佳切削条件
+optimum design   &&   最佳设计
+optimum designing of engineering structure   &&   工程结构的优化设计
+optimum die angle   &&   最佳模具角
+optimum die proportion   &&   最适宜的模具比例
+optimum duration   &&   最佳工期
+optimum estimate   &&   最优估计
+optimum fibre orientation   &&   纤维最佳取向
+optimum filter   &&   最佳滤波器
+optimum fit   &&   最佳拟合
+optimum frequency   &&   最佳频率
+optimum gap   &&   最佳(能)隙
+optimum junction depth   &&   最佳结深
+optimum load   &&   最佳负载
+optimum matching   &&   最佳匹配
+optimum moisture content   &&   最佳含水量
+optimum number of turns   &&   最佳捻数，捻数最佳值
+optimum operating point   &&   最佳工作点
+optimum parameter   &&   最佳参数，最宜参数
+optimum performance   &&   最佳性能
+optimum processing condition   &&   最佳工艺条件
+optimum programming   &&   最佳程序设计
+optimum proportion   &&   最佳搀和量比
+optimum replacement interval   &&   最优重置间隔期
+optimum search   &&   最优搜索
+optimum seeking method   &&   优选法
+optimum sensitivity   &&   最佳灵敏度
+optimum size   &&   最佳规模
+optimum solution   &&   最优解
+optimum staple length   &&   最佳(短)纤维长度
+optimum stress   &&   最佳应力
+optimum structural design   &&   结构优化设计
+optimum thickness   &&   最佳厚度
+optimum value   &&   最优值，优值
+optimum velocity   &&   最佳流速
+optimum working frequency   &&   最佳工作频率
+option   &&   选项 选项
+option switch   &&   选择开关
+optional   &&   ①任意的，随意的②不是必需的
+optional equipment   &&   备用设备，附加设备
+optional item   &&   可选择项目
+optional test condition   &&   任意测试条件
+options   &&   选择
+opto-electronic amplifier   &&   光电子放大器
+opto-electronic coupler   &&   光电耦合器
+opto-electronic modulator   &&   光电子调制器
+opto-electronic property   &&   光电性质
+opto-electronics   &&   光电子学
+opto-mechanical scanner   &&   光机扫描器，光学扫描器
+optoelectronic materials   &&   光电子材料
+optoelectronic switch   &&   光电开关
+or gate   &&   或门
+orange peel   &&   橘皮状表面缺陷
+orange peel bucket   &&   多瓣抓斗，多爪式抓斗
+orange-peel dredge   &&   多瓣抓斗挖泥船
+orange-peel effect   &&   橘皮效应
+orange-peel excavator   &&   多瓣抓斗挖土机
+orbicular structure   &&   球形结构
+orbit   &&   轨道，动态，动态检视
+orbit degeneracy   &&   轨道简并度
+orbit determination   &&   定轨
+orbit electron   &&   轨道电子
+orbit maneuver engine   &&   轨道机动发动机
+orbit perturbation   &&   轨道摄动
+orbit rendezvous   &&   轨道交会
+orbit resonance   &&   轨道共振
+orbit speed   &&   轨道速度
+orbit velocity of spacecraft   &&   航天器轨道速度
+orbital   &&   ①轨道的②轨函数
+orbital electron   &&   轨道电子，核外电子
+orbital electron capture   &&   轨道电子俘获
+orbital engine   &&   轨道式发动机
+orbital forging press   &&   摆动辗压机
+orbital maneuvering system   &&   轨道机动系统[OMS]
+orbital motion   &&   轨道运动，轨迹运动
+orbital motion mixer machine   &&   行星式搅拌机
+orbital quantum number   &&   轨道量子数
+orbital radius   &&   轨迹半径，轨道半径
+orbital rocket   &&   轨道火箭
+orbital scattering   &&   轨道散射
+orbital stability   &&   轨道稳定性
+orbital symmetry rule   &&   轨道对称定则
+orbital velocity   &&   轨道运动速度
+orbiter   &&   轨道飞行器
+order   &&   ①级，数量级，位②序，有序，次序，序态③排队④阶⑤定货单，柱型
+order code   &&   指令码
+order controller   &&   顺序控制装置
+order disorder   &&   有序-无序
+order parameter   &&   序参数
+order point   &&   订货点
+order policy   &&   定货策略
+order tone   &&   蜂音信号
+order wire circuit   &&   传号电路
+order-disorder change   &&   有序-无序转变，有序-无序变化
+order-disorder distribution   &&   有序-无序分布(状态)
+order-disorder ferroelectrics   &&   有序-无序型铁电体
+order-disorder phase transition   &&   有序-无序相变
+order-disorder transformation   &&   有序-无序转变
+order-disorder transition   &&   有序-无序转变
+order-hardening   &&   有序强化，有序硬化
+ordered alloy   &&   有序合金
+ordered arrangement   &&   有序排列
+ordered domain   &&   有序畴，有序区域
+ordered metric ranking   &&   有序度量排列，有序度量分级
+ordered nucleus   &&   有序核
+ordered packing   &&   有序堆砌
+ordered pair   &&   序偶，有序偶
+ordered sequence   &&   有序序列
+ordered set   &&   序集合
+ordered state   &&   有序态
+ordered structure   &&   有序结构
+ordered tree   &&   有序树
+ordering   &&   ①有序化(转变)，成序②排列次序，次序，排序
+ordering effect   &&   有序效应
+ordering energy   &&   有序能
+ordering heat treatment   &&   有序化热处理
+ordering policy   &&   排序策略
+ordering transition   &&   有序转变
+ordinal number   &&   序数
+ordinal preference field   &&   顺序偏好域
+ordinal ranking   &&   顺序分级
+ordinal ranking of probabilities   &&   概率顺序分级
+ordinal relation   &&   顺序关系
+ordinal utility function   &&   顺序效用函数
+ordinary alloyed steel   &&   普通合金钢
+ordinary binary   &&   普通二进制
+ordinary crane   &&   普通起重机
+ordinary cutting steel   &&   普通切削钢
+ordinary differential equation   &&   常微分方程
+ordinary gear train   &&   定轴轮系
+ordinary low-alloy steel   &&   普通低合金钢
+ordinary low-carbon steel   &&   普通低碳钢
+ordinary quality gray iron   &&   普通灰口铁
+ordinary steel   &&   碳素钢，普通钢
+ordinary temperature thermistor   &&   常温热敏电阻器
+ordinary tool steel   &&   普通工具钢，碳素工具钢
+ordinary-type hoist   &&   普通型起重机
+ordinate   &&   坐标标注，座标式，纵坐标
+ordination number   &&   原子序数
+ordnance   &&   ①军需品②武器
+ordnance factory   &&   军工厂
+ordnance store   &&   军械库
+ordus   &&   有序线
+ore   &&   矿石
+ore annealing   &&   矿中退火(可锻铁用铁矿退火)，矿石退火
+ore assay mill   &&   矿石试验磨碎机
+ore carrier   &&   矿石船
+ore slag electric furnace   &&   矿渣电炉
+ore washer   &&   洗矿机
+ore-crusher   &&   碎矿机
+ore-smelting furnace   &&   熔炼炉，矿热电炉
+organ   &&   ①机构②组件，部分
+organa-metallic compound   &&   金属有机化合物
+organic analysis   &&   有机分析
+organic chemistry   &&   有机化学
+organic complexing agent   &&   有机络合剂
+organic compound   &&   有机化合物
+organic contaminant   &&   有机污染物
+organic crystal   &&   有机芯片
+organic dielectric capacitor   &&   有机介质电容器
+organic dielectric cell   &&   有机介质电池
+organic electrochemistry   &&   有机电化学
+organic electrolyte   &&   有机电解质
+organic fibre reinforced composite   &&   有机纤维增强复合材料
+organic glass   &&   有机玻璃
+organic laser   &&   有机激光器
+organic material   &&   有机材料，有机物质
+organic molecule   &&   有机分子
+organic optical materials   &&   有机光学材料
+organic phase   &&   有机相
+organic photo conductor drum   &&   有机感光鼓
+organic photoconductor   &&   有机光导体
+organic pollutant   &&   有机污染物
+organic semiconductor   &&   有机半导体
+organic semiconductor gas  sensor   &&   有机半导体气体传感器
+organic semiconductor gas transducer   &&   有机半导体气体传感器
+organic semiconductor humidity  sensor   &&   有机半导体湿度传感器
+organic semiconductor humidity transducer   &&   有机半导体湿度传感器
+organic semiconductor solar cell   &&   有机半导体太阳电池
+organic semiconductor thermistor   &&   有机半导体热敏电阻器
+organic solar cell   &&   有机太阳电池
+organic solvent   &&   有机溶剂
+organic superconductor   &&   有机超导体
+organic synthesis   &&   有机合成
+organic-cooled reactor   &&   有机物冷却(反应)堆
+organism   &&   有机体
+organization flatten   &&   企业组织机构的平面化
+organo-metallic compound   &&   有机金属化合物
+organo-moderated reactor   &&   有机物慢化(反应)堆
+organometal   &&   金属有机化合物
+organometallic   &&   有机金属单体
+organometallic condensation polymer   &&   有机金属缩聚物
+organometallic polymer   &&   有机金属聚合物
+organometallics   &&   有机金属化合物
+organosilicon   &&   有机硅
+organosilicon compound   &&   有机硅化合物
+orient   &&   确定方向，定向
+orientate   &&   定向，定方位
+orientation   &&   ①方向，方位②定位，定向③测向，取向
+orientation adsorption   &&   取向吸附
+orientation birefringence   &&   取向双折射
+orientation complex   &&   定向配合物
+orientation control   &&   定向控制
+orientation disorder   &&   取向无序
+orientation effect   &&   ①定向效应②取向效应
+orientation error   &&   定向误差
+orientation etch   &&   定向腐蚀
+orientation factor   &&   取向因素
+orientation of entrance   &&   ①进口的定位②进口的定向
+orientation of gas dipoles   &&   气体偶极子取向
+orientation of growth   &&   生长取向
+orientation polarization   &&   取向极化
+orientation release stress   &&   解取向应力
+orientation selection   &&   定向选择
+orientation stretching   &&   定向拉伸，取向延伸
+orientation triangle   &&   ①定位三角，定向三角②取向三角图(取向极图的一部分)
+orientation uniformity   &&   取向均一性
+orientation-distribution function   &&   取向分布函数
+orientational crystallization   &&   取向结晶
+orientational drawing   &&   取向拉伸
+oriented adsorption   &&   取向吸附
+oriented array   &&   定向方阵
+oriented blasting   &&   定向爆破
+oriented crystallization   &&   取向结晶(作用)
+oriented fiber reinforced composite   &&   定向纤维增强复合材料
+oriented fibre   &&   取向纤维，拉伸纤维
+oriented film   &&   定向膜，拉伸薄膜
+oriented gel   &&   取向凝胶
+oriented grain steel   &&   晶粒取向钢
+oriented graph   &&   有向图
+oriented graphite   &&   定向石墨
+oriented growth   &&   取向生长
+oriented growth hypothesis   &&   取向生长假设
+oriented layer   &&   定向层
+oriented nucleation hypothesis   &&   取向成核假设
+oriented nuclei   &&   取向核
+oriented perforating   &&   定向射孔
+oriented phase   &&   定向相
+oriented sheet   &&   各向异性钢片(变压器用)
+oriented silicon iron   &&   (晶粒)取向硅铁
+oriented web   &&   取向纤维网
+orienting   &&   定向，取向
+orienting forming   &&   定向成型
+orienting thrust motor   &&   定向推力火箭发动机
+orifice   &&   孔，管孔，喷嘴，喷丝孔，孔板，节流孔
+orifice anode   &&   环形阳极，带孔电极
+orifice cheek valve   &&   节流单向阀
+orifice gas   &&   喷嘴气体
+orifice meter   &&   管孔流量计，锐孔流速计
+orifice plate   &&   孔板
+orifice viscosimeter   &&   管孔黏度计，锐孔黏度计
+orifice-and-plug flowmeter   &&   锥塞式流量计
+origin   &&   原点，起点，原始位置(used for external Datebase)
+origin of coordinate   &&   坐标原点
+origin of force   &&   力原点
+original density   &&   原始密度
+original equipment manufacturer   &&   设备原制造商 [OEM]
+original equipment tire   &&   原装轮胎，新车轮胎
+original mechanism   &&   原始机构
+original nucleus   &&   母核，原始核
+original system   &&   原系统
+originality and device   &&   发明创造
+originator   &&   源发站
+origins of value functions   &&   值函数原点
+ornithopter   &&   扑翼(飞)机
+orthicon   &&   正析摄像管
+ortho   &&   正交
+ortho-axis   &&   正轴
+ortho-calcium silicate   &&   正硅酸钙
+ortho-compound   &&   邻位化合物
+ortho-position   &&   正位
+ortho-projector   &&   正射投影仪
+orthobituminous coal   &&   肥煤
+orthocenter   &&   ①垂心②正中心
+orthoclase   &&   正长石
+orthodox   &&   正统的，正规的
+orthoferrite   &&   正铁氧体
+orthogon   &&   正方形，正角形
+orthogonal   &&   正交 正交的
+orthogonal anisotropy   &&   正交各向异性
+orthogonal antenna   &&   正交天线
+orthogonal axes   &&   正交轴
+orthogonal circle   &&   正交圆
+orthogonal complement   &&   正交补偿
+orthogonal coordinate system   &&   正交坐标系
+orthogonal coordinates   &&   正交坐标
+orthogonal curvilinear coordinate   &&   正交曲线坐标
+orthogonal cutting   &&   垂直割法
+orthogonal design   &&   正交设计
+orthogonal distrortion   &&   正交畸变
+orthogonal expansion   &&   正交展开，正交级数
+orthogonal function   &&   正交函数
+orthogonal increment process   &&   正交增量过程
+orthogonal matrix   &&   正交矩阵
+orthogonal mode   &&   正交模式
+orthogonal octahedron   &&   正交八面体
+orthogonal parity check   &&   正交奇偶校验
+orthogonal polynomial   &&   正交多项式
+orthogonal projection   &&   正射投影
+orthogonal series   &&   正交级数
+orthogonal set   &&   正交集
+orthogonal signal   &&   正交信号
+orthogonal system   &&   正交系，正交系统
+orthogonal test   &&   正交试验
+orthogonal transformation   &&   正交变换
+orthogonal translation   &&   正交位移
+orthogonal vector   &&   正交向量
+orthogonality   &&   正交性
+orthogonality condition   &&   正交性条件
+orthogonality relation   &&   正交关系
+orthogonalization method   &&   直交法
+orthogonalized plane wave   &&   正交平面波
+orthograph   &&   正投影图，正视图
+orthographic   &&   正交 正投影
+orthographic projection   &&   正射投影
+orthography   &&   正射投影
+orthohexagonal axis   &&   六角正交轴
+ortholignitous coal   &&   褐煤
+orthonormal basis   &&   标准正交基
+orthonormal system   &&   正交归一系
+orthonormal vector   &&   标准正交向量
+orthorhombic structure   &&   斜方晶结构
+orthorhombic system   &&   正交晶系，斜方晶系
+orthorhombic unit cell   &&   斜方晶胞
+orthoscopic eyepiece   &&   无畸变目镜
+orthotropic material   &&   正交各向异性材料
+orthotropic solid   &&   正交各向异性体
+orthotropy   &&   正交各向异性
+osciducer   &&   振荡传感器
+oscillate   &&   摆动，振动，振荡
+oscillating   &&   ①摆动(的)，振动的，振荡的②振动，振荡
+oscillating agitator   &&   振荡搅拌器
+oscillating and rotary center beard hopper   &&   摆动回转中心板式料斗
+oscillating bar   &&   摆杆
+oscillating beacon   &&   振荡信号
+oscillating bearing   &&   摆动轴承
+oscillating bit   &&   ①振荡钻②偏心钻
+oscillating blade microtome   &&   振动式超薄切片机
+oscillating block slider crank mechanism   &&   曲柄摇块机构
+oscillating bond   &&   振动键
+oscillating center board hopper feed   &&   摆动中心板式漏斗送料装置
+oscillating condition   &&   振荡条件
+oscillating conveyor   &&   振荡输送机
+oscillating crystal   &&   振荡晶体
+oscillating crystal method   &&   回摆晶体法
+oscillating cylinder viscometer   &&   振荡筒式黏度计
+oscillating damper   &&   成振器
+oscillating die press   &&   振动模用压力机
+oscillating double bond   &&   摆动双器
+oscillating feeder   &&   振荡加料器
+oscillating follower   &&   摆动从动件
+oscillating foundation   &&   摇(摆支)座
+oscillating function   &&   振荡函数
+oscillating granulator   &&   振荡碎粒机
+oscillating guide-bar mechanism   &&   摆动导杆机构
+oscillating link   &&   振动键
+oscillating linkage   &&   振动键
+oscillating magnetic field   &&   振荡磁场
+oscillating motion   &&   振荡运动
+oscillating movement   &&   摆动运动
+oscillating neutral   &&   振荡中性
+oscillating period   &&   振荡周期
+oscillating plane   &&   吻切平面
+oscillating screen   &&   振动筛
+oscillating trough   &&   振荡槽
+oscillating warning lamp   &&   摆动光束警示灯
+oscillating-crystal roentgenogram   &&   回摆晶体X射线照相
+oscillation   &&   ①摆动，回摆，振动②振荡，波动
+oscillation angle   &&   摆角
+oscillation burning   &&   振荡燃烧
+oscillation constant   &&   振荡常数
+oscillation damper   &&   振荡减振器
+oscillation frequency   &&   振荡频率
+oscillation of dislocation   &&   位错的振荡
+oscillation period   &&   振荡期
+oscillational quantum number   &&   振动量子数
+oscillator   &&   ①摆动器，振荡(发生)器②振动子③半导体振荡器
+oscillator crystal   &&   振荡晶体
+oscillator harmonic interference   &&   振荡器谐波干扰
+oscillator strength   &&   振子强度
+oscillator type frequency standard   &&   振荡器型频率基准器
+oscillatory bearing   &&   摆动轴承
+oscillatory circuit   &&   振荡电路
+oscillatory discharge   &&   振荡放电
+oscillatory impulse   &&   振荡脉冲
+oscillatory motion   &&   ①振荡运动②住复运动(海洋风生波)
+oscillatory scanning   &&   振荡扫描
+oscillatory surge   &&   振荡性电涌
+oscillogram   &&   波形图，示波图
+oscillograph   &&   示波器，录(示)波器
+oscillograph tube   &&   示波管
+oscillographic polarograph   &&   示波极谱仪
+oscillography   &&   示波术，示波法
+oscillometer   &&   示波计
+oscillopolarography   &&   示波极谱法(化)
+oscilloscope   &&   电子示波器，示波器
+oscilloscope tube   &&   示波管
+oscilloscope tubes with a long persistence   &&   长余辉示波管
+oscillosynchroscope   &&   同步示波器
+oscillotron   &&   示波管
+osculating circle   &&   密切圆
+osmiridium   &&   ①锇铱矿②锇铱合金
+osmiridium alloy   &&   锇铱合金
+osmiridium pen alloy   &&   锇铱笔尖合金
+osmium   &&   锇Os(76)
+osmium alloy   &&   锇合金
+osmium pen alloy   &&   锇铑铂笔尖合金
+osmium-alloy addition   &&   锇添加合金
+osmium-base alloy   &&   锇基合金
+osmometer   &&   渗透压力计
+osmometry   &&   渗透压力测定法
+osmondite   &&   奥氏体，奥斯蒙体(碳化铁在α-铁中的固态溶液)
+osmonditic   &&   奥氏体的
+osmoses   &&   渗透作用
+osmosis   &&   渗透作用
+osmosis separation   &&   渗析
+osmotic pressure   &&   渗透压
+osnap   &&   对象捕捉，对象锁点
+osram   &&   灯泡钨丝
+other bar code scanners   &&   其它条码扫描器
+other excimer laser processing equipment   &&   其它准分子激光加工机
+other fiber optic bundles   &&   其它集束光纤
+other flat panel displays   &&   其它平面显示组件
+other laser crystals   &&   激光晶体(其它)
+other mechanism in common use   &&   其它常用机构
+other medical equipments   &&   其它医用激光设备
+other mirrors   &&   其它面镜
+other modulators   &&   其它调变器
+other multimode fiber optic cable   &&   其它多模态光缆
+other multimode fiber optic connectors   &&   其它多模态光纤连接器
+other optical WDM couplers   &&   其它光分波合波器
+other optical communication equipment   &&   其它公众用光通讯设备
+other optical couplers   &&   其它光纤耦合器
+other optical data communication network equipment   &&   其它用户光数据通讯设备
+other optical fiber measurement equipment   &&   其它光纤相关量测设备
+other optical information equipment   &&   其它光资讯设备
+other optical measurement equipment   &&   其它光(学)量测器
+other optical passive devices control devices   &&   其它光被动组件控制组件
+other optical printers   &&   其它光学式印表机
+other optical transmission equipment special purpose   &&   其它特殊用途光传输设备
+other prisms   &&   其它棱镜
+other recordable optical disc drives   &&   其它仅写一次型光盘机
+other recordable optical discs   &&   其它可写仅读型光盘片
+other rewritable optical disc drives   &&   其它可覆写型光盘机
+other rewritable optical discs   &&   其它可复写型光盘片
+other semiconductor lasers   &&   半导体激光(其它波长带)
+other single mode fiber optic cable   &&   其它单模态光缆
+other single mode fiber optic connectors   &&   其它单模态光纤连接器
+other single mode optic fibers   &&   其它单模态光纤
+others   &&   其它固态激光
+ounce   &&   盎司 (1盎司=16打兰=28.35克)
+ounce metal   &&   高铜黄铜 (Cu 84％～86％，Zn 4％～6％，Sn 4％～6％，Pb 4％～6％，Ni<l％)
+out alphabet   &&   输出字母
+out flow volume   &&   流出量
+out gassing rate   &&   放气速率
+out of phase   &&   离相
+out of phase cross correlation   &&   异相交叉相关
+out of phase energy spectrum   &&   异相能谱
+out of plumb   &&   不垂直
+out of repair   &&   失修
+out of service jack   &&   不工作塞孔
+out of tune   &&   失调
+out of work   &&   ①不能工作的②失业，失效
+out slot signaling   &&   时外信号方式
+out-burst   &&   ①脉冲，尖头信号②闪光③辐射爆发(太阳的)
+out-gassing   &&   除气，去气
+out-of-line coding   &&   非常规排列程序
+out-of-order   &&   无顺序，紊乱
+out-of-round condition   &&   径向跳动
+out-of-roundness   &&   不圆度，椭圆度
+out-of-tolerance parts   &&   超差零件
+outage   &&   ①断电②停歇，间歇，运转中断③断线率④出口⑤废弃
+outband signaling   &&   带外信号方式
+outboard bearing   &&   ①外置轴承②外伸支承
+outboard brake   &&   车轮制动器
+outboard engine   &&   弦外发动机
+outboard housing   &&   外侧机架
+outboard rotor   &&   外重心转子
+outboard wheel   &&   外侧轮
+outcome variables   &&   结果变量
+outcoming electron   &&   出射电子
+outdoor exposure test   &&   室外曝露试验
+outdoor lighting   &&   室外照明
+outdoor location   &&   户外场所
+outdoor rail   &&   ①外门围栏②门轨
+outdoor temperature   &&   室外温度
+outer   &&   边线
+outer addendum   &&   大端齿顶高
+outer bush   &&   外导套
+outer casing   &&   外壳，容器
+outer coating   &&   外层，外皮
+outer column   &&   外柱，后柱
+outer conductor   &&   ①外导体(同轴电缆)②外侧线(电力线)
+outer cone distance   &&   外锥距
+outer dead center   &&   下死点，外止点
+outer dedendum   &&   大端齿根高
+outer dimension   &&   总体尺寸
+outer electron   &&   外层电子
+outer force   &&   外力
+outer guiding post   &&   外导柱
+outer housing   &&   外壳，外罩
+outer inspection   &&   外观检查
+outer measure   &&   外测度
+outer measure micrometer   &&   外测测微计
+outer noise   &&   外部噪声，系外噪声
+outer orbit   &&   外层轨道
+outer package   &&   外包装
+outer photoeffect   &&   外光电效应
+outer point   &&   外点
+outer race   &&   桶形壳
+outer rail   &&   外轨
+outer ring   &&   外圈
+outer shell electron   &&   外(壳)层电子
+outer sleeve   &&   外套管
+outer slide   &&   外滑块
+outer slot width   &&   大端槽宽
+outer space   &&   太空，外层空间
+outer spiral angle   &&   大端螺旋角
+outer stripper   &&   外脱料板
+outermost   &&   最外层
+outermost electronic shell   &&   最外电子壳层
+outfeed   &&   出料
+outfeed accumulator   &&   出料活套塔
+outfit   &&   ①成套装备，成套备用工具②装置，设备③工具
+outflow   &&   ①流出量②流出
+outgas   &&   除气，去气
+outgassing of metals   &&   金属除气
+outgate   &&   出口
+outgoing   &&   ①排出的空气②废气
+outgoing gas   &&   废气
+outgoing jack   &&   输出塞孔，引出线
+outlet   &&   ①出口，出路②电源插座③排泄口，出口压力
+outlet box   &&   线匣头
+outlet check valve   &&   出油单向阀
+outlet cock   &&   出口塞子
+outlet device   &&   出口装置
+outlet of preheating wrap for intake   &&   进气预热罩出口
+outlet of sewer   &&   污水出口
+outlet of ventilating system   &&   通风系统出口
+outlet pipe   &&   出水管
+outlet sewer   &&   污水出口
+outlet sluice   &&   排水闸
+outlet temperature   &&   终点温度，出口温度
+outlet valve   &&   出口阀
+outlet velocity   &&   出口速度
+outlier   &&   剔除值
+outline   &&   外形，轮廓，略图，提纲，纲要
+outline dimensions   &&   外廓尺寸
+outloading conveyor   &&   出货输送机
+output   &&   ①输出，输出额②输出端③产品，(生)产量
+output area   &&   输出区
+output ballast resister   &&   镇流电阻
+output block   &&   输出字块
+output bus driver   &&   输出母线驱动器
+output capacitance   &&   输出电容
+output capacity   &&   出产量
+output cathode   &&   输出阴极
+output centralized system   &&   输出集中系统
+output characteristic   &&   输出特性
+output connection matrix   &&   输出联结矩阵
+output current   &&   输出电流
+output decentralized system   &&   输出分散系统
+output design   &&   输出设计
+output device   &&   输出单元，输出设备
+output energy   &&   输出能量
+output equation   &&   输出方程
+output equipment   &&   输出设备
+output error   &&   输出误差
+output error control   &&   输出出错控制
+output factor   &&   输出系数
+output feedback   &&   输出反馈
+output fluctuation   &&   输出波动
+output force or torque stability   &&   输出激振力或力矩的稳定性
+output gap   &&   输出隙
+output impedance   &&   输出阻抗
+output impedance of microphone   &&   传声器输出阻抗
+output information   &&   输出信息
+output link   &&   输出网络节
+output magazine   &&   接卡箱
+output matrix   &&   输出矩阵
+output mechanism   &&   输出机构
+output monitor interrupt   &&   输出监督程序中断
+output noise   &&   输出噪声
+output of systems analysis and design   &&   系统分析和设计输出
+output parameter   &&   输出参数
+output power   &&   输出功率
+output power measurement   &&   输出功率测量
+output prediction method   &&   输出预估法
+output printer   &&   输出打印机
+output punch   &&   输出穿孔器
+output rate   &&   生产率
+output record   &&   输出记录
+output regulation   &&   输出调节
+output resistance   &&   输出电阻
+output response   &&   输出反应，输出特性曲线
+output routine   &&   输出例行程序
+output shaft   &&   输出轴
+output shaft rotation clearance   &&   输出轴间隙角
+output shaft rotation range   &&   输出轴转角范围
+output shaft torque   &&   输出轴转矩
+output shaft with bevel pinion   &&   从动轴(带主动锥齿轮)
+output signal   &&   输出信号
+output signal one level   &&   输出信号“1”电平
+output signal zero level   &&   输出信号“0”电平
+output speed   &&   输出速度
+output stage   &&   输出级
+output state   &&   输出状态
+output stem travel clearance   &&   输出杆间隙位移
+output system   &&   输出系统
+output torque   &&   输出力矩
+output transformation   &&   输出变换
+output transformer   &&   输出变压器
+output truncated condensation   &&   被截输出缩合
+output truncation diagraph   &&   输出截断有向图
+output tube   &&   输出管
+output unit   &&   输出装置，输出设备
+output variable   &&   输出变量
+output variation   &&   输出变化
+output vector   &&   输出向量，输出矢量
+output voltage   &&   输出电压
+output winding   &&   输出绕组
+output word   &&   输出字
+output work   &&   输出功
+output-volume measurement   &&   产量计算
+outreach   &&   起重机臂伸出长度
+outrigger   &&   ①突起物②起重臂③悬臂梁④斜支柱，斜撑⑤突杆
+outrigger scaffolds   &&   挑出手脚架
+outsert molding   &&   金属嵌件上注塑
+outset dish wheel   &&   偏置轮辐车轮
+outside   &&   外部的 外侧 (用于文字位置)
+outside blade   &&   外切刃点
+outside caliper   &&   外卡钳(规)
+outside callipers   &&   外卡钳
+outside circle   &&   齿顶圆
+outside crank   &&   外曲拐，外曲柄
+outside diameter   &&   外径，大端直径
+outside extension   &&   外部电话分机
+outside heating devices   &&   外部加热设备
+outside lining   &&   ①欠气套②外隔板
+outside point diameter   &&   外切刀尖直径
+outside radius   &&   齿顶圆半径
+outside seam   &&   外缝
+outside stripper   &&   外侧式卸料板，外卸料器
+outside stripping section   &&   外部汽提段
+outside surface   &&   外表面
+outside temperature   &&   室外温度
+outside vibrator   &&   外模振荡器
+outside weld   &&   外焊
+outside-curling die   &&   外缘卷边模
+outsole   &&   脚，基底
+outward correspondences   &&   外向对应
+outward thrust   &&   外向推力
+outwear   &&   过量磨耗
+oval   &&   ①椭圆形②椭圆钢③卵形④椭圆(场地的)
+oval and round method   &&   椭圆-圆孔型系轧制法
+oval and square method   &&   椭圆-方孔型系轧制法
+oval countersunk rivet   &&   埋头椭圆头铆钉
+oval gasket   &&   椭圆形垫片
+oval gear flowmeter   &&   椭圆齿轮流量计
+oval groove   &&   椭圆孔型
+oval groove press   &&   椭圆孔型
+oval piston   &&   椭圆活塞，椭圆形活塞
+oval reel   &&   椭圆卷轴
+oval varnishing brush   &&   椭圆形电漆刷
+oval waveguide   &&   椭圆波导
+oval wheel flowmeter   &&   椭圆齿轮流量计
+oval-oval-oval method   &&   椭圆-椭圆孔型系统设计
+oval-round-oval method   &&   椭圆-圆-椭圆孔型系统设计
+oval-square-oval method   &&   椭圆-方-椭圆孔型系统设计
+ovality   &&   椭圆度
+ovaloid   &&   椭圆体
+oven   &&   ①炉，灶，烘炉②干燥箱，烘箱③恒温器
+oven ageing   &&   炉内老化，热力老化
+oven battery   &&   炉组
+oven coke   &&   炉焦(炭)
+oven hearth   &&   炉底，炉床
+oven sole   &&   炉底
+oven temperature   &&   箱温
+oven test   &&   耐热试验，焙烧试验
+oven top auxiliary   &&   焦炉炉顶设备
+oven-type furnace   &&   箱(灶)式炉，烘炉
+over capacity   &&   超负荷
+over carburization   &&   过度渗碳
+over carburizing   &&   过度渗碳
+over damped condition   &&   ①超过阻尼条件②过湿条件
+over expansion   &&   过度膨胀
+over packing   &&   过充填
+over press   &&   过压
+over pressure   &&   ．超压
+over roof   &&   顶盖(如炉子等)
+over slung worm transmission   &&   上置蜗杆传动
+over speed   &&   超速
+over strain   &&   过度应变，残余应变
+over weld   &&   过焊
+over-aging   &&   ①过度时效②过(度)老化
+over-current protection   &&   过(电)流保护，过电流保护
+over-filling   &&   模具过充满
+over-load meter   &&   过载仪
+over-pickling   &&   过酸洗
+over-reduced steel   &&   过还原钢
+over-rigid   &&   ①过剐的②多余杆
+over-speed test   &&   超速试验
+over-the-horizon radar   &&   超远程电离层雷达，超视距雷达
+over-the-horizon transmission   &&   超远程电离层传输，散射传输
+over-up dipping process   &&   叠层浸渍法(化)
+over-voltage   &&   ①过电压②超电压
+over-voltage crowbar   &&   过电压消弧电路
+over-voltage protection   &&   过电压保护
+over-voltage release   &&   过电压释放
+overageing   &&   过老化
+overall   &&   全面的，全部的
+overall accuracy   &&   总精确度
+overall arrangement   &&   总体布置
+overall attenuation   &&   总减少
+overall characteristic   &&   总特性(曲线)
+overall design   &&   总体设计
+overall dimension   &&   总体大小，总尺寸
+overall dimension scale   &&   全局比例，整体标注比例
+overall effectiveness   &&   全面效果
+overall efficiency   &&   总效率
+overall energy   &&   总能
+overall heat balance   &&   总的热平衡
+overall heating   &&   总热值
+overall height   &&   总高(度)
+overall information system   &&   全局信息系统
+overall length   &&   总长(度)
+overall merit   &&   综合评价
+overall objectives   &&   总体指标
+overall porosity   &&   总孔隙度
+overall prolongation   &&   总延伸
+overall properties   &&   综合性能
+overall reaction   &&   总反应
+overall response   &&   总响应
+overall size   &&   总尺寸
+overall speed   &&   总速率
+overall steering ratio   &&   转向系总传动比
+overall stroke volume   &&   全行程体积
+overall temperature rise   &&   总温升
+overall view of sedan interior   &&   整车透视图
+overall wear characteristic   &&   总磨损特性
+overall width   &&   总宽
+overannealling   &&   过退火
+overarm   &&   横杆，悬臂，横臂
+overbend   &&   过度弯曲
+overbending   &&   过弯(补偿回弹)
+overblowing   &&   过吹
+overblown steel   &&   过吹钢(转炉的)
+overbunching   &&   过聚束
+overburning   &&   过烧
+overcharge   &&   ①过充②超额需求③过量装载
+overcome   &&   克服，战胜
+overcompound   &&   过复励
+overcompounded motor   &&   过复励电动机
+overcooling austenite   &&   过冷奥氏体
+overcoupled circuit   &&   过耦合电路
+overcurrent   &&   过电流
+overcurrent protective device   &&   过电流保护装置
+overcurrent relay   &&   过电流继电器
+overcurrent release   &&   过电流断路器
+overdamped   &&   过阻尼的，强衰减的
+overdamped response   &&   过阻尼响应
+overdamping   &&   非周期阻尼，过阻尼
+overdraft   &&   ①过压缩②过拉拔③轧件上弯
+overdrive   &&   超速传动，超速档
+overdrive gear   &&   超速传动
+overdriven amplifier   &&   过激励放大器
+overfall   &&   ①溢流②溢流堰，溢出口
+overfire draft   &&   火上风压
+overfiring   &&   过烧，烧损，烧毁
+overflow   &&   ①溢出②流失胶，逃边胶 ③溢水口，溢水沟④溢流，充满，过滤⑤高溢，溢位
+overflow backet   &&   溢出桶
+overflow cutting machines for aluminium wheels   &&   铝轮冒口切断机
+overflow error   &&   溢出错误
+overflow indication   &&   溢出指示
+overflow indicator   &&   溢出指示器
+overflow record   &&   溢出记录
+overflow storage   &&   溢出存储器
+overform flanging die   &&   凸缘整形模
+overgear   &&   超速档
+overgrinding   &&   研磨过度，过度粒化
+overground cable   &&   架空电缆
+overhang   &&   ①外悬②货物后悬
+overhang crane   &&   悬臂起重机
+overhang crank   &&   外伸曲柄，轴端曲柄
+overhang crankshaft   &&   外伸曲轴
+overhanging beam   &&   悬臂粱，悬挑梁
+overhanging carrier   &&   架空运输设备
+overhanging hammer   &&   单臂锤
+overhanging pile driver   &&   伸臂式打桩机
+overhanging pipe   &&   悬空管
+overhanging press   &&   开式压力机，悬臂式压力机
+overhanging-type steam hammer   &&   单柱汽锤
+overhaul   &&   修理
+overhauling   &&   大修
+overhead   &&   顶置凸轮轴
+overhead cableway   &&   架空索道
+overhead carrier   &&   高架运输工具
+overhead chain conveyor   &&   架空链索输送机
+overhead conductor   &&   架空电线
+overhead conveyer   &&   架空式输送机
+overhead crane   &&   天车，桥式吊车，高架起重机，行车
+overhead crane with electric hoist   &&   电动葫芦桥式起重机
+overhead crossing   &&   架空线网交叉器
+overhead door   &&   升降门，上升卷门
+overhead driller   &&   向上式凿岩机
+overhead drive press   &&   上传动压力机
+overhead feeder   &&   架空馈线
+overhead ground conductor   &&   架空地线，架空避雷线
+overhead ground wire   &&   架空地线，架空避雷线
+overhead illumination   &&   顶部照明
+overhead lighting   &&   顶部照明
+overhead line   &&   架空线路
+overhead line structure   &&   线路杆塔
+overhead main   &&   ①架空干管道②上分式干管道
+overhead monorail   &&   高架单轨道
+overhead pipe   &&   架空管道
+overhead pipe grid   &&   架空管网
+overhead pipe network   &&   架空管网
+overhead pipe system   &&   架空管网
+overhead position   &&   仰焊位置
+overhead railway   &&   高架铁道
+overhead shovel   &&   过顶铲
+overhead tank   &&   压力罐
+overhead transmission line   &&   架空输电线
+overhead transmission line reconnaissance   &&   架空线路巡线
+overhead transportation   &&   高架运输
+overhead travelling crane   &&   移动式高架起重机，桥式吊车
+overhead trolley system   &&   架空电车线路系统
+overhead valve   &&   顶置气门[OHV]
+overhead valve engine   &&   顶置气门发动机
+overhead welding   &&   仰焊，全位置焊
+overhead wire   &&   架空线，架空电线
+overhead wire locomotive   &&   桥式电线机车
+overhead-contact system   &&   架空接触网系统
+overhead-valve engine   &&   顶置气门发动机
+overhead-valves   &&   顶阀
+overheat   &&   过热
+overheated steel   &&   过热钢
+overheated structure   &&   过热组织
+overheating   &&   过热，过分加热
+overheating of end windings and parts   &&   端部过热，端部温升
+overhung mounting   &&   双支承安装
+overhung wall winch   &&   挂墙绞车
+overhydrocracking   &&   深度加氢裂化
+overladen   &&   超载的，超负荷的
+overlap   &&   交叠，重叠，复叠
+overlap coefficient   &&   重叠系数
+overlap contact ratio   &&   纵向重合度
+overlap gate   &&   重迭浇口
+overlap joint   &&   重叠结合
+overlap peaks   &&   重叠峰
+overlap population   &&   重叠分布
+overlap radar   &&   重叠雷达
+overlap signaling   &&   交选信号方式
+overlap test   &&   重叠试验
+overlaping   &&   重叠
+overlapped channel   &&   重叠通道
+overlapped memories   &&   重叠存储器
+overlapping   &&   重叠操作
+overlapping attributes   &&   交叠属性
+overlapping averages   &&   滑动平均
+overlapping band   &&   能带重叠
+overlapping event   &&   交迭事件
+overlapping of sounds   &&   声音复叠
+overlapping sets   &&   交叠集
+overlay   &&   覆盖，覆叠，涂覆
+overlay clad plate   &&   两层或三层的双金属板
+overlay path   &&   重叠通路
+overlay program   &&   重叠程序
+overlay segments   &&   重叠(程序)段
+overlay transistor   &&   覆盖式晶体管
+overlay tree   &&   树形重叠
+overlaying   &&   堆焊
+overline   &&   上划线 顶线，重叠行
+overload   &&   ①超载，过载②超负荷
+overload alarm control   &&   过载警戒控制
+overload breakage   &&   超负荷破裂
+overload capacity   &&   过载容量，过载电流
+overload factor   &&   超负荷系数
+overload flow-rate   &&   过载流量
+overload level   &&   过载电平
+overload meter   &&   超载测量计
+overload protection   &&   过载保护(装置)
+overload protection device   &&   过载保护装置
+overload protective system   &&   过载保护系统
+overload protector   &&   过载保护装置
+overload relay   &&   过载继电器
+overload relief bed   &&   过载保护工作台
+overload safety device   &&   过载安全装置
+overload signal indicator   &&   过载信号指示器
+overload test   &&   过载试验
+overloading   &&   过载，超载
+overly metallization   &&   敷镀金属
+overmilling   &&   过度捏和，塑炼过度，过塑炼
+overmoded waveguide   &&   多模波导
+overmodulation   &&   过调制
+overplugging   &&   额外插入
+overpotential   &&   过电位
+overpressure characteristic   &&   超压特性
+overpressure failure   &&   超压破裂
+overpunch   &&   附加穿孔
+overquenching   &&   过度淬火，淬火过度
+overrange   &&   过范围
+overrange limit   &&   过范围限
+overrelaxation   &&   超松弛法
+override   &&   ①替代，取代②忽略③过载④超越(程)⑤超弛控制⑥制动闸失灵
+overrider   &&   保险杠挡
+overriding   &&   主要的，占优势的
+overriding process control   &&   超弛过程控制
+overrun   &&   ①溢出，泛滥②超限运转③惯性运转
+overrun braking   &&   惯性制动
+overrun clutch   &&   超越离合器
+overrun coupling   &&   超越联轴节
+overrun fuel cutoff   &&   超速停止供油阀
+overrunning clutch   &&   单向离合器，超越离合器
+overrunning clutch starter motor   &&   带单向离合器的起动机
+oversaturated   &&   过饱和的
+overscanning   &&   过扫描
+oversea location   &&   海外仓
+overshoot   &&   ①超越，过度②过冲③超调量④过振比
+overshot loader   &&   上倾式装载机
+overshot wheel   &&   上射转水轮
+oversize for machining   &&   切削余量
+oversized protection device   &&   过速保护装置
+overspeed governor   &&   限速器
+overspeed limit device   &&   限速器
+overspeed protection   &&   超速保护
+overspeeding   &&   超速
+oversquare engine   &&   超方发动机
+oversteer   &&   过多转向
+overstrained   &&   超限应变，过度变形的
+overstress   &&   过度应力，超限应力
+overstretching   &&   过拉伸
+overswing   &&   ①超越②摆动过头③过辐射④逸出⑤过调节，超出规定
+overtemperature protection device   &&   超温保护装置
+overtempering   &&   过(度)回火
+overtension   &&   ①过电压②超电压
+overthrow distortion   &&   过冲失真
+overtone   &&   ①浓色，色调过深②谐波③泛音，陪音，和音
+overtone-crystal   &&   谐波晶体
+overturning moment   &&   倾覆力矩
+overvibrate   &&   过度振动
+overvibration   &&   过度振动
+overview panel   &&   总貌画面
+overvoltage protection   &&   过电压保护
+overvoltage protection varistor   &&   过电压保护电压敏电阻器
+overweight   &&   超限重量
+overwrite   &&   冲掉改写，覆盖 取代
+ovonic memory switch   &&   双向记忆开关
+ovonic threshold switch   &&   双向阈值开关
+ovor-head camshaft   &&   顶置凸轮轴
+own code   &&   专用码，扩充工作码
+own quantity   &&   固有量
+owner indicator   &&   自显指示剂
+owner of a DBTG set   &&   DBTG系主
+ox-eye   &&   卵形老虎窗
+oxacyclopropane   &&   环氧乙烷，氧杂环丙烷
+oxalate   &&   草酸盐，草酸酯
+oxalic acid   &&   草酸，乙二酸
+oxamic hydrazide   &&   草氨酰肼
+oxamide   &&   二草酰胺，乙二酰二胺
+oxazine dye   &&   呃嗪染料
+oxazole   &&   恶唑
+oxazoline   &&   恶唑啉
+oxazolone   &&   恶唑酮
+oxene   &&   环氧乙烯
+oxidability   &&   可氧化性
+oxidant   &&   氧化剂
+oxidase   &&   氧化酶
+oxidated asphalt   &&   氧化沥青
+oxidation   &&   氧化
+oxidation aging   &&   氧化老化，氧化降解
+oxidation and reduction process   &&   氧化还原法
+oxidation behaviour   &&   氧化性能
+oxidation by air   &&   空气氧化
+oxidation cleavage   &&   氧化断裂
+oxidation colourizing   &&   氧化显色
+oxidation colours   &&   氧化染料
+oxidation discharge   &&   氧化拔染
+oxidation dye   &&   氧化染料
+oxidation film   &&   氧化膜
+oxidation inhibitor   &&   氧化抑制剂
+oxidation material   &&   氧化物质，氧化材料
+oxidation number   &&   氧化数(氧化态)
+oxidation polymerization   &&   氧化聚合
+oxidation pond   &&   氧化池，氧化塘
+oxidation potential   &&   氧化势
+oxidation preventive   &&   抗氧化剂
+oxidation rate   &&   氧化速率，氧化速度
+oxidation retarder   &&   氧化抑制剂
+oxidation susceptibility   &&   氧化敏感性
+oxidation sweetening   &&   氧化脱硫
+oxidation tendency   &&   氧化倾向
+oxidation tint   &&   氧化色，回火色
+oxidation type semiconductor   &&   氧化型半导体
+oxidation zone   &&   氧化带
+oxidation-inhibited oil   &&   氧化抑制油
+oxidation-reduction catalyst   &&   氧化还原催化剂
+oxidation-reduction indicator   &&   氧化还原指示剂
+oxidation-reduction ion exchange resin   &&   氧化还原型离子交换树脂
+oxidation-reduction potential   &&   氧化-还原电位，氧化还原电势
+oxidation-reduction reaction   &&   氧化还原反应
+oxidation-reduction titration   &&   氧化还原滴定法
+oxidation-resistant alloy   &&   抗氧化合金
+oxidation-resistant material   &&   抗氧化材料
+oxidation-resistant oil   &&   抗氧化润滑油
+oxidation-resistant steel   &&   不锈钢，抗氧化钢
+oxidation-resisting   &&   抗氧化的
+oxidation-resisting steel   &&   不锈钢，抗氧化钢
+oxidational loss   &&   (合金元素)氧化损失
+oxidative aging   &&   氧老化
+oxidative attack   &&   氧化侵蚀
+oxidative bleaching   &&   氧化漂白
+oxidative chemical degradation   &&   氧化裂解
+oxidative coupling   &&   氧化偶合
+oxidative cyclization   &&   氧化环化作用
+oxidative degradation   &&   氧化降解(作用)
+oxidative dehydrogenation   &&   氧化脱氢
+oxidative polymerization   &&   氧化聚合(法)
+oxidative resistance   &&   耐氧化性，氧化稳定性
+oxidative stability   &&   氧化稳定性
+oxide   &&   ①氧化物，氧化皮②氧化的
+oxide alloy filament   &&   氧化物掺杂丝，氧化物熔合丝
+oxide cathode   &&   氧化物阴极
+oxide ceramics   &&   氧化物陶瓷
+oxide coated cathode   &&   氧化物涂覆阴极
+oxide coating   &&   氧化性涂料，氧化性表皮，氧化物敷层
+oxide colour   &&   氧化物颜料
+oxide etch   &&   氧化腐蚀
+oxide film   &&   氧化膜，氧化膜避雷器
+oxide film treatment   &&   表面氧化处理，氧化膜处理
+oxide glass   &&   氧化物玻璃
+oxide glass semiconductor   &&   氧化物玻璃半导体
+oxide inclusion   &&   氧化夹杂物
+oxide layer   &&   氧化物层
+oxide masking   &&   氧化物掩蔽
+oxide mineral   &&   氧化物矿物
+oxide nuclear fuel   &&   氧化物核燃料
+oxide of aluminium   &&   氧化铝，矾土
+oxide ore   &&   氧化矿
+oxide passivation   &&   氧化物钝化
+oxide pellet   &&   氧化球团矿
+oxide phase   &&   氧化物相
+oxide print   &&   氧印法
+oxide refractory   &&   氧化物耐火材料
+oxide replica   &&   氧化物复型
+oxide semiconductor   &&   氧化物半导体
+oxide skin   &&   氧化皮
+oxide source   &&   氧化物扩散源
+oxide strengthened alloy   &&   氧化物强化合金
+oxide thermistor   &&   氧化物热敏电阻器
+oxide-based cermet   &&   氧化物基金属陶瓷
+oxide-based composite   &&   氧化物基复合材料
+oxide-coated filament   &&   敷氧化物灯丝
+oxide-dispersed alloy   &&   氧化物弥散强化合金
+oxide-filore   &&   氧化物纤维
+oxide-free   &&   无氧化物的
+oxide-fuel reactor   &&   氧化物燃料(反应)堆
+oxide-induced inversion   &&   氧化物感应反型
+oxide-sealed diffusion   &&   氧化物封闭扩散
+oxidizable material   &&   易氧化材料
+oxidization   &&   氧化
+oxidize   &&   氧化
+oxidized asphalt   &&   氧化沥青
+oxidized cellulose   &&   氧化纤维素
+oxidized colour   &&   氧化(显色的)染料
+oxidized flame   &&   氧化焰
+oxidized metal   &&   氧化金属
+oxidized percentage   &&   氧化百分率
+oxidized pyrolysis   &&   氧化热解
+oxidized surface   &&   氧化表面
+oxidized-decomposition catalyst   &&   氧化分解催化剂
+oxidizer   &&   氧化剂
+oxidizing   &&   氧化
+oxidizing agent   &&   氧化剂
+oxidizing atmosphere   &&   氧化气氛
+oxidizing burning   &&   氧化焰烧成
+oxidizing condition   &&   氧化条件
+oxidizing flame   &&   氧化焰
+oxidizing furnace   &&   氧化(气氛)炉
+oxidizing medium   &&   氧化剂
+oxidizing period   &&   氧化期
+oxidizing reaction   &&   氧化反应
+oxidizing temperature   &&   氧化温度
+oxidizing zone   &&   氧化带，氧化层
+oxido-indicator   &&   氧化还原指示剂
+oxido-reduction   &&   氧化还原作用
+oxidoreductase   &&   氧化还原酶
+oximation reaction   &&   肟化反应
+oxime   &&   肟
+oxime rearrangement   &&   肟重排
+oxine (8-hydroxyquinoline)   &&   8一烃基喹啉
+oxirane   &&   环氧乙烷
+oxirane formation   &&   环氧化作用
+oxirane group   &&   环氧基
+oxirane value   &&   环氧乙烷值
+oxirene   &&   环氧乙烯
+oxo-catalyst   &&   羧基合成催化剂
+oxo-compound   &&   氧基化合物
+oxo-reaction   &&   羰化反应，含氧化合物合成(反应)
+oxo-solvent   &&   含氧溶剂
+oxo-synthesis   &&   氧化合成，羧基合成
+oxozonide   &&   氧-臭氧化合物
+oxy   &&   ①氧基，氧化②羟基③含氧的
+oxy-acetylene cutting   &&   氧气乙炔切割，气割
+oxy-acetylene scarfing   &&   氧乙炔焰清理
+oxy-are cutting   &&   氧气电弧切割
+oxy-austenite   &&   含氧奥氏体(固溶有氧气的奥氏体)，氧化奥氏体，氧化γ铁固溶体
+oxy-ferrite   &&   含氧铁素体(固溶有氧气的铁素体)
+oxy-hydrogen torch   &&   氢氧气炬
+oxy-propane cutting   &&   氧丙烷切割
+oxyacetylene   &&   氧乙炔
+oxyacetylene blowpipe   &&   氧气乙炔喷焊器，氧乙炔吹管
+oxyacetylene cutter   &&   氧化乙炔切(断)割器
+oxyacetylene flame   &&   氧气乙炔焰
+oxyacetylene flame cutting   &&   氧乙炔焰切割，气割
+oxyacetylene flame hardening   &&   氧乙炔火焰硬化(法)
+oxyacetylene flame impingement   &&   氧乙炔焰冲击
+oxyacetylene torch   &&   氧(乙)炔喷焊器
+oxyacetylene welding   &&   氧乙炔焊接，气焊
+oxycoal gas   &&   氧煤气，灯用煤气
+oxydase   &&   氧化酶
+oxydation   &&   氧化作用
+oxyde   &&   氧化，氧化物
+oxydehydrogenation   &&   氧化脱氢
+oxydic film   &&   氧化膜
+oxydizing flame   &&   氧化焰
+oxygen   &&   氧O(17)
+oxygen blasting   &&   吹氧
+oxygen blowing   &&   吹氧
+oxygen blown converter   &&   氧气转炉
+oxygen bomb   &&   氧弹，氧气弹
+oxygen bomb calorimeter   &&   氧弹式热量计
+oxygen bottom blown converter steelmaking   &&   氧气底吹转炉炼钢
+oxygen cell   &&   充气电池
+oxygen converter process   &&   氧气转炉(炼钢)法
+oxygen enrichment   &&   富氧鼓风
+oxygen inclined blown converter   &&   氧气斜吹转炉
+oxygen lance   &&   吹氧管
+oxygen lance cutting   &&   氧气切割
+oxygen lime powder process   &&   氧气顶吹喷(石灰)粉转炉炼钢法
+oxygen pressure gauge   &&   氧压力表
+oxygen regulator   &&   氧气减压器
+oxygen side blown converter   &&   氧气侧吹转炉
+oxygen side blown converter steel making   &&   氧气侧吹转炉炼钢
+oxygen smelting   &&   氧气熔炼
+oxygen steel   &&   吹氧钢
+oxygen steel making   &&   氧气炼钢
+oxygen steelmaking process   &&   顶吹氧法转炉炼钢
+oxygen top blowing   &&   顶吹氧法炼钢
+oxygen top blown converter   &&   氧气顶吹转炉
+oxygen top blown converter steel making   &&   氧气顶吹转炉炼钢
+oxygen welding   &&   氧焊
+oxygen-absorption corrosion   &&   吸氧腐蚀，氧去极化腐蚀
+oxygen-acetylene flame spraying coating   &&   氧-乙炔火焰喷涂涂层
+oxygen-acetylene welding   &&   氧乙炔焊，气焊
+oxygen-blown steelmaking   &&   吹氧炼钢
+oxygen-containing alloy   &&   含氧合金
+oxygen-containing gas   &&   含氧气体
+oxygen-converter steel   &&   顶吹氧转炉钢
+oxygen-deficient fuel   &&   低氧燃料
+oxygen-enriched air converting   &&   富氧吹炼
+oxygen-enriched air roasting   &&   富氧焙烧
+oxygen-enriched air smelting   &&   富氧熔炼
+oxygen-free copper   &&   无氧铜
+oxygen-free high-conductivity copper   &&   高导电无氧铜
+oxygen-oil rocket fuel   &&   氧油火箭燃料
+oxygen-refined steel   &&   吹氧精炼钢，用氧精炼钢
+oxygenate pressure casting   &&   充氧压力铸造
+oxygenates   &&   充氧剂，以氧处理，氧化，充氧
+oxygenation   &&   氧化作用
+oxyhydrogen blowpipe   &&   氢氧吹管
+oxyhydrogen welding   &&   氢氧焊接
+ozone analyzer   &&   臭氧分析仪
+ozone cracking   &&   臭氧裂纹
+ozone resistance   &&   抗臭氧性
+ozone sonde   &&   臭氧探空仪
+ozone spectrophotometer   &&   臭氧分光光度仪

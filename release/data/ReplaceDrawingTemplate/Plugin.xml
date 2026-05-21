@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Plugin>
-  <name>替换模板</name>
-  <explain>批量替换工程图模板</explain>
-  <classid>2090_2219_2222</classid>
-  <startexe>ReplaceDrawingTemplate.exe</startexe>
-  <version>2.0</version>
-</Plugin>

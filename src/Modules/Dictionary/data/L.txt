@@ -1,0 +1,4880 @@
+L capture   &&   L俘获
+L carrier system   &&   L载波系统
+L display   &&   L型显示
+L grader   &&   L分级器
+L tube   &&   L管
+L-band   &&   L波段(为390～1550 Mc)频率
+L-bead cylinder   &&   L形头气缸
+L-head engine   &&   L型燃烧室发动机
+L-iron   &&   角钢，不等边角钢
+L/D ratio   &&   长径比
+LASER   &&   (Light Application by Stimulated Emission of Radiation) 激光器，激光
+LC branch   &&   电感电容支路
+LC circuit   &&   电感电容电路
+LC coupling   &&   LC耦合
+LC network   &&   电感与电容网络
+LC oscillator   &&   感容振荡器
+LCD   &&   (Liquid Crystal Display) 液晶显示
+LCD Monitors   &&   液晶监视器
+LCD Projectors   &&   液晶投影机
+LCD TVs   &&   液晶电视
+LCGO   &&   (Light Catalytic Gas Oil) 催化轻柴油
+LCR meter   &&   电感电容电阻测量计
+LCR-bridge   &&   电感电容电阻测量电桥
+LD converter   &&   氧气顶吹转炉
+LD coupler   &&   (Laser Diode) 激光二极管耦合器
+LD process   &&   氧气顶炼钢法
+LDA   &&   (Laser Doppler Anemometry) 激光多普勒风速和风向测定法
+LDC   &&   (Lower Dead Center) 下止点
+LED   &&   (Light Emitting Diode) 发光二极管
+LED Chips for Communication   &&   发光二极体芯片、晶粒(通信用)
+LED Chips not for Communication   &&   发光二极体芯片、晶粒(非通信用)
+LED Color Printers   &&   彩色LED印表机
+LED Display Systems   &&   发光二极体显示(幕)系统
+LED Displays   &&   发光二极体显示器
+LED Facsimiles   &&   发光二极体传真机
+LED Monochrome Printers   &&   单色LED印表机
+LED Wafers for Communication   &&   发光二极体晶圆(通信用)
+LED Wafers not for Communication   &&   发光二极体晶圆(非通信用)
+LEV   &&   (Low Emission Vehicle (CARB emission standard))  (按加利福尼亚大气资源局排放标准的)低排放汽车
+LGO   &&   (Light Gas Oil) 轻柴油
+LH junction   &&   低-高结
+LISP   &&   用于人工智能的表处理语言(list processor)
+LLL   &&   (Low Level Logic) 低电平逻辑(电路)
+LLL gate   &&   低电平逻辑门电路
+LNG   &&   (Liquefied Natural Gas) 液化天然气
+LOT   &&   (Light-Off Time (catalytic converters))  (催化转换器)起动时间
+LPG   &&   (Liquefied Petroleum Gas) 液化石油气
+LSI   &&   (Large Scale Integration) 大规模集成
+LSI circuit   &&   大规模集成电路
+LTITF   &&   (Low Temperature Flow Test) 低温流动试验
+LVI   &&   (Low Viscosity Index (oils)) 低粘度指数(油料的)
+LaB6 cathode   &&   六硼化镧阴极
+Lagrange multiplier   &&   拉格朗日乘子
+Lagrange multiplier method   &&   拉格朗日乘子法[LMM]
+Lagrange multiplier procedure   &&   拉格朗日乘子方法
+Lagrange point   &&   拉格朗日点
+Lagrange problem   &&   拉格朗日问题
+Lagrange's interpolation   &&   拉格朗日插值法，拉格朗日内插法
+Lagrange's interpolation polynomial   &&   拉格朗日插值多项式，拉格朗日内插多项式
+Lagrange's planetary equation   &&   拉格朗日行星运动方程
+Lagrangian   &&   拉格朗日式，拉格朗日算子，拉格朗日函数
+Lagrangian functional   &&   拉格朗日泛函
+Lagrangian method   &&   拉格朗日法
+Lagrangian operator   &&   拉格朗日算符
+Laguerre functions   &&   拉盖尔函数
+Laguerre theorem   &&   拉盖尔定理
+Laguerre's polynomials   &&   拉盖尔多项式
+Laman spectrophotometer   &&   拉曼分光光度计
+Lambert's cosine law   &&   朗伯余弦定律
+Lambert's emission law   &&   朗伯发射定律
+Lambertian distribution   &&   朗伯分布漫反射体
+Lambertian reflector   &&   朗伯漫反射体
+Lambertian source   &&   朗伯源(辐射电磁波的发射体)
+Lancashire boiler   &&   兰开夏式锅炉，兰开夏式双烟道锅炉
+Lane X-ray diffraction method   &&   劳厄X射线衍射法
+Lane X-ray method   &&   X射线分析法
+Lane diffraction pattern   &&   劳厄衍射图，劳厄衍射花样
+Lane method   &&   劳厄法
+Lane method of crystal analysis   &&   劳厄晶体分析法
+Lane photograph   &&   劳厄照相
+Lane spot   &&   劳厄斑点
+Lane transmission photograph   &&   劳厄透射照相
+Language Process Program   &&   语言处理程序
+Lanova  aircell   &&   兰诺瓦空气室
+Lanova head   &&   兰诺瓦缸盖
+Lanz pearlite iron   &&   兰兹珠光体铸铁
+Laplace equation   &&   拉普拉斯方程
+Laplace law   &&   拉普拉斯定律
+Laplace transform   &&   拉普拉斯变换(式)
+Laplace transformation   &&   拉普拉斯变换
+Laplace-Gauss distribution   &&   拉普拉斯-高斯分布
+Laplacian operation   &&   拉普拉斯运算
+Laplacian operator   &&   拉普拉斯算子，调和算子
+Lapping   &&   研磨
+Laser Absorbers   &&   激光光吸收体(safty equipment)
+Laser Beam Profile Measuring Equipment   &&   激光光束波形量测器
+Laser Cells   &&   激光用盒
+Laser Coagulators   &&   激光光凝固设备(Argon，YAG)
+Laser Color Printers   &&   彩色激光印表机
+Laser Control Equipment   &&   激光控制设备
+Laser Defect Inspection Equipment   &&   激光缺陷检查设备
+Laser Digital Color Copy Machines   &&   彩色激光数位影印机
+Laser Digital Monochrome Copy Machines   &&   单色激光数位影印机
+Laser Disc Players   &&   LD影碟机
+Laser Discs   &&   LD影盘片
+Laser Displacement Meters   &&   激光移位计
+Laser Displays   &&   激光显示器
+Laser Doppler Blood Current Velocity Meters   &&   激光都卜勒血流计
+Laser Doppler Rotational Speed Meters   &&   激光都卜勒转速仪
+Laser Doppler Velocimeters   &&   激光都卜勒测速计
+Laser Dust Monitors   &&   激光粉尘监视器，粒径量测器
+Laser Dyes   &&   激光用染料
+Laser Extension Meter   &&   激光拉伸计
+Laser Facsimiles   &&   激光传真机
+Laser Fingerprint Detectors   &&   激光指纹检测器
+Laser Flow Cyto Meters   &&   激光流体细胞仪
+Laser Glass   &&   激光玻璃
+Laser Lenses   &&   激光透镜
+Laser Levels   &&   激光水平仪
+Laser Marking-off Equipment   &&   激光标线设备
+Laser Microscopes   &&   激光显微镜
+Laser Mirrors   &&   激光面镜
+Laser Modulation Distance Meters   &&   激光调变测距方式距离感测器
+Laser Monochrome Printers   &&   单色激光印表机
+Laser Needles for Acupuncture   &&   激光针(针灸用)
+Laser Outer Diameter Measuring Sensors   &&   激光外径测定器
+Laser Pointers   &&   激光指示器
+Laser Pollution Detective Devices   &&   激光公害检测设备
+Laser Q-Switches   &&   激光Q开关
+Laser Rods   &&   激光棒
+Laser Security Surveillance Equipment   &&   人体检知感测器，激光保全设备
+Laser Slabs   &&   激光板
+Laser Surface Inspection Equipment   &&   激光表面检查设备
+Laser Theodolite Transits   &&   激光经纬仪
+Laser Thermal Constants Measurement Equipment   &&   激光热常数量测设备
+Laser Thickness Gauges   &&   激光厚度计
+Laser Tubes and Bores   &&   激光管
+Laser cutting   &&   激光切割
+Laser cutting for SMT stensil   &&   激光钢板切割机
+Lathe bench   &&   车床工作台
+Latin cube   &&   拉丁立方
+Latin square   &&   拉丁方
+Laue pattern   &&   劳厄图
+Lautal alloy   &&   劳塔尔铝铜合金
+Lautal metal   &&   劳塔尔铝铜合金
+Laval nozzle   &&   拉瓦尔喷嘴
+Layout   &&   布局 配置
+Layout Wizard   &&   布局向导
+Layout from Template   &&   来自样板的布局
+Layrub coupling   &&   拉鲁布挠性万向节
+Layrub joint   &&   拉鲁布挠性万向节
+Lebesgne-Stieltjes integral   &&   勒贝格-斯蒂尔杰斯积分
+Lebesgue area   &&   勒贝格面积
+Lebesgue integral   &&   勒贝格积分
+Lebesgue measure   &&   勒贝格测度
+Lebesgue number   &&   勒贝格数
+Lebesgue theorem   &&   勒贝格定理
+Leblanc connection   &&   勒布朗接法(电机)
+Leblanc system   &&   勒布朗系统(二相变三相)
+Lecher line   &&   勒谢尔线(用来测试射频频率的一种传输线)
+Lecher wire   &&   勒谢尔线(用来测试射频频率的一种传输线)
+Lecher wire resonator   &&   勒谢尔线潜振器
+Lechesne alloy   &&   莱切森铜镍合金
+Ledebur's bearing metal   &&   莱德伯尔锌基轴承合金(Sn 17.5％，Cu 5.5％，余为Zn)
+Ledeburite   &&   莱氏体
+Ledeburitic steel   &&   莱氏体钢
+Legendre function   &&   勒让德函数
+Legendre polynomial   &&   勒让德多项式
+Legendre transformation   &&   勒让德变换
+Legendre's coefficient   &&   勒让德系数
+Legendre's condition   &&   勒让德条件
+Lemoine   &&   莱莫因前轴
+Lenz law   &&   楞次定律
+Leonard system   &&   伦纳德制(发电机、电动机控制方式)
+Lethargy   &&   ①不活泼②勒(对数能量损失方式)③衰减系数
+Leval's alloy   &&   雷瓦尔铜银共晶合金
+Levi pseudo-convex   &&   列维伪凸
+Lewis acid catalyst   &&   刘易斯酸催化剂
+Lewis's alloy   &&   刘易斯锡铋合金
+Li-doped solar cell   &&   掺锂太阳电池
+Liapunov function   &&   李雅普诺夫函数
+Liapunov stability   &&   李雅普诺夫稳定性
+Liapunov theorem   &&   李雅普诺夫定理
+Liapunov vector function   &&   李雅普诺夫向量函数
+Liapunov's second method   &&   李雅普诺夫第二方法
+Lichtenberg metal   &&   里希腾伯格易熔合金(Pb 30％，Sn 20％，Bi 50％)
+Lidar light detection and ranging   &&   光探测和测距，光雷达
+Lie algebra   &&   李代数
+Lie derivative   &&   李导数
+Lie transformation   &&   李变换
+Lie's quadric   &&   李二次曲面
+Lion bearing alloy   &&   莱昂轴承合金(Sn 70％～89％，Cu 8％～30％)
+Liouville equation   &&   刘维尔方程
+Liouville number   &&   刘维尔数
+Liouville's function   &&   刘维尔函数
+Liouville's theorem   &&   刘维尔定理
+Lipowitz alloy   &&   利波维茨低温易熔合金
+Lipowitz's metal   &&   利波维兹低熔点合金
+Little's alioy   &&   利特尔铜锌合金(Cu 67％，Sn 26％，Zn 2.45％，As 1.5％)
+Live Video Conferencing   &&   活动视频会议
+Llapunov type number   &&   李雅普诺夫示性数，李雅普诺夫型数
+Lo-Ex   &&   劳-爱克斯铝合金(做活塞用)
+Local Area Network   &&   局域网[LAN]
+Local Area Network Architecture   &&   局域网络体系结构
+Local Area Network Hardware Components   &&   局域网的硬件组成
+Local Area Network Protocol Standards   &&   局域网络协议标准
+Local Operating Net Works   &&   局部操作网络
+London equation of superconductivity   &&   伦敦超导曲线方程
+London superconductor   &&   伦敦超导体
+Loran chart   &&   罗兰导航图
+Loran navigation   &&   罗兰导航
+Lorentz coil   &&   洛伦兹磁线圈
+Lorentz field   &&   洛伦兹磁场
+Lorentz force   &&   洛伦兹磁力
+Lorentz local field   &&   洛伦兹磁定域场
+Luders band   &&   吕德斯带
+Luders line   &&   吕德斯线
+Luders slip   &&   吕德斯滑移
+Luminance Meters   &&   辉度计
+Lune zone   &&   劳厄带
+Lux   &&   勒克司(照度单位)
+Lyot filter   &&   利奥滤光器
+label   &&   标签，标记，标志，标号，标牌，符号，记号
+label coding   &&   标号编码
+label data   &&   标号数据
+label delimiter   &&   标号定义符
+label field   &&   标号字段，标号区段
+label language   &&   标号语言
+label printing machine   &&   标签印刷机
+labelled atom   &&   标记原子，显迹原子，示踪原子
+labelled block   &&   标号块
+labelled data stream   &&   有标号数据流
+labelled graph   &&   标号图，标记图，标定图
+labelled network   &&   标号网络
+labelling   &&   导入示踪原子，引入示踪原子，加标签，做标记
+labelling method   &&   标号法，标号记算法
+labiate ladle   &&   倾动式浇包，转包
+labile state   &&   不稳定状态，易变(状)态
+lability   &&   不稳定性
+labolink   &&   实验室链路计算机网(日本京都大学)
+laboratory   &&   ①实验室，化验室，试验室②炉膛，熔炼室
+laboratory automation design   &&   实验室自动化设计
+laboratory automation system   &&   实验室自动化系统
+laboratory computer   &&   实验室计算机
+laboratory coordinate   &&   实验室坐标系
+laboratory data base   &&   实验室数据库
+laboratory effects   &&   实验室效果(制造音响效果等)
+laboratory equipment   &&   实验室设备
+laboratory reliability test   &&   实验室可靠性试验
+laboratory salinometer   &&   实验室盐度计
+laboratory simulation   &&   实验室模拟
+laboratory-size reactor   &&   实验室型反应堆
+labradorite   &&   拉长石(即钠钙斜长石)
+labyrinth   &&   迷宫
+labyrinth algorithm   &&   迷宫算法
+labyrinth bearing   &&   迷宫轴承，曲径式密封轴承
+labyrinth box   &&   迷宫式密封箱
+labyrinth gland   &&   迷宫式压盖，迷宫式封套
+labyrinth oil retainer   &&   迷宫式集油器
+labyrinth packing   &&   迷宫式密封
+labyrinth piston compressor   &&   迷宫活塞式压缩机
+labyrinth seal   &&   迷宫室密封，迷宫密封
+labyrinth teeth   &&   迷宫齿
+labyrinth viewing device   &&   迷宫式窥视装置
+labyrinth-grease seals   &&   迷宫式润滑脂封闭器
+lace   &&   全穿孔
+lace frame   &&   花边织机
+lace machine   &&   花边机
+lacerating machine   &&   拉力试验机，切碎装置
+lacing   &&   ①联缀，单缀②编织③束紧，分编
+lack of augment   &&   准线偏斜，中心线偏斜，未对齐
+lack of balance   &&   不平衡
+lack of fusion   &&   未熔合，未熔透
+lack of penetration   &&   未溶穿，未焊透
+lack of resolution   &&   清晰度欠佳，分辨率不足
+lack of solution   &&   清晰度欠佳，分辨率不足
+lack of uniformity   &&   不均匀
+lacquer   &&   似漆沉积物
+lacquer film capacitor   &&   漆膜电容器
+lacquer-coated steel sheet   &&   涂漆薄钢板
+lacquered plate   &&   涂漆钢板
+lacquered sheet iron   &&   镀漆铁皮
+lacquered wire   &&   漆包线
+lacrimatory gas   &&   催泪性毒气
+ladder approximation   &&   阶梯近似(法)
+ladder chassis   &&   梯形底盘
+ladder circuit   &&   梯形电路
+ladder diagram   &&   梯形图
+ladder excavator   &&   梯式挖掘机
+ladder network   &&   梯形网格
+ladder rack   &&   阶梯形齿条
+ladle   &&   勺，铸勺，桶，铸桶，铁水包，钢水包，浇包，熔融金属罐
+ladle analysis   &&   炉前分析，包样分析，桶样分析
+ladle brick   &&   浇包砖
+ladle car   &&   钢水罐车，铁水罐车，浇包车，桶车
+ladle carriage   &&   铸桶车，浇包车
+ladle crane   &&   铸造起重机，浇包起重机
+ladle deoxidation   &&   包内脱氧
+ladle forehearth   &&   倾动式前炉，转动式前炉
+ladle furnace   &&   钢包炉，桶式炉
+ladle lip   &&   浇包嘴
+ladle pit   &&   出铁坑，出钢坑
+ladle pot   &&   浇铸包，浇包，浇桶，铁水包，铸罐
+ladle refining furnace   &&   桶式精炼炉
+ladle spout   &&   浇包嘴
+ladle tumbler   &&   翻罐机
+ladle wash   &&   浇包涂料
+lag   &&   ①滞后②延迟，时滞，移后，落后
+lag angle   &&   滞后角
+lag bolt   &&   方头螺栓，木螺栓
+lag compensation   &&   滞后补偿
+lag in phase   &&   相位滞后
+lag intake   &&   迟进汽
+lag module   &&   滞后组件
+lag network   &&   延迟网络
+lag screw   &&   方头螺钉
+lag spike   &&   螺丝钉
+lag-lead compensation   &&   滞后超前补偿
+lagging   &&   ①滞后，延迟，落后②横板，横档板，隔板③绝缘层，热绝缘外套，防护套
+lagging circuit   &&   滞后电路
+lagging commutation   &&   滞后换相
+lagging curve   &&   滞后曲线，落后曲线
+lagging device   &&   滞后装置
+lagging edge   &&   ①后沿(脉冲)②出气边③下降边(脉冲)
+lagging load   &&   滞后载荷
+lagging network   &&   滞后网络
+lagging phase   &&   滞后相位
+lagging time   &&   滞后时间，延迟时间
+lagging-type equation   &&   滞后型方程
+lagonite   &&   杂硼褐铁矿
+lamagal   &&   镁铝耐火材料
+lambda   &&   λ(表示波长的符号)
+lambda sensor   &&   λ传感器
+lambda transition   &&   λ跃迁
+lambert   &&   朗伯(亮度单位)
+lame   &&   ①金属薄条，金银皮②顶根接触
+lamella   &&   薄片，薄层，薄板
+lamella constituent   &&   片状组分
+lamellar   &&   ①层状的，片状的，层片状的②多片的，多层的，有条纹的
+lamellar annealing   &&   形成片状珠光体的退火
+lamellar eutectic structure   &&   片状共晶结构，层状共晶结构
+lamellar eutectics   &&   片状共晶体，层状共晶体
+lamellar ferrite   &&   片状铁素体，层状铁素体
+lamellar fracture   &&   层状断口
+lamellar graphite   &&   片状石墨
+lamellar growth   &&   片状生长，层状生长
+lamellar martensite   &&   片状马氏体，层状马氏体
+lamellar morphology   &&   片状形态
+lamellar structure   &&   层状结构，层状组织，片状结构，片状组织
+lamina   &&   ①薄片，薄板②层状体
+laminar air stream   &&   层状空气流，层流空气流
+laminar boundary layer   &&   片状边界层，层流边界层
+laminar convection   &&   层流对流，分层对流
+laminar crack   &&   层裂，层状破裂，层状裂纹
+laminar current   &&   层流
+laminar domain   &&   层状畴
+laminar film   &&   层状薄膜，层流薄膜
+laminar flow   &&   层流
+laminar flow airfoil   &&   层流翼面
+laminar flow film   &&   层流模
+laminar heat transfer   &&   层流换热，层流传热
+laminar insulation   &&   分层绝缘
+laminar jet   &&   层流射流
+laminar layer control   &&   层流层控制，边界层控制
+laminar low   &&   层流
+laminar mass transfer   &&   层流传质
+laminar motion   &&   层流，层状运动
+laminar plastic flow   &&   片型塑性流变
+laminar slip   &&   片状滑移，层状滑移
+laminar-flow aircraft   &&   层流飞机
+laminarization   &&   层流化，分层
+laminate   &&   ①层叠，分层②层压板，层压，层压制件，层压材料
+laminated armature   &&   叠片电枢
+laminated board   &&   层压板
+laminated brush   &&   叠片电刷
+laminated cell   &&   叠层电池
+laminated chain   &&   ①叠片链，无声链②齿键
+laminated coal   &&   层状煤，叠层煤
+laminated construction   &&   夹层结构，组合结构，叠层结构
+laminated core   &&   叠层铁心，叠片铁心
+laminated fabric   &&   叠压织物，胶合织物，叠层织物，层压布板
+laminated fibre board   &&   层积纤维板
+laminated film   &&   叠层胶片，复合薄膜
+laminated form   &&   片形，片状
+laminated fracture   &&   层状断裂，层状断口
+laminated glass   &&   夹层玻璃
+laminated glass window   &&   层压玻璃观察窗
+laminated insulation   &&   层状绝缘
+laminated insulator   &&   分层绝缘体，层状绝缘体
+laminated magnet   &&   叠片磁铁，积层磁铁
+laminated material   &&   层压材料
+laminated metal   &&   双金属，层状金属
+laminated moulding   &&   层压模塑法
+laminated paper board   &&   层压纸板
+laminated pattern lumber   &&   制模叠层材料
+laminated pearlite   &&   层状珠光体，片状珠光体
+laminated phenolic material   &&   层压酚醛材料
+laminated phenolic resin   &&   层压酚醛树脂
+laminated plastics   &&   层压塑料
+laminated safety glass   &&   层压安全玻璃，叠层胶合安全玻璃
+laminated sheet glass   &&   夹层平板玻璃
+laminated sheet iron   &&   成层薄钢板
+laminated spring   &&   叠板弹簧
+laminated spring hammer   &&   板簧锤
+laminated structure   &&   层状结构，片状结构
+laminated subbituminous coal   &&   层状次烟煤，层状亚烟煤
+laminated thermosetting decorative sheet   &&   装饰用热固性层压片材
+laminated thermosetting sheet   &&   热固性层压片材
+laminated wire glass   &&   嵌丝夹层玻璃
+laminated wood   &&   层压板，胶合板，层积板，叠层木板
+laminated wood-based composite   &&   叠层木基复合材料
+laminated wooden structure   &&   胶合板结构，叠层木结构
+laminated-metal composite   &&   层压金属复合材料，层状金属复合材料
+laminating   &&   ①层压②分成薄层，卷成薄片③包以薄片
+laminating material   &&   层压材料
+laminating method   &&   被覆淋膜成形
+laminating press   &&   层压压机
+laminating roller   &&   薄板轧辊
+lamination   &&   ①成层，分层，分层结构②层积，叠片，层压，夹层．层状，起鳞，剥离③纹理
+lamination crack   &&   层状裂缝，层裂
+lamination detector   &&   分层(缺陷)探测仪
+lamination stacking machine   &&   叠片机
+lamination surface insulation   &&   叠片表面绝缘，分层表面绝缘
+laminography   &&   层析x射线照相术
+lamp   &&   ①灯，灯泡，灯头，车灯②电子管
+lamp adapter   &&   灯头座
+lamp fitting   &&   电灯配件
+lamp making machinery   &&   灯泡制造机械
+lamp optical system   &&   照明光学系统
+lamp socket   &&   灯座，管座
+lamps   &&   车灯
+lan emulation   &&   局域网仿真
+lance   &&   喷枪，长矛，喷氧管，喷水管，喷管，切缝
+lancing die   &&   切口模
+land   &&   ①厚度，棱，刃棱面，刃带②齿刀，齿格③登陆，着陆④溢料面，合模面⑤合模平坦面
+land area   &&   合模面
+land boiler   &&   陆地锅炉
+land dredger   &&   挖掘机
+land gas turbine   &&   陆用燃气轮机
+land implement   &&   整地工具
+land locomotive   &&   ①重型拖拉机②农用(蒸气)发动机
+land miler   &&   压实机，压土机，压路机
+land mine   &&   地雷
+land mobile service   &&   地面移动通信业务
+land mobile station   &&   地面移动电台
+land navigation landing system   &&   地面导航着陆系统
+land of cutting tool   &&   刀刃棱面
+land station   &&   地面站，地面电台
+land tractor   &&   土地作业拖拉机
+land transportation frequency bands   &&   地面运输频带
+land transportation radio service   &&   地面运输无线电业务
+land wheel   &&   地轮
+land-base gas turbine engine   &&   固定式燃气轮机
+land-based aircraft   &&   陆上飞机
+landed mould   &&   凸缘(半溢式)塑模
+landed plunger mold   &&   有肩柱塞式模具
+landed positive mold   &&   有肩全压式模具
+lander   &&   流槽，出铁槽，出钢槽，出渣槽
+landing   &&   台，着陆，降落
+landing aids   &&   着落辅助设备
+landing angle   &&   着陆角
+landing apparatus   &&   着陆仪表
+landing barge   &&   登陆艇
+landing beacon   &&   着陆航标
+landing beam   &&   着陆导航波束
+landing chassis   &&   起落架
+landing craft   &&   登陆艇
+landing display   &&   着陆显示器，进场显示器
+landing field   &&   飞机场
+landing flare   &&   着陆用照明弹
+landing gear   &&   ①起落架②辅助支承装置
+landing gear compartment   &&   起落架舱
+landing gear wheel   &&   起落架轮
+landing impact testing machine   &&   落锤式冲击试验机
+landing indicator   &&   进场显示器
+landing instrument   &&   着陆仪表
+landing legs   &&   辅助支承装置，起落架
+landing light   &&   着陆灯
+landing load   &&   着陆载荷
+landing module   &&   着陆舱
+landing navigation system   &&   着陆导航系统
+landing point   &&   着陆点
+landing radar   &&   着陆雷达
+landing run   &&   着陆滑程
+landing ship   &&   登陆舰艇
+landing simulation   &&   着陆模拟
+landing site   &&   着陆地点
+landing speed   &&   着陆速度
+landing system   &&   着陆系统
+landing vehicle   &&   登陆车
+landing wheel   &&   起落轮架
+landing-call push   &&   楼层呼叫电钮
+landmark navigation   &&   地标导航
+landscape   &&   ①配景，风景②横向，横式
+landscape edit   &&   编辑配景
+landscape library   &&   配景库 景物图库
+language   &&   语言
+language assembler   &&   语言汇编程序
+language character set   &&   语言字符集
+language coding   &&   语言编码
+language converter   &&   语言转换器，语言转换程序
+language editor   &&   语言编辑程序
+language extendibility   &&   语言可扩充性
+language generation system   &&   语言生成系统
+language interpreter   &&   语言解释程序
+language list processor   &&   语言表处理
+language of relations   &&   关系语言
+language processor   &&   语言处理程序
+language subsystem   &&   语言子系统
+language system   &&   语言系统
+language translator   &&   语言翻译程序
+language understanding system   &&   语言理解系统
+language virtuality   &&   语言可虚拟性
+lantern   &&   ①泥心架，网状心②信号台③信号灯，手提灯，灯笼，幻灯机
+lantern gear   &&   针齿轮，灯笼齿轮，滚柱齿轮
+lantern slide   &&   幻灯片
+lanthana   &&   氧化镧
+lanthanide   &&   镧系元素化合物
+lanthanide hydride   &&   镧系(元素)氢化物
+lanthanide metallide   &&   镧系(元素)金属化合物
+lanthanide oxide   &&   镧系(元素)氧化物
+lanthanum   &&   镧，La(57)
+lanthanum crown glass   &&   镧冕牌玻璃
+lanthanum flint glass   &&   镧火石玻璃
+lanthanum oxide   &&   氧化镧
+lanthanum titanate   &&   钛酸镧
+lanthanum-containing ahoy   &&   含镧合金
+lap   &&   ①棉卷，重皮，余面②重叠，折叠，折痕③研磨(盘)，抛光盘，擦光盘，重叠区(彩色套印)④折叠，搭接
+lap and diagonal belt   &&   对角腰带式安全带
+lap belt   &&   腰带式安全带
+lap dissolve   &&   淡入，淡出(电视，电影)
+lap joint   &&   搭接接头，叠接接头
+lap machine   &&   研磨机
+lap position   &&   遮断位置(滑阀的)，重叠位置
+lap seam weld   &&   搭接缝焊
+lap spot weld   &&   搭接点焊
+lap welding   &&   搭接焊
+lap winding   &&   叠绕组，叠绕法
+lap-changing transformer   &&   抽头切换变压器
+lap-ended piston ring   &&   叠口活塞环
+lap-riveting   &&   搭接铆
+lapel microphone   &&   衣领话筒
+lapped slice   &&   研磨片
+lapper   &&   研磨机，磨床，研具
+lapping   &&   ①搭接②擦光③研磨，磨光④折叠⑤抛光，研磨修润
+lapping agent   &&   研磨剂，抛光剂
+lapping allowance   &&   研磨余量
+lapping compound   &&   研磨剂
+lapping lubricant   &&   研磨润滑剂
+lapping machine   &&   研磨机
+lapping machines   &&   精研机
+lapping machines-centerless   &&   无心精研机
+lapping plate   &&   研磨板，精研板
+lapse   &&   ①误差②(温度)下降③递减
+lapse rate of temperature   &&   温度直减率
+large angle incoherent boundary   &&   大角度非共格晶界
+large angle polygonization boundary   &&   大角度多边形化间界
+large calorie   &&   大卡，千卡
+large computer   &&   大型计算机
+large core memory   &&   大容量磁心存储器
+large core storage   &&   大容量磁心存储器
+large deformation   &&   大变形
+large diameter coaxial cable   &&   大直径同轴电缆
+large displacement holography   &&   大位移全息照像术
+large general purpose computer system   &&   大型通用计算机系统
+large integrated monolithic array computer   &&   大规模集成化单片阵计算机
+large main valve piston   &&   主阀大活塞
+large matrix store   &&   大容量矩阵存储器
+large memory   &&   大容量存储器
+large monofilament graphite fibre   &&   大直径石墨单丝纤维
+large number hypothesis   &&   大数假说
+large real-time problem   &&   大型实时问题
+large scale   &&   大尺度，大规模，大型
+large scale integrated circuits   &&   大规模集成电路[LSI]
+large scale integration   &&   大规模集成化
+large scale memory   &&   大容量存储器
+large scale system   &&   大规模系统，大系统
+large scale system cybernetics   &&   大系统控制论
+large scale system optimization   &&   大系统最优化
+large scale theory   &&   大规模理论
+large scale type test   &&   大尺寸典型试验，大规模典型试验
+large screen display   &&   大屏幕显示，大屏幕显示器
+large size   &&   大尺寸的
+large steam turbine-generator   &&   大型汽轮发电机组
+large step methods   &&   大步长方法
+large strain   &&   大应变
+large volume sampler   &&   大容量采水器
+large-and-small-diameter cutter   &&   大小直径铣刀
+large-angle grain boundary   &&   大角度晶界
+large-capacity   &&   N.C. turning machine大型数字控制机床
+large-capacity car   &&   大号轻便汽车
+large-capacity core memory   &&   大容量磁心存储器
+large-capacity memory   &&   大容量存储器
+large-scale compound integration   &&   大规模混合集成(电路)
+large-scale computer   &&   大型计算机
+large-scale data processor   &&   大型数据计算机
+large-scale digital computer   &&   大型数字计算机
+large-scale digital computing system   &&   大型数字计算系统
+large-scale experiment   &&   大型试验，工业规模试验
+large-scale hybrid integrated circuit   &&   大规模混合集成电路
+large-scale hybrid microprocessor   &&   大型混合微处理机
+large-scale injector   &&   巨型喷嘴
+large-scale integrated microprocessor   &&   大规模集成微处理机
+large-scale model   &&   大比例模型
+large-scale pollution   &&   大范围污染，大规模污染
+large-size drill   &&   大型钻头
+large-size planer   &&   大型刨床
+large-volume cylinder   &&   大容量油缸
+large-volume sprayer   &&   大容量喷雾机
+largest nilpotent ideal   &&   最大幂零理想
+largest observation   &&   最大观测值
+largest prime divisor   &&   最大素因子
+laser   &&   激光，激光器
+laser Doppler technique   &&   激光多普勒技术
+laser absolute gravimeter   &&   激光绝对重力仪
+laser alignment instrument   &&   激光导向仪
+laser altimeter   &&   激光测高仪，激光高度表
+laser amperemeter   &&   激光电流表
+laser amplifier   &&   激光放大器
+laser and miniature tracking photographic system   &&   激光微型跟踪摄影系统
+laser anemometer   &&   激光风速计
+laser annealing   &&   激光退火
+laser application   &&   激光应用
+laser atomizer   &&   激光原子化器
+laser beam   &&   激光束
+laser beam cutting   &&   激光切割
+laser beam ionization   &&   激光电离
+laser beam machining   &&   激光加工
+laser beam recording   &&   激光束记录
+laser beam welding   &&   雷射光焊接，激光束焊接
+laser camera   &&   激光照相机
+laser ceilometer   &&   激光测云仪
+laser collimator   &&   激光准直仪
+laser communication   &&   激光通信
+laser communication system   &&   激光通信系统
+laser cut mask   &&   激光刻版掩模
+laser cutting   &&   激光切割
+laser density probe   &&   激光介质密度探针
+laser detection   &&   激光探测
+laser detector   &&   激光探测器
+laser diode   &&   激光二极管
+laser display   &&   激光显示
+laser distance meter   &&   激光测距仪
+laser drawing   &&   激光拉丝
+laser drilling   &&   激光打孔
+laser element   &&   激光器单元
+laser eletrophotography   &&   激光静电复印术
+laser ellipseness measuring instrument   &&   激光椭圆度测量仪
+laser excitation   &&   激光激发
+laser fibre   &&   激光玻璃纤维，激光光学纤维
+laser flash tube   &&   激光闪光灯
+laser flowmeter   &&   激光流量计
+laser fluorescence detector   &&   激光荧光探测仪
+laser frequency   &&   激光频率
+laser frequency standard   &&   激光频率标准
+laser fusion   &&   激光聚变
+laser fuze   &&   激光引信
+laser geodynamic satellite   &&   激光地球动力学卫星，激光测地卫星[LAGEDS]
+laser glass   &&   激光玻璃
+laser gravimeter   &&   激光重力仪
+laser guidance   &&   激光制导，激光导航
+laser gun   &&   激光炮，激光枪
+laser gyro   &&   激光陀螺仪
+laser gyroscope   &&   激光陀螺仪
+laser hardening   &&   激光硬化
+laser hazard   &&   激光危害
+laser heat treatment   &&   激光热处理
+laser heating   &&   激光加热
+laser initiation   &&   激光起爆
+laser inside diameter measuring instrument   &&   激光内径测量仪
+laser interferometer   &&   激光干涉仪
+laser interferometry   &&   激光干涉测量
+laser leading beacon   &&   激光导航标
+laser length measuring instrument   &&   激光式测长仪
+laser level   &&   激光水准仪
+laser level meter   &&   激光物位计
+laser leveler   &&   激光水准器
+laser linewidth   &&   激光束宽
+laser locator   &&   ①激光定位器②激光探测器
+laser machining   &&   激光加工
+laser material   &&   激光材料
+laser medium   &&   激光媒质
+laser memory   &&   激光存储器
+laser microanalysis   &&   激光微量分析
+laser microprobe   &&   激光微探针
+laser microscope   &&   激光显微镜
+laser microspectral analyzer   &&   激光显微光谱分析仪
+laser modulation   &&   激光调制
+laser molding method   &&   光造型法
+laser monitor   &&   激光监控仪
+laser monitor for pollution   &&   激光污染监测器
+laser motor   &&   激光电动机
+laser navigation   &&   激光导航
+laser orientation instrument   &&   激光指向仪
+laser outside diameter measuring instrument   &&   激光外径测量仪
+laser photography   &&   激光全息照相
+laser physics   &&   激光物理
+laser plasma   &&   激光等离子区，激光等离子体
+laser plummet   &&   激光垂准仪
+laser precaution   &&   激光防护
+laser printer   &&   激光印刷机，激光打印机
+laser probe mass spectrometer   &&   激光探针质谱计
+laser probe mass spectrometry   &&   激光探针质谱法
+laser processing   &&   激光加工
+laser produced plasma   &&   激光产生等离子体
+laser protective housing   &&   激光器安全罩
+laser pulse length   &&   激光脉冲长度
+laser pulse width   &&   激光脉冲宽度
+laser quenching   &&   激光淬火
+laser radar   &&   激光雷达
+laser radar ranging system   &&   激光雷达测距系统
+laser ranger   &&   激光测距仪
+laser ranging   &&   激光测距
+laser receiver   &&   激光接收机
+laser reconnaissance   &&   激光侦察
+laser recorder   &&   激光记录仪
+laser scanner   &&   激光扫描器
+laser scanning   &&   激光扫描
+laser scatterometer   &&   激光散射计
+laser schlieren photography   &&   激光纹影照相法
+laser sensor   &&   激光传感器
+laser sonar   &&   激光声呐
+laser spectrograph   &&   激光摄谱仪
+laser spectrometry   &&   激光光谱法
+laser spectrophotometer   &&   激光分光光度计
+laser spectroscopy   &&   激光光谱学
+laser spectrum radiator   &&   激光光谱辐射计
+laser storage   &&   激光存储器
+laser strainometer   &&   激光应变仪
+laser system   &&   激光系统
+laser tachometer   &&   激光转速仪
+laser technique   &&   激光技术
+laser theodolite   &&   激光经纬仪
+laser theory   &&   激光理论
+laser threshold   &&   激光阈
+laser tracking   &&   激光跟踪
+laser transmitter   &&   激光发射机
+laser triggered switch   &&   激光触发开关
+laser trimming   &&   激光微调
+laser unit   &&   激光装置
+laser velocimeter   &&   激光速度仪
+laser vibrometer   &&   激光振动计，激光测振仪
+laser voltmeter   &&   激光电压表
+laser weapon   &&   激光武器
+laser welding   &&   激光焊接
+laser zenith vertical instrument   &&   激光天顶垂直仪，激光铅直仪
+laser-induced fusion   &&   激光诱发聚变
+laser-irradiated plasma   &&   激光辐射等离子体
+lash   &&   ①鞭子，鞭打，睫毛，责骂，讽刺②摆动，扎捆，冲击，煽动，讽刺③隙，间隙
+lash method   &&   震动法(防止钢锭出缩孔)，冲击法
+lashing eye   &&   固定孔
+lasing   &&   发射激光，激光作用
+lasing material   &&   激光材料
+lasing threshold   &&   激光阈值
+last come first served   &&   后到先服务
+last in first out   &&   后进先出[LIFO]
+last multiplier   &&   最后乘子，尾乘式
+last phase   &&   后析相，残余相，终相
+last subscriber release   &&   双方话终拆线
+last term   &&   末项
+latch   &&   ①插销②掣爪③锁存器
+latch gear   &&   弹键装置
+latch spring   &&   闩簧
+latch-in relay   &&   锁定继电器
+latch-up protection   &&   闭锁保护
+latched relay   &&   闭锁继电器，保持继电器
+latched system   &&   译密码装置
+latching   &&   ①锁闭②验锁，阻塞
+latching circuit   &&   自锁电路，闭锁电路，锁存电路
+latching current   &&   保持电流，阻塞电流
+latching relay   &&   保持继电器，自锁继电器
+late inoculation   &&   二次孕育
+latency   &&   潜伏性，等待时间
+latency time   &&   等待时间，等数时间
+latent elastic deformation   &&   潜弹性形变
+latent fatigue   &&   潜在疲劳，潜在破坏
+latent glide system   &&   潜在滑移系统
+latent heat   &&   潜热
+latent heat of crystallization   &&   结晶潜热
+latent heat of fusion   &&   熔化潜热
+latent heat of melting   &&   熔化潜热
+latent heat of phase change   &&   相变潜热
+latent heat of solidification   &&   凝固潜热
+latent heat of transformation   &&   转变潜热
+latent heat of vaporization   &&   蒸发潜热
+latent image   &&   潜影，潜像，隐像
+latent load   &&   潜热载荷
+latent neutron   &&   潜中子
+latent vector   &&   本征向量，特征向量
+latent work-hardening   &&   潜在加工硬化
+lateral acceleration   &&   侧向加速度
+lateral area   &&   侧面积
+lateral axis   &&   横轴
+lateral buckling   &&   侧向压曲，横向压曲
+lateral chain   &&   侧链
+lateral clearance   &&   侧隙
+lateral complementary transistor   &&   横向互补晶体管
+lateral component   &&   横向分量
+lateral contraction   &&   横向收缩
+lateral control force   &&   侧偏力
+lateral controller   &&   横侧操纵机构
+lateral critical speed   &&   横向临界速度
+lateral current flow   &&   横向电流，侧向电流
+lateral damping   &&   横向阻尼，倾侧阻尼，滚动阻尼
+lateral deflection   &&   ①侧向挠度②横向挠曲③方向修正量④横向偏转
+lateral deflection of a beam   &&   梁的横向挠曲
+lateral diffusion   &&   横向扩散
+lateral dihedral angle   &&   横上反角
+lateral divergence   &&   横向扩散，横向发散
+lateral extensometer   &&   横向延伸计
+lateral face   &&   侧面
+lateral feed   &&   横进给，横向走刀
+lateral flexure   &&   横曲，旁曲
+lateral force   &&   倾向力，横向力
+lateral force coefficient   &&   横力系数
+lateral group   &&   侧基
+lateral impact   &&   横向冲击
+lateral inclinometer   &&   横向倾斜计
+lateral interaction   &&   侧向相互作用，横向相互作用
+lateral load   &&   横向负载，侧向负载
+lateral loading test   &&   旁压试验
+lateral logger   &&   侧向测井仪
+lateral motion   &&   横向运动
+lateral movement   &&   横向运动
+lateral order   &&   横列次序，侧向有序性，横次序
+lateral orientation   &&   横向定位
+lateral oscillation   &&   横向摆动，横向振动
+lateral pressure   &&   侧压力，横向压力
+lateral probe movement   &&   左右扫查
+lateral projection   &&   侧射影
+lateral relieving device   &&   横向铲齿装置
+lateral resistance   &&   横(向)阻力，侧向阻力
+lateral resisting structure   &&   抗侧力结构
+lateral reversal   &&   横向颠倒(图像)
+lateral rigidity   &&   横向刚度
+lateral runout   &&   横向摆动
+lateral scan   &&   左右扫查
+lateral slide monld   &&   旁滑式注塑模
+lateral spacing   &&   侧向间距
+lateral stability   &&   横向稳定性
+lateral strain   &&   横向应变
+lateral stress   &&   横向应力
+lateral structure   &&   横向结构
+lateral thrust   &&   横向推力
+lateral tolerance symbol   &&   尺寸公差符号 侧向公差符号
+lateral unit deformation   &&   横向单位变形
+lateral velocity   &&   横向速度
+lateral vibration   &&   横向振动
+lateral view   &&   侧视图
+latest allowable activity finish time   &&   活动容许最迟结束时间
+latest allowable activity start time   &&   活动容许最迟开始时间
+latest allowable event occurrence time   &&   事件容许最迟发生时间
+latest allowable time   &&   最迟容许时间
+latest finishing time   &&   最迟完成时间
+latest start time   &&   最迟开始日程，最迟开始时间
+latest time   &&   最迟日程，最迟时间
+lath   &&   ①板条②板晶，柱晶
+lath cutter   &&   切板机
+lath martensite   &&   板条马氏体
+lathe   &&   车床
+lathe accessories   &&   车床附件
+lathe attachment   &&   车床附件
+lathe bed   &&   车床床身
+lathe carriage   &&   车床溜板(或刀架，床鞍)
+lathe carrier   &&   车床鸡心夹头
+lathe centre   &&   车床顶尖
+lathe centre point   &&   车床顶尖端
+lathe chuck   &&   车床卡盘，车床夹盘
+lathe control system   &&   车床控制系统
+lathe cross-slide   &&   车床横刀架
+lathe cutting   &&   车床车削
+lathe cutting tool   &&   车床切削刀具
+lathe dog   &&   鸡心夹头，车床卡箍
+lathe drill   &&   卧式钻床
+lathe gear lever   &&   车床变速手柄
+lathe grinding   &&   车床磨削
+lathe head stock   &&   车床床头箱，车床头座
+lathe lapping   &&   车床研磨
+lathe mandrel   &&   车床心轴
+lathe operation   &&   车床操作
+lathe saddle   &&   车床床鞍，车床溜板，车床刀架
+lathe spindle   &&   车床主轴
+lathe tool   &&   车刀，车床刀具
+lathe transmission system   &&   车床传动系统
+lathe turnings   &&   车床切屑
+lathe turret   &&   车床转塔刀架
+lathe with lead screw   &&   丝杠车床
+lathe work   &&   车床工件
+lathes automatic   &&   自动车床
+lathes heavy-duty   &&   重型车床
+lathes high-speed   &&   高速车床
+lathes turret   &&   六角车床
+lathes vertical   &&   立式车床
+latitude   &&   纬度，范围，(用复数)地区，行动或言论的自由(范围)
+latrappite   &&   钙钛铌矿
+latten   &&   金属薄板
+lattice   &&   ①格子，栅格，网络②点阵，晶格
+lattice absorption   &&   晶格吸收，点阵吸收
+lattice amplification   &&   晶格放大，点阵放大
+lattice array   &&   点阵列
+lattice bar   &&   格条
+lattice bending   &&   晶格弯曲
+lattice binding   &&   晶格结合
+lattice bond   &&   晶格键，点阵键
+lattice cell   &&   晶格晶胞
+lattice coil   &&   蜂房线圈，多层线圈
+lattice complex   &&   复合晶格，复杂晶格
+lattice constant   &&   晶格常数，点阵常数
+lattice continuity   &&   晶格的连续性
+lattice contraction   &&   晶格收缩，点阵收缩
+lattice coordination number   &&   晶格配位数，点阵配位数
+lattice correspondence   &&   晶格对应，点阵对应
+lattice curvature   &&   点阵曲率
+lattice defect   &&   晶格缺陷，点阵缺陷
+lattice defect scattering   &&   晶格缺陷散射，点阵缺陷散射
+lattice deformation   &&   晶格形变，点阵形变
+lattice diagram   &&   晶格图，点阵图
+lattice dilatation   &&   晶格膨胀
+lattice disorder   &&   晶格无序，点阵无序
+lattice displacement   &&   晶格中(原子的)位移
+lattice distance   &&   晶格间距，点阵间距
+lattice distortion   &&   晶格畸变，点阵畸变
+lattice disturbance   &&   晶格(结构)破坏
+lattice energy   &&   晶格能，点阵能
+lattice expansion   &&   晶格膨胀，点阵膨胀
+lattice force   &&   点阵力，晶格力
+lattice function   &&   晶格函数，点阵函数
+lattice girder   &&   格构梁，格构桁架
+lattice grid structure   &&   网架结构，格构梁结构
+lattice heat capacity   &&   晶格热容，点阵热容
+lattice ideal   &&   格理想
+lattice imperfection   &&   晶格不完整性，晶格缺陷，点阵缺陷
+lattice impurity   &&   晶格杂质
+lattice matching   &&   晶格匹配，点阵匹配
+lattice misfit   &&   晶格交错，点阵交错
+lattice mismatch   &&   晶格失配
+lattice mismatching   &&   晶格失配
+lattice model   &&   晶格模型，点阵模型
+lattice network   &&   网格形电路
+lattice of sets   &&   集(合)格
+lattice operations   &&   格运算
+lattice orthogonal   &&   格正交
+lattice parameter   &&   晶格参数，点阵参数
+lattice parameter change   &&   晶格参数变化，点阵参数变化
+lattice parameter method   &&   晶格参数法，点阵参数法
+lattice plane   &&   点阵平面，晶(格平)面
+lattice point   &&   阵点，晶格结点
+lattice point group   &&   晶格点群
+lattice reactor   &&   栅格反应堆
+lattice ring   &&   格环
+lattice scattering   &&   晶格散射，点阵散射
+lattice search   &&   格点搜索法，格点寻查
+lattice site   &&   点阵座，点阵位，晶格点
+lattice spacing   &&   晶格间距，点阵间距
+lattice strain   &&   晶格应变
+lattice structure   &&   晶格结构，点阵结构
+lattice substitution   &&   点阵置换，点阵取代，点阵替位
+lattice symmetry   &&   晶格对称，点阵对称
+lattice system   &&   晶格系统，点阵系统
+lattice theory   &&   晶格理论，点阵理论
+lattice thermal conductance   &&   晶格热导
+lattice thermal conductivity   &&   晶格热导率
+lattice transformation point   &&   晶格转变点，点阵转变点
+lattice transition   &&   晶格转变，点阵转变
+lattice translation   &&   晶格位移，点阵平移
+lattice translation vector   &&   晶格平移矢量
+lattice vacancy   &&   晶格空位，点阵空位
+lattice vacant site   &&   晶格缺位
+lattice vibration   &&   晶格振动，点阵振动
+lattice vibrational spectrum   &&   晶格振动光谱，点阵振动光谱
+lattice wave   &&   晶格波，点阵波
+lattice-ordered   &&   格序的
+latus rectum   &&   正焦弦
+launch   &&   ①发射，创办，开始，起飞，启动，下水(船的)，投掷②汽艇
+launch airplane   &&   火箭运载机
+launch time   &&   发射时间
+launch tube   &&   发射管
+launch vehicle   &&   运载工具
+launch vehicle configuration   &&   运载火箭构型
+launcher   &&   发射装置，启动装置
+launcher control system   &&   发射控制系统
+launching   &&   ①发射(飞行器)，(光)发射  ②发射装置，启动装置
+launching aircraft   &&   运载飞机
+launching amplifier   &&   发射放大器
+launching beam   &&   ①启动杆②发射波束
+launching booster   &&   起飞助推器
+launching button   &&   启动按钮，发射按钮
+launching calculation   &&   下水计算
+launching catapult   &&   起飞弹射器
+launching chamber   &&   助推燃烧室
+launching device   &&   发射装置，启动装置
+launching latitude   &&   发射纬度
+launching nose   &&   架桥(滑移)导梁
+launching pad   &&   发射台
+launching platform   &&   起飞平台，发射平台
+launching power   &&   启动功率
+launching shoe   &&   发射塔，发射架
+launching simulation   &&   发射模拟
+launching site   &&   发射场
+launching speed   &&   发射速度，起飞速度，(船的)下水速度
+launching stand   &&   发射台
+launching system   &&   启动系统，发射系统
+launching test   &&   发射试验
+launching tower   &&   发射塔，垂直发射装置
+launching vehicle   &&   运载火箭
+launching velocity   &&   发射速度
+laundry machine   &&   洗衣机
+lavalier   &&   项链话筒
+laves phase   &&   拉夫斯相
+law   &&   定律，律，法则，规律
+law of association   &&   结合律
+law of average   &&   大数定律，大数法则
+law of chemical change   &&   化学变化定律
+law of combining proportion   &&   化合比例定律
+law of commutation   &&   交换律
+law of complementation   &&   互补律
+law of composition   &&   组合法则
+law of conservation   &&   守恒定律
+law of conservation of energy   &&   能量守恒定律
+law of conservation of mass   &&   质量守恒定律
+law of conservation of matter   &&   物质不灭定律
+law of continuity   &&   连续性定律
+law of cosines   &&   余弦定律
+law of cotangents   &&   余切定律
+law of cyclic associativity   &&   循环结合律
+law of definite composition   &&   成分不变定律，定组成定律
+law of definite proportion   &&   定比定律
+law of diminishing marginal utility   &&   边际效用缩减律
+law of diminishing returns   &&   回复缩减律，返回缩减律，减少补偿定律
+law of distribution   &&   分配律
+law of double logarithm   &&   叠对数定律，二重对数律
+law of elasticity   &&   弹性定律
+law of electromagnetic induction   &&   电磁感应定律(法拉第定律)
+law of electrostatic attraction   &&   静电吸引定律(库仑定律)
+law of equal ampere turns   &&   相等安(培)匝(数)定律
+law of equivalent proportion   &&   当量比例定律
+law of errors   &&   误差律
+law of excluded middle   &&   排中律
+law of exponents   &&   指数定律
+law of gas diffusion   &&   气体扩散定律
+law of geometrical crystallography   &&   几何结晶构造定律
+law of great numbers   &&   大数定律
+law of hydrodynamical similarity   &&   流体动力学相似律
+law of identity   &&   同一律
+law of indices   &&   指数律
+law of inertia   &&   惰性律
+law of large numbers   &&   数定律
+law of logarithms   &&   对数定律
+law of magnetism   &&   磁性定律
+law of mass action   &&   质量作用定律
+law of mean   &&   (平)均值定理，中值定理
+law of moment of momentum   &&   动量矩定律
+law of motion   &&   运动定理
+law of multiple proportions   &&   倍比定律
+law of nature   &&   自然规律，自然法则
+law of perdurability of matter   &&   物质守恒定律，物质不灭定律
+law of periodicity   &&   周期律
+law of proportionality of strain to stress   &&   应变应力比例定律
+law of reciprocity   &&   互反律
+law of similarity   &&   相似定律
+law of sines   &&   正弦定理
+law of small numbers   &&   小数定理
+law of universal gravitation   &&   万有引方定律
+law of velocity distribution   &&   速度分布定律
+lawn mower   &&   剪草机，割草机
+lawrencium   &&   铹Lw(103)
+lay in   &&   配音(录制)
+lay out   &&   布置
+lay separation   &&   分层，脱压
+lay-up   &&   ①敷层，成层，扭绞，绞合②接头，接合处
+layer   &&   层，衬垫，垫片，焊层，涂层
+layer cell   &&   层状电池，叠层电池
+layer index   &&   图层索引
+layer insulation   &&   层间绝缘
+layer insulation test   &&   层间绝缘试验
+layer lattice   &&   层状晶格
+layer line   &&   层线(x射线)
+layer method   &&   分层法(钢锭检测)
+layer of cloth   &&   布(绝缘)层
+layer of oxide   &&   氧化层，氧化膜
+layer structure   &&   层状结构，层状构造，分层构造
+layer type winding   &&   分层式绕组
+layer winding   &&   分层式绕法，分层式绕组
+layer-built cell   &&   叠层电池
+laying   &&   ①敷设②衬垫
+laying-out   &&   敷设(线路或管道)
+layout   &&   ①布局，方案，划线，设计，布置，安排，规划，设计图，草图②(冲压)排样
+layout drawing   &&   设计图
+layout line   &&   配置线，区划线
+layout of cam profile   &&   凸轮廓线绘制
+layshaft   &&   副轴，中间轴
+lbs. inch   &&   镑、英寸
+leach   &&   ①浸出，浸析，过滤，沥滤②沥滤器③沥滤液，浸提液，浸出液
+lead   &&   螺纹导程
+lead accumulator   &&   铅蓄电池
+lead acid storage battery   &&   铅蓄电池
+lead alkali metal alloy   &&   铅-碱金属合金
+lead alkyl   &&   烷基铅
+lead alloy   &&   铅合金
+lead angle   &&   导程角，超前角
+lead angle at reference cylinder   &&   分度圆柱导程角
+lead annealing   &&   铅浴退火
+lead anode   &&   铅阳极
+lead attachment   &&   导引附件
+lead base alloy   &&   铅基合金
+lead base antifriction alloy   &&   铅基减摩合金，铅基轴承合金
+lead base bearing metal   &&   铅基轴承合金
+lead base solder alloy   &&   铅基软钎焊料
+lead base white metal   &&   铅基白合金，铅基巴比合金
+lead bath   &&   铅浴
+lead bath annealing   &&   铅浴退火
+lead bath furnace   &&   铅浴炉
+lead battery metal   &&   铅电池合金(sb 7％～12％，Sn O.1％～0.5％，余为Pb)
+lead bearing alloy   &&   含铅轴承合金
+lead bismuth alloy   &&   铅铋合金
+lead bronze   &&   铅青铜
+lead cam   &&   导程凸轮
+lead capacitance   &&   接线电容
+lead coating   &&   铅覆盖层，铅皮
+lead compensation   &&   超前补偿
+lead covered cable   &&   铅皮电缆
+lead covered wire   &&   包铅线，铅皮线
+lead covering   &&   铅皮
+lead grill   &&   铅板(蓄电池的)
+lead hardening   &&   铅浴淬火，铅浴淬硬法
+lead hit   &&   定向钻头
+lead hole   &&   导孔
+lead inductance   &&   接线电感
+lead joint   &&   填铅接缝，填铅接合
+lead lag network   &&   超前一滞后网络
+lead limit switch   &&   行程限位开关
+lead module   &&   超前组件
+lead network   &&   超前网络
+lead of helix   &&   螺旋线导程
+lead of milling machine   &&   铣床导程
+lead of screw   &&   螺旋导程
+lead patenting   &&   铅浴索氏体化处理
+lead proof   &&   注铅检测(锻模尺寸)
+lead quenching   &&   铅浴淬火，铅浴淬硬法
+lead rail   &&   导轨
+lead red   &&   红丹、铅丹
+lead replacement gasoline   &&   铅替代汽油 [LRG]
+lead screw lathe   &&   丝杠车床
+lead screw tester   &&   丝杠检查仪
+lead secondary battery   &&   铅蓄电池
+lead solder   &&   铅焊料，铅钎焊合金(Ag 2.5％，Cu O.25％，余为Pb)
+lead spindle   &&   主(马达)联轴器
+lead stripper   &&   剥铅机
+lead tempering   &&   铅浴回火
+lead tempering bath   &&   回火铅槽
+lead time   &&   提前期
+lead titanate piezoelectric ceramics   &&   钛酸铅压电陶瓷
+lead treated steel   &&   含铅易切削钢，含铅自动机床用钢
+lead vitriol   &&   铅矾，硫酸铅矿
+lead wire   &&   引出线，铅丝
+lead zirconate-titanate ceramics   &&   锫钛酸铅陶瓷
+lead-acid battery   &&   铅酸蓄电池
+lead-alkali glass   &&   铅碱玻璃
+lead-bearing steel   &&   含铅钢(约Pb 0.2％)
+lead-coated sheet   &&   镀铅薄钢板
+lead-coated sheet plate   &&   镀铅钢板
+lead-containing alloy   &&   含铅合金，铅基合金
+lead-containing glass fibre   &&   含铅玻璃纤维
+lead-free   &&   无铅汽油
+lead-graphite composite   &&   石墨-铅复合材料
+lead-in   &&   输入引线，引入
+lead-in inductance   &&   引线电感
+lead-in insulator   &&   引入绝缘子
+lead-in spiral   &&   引入螺旋线
+lead-in wire   &&   引入线
+lead-lag module   &&   超前滞后组件
+lead-on ramps   &&   导引滑道
+lead-out   &&   输出引线，引出
+lead-polythene cable   &&   聚乙烯铅皮电缆
+lead-pot furnace   &&   铅浴炉
+lead-screw   &&   丝杠，导螺杆，推动螺杆
+lead-screw driving   &&   丝杆传动
+lead-screw gear   &&   丝杆交换齿轮
+lead-sheathed cable   &&   铅包电缆
+lead-sheathed steel-taped   &&   铅包钢带铠装
+lead-sheathing   &&   包铅，铅皮
+lead-tellurium alloy   &&   铅碲合金
+lead-tin solder   &&   铅锡焊料(Sn 45％，Pb 52.5％，Sb 2.5％)
+leaded alloy   &&   含铅合金
+leaded brass   &&   含铅黄铜
+leaded bronze   &&   含铅青铜
+leaded duplex brass   &&   含铅双相黄铜
+leaded fuel   &&   含铅燃料
+leaded gasoline   &&   含铅汽油
+leaded manganese bronze   &&   含铅锰青铜合金(Cu 61％，Sn 0.75％，Mn 0.25％～O.75％，Fe l％，P 0.72％)
+leaded nickel brass   &&   含铅镍黄铜
+leaded nickel silver   &&   含铅镍银
+leaded nickel tin bronze   &&   含铅镍锡青铜(即耐酸青铜)
+leaded screen wire brass   &&   筛网铅黄铜
+leaded semi-red brass   &&   含铅类红色黄铜
+leaded steel   &&   含铅钢
+leader   &&   ①导杆，导管，引线②引导，标题
+leader blank   &&   引导空白字符
+leader busher   &&   导梢衬套
+leader card   &&   标题卡片
+leader mill   &&   精整轧机
+leader pin   &&   导销
+leader pin bush   &&   导销套
+leader record   &&   引导记录，标题记录
+leading   &&   ①超前②前导，引导③主要的
+leading arm   &&   导向臂
+leading bogie   &&   前转向架
+leading character   &&   前导字符
+leading coefficient   &&   首项系数
+leading crank   &&   导曲柄
+leading diagonal   &&   主对角线
+leading dislocation   &&   领先位错，先导位错
+leading edge   &&   ①前沿(脉冲)，上升边(脉冲)，脉冲前沿②机翼前缘，前缘，前刃③进气
+leading edge effect   &&   前缘效应，前缘影响
+leading edge nap   &&   前缘襟翼
+leading edge radiator   &&   翼前缘散热器
+leading end   &&   前端
+leading flag   &&   开始标志
+leading peak   &&   前伸峰
+leading principal minors   &&   前主子式
+leading screw   &&   丝杠，导螺杆
+leading screw bearing   &&   导螺杆轴承
+leading screw lathe   &&   丝杠车床
+leading sheave   &&   惰轮，导轮
+leading shoe   &&   领蹄
+leading space   &&   引导空格
+leading spar   &&   前翼梁
+leading tap   &&   机用螺丝攻，螺母丝锥
+leading time   &&   超前时间
+leading wheel   &&   导轮，前导轮
+leading zero   &&   前导零，引导零，先行零
+leading-control   &&   标题控制
+leading-screw   &&   丝杠，导螺杆，推动螺杆
+leading-screw bearing   &&   传动螺杆轴承
+leadless inverted device   &&   无引线变换器，无引线变流器
+leaf   &&   叶，片，箔
+leaf node   &&   叶节点
+leaf spring   &&   ①片簧，板簧②单片钢板弹簧，钢板弹簧，汽车钢板弹簧
+leaf spring strap   &&   钢板弹簧夹
+leaf valve   &&   簧片阀
+leafing   &&   成箔
+leak   &&   漏，漏洞，漏电，泄漏电阻，渗漏，泄漏，漏出量，漏气
+leak alarm   &&   渗漏报警(器)
+leak detection   &&   检漏(法)
+leak detection with over pressure   &&   加压检漏法
+leak detector   &&   检漏器
+leak hunting   &&   检漏
+leak pressure   &&   泄漏压力
+leak proof fit   &&   密配合
+leak rate   &&   漏气率
+leak test   &&   泄漏试验，密封性试验
+leak valve   &&   漏气阀
+leakage   &&   漏，漏泄，漏出量，渗漏
+leakage coefficient   &&   漏磁系数，漏电系数，渗漏系数
+leakage component   &&   泄漏分量
+leakage current   &&   泄漏电流，漏电流
+leakage current screen   &&   泄漏电流屏蔽
+leakage field   &&   漏磁场
+leakage flow   &&   漏流
+leakage flux   &&   漏磁通
+leakage inductance   &&   漏电感
+leakage induction   &&   漏感
+leakage loss   &&   泄漏损失
+leakage magnetic field   &&   漏磁场
+leakage magnetic field inspection   &&   漏磁探伤法
+leakage magnetic flow detector   &&   漏磁探伤仪
+leakage rate   &&   漏气率
+leakage resistance   &&   漏电阻，并联电阻
+leakproofness   &&   密封性，气密性，密闭度
+leaky antenna   &&   裂缝天线
+leaky capacitor   &&   漏电电容器
+leaky wave   &&   漏泄波(光导)
+leaky waveguide   &&   开槽波导，漏泄波导，漏隙波导
+lean   &&   未充满，偏斜，倾向，贫乏，贫瘠，瘦的
+lean alloy   &&   低组分合金
+lean alloy steel   &&   低合金钢
+lean coal   &&   低级煤，瘦煤，短焰煤
+lean mixture   &&   稀薄混合气
+lean oil   &&   贫油，解吸油，脱吸油(脱去轻馏分的油)
+lean ore   &&   贫矿石，低品位矿石
+lean production   &&   精益生产
+lean-burn engine   &&   稀薄燃烧发动机
+leaned   &&   变稀混合气
+leaning thread   &&   倾斜螺纹，梯形螺纹
+leaning wheel   &&   倾斜轮
+leaning wheel grader   &&   斜轮式平路机
+leap function   &&   跳函数
+leap-frog method   &&   跳步法，跳点法
+leapfrog test   &&   跳步检验
+leaping voltage   &&   跃变电压
+learning algorithm   &&   学习算法
+learning assistance   &&   学习助手 学习助理
+learning automata   &&   学习自动机
+learning control systems   &&   学习控制系统
+learning function   &&   学习功能
+learning language   &&   学习语言
+learning machine   &&   学习机
+leased circuit data transmission service   &&   租用线路数据传输服务
+least action   &&   最小作用量
+least common denominator   &&   最小公分母
+least common multiple   &&   最小公倍数，最小公倍式
+least dement   &&   最小元，最小元素
+least energy principle   &&   最小能量原理
+least favorable distribution   &&   最不利分布
+least index of refraction   &&   最小折射率
+least integer   &&   最小整数
+least iteration method   &&   最小迭代法
+least maximum deviation   &&   最小偏移极限值
+least mean square   &&   最小平均二乘方
+least member   &&   最小元
+least perceptible chromaticity difference   &&   最低可见色度差
+least perceptible difference   &&   最低可觉差别(亮度)
+least resistance line   &&   最小抵抗线(爆破)
+least significant bit   &&   最小有效位，最低有效位[LSB]
+least significant character   &&   最小有效字符，最低有效字符[LSC]
+least significant difference   &&   最低位差[LSD]
+least significant digit   &&   最低有效位数[LSD]
+least significant end   &&   最低端，最末端
+least spanning tree   &&   最小生成树
+least square   &&   最小二乘方
+least square adjustment   &&   最小二乘方平差
+least square approximation   &&   最小二乘方逼近
+least square collocation   &&   最小二乘方配置
+least square curve fitting   &&   最小二乘方曲线拟合
+least square data fitting   &&   最小二乘方数据拟合
+least square fitting   &&   最小二乘方拟合
+least square linear regression   &&   最小二乘方线性回归
+least square method   &&   最小二乘方法
+least square multiple regression   &&   最小二乘方多重回归
+least square straight-line fit   &&   最小方差直线拟合
+least time principle   &&   最少时间原理
+least total cost   &&   最小总成本法[LTC]
+least unit cost   &&   最小单位成本法[LUC]
+least upper bound   &&   最小上界，上确界[LUB]
+least value   &&   最小值
+least-core   &&   最小核心
+least-square estimation   &&   最小二乘方估值，最小二乘方估计
+least-squares line   &&   最小二乘直线
+least-squares linearity   &&   最小二乘线性度
+leather belt   &&   皮带
+leather cloak   &&   仿皮革
+leather coupling   &&   皮带联轴节
+leavings   &&   残留物，残渣，渣滓
+left balanced functor   &&   左平衡函子
+left bracket   &&   左括号
+left continuous function   &&   左连续函数
+left coperfect topological ring   &&   左共完全拓扑环
+left corner bottom-up   &&   左角自底向上
+left coset relation   &&   左旁系关系
+left derivative   &&   左导数，左微商
+left divisor of zero   &&   左零因子
+left elevation   &&   左视图
+left end marker   &&   左端标记
+left fork   &&   车
+left hand cutter   &&   左旋铣刀，左切刀，反手刀
+left hand derivative   &&   左导数
+left hand digit   &&   左侧数位，高位数位
+left ideal   &&   左理想
+left identity element   &&   左单位元素，左么元
+left inverse element   &&   左逆元
+left junction   &&   左交口
+left limit   &&   左极限
+left part list   &&   左部表
+left real wheel   &&   左后轮
+left shift   &&   左向移位，左移
+left sided derivative   &&   左导数
+left steering tie rod   &&   左横拉杆
+left view   &&   左视图，左视景
+left zero element   &&   左零元素
+left-and-right-hand end mills   &&   左旋和右旋端铣刀
+left-component   &&   左侧数，左边部分
+left-cut tool   &&   左切刀，左偏刀
+left-hand airscrew   &&   左旋螺旋桨
+left-hand auger   &&   左向旋转螺旋
+left-hand continuity   &&   左方连续性
+left-hand curve   &&   左旋曲线
+left-hand cut   &&   左旋切削
+left-hand dislocation   &&   左螺旋型位错
+left-hand drive   &&   左置转向盘，车辆右侧驾驶(右置方向盘)
+left-hand end   &&   左端
+left-hand end mill   &&   左旋端铣刀
+left-hand facing tool   &&   左削平面车刀
+left-hand helix   &&   左向螺旋线
+left-hand hob   &&   左旋滚刀
+left-hand machine   &&   左侧操作机床
+left-hand member   &&   左边部分
+left-hand mill   &&   左旋铣刀
+left-hand nut   &&   左旋纹螺母
+left-hand rotation reamer   &&   左旋铰刀，左切铰刀
+left-hand rule   &&   左手定则
+left-hand screw thread   &&   左旋螺纹
+left-hand side   &&   左边，左部，左侧
+left-hand side-tool   &&   左削侧刨刀，左偏刀
+left-hand spin   &&   左螺旋
+left-hand spring   &&   左旋弹簧
+left-hand subtree   &&   左侧子树
+left-hand thread   &&   左旋螺纹
+left-hand thread tap   &&   左旋螺纹丝锥
+left-hand tool   &&   左切刀，左偏刀，反手刀具，左旋车刀
+left-hand tool bit   &&   左削刀头
+left-hand turn   &&   左向旋转
+left-hand variable   &&   左侧变量
+left-hand worm   &&   左旋蜗杆
+left-hand zero   &&   左边零
+left-handed coordinate system   &&   左旋坐标系，左手坐标系
+left-handed nut   &&   左旋螺母
+left-handed quartz   &&   左旋石英
+left-handed rotation   &&   左向旋转
+left-handed screw   &&   左转螺旋，左手螺旋
+left-handed thread   &&   左旋螺纹，倒牙
+left-justified character   &&   左对齐字符
+left-justified clause   &&   左对齐子句
+left-most bit   &&   最左位
+left-most cell   &&   最左单元
+left-most character   &&   最左字符
+left-most interpretation   &&   最左解释法，最左翻译法
+left-most string   &&   最左字符串
+left-most substring   &&   最左字符子串
+left-most symbol   &&   最左符号
+left-most tree   &&   最左树
+left-most unchecked symbol   &&   最左未检验符
+left-right asymmetry   &&   左右不对称
+left-to-right parser   &&   自左至右分析算法
+left-to-right scan   &&   自左至右扫描
+leftovers   &&   屑物，屑料，废物，废料
+leg   &&   ①床脚，腿，脚，支柱②管脚③引线④相(三相系统)
+leg of a bridge   &&   电桥臂
+leg of a fillet weld   &&   焊脚，角焊缝
+leg of circuit   &&   电路臂，电网支路，相线
+legacy   &&   传统 旧式
+legal measuring instrument   &&   法定测量仪器
+legal metrology   &&   法定计量学
+legal ohm   &&   法定欧姆
+legal program   &&   法定程序，合法程序
+legal protection of computer software   &&   计算机软件的合法保护
+legal string   &&   合法串
+legend   &&   图例，符号表，传说，铭文，图形符号
+legibility   &&   易读性
+legs of a triangle   &&   勾股，两股(直角三角形的)
+lemma   &&   引理
+lemniscate   &&   双纽线
+lemon spot   &&   白点(钢内缺陷)
+lemoynite   &&   水钠钙锆石
+length   &&   ①长度，字长，记录长度，块长，距离②持续时间
+length attribute   &&   长度属性
+length biased sampling   &&   长度偏倚抽样
+length comparator   &&   长度比较仪
+length control device   &&   定长装置
+length diameter ratio   &&   长度直径比
+length feed   &&   纵向进给，纵向进刀
+length measuring machine   &&   测长机
+length measuring-instrument   &&   长度计量仪器
+length of a scale division   &&   标度分格间距，分格(度)长度
+length of a vector   &&   向量的长
+length of action   &&   啮合长度，作用长度
+length of arc   &&   弧长
+length of delay   &&   延迟值
+length of exposure   &&   曝光持续时间
+length of field   &&   字段长度
+length of fit   &&   ①配合长度②(螺纹)旋人长度
+length of identifier   &&   标志符长度
+length of interval   &&   区间长度
+length of line of action   &&   啮合线长度
+length of number   &&   数长
+length of penetration   &&   渗透深度
+length of search   &&   查找长度
+length overall   &&   总长，全长
+length-mass-time   &&   长度-质量-时间
+length-preserving mapping   &&   等距映射
+length-width ratio   &&   长宽比
+lengthen   &&   拉长 调整长度
+lengthen label   &&   加长符号
+lengthen symbol   &&   加长符号
+lengthening   &&   延长，伸长
+lengthening coefficient   &&   延伸系数，伸长系数
+lengthening piece   &&   接长料，接长件
+lengthwise bridge   &&   纵向桥型接触
+lengthwise mismatch   &&   纵向失配
+lengthwise oscillation   &&   纵向振荡
+lengthwise sliding velocity   &&   纵向滑动速度
+lengthy bellows   &&   长波纹管
+lens   &&   透镜，镜头
+lens antenna   &&   透镜天线
+lens aperture   &&   透镜孔径
+lens baggage compartment lamp   &&   行李箱灯配光镜
+lens blooming   &&   透镜薄膜，镜头加膜
+lens coating   &&   透镜涂层，透镜镀膜
+lens efficiency   &&   透镜分辨能力
+lens fog lamp   &&   雾灯配光镜
+lens front turn signal lamp   &&   前转向灯配光镜
+lens headlamp   &&   大灯配光镜
+lens hood   &&   镜头遮光罩
+lens iris   &&   透镜可变光阑
+lens length   &&   镜头长度 镜头长度
+lens micrometer   &&   透镜测微器
+lens of variable focal length   &&   可变焦距透镜
+lens opening   &&   镜头孔(镜头大小)
+lens rear turn signal lamp   &&   后转向灯配光镜
+lens screen   &&   光阑
+lens space   &&   透镜空间
+lens stop   &&   透镜光阑
+lens tail lamp   &&   后灯配光镜
+lens tissue   &&   拭镜纸
+lens-centering edging machine   &&   透镜定中心磨边机，
+lensmeter   &&   焦度计
+lenticular martensite   &&   透镜状马氏体
+lenticular plate martensite   &&   透镜片状马氏体
+lenticular wire   &&   透镜状导线
+lentil-headed screw   &&   扁头螺钉
+lepidolite   &&   鳞云母，红云母，锂云母
+lepolite   &&   钙长石
+leptokurtic distribution   &&   尖峰态分布
+leptokurtosis   &&   ①峰态，峭度②尖峰态
+less-than condition   &&   小于条件
+less-than or equal to   &&   小于或等于
+lessingite   &&   钙硅钸石，钙硅钸镧矿
+let-go   &&   ①分层，起层，脱层，剥离②通过③放开，释放
+letter   &&   信函，字母
+letter articulation   &&   字母清晰度
+letter character   &&   字母字符，字母符号
+letter code   &&   字母代码
+letter descriptor   &&   文字描述符
+letter feeder   &&   给信器，供信器
+letter or digit   &&   字母或数字
+letter punch   &&   铅字冲压机
+letter recognition   &&   信函识别
+letter shift   &&   换字母档
+letter sorter   &&   分信机，信函分拣机
+letter sorting control   &&   信函分拣控制
+letter sorting machine   &&   信函分拣机
+letter stacker   &&   信函叠码器
+letter string   &&   字母串，字母行
+letter symbol   &&   字母符号
+letter type code   &&   字母型代码
+letter-oriented algorithm   &&   面向字母的算法
+letterpress printing   &&   活版印刷，复写器印刷
+letterset   &&   间接凸印
+letterset printing machine   &&   凸版胶印机
+letting tint   &&   回火色
+leucoscope   &&   ①光学高温计②感色计
+leve-braked motor   &&   杠杆式制动电动机
+level   &&   ①水平面，水位，水准②电平③能级，级③水准仪，水准器，水准泡④水准测量⑤阶层，物位
+level board   &&   水平板
+level coal   &&   平煤层
+level control   &&   信号电平控制，液面控制(可缩写为 levecon)
+level curve   &&   ①阶层曲线②地平曲线
+level density   &&   ①电平密度②能的密度
+level diagram   &&   电平图
+level gauge   &&   水准仪，液面指示器，料位指示器
+level indicator   &&   ①电平指示器，液面指示器，料位指示器②层指示符
+level instrument   &&   水准仪，水平尺
+level jack   &&   杠杆起重机，杠杆千斤顶
+level land combine   &&   平地联合收获机
+level line   &&   水平线，等高线
+level line and surface   &&   水平线及水平面
+level loader   &&   水平式装载机
+level luffing crane   &&   鹅头伸臂起重机
+level meter   &&   ①电平表，电平计②物位表，料位表，液面表
+level number   &&   层次号码
+level of addressing   &&   寻址级数
+level of hardware description   &&   硬件描述级
+level of nesting   &&   嵌套层
+level plane   &&   水准面
+level recorder   &&   电平记录仪
+level rod   &&   量油杆
+level sensor   &&   物位传感器
+level set   &&   水平集
+level signal   &&   电平信号
+level structure   &&   级结构
+level surface   &&   水准面，水平面
+level tracer   &&   电平图示仪
+level transducer   &&   物位传感器
+level-crossing   &&   平面交叉，水平交叉
+level-up   &&   ①找水平②平衡
+leveling   &&   ①水准测量②调平③使均匀④矫正，矫直
+leveling action   &&   矫平作用，平整作用
+leveling block   &&   平台
+leveling instrument   &&   水准仪，水准器
+leveling machine   &&   校平机，平路机，平整机
+leveling network   &&   水准网
+leveling point   &&   水准点
+leveling rod   &&   量油杆
+leveling screw   &&   校平螺钉，调水准螺钉
+leveling staff   &&   水准标尺
+leveller   &&   矫直机，水平仪，平地机
+levelling   &&   ①水准测量，校平②矫直，整平③均匀化④均染，均涂
+levelling adjustment   &&   水准调整
+levels   &&   水平仪
+levels of decision   &&   决策的层次
+lever   &&   ①杆，杠杆，拉杆，操纵杆②柄
+lever action   &&   杠杆作用
+lever arm   &&   杠杆臂
+lever box   &&   联动柄箱，转辙传动机构
+lever bracket   &&   杆托
+lever bracket bolt and nut   &&   杆托螺栓和螺母
+lever brake   &&   杠杆式制动器，杠杆式刹车
+lever control   &&   杠杆操纵，杠杆控制
+lever crank mechanism   &&   摆杆曲柄连杆机构，摆杆曲柄四杆机构
+lever feed   &&   杠杆进给
+lever feedback servo valve   &&   杠杆反馈伺服阀
+lever fulcrum   &&   杠杆支点
+lever jack   &&   杠杆千斤顶
+lever of crane   &&   起重机臂
+lever operation   &&   杠杆传动，杆操纵
+lever press   &&   杠杆压力机
+lever punch   &&   杠杆冲压机
+lever ratio   &&   杠杆比
+lever rule   &&   杠杆定律
+lever shaft   &&   杠杆轴，曲柄轴
+lever shaft arm   &&   杠杆轴臂
+lever shaft nut   &&   杠杆轴螺母
+lever shaft packing   &&   杠杆轴填密
+lever shear   &&   杠杆式剪床
+lever sprayer   &&   杠杆式喷雾机
+lever stand   &&   转辙机
+lever steering   &&   杠杆式转向机构
+lever stop   &&   杠杆制动器
+lever switch headlamp dimmer   &&   大灯变光拨杆开关
+lever switch turn signal lamp   &&   转向信号灯拨杆开关
+lever switch washer windshield   &&   清洗器拨杆开关
+lever switch wiper windshield   &&   风窗刮水器拨杆开关
+lever type dial test indicater   &&   杠杆式刻度盘
+lever type shock absorber   &&   杠杆式减振器
+lever-actuated clutch   &&   杠杆压紧式离合器
+lever-and-screw coupling   &&   螺旋杠杆联结器
+lever-type vibrograph   &&   杠杆式测振仪
+leverage   &&   杠杆率，杠杆传动，杠杆作用
+levigate   &&   ①澄清，洗净②粉碎，磨细③洗矿，淘选
+levigation   &&   ①粉碎，研磨②澄清，洗净③黏土淘洗法
+levitating force   &&   浮力
+levitation   &&   悬浮
+levitation melting   &&   (电磁)悬浮熔炼
+levitation vehicle   &&   悬浮车
+levorotation   &&   左旋
+lewis   &&   吊楔，起重爪
+lewis bolt   &&   吊楔螺栓
+lewis hole   &&   吊楔孔
+lewisson   &&   吊楔
+lexical analysis   &&   词法分析
+lexicographic   &&   字典式
+lexicographic enumeration   &&   字典式枚举
+lexicographic ordering   &&   按字典顺序排序
+lexicographic tree   &&   字典树
+lexicographical order   &&   字母次序，按字母顺序排列
+lexicographically ordered vector   &&   字典序向量
+liaison   &&   联络单
+liberate   &&   逸出，释出，放出
+liberation   &&   ①释放，放出②游离
+liberation of electron   &&   释放电子
+liberation of gases   &&   放出气体
+liberation of heat   &&   放热
+librarian program   &&   库存程序
+librarian programming   &&   库管理程序设计
+library   &&   ①程序库，库，存储库②图书馆
+library allocation   &&   库分配
+library allocator   &&   库分配程序
+library automation   &&   图书馆自动化
+library automation system   &&   图书馆自动化系统
+library catalog   &&   图书目录
+library command   &&   库命令
+library data base   &&   图书馆数据库
+library data processing   &&   图书馆数据处理
+library entry   &&   库体
+library file   &&   库文件
+library function   &&   库函数
+library function routine   &&   库函数程序
+library level   &&   库级
+library macro definition   &&   库宏定义
+library management   &&   库管理
+library module   &&   库模块
+library network   &&   图书馆网
+library of congress system   &&   会议系统程序库
+library of data   &&   数据库
+library of subroutines   &&   子程序库
+library postlude   &&   库尾部，程序库尾部
+library prelude   &&   库序部，程序库序部
+library searching   &&   谱库检索
+library tape   &&   库存(纸)带，库存(磁)带
+license agreement   &&   许可协议 授权合约
+license key   &&   许可证号 授权码
+license lamp   &&   牌照灯
+license manager   &&   许可管理器 授权管理员
+license plate lamp   &&   牌照灯
+license server   &&   许可服务器 授权服务器
+licenses   &&   授权 授权
+lid   &&   盖，罩
+lie detector   &&   测谎器
+life   &&   时间，寿命，使用期限，耐久性
+life boat   &&   救生艇
+life buoy   &&   救生圈
+life characteristic   &&   寿命特征(曲线)
+life curve   &&   寿命曲线
+life cycle   &&   生活周期，生命周期，寿命周期，寿命循环
+life cycle analysis method   &&   寿命周期分析法
+life cycle method   &&   生命周期法
+life cycle of prototype   &&   原型的生命周期
+life distribution   &&   寿命分布
+life factor   &&   寿命系数
+life of X-ray tube   &&   X射线管寿命试验
+life parachute   &&   救生伞
+life raft   &&   救生筏
+life range of low-cycle fatigue   &&   低周疲劳寿命范围
+life slide   &&   救生滑梯
+life table   &&   生命表
+life test   &&   寿命试验
+life testing   &&   寿命试验
+life-jacket   &&   救生衣
+lifespan   &&   ①生存期间②正常运行时间
+lifetime   &&   寿命，使用期
+lifetime of system   &&   系统的寿命
+lift   &&   ①电梯，升降机，起重机②升力，升程，升起③起箱④气门升程⑤车轮半径摆差，垂直位移
+lift about hoist   &&   轨道起重机
+lift and carry mechanism   &&   升高移动零件机构
+lift and carry transfer   &&   提升移送装置
+lift and conveyer   &&   升降输送机
+lift angle   &&   升力角
+lift arm   &&   提升臂，起落臂，液压起重臂
+lift axle   &&   举升轴
+lift bolt   &&   提升螺栓
+lift bracing   &&   升力拉条
+lift bridge   &&   升降桥，吊桥
+lift cage   &&   提升笼罐，电梯
+lift clutch   &&   起落离合器，起落自动器，自动升降器
+lift coefficient   &&   升力系数，举力系数
+lift component   &&   分升力
+lift controller   &&   电梯控制器
+lift crank   &&   起落弯臂，提升曲柄
+lift cruising jet engine   &&   升力巡航喷气发动机
+lift curve   &&   升力曲线
+lift cylinder   &&   起重油缸，提升油缸
+lift direction   &&   升力方向
+lift engine   &&   升力发动机
+lift fan   &&   升力风扇
+lift gate   &&   举升门
+lift hammer   &&   提升锤，杠杆锤，落锤
+lift jet engine   &&   升力喷气发动机
+lift line theory   &&   升力线理论
+lift of hydrofoil   &&   水翼升力
+lift off tuck-in   &&   抬脚转弯
+lift out   &&   向上顶出装置，顶料，脱模
+lift pin stripper moulding machine   &&   顶箱式造型机
+lift piston   &&   提升油缸活塞，起落油缸活塞
+lift pump   &&   燃油供给泵，升水泵，提升泵，扬水泵
+lift rod stroke   &&   顶杆行程
+lift screw   &&   螺旋起重，螺旋起重器
+lift shaft   &&   ①提升轴②电梯竖井，升降机竖井
+lift tail gate   &&   举升门
+lift winch   &&   绞车
+lift-cabin   &&   轿厢，升降机室，电梯室
+lift-cabin door   &&   电梯门
+lift-cage gate   &&   电梯门
+lift-diameter ratio   &&   升程直径比
+lift-drag of towed vehicle   &&   拖曳体升阻比
+lift-drag ratio   &&   升力阻力比
+lift-jet aircraft   &&   喷气起落飞机
+lift-off effect   &&   提高效应
+lift-truck   &&   铲车，叉车，自动装卸车，升降式装卸车
+lifted idempotents   &&   升腾幂等
+lifter   &&   ①升降机，起重设备②升降杆(录音)③顶料装置，托料装置④气门推杆，气门举升工具，挺杆
+lifter guide pin   &&   浮升导料销
+lifter pin   &&   顶料销
+lifter-loader   &&   升运装载机
+lifting   &&   ①(薄)膜起②提升，起重
+lifting airscrew   &&   上升螺旋桨，直升机的旋翼
+lifting area   &&   升力面积
+lifting arm   &&   提升杆臂
+lifting axle   &&   举升轴
+lifting beam   &&   吊包架
+lifting brake   &&   起重制动，起重制动器
+lifting capacity   &&   ①(吊车的)起重能力②升举能力
+lifting device   &&   提升装置
+lifting ejector   &&   吸引喷射器
+lifting erection   &&   提升法架桥
+lifting eye   &&   吊眼，吊环，吊耳
+lifting force   &&   升力
+lifting gear   &&   升降装置，起重装置
+lifting homotopy theorem   &&   升腾同伦定理
+lifting jack   &&   千斤顶，起重器
+lifting link   &&   提升连杆
+lifting magnet   &&   ①起重电磁铁，电磁吸铁盘②磁力起重机
+lifting magnet crane   &&   电磁吊车，磁盘吊车
+lifting mechanism   &&   提升机构，提升器
+lifting motor   &&   起重电动机
+lifting pin   &&   起模顶
+lifting platform   &&   升降(平)台
+lifting power   &&   升力
+lifting ring   &&   吊环
+lifting roll   &&   提升辊
+lifting rotor   &&   升浆，旋翼
+lifting screw   &&   螺旋起重器，升降螺杆，千斤顶螺杆，起模螺钉
+lifting set   &&   起重装置
+lifting shaft   &&   提升轴
+lifting stem   &&   提升杆
+lifting surface   &&   升力面
+lifting surface theory   &&   升力面理论
+lifting tail   &&   升力尾翼
+liftout attachment   &&   顶出装置，推出装置
+liftout bolt   &&   顶出螺栓
+ligancy   &&   配位数
+ligand   &&   配(合)价，配位体，配位基
+ligand chromatography   &&   配位体色谱法
+ligarine   &&   石油醚
+light   &&   ①光，光线②光学③灯，照明④轻的，淡的，不显着的⑤发光的⑥浅色
+light aberration   &&   光行差
+light activated silicon controlled rectifier   &&   光激可控硅整流器
+light aging   &&   光致老化，光降解
+light aircraft   &&   轻型飞机，小型飞机
+light airplane   &&   轻型飞机，小型飞机
+light alloy   &&   轻合金
+light amplifier   &&   光放大器
+light annealing   &&   光亮退火
+light application by stimulated emission of radiation   &&   激光器，激光[LASER]
+light armoured vehicle   &&   轻装甲车
+light atom   &&   轻原子
+light beam   &&   光束
+light beam welding machine   &&   光束焊机
+light bomber   &&   轻型轰炸机，战术轰炸机
+light buoy   &&   发光浮标
+light button   &&   光按钮，光键
+light carrying fibre bundle   &&   光导纤维束
+light casting   &&   小(铸)件，薄(壁)件
+light cell   &&   光电池，光电管
+light coal   &&   轻煤，气煤，烛煤
+light coating   &&   薄药皮(焊条)
+light cold-rolled sheet   &&   冷轧薄板
+light color   &&   浅色，亮色，暖色
+light commercial vehicle   &&   轻型商用车 [LCV]
+light communication   &&   光通信
+light control   &&   照明控制，灯光控制
+light creosote oil   &&   轻杂酚油
+light current   &&   光电流，弱电流
+light current engineering   &&   弱电流工程
+light cut   &&   轻切削，浅切削
+light cycle oil   &&   轻质循环油
+light degradation   &&   光降解
+light diaphragm   &&   光阑，光栅
+light diesel oil   &&   轻柴油
+light digital logging instrument   &&   轻便数字测井仪
+light diode   &&   发光二极管
+light distribution   &&   光强分布，配光
+light dope   &&   轻掺杂
+light effect   &&   光效应
+light electron   &&   光电子
+light element   &&   轻元素
+light engine   &&   轻型发动机
+light excitation   &&   光激发
+light filter   &&   滤光器，滤色镜，滤光片
+light filtered cylinder oil   &&   轻质发动机油
+light fire brick   &&   轻质耐火砖
+light fire-clay insulating brick   &&   轻质耐火黏土保温砖
+light flash   &&   闪光
+light flasher   &&   闪光灯
+light flux   &&   光通量
+light force fit   &&   轻压配入
+light frequency   &&   光频率
+light fuel   &&   轻燃料，易挥发燃料
+light fuel oil   &&   轻燃料油
+light gas oil   &&   轻粗柴油，轻瓦斯油
+light generated current   &&   光生电流
+light guide   &&   ①光导②光波导
+light head   &&   光电传感头
+light hole   &&   轻空穴
+light intensity   &&   光强(度)
+light lathe   &&   轻型车床
+light level   &&   光级度
+light locomotive   &&   轻型牵引车
+light loss   &&   光损失
+light lubricating oil   &&   轻质润滑油
+light machine gun   &&   轻机枪
+light material   &&   轻材料，薄材料，小截面材料
+light metal   &&   轻金属
+light metal alloy   &&   轻金属合金
+light metal structure   &&   轻金属结构
+light meter   &&   照度计，曝光表
+light modulation   &&   光调制
+light navigation   &&   灯光导航
+light nucleus   &&   轻核
+light off   &&   关灯
+light oil   &&   轻质油，轻黏度油，轻油
+light oil engine   &&   轻油机
+light on   &&   开灯
+light pen   &&   光笔[LP]
+light pen control   &&   光笔控制
+light pen display   &&   光笔显示
+light pen function   &&   光笔功能
+light pen tracking   &&   光笔跟踪
+light pencil   &&   光束，光线锥
+light permanency   &&   耐晒性，耐旋光性
+light petroleum   &&   石油醚
+light plate   &&   轻镀锡条钢板
+light pollution   &&   光污染
+light portable conveyer   &&   轻型移动式输送器
+light press fit   &&   轻压配合
+light pulse   &&   光脉冲
+light pulse bonding   &&   光脉冲焊接
+light quantity   &&   光量(光通量与时间的乘积)
+light quantum   &&   光量子
+light quantum maser   &&   光量子激射器
+light radiation   &&   光辐射
+light rail   &&   轻轨
+light rating   &&   低功率
+light ray   &&   光线
+light recoil oil   &&   轻反冲油(反冲系统用轻质油)
+light refraction   &&   光的折射
+light region   &&   亮区
+light resistance   &&   耐旋光性，光稳定性，耐晒性
+light road oil   &&   轻质铺路油
+light scattering   &&   光散射
+light section   &&   ①小断面，薄截面②小型钢
+light section steel structure   &&   轻型钢结构
+light sensitive   &&   感光的，光敏的
+light sensitive Darlington amplifier   &&   光敏达林顿放大器
+light sensitivity   &&   光敏性，光敏度，感旋光性，感光度
+light sensor   &&   光传感器
+light shape   &&   小型钢材
+light slit   &&   光隙
+light slushing oil   &&   铸模用润滑油
+light source   &&   光源
+light spectrum   &&   光谱
+light speed   &&   光速
+light splitter   &&   分光器
+light spot   &&   光点，光斑
+light stabilizer   &&   光稳定剂
+light structure   &&   轻结构
+light switch   &&   电灯开关
+light tank   &&   轻型坦克
+light test   &&   光隙检验
+light tile   &&   轻质面砖
+light transmission   &&   光透射率，光透射，光传导
+light transmissivity   &&   光透射比，透光系数
+light transmittance   &&   光透射比，透光系数
+light transmittance pattern in polarized light   &&   偏振光的透光图样
+light truck   &&   轻型载重汽车
+light tube   &&   灯管
+light type   &&   轻便式，便携式，轻型
+light up   &&   点火，点灯
+light valve   &&   光阀
+light van/truck   &&   轻型厢式货车
+light vehicle   &&   轻型车辆
+light velocity   &&   光速
+light vessel   &&   灯船
+light viscosity oil   &&   小黏度油
+light water breeder reactor   &&   轻水增殖反应堆
+light water reactor   &&   轻水堆
+light wave   &&   光波
+light weight array   &&   轻型方阵
+light weight fire resisting concrete   &&   轻质耐火混凝土
+light weight refractory   &&   轻质耐火材料
+light weight steel shape   &&   薄壁型钢，轻质钢材
+light welding structure   &&   薄壁焊接结构
+light-absorbing   &&   吸收光的
+light-activated element   &&   光敏组件
+light-alloy casting   &&   轻合金铸造，轻合金铸件
+light-alloy metallurgy   &&   轻合金冶金学
+light-alloy piston   &&   轻合金活塞
+light-colored surface   &&   浅色表面
+light-current engineering   &&   弱电工程
+light-diffusing glass   &&   光漫射玻璃
+light-drive fit   &&   推人配合
+light-duty   &&   ①轻的，轻型的②小功率的
+light-duty lathe   &&   轻型车床
+light-emitting area   &&   发光面积
+light-emitting component   &&   发光组件
+light-emitting diode   &&   发光二极管[LED]
+light-emitting junction   &&   发光结
+light-emitting material   &&   光发射材料
+light-face   &&   细体(字)
+light-face shift   &&   细体变换
+light-fillet weld   &&   浅角焊缝
+light-flux surface density   &&   光通量表面密度
+light-gathering power   &&   聚光本领
+light-gauge sheet   &&   薄(钢)板
+light-load   &&   轻负荷，轻负载
+light-loaded network   &&   轻负载网络
+light-negative   &&   负光电导性(在光的作用下导电性减低)
+light-off   &&   启动
+light-off time   &&   启动时间[LOT]
+light-positive   &&   正光电导性(在光的作用下导电性增加)
+light-resistant   &&   耐光的
+light-sensitive glass   &&   光敏玻璃
+light-sensitive layer   &&   光敏层，感光层
+light-sensitive material   &&   感光材料，光敏材料
+light-sensitive semiconductor material   &&   光敏半导体材料
+light-sensitive surface   &&   感光面
+light-stability   &&   光稳定性，耐旋光性
+light-up plug   &&   火花塞
+light-weight brick   &&   轻质砖
+light-weight concrete   &&   轻质混凝土，轻骨料混凝土
+light-weight insulating brick   &&   轻质保温砖
+lightening   &&   ①减轻②缓和③照亮
+lightening hole   &&   减重孔，点火孔
+lighter   &&   ①打火机，点火器②驳船
+lighter-than-air aircraft   &&   轻飞行器
+lighthouse   &&   灯塔
+lighthouse equipment   &&   灯塔装置
+lighthouse oil   &&   灯塔用油
+lighting   &&   ①照明②点火，点灯③照明效果
+lighting calculation   &&   照明计算
+lighting circuit   &&   照明电路
+lighting colour   &&   照明色彩
+lighting criteria   &&   照明标准
+lighting equipment   &&   照明设备，照明装置
+lighting facility   &&   照明设备
+lighting fixture   &&   照明器具，照明器材
+lighting for underwater cinematography   &&   水下摄影照明
+lighting hole   &&   点火孔
+lighting mains   &&   照明干线
+lighting meter   &&   照明电度表
+lighting parameter   &&   照明参数
+lighting quality   &&   照明质量
+lighting source   &&   照明光源
+lighting standard   &&   照明标准
+lighting switch   &&   照明开关
+lighting system   &&   照明系统
+lightly coated electrode   &&   薄药皮焊条，薄包药焊条
+lightly deformed crystal   &&   微变形晶体
+lightly doped base   &&   轻掺杂基区
+lightly mottled gray cast iron   &&   轻麻口灰铸铁
+lightly pitching coal   &&   缓倾斜煤层
+lightness   &&   亮度
+lightning   &&   闪电，雷电
+lightning arrester   &&   避雷器
+lightning arrester characteristics   &&   避雷器特性
+lightning arrester gap   &&   避雷器间隙
+lightning conductor   &&   避雷针
+lightning current   &&   雷电流
+lightning flashover   &&   雷电闪络
+lightning impulse   &&   雷电冲击
+lightning impulse current   &&   雷电冲击电流
+lightning outage   &&   雷电事故率
+lightning overvoltage   &&   雷电过电压
+lightning protection   &&   防雷
+lightning protector   &&   避雷器
+lightning radiation   &&   雷电辐射
+lightning rod   &&   避雷针
+lightning stroke   &&   雷击
+lightning surge   &&   雷电冲击(波)
+lightning surge operating duty test   &&   雷电冲击动作负载试验
+lightning tooth cross-cut saw   &&   闪齿横割锯
+lightning-protection grounding net   &&   防雷地线网
+lightproof   &&   ①耐旋光性，耐晒性②不透光性
+lightwave transmission system and multiplexer equipment SDH-based   &&   同步数位阶层光波传输系统及多任务机设备
+lightwave transmission system and multiplexer equipment SONET-based   &&   同步光纤网路光波传输系统及多任务机设备
+lightweight alumina brick   &&   轻质高铝砖，轻质氧化铝砖
+lightweight board   &&   轻质板材
+lightweight construction   &&   轻型结构
+lightweight grader   &&   轻型平地机
+lightweight laser   &&   轻便型激光器
+lightweight lime concrete   &&   轻石灰混凝土
+lightweight package   &&   轻质封装
+lightweight power unit   &&   轻便动力设备
+lignite   &&   石油英，石油醚，粗汽油，挥发油，褐煤
+lignite oil   &&   褐煤油
+lignite tar oil   &&   褐煤焦油
+lignitic coal   &&   褐煤
+like attribute   &&   相似属性
+like combinations   &&   相同组合
+like numbers   &&   同类数，同名数
+like parity   &&   同奇偶性
+like polarity   &&   同极性
+like pole   &&   同名极
+like terms   &&   同类项
+likelihood   &&   似然性
+likelihood function   &&   似然函数，相似函数
+likelihood ratio   &&   似然比，似然率
+likelihood ratio test   &&   似然比值检验
+likeness relation   &&   相似关系，类似关系
+limb   &&   ①管柱，心柱②管脚③分度弧(四分仪等的)④边缘
+lime   &&   石灰
+lime crown glass   &&   钙冕玻璃
+lime glass   &&   钙玻璃，石灰玻璃
+lime lead glass   &&   钙铅玻璃
+lime refractory   &&   石灰质耐火材料，钙质耐火材料
+lime silicate glass   &&   硅酸钙玻璃，石灰玻璃
+lime soda glass   &&   钠钙玻璃，石灰苏打玻璃
+lime-sand brick   &&   灰砂砖，硅石砖
+lime-uranite   &&   钙铀云母
+limes inferiors   &&   下极限
+limes superiors   &&   上极限
+limestone oil   &&   石灰石油，石灰沉积中石油
+limit   &&   ①限，极限，限度，范围，限制，极限值②区域，界限
+limit alarm sensor   &&   极限报警检测器
+limit at pulsating stress   &&   脉动应力极限
+limit check   &&   极限检验
+limit control   &&   极限位置控制，极限控制
+limit conversion efficiency   &&   极限转换效率
+limit curve   &&   极限曲线
+limit cycle   &&   ①极限环②极限循环，极限周期
+limit cycle control   &&   限值循环控制
+limit cycle oscillation   &&   极限环振荡
+limit design   &&   极限设计
+limit design method   &&   极限设计法
+limit distribution   &&   极限分布
+limit equivalent conductance   &&   极限当量电导
+limit frequency   &&   极限频率
+limit function   &&   极限函数
+limit gauge   &&   界限量规，极限量规，限规
+limit in bending   &&   弯曲极限
+limit in mean   &&   平均极限，均值极限
+limit in shear   &&   剪切极限
+limit in tension   &&   拉伸极限
+limit linear mappjng   &&   极限线性映射
+limit load   &&   极限载荷
+limit matrix   &&   极限矩阵
+limit of compression   &&   压缩限度
+limit of computational model   &&   计算模型的局限性
+limit of convergence   &&   收敛极限
+limit of detection   &&   检测限
+limit of detonability   &&   爆震限度
+limit of diffusion   &&   扩散限度
+limit of elasticity   &&   弹性极限
+limit of elasticity in compression   &&   抗压弹性极限，压缩弹性极限
+limit of error   &&   误差限度
+limit of fatigue   &&   疲劳极限
+limit of flammability   &&   可燃性极限
+limit of friction   &&   摩擦极限
+limit of impurities   &&   杂质限度
+limit of inflammability   &&   可燃性极限
+limit of intrinsic error   &&   基本误差限
+limit of precision   &&   精密限度，精度极限
+limit of proportionality   &&   比例极限，比例限度
+limit of resolving power   &&   分辨率极限
+limit of saturation   &&   饱和极限
+limit of sequence   &&   序列极限
+limit of size   &&   尺寸极限，极限尺寸
+limit of stretching strain   &&   伸长限度
+limit of wear   &&   磨损限(度)
+limit orbit   &&   极限轨道
+limit ordinal number   &&   极限序数
+limit path   &&   极限通路
+limit plug gauge   &&   界限塞规，极限塞规
+limit point   &&   极限点
+limit point width   &&   极限刀顶距
+limit position   &&   极限位置
+limit preserving   &&   连续函子，极限保存
+limit pressure angle   &&   极限压力角
+limit priority   &&   极限优先权
+limit ratio   &&   限幅比
+limit region   &&   极限区
+limit register   &&   (上下)界寄存器，界限寄存器
+limit resolution   &&   极限分辨率
+limit screw   &&   止动螺钉
+limit size   &&   极限尺寸
+limit snap gauge   &&   极限卡规
+limit stop   &&   ①极限开关，终点开关  ②限制器，止动器，挡块
+limit superior   &&   上极限
+limit switch   &&   极限开关，限位开关，行程开关
+limit system   &&   公差制，极限制
+limit theorem   &&   极限定理
+limit value   &&   极限值
+limitable   &&   可求极限的
+limitation   &&   限制，局限性，极限，界限，限度
+limitation of length   &&   长度极限
+limitation of resources   &&   资源限制
+limitational factor   &&   限制因素
+limited access data   &&   有限访问数据
+limited after-effect   &&   有限后效
+limited aperture   &&   限光孔
+limited availability   &&   有限利用度
+limited breathing enclosure   &&   限制通气外壳
+limited channel logout   &&   限定通道记录输出
+limited circuit   &&   限幅电路，限制电路
+limited converse domain   &&   有限后域
+limited coverage range   &&   受限范围，有限射程范围
+limited creep stress   &&   蠕变极限(应力)
+limited current   &&   极限电流
+limited degree-of-freedom robot   &&   有限自由度机器人
+limited diode   &&   限幅二极管
+limited entry decision table   &&   限项判定表
+limited fibre structure   &&   局限丝缕结构
+limited function   &&   有界函数
+limited optimization   &&   有限优化
+limited page allocation   &&   有限页面分配
+limited parking   &&   停车位有限
+limited purpose computer   &&   专用计算机
+limited set   &&   有界集
+limited signal   &&   限幅信号
+limited size   &&   允许尺寸偏差
+limited slip differential   &&   抗滑差速器
+limited source diffusion   &&   有限源扩散
+limited stability   &&   有限稳定度
+limited step Newton method   &&   限步牛顿法
+limited swelling   &&   有限溶胀，有限泡胀
+limited value   &&   有限值
+limited variation   &&   有界变差
+limited waiting room   &&   有限等待空间
+limited-information method   &&   有限信息法
+limiter   &&   限幅器，限制器，限动器
+limiter amplifier   &&   限幅放大器
+limiter circuit   &&   限幅电路
+limiting angle   &&   极限角
+limiting availability   &&   极限可用度
+limiting circle   &&   极限圆
+limiting condition   &&   极限条件
+limiting control   &&   极限控制
+limiting control action   &&   极限控制作用
+limiting creep stress   &&   极限蠕变应力
+limiting current   &&   极限电流
+limiting device   &&   限幅器
+limiting dimension   &&   极限尺寸
+limiting dive   &&   极度俯冲
+limiting effective wavelength   &&   极限有效波长
+limiting efficiency   &&   极限效率
+limiting equilibrium   &&   极限平衡
+limiting error   &&   极限误差
+limiting exposure   &&   极限曝光时间
+limiting fragmentation model   &&   极限碎裂模型
+limiting frequency   &&   极限频率，截止频率
+limiting friction   &&   极限摩擦
+limiting function   &&   极限函数
+limiting information capacity   &&   极限信息容量
+limiting insulation temperature   &&   极限绝缘温度
+limiting level   &&   极限电平
+limiting maximum stress   &&   极限最大应力
+limiting mean   &&   平均极限，均值极限
+limiting minimum stress   &&   极限最小应力
+limiting operating condition   &&   极限工作条件
+limiting point of a sequence   &&   序列的极限点
+limiting pressure combustion   &&   限压燃烧
+limiting range of stress   &&   应力极限范围
+limiting resistor   &&   限流电阻器
+limiting resolution   &&   极限分辨率
+limiting sensibility   &&   极限灵敏度
+limiting snap gauge   &&   极限卡规
+limiting speed   &&   极限速度
+limiting sphere   &&   极限球
+limiting stopper   &&   限位器
+limiting strain   &&   极限应变
+limiting strength   &&   极限强度
+limiting stress   &&   极限应力
+limiting temperature   &&   极限温度
+limiting vacuum   &&   极限真空度
+limiting value   &&   极限值，限制阀
+limiting value for operation   &&   工作极限值
+limiting value for storage   &&   贮存极限值
+limiting value for transport   &&   运输极限值
+limiting velocity   &&   极限速度
+limiting viscosity number   &&   特性黏度数
+limiting voltage   &&   限幅电压
+limiting wave length   &&   极限波长
+limiting-creep strength   &&   极限蠕变强度
+limits   &&   图形界限 范围，图面范围
+limits of error   &&   误差(极)限
+limits of operating error   &&   工作误差根限
+limits to growth   &&   增长极限
+limnetic coal   &&   淡水煤，沼煤
+limonite   &&   褐铁矿
+limousine   &&   轿车，大型高级轿车
+linage   &&   行数
+linage counter   &&   行计数器
+line   &&   ①线，直线②管路③线路，路线④系列，排串⑤电线，传输线⑥行⑦外形，轮廓
+line accumulator   &&   线路放大器，行信号放大器
+line adapter   &&   线路适配器
+line advance   &&   换行
+line amplifier   &&   线路放大器，行信号放大器
+line amplitude   &&   行幅度
+line bank   &&   接线排
+line belt   &&   传送带
+line blanking   &&   行消隐
+line blanking interval   &&   行熄灭间隔
+line breadth   &&   谱线宽度
+line breaker   &&   断路器
+line broadening   &&   ①谱线变宽②线条增宽化
+line buffer   &&   行缓冲器
+line bundle   &&   线丛，线把，分裂等线
+line busy   &&   占线
+line busy tone   &&   线路忙音
+line capacity   &&   线路容量
+line characteristics   &&   线路特性
+line chart   &&   线路(施工)图，线形图
+line clamp   &&   线夹
+line clipping algorithm   &&   线剪裁算法
+line code   &&   一行代码
+line colouring   &&   线着色
+line communication   &&   有线通信
+line computation   &&   线计算
+line constant   &&   线路常数
+line contact   &&   线接触
+line control block   &&   线路控制块[LCB]
+line control computer   &&   线路控制计算机
+line control routine   &&   线路控制程序
+line coordinate   &&   线坐标
+line cord   &&   电源软线
+line core   &&   ①线心②线核
+line counter   &&   行计数器
+line coupler   &&   线路耦合器
+line covering   &&   线覆盖
+line covering number   &&   线覆盖数，边覆盖数
+line critical graph   &&   线临界图
+line data set   &&   行式数据集
+line defect   &&   线路缺陷
+line definition   &&   行分辨度，行定义
+line deflection system   &&   行偏转系统
+line delete command   &&   行删除命令，删行命令
+line deletion character   &&   删行字符
+line dement   &&   线(元)素
+line density   &&   线密度
+line discipline   &&   线路规程，行规则
+line dislocation   &&   线位错
+line displacement   &&   谱线位移
+line distortion   &&   行失真
+line drawing   &&   线提取，线制图
+line drive pulse   &&   行启动脉冲
+line drop   &&   线路电压降
+line editor   &&   行编辑程序
+line end   &&   线路终端
+line equalizer   &&   线路均衡器
+line error   &&   线误差
+line extender   &&   线路扩充器
+line family   &&   直线族
+line fault   &&   线路故障
+line feed   &&   ①换行，移行②线路馈电
+line feed character   &&   换行字符
+line feed code   &&   换行码
+line fill   &&   线路占用率，线路利用率
+line filter   &&   线路滤波器
+line finder   &&   行定位器，线寻找器，找线器
+line fitting   &&   线段拟合
+line flyback pulse   &&   行回扫脉冲
+line focus   &&   线焦点
+line focusing concentrator   &&   线聚光器
+line focusing type   &&   线聚光型
+line font   &&   线型 线字体
+line format item   &&   行格式项
+line frame   &&   线路帧
+line graph   &&   线图
+line group   &&   线群
+line hold   &&   行同步
+line identification   &&   谱线证认
+line imager   &&   线图像器
+line impedance   &&   线路阻抗
+line independence number   &&   线独立数，边独立数
+line input   &&   线路输入
+line insert command   &&   行插入命令
+line integral   &&   线积分
+line interlacing   &&   隔行扫描
+line inversion   &&   线反演
+line involution   &&   线束对合
+line item   &&   行式项目
+line iteration   &&   线迭代
+line jack   &&   线路插孔
+line lattice   &&   直线晶格
+line linearity   &&   行扫描线性
+line link   &&   线路环节，线链
+line load   &&   线路负荷
+line lock   &&   ①行同步②电源同步
+line loop   &&   电话回路
+line loss computation   &&   线损计算
+line loss per unit   &&   线损率
+line masker   &&   行标记
+line material   &&   线路器材
+line misregistration   &&   行位不正
+line monitor   &&   线路监听器
+line network   &&   线路网
+line number   &&   行号，行数，线数
+line number operator   &&   行编号算符
+line numbered file   &&   行编号文件
+line object   &&   线性对象 线物件
+line of action   &&   ①作用线②啮合线，接触线
+line of aim   &&   瞄准线
+line of bearing   &&   方位线
+line of centers   &&   连杆机构，联心线，中心线
+line of contact   &&   接触线
+line of curvature   &&   曲率线
+line of digraph   &&   双图形线
+line of equidistance   &&   等距线
+line of ferrite   &&   铁素体带
+line of flux   &&   通量线
+line of force   &&   力线
+line of induction   &&   感应线
+line of intersection   &&   交线
+line of least squares   &&   最小二乘方线
+line of magnetization   &&   磁化线
+line of production   &&   生产流程，生产线
+line of projection   &&   投影线
+line of propagation   &&   传播路径(电波)
+line of pull   &&   拉力线
+line of quickest descent   &&   最速降线
+line of reference   &&   参考线，基础线
+line of regression   &&   回归线，脊线
+line of segregation   &&   线状偏析，偏析带
+line of shortest length   &&   最短线
+line of sight   &&   视线
+line of sight coverage   &&   视距，视野范围
+line of sight link   &&   视线线路(链路)
+line of sight propagation   &&   视距传播
+line of singularity   &&   奇线
+line of solidification   &&   凝固线
+line of striction   &&   腰曲线，垂足限线
+line of swiftest descent   &&   最速下降线
+line of torsion   &&   扭曲线，螺旋线
+line of trend   &&   趋势线
+line of zero moment   &&   零矩线
+line operator   &&   长途台话务员
+line option   &&   行任选(项)
+line out of service   &&   线路停止使用
+line output transformer   &&   行输出变压器
+line overrelaxation   &&   行超松弛，线超松弛
+line pair   &&   线耦，线对
+line parameter   &&   线路参数
+line pattern   &&   线条图形
+line pencil   &&   线束
+line pointer   &&   行指示字，行指示符
+line polar of a carve   &&   曲线的极线
+line policy   &&   作业政策
+line printer   &&   行式打印机(印刷机)，宽行打印机，一次一行印刷机
+line printing   &&   行式打印，宽行打印
+line production   &&   流水作业
+line profile   &&   谱线轮廓
+line protective device   &&   线路保护装置
+line protocol   &&   线路协议
+line reflection   &&   直线反射
+line relaxation   &&   行松弛，线松弛
+line replace command   &&   换行命令
+line scale   &&   直线标度
+line scanner   &&   行扫描器，行扫描仪
+line scanning   &&   线扫描
+line scanning frequency   &&   行扫描频率
+line scanning period   &&   行扫描周期
+line search   &&   线搜索，行搜索
+line segment   &&   线段 线段
+line sensitivity   &&   行灵敏度，线灵敏度
+line sequential colour system   &&   行序彩电系统
+line series   &&   线列
+line service   &&   线路维护，线路保养
+line shaft   &&   天轴，总传动轴，动力轴，中间轴
+line shaft bearing   &&   天轴轴承，船舶传动轴轴
+line shaft drive   &&   天轴传动
+line shaft hanger   &&   天轴吊架
+line shaft transmission   &&   天轴传动
+line shape   &&   线形
+line shift   &&   谱线位移
+line singularity   &&   线奇性
+line size option   &&   行大小任选
+line skew   &&   行位偏斜
+line softening   &&   连续直通软化处理
+line source   &&   线光源
+line space selection unit   &&   打印行选择机构
+line spacing   &&   行间隔
+line spectrum   &&   线(状)光谱
+line speed   &&   作业线速度，线速度
+line splitting   &&   谱线分裂
+line standard   &&   线路标准
+line strain   &&   线应变
+line structure   &&   行结构
+line supervisor   &&   线长
+line symmetric graph   &&   线对称图
+line symmetry   &&   线对称
+line tension   &&   线张力
+line tension of dislocation   &&   位错的线张力
+line to line resolution   &&   线分辨力
+line tracking   &&   线条跟踪
+line traffic   &&   线路通信量
+line transformer   &&   线路变压器
+line transmission   &&   线路传输
+line turnaround   &&   线路换向
+line up   &&   ①排列成行②调节
+line up test   &&   综合测试
+line voltage   &&   线电压
+line voltage regulation   &&   电源电压调整率
+line vortex   &&   谱形涡动，线性涡动
+line welding   &&   缝焊
+line width   &&   ①线幅，线宽(度)②行宽
+line with lead   &&   衬铅
+line-a-time printer   &&   行式打印机，宽行打印机
+line-a-time printing   &&   行式打印，宽行打印
+line-at-a-time printer   &&   行式打印机，宽行打印机
+line-at-time printer   &&   行式印刷机(打印机)，一次一行印刷机
+line-by-line clamp   &&   逐行钳位
+line-by-line scanning   &&   逐行扫描
+line-chromatic number   &&   线色数
+line-cone   &&   线圆锥
+line-connected graph   &&   线连接图
+line-connectivity   &&   线连通度，边连通度
+line-disjoint path   &&   线不相交道路
+line-focus   &&   线状焦点(X射线)，行聚焦
+line-frequency   &&   ①行频(率)，线路频率②工频，工业频率
+line-indices   &&   反射线指数(X射线)
+line-oriented macro scheme   &&   面向行的宏功能方案
+line-regular graph   &&   线正则图
+line-rooted graph   &&   线有根图
+line-sharing system   &&   分路传输系统
+line-to-line   &&   线闻
+line-to-line voltage   &&   线(间)电压
+line-to-neutral voltage   &&   线与中性点电压
+lineage   &&   ①系属②系，族③线
+lineage boundary   &&   亚晶界，晶畴缺陷界面
+lineage structure   &&   线状结构(晶体的)，线状组织
+linear   &&   线性，直线的
+linear Boolean recursion   &&   线性布尔递归
+linear Diophantine equation   &&   线性丢潘图方程
+linear absorption coefficient   &&   线性吸收系数
+linear acceleration   &&   线加速度
+linear acceleration sensor   &&   线加速度传感器
+linear acceleration transducer   &&   线加速度传感器
+linear accelerator   &&   直线加速器
+linear actuator   &&   线性执行机构，直线运动液压缸，直线触动器
+linear after expansion   &&   线性残余膨胀
+linear algebra   &&   线性代数
+linear amplifier   &&   线性放大器
+linear analog control   &&   线性模拟控制
+linear analysis   &&   线性分析
+linear and nonlinear constraints   &&   线性和非线性约束
+linear approximation   &&   线性近似，线性逼近
+linear array   &&   ①直线式天线阵②线性阵列，线阵
+linear array receiver   &&   线阵列接收机
+linear asynchronous structure   &&   线性异步结构
+linear axiom   &&   直线公理
+linear bounded automata   &&   线性有限自动机
+linear bundle   &&   线丛
+linear capacitor   &&   线性电容
+linear chain   &&   直链，线性(结合)链
+linear characteristics   &&   线性特征
+linear cipher system   &&   线性密码体制
+linear circuit   &&   线性电路
+linear classifier   &&   线性分类器
+linear closure   &&   线性闭包
+linear code   &&   线性码
+linear coefficient   &&   线性系数
+linear combination   &&   线性组合
+linear combination of atomic orbitals   &&   原子轨道(函数的)线性组合
+linear commutation   &&   线性整流，线性换向
+linear complex   &&   线性线丛
+linear compound   &&   直链化合物
+linear concentrator   &&   线性聚光器
+linear condensation   &&   线型缩合，线型缩聚
+linear conductor   &&   (直)线型导体
+linear congruential method   &&   线性同余法
+linear constraint   &&   直线型限制条件，线性约束
+linear construction   &&   线性结构
+linear context-free language   &&   线性上下文无关语言
+linear continuum   &&   线性连续
+linear control process   &&   线性控制过程
+linear control system   &&   线性控制系统
+linear control system theory   &&   线性控制系统理论
+linear control theory   &&   线性控制理论
+linear convergence   &&   线性收敛
+linear conversion   &&   线性转换
+linear correlation   &&   线性相关
+linear creep theory   &&   线性蠕变理论
+linear cumulative damage law   &&   线性累积损伤理论
+linear cut   &&   直性切割
+linear cutting   &&   线切割
+linear cutting machine   &&   线切割机床
+linear damage   &&   线性损伤
+linear damping   &&   线性阻尼
+linear data storage representation   &&   线性数据存储表示
+linear data structure   &&   线性数据结构
+linear decision rule   &&   直线型决策法则
+linear deformation   &&   纵向变形，线性变形，长度变形
+linear density   &&   (沿)线密度
+linear dependence   &&   线性相关性
+linear detector   &&   线性检波器
+linear difference equation   &&   线性差分方程
+linear differential equation   &&   线性微分方程
+linear dimension   &&   线性标注 线性标注
+linear dipper   &&   线性削波器
+linear discrete-valued system   &&   线性离散值系
+linear discrimination classification   &&   线性判别分类
+linear discrimination function   &&   线性判别(式)函数
+linear dispersion   &&   线色散
+linear displacement   &&   直线位移，线位移
+linear displacement grating   &&   直线位移光栅
+linear displacement transducer   &&   线性位移传感器
+linear distance   &&   直线距离
+linear distortion   &&   线性失真，线性畸变
+linear distribution   &&   线性分布
+linear drying shrinkage   &&   线千燥收缩率
+linear dual slope type   &&   线性双斜型
+linear dynamical problem   &&   线性动态问题
+linear dynamics and quadratic criteria   &&   线性动力学与二次判据
+linear elastic fracture mechanics   &&   线(性)弹性断裂力学[LEFM]
+linear elasticity   &&   线(性)弹性
+linear electric actuator   &&   电子直线加速器
+linear electric motor   &&   直线电机
+linear element   &&   ①弧元素，线元素②线性组件
+linear elliptic equation   &&   线性椭圆型方程
+linear equation   &&   线性方程，一次方程
+linear estimate   &&   线性估计
+linear estimation   &&   线性估计
+linear expansion   &&   线膨胀
+linear expansion coefficient   &&   线膨胀系数
+linear extension   &&   线延伸，直线延伸
+linear extension strain   &&   线性拉伸应变
+linear factor   &&   线性因子
+linear feature extraction   &&   线性特征抽取
+linear filter   &&   线性滤波器
+linear finite automaton   &&   线性有限自动机
+linear first-order differential equation   &&   一阶线性微分方程
+linear flow   &&   线性流，线性进程
+linear fractional function   &&   线性分式函数
+linear fractional programming   &&   线性分式规划
+linear function   &&   线性函数
+linear functional   &&   线性泛函
+linear fuzzy system   &&   线性模糊系统
+linear graph   &&   线状图，线性图
+linear graph package   &&   线性图形程序包
+linear growth process   &&   线性增长过程
+linear hardening   &&   线性硬化
+linear hash   &&   线性散列
+linear hierarchy of multiple storage levels   &&   多存储器级的线性层次结构
+linear homogeneous equation   &&   线性齐次方程，齐次一次方程
+linear hypothesis   &&   线性假设
+linear hypothesis model   &&   线性假设模型
+linear impedance   &&   线性阻抗
+linear independence   &&   线性无关性，线性独立
+linear index progression   &&   线性下标增减
+linear indifference curve   &&   线性无差异曲线
+linear induction motor   &&   直线感应电动机
+linear inequalities   &&   线性不等式
+linear input form strategy   &&   线性输入形式策略
+linear input tape   &&   线性输人带
+linear integrated circuit   &&   线性集成电路
+linear interpolation   &&   圆弧插値，线性插值，直线插补
+linear involution   &&   线性对合
+linear isometry   &&   线性等距
+linear language   &&   线性语言
+linear list   &&   线性表
+linear location   &&   线定位
+linear long chain   &&   线型长链
+linear machine   &&   线性机
+linear macromolecule   &&   线型大分子
+linear manifold   &&   线性簇，线性流形
+linear mapping   &&   线性映射
+linear memory   &&   线存储器
+linear metric space   &&   线性度量空间
+linear milling machine   &&   龙门铣床
+linear minimization problem   &&   线性最小化问题
+linear model   &&   线性模型
+linear modulation   &&   线性调制
+linear momentum   &&   线动量
+linear motion   &&   直线运动
+linear motion valve   &&   直行程阀
+linear motor   &&   线性电动机
+linear multiple regressive model   &&   线性多重回归模型
+linear multiplication order   &&   线性乘法顺序
+linear multistep method   &&   线性多步法
+linear network   &&   线性网络
+linear network elements   &&   线性网络组件
+linear objectives   &&   线性目标函数
+linear operator   &&   线性算子
+linear optimal control   &&   线性最优控制
+linear optimal control system   &&   线性最优控制系统
+linear optimization   &&   线性优化
+linear order   &&   线性序，全序
+linear oscillation   &&   线性振动
+linear parabolic equation   &&   线性抛物型方程
+linear parameter   &&   线性参数
+linear path system   &&   线性分支系统
+linear pencil   &&   线性束
+linear permutation   &&   线性排列
+linear pitch   &&   线节距
+linear point-set   &&   一维点集，线性点集
+linear polarization   &&   线性极化，线性偏振
+linear polarization technique   &&   线性极化技术
+linear polymer   &&   线型聚合物
+linear polymerization   &&   线型聚合
+linear polynomial   &&   线形多项式
+linear potentiometer   &&   线性电位器
+linear precedence function   &&   线性优先函数
+linear prediction   &&   线性预报
+linear predictive coding   &&   线性预测编码
+linear probing   &&   线性探查
+linear programming   &&   线性规划[LP]
+linear propulsion   &&   线性推进
+linear pseudometric space   &&   线性伪度量空间
+linear quadratic Gaussian problem   &&   线性二次型高斯问题
+linear quadratic regulator   &&   线性二次型调节器
+linear quasi-normed space   &&   线性拟范空间
+linear query   &&   线性查询
+linear ramp type   &&   线性斜坡型
+linear range   &&   线性范围
+linear ratio   &&   线性比
+linear recording   &&   线性记录
+linear recurrence   &&   线性递归
+linear regression   &&   线性回归，直线回归
+linear regression analysis   &&   线性回归分析
+linear regulator   &&   线性调节器
+linear rehash method   &&   线性再散列法
+linear relation   &&   线性关系
+linear relationship   &&   线性关系
+linear representation   &&   线性表示法
+linear residue code   &&   线性剩余码
+linear resistor   &&   线性电阻
+linear resolution   &&   线性消解
+linear response theory   &&   线性响应理论
+linear scale   &&   线性标度
+linear scan   &&   线性扫描
+linear search   &&   线性搜索法
+linear separable function   &&   线性可分函数
+linear separator   &&   线性分离器
+linear sequential machine   &&   线性时序机
+linear servo-mechanism   &&   线性伺服机构
+linear shrinkage   &&   直线收缩，线性收缩
+linear simple lattice   &&   线性简单点阵
+linear simultaneous equations   &&   线性联立方程
+linear smoothing   &&   线性平滑
+linear source   &&   线光源
+linear space   &&   线性空间
+linear spanning   &&   线性生成
+linear speed   &&   线速度
+linear storage hierarchy   &&   线性存储层次
+linear store   &&   线存储器
+linear strain   &&   线应变，线性应变
+linear structure   &&   线状构造，线性结构，直线(型)结构
+linear subgraph   &&   线性子图
+linear subspaces   &&   线性子空间
+linear substitution   &&   线性代换
+linear sweep   &&   线性扫描
+linear system   &&   线性系统
+linear system of time-varying   &&   线性时变系统
+linear system simulation   &&   线性系统仿真
+linear system with time lag   &&   时迟线性系统
+linear system with variable coefficients   &&   变系数线性系统
+linear tensor   &&   线性张量
+linear thermal expansion   &&   线性热膨胀
+linear thermistor   &&   线性热敏电阻器
+linear thermodilatometry   &&   线膨胀法
+linear time algorithm   &&   线性时间算法
+linear time base   &&   线性时基
+linear time-invariant control system   &&   线性定常控制系统
+linear time-varying control system   &&   线性时变控制系统
+linear topology   &&   线性拓朴
+linear transform   &&   线性变换
+linear transformation   &&   线性变换，一次变换
+linear transient analysis   &&   线性暂态分析
+linear unit   &&   线性装置
+linear utility function   &&   线性效用函数
+linear variety   &&   线性簇，线性流形
+linear vectogram   &&   线性矢量图
+linear velocity   &&   线速度
+linear velocity sensor   &&   线速度传感器
+linear velocity transducer   &&   线速度传感器
+linear vibration   &&   线性振动
+linear viscous damping   &&   线性粘性阻尼
+linear viscous damping coefficient   &&   线性粘性阻尼系数
+linearise   &&   直线化
+linearity   &&   线性，直线性
+linearity accelerator   &&   线性加速器
+linearity curve   &&   线性曲线
+linearity error   &&   线性度误差
+linearity of amplifier   &&   放大器线性，垂直线性
+linearity of time base   &&   时基线性
+linearity property   &&   线性性质
+linearization   &&   线性化
+linearization technique   &&   线性化方法
+linearized equation   &&   线性化方程
+linearized extension of mapping   &&   映射的线性化扩充
+linearized model   &&   线性化模型
+linearizer   &&   线性化电路
+linearly accelerated gas   &&   线性加速气体
+linearly compact   &&   线性紧的
+linearly dependent   &&   线性相关
+linearly dependent vectors   &&   线性相关的向量
+linearly independent   &&   线性无关，线性独立
+linearly independent set   &&   线性无关集
+linearly independent vector   &&   线性无关向量
+linearly polarized light   &&   线偏振光
+linearly rising front impulse   &&   斜角波
+linearly rising front-chopped impulse   &&   线性上升波前截断冲击波
+linearly semi ordered space   &&   线性半序空间
+linearly separable function   &&   线性可分函数
+linearly-graded junction   &&   线性缓变结
+lined furnace   &&   有衬炉
+lineman's spectrometer   &&   携带式光谱仪
+lineograph   &&   描线规
+lineoid   &&   超平面
+liner   &&   ①衬垫，衬套，垫片，(汽)缸套②炉衬，衬垫、套筒、嵌入件
+liner material   &&   衬里材料，炉衬材料
+linescan   &&   线扫描曲线
+linetype   &&   线型
+lineweight   &&   线宽
+linguistic approach to pattern recognition   &&   语言模式识别法
+linguistic approximation   &&   语言近似
+linguistic field   &&   语言场
+linguistic possibility   &&   语言的可能性
+linguistic probability   &&   语言(学)概率
+linguistic variable   &&   语言变量
+lining   &&   ①摩擦衬片②车身内饰织物面层③(炉)衬，内衬，衬里，垫片，衬垫④套筒
+lining alloy   &&   轴承衬合金，衬垫合金
+lining attack   &&   炉衬侵蚀
+lining burn-back   &&   炉衬熔蚀
+lining material   &&   轴承衬材料，衬垫材料
+lining wear   &&   炉衬侵蚀
+lining, pressing bush   &&   压块衬片
+lining-up   &&   ①砌衬，内衬②校正，校准，调整，对准中心③排列，排齐，调整
+liningless cupola   &&   无炉衬冲天炉
+link   &&   ①连杆②链节，环③键合，链合④链路，连接，连接指令，连接装置，接线
+link access attribute   &&   连接访问属性
+link address   &&   连接地址，返回地址
+link arm   &&   连杆臂
+link belt   &&   链带
+link bit   &&   连接位
+link block   &&   连接分程序
+link bolt   &&   铰接螺栓，活节螺栓
+link control module   &&   连接控制模块
+link control procedure   &&   连接控制程序
+link control program   &&   连接控制程序
+link coupling   &&   环卡联轴节，环节耦合，链耦
+link field   &&   连接字段
+link gear   &&   连杆机构，联动机构
+link gearing   &&   连杆传动装置
+link indicator   &&   连接指示器
+link insulator   &&   串式绝缘子
+link library   &&   连接程序库
+link loader   &&   连接装载程序
+link macro-instruction   &&   连接宏指令
+link management   &&   链路管理
+link mechanism   &&   连杆机构，联动机构
+link motion   &&   连杆机构运动
+link motion valve gear   &&   连杆阁动装置
+link name   &&   连接名字
+link order   &&   返回指令，连接指令
+link pack area   &&   连接装配(存储)区[LPA]
+link pin   &&   连接销
+link polygon   &&   环节多角形
+link press   &&   连杆压力机
+link program   &&   链接程序
+link protocol   &&   链路协议
+link protocol data unit   &&   链路协议数据单位
+link register   &&   连接寄存器
+link relative   &&   环比的
+link resistance   &&   跨线电阻
+link rod   &&   连接杆
+link scheduler   &&   连接调度程序
+link trailer   &&   链路尾(部)
+link variable   &&   链接变量
+link word   &&   连接字
+linkage   &&   ①链条②联动装置③链合，键合，键接④连(系)，连接，接线，连接指令，连接装置，连杆机构⑤磁链，匝链
+linkage computer   &&   联动计算机
+linkage editing   &&   连接编辑
+linkage editor   &&   连接编辑程序
+linkage of subroutine   &&   子程序连接
+linkage power steering   &&   转向加力装置推杆
+linkage register   &&   连接寄存器
+linkage section   &&   连接节，连接部分
+linked allocation   &&   链接分配
+linked computer system   &&   计算机的连结系统
+linked data structure   &&   链式数据结构
+linked list   &&   链表，链接表，连结表[计算机
+linked ring compound   &&   连环化合物
+linked switch   &&   联动开关
+linked-scanning   &&   联动扫描
+linker   &&   连接程序
+linking automation   &&   链接自动化
+linking coefficient   &&   环绕系数
+linking duality   &&   环绕对偶
+linking loader   &&   连接装入程序
+links of graph   &&   图的连接，图的链圈
+linkwork   &&   链系，联动装置
+linnik micro-interferometer   &&   林尼克显微干涉仪
+linnik micro-profilometer   &&   林尼克显微轮廓仪
+linotape   &&   ①浸漆绝缘布带，黄蜡带，黄蜡布②莱诺排铸机(用打字方式的排字机)，行式铸造排字机
+linotype metal   &&   铅字合金(Pb 86％，Sb 11％～11％，Sn 3％～5％)
+linter   &&   剥绒机
+lip   &&   ①唇，嘴②边缘③浇包嘴④边，刀刃⑤凸出部，唇状物⑥钻缘，挖斗前缘
+lip angle   &&   钻缘角
+lip casting   &&   压边浇注
+lip clearance   &&   钻缘后角
+lip microphone   &&   唇用话筒，唇用微音器
+lip mike   &&   唇用话筒，唇用微音器
+lip pouring ladle   &&   带嘴浇包，翻包，茶壶包
+lip relief angle   &&   钻缘后让角
+lip rubber seal   &&   唇形橡胶密封
+lipschitz condition   &&   利普希茨条件
+lipschitz constant   &&   利普希茨常数
+liquated   &&   熔解的，熔融的，液化的，熔析，偏析
+liquated copper   &&   熔析铜
+liquation   &&   熔析，熔解，熔融，液析，液化(作用)
+liquefacient   &&   ①熔解性的，液化的，冲淡的，稀释②解凝剂③熔解物
+liquefaction   &&   液化(作用)，熔融
+liquefied air   &&   液态空气，液化空气
+liquefied gas   &&   液化气(体)
+liquefied gas carrier   &&   液化气运输船
+liquefied gas pipeline   &&   液化气管道
+liquefied gas producer vehicle   &&   液化气发生炉汽车
+liquefied natural gas   &&   液化天然气[LNG]
+liquefied petrolatum   &&   液体石蜡油
+liquefied petroleum gas   &&   液化石油气
+liquefier   &&   ①液化剂②释稀剂③液化器
+liquefy   &&   ①冲淡，稀释②(气体)液化③变成液态
+liquescency   &&   (可)液化性
+liquescent   &&   可液化的
+liquid   &&   液体，液态，流体
+liquid adhesives   &&   液体黏合剂
+liquid air   &&   液态空气
+liquid air cycle engine   &&   液态空气循环发动机
+liquid alloy   &&   液态合金
+liquid aluminium   &&   熔融铝，液态铝
+liquid ammonia   &&   液(体)氨
+liquid anion exchange resin   &&   液体阴离子交换树脂
+liquid anion exchanger   &&   液体阴离子交换剂
+liquid annealing   &&   液体退火，盐浴退火
+liquid argon   &&   液(态)氩
+liquid asphalt   &&   液态沥青
+liquid bath   &&   熔浴，熔池
+liquid bath furnace   &&   浴炉
+liquid brake   &&   液压制动
+liquid bright gold   &&   液体亮金
+liquid carbonitriding   &&   液体碳氮共渗，液体渗碳氮化法
+liquid carbonization   &&   液体渗碳
+liquid carburizer   &&   液体渗碳剂
+liquid carburizing   &&   液体渗碳
+liquid chromatograph   &&   液相色谱仪
+liquid chromatograph-mass spectrometer   &&   液相色谱-质谱联用仪[LC-MS]
+liquid chromatograph-mass spectrometer interface   &&   液相色谱-质谱联用仪接口(LC-MS interface)
+liquid chromatography   &&   液相色谱法
+liquid chromatography-mass spectrometry   &&   液相色谱-质谱法[LC-MS]
+liquid chromizing   &&   液体渗铬
+liquid coating   &&   液态涂料
+liquid column   &&   液柱
+liquid column manometer   &&   液柱压力计
+liquid column of liquid-inglass thermometer   &&   玻璃温度的液柱
+liquid concrete   &&   流态混凝土
+liquid contraction   &&   (金属)液态收缩(材料机)
+liquid cooled   &&   液冷(式)
+liquid cooled engine   &&   液冷式发动机
+liquid cooled gas-turbine blade   &&   液冷燃气轮机叶片
+liquid cooled nozzle   &&   液冷式喷管
+liquid cooled reactor   &&   液体冷却反应堆
+liquid cooling   &&   液体冷却
+liquid crystal   &&   液晶
+liquid crystal device   &&   液晶器件
+liquid crystal display   &&   液晶显示器[LCD]
+liquid crystal display image   &&   液晶显示图像
+liquid crystal display operation   &&   液晶显示操作
+liquid crystal flaw detection   &&   液晶探伤
+liquid crystal imaging system   &&   液晶成像系统
+liquid crystal in magnetic field   &&   磁场中的液晶
+liquid crystal indicator   &&   液晶指示器
+liquid crystal memory   &&   液晶存储器
+liquid crystal projector lenses   &&   液晶投影机镜头
+liquid crystal thermometer   &&   液晶温度计
+liquid crystals   &&   液晶
+liquid cyaniding   &&   液体氰化法
+liquid damping   &&   液体阻尼
+liquid densitometer   &&   液体密度计
+liquid density sensor   &&   液体密度传感器
+liquid density transducer   &&   液体密度传感器
+liquid die forging   &&   液体模锻
+liquid dielectric capacitor   &&   液体介质电容器
+liquid displacement displacement technique   &&   液体置换法
+liquid displacement system   &&   液体置换系统
+liquid drive   &&   液体传动
+liquid electrode   &&   液体电极
+liquid electrolyte   &&   液体电解质
+liquid etching   &&   液体腐蚀
+liquid filled case   &&   充液压力表
+liquid filled thermometer   &&   液体温度计
+liquid filler   &&   液态腻子
+liquid flame hardening   &&   液体火焰淬火，盐浴淬火
+liquid flow   &&   液体流动，液流
+liquid flow control   &&   液体流动控制
+liquid forging   &&   冲压铸造
+liquid friction   &&   液体摩擦
+liquid fuel   &&   液体燃料
+liquid furnace   &&   浴炉
+liquid fuse   &&   充油熔断器
+liquid gas   &&   液化气体
+liquid gas fuel   &&   液化气体燃料
+liquid gel   &&   液状凝胶
+liquid glass   &&   液态玻璃
+liquid glue   &&   液体胶
+liquid growth   &&   液相生长
+liquid gun propellant   &&   液体发射剂(火炮用)
+liquid hardening   &&   盐浴淬火，液体淬火
+liquid helium   &&   液(态)氦
+liquid helium thermostatic bath   &&   液氮恒温槽
+liquid honing   &&   液体研磨，水砂抛光(处理)，液体喷砂法
+liquid honing machine   &&   液体研磨机
+liquid hydrazine   &&   液肼
+liquid hydrogen   &&   液(态)氢
+liquid inner cooling electric machine   &&   液体内冷电机
+liquid inoculation   &&   液体孕育处理
+liquid insulating material   &&   液体绝缘材料
+liquid insulator   &&   液态绝缘体
+liquid ion exchanger   &&   液体离子交换剂
+liquid iron   &&   铁水
+liquid junction potential   &&   液接电位
+liquid laser   &&   液体激光器
+liquid level   &&   液面
+liquid level alarm   &&   液位报警器
+liquid line   &&   液相线，液体管线(冷冻机的)
+liquid lubricant   &&   液态润滑剂，液体润滑剂
+liquid manometer   &&   液体压力计
+liquid marsh gas   &&   液化沼气
+liquid metal   &&   液态金属，熔融金属
+liquid metal corrosion   &&   液态金属腐蚀
+liquid metal forging   &&   模态金属锻造
+liquid metal magnetohydrodynamic generation   &&   液态金属磁流体动力发电
+liquid metal weiding   &&   熔焊
+liquid miscibility gap   &&   液态不互溶区
+liquid motor   &&   液体火箭发动机
+liquid natural gas   &&   液化天然气船，液化气体船(L.N.G. carrier)
+liquid nitriding   &&   液体氮化法
+liquid nitrogen   &&   液(态)氮
+liquid nitrogen thermostatic bath   &&   液氮恒温槽
+liquid oxidizer   &&   液态氧化剂
+liquid oxygen   &&   液(态)氧
+liquid oxygen pump   &&   液氧泵
+liquid paraffin   &&   液体石蜡，白油，无色蜡油
+liquid partitioning agent   &&   液相分配剂
+liquid penetrant   &&   渗透液
+liquid petrolatum   &&   液体矿脂，凡士林油
+liquid petroleum gas   &&   液化石油气船，液化气体船(L.P.G. carrier)
+liquid petroleum oil   &&   煤油
+liquid phase   &&   液相
+liquid phase combustion   &&   液相燃烧
+liquid phase concentration   &&   液相浓度
+liquid phase epitaxy   &&   液相外延[LPE]
+liquid phase loading   &&   液相载荷量
+liquid phase polymerization   &&   液相聚合
+liquid phase sintering   &&   液相烧结
+liquid plasticizer   &&   液态增塑剂
+liquid polymerization   &&   液相聚合法
+liquid pressure   &&   液体压力
+liquid pressure drive   &&   液压传动
+liquid pressure nitriding   &&   加压液体渗氮(法)
+liquid pressure recovery factor   &&   液体压力恢复系数
+liquid propellant   &&   液体推进剂，液体火箭燃料
+liquid propellant gun   &&   液体发射药炮
+liquid propellant injection system   &&   液体燃料喷射系统
+liquid propellant rocket   &&   液体推进剂火箭
+liquid propellant rocket engine   &&   液体推进剂火箭发动机
+liquid propellant starter   &&   液体推进剂启动机
+liquid propellant sustainer   &&   液体推进剂主发动机
+liquid propellant unit   &&   液体火箭发动机
+liquid propulsor   &&   液体火箭发动机
+liquid refraction meter   &&   标尺折光仪
+liquid rheostat   &&   液体变阻器
+liquid ring compressor   &&   水环式压缩机
+liquid rocket engine   &&   液体火箭发动机
+liquid rocket oxidizer   &&   液体火箭氧化剂
+liquid scintillator   &&   液态闪烁体
+liquid seal   &&   液体密封
+liquid seal method   &&   液体密封法
+liquid sealed drum gas flowmeter   &&   液封转筒式气体流量计
+liquid sealing compound   &&   液体密封剂
+liquid self-hardening sand   &&   流态自硬砂
+liquid semiconductor   &&   液体半导体
+liquid semiconductor material   &&   液态半导体材料
+liquid shrinkage   &&   液相收缩
+liquid side   &&   液相面
+liquid source   &&   液态源
+liquid spring   &&   液体弹簧
+liquid state   &&   液态
+liquid steel   &&   液态钢，钢水
+liquid surface acoustical holography   &&   液面声全息
+liquid sustainer   &&   液体推进剂主发动机
+liquid switch   &&   液体开关
+liquid thermometer   &&   液体温度表
+liquid thermostatic bath   &&   液体恒温槽
+liquid viscosimeter   &&   液体黏度计
+liquid viscosity   &&   液体黏度
+liquid visual expansion coefficient   &&   液体视膨胀系数
+liquid-compressed steel   &&   液态挤压钢，加压凝固钢
+liquid-cooled   &&   液体冷却
+liquid-drop model   &&   液滴模型
+liquid-filled motor   &&   充液式电动机
+liquid-fuel rocket   &&   液体燃料火箭
+liquid-fuel sustainer   &&   液体推进剂主发动机
+liquid-gas ejector   &&   液-气喷射器
+liquid-in-glass thermometer   &&   玻璃温度计
+liquid-liquid chromatography   &&   液液色谱法
+liquid-liquid equilibrium   &&   液-液平衡
+liquid-liquid interface   &&   液体-液体界面
+liquid-metal MHD generator   &&   液态金属磁流体动力发电机
+liquid-metal fuel   &&   液态金属燃料
+liquid-metal solution fuel   &&   液态金属溶液燃料
+liquid-nitrogen cooling system   &&   液氮冷却系统
+liquid-nitrogen quench   &&   液氮淬火
+liquid-oxygen-alcohol unit   &&   液氧酒精发动机
+liquid-oxygen-gasoline unit   &&   液氧汽油发动机
+liquid-penetrant examination   &&   液体渗透检查，液体渗透，探伤着色探伤
+liquid-phase infiltration   &&   液相渗透法
+liquid-phase-forming material   &&   液相形成剂
+liquid-quenched glassy alloy   &&   液态(下)淬火玻璃质合金
+liquid-solid absorption   &&   液-固吸附
+liquid-solid chromatography   &&   液-固色谱，液固色谱法
+liquid-solid contraction   &&   液-固收缩
+liquid-solid equilibrium   &&   液-固平衡
+liquid-solid interface   &&   液-固界面
+liquid-solid rocket engine   &&   液-固火箭发动机
+liquid-state diffusion   &&   液态扩散
+liquid-vapour equilibrium   &&   液-气平衡
+liquidation   &&   液化(作用)，溶(化分)离法
+liquidity   &&   流动性，液性
+liquidize   &&   液化
+liquidness   &&   液态，液状
+liquidoid   &&   液相
+liquidometer   &&   液位计
+liquidus   &&   液相线
+liquidus curve   &&   液相(曲)线
+liquidus sintering   &&   液相烧结
+liquification   &&   液化(作用)
+liquified petroleum gas   &&   液化石油气 [LPG]
+liquifier   &&   ①液化剂，冲淡剂，稀释剂⑦液化器
+liquor   &&   ①液体，流体，溶液②使溶解③酒
+liquor  concentration   &&   液体浓度
+liquor analysis   &&   溶液分析
+list   &&   ①名单②一览表，目录(表)④列表，表，表格，链，串行
+list box   &&   列表框 列示框
+list compaction   &&   表格压缩
+list data structure   &&   表格数据结构
+list deletion   &&   表删除
+list edge   &&   ①毛翅(缺陷)②锡瘤，锌瘤(板材边缘上的)
+list element   &&   列表元(素)
+list event   &&   表事件
+list file structure   &&   编目文件结构
+list files   &&   文件列表
+list generation   &&   表生成
+list generation program   &&   表生成程序
+list head   &&   表头
+list inserting   &&   表插入法
+list linearization   &&   表格线性化
+list of errata   &&   正误表，勘误表
+list of materials   &&   材料单
+list of meta notion   &&   元概念表
+list processing   &&   表处理，表格加工
+list processing system   &&   表处理系统
+list scheduling   &&   表调度，表格调度
+list search   &&   表检索
+list separator   &&   表分隔符
+list structure   &&   表结构，带状结构
+list-directed data specification   &&   表式数据指明部分
+list-directed input   &&   表式输入
+list-directed input list   &&   表控(制)输入表
+list-directed output   &&   表式输出
+list-directed transmission   &&   表式传输
+listener   &&   收听站
+listening   &&   听，收听，监听，窃听
+listening ill   &&   收听，监听，窃听
+listening room   &&   试听室
+listening station   &&   监听站
+listening-in line   &&   监听器
+listerine   &&   防腐溶液，李斯特防腐液
+listing   &&   ①列表，编目②一览③记人表中的
+listing spooler   &&   列表假脱机系统
+liter   &&   升
+literal   &&   文字(的)，字面量，句节
+literal coefficient   &&   文字系数
+literal constant   &&   文字常数
+literal data   &&   文字型数据
+literal equation   &&   文字方程
+literal expression   &&   文字(表达)式
+literal field   &&   文字字段
+literal pool   &&   文字库
+literal register   &&   文字寄存器
+literal string pool   &&   文字符串库
+literature programming   &&   文献程序设计
+literature searching   &&   文献检索
+lithergol   &&   单组分火箭燃料
+lithia   &&   氧化锂，锂氧
+lithia ceramics   &&   氧化锂陶瓷
+lithia porcelain   &&   氧化锂瓷
+lithia-bearing ceramic coating   &&   含氧化锂的陶瓷涂层
+lithia-mica   &&   锂云母
+lithium   &&   锂Li
+lithium alloy   &&   锂合金
+lithium aluminum silicate glass   &&   锂铝硅酸盐玻璃
+lithium bronze   &&   锂青铜
+lithium chloride humidity-dependent resistor   &&   氯化锂显敏电阻器
+lithium grease   &&   锂基润滑脂
+lithium orthoclase   &&   含锂长石
+lithium-base alloy   &&   锂基合金
+lithium-containing alloy   &&   含锂合金
+lithium-containing sintering atmosphere   &&   含锂烧结气氛
+lithium-doped solar cell   &&   掺锂太阳电池
+lithium-iron sulfide battery   &&   锂-硫化铁电池组
+litre   &&   升
+little Bessemer steel   &&   小型酸性转炉钢，小型贝氏钢
+live   &&   ①有效的，有作用的②活动的，运转着的③有电的，载电的
+live axle   &&   驱动轴，主动轴，区动轮轴，行走轮轴
+live bolt   &&   活螺栓
+live center   &&   活顶尖
+live chassis   &&   带电部件外露面，带电机壳
+live conductor   &&   带电导线
+live graphite   &&   含铀石墨
+live hydraulic pump   &&   独立传动液压泵
+live hydraulic system   &&   独立液压系统
+live line measurement   &&   带电测量
+live line tool   &&   带电作业工具
+live line work   &&   带电作业
+live load   &&   ①现载荷②工作负荷，工作负载，有效负载，动载荷
+live lock   &&   活锁
+live miler gear   &&   传动辊道
+live net   &&   活网
+live riser   &&   热冒口
+live roll table   &&   传动辊道
+live roller   &&   传动辊
+live spindle   &&   回转轴，旋转(主)轴，动轴
+live steam   &&   新蒸汽，直接蒸汽
+live time   &&   活时间
+live wire   &&   ①带电电线，火线②有用导线
+live-line insulator detecting   &&   带电绝缘子检测
+live-load stress   &&   活载应力，动载荷应力
+live-roll conveyer   &&   自动滚动式滚柱输送机
+live-room   &&   混响室
+living load   &&   动负载，现负荷
+living polymer   &&   活性高聚物，活性聚合物
+living polymerization   &&   活性聚合(作用)
+load   &&   ①负载，负荷，载荷②装料，装载，加载，装入，写入
+load accumulator   &&   寄存累加器
+load accumulator instruction   &&   寄存累加器指令
+load adjustment   &&   负荷调节
+load amplitude   &&   负荷幅
+load and linkage editor   &&   装入连接编辑程序
+load at failure   &&   故障负荷
+load balance   &&   载荷平衡
+load balancing mechanism   &&   均衡装置
+load brake   &&   ①过载制动器②垂锤闸
+load button   &&   输入按钮
+load capacity   &&   载重量，承载能力，起重量，起重能力
+load card   &&   凿孔卡，装入卡片(传递指令时由卡片读出器读出)
+load carrying capacity   &&   负载能力
+load cell   &&   称重(负载)传感器，测力传感器
+load characteristic   &&   载荷特性，负荷特性
+load clear key   &&   装入清除键
+load coil   &&   感应加热线圈，负载线圈
+load compensation   &&   负载补偿
+load compression diagram   &&   载荷压缩图
+load control   &&   负载调节
+load current   &&   负载电流
+load curve   &&   载荷曲线，负荷曲线
+load cycle test   &&   加载周期试验
+load data counter   &&   送入数据寄存器
+load deformation diagram   &&   载荷-变形图
+load displacement   &&   负载排气量
+load distribution   &&   ①载荷分布，载荷分配，轴荷分配  ②轴荷分配比
+load diversity   &&   负载分散
+load draft   &&   负载吃水量
+load factor   &&   装填因子，负载因数，载荷因素
+load floor   &&   货厢地板
+load fluctuation   &&   载荷波动，负荷变动
+load forecasting   &&   载荷预测
+load frequency control   &&   负载频率控制
+load impedance   &&   负载阻抗
+load in tension   &&   拉伸载荷
+load indentation   &&   加压痕
+load indicator   &&   装入指示器
+load life   &&   运行寿命(满载)
+load line   &&   载荷线，载重线
+load management   &&   负荷管理
+load measurement   &&   负荷测定
+load meter   &&   载荷计，载荷测定仪，负荷表
+load micro-program   &&   装载微程序
+load module   &&   装入模块，装配模块
+load module library   &&   输入模块库
+load negative operation   &&   存负操作
+load on axle   &&   轴上载荷
+load on call   &&   调用装入
+load on spring   &&   弹簧上负载
+load overhang   &&   ①外悬②货物后悬
+load pacer   &&   均匀加载装置(材料试验机)
+load peak   &&   载荷峰，最大载荷
+load point   &&   加载点
+load power   &&   载荷功率
+load prediction   &&   负载预测
+load profile   &&   载荷分布
+load proportional brake control   &&   感载比例制动控制
+load radius   &&   负载半径
+load rating   &&   负荷额定值，额定载荷
+load real address   &&   送实地址
+load record   &&   载荷记录
+load register instruction   &&   存人寄存器指令
+load regulation   &&   负载调整率，负载调整
+load resistance   &&   负载电阻
+load resistor   &&   负载电阻
+load sensing valve   &&   感载阀
+load sharing   &&   分载，负载分配
+load sharing ratio   &&   负荷分配比
+load space lamp   &&   行李舱灯
+load specimen   &&   载荷试样
+load spectra under service condition   &&   服役条件载荷谱
+load spectrum   &&   载荷谱
+load stress factor   &&   负载应力因数
+load test   &&   加载试验，负载试验，荷重软化试验
+load transfer   &&   负荷转移
+load variation   &&   负载变动
+load voltage   &&   负载电压
+load-MOST   &&   作负载用的金属氧化物半导体晶体管
+load-and-go   &&   (程序)装入立即执行，装入并执行
+load-break switch   &&   负载断路开关
+load-carrying ability   &&   ①承载能力，容量②起重量，载重量
+load-carrying vehicle   &&   载重车辆
+load-deflection curve   &&   载荷-挠度曲线
+load-deflection diagram   &&   载荷-伸长图
+load-deformation curve   &&   载荷-变形曲线
+load-deformation diagram   &&   载荷-变形图
+load-deformation diagram in compression   &&   压缩载荷-变形图
+load-elongation curve   &&   负载－伸长曲线
+load-extension curve   &&   载荷-伸长曲线
+load-extension diagram   &&   载荷-伸长变形图
+load-holding valve   &&   止回阀
+loadable microcode   &&   可装入微代码
+loadamatic   &&   随负载变化自动作用的
+loadamatic control   &&   负载变化自动控制
+loadbase   &&   负载距
+loaded   &&   有负载时的值
+loaded line   &&   有载线路
+loaded rubber   &&   填料橡胶
+loaded waveguide   &&   加载波导管
+loader   &&   ①装载机，装货机，装弹机，装填器②装入程序
+loader conveyer   &&   装载运输机
+loader dozer   &&   装载推土两用机
+loader routine   &&   装载例程
+loader truck   &&   起重汽车
+loader-digger   &&   挖掘装载机
+loader-unloader   &&   装卸机
+loadfloor   &&   货箱地板
+loading   &&   ①装载，上料②加料，装填料③加载荷，装货，装弹药④饱和⑤充电⑥(模具上的)烧伤黏附
+loading alternating between equal positive and negative values   &&   等正负值问变载
+loading and unloading   &&   装卸
+loading and unloading mechanization   &&   装卸机械化
+loading area   &&   承载面积
+loading arm   &&   装载臂
+loading board   &&   加料板
+loading coefficient   &&   载荷系数
+loading coil   &&   加感线圈
+loading condition   &&   负载状态，负载条件
+loading crane   &&   装载起重机
+loading end   &&   加载端
+loading error   &&   加载误差，输入误差
+loading factor   &&   负荷系数，功率因素
+loading force   &&   载荷力
+loading in steps   &&   分段式加载
+loading instruction   &&   送指令
+loading machine   &&   装料机，装载机
+loading material   &&   填料，加载材料
+loading mode   &&   载负类型
+loading moment   &&   载负力矩
+loading pigment   &&   颜料填充剂
+loading procedure   &&   加载过程
+loading program   &&   装入程序
+loading rate   &&   加载速率
+loading routine   &&   输入程序
+loading sequence   &&   加载顺序
+loading shoe mold   &&   料套式模具
+loading shovel   &&   装载铲斗
+loading space   &&   装料空间，装载空间
+loading spectrum   &&   ①载荷谱  ②负荷分布
+loading system   &&   加荷系统  ，加载系统
+loading test   &&   载重试验
+loading-rate effect   &&   加载速率影响(力学试验中)
+loadstone   &&   极磁铁矿，磁性氧化铁，天然磁石，天然磁铁
+loam   &&   砂质黏土，黏土泥砂
+loam brick   &&   黏土砖
+loam casting   &&   砌砖铸造，麻泥(型)铸造，黏土铸造法
+loam core   &&   黏土砂泥心
+loam mixture   &&   黏土砂泥混合物
+loam mould   &&   黏土砂泥型，麻泥型烂砂型
+loam sand   &&   烂泥砂
+lobe   &&   ①瓣(天线方向图的)，波瓣②正弦的半周③凸尖
+lobe region   &&   波瓣区
+lobe switching   &&   波瓣转换
+lobe width   &&   波瓣宽度
+lobed wheel   &&   叶形轮
+lobing   &&   天线扫掠，天线波束的控制
+lobing antenna   &&   波束可控天线
+local   &&   ①局部的②本机的③本地的
+local action   &&   局部作用量，局部作用
+local address   &&   局部地址
+local address translation   &&   局部地址翻译
+local addressing   &&   局部编址，局部寻址
+local anisotropy   &&   局部各向异性
+local annealing   &&   局部退火
+local area network   &&   ①局部区域网络②局域网[LAN]
+local asymptotic stability   &&   局部渐近稳定性
+local automation   &&   局部自动化
+local basis   &&   局部基
+local buckling   &&   局部屈曲
+local buffer storage   &&   局部缓冲存储区，局部缓冲存储器
+local busy   &&   局部占线，市话忙
+local call   &&   市内呼叫
+local carburization   &&   局部渗碳
+local carburizing   &&   局部渗碳
+local cell   &&   局部电池
+local channel   &&   本地信道
+local code generation   &&   局部代码生成
+local code generator   &&   局部代码生成程序
+local communication   &&   局部通信
+local communication network   &&   局部通信网
+local computer network   &&   本地计算机网，局部计算机网络，计算机局域网
+local continuity   &&   局部连续性
+local contraction   &&   局部收缩
+local control   &&   就地控制，局部控制
+local controller   &&   局部控制者
+local convergence   &&   局部收敛(性)
+local convex   &&   局部凸
+local coordinate system   &&   局部坐标系
+local corrosion   &&   局部腐蚀
+local criterion   &&   局部判据，局部性准则
+local cross section   &&   局部截影
+local current   &&   局部电流
+local data base   &&   局部数据库
+local decision maker   &&   局部决策者
+local deformation   &&   局部变形
+local degree of mapping   &&   局部映射度
+local diagnosis   &&   局部诊断
+local differentiability   &&   局部可微性
+local distortion   &&   局部变形，局部畸变
+local distributed data interface   &&   局部分布式数据接口
+local distribution network   &&   市内配电网
+local duality   &&   局部对偶性
+local effect   &&   局域效应
+local elastic instability   &&   局部弹性失稳
+local electric field   &&   定域电场，局部电场
+local electron model   &&   局部电子模型
+local elongation   &&   局部伸长
+local error   &&   局部误差
+local exchange   &&   市内电话局
+local extension   &&   局部伸长
+local extremum   &&   局部极值
+local feedback   &&   本机反馈，局部反馈
+local field   &&   局部域，局部场，定域场
+local field theory   &&   定域场论，局部场论
+local flag   &&   局部标记
+local fluctuations of stress   &&   局部应力波动
+local frequency   &&   本振频率
+local grain coarsening   &&   局部晶粒粗化
+local hardening   &&   局部硬化，局部淬火
+local heating   &&   局部加热
+local illumination   &&   局部照明
+local impact   &&   局部撞击
+local information   &&   局部信息
+local instability   &&   局部不稳定
+local intelligence   &&   局部智能
+local interrupt register   &&   局部中断寄存器
+local jack   &&   本席插孔
+local lightning counter   &&   局地闪电计数器
+local limit   &&   负荷极限
+local line   &&   市内线路，局部线路
+local locked-up stress   &&   局部锁紧应力
+local macro definition   &&   局部宏定义
+local magnetization   &&   局部磁化
+local maximum   &&   局部最大值
+local memory   &&   局部存储区，局部存储器，本机存储器
+local minimization problem   &&   局部极小化问题
+local minimum   &&   局部最小值
+local minimum point   &&   局部极小点
+local mode   &&   本地方式，局部方式
+local multiaccess communication system   &&   本地多重访问，局部多路存取通信系统
+local necking   &&   局部颈缩
+local network   &&   局部网(络)
+local networking   &&   局部连网
+local object descriptor   &&   局部目标描述符
+local operation   &&   局部操作
+local operator   &&   市内话务员
+local optima   &&   局部最优
+local optimization   &&   局部最优化
+local optimum   &&   局部最优
+local order   &&   局部序
+local oscillator   &&   本机振荡器
+local overheating   &&   局部过热
+local passive medium   &&   局部无源媒体
+local pollution   &&   局部污染
+local pressure   &&   局部压力
+local processor   &&   局部处理机
+local program   &&   局部程序
+local quenching   &&   局部淬火
+local radiation effect   &&   局部辐射效应
+local radio network   &&   局部无线电网
+local reaction   &&   局部反应
+local resonance   &&   局部共振
+local restrictions   &&   局部约束
+local side   &&   本机侧，本机端
+local solution   &&   局部解
+local solvability   &&   局部可解性
+local stability   &&   局部稳定性
+local stabilization   &&   局部稳定
+local stack   &&   局部栈
+local station   &&   ①本地电台，市内分局②本地站
+local storage   &&   局部存储器
+local strain   &&   局部应变
+local stress   &&   局部应力
+local stress relieving   &&   局部应力消除
+local stress-relief heat treatment   &&   消除局部应力热处理
+local superconductor   &&   定域超导体
+local switch   &&   局部开关，局部转换
+local symbol   &&   局部符号
+local system queue area   &&   局部系统排队区
+local telephone office   &&   市内电话局
+local terminal   &&   本地终端
+local thermodynamic equilibrium   &&   局部热力学平衡
+local traffic   &&   市内通话
+local variable   &&   局部变量
+locale   &&   局部 本地
+localization   &&   ①测定位置，定位②位置，部位③探测④局部化
+localization of fault   &&   确定故障点，故障位置
+localized   &&   定域化，局部化
+localized alloying   &&   局部合金化
+localized breakdown   &&   局部击穿
+localized corrosion   &&   局部腐蚀
+localized distortion   &&   局部失真
+localized elongation   &&   局部伸长
+localized hardening   &&   局部淬火
+localized heating   &&   局部加热
+localized imperfection   &&   局部缺陷
+localized level   &&   定域能级
+localized necking   &&   局部颈缩
+localized slip   &&   局部滑移
+localized state   &&   定域态
+localized stress concentration   &&   局部应力集中
+localized tempering   &&   局部回火
+localized tooth contact   &&   齿局部接触
+localizer   &&   航向信标，定位器
+localizer section   &&   定位器扇形区
+locally arcwise connected   &&   局部弧连通的
+locally bicompact   &&   局部列紧的
+locally connected set   &&   局部连通集
+locally convex   &&   局部凸的
+locally convex linear space   &&   局部凸线性空间
+locally countable   &&   局部可数的
+locally distributed processor   &&   固定分布式处理机
+locally finite open covering   &&   局部有限开覆盖
+locally hounded   &&   局部有界的
+locally integrable function   &&   局部可积函数
+locally null function   &&   局部零函数
+locally optimal plan   &&   局部最优方案
+locate   &&   定位，划出
+locate mode   &&   定位方式
+located block   &&   定位块
+located pin   &&   定位销
+locating   &&   ①定位②定位法
+locating bearing   &&   止推轴承，定位轴承
+locating center punch   &&   定位中心冲头
+locating cone   &&   定位锥
+locating device   &&   定位装置
+locating dowel   &&   定位销
+locating hole   &&   定位(销)孔
+locating key   &&   定位键
+locating pilot pin   &&   定位导梢
+locating pin   &&   定位销
+locating point   &&   定位点
+locating ring   &&   定位环
+locating screw   &&   定位螺钉
+locating slot   &&   定位槽
+locating surface   &&   定位表面
+locating tab   &&   定位销
+location   &&   ①存储单元②定位，测位，选址③场所，地址，位置，网址
+location beacon   &&   定位标灯
+location bearing   &&   定位轴承
+location counter   &&   位置计数器
+location delimiter   &&   存储区定界符
+location identifier   &&   位置标志符，存储区标志符
+location mode   &&   存放方式，定位方式
+location of root   &&   寻根法
+location parameter   &&   定位参数，测定参数
+location problem   &&   定位问题，布局问题，选址问题
+location test   &&   位置检验
+location tolerance   &&   位置公差，安装公差，定位公差
+location-action corrosion   &&   局部腐蚀
+location-counter   &&   位置记数器，指令计数器，(存储)单元计数器
+locator   &&   ①定位器，测位器②探测器
+locator device   &&   定位输入设备
+locator field   &&   定位域
+loci   &&   轨迹
+lock   &&   ①水闸②锁，锁住③闩④锁型(压铸)⑤闭锁装置，自动跟踪，同步⑥牵引(频率)⑦转向轮最大转角
+lock actuator   &&   驻车制动器控制装置
+lock ball   &&   定位钢球(拨叉的)
+lock block   &&   压块
+lock bolt   &&   锁紧螺栓
+lock catch   &&   锁扣
+lock cylinder for ignition   &&   点火轴锁的锁芯
+lock cylinder for locking   &&   点火、起动、转向轴锁的锁芯
+lock cylinder for starting   &&   起动轴锁的锁芯
+lock file   &&   锁定文件
+lock gate   &&   闸门
+lock in range   &&   同步范围
+lock input   &&   同步输入
+lock loop   &&   销定环
+lock magnet   &&   吸持磁铁
+lock mechanism   &&   锁定机构
+lock nut   &&   锁紧螺母，防松螺母
+lock pawl   &&   锁定爪，止动爪
+lock pin   &&   锁定销
+lock register   &&   封锁寄存器
+lock rod   &&   锁杆
+lock room   &&   ①隔音室②锁定区
+lock seam test   &&   咬合试验(镀锌板)
+lock seaming machine   &&   铆合机
+lock signal   &&   锁信号
+lock sleeve   &&   锁紧套
+lock spring   &&   锁簧
+lock synchronizer   &&   锁止同步器
+lock test   &&   锁定试验
+lock unit   &&   同步器
+lock up   &&   锁住
+lock washer   &&   止动垫圈
+lock-and-fire mechanism   &&   (枪炮的)装发机构
+lock-and-follow scanner   &&   同步跟踪扫描装置
+lock-filers damp   &&   虎钳夹
+lock-in amplifier   &&   锁相放大器
+lock-in amplifier detection   &&   锁相放大器检测
+lock-in synchronism   &&   销定同步
+lock-out circuit   &&   闭塞电路
+lock-out submersible   &&   可出舱潜水的潜水器
+lock-step parallelism   &&   锁-步并行性
+lock-up   &&   锁住
+lock-up clutch   &&   锁止离合器
+locked   &&   ①锁定的②闭塞的③锁定，锁护
+locked in stress   &&   内应力
+locked layer   &&   锁定图层 锁护图层
+locked nut   &&   夹紧螺母
+locked rope   &&   锁紧绳索
+locked wheel   &&   抱死的车轮
+locked-up stress   &&   紧锁应力，内应力
+locker   &&   锁紧器
+lockin   &&   ①锁定，同步②锁住
+locking   &&   锁，关闭，封闭，封锁，抱死，联锁，锁定
+locking angle   &&   啮合角
+locking arm   &&   锁臂
+locking bit   &&   封锁位，锁定位
+locking block   &&   定位块
+locking bolt   &&   锁紧螺栓
+locking bolt unit   &&   防松螺栓组件
+locking cam   &&   锁紧凸轮
+locking circuit   &&   锁定电路，自保持电路
+locking coil   &&   吸持线圈
+locking crank   &&   关紧曲柄
+locking device   &&   锁扣机，保险装置
+locking differential   &&   锁止式差速器
+locking dog   &&   锁舌
+locking escape   &&   封锁码，锁定换码，锁定转义
+locking force   &&   合型力，合模圧力
+locking key   &&   锁紧键，止动键
+locking knob door lock   &&   门锁锁定按钮
+locking mechanism   &&   闭锁机构
+locking nut   &&   锁紧螺母，防松螺母，防转螺母
+locking of dislocation   &&   位错锁紧，位错锁定
+locking pawl   &&   制动爪
+locking phase   &&   锁相
+locking plate   &&   定位板
+locking pressure   &&   锁模压力
+locking protocol   &&   封锁协议
+locking pulse   &&   ①锁定脉冲②同步脉冲
+locking range   &&   同步范围，牵引范围
+locking ring   &&   锁环，锁圈
+locking screw   &&   锁紧螺钉
+locking shift character   &&   封锁移位符号
+locking stress   &&   钉扎应力，锁定应力
+locknut   &&   自锁螺母，防松螺母
+lockout   &&   ①切断②分离③闭锁，封锁
+lockout controller   &&   锁定控制器
+lockout operation   &&   锁定操作
+lockout pulse   &&   同步脉冲
+lockout switch   &&   封锁开关
+lockup   &&   锁住
+locomobile   &&   自动机车
+locomotive   &&   机车，牵引车
+locomotive axle   &&   机车轴
+locomotive boiler   &&   机车锅炉
+locomotive cab   &&   机车司机室
+locomotive car   &&   机动车，机车
+locomotive crane   &&   机车起重机，车辆起重机
+locomotive crank axle   &&   机车曲柄轴
+locomotive cylinder   &&   机车汽缸
+locomotive drive   &&   机车拖动
+locomotive engine   &&   机车发动机，机车蒸汽机
+locomotive engineering   &&   机车工程
+locomotive gas turbine   &&   机车燃气轮机
+locomotive jack   &&   机车千斤顶，机车起重机
+locomotive noise   &&   机车噪声，火车噪声
+locomotive plate   &&   机车钢板
+locomotive shop   &&   机车制造厂
+locomotive transformer   &&   电气机车变压器，牵引变压器
+locomotive wheel   &&   机车轮
+locomotive winch   &&   机车铰车
+locomotive works   &&   机车制造厂
+loctal   &&   锁式(电子管座或管脚)
+loctal base   &&   锁式管座
+loctal tube   &&   锁式座电子管，锁式管
+locus   &&   轨迹
+loded iron   &&   脉铁(高硅全珠光体铁，易切削)
+lodestone   &&   天然磁铁，磁铁矿
+lodgement   &&   ①堆积物②沉淀，沉积物③储存
+lodox   &&   粉末磁铁
+loft antenna   &&   顶棚天线
+log   &&   ①日记，记录，测井记录，对数②计程仪，测程仪
+log bunk   &&   原木运输车支座
+log in   &&   请求上机，登录，注册，登记
+log magnitude-frequency characteristics   &&   对数幅频特性
+log magnitude-phase diagram   &&   对数幅相图
+log off   &&   注销
+log on   &&   注册，登录，请求上机
+log periodic antenna   &&   对数周期天线
+log phase-frequency characteristics   &&   对数相频特性
+log saw   &&   锯木机
+log screw   &&   方头木螺丝
+log table   &&   对数表
+log well   &&   观测井
+log-anamorphosed partition curve   &&   变换对数分离曲线
+log-log paper   &&   双对数坐标纸
+log-log scale   &&   重对数图尺，重对数尺度
+logarithm   &&   对数(log)
+logarithm A/D converter   &&   对数模(拟)-数(字)转换器
+logarithm amplifier   &&   对数放大器
+logarithm calculator   &&   对数计算器
+logarithm winding motor   &&   对数绕组电动机
+logarithmic amplifier   &&   对数放大器
+logarithmic base   &&   对数底
+logarithmic coordinate   &&   对数坐标
+logarithmic coordinate paper   &&   对数坐标
+logarithmic creep   &&   对数蠕变
+logarithmic creep law   &&   对数蠕变律
+logarithmic curve   &&   对数曲线
+logarithmic decrement   &&   对数衰减
+logarithmic distribution   &&   对数分布
+logarithmic formula   &&   对数公式
+logarithmic function   &&   对数函数
+logarithmic gain   &&   对数增益
+logarithmic multiplier   &&   对数乘法器
+logarithmic normal distribution   &&   对数正态分布
+logarithmic paper   &&   对数坐标纸
+logarithmic periodic antenna   &&   对数周期天线
+logarithmic receiver   &&   对数(刻度)接收机
+logarithmic scale   &&   对数刻度，对数标度
+logarithmic search method   &&   对数查找法，对数检索方法
+logarithmic sine   &&   正弦对数
+logarithmic spiral   &&   对数螺线
+logarithmic table   &&   对数表
+logarithmic time-base   &&   对数时基
+logarithmic transformation   &&   对数变换
+logarithmic utility function   &&   对数效用函数
+logarithmic voltmeter   &&   对数(刻度)电压表
+logarithmically convex   &&   对数性凸的
+logarithmoid   &&   广对数螺线
+logfileoff   &&   关闭日志文件 关闭记录档
+logfileon   &&   打开日志文件 开启记录档
+logger   &&   记录器，测井仪，圆木装车机
+logging   &&   ①测井②记录，存人，记人
+logging in   &&   请求联机，登记，注册
+logging out   &&   退出系统，注销
+logging recorder   &&   测井记录仪
+logging tool   &&   下井仪器
+logging vehicle   &&   原木运输车
+logic   &&   ①逻辑②逻辑部分③逻辑电路
+logic CAD   &&   逻辑的计算机辅助设计
+logic add   &&   逻辑加，“或”
+logic address   &&   逻辑地址
+logic algebra   &&   逻辑代数
+logic analyzer   &&   逻辑分析仪
+logic card   &&   逻辑(电路)卡
+logic circuit   &&   逻辑电路
+logic control   &&   逻辑控制
+logic control file   &&   逻辑控制文件
+logic controller   &&   逻辑控制程序，逻辑控制器
+logic core   &&   逻辑磁心
+logic design automation   &&   逻辑设计自动化
+logic design language   &&   逻辑设计语言
+logic diagram   &&   逻辑图
+logic difference   &&   逻辑差，“异”
+logic equation simulation   &&   逻辑方程模拟
+logic expression   &&   逻辑方程式
+logic file   &&   逻辑文件
+logic gate   &&   逻辑门
+logic information   &&   逻辑信息
+logic information network compiler   &&   逻辑信息网络编译程序，逻辑信息网络编译器
+logic integrated circuit   &&   逻辑集成电路
+logic interface   &&   逻辑接口
+logic level   &&   逻辑电平
+logic line group   &&   逻辑线路组[LLC]
+logic microoperation   &&   逻辑微操作
+logic module   &&   逻辑模块，逻辑组件
+logic multiply   &&   逻辑乘，“与”
+logic network   &&   逻辑网(络)
+logic of machine   &&   计算机逻辑，机器逻辑
+logic of program   &&   程序逻辑
+logic operation   &&   逻辑运算，逻辑操作
+logic processor   &&   逻辑处理机
+logic sequence   &&   逻辑序列
+logic shift   &&   逻辑移位
+logic signal   &&   逻辑信号
+logic simulation   &&   逻辑模拟
+logic sum   &&   逻辑和
+logic switch   &&   逻辑开关
+logic symbol   &&   逻辑符号
+logic system   &&   逻辑系统
+logic-controlled sequential computer   &&   逻辑控制时序计算机
+logical   &&   逻辑 逻辑的
+logical "and"   &&   逻辑“与”
+logical IF statement   &&   逻辑条件语句
+logical OR   &&   逻辑“或”
+logical access path schema   &&   逻辑存取通路模式
+logical action   &&   逻辑作用
+logical add   &&   逻辑加，“或”
+logical addition   &&   逻辑加法
+logical address   &&   逻辑地址
+logical algorithm   &&   逻辑算法
+logical and switching theory   &&   逻辑和开关理论
+logical array   &&   逻辑数组，逻辑阵列
+logical array element reference   &&   逻辑数组元素引用
+logical assignment statement   &&   逻辑赋值语句
+logical axiom   &&   逻辑公理
+logical binary counter   &&   逻辑数二进制计数器
+logical block   &&   逻辑块，逻辑单元
+logical calculus   &&   逻辑运算
+logical channel   &&   逻辑通道
+logical channel control block   &&   逻辑通道控制块
+logical choice   &&   逻辑选择
+logical circuit   &&   逻辑电路
+logical combination   &&   逻辑组合
+logical command   &&   逻辑命令
+logical comparison   &&   逻辑比较
+logical computer   &&   逻辑计算机
+logical connection   &&   逻辑连接
+logical connector   &&   逻辑连接符
+logical control   &&   逻辑控制
+logical data   &&   逻辑型数据
+logical data base   &&   逻辑数据库
+logical data base schema   &&   逻辑数据库模型
+logical data independence   &&   逻辑数据独立性
+logical data item   &&   逻辑数据项
+logical data path   &&   逻辑数据通路
+logical data structure   &&   逻辑数据结构
+logical database   &&   逻辑“或”，逻辑析取，逻辑数据库
+logical decision process   &&   逻辑决策过程
+logical descriptor   &&   逻辑描述符
+logical design   &&   逻辑设计
+logical difference   &&   逻辑“异”
+logical element   &&   逻辑元素，逻辑组件
+logical equivalence   &&   逻辑等价
+logical exclusive-OR   &&   逻辑“异或”
+logical expression   &&   逻辑表达式
+logical field descriptor   &&   逻辑字段描述符，逻辑字段说明符
+logical file   &&   逻辑文件
+logical flow chart   &&   逻辑流程图
+logical full-duplex flow   &&   逻辑全双工流
+logical function   &&   逻辑作用，逻辑函数
+logical gate   &&   逻辑门
+logical implication   &&   逻辑内涵
+logical independence   &&   逻辑独立性
+logical information system   &&   逻辑信息系统
+logical input device   &&   逻辑输入系统
+logical input/output   &&   逻辑输入输出
+logical instruction   &&   逻辑指令
+logical interference   &&   逻辑接口
+logical machine   &&   逻辑(计算)机
+logical model   &&   逻辑模型
+logical module   &&   逻辑模块
+logical multiply   &&   逻辑乘，“与”
+logical network   &&   逻辑网(络)
+logical operations   &&   逻辑运算，逻辑操作
+logical operator   &&   逻辑运算符，逻辑算子
+logical order   &&   逻辑命令
+logical orientation   &&   逻辑定向
+logical overlap coefficient   &&   逻辑重叠系数
+logical page   &&   逻辑页面
+logical pointer   &&   逻辑指示字
+logical product   &&   逻辑乘积
+logical program   &&   逻辑程序
+logical protocol   &&   逻辑协议
+logical queue   &&   逻辑队列
+logical reading system   &&   逻辑阅读系统
+logical record   &&   逻辑记录
+logical record access approach   &&   逻辑记录存取方法
+logical ring   &&   逻辑环
+logical shift   &&   逻辑移位
+logical simulation   &&   逻辑模拟，逻辑仿真
+logical storage address   &&   逻辑存储器地址
+logical structure   &&   逻辑结构
+logical sum   &&   逻辑和
+logical switch   &&   逻辑开关
+logical symbol   &&   逻辑符号
+logical system   &&   逻辑系统
+logical tracing   &&   逻辑跟踪，逻辑追踪
+logical unit   &&   逻辑装置，逻辑部件
+logical value   &&   逻辑值
+logically equivalent   &&   逻辑等值的，逻辑等价的
+logicor   &&   逻辑磁心
+logistics system   &&   物流系统
+logitron   &&   磁性逻辑组件
+logmodular algebra   &&   对数模代数
+lognormal   &&   对数正态
+lognormal distribution   &&   对数正态分布
+logo   &&   教学语言
+logogram   &&   符号
+logometer   &&   ①测电流比计②比率表
+lone electron   &&   孤(立)电子
+lone electron pair   &&   孤立电子对
+lone signal unit   &&   独立信号单元[LSU]
+long afterglow   &&   长余辉
+long air gap   &&   长气隙
+long and short addendum system   &&   长短齿顶高齿轮系
+long bolt   &&   地角螺栓，棘螺栓
+long boom loader   &&   长转臂式装载机
+long borer   &&   槽钻
+long chain   &&   长链
+long chain compound   &&   长链化合物
+long chain molecule   &&   长链分子
+long decayed material   &&   长期衰变(放射性)材料
+long delay   &&   长时间延迟
+long distance   &&   长途，远程，长距离
+long distance call   &&   长途电话
+long distance communication   &&   长途通信
+long distance cruiser   &&   远程巡洋舰
+long distance guided communication   &&   远距波导通信
+long distance meter   &&   远程测距仪
+long distance network   &&   长距离网
+long distance telephone   &&   长途电话
+long distance water level recorder   &&   遥测水位计
+long division   &&   长除法
+long drill   &&   长钻头
+long ears   &&   长耳子(板、带材端部缺陷)
+long epoch environmental effect   &&   远期环境效应
+long eye auger   &&   深孔钻
+long eye test   &&   自身缠绕试验(钢丝)
+long feed   &&   纵向进给，纵向进刀
+long feed drill jumbo   &&   纵向进钻车
+long file name   &&   长文件名 长档名
+long flame coal   &&   长焰煤
+long flat nose pliers   &&   尖嘴钳
+long flow combine   &&   直流型联合收获机
+long handled hammer   &&   长柄锤
+long haul call   &&   长途电话
+long haul communication   &&   长距离通信
+long haul telemetry   &&   远程遥测
+long hole drilling machine   &&   深孔钻床
+long instruction format   &&   长指令格式
+long life   &&   长寿命
+long locking rod   &&   长锁杆
+long luminous-flaming coal   &&   长亮焰煤
+long nose pliers   &&   长头钳，夹头钳
+long nozzle   &&   延长喷嘴方式
+long period   &&   长期，长周期，长寿命
+long period seismograph   &&   长周期地震仪
+long persistence screen   &&   长余辉荧光屏
+long pulse   &&   长脉冲
+long radius   &&   长半径
+long range radar   &&   远程雷达
+long run test   &&   连续负荷试验，长期运转试验
+long running   &&   长期运行，连续运行
+long scan   &&   慢速扫描，长扫描
+long shift   &&   长位移
+long shot   &&   远距离照相，远景拍摄
+long span transmission line structure   &&   大跨度输电杆塔
+long staple glass fiber   &&   长标准玻璃纤维
+long storage location   &&   长字存储单元
+long stroke   &&   长冲程
+long symbol   &&   长符号
+long term environmental effect   &&   长期环境效应
+long term running test   &&   长期运转试验
+long test run   &&   长期(连续)试验，长期试运转
+long ton   &&   长吨，英吨 (1英吨=20英担 =1.016公吨)
+long vehicle   &&   拖板车
+long wave   &&   长波
+long wave propagation   &&   长波传播
+long wave radiation   &&   长波辐射
+long wave radio receiver   &&   长波收音机
+long wavelength LED modules for communication   &&   通信用长波长发光二极体模组
+long wavelength threshold   &&   长波限，红限
+long word   &&   长字
+long-access memory   &&   慢访问存储器
+long-and-short-addendum teeth   &&   高变位齿轮
+long-distance bomber   &&   远程轰炸机，战略轰炸机
+long-distance bombing aircraft   &&   远程轰炸机，战略轰炸机
+long-distance pipe line   &&   长途导管(线)
+long-distance power transmission   &&   远距离输电
+long-duration rocket   &&   持续推进式火箭，长时间工作的火箭发动机
+long-duration test   &&   连续负荷试验，耐久试验
+long-flame run-of-mine gas coal   &&   长焰原煤
+long-focal length lens   &&   长焦距物镜
+long-focus lens   &&   长焦距镜头
+long-focus objective   &&   长焦距物镜
+long-front wave   &&   长波
+long-half-life material   &&   长半衰期(放射性)物质
+long-hole boring apparatus   &&   钻深孔装置，纵向钻孔装置
+long-line effect   &&   长线效应
+long-line theory   &&   长线理论
+long-period superlattice   &&   长周期超点阵
+long-period test   &&   长周期试验
+long-radius nozzle   &&   长径喷嘴
+long-range   &&   远程，长距离，长期
+long-range aircraft   &&   远程飞机
+long-range bomber   &&   远程轰炸机
+long-range coupling   &&   长程偶合
+long-range deformation   &&   长程形变
+long-range force   &&   长程力
+long-range interaction   &&   长距离相互作用
+long-range missile   &&   远程导弹，洲际弹道导弹
+long-range navigation   &&   罗兰(远程导航)系统，罗兰导航系统，远程导航系统[LORAN]
+long-range order   &&   长程序，远程序，长程有序
+long-range order in copper-gold alloy   &&   铜金合金的远程有序
+long-range ordered alloy   &&   长程有序合金
+long-range planning   &&   长远规划
+long-range radio navigation   &&   远程无线电导航
+long-range rocket fuel   &&   长程火箭燃料
+long-range vehicle   &&   远程飞行器
+long-run competitive equilibrium   &&   长期竞争平衡
+long-stroke steam engine   &&   长冲程蒸汽机
+long-term aging   &&   长期老化
+long-term change   &&   长期变化
+long-term creep test   &&   长时蠕变试验
+long-term effect   &&   长期效应
+long-term mechanical property   &&   长期力学性能
+long-term memory   &&   长期记忆，长期存储器[LTM]
+long-term modulus   &&   长期模量
+long-term rupture strength   &&   持久断裂强度，持久破裂强度
+long-term stability   &&   长期稳定性
+long-term storage   &&   长期储存
+long-term test   &&   长期试验
+long-term usage   &&   长期运用
+long-time creep strength   &&   长时间蠕变强度
+long-time stability   &&   长时间稳定性
+long-time strength   &&   持久强度
+long-time tensile test   &&   长时拉伸试验
+long-time test   &&   持久试验
+long-toe-short-heel   &&   小端长，大端短接触
+long-wave communication   &&   长波通信(频率低于300千赫)
+long-wave direction finder   &&   长波探向器
+long-wavelength detector modules for communication   &&   通信用(长波长)Ge和III-V族检光模组
+long-wavelength detectors for communication   &&   通信用(长波长)Ge和III-V族检光元
+longest path   &&   最长路程
+longevity   &&   长寿，使用期限
+longevity test   &&   寿命试验
+longitudinal   &&   纵向的
+longitudinal  wave   &&   纵波
+longitudinal automatic single spindle lathe   &&   立式单轴自动车床
+longitudinal automatic single spindle milling machineries   &&   纵切单轴自动铣床
+longitudinal axis   &&   纵轴
+longitudinal balance   &&   纵平衡
+longitudinal beam   &&   纵梁
+longitudinal bracing   &&   纵向拉条，纵向撑杆，纵向加强筋
+longitudinal butt strap   &&   纵向对接搭板
+longitudinal comparator   &&   纵动比较仪
+longitudinal compression   &&   纵向压缩
+longitudinal contraction   &&   纵向收缩
+longitudinal controllability   &&   纵向操纵性
+longitudinal copying   &&   纵向仿形
+longitudinal crack   &&   纵向裂缝，纵裂隙
+longitudinal cross-section   &&   纵向截面
+longitudinal cutting   &&   纵切
+longitudinal damper   &&   纵向阻尼器
+longitudinal deviation   &&   纵向偏差
+longitudinal diffusion   &&   纵向扩散
+longitudinal direction   &&   纵向
+longitudinal displacement   &&   纵向位移
+longitudinal distribution   &&   纵向分布
+longitudinal drum boiler   &&   纵汽包锅炉
+longitudinal ductility   &&   纵向延性
+longitudinal elasticity   &&   纵向弹性
+longitudinal equalizer   &&   纵平衡杆
+longitudinal excitation   &&   纵向激发
+longitudinal feed   &&   纵向进给，纵向走刀
+longitudinal feed gear   &&   纵向进刀装置，纵向进给机构
+longitudinal fillet weld   &&   纵向角焊缝
+longitudinal flow   &&   纵向流动
+longitudinal force   &&   纵向力
+longitudinal framing   &&   纵向框架
+longitudinal girder   &&   纵梁
+longitudinal grinding   &&   纵磨，纵向磨削
+longitudinal joint   &&   纵向接头
+longitudinal key   &&   纵向键
+longitudinal magnetic flax   &&   纵向磁通(量)
+longitudinal magnetization   &&   纵向磁化
+longitudinal magnetizing ampere turn   &&   纵向磁化安匝数
+longitudinal milling   &&   纵铣
+longitudinal motion   &&   纵向运动
+longitudinal oscillation   &&   纵向摆动，纵向振动
+longitudinal profile   &&   纵断面，纵剖面(图)
+longitudinal redundancy check   &&   纵向冗余校验
+longitudinal reinforcement   &&   纵向增强(作用)
+longitudinal relaxation time   &&   纵向弛豫时间
+longitudinal resistance   &&   纵向阻力
+longitudinal resolution   &&   纵向分辨力
+longitudinal seam   &&   纵向焊缝，纵向缝
+longitudinal seam welding   &&   纵向焊，纵向滚焊
+longitudinal section   &&   纵剖面，纵截面，纵断面
+longitudinal section view of engine   &&   发动机纵剖视图
+longitudinal shape   &&   纵向形状
+longitudinal shear   &&   纵向剪切
+longitudinal sleeper   &&   纵轨枕
+longitudinal slide   &&   纵向滑板
+longitudinal sliding motion   &&   纵向滑动
+longitudinal sloping hearth furnace   &&   纵向斜底式炉
+longitudinal split nut   &&   纵裂螺母
+longitudinal stability   &&   纵向稳定性
+longitudinal strain   &&   纵向应变
+longitudinal strength   &&   纵向强度，经向强度
+longitudinal stress   &&   纵向应力
+longitudinal test piece   &&   纵向试样
+longitudinal thermal conduction   &&   纵向热传导
+longitudinal tool rest   &&   纵向刀架
+longitudinal transfer gear   &&   纵向自走机构
+longitudinal traverse   &&   纵向移动
+longitudinal velocity   &&   纵向速度
+longitudinal vibration   &&   纵向振动
+longitudinal view   &&   纵视图
+longitudinal wave   &&   纵波
+longitudinal wave probe   &&   纵波探头
+longitudinal wave technique   &&   纵波法
+longitudinal welding   &&   纵向焊接
+longitudinally   &&   纵向的
+longitudinally split nut   &&   纵裂螺母
+longos   &&   纵向缠绕
+longwall-shortwall coalcutter   &&   万能截煤机
+lonneal   &&   低温回火
+lonnealing   &&   低温回火
+look left   &&   向左看
+look right   &&   向右看
+look upon   &&   视作，看待
+look-at-me   &&   请求注意[LAM]
+look-at-me line   &&   请求注意线，L线
+look-at-me request   &&   LAM要求
+look-at-me signal   &&   请求注意信号，L信号
+look-up   &&   ①探求，探索②检查，查找③查表
+look-up command   &&   查找命令
+look-up instruction   &&   查找指令
+look-up table   &&   控制发动机参数图
+loom   &&   织(布)机，线束
+loom motor   &&   织布机用电动机
+loom winder   &&   车头卷纬机
+loop   &&   ①环，环路，循环②回路，回线，环线，闭路③圈，(波)腹，线圈
+loop aerial   &&   环形天线
+loop analysis   &&   回路分析法
+loop antenna   &&   环形天线
+loop asymptote   &&   回环渐近线
+loop battery signaling   &&   环路-电池信号方式
+loop box   &&   环路箱，变址寄存器
+loop checking system   &&   回送校验系统
+loop circuit   &&   环路
+loop code   &&   循环码
+loop coil   &&   环形线圈
+loop communication system   &&   循环通信系统
+loop compilation   &&   循环编译
+loop computation   &&   循环运算
+loop computing function   &&   循环计算操作
+loop control   &&   循环控制
+loop coupling   &&   环耦合
+loop cut-off characteristic   &&   回线截频特性
+loop dialling   &&   环线拨号
+loop disconnect signalling   &&   环路断开信号方式
+loop distribution   &&   循环分配
+loop end   &&   循环结束
+loop equation   &&   环路方程
+loop execution   &&   循环执行
+loop expansion bend   &&   膨胀弯管
+loop feeder   &&   环形馈电线
+loop feeding   &&   环行供电
+loop gain   &&   回路增益
+loop galanometer   &&   回线式振动子
+loop graph   &&   环路图
+loop head   &&   循环人口
+loop impedance determinant   &&   回路阻抗行列式
+loop jump   &&   循环转移
+loop line   &&   环路，回线
+loop matrix equation   &&   回路矩阵方程
+loop network   &&   环状网络，环式网
+loop operation   &&   循环操作
+loop product   &&   圈积
+loop rectangularity   &&   回线矩形性
+loop scavenged cylinder   &&   回流换气气缸
+loop strength   &&   互扣强度
+loop synchronizer   &&   循环同步程序
+loop system   &&   环形系统
+loop system transmission   &&   环形输电，环线制传输
+loop table   &&   循环表
+loop tape recorder   &&   环形磁带录音机
+loop test   &&   环线试验，回路试验
+loop transfer function   &&   循环传递函数
+loop transforming  matrix  equation   &&   回路转换矩阵方程[LTME]
+loop wire   &&   环线，回线
+loop-excitation   &&   回线激发函数
+loop-free directed graph   &&   无循环定向图
+loop-scavenging   &&   环流扫气
+loopback checking   &&   回送检验
+loopback test   &&   回送检查
+looped wire   &&   环线
+looped-in supply   &&   环形供电
+looping coefficient   &&   环绕系数
+looping mill   &&   线材滚轧机，环轧机
+looping test   &&   打结试验(钢丝)
+looping-in   &&   形成回路，形成环路
+loose   &&   松动，松弛
+loose bush   &&   活动衬套
+loose circuit   &&   弱耦合电路
+loose coal   &&   松散煤
+loose compaction   &&   疏松压制
+loose constraint   &&   松的约束
+loose contact   &&   接触不良
+loose coupling   &&   弱耦合，松耦合
+loose detail mold   &&   活零件模具
+loose fit   &&   松配合
+loose head stock centre   &&   头座随转顶尖
+loose hole   &&   空炮眼
+loose joint   &&   松接头
+loose joint hinge   &&   活铰链
+loose mold   &&   活动式模具
+loose pin   &&   活动定位销
+loose pulley   &&   空套皮带轮，惰轮
+loose punch   &&   松冲模
+loose replicatable suppressible character frame   &&   松散可重复可删字符框架
+loose replicatable suppressible digit frame   &&   松散可重复可删数字框架
+loose replicatable zero frame   &&   松散可重复零框架
+loose rivet   &&   松铆钉
+loose running   &&   空转
+loose running fit   &&   松转配合
+loose scale   &&   疏松的氧化皮
+loose sintering   &&   松装烧结，疏松烧结
+loose specific weight   &&   松装比重
+loose structure   &&   多孔结构
+loose suppressible character frame   &&   松散可删字符框架
+loose suppressible complex frame   &&   松散可删复框架
+loose suppressible exponent frame   &&   松散可删指数框架
+loose suppressible point frame   &&   松散可删点框架
+loose volume   &&   松散体积
+loose wheel   &&   惰轮
+loose-plate mould   &&   活板模型
+loosely-coupled system   &&   松散耦合系统
+loosen soil machine   &&   松土机
+looseness   &&   ①松度②松弛③疏松
+loosening   &&   放松，松散
+loosening pressure   &&   松散压力
+lopsided diagram   &&   偏重图
+lorry   &&   货车
+lost core injection molding   &&   失芯注塑
+lost wax casting   &&   脱蜡铸造
+lost wax process   &&   失蜡法
+lot   &&   批
+lot size   &&   批量
+lot to lot variation   &&   批间偏差
+lot-for-lot   &&   按需订货法
+loudness contours   &&   等响曲线
+loudness level   &&   响度极
+loudspeaker   &&   扬声器
+louver   &&   通气孔
+louvering die   &&   百叶窗冲切模
+low Q-TR tube   &&   低Q-开关管，宽频带开关管
+low address byte   &&   低位地址字节
+low alloy tool steel   &&   特殊工具钢
+low altitude sonde   &&   低空探空仪
+low aspect ratio aircraft   &&   低展弦比机翼飞机
+low aspect ratio wing   &&   低展弦比机翼
+low attacking fault energy crystal   &&   低堆垛层错能的晶体
+low bainite   &&   下贝氏体
+low band   &&   低频带
+low band boost   &&   低频段响应提升
+low band width   &&   低频带宽
+low boiling liquid   &&   低沸点液体
+low boiling point   &&   低沸点
+low brass   &&   低锌黄铜，软黄铜
+low bridge ahead   &&   前方桥低
+low build chassis   &&   低式底盘
+low capacitance probe   &&   低电容探头
+low capacity symmetrical cable   &&   低电容对称电缆
+low carbon cast steel   &&   低碳铸钢
+low carbon ferrochromium   &&   低碳铬铁，低碳铬铁合金
+low carbon martensite   &&   低碳马氏体
+low carbon martensitic steel   &&   低碳马氏体钢
+low carbon residue oil   &&   低焦值油，低碳渣油
+low carbon steel   &&   低碳钢
+low center gravity coach   &&   低重心客车
+low chrome alloy   &&   低铬合金
+low coal   &&   薄煤层
+low concentration ratio mirror   &&   低倍率反射镜
+low concentration ratio system   &&   低倍率聚光系统
+low consumption engine   &&   低耗油量发动机
+low content alloy   &&   低合金
+low cost automation   &&   低成本自动化，低价自动化
+low cost code   &&   低成本码
+low cost object   &&   低成本目标
+low cristobalite   &&   低温型方石英
+low current   &&   弱电流
+low cycle fatigue   &&   低循环疲劳，低周疲劳
+low cycle fatigue crack propagation   &&   低周疲劳裂纹扩展
+low cycle high-temperature fatigue   &&   低循环高温疲劳，低周高温疲劳
+low cycle mechanical fatigue   &&   低循环机械疲劳，低周热疲劳
+low definition   &&   低清晰度
+low density mode   &&   低密度纪录方式
+low density wind tunnel   &&   低密度风洞
+low dilution   &&   低度稀释
+low disparity code   &&   低差别编码[LDC]
+low distortion   &&   轻度失真
+low dose irradiation   &&   小剂量辐照
+low ductile alloy   &&   低塑性合金
+low ductility steel   &&   低塑性钢
+low e.m.f. potentiometer   &&   低电位电位差时
+low electrode   &&   低电极
+low electron energy diffractometer   &&   低能电子衍射仪[LEED]
+low emission   &&   弱发射
+low emissions vehicle   &&   低排放车 [LEV]
+low endurance   &&   短寿命，低耐久性
+low energy electron   &&   低能(量)电子[LEE]
+low energy proton   &&   低能(量)质子
+low energy proton damage   &&   低能(量)质子损伤
+low expansion alloy   &&   低膨胀合金
+low expansion glass-ceramics   &&   低膨胀微晶玻璃
+low expansion injection molding   &&   低发泡注塑
+low expansion metal   &&   低膨胀(系数)金属
+low expansion relay   &&   低膨胀继电器
+low expansion silica glass   &&   低膨胀石英玻璃
+low floor charger   &&   低台装料机
+low frequency   &&   低频[LF]
+low frequency bend   &&   低频带
+low frequency capacitor ceramics   &&   低频电容器陶瓷
+low frequency electric machine   &&   低频电机
+low frequency fatigue testing machine   &&   低频疲劳试验机
+low frequency furnace   &&   低频电炉
+low frequency generator   &&   ①低频(信号)发生器②低频发电机
+low frequency propagation   &&   低频传播，长波传播
+low frequency range   &&   低频段
+low frequency standard vibration generator   &&   标准低频振动装置
+low frequency starting   &&   低频启动
+low frequency trans-ionosphere satellite   &&   低频穿越电离层卫星
+low function terminal   &&   低功能终端
+low gap semiconductor   &&   窄禁隙半导体
+low gold-content alloy   &&   低金(量)合金
+low grade energy   &&   低级能
+low heat rejection engine   &&   低热耗发动机
+low hydrogen alloy rod   &&   低氢合金焊条
+low hydrogen electrode   &&   低氢型焊条
+low hydrogen type covered electrode   &&   低氢型涂料电弧焊条
+low injection level   &&   低注入水平
+low insulation   &&   低级绝缘，绝缘不良
+low intensity cell   &&   弱光电池
+low intensity effect   &&   低光强效应
+low key tone   &&   阴暗色调(图像)
+low leaded brass   &&   低铅黄铜
+low leakage   &&   低漏电的
+low level   &&   低电平，低水平，低能级
+low level code   &&   低位码
+low level debugging   &&   低级调试
+low level injection   &&   低水平注入
+low level language   &&   低级语言
+low level packet   &&   低级(信息)包
+low level scheduling   &&   低级调度
+low level software   &&   低级软件
+low limit   &&   下限，最小限度
+low limit of tolerance   &&   下限公差
+low limiting control   &&   下限控制
+low line   &&   低压线路
+low loader   &&   轻型装载机，低装载货车
+low loss   &&   低损耗(的)
+low machinability   &&   低切削性
+low machinability steel   &&   难加工钢
+low manganese casting steel   &&   低锰铸钢
+low melting glass   &&   低熔点玻璃
+low melting metal   &&   低熔点金属
+low melting-point alloy   &&   易熔合金，低熔点合金
+low molecular   &&   低分子的
+low molecular polymer   &&   低聚物，低分子聚合物
+low molecular weight compound   &&   低分子量化合物
+low noise amplifier   &&   低噪声放大器
+low noise and low vibration electric machine   &&   低噪声低振动电机
+low noise antenna   &&   低噪声天线
+low noise bearing   &&   低噪声轴承
+low noise cable   &&   低噪音电缆
+low noise photomultiplier   &&   低噪声光电倍增管
+low noise receiver   &&   低噪声接收机
+low noise travelling-wave tube   &&   低噪声行波管
+low noise valve   &&   低噪声阀
+low observation reentry vehicle   &&   低空观察重返(地球)飞行器
+low oil alarm   &&   低油位报警器
+low oil pressure alarm   &&   低油压警告(发光二极管)[LED]
+low orbit   &&   低轨道
+low order   &&   低位，下位，低价位
+low order bit   &&   最低位
+low order merge   &&   低位合并
+low pass   &&   低通
+low permeability   &&   ①低透水率②低磁导率
+low permeability alloy   &&   低磁导率合金
+low phosphorous pig iron   &&   低磷生铁
+low pitch   &&   低螺距(螺旋浆的)
+low platform trailer   &&   低平台拖车
+low point   &&   低点
+low polymer   &&   低聚(合)物
+low power   &&   小功率(的)
+low power logic gate   &&   低功率逻辑门
+low power microscopy   &&   低倍显微照相术
+low power objective   &&   低倍物镜
+low power single-chip microcomputer   &&   低功单片微计算机
+low powered microscope   &&   低倍显微镜
+low pressure   &&   低压力
+low pressure admission   &&   低压进气
+low pressure area   &&   低压面积
+low pressure blowpipe   &&   低压焊炬，低压喷焊器
+low pressure casting   &&   低压铸造
+low pressure cylinder   &&   低压(气)缸
+low pressure die casting machine   &&   低压铸造机
+low pressure gauge   &&   低压计
+low pressure injection molding   &&   低圧注塑
+low pressure injection moulding   &&   低压注射模塑
+low pressure manometer   &&   低压计
+low pressure switch   &&   低压力开关
+low pressure valve   &&   低压阀
+low profile   &&   小高宽比轮胎
+low quartz   &&   低温(型)石英
+low range   &&   ①低倍率①低量程
+low ratio frequency   &&   无线电低频
+low resistance alloy   &&   低电阻合金，低变形抗力合金
+low resolution self-scan pattern recognition   &&   低功分辨度自扫描模式识别
+low scale   &&   低刻度
+low side band   &&   低边带
+low speed   &&   低速度，低速(的)
+low speed balancing   &&   低速平衡
+low speed characteristics   &&   低速特性(空气动力学)
+low speed motor   &&   低速电动机
+low speed stability   &&   低速稳定性
+low spot   &&   凹部，凹陷，明疤
+low stacking fault energy   &&   低堆垛层错能
+low strength alloy   &&   低强度合金
+low strength steel   &&   低强度钢
+low stress fracture   &&   低应力断裂
+low sulfur diesel   &&   低硫柴油
+low sulphur automotive diesel oil   &&   低硫汽车柴油 [LSADO]
+low sulphur coal   &&   低硫煤
+low sulphur diesel   &&   低硫柴油
+low target   &&   低目标
+low temperature adsorption   &&   低温吸附
+low temperature aging   &&   低温时效
+low temperature annealing   &&   低温退火
+low temperature brittleness   &&   低温脆性，冷脆性
+low temperature cable   &&   低温电缆
+low temperature effect   &&   低温效应
+low temperature electric machine   &&   低温电机
+low temperature end   &&   低温端
+low temperature flexibility   &&   低温挠曲性
+low temperature humidity chamber   &&   低温恒温恒湿箱
+low temperature impact test   &&   低温冲击试验
+low temperature insulating technique   &&   低温隔热技术，低温绝缘技术
+low temperature insulation   &&   低温绝缘
+low temperature martensite   &&   低温马氏体
+low temperature material   &&   低温材料
+low temperature passivation transistor   &&   低温钝化晶体管
+low temperature polymerization   &&   低温聚合
+low temperature recrystallization anneal   &&   低温再结晶退火
+low temperature resistance   &&   耐寒性，耐低温性
+low temperature solidification   &&   低温固化(过程)
+low temperature steel   &&   低温钢
+low temperature stiffening   &&   低温硬化
+low temperature strain gauge   &&   低温应变计
+low temperature stress relieving   &&   低温消除应力
+low temperature test   &&   低温试验
+low temperature testing machine   &&   低温试验机
+low temperature thermistor   &&   低温热敏电阻器
+low temperature toughness   &&   低温韧性
+low tempering   &&   低温回火
+low tensile alloy   &&   低强度合金
+low tension   &&   ①低电压②低张力
+low tension cable   &&   低压电缆
+low tension current   &&   低压电流
+low tension ignition   &&   低(电)压点火
+low tension loop   &&   低压回路
+low tension motor   &&   低压电动机
+low tension network   &&   低压电力网
+low tension side   &&   低压端，低压侧(变压器的)
+low tension winding   &&   低压绕阻
+low thermal-conductivity charge   &&   低导热性炉料
+low tin bronze   &&   低锡青铜
+low trajectory   &&   低伸弹道，平直弹道
+low truck crane   &&   车辆式起重机，轮胎起重机
+low tungsten high speed steel   &&   低钨高速钢
+low turbulence wind tunnel   &&   低湍流度风涧
+low vacuum   &&   低真空
+low velocity drop   &&   低速度空投
+low velocity electron   &&   低速电子，慢电子
+low voltage   &&   低电压
+low voltage arc   &&   低压电弧
+low voltage insulation   &&   低压绝缘
+low voltage terminal   &&   低压端
+low voltage tester   &&   低电压试验器
+low water   &&   低潮
+low work function material   &&   低功功能材料
+low yield alloy   &&   低屈服点合金
+low yield point steel   &&   低屈服点钢
+low yield stress   &&   下屈服应力
+low-angle scattering   &&   低角散射
+low-angle smooth bottom steel bench plane   &&   低角平底钢刨
+low-atomic-number   &&   低原子序数的
+low-atomic-number material   &&   低原子序数材料
+low-atomic-weight   &&   低原子量的
+low-bed trailer   &&   低货架挂车
+low-blow brittle transition test   &&   低能冲击脆断转变试验
+low-boy   &&   低货架挂车
+low-capture material   &&   低俘获物质，弱吸收剂
+low-carbon   &&   低碳(的)，含碳低的
+low-carbon cast iron   &&   低碳铸铁
+low-coercivity   &&   低矫顽磁力
+low-compression   &&   低压缩
+low-compression motor   &&   低压缩发动机
+low-copper nickel matte anode   &&   低铜镍锍阳极
+low-cost die   &&   低值模具，简易模具
+low-cycle operation   &&   低周波运行
+low-density alloy   &&   低密度合金
+low-density high-speed plasma   &&   小密度高速等离子体
+low-density material   &&   低密度材料
+low-density metal   &&   低密度金属，轻金属
+low-density polyethylene   &&   低密度聚乙烯
+low-detonation-rate explosive   &&   低爆速炸药
+low-drift transistor pair   &&   低漂移晶体管对
+low-duty fireclay brick   &&   轻型耐火砖
+low-early-strength cement   &&   早期低强水泥
+low-energy dislocation   &&   低能量位错
+low-energy dislocation-generating source   &&   低能量位错产生源
+low-energy electron diffraction   &&   低能电子衍射，低能电子绕射
+low-energy neutron   &&   低能(量)中子
+low-energy oxidizer   &&   低能(量)氧化剂
+low-energy radiation   &&   软性射线，低能(量)射线
+low-energy side of energy gap   &&   能隙的低能界限，能隙的低能范围
+low-energy solar plasma   &&   低能(量)太阳等离子体
+low-expansion   &&   低膨胀
+low-expansion material   &&   低膨胀(系数)材料
+low-explosive forming   &&   低爆炸成型、
+low-freezing liquid   &&   低凝固点液体
+low-frequency amplification   &&   低频放大
+low-frequency amplifier   &&   低频放大器
+low-frequency antenna   &&   低频天线
+low-frequency connector   &&   低频接插件，低频连接件
+low-frequency electric smelting furnace   &&   低频电熔炉(冶炼用)
+low-frequency electrical porcelain   &&   低频电瓷
+low-frequency filter   &&   低频滤波器
+low-frequency induction   &&   低频感应
+low-frequency induction furnace   &&   低频感应电炉
+low-frequency oscillator   &&   低频振荡器
+low-gear   &&   低速齿轮，低速传动
+low-grade coal   &&   低质煤，低级煤
+low-grade copper   &&   低品位铜，低级铜
+low-grade fuel   &&   低质燃料，低级燃料
+low-grade oil   &&   重质石油，低级石油
+low-gravity fuel   &&   低比重燃料
+low-gravity oil   &&   低比重石油，重质石油
+low-high junction   &&   低-高结
+low-inertia motor   &&   低惯量电动机
+low-intensity   &&   低强度
+low-level bus   &&   低底盘公共汽车
+low-level jet condenser   &&   低位喷水凝汽器
+low-lift pump   &&   低压泵
+low-loader   &&   低货架挂车
+low-lying energy   &&   低位能带
+low-lying level   &&   低能级
+low-lying state   &&   低能态
+low-melting alloy   &&   低熔点合金
+low-melting component   &&   低熔点组分
+low-melting constituent   &&   低熔点组分，易熔成分
+low-melting glass fiber   &&   低熔点玻璃纤维
+low-melting-point eutectic   &&   低熔点共晶
+low-modulus binder   &&   低(弹性)黏合剂
+low-modulus film   &&   低模量薄膜
+low-molecular-weight   &&   低分子量
+low-noise connector   &&   低噪声接插件，低噪声连接器
+low-noise pentode   &&   低噪声五极管
+low-octane   &&   低辛烷值(的)
+low-order digit   &&   低位数位
+low-pass filter   &&   低通滤波器
+low-permittivity ceramics   &&   低介电(常数)陶瓷
+low-pressure air atomization   &&   低压空气喷雾法
+low-pressure air starter   &&   低压空气启动机
+low-pressure calendering operation   &&   低压压光操作
+low-pressure compressor   &&   低压压气机
+low-pressure condensing turbine   &&   低压凝汽式汽轮机
+low-pressure disc   &&   低压轮
+low-pressure fan   &&   通风机
+low-pressure gas   &&   低压气体
+low-pressure gas burner   &&   低压煤气喷烧器
+low-pressure hose   &&   低压软管
+low-pressure measurement   &&   低压计量
+low-pressure moulding   &&   低压模塑(法)，低压模制
+low-pressure piston   &&   低压活塞
+low-pressure pneumatic sensor   &&   低压空气传感器
+low-pressure pump   &&   低压泵
+low-pressure refrigeration   &&   低压冷冻
+low-pressure shaft   &&   低压轴
+low-pressure steam   &&   低压蒸汽
+low-pressure steam engine   &&   低压蒸汽机
+low-pressure torch   &&   低压焊炬
+low-pressure turbine   &&   低压汽轮机
+low-pressure wheel   &&   低压轮
+low-recovery valve   &&   低压力恢复阀
+low-refractive high-dispersive glass   &&   低折射高色散玻璃
+low-side roller mill   &&   低面滚磨机
+low-silicon bronze   &&   低硅青铜
+low-silicon cast iron   &&   低硅铸铁
+low-silicon pig iron   &&   低硅生铁
+low-slag cement   &&   低矿渣水泥，低熔渣水泥
+low-slump concrete   &&   小塌落度混凝土
+low-speed aerodynamics   &&   低速空气动力学
+low-speed computer   &&   低速计算机
+low-speed diesel engine   &&   低速柴油机
+low-speed engine   &&   低速发动机
+low-speed gear   &&   低速齿轮
+low-speed heavy cut   &&   低速重切削
+low-speed jet   &&   低速射流，低速喷动机，低速喷嘴
+low-speed machine   &&   低速(电)机
+low-speed magneto synchronous motor   &&   永磁式低速同步电动机
+low-speed memory   &&   低速存储器
+low-speed mill   &&   ①低速轧机，低速磨机②低速碎矿机
+low-speed register   &&   低速寄存器
+low-speed storage   &&   低速存储器
+low-strength cement   &&   低强度水泥
+low-strength material   &&   低强度材料
+low-symmetrical crystal   &&   低对称性晶体
+low-temperature connector   &&   低温连接器，低温接插件
+low-temperature cracking   &&   低温断裂，冷裂
+low-temperature creep   &&   低温蠕变
+low-temperature magnetic material   &&   低温磁性材料
+low-temperature tempering   &&   低温回火
+low-temperature test chamber   &&   低温试验箱
+low-temperature treatment   &&   低温处理
+low-tension circuit   &&   低压电路
+low-test-gasoline   &&   低级汽油
+low-texture steel   &&   低织构钢
+low-traffic condition   &&   低速传输条件，低通信量条件
+low-viscosity monomer   &&   低黏度单体
+low-viscosity oil   &&   低黏度润滑油
+low-viscosity plastisol   &&   低黏度增塑溶胶
+low-volatility fuel   &&   低挥发分燃料，重质燃料
+low-voltage electrical apparatus   &&   低压电器
+low-voltage insulator   &&   低压绝缘子
+low-voltage network   &&   低压配电网
+low-voltage porcelain   &&   低压电瓷
+low-voltage power supply   &&   低压电源
+low-voltage protection   &&   低压保护，无电压保护，欠压保护
+low-voltage vacuum switches   &&   低压真空电器
+lower Darboux integral   &&   达布下积分，低积分
+lower accumulator   &&   下限累加器
+lower actual measuring range value   &&   实际测量范围下限值
+lower approximate value   &&   下近似值，偏小近似值
+lower bainite   &&   下贝氏体
+lower band   &&   低频带
+lower beam   &&   近光
+lower body carburetor   &&   化油器下本体
+lower bound   &&   下界，下限
+lower bound expression   &&   下界表达式
+lower bound symbol   &&   下界符号
+lower boundary   &&   下边界
+lower box   &&   下箱(铸造用)
+lower case   &&   小写体
+lower case letter   &&   小写字母
+lower closure   &&   下闭包
+lower consolute temperature   &&   下临界共溶温度
+lower crankcase   &&   下曲轴箱
+lower critical cooling rate   &&   下临界冷却速度
+lower cylinder   &&   下气缸
+lower dead center   &&   下死点
+lower dead point   &&   下死点
+lower derivative   &&   下导数，下微分
+lower derived function   &&   下导函数
+lower deviation   &&   下偏差
+lower die   &&   下模，凹模
+lower die base   &&   下模座
+lower edge   &&   下限，下边缘
+lower extreme point   &&   下端点
+lower frequency limit   &&   频率下限
+lower gage cock   &&   下端试水位旋塞
+lower half-space   &&   下半空间
+lower hose radiator inlet   &&   冷却液下橡胶软管
+lower inner case   &&   内下缸
+lower limit   &&   下限，低限，最小限度
+lower limit of ultimate strength   &&   极限强度下限
+lower limit of yield   &&   屈服强度下限
+lower limit register   &&   下限存储器
+lower pair   &&   低副，低副(传动链系的)
+lower panel   &&   下翼片
+lower pitch limit   &&   音调下限
+lower plate   &&   下模板
+lower range   &&   低量程
+lower scale   &&   刻度下段
+lower semi-continuity   &&   下半连续性
+lower semicontinuous   &&   下半连续的
+lower semicontinuous functions   &&   下半连续函数
+lower sideband   &&   下边频带]通信]
+lower sliding plate   &&   下滑块板
+lower spring retainer   &&   下弹簧座
+lower state   &&   低能态，下态
+lower state symbol   &&   下态符号
+lower steam jet port   &&   下进汽口
+lower steering shaft   &&   下转向轴
+lower stripper   &&   下脱料板
+lower tension spring   &&   下拉力弹簧
+lower vacuum   &&   低真空
+lower word   &&   下字
+lower yield point   &&   下屈服点
+lower zone heating element   &&   下部加热组件
+lower-level objectives   &&   低水平目标
+lower-semi-continuous correspondence   &&   下半连续对应
+lowering   &&   降低
+lowest common denominator   &&   最小公分母
+lowest common multiple   &&   最小公倍数
+lowest order   &&   最低位
+lowest order digit   &&   最低数位
+lowest point   &&   最低点
+lowest term   &&   最低项
+lowest water level   &&   最低水位，枯水位
+lox seal   &&   液氧密封
+lox-hydrogen engine   &&   液氧-氢发动机
+ltscale   &&   线型比例
+lube   &&   ①润滑物②润滑油
+lube oil   &&   润滑油
+luboil   &&   润滑油
+lubricant   &&   ①润滑剂②润滑的③分型剂(壳型)④涂料(金属型)
+lubricant film   &&   润滑油膜
+lubricant oil   &&   润滑油
+lubricant oil flow improver   &&   润滑油流动改进剂 [LOFI]
+lubricant pump   &&   润滑油泵
+lubricants   &&   润滑液
+lubricate   &&   润滑
+lubricating arrangement   &&   润滑装置
+lubricating cup   &&   油杯
+lubricating device   &&   润滑装置
+lubricating equipment   &&   润滑设备
+lubricating film   &&   润滑油膜
+lubricating graphite   &&   润滑用石墨
+lubricating oil   &&   润滑油
+lubricating oil pump   &&   润滑油泵
+lubricating property   &&   润滑性质
+lubricating set   &&   润滑装置
+lubricating system   &&   润滑系统
+lubricating wick   &&   润滑油心
+lubrication   &&   润滑作用，润滑
+lubrication device   &&   润滑油膜
+lubrication systems   &&   润滑系统
+lubrication test   &&   润滑试验
+lubrication theory   &&   润滑理论
+lubricator   &&   ①润滑器②润滑剂③润滑装置，注油器
+lubricators   &&   注油机
+lubricity   &&   润滑能力，润滑性
+ludness   &&   响度
+luff   &&   ①俯仰，倾斜②倾角
+luffing crane   &&   俯仰起重机
+lug   &&   ①凸耳，凸缘②耳柄，箱耳③套管④手柄，环状柄，搭子⑤拖，拉
+lug bolt   &&   扁尾螺栓
+lug plate   &&   ①焊片②接线板
+lug-type terminal post   &&   凸耳支柱
+luggage boot   &&   ①绉纹管套②行李舱③保护罩④接受器⑤进料斗
+lugging   &&   超载运转能力
+lumber body   &&   原木运输车
+lumen   &&   流明(光通量单位)(lm)
+lumen bronze   &&   流明青铜合金(Zn 85%～88％，Cu 4％～10％，Al 2％～8％)
+lumen equivalent   &&   流明当量
+lumen hour   &&   流明一小时
+lumen meter   &&   照度计，流明计
+lumen method   &&   流明法
+lumen sensitivity   &&   流明灵敏度
+lumerg   &&   流末格(光能单位)
+lumeter   &&   照度计，流明计
+luminaire   &&   照明器
+luminaire making machinery   &&   灯具制造机械
+luminance   &&   发光率，照度，亮度
+luminance channel   &&   亮度信道
+luminance coefficient   &&   亮度系数
+luminance delay   &&   亮度延迟
+luminance efficiency   &&   发光效率
+luminance fluctuation   &&   亮度起伏
+luminance image restoration   &&   亮度图像恢复
+luminance range   &&   亮度范围
+luminance sensor   &&   亮度传感器
+luminance temperature   &&   亮度温度
+luminance threshold   &&   亮度阈
+luminance transducer   &&   亮度传感器
+luminescence   &&   发光，磷光，荧光，生物光，冷光
+luminescence efficiency   &&   发光效率
+luminescent activator   &&   发光活化剂
+luminescent bacteria   &&   发光细菌
+luminescent center   &&   发光中心
+luminescent concentrator   &&   荧光聚光器
+luminescent crystal   &&   发光晶体
+luminescent device   &&   发光器件
+luminescent effect   &&   发光效应
+luminescent gas   &&   发光气体
+luminescent intensity   &&   发光强度
+luminescent material   &&   发光材料，发光物质
+luminescent plastics   &&   发光塑料
+luminescent screen   &&   发光屏，荧光屏
+luminescent spectrum   &&   发光光谱
+luminescent spot   &&   ①光点②亮点
+luminescent substance   &&   发光物质
+luminometer   &&   光度计，照度计
+luminophor   &&   发光体
+luminosity   &&   发光度，亮度，发光本领，光度
+luminosity class   &&   光度型
+luminosity classification   &&   光度分类
+luminosity curve   &&   发光度曲线
+luminous beam   &&   光线，光束
+luminous body   &&   发光体
+luminous density   &&   发光密度
+luminous dial   &&   发光(刻)度盘
+luminous diode   &&   发光二极管
+luminous effect   &&   光效应
+luminous efficacy   &&   光视效能
+luminous efficiency   &&   发光效率，光视效率
+luminous element   &&   发光组件
+luminous emission   &&   光发射
+luminous energy   &&   光能
+luminous flux   &&   光通量
+luminous flux density   &&   光通密度
+luminous flux measurement   &&   光通量测量
+luminous intensity   &&   (发)光强(度)
+luminous intensity measurement   &&   光强(度)测量
+luminous material   &&   发光材料，发光物质
+luminous mechanism   &&   发光机制
+luminous power   &&   ①发光能力，发光本领②发光功率
+luminous quartz   &&   发光石英
+luminous radiation   &&   光辐射
+luminous ray   &&   光线
+luminous sensitivity   &&   感光灵敏度，感旋光性，光照灵敏度
+luminous sign   &&   发光标志
+luminous source   &&   光源
+luminous spot   &&   光点
+luminous standard   &&   光度标准
+luminous test   &&   发光试验
+luminous transmittance   &&   光透射比
+lump   &&   ①块，小块，砂块，团块，块矿②堆③(复数)起瘤，起疙瘩④聚总
+lump coal   &&   块煤
+lump coke   &&   块焦，冶金焦
+lump lime   &&   块石灰，生石灰
+lump material   &&   块料
+lumped   &&   集总的，集中的
+lumped capacity   &&   集中电容
+lumped circuit   &&   集中网路
+lumped constant   &&   集中常数
+lumped constant delay line   &&   集中参数延迟线
+lumped element circulator   &&   集中组件环行器
+lumped element isolator   &&   集中组件隔离器
+lumped elements   &&   集中参数组件
+lumped fuel   &&   团块状燃料
+lumped load   &&   集中负载
+lumped model   &&   ①集中模型②集总模型
+lumped network   &&   集总网络
+lumped parameter   &&   ①集中参数  ②集总参数
+lumped parameter approximation   &&   集中参数近似
+lumped parameter circulator   &&   集中参数环行器
+lumped parameter isolator   &&   集中参数环隔离器
+lumped parameter measurement   &&   集中参数测量
+lumped parameter system   &&   集中参数系统，分块参数系统
+lumped parameter system model   &&   集中参数系统模型
+lumping   &&   集总的，集中的
+lunar cartography   &&   月球制图学
+lunar communication   &&   月球通迅
+lunar excursion module   &&   登月舱
+lunar excursion vehicle   &&   登月飞船
+lunar exploration   &&   月球探索
+lunar gravitational field   &&   月球重力场
+lunar gravity simulator   &&   月球重力模拟器
+lunar laser ranging   &&   激光测月，月球激光测距法
+lunar launching   &&   月面发射
+lunar magnetic field   &&   月球磁场
+lunar module   &&   登月舱
+lunar mover   &&   月球车，月行车
+lunar moving vehicle   &&   月球车，月面行进车
+lunar orbit   &&   环月轨道
+lunar orbit space-craft   &&   月球轨道飞行器
+lunar radar   &&   月球雷达
+lunar robot vehicle   &&   月面遥控行进车
+lunar rover   &&   月行车，月球车
+lunar roving vehicle   &&   月面行进车，月球车
+lunar spacecraft   &&   月球飞船
+lunar surface vehicle   &&   月面车辆
+lunar trajectory   &&   奔月轨道
+lunar vehicle   &&   月球车，月面车辆，月球飞行器
+lunik   &&   探月火箭
+lunk   &&   选取中继线
+lurching   &&   车辆横向振动，倾侧
+luster   &&   ①光泽②分枝灯架
+lustre colour   &&   金属光泽彩，虹彩料
+lustre glass   &&   虹彩玻璃
+lustre sheet   &&   抛光薄板
+lustreless fracture   &&   无光泽断口
+lustrex   &&   苯乙烯造型粉，苯乙烯塑料
+lustron   &&   聚苯乙烯塑料
+lustrous rayon   &&   有光嫘萦，有光人造丝
+lute   &&   ①封泥，水泥封涂②涂油，腻料
+lutecium   &&   镥，Lu(71)
+luton   &&   高顶厢式汽车
+lye   &&   碱液
+lye solution   &&   碱溶液
+lying charcoal kiln   &&   卧式炭窑
+lying meiler   &&   卧式炭窑
+lyolysis   &&   液解作用
+lyometallurgy   &&   无水溶剂冶金，萃取冶金
+lyophile   &&   ①亲液脱体②亲液物
+lyophilic   &&   亲液的
+lyophilic colloid   &&   亲液胶体
+lyophobe   &&   ①疏液胶体②疏液物
+lyophobic   &&   疏液的，增液的
+lyophobic colloid   &&   疏液胶体，增液胶体
+lyophobic colloidal solution   &&   疏液胶体溶液
+lyosorpic phase   &&   亲液相
+lyosorption   &&   溶剂吸附
+lysimeter   &&   渗水测定器
+lysis   &&   溶解

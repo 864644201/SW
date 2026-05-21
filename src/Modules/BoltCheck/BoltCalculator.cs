@@ -2,154 +2,113 @@ using System;
 
 namespace BoltCheck
 {
-    /// <summary>
-    /// 螺栓校核计算结果
-    /// </summary>
     public class BoltCheckResult
     {
-        /// <summary>轴向工作载荷 F (kN)</summary>
         public double F { get; set; }
-        /// <summary>螺栓数量 n</summary>
+        public double Fs { get; set; }
         public int N { get; set; }
-        /// <summary>单个螺栓工作载荷 (kN)</summary>
         public double FPerBolt { get; set; }
-        /// <summary>应力截面积 As (mm^2)</summary>
         public double As { get; set; }
-        /// <summary>螺栓小径 d1 (mm)</summary>
         public double D1 { get; set; }
-        /// <summary>螺栓中径 d2 (mm)</summary>
         public double D2 { get; set; }
-        /// <summary>公称直径 d (mm)</summary>
         public double D { get; set; }
-        /// <summary>螺距 P (mm)</summary>
         public double P { get; set; }
-        /// <summary>拉伸应力 sigma (MPa)</summary>
         public double Sigma { get; set; }
-        /// <summary>预紧力 F0 (kN)</summary>
+        public double Tau { get; set; }
+        public double SigmaEq { get; set; }
         public double F0 { get; set; }
-        /// <summary>预紧力系数 K</summary>
+        public double F0Min { get; set; }
         public double K { get; set; }
-        /// <summary>残余预紧力系数 K2</summary>
         public double K2 { get; set; }
-        /// <summary>残余预紧力 F0' (kN)</summary>
         public double F0Residual { get; set; }
-        /// <summary>总拉力 F2 (kN)</summary>
         public double F2 { get; set; }
-        /// <summary>总拉伸应力 sigma_total (MPa)</summary>
         public double SigmaTotal { get; set; }
-        /// <summary>拧紧力矩 T (N.m)</summary>
         public double T { get; set; }
-        /// <summary>安全系数 S</summary>
         public double S { get; set; }
-        /// <summary>屈服强度 sigma_s (MPa)</summary>
+        public double SShear { get; set; }
+        public double SCombined { get; set; }
         public double SigmaS { get; set; }
-        /// <summary>抗拉强度 sigma_b (MPa)</summary>
         public double SigmaB { get; set; }
-        /// <summary>拧紧力矩系数 K1 (0.2 dry, 0.15 oiled)</summary>
         public double K1 { get; set; }
-        /// <summary>疲劳应力幅 sigma_a (MPa)</summary>
         public double SigmaA { get; set; }
-        /// <summary>疲劳安全系数 S_f</summary>
         public double SFatigue { get; set; }
-        /// <summary>螺栓刚度比 C_b/(C_b+C_m)</summary>
         public double StiffnessRatio { get; set; }
-        /// <summary>是否通过安全校核</summary>
-        public bool IsPassed => S >= 1.5;
-        /// <summary>是否通过疲劳校核</summary>
-        public bool IsFatiguePassed => SFatigue >= 1.5;
-        /// <summary>等级名称</summary>
+        public double SafetyFactor { get; set; }
+        public bool IsPassed => S >= SafetyFactor;
+        public bool IsShearPassed => SShear >= SafetyFactor;
+        public bool IsCombinedPassed => SCombined >= SafetyFactor;
+        public bool IsFatiguePassed => SFatigue >= SafetyFactor;
         public string GradeName { get; set; }
-        /// <summary>螺栓规格名称</summary>
         public string SpecName { get; set; }
+        public string ScenarioName { get; set; }
+        public string ConnectionType { get; set; }
+        public string LoadCondition { get; set; }
+        public BoltDimension RecommendDim { get; set; }
     }
 
-    /// <summary>
-    /// 螺栓校核计算器
-    /// </summary>
     public static class BoltCalculator
     {
         /// <summary>
-        /// 执行螺栓强度校核计算
+        /// 轴向拉伸校核（增强版，支持连接形式和工况选择）
         /// </summary>
-        /// <param name="dim">螺栓尺寸参数</param>
-        /// <param name="grade">材料等级</param>
-        /// <param name="F_kN">轴向工作载荷 (kN)</param>
-        /// <param name="n">螺栓数量</param>
-        /// <param name="K">预紧力系数 (1.5~2.5)</param>
-        /// <param name="K2">残余预紧力系数</param>
-        /// <param name="K1">拧紧力矩系数 (0.2 dry, 0.15 oiled)</param>
-        /// <param name="CbRatio">螺栓刚度比 C_b/(C_b+C_m)，通常0.2~0.4</param>
-        /// <returns>校核结果</returns>
-        public static BoltCheckResult Check(
-            BoltDimension dim,
-            BoltGrade grade,
-            double F_kN,
-            int n,
-            double K,
-            double K2,
-            double K1,
-            double CbRatio)
+        public static BoltCheckResult CheckTension(
+            BoltDimension dim, BoltGrade grade,
+            double F_kN, int n, double K, double K2, double K1,
+            double CbRatio, ConnectionType connType, LoadCondition loadCond,
+            double safetyFactor = 1.5)
         {
             if (n <= 0) throw new ArgumentException("螺栓数量必须大于0");
 
             var result = new BoltCheckResult
             {
-                F = F_kN,
-                N = n,
-                D = dim.D,
-                D1 = dim.D1,
-                D2 = dim.D2,
-                P = dim.P,
-                As = dim.As,
-                K = K,
-                K2 = K2,
-                K1 = K1,
-                SigmaS = grade.SigmaS,
-                SigmaB = grade.SigmaB,
-                StiffnessRatio = CbRatio,
-                GradeName = grade.Name,
-                SpecName = dim.DisplayName,
+                F = F_kN, N = n, D = dim.D, D1 = dim.D1, D2 = dim.D2,
+                P = dim.P, As = dim.As, K = K, K2 = K2, K1 = K1,
+                SigmaS = grade.SigmaS, SigmaB = grade.SigmaB,
+                StiffnessRatio = CbRatio, GradeName = grade.Name,
+                SpecName = dim.DisplayName, SafetyFactor = safetyFactor,
+                ScenarioName = "轴向拉伸",
+                ConnectionType = connType.ToString(),
+                LoadCondition = loadCond.ToString(),
             };
 
-            // 1. 单个螺栓工作载荷 (kN)
+            // 铰制孔螺栓用光杆截面积
+            double effectiveAs = (connType == ConnectionType.铰制孔螺栓)
+                ? Math.PI * dim.D * dim.D / 4.0
+                : dim.As;
+
             result.FPerBolt = F_kN / n;
-
-            // 2. 拉伸应力 sigma = F / (n * As) [MPa, 注意 F 转换为 N]
-            result.Sigma = (F_kN * 1000.0) / (n * dim.As);
-
-            // 3. 预紧力 F0 = K * F / n (kN)
+            result.Sigma = (F_kN * 1000.0) / (n * effectiveAs);
             result.F0 = K * F_kN / n;
-
-            // 4. 残余预紧力 F0' = K2 * F / n (kN)
             result.F0Residual = K2 * F_kN / n;
-
-            // 5. 总拉力 F2 = F0 + C_b/(C_b+C_m) * F/n (kN)
-            //    考虑螺栓刚度比的影响
             result.F2 = result.F0 + CbRatio * result.FPerBolt;
-
-            // 6. 总拉伸应力 sigma_total = F2 / As [MPa]
-            result.SigmaTotal = (result.F2 * 1000.0) / dim.As;
-
-            // 7. 拧紧力矩 T = K1 * F0 * d (N.m)
-            //    F0 in kN, d in mm => T = K1 * F0 * 1000 * d / 1000 = K1 * F0 * d (N.m)
+            result.SigmaTotal = (result.F2 * 1000.0) / effectiveAs;
             result.T = K1 * result.F0 * dim.D;
+            result.S = grade.SigmaS * effectiveAs / (result.FPerBolt * 1000.0);
 
-            // 8. 安全系数 S = sigma_s * As / F (单螺栓, F in N)
-            result.S = grade.SigmaS * dim.As / (result.FPerBolt * 1000.0);
-
-            // 9. 疲劳校核
-            //    应力幅 sigma_a = (C_b/(C_b+C_m)) * F_a / As
-            //    假设载荷脉动循环，F_a = F_per_bolt / 2
-            double Fa_N = result.FPerBolt * 1000.0 / 2.0;
-            result.SigmaA = CbRatio * Fa_N / dim.As;
-
-            //    疲劳安全系数 S_f = sigma_(-1) / sigma_a
-            if (result.SigmaA > 0)
+            // 疲劳校核 — 根据工况调整应力幅
+            double Fa_N = result.FPerBolt * 1000.0;
+            switch (loadCond)
             {
-                result.SFatigue = grade.SigmaEndurance / result.SigmaA;
+                case LoadCondition.脉动循环:
+                    Fa_N /= 2.0;
+                    break;
+                case LoadCondition.对称循环:
+                    // Fa_N = full amplitude
+                    break;
+                case LoadCondition.静载:
+                default:
+                    Fa_N = 0;
+                    break;
+            }
+
+            if (Fa_N > 0)
+            {
+                result.SigmaA = CbRatio * Fa_N / effectiveAs;
+                result.SFatigue = result.SigmaA > 0 ? grade.SigmaEndurance / result.SigmaA : double.PositiveInfinity;
             }
             else
             {
+                result.SigmaA = 0;
                 result.SFatigue = double.PositiveInfinity;
             }
 
@@ -157,15 +116,278 @@ namespace BoltCheck
         }
 
         /// <summary>
-        /// 由公称直径 d 计算应力截面积 (经验公式)
-        /// As = pi/4 * ((d2+d3)/2)^2, 其中 d3 = d1 - H/6, H = sqrt(3)/2 * P
+        /// 横向剪切校核
         /// </summary>
-        public static double CalcStressArea(double d1, double d2, double P)
+        public static BoltCheckResult CheckShear(
+            BoltDimension dim, BoltGrade grade,
+            double Fs_kN, int n, double mu, int jointFaces,
+            ConnectionType connType, double safetyFactor = 1.5)
         {
-            double H = Math.Sqrt(3.0) / 2.0 * P;
-            double d3 = d1 - H / 6.0;
-            double davg = (d2 + d3) / 2.0;
-            return Math.PI / 4.0 * davg * davg;
+            if (n <= 0) throw new ArgumentException("螺栓数量必须大于0");
+            if (jointFaces <= 0) throw new ArgumentException("接合面数必须大于0");
+
+            var result = new BoltCheckResult
+            {
+                Fs = Fs_kN, N = n, D = dim.D, D1 = dim.D1, D2 = dim.D2,
+                P = dim.P, As = dim.As, SigmaS = grade.SigmaS, SigmaB = grade.SigmaB,
+                GradeName = grade.Name, SpecName = dim.DisplayName,
+                SafetyFactor = safetyFactor, ScenarioName = "横向剪切",
+                ConnectionType = connType.ToString(),
+            };
+
+            if (connType == ConnectionType.铰制孔螺栓)
+            {
+                // 铰制孔螺栓：直接剪切，剪切面按光杆截面积
+                double shearArea = Math.PI * dim.D * dim.D / 4.0;
+                result.FPerBolt = Fs_kN / n;
+                result.Tau = (Fs_kN * 1000.0) / (n * shearArea);
+                // 许用剪切应力 [τ] = 0.6 * σs
+                double tauAllow = 0.6 * grade.SigmaS;
+                result.SShear = tauAllow / result.Tau;
+                result.F0 = 0;
+                result.S = double.PositiveInfinity;
+                result.SFatigue = double.PositiveInfinity;
+            }
+            else
+            {
+                // 摩擦型：靠预紧力产生的摩擦力抵抗横向载荷
+                // F0_req = Fs / (n * m * μ)
+                double F0_req = (Fs_kN * 1000.0) / (n * jointFaces * mu);
+                result.F0Min = F0_req / 1000.0; // kN
+                result.FPerBolt = Fs_kN / n;
+                result.Tau = 0;
+
+                // 检查预紧力是否超过螺栓能力
+                double F0_max = grade.Sp * dim.As / 1000.0; // kN, 保证应力下的最大预紧力
+                result.F0 = F0_req / 1000.0;
+                result.S = grade.SigmaS * dim.As / F0_req;
+                result.SShear = F0_max / result.F0;
+                result.SFatigue = double.PositiveInfinity;
+            }
+
+            return result;
+        }
+
+        /// <summary>
+        /// 拉剪组合校核
+        /// </summary>
+        public static BoltCheckResult CheckCombined(
+            BoltDimension dim, BoltGrade grade,
+            double F_kN, double Fs_kN, int n, double K, double K2, double K1,
+            double CbRatio, double mu, int jointFaces,
+            ConnectionType connType, double safetyFactor = 1.5)
+        {
+            if (n <= 0) throw new ArgumentException("螺栓数量必须大于0");
+
+            var result = new BoltCheckResult
+            {
+                F = F_kN, Fs = Fs_kN, N = n, D = dim.D, D1 = dim.D1, D2 = dim.D2,
+                P = dim.P, As = dim.As, K = K, K2 = K2, K1 = K1,
+                SigmaS = grade.SigmaS, SigmaB = grade.SigmaB,
+                StiffnessRatio = CbRatio, GradeName = grade.Name,
+                SpecName = dim.DisplayName, SafetyFactor = safetyFactor,
+                ScenarioName = "拉剪组合", ConnectionType = connType.ToString(),
+            };
+
+            // 拉伸部分
+            result.FPerBolt = (F_kN + Fs_kN) / n;
+            result.F0 = K * (F_kN + Fs_kN) / n;
+            result.F0Residual = K2 * (F_kN + Fs_kN) / n;
+            result.F2 = result.F0 + CbRatio * F_kN / n;
+            result.SigmaTotal = (result.F2 * 1000.0) / dim.As;
+            result.Sigma = result.SigmaTotal;
+            result.T = K1 * result.F0 * dim.D;
+
+            // 剪切部分
+            if (connType == ConnectionType.铰制孔螺栓)
+            {
+                double shearArea = Math.PI * dim.D * dim.D / 4.0;
+                result.Tau = (Fs_kN * 1000.0) / (n * shearArea);
+            }
+            else
+            {
+                // 摩擦型：剪切力由摩擦力承担，螺栓本身不直接承受剪切
+                result.Tau = 0;
+            }
+
+            // 等效应力（第四强度理论）
+            result.SigmaEq = Math.Sqrt(result.SigmaTotal * result.SigmaTotal + 3.0 * result.Tau * result.Tau);
+            result.SCombined = grade.SigmaS / result.SigmaEq;
+
+            // 单独拉伸安全系数
+            result.S = grade.SigmaS * dim.As / (result.F2 * 1000.0);
+            result.SShear = result.Tau > 0 ? (0.6 * grade.SigmaS) / result.Tau : double.PositiveInfinity;
+
+            // 疲劳
+            double Fa_N = F_kN * 1000.0 / (2.0 * n);
+            result.SigmaA = CbRatio * Fa_N / dim.As;
+            result.SFatigue = result.SigmaA > 0 ? grade.SigmaEndurance / result.SigmaA : double.PositiveInfinity;
+
+            return result;
+        }
+
+        /// <summary>
+        /// 偏心载荷校核
+        /// </summary>
+        public static BoltCheckResult CheckEccentric(
+            BoltDimension dim, BoltGrade grade,
+            double F_kN, double ecc_mm, int n, double K, double CbRatio,
+            double boltSpacing_mm, ConnectionType connType,
+            double safetyFactor = 1.5)
+        {
+            if (n <= 0) throw new ArgumentException("螺栓数量必须大于0");
+            if (n < 2) throw new ArgumentException("偏心载荷至少需要2个螺栓");
+
+            var result = new BoltCheckResult
+            {
+                F = F_kN, N = n, D = dim.D, D1 = dim.D1, D2 = dim.D2,
+                P = dim.P, As = dim.As, K = K,
+                SigmaS = grade.SigmaS, SigmaB = grade.SigmaB,
+                StiffnessRatio = CbRatio, GradeName = grade.Name,
+                SpecName = dim.DisplayName, SafetyFactor = safetyFactor,
+                ScenarioName = "偏心载荷", ConnectionType = connType.ToString(),
+            };
+
+            // 翻转力矩 M = F * e
+            double M_kNm = F_kN * ecc_mm / 1000.0; // kN·m
+
+            // 螺栓组对称排列，受拉侧最大螺栓力
+            // 假设螺栓均匀分布在 boltSpacing 的范围内
+            // 对于双排螺栓：F_max = F/n + M * y_max / Σ(y_i²)
+            // 简化为对称排列：Σ(y_i²) = n/2 * (boltSpacing/2)² * 2 = n * (boltSpacing/2)²
+            // 但更通用的公式用螺栓组惯性矩
+            double halfSpan = (n - 1) * boltSpacing_mm / 2.0;
+            double sumY2 = 0;
+            for (int i = 0; i < n; i++)
+            {
+                double yi = -halfSpan + i * boltSpacing_mm;
+                sumY2 += yi * yi;
+            }
+
+            double yMax = halfSpan;
+            double M_Nmm = F_kN * 1000.0 * ecc_mm; // N·mm
+            double F_bolt_extra = sumY2 > 0 ? M_Nmm * yMax / sumY2 : 0; // N
+
+            double F_bolt_total = F_kN * 1000.0 / n + F_bolt_extra; // N
+
+            result.FPerBolt = F_bolt_total / 1000.0; // kN
+            result.Sigma = F_bolt_total / dim.As;
+            result.F0 = K * result.FPerBolt;
+            result.F2 = result.F0 + CbRatio * result.FPerBolt;
+            result.SigmaTotal = (result.F2 * 1000.0) / dim.As;
+            result.S = grade.SigmaS * dim.As / (result.F2 * 1000.0);
+            result.SCombined = result.S;
+            result.SShear = double.PositiveInfinity;
+            result.SFatigue = double.PositiveInfinity;
+
+            return result;
+        }
+
+        /// <summary>
+        /// 法兰连接校核
+        /// </summary>
+        public static BoltCheckResult CheckFlange(
+            BoltDimension dim, BoltGrade grade,
+            double pressure_MPa, double flangeDia_mm, double boltCircleDia_mm,
+            int n, double K, double CbRatio, double gasketFactor,
+            double safetyFactor = 1.5)
+        {
+            if (n <= 0) throw new ArgumentException("螺栓数量必须大于0");
+
+            var result = new BoltCheckResult
+            {
+                N = n, D = dim.D, D1 = dim.D1, D2 = dim.D2,
+                P = dim.P, As = dim.As, K = K,
+                SigmaS = grade.SigmaS, SigmaB = grade.SigmaB,
+                StiffnessRatio = CbRatio, GradeName = grade.Name,
+                SpecName = dim.DisplayName, SafetyFactor = safetyFactor,
+                ScenarioName = "法兰连接", ConnectionType = "法兰螺栓",
+            };
+
+            // 轴向力 = 内压 × 法兰密封面积
+            double sealArea = Math.PI * flangeDia_mm * flangeDia_mm / 4.0; // mm²
+            double F_pressure = pressure_MPa * sealArea / 1000.0; // kN
+
+            // 垫片密封力
+            double F_gasket = gasketFactor * pressure_MPa * Math.PI * flangeDia_mm / 1000.0; // kN (简化)
+
+            // 螺栓总载荷
+            double F_bolts = F_pressure + F_gasket;
+
+            result.F = F_bolts;
+            result.FPerBolt = F_bolts / n;
+
+            // 预紧力
+            result.F0 = K * F_bolts / n;
+            result.F2 = result.F0 + CbRatio * result.FPerBolt;
+            result.Sigma = (result.FPerBolt * 1000.0) / dim.As;
+            result.SigmaTotal = (result.F2 * 1000.0) / dim.As;
+            result.S = grade.SigmaS * dim.As / (result.F2 * 1000.0);
+            result.SCombined = result.S;
+            result.SShear = double.PositiveInfinity;
+
+            // 疲劳：压力波动
+            double Fa_N = result.FPerBolt * 1000.0 / 2.0;
+            result.SigmaA = CbRatio * Fa_N / dim.As;
+            result.SFatigue = result.SigmaA > 0 ? grade.SigmaEndurance / result.SigmaA : double.PositiveInfinity;
+
+            return result;
+        }
+
+        /// <summary>
+        /// 推荐最小螺栓直径
+        /// </summary>
+        public static BoltCheckResult RecommendDiameter(
+            BoltGrade grade, double F_kN, int n, double safetyFactor,
+            double K, double CbRatio, bool includeFinePitch)
+        {
+            var dims = BoltTable.GetDimensions();
+            BoltDimension best = null;
+
+            foreach (var dim in dims)
+            {
+                if (!includeFinePitch && dim.IsFinePitch) continue;
+
+                double F0 = K * F_kN / n;
+                double F2 = F0 + CbRatio * F_kN / n;
+                double sigmaTotal = (F2 * 1000.0) / dim.As;
+                double S = grade.SigmaS * dim.As / (F2 * 1000.0);
+
+                if (S >= safetyFactor)
+                {
+                    best = dim;
+                    break;
+                }
+            }
+
+            var result = new BoltCheckResult
+            {
+                F = F_kN, N = n, SafetyFactor = safetyFactor,
+                SigmaS = grade.SigmaS, SigmaB = grade.SigmaB,
+                GradeName = grade.Name, ScenarioName = "推荐直径",
+                ConnectionType = "普通螺栓",
+            };
+
+            if (best != null)
+            {
+                result.SpecName = best.DisplayName;
+                result.D = best.D; result.P = best.P;
+                result.D1 = best.D1; result.D2 = best.D2; result.As = best.As;
+                result.FPerBolt = F_kN / n;
+                result.F0 = K * F_kN / n;
+                result.F2 = result.F0 + CbRatio * result.FPerBolt;
+                result.SigmaTotal = (result.F2 * 1000.0) / best.As;
+                result.S = grade.SigmaS * best.As / (result.F2 * 1000.0);
+                result.T = 0.2 * result.F0 * best.D;
+                result.RecommendDim = best;
+            }
+            else
+            {
+                result.SpecName = "无满足条件的规格";
+                result.S = 0;
+            }
+
+            return result;
         }
     }
 }

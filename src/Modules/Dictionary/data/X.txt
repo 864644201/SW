@@ -1,0 +1,169 @@
+X and V-series Recommendation of CCITT   &&   CCITT X和V系列协议
+X-Y plotter   &&   X-Y计录仪
+X-Y recorder   &&   XY记录仪
+X-Zero gear   &&   非变位齿轮
+X-gear   &&   变位齿轮
+X-pandisk   &&   大轮蝶形，涨胎心轴
+X-radiation thickness meter   &&   X射线厚度计
+X-ray   &&   X射线
+X-ray absorption   &&   X射线吸收
+X-ray absorption analysis   &&   X射线吸收分析
+X-ray absorption determination   &&   X射线吸收测定
+X-ray absorption spectrometer   &&   X射线吸收式光谱仪
+X-ray activation analysis   &&   X射线活化分析
+X-ray analysis   &&   X射线分析，X射线分析法
+X-ray analysis of crystal structure   &&   晶体结构X射线分析
+X-ray analyzer   &&   X射线分析器
+X-ray angle   &&   X射线角度
+X-ray apparatus   &&   X射线设备
+X-ray apparatus for structure analysis   &&   结构分析用X射线分析
+X-ray beam   &&   X射线束
+X-ray beam stop   &&   X射线光束截捕器
+X-ray bombardment   &&   X射线轰击
+X-ray burn   &&   X射线烧伤
+X-ray cassette   &&   X-光底片套匣
+X-ray cinematography   &&   X射线电影摄像法
+X-ray controller   &&   X射线控制器
+X-ray coverage   &&   X射线
+X-ray crack detection   &&   X射线探伤
+X-ray crystal density   &&   X射线晶体密度
+X-ray crystal spectrometer   &&   X射线晶体光谱仪
+X-ray crystallography   &&   X射线晶体学
+X-ray defectoscopy   &&   X射线探伤法
+X-ray densitometer   &&   X射线密度计
+X-ray detection   &&   X射线检查，X射线探伤
+X-ray detector   &&   X射线探测器
+X-ray developer   &&   X射线胶片显影剂
+X-ray diagram   &&   X射线图
+X-ray diffraction   &&   X射线衍射
+X-ray diffraction analysis   &&   X射线衍射分析法
+X-ray diffraction apparatus   &&   X射线衍射设备
+X-ray diffraction contrast method   &&   X射线衍衬法
+X-ray diffraction equipment   &&   X射线衍射设备
+X-ray diffraction instrument   &&   X射线衍射仪
+X-ray diffraction intensity   &&   X射线衍射强度
+X-ray diffraction method   &&   X射线衍射法
+X-ray diffraction micrograph   &&   X射线衍射显微照片
+X-ray diffraction pattern   &&   X射线衍射图，X射线衍射花样
+X-ray diffraction spot   &&   X射线衍射斑点
+X-ray diffraction testing   &&   X射线衍射检验
+X-ray diffraction unit   &&   X射线衍射装置
+X-ray diffractometer   &&   X射线衍射仪
+X-ray dosimetry   &&   X射线剂量测定法
+X-ray double crystal analysis   &&   X射线双晶分析
+X-ray electron probe analysis   &&   X射线探针分析
+X-ray emission analysis   &&   X射线发射分析
+X-ray energy   &&   X射线能量
+X-ray energy dispersive spectrometer   &&   X-射线能量分散谱仪
+X-ray energy spectrometer   &&   X射线能谱仪
+X-ray equipment   &&   X射线设备
+X-ray examination   &&   X射线检验
+X-ray film   &&   X射线胶片
+X-ray filter   &&   X射线过滤器
+X-ray fluoremetry logger   &&   X射线荧光测井仪
+X-ray fluoresce readout analyser   &&   X射线荧光直读分析仪
+X-ray fluorescence analysis   &&   X射线荧光分析法
+X-ray fluorescence spectrometer   &&   X射线光谱仪
+X-ray fluorescence spectrometric analysis   &&   X射线光谱分析
+X-ray fluorescent emission spectrometer   &&   X射线荧光发射光谱仪
+X-ray fluorimeter   &&   X射线荧光仪
+X-ray fluorimeter in borehole   &&   井下X射线荧光仪
+X-ray fluoroscopy   &&   X射线荧光检查法
+X-ray goniometer   &&   X射线测角仪
+X-ray hardness   &&   X射线硬度
+X-ray high voltage generator   &&   X射线高压发生器
+X-ray image   &&   X射线图像
+X-ray injury   &&   X射线损伤
+X-ray inspection test   &&   X射线探伤
+X-ray intensity   &&   X射线强度
+X-ray interference   &&   X射线干扰
+X-ray irradiation   &&   X射线辐照
+X-ray line   &&   X射线谱线
+X-ray low angle scattering   &&   X射线低角散射
+X-ray luminescence   &&   X射线发光
+X-ray luminosity analysis   &&   X射线光度分析
+X-ray metallography   &&   X射线金相学
+X-ray microanalyzer   &&   X射线微区分析器
+X-ray microbeam technique   &&   X射线微束技术
+X-ray microscope   &&   X射线显傲镜
+X-ray microscopy   &&   X射线显微术
+X-ray monochromator   &&   X射线单色器
+X-ray mutation   &&   X射线(诱变)突变
+X-ray optics   &&   X射线光学
+X-ray output   &&   X射线输出功率
+X-ray oxidation   &&   X射线氧化
+X-ray pattern   &&   X射线图，X射线花样
+X-ray phase analysis   &&   X射线相分析
+X-ray photo-electron spectrometer   &&   X射线光电子能谱仪[XPS]
+X-ray photoelectron spectrometry   &&   X射线光电子能谱测量法
+X-ray photoelectron spectroscopy   &&   X射线电子能谱学
+X-ray photograph   &&   X射线图像
+X-ray photometer   &&   X射线分光计
+X-ray photometry   &&   X射线测光法
+X-ray photon   &&   X射线光子
+X-ray picture   &&   X射线图像，X射线花样
+X-ray powder camera   &&   X射线粉末照相机
+X-ray powder diffractometer   &&   X射线粉末衍射仪
+X-ray powder pattern   &&   X射线粉末照相图像
+X-ray protective glass   &&   防X射线玻璃
+X-ray pulse machine?   &&   X射线机
+X-ray qualitative analysis   &&   X射线定性分析
+X-ray quantitative analysis   &&   X射线定量分析
+X-ray quantometer   &&   X射线光量计
+X-ray radiometer   &&   X射线辐射计
+X-ray reflection   &&   X射线反射
+X-ray region   &&   X射线区
+X-ray registration   &&   X射线探伤
+X-ray resonance diffraction   &&   X射线共振衍射
+X-ray rotation method   &&   X射线旋(转)晶(体)照射法
+X-ray rubber   &&   防X射线橡胶
+X-ray scattering   &&   X射线散射
+X-ray screen   &&   X射线防护屏
+X-ray sensor   &&   X射线传感器
+X-ray set   &&   X射线装置
+X-ray shield   &&   X射线防护屏
+X-ray shutter   &&   X射线(照相)快门
+X-ray source   &&   X射线源
+X-ray spectra   &&   X射线谱
+X-ray spectral analysis   &&   X射线光谱分析
+X-ray spectrograph   &&   X射线摄谱仪
+X-ray spectrometer   &&   X射线分光计，X射线光谱仪
+X-ray spectrometer arrangement   &&   X射线分光装置
+X-ray spectrometry   &&   X射线光谱分析法
+X-ray spectroscopic analysis   &&   X射线光谱分析
+X-ray spectroscopy   &&   X射线光谱学
+X-ray spectrum   &&   X射线光谱
+X-ray spectrum line   &&   X谱线
+X-ray stereo-microradiography   &&   X射线立体显微照相法
+X-ray structural analysis   &&   X射线结构分析
+X-ray structure   &&   X射线结构
+X-ray take-off angle   &&   X射线出射角
+X-ray target   &&   X射线靶
+X-ray technique   &&   X射线技术
+X-ray television apparatus for industry   &&   工业X射线电视装置
+X-ray testing   &&   X射线检验
+X-ray thickness gauge   &&   X射线厚度规
+X-ray topograph   &&   X射线拓扑图
+X-ray topography   &&   X射线形态(貌)，X射线拓扑学
+X-ray transducer   &&   X射线传感器
+X-ray transmission photograph   &&   X射线透射照相
+X-ray tube   &&   X射线管
+X-ray tube current   &&   X射线管电流
+X-ray tube head   &&   X射线管头
+X-ray tube rating charts   &&   X射线管负荷特性曲线
+X-ray tube shield   &&   X射线管防护罩
+X-ray tube voltage   &&   X射线管电压
+X-ray tube window   &&   X射线管窗口
+X-ray wave length dispersive spectrometer   &&   X射线波长色散谱仪
+X-ray-transmitting glass   &&   X射线玻璃
+X-raying   &&   X射线分析
+X-unit   &&   X-单位
+Xbind   &&   外部参照绑定，外部并入(external bind)
+Xenon Flashlamps Light Sources   &&   氙灯
+Xenon Lasers   &&   氙分子激光
+Xenon arc lamp   &&   氙灯
+xdata   &&   外部数据，延伸资料(external data)
+xline   &&   参照线，建构线
+xref   &&   外部参照，外部参考(external references
+xref Log   &&   外部参照记录文件，外部参考记录
+xref-dependent layer   &&   依赖外部参照的图层

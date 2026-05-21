@@ -1,0 +1,3767 @@
+N scope   &&   N型显示器
+N-core-per-bit store   &&   每位n个磁心的存储器
+N-display   &&   N型显示器
+N-donsity   &&   N稠密性
+N-electron   &&   N电子
+N-entity   &&   N层实体
+N-terminal pair network   &&   N端子对网络
+N-type oxide gas sensor   &&   N型氧化物气敏组件
+N-wave   &&   N形波
+N.T.C. thermistor   &&   负温度系数热敏电阻器
+NAC   &&   (Negative Acknowledge Character)否定字符
+NACA   &&   (National Advisory Committee for Aeronautics) 美国航空管理局(NASA的前身)
+NACA aerofoil   &&   NACA的翼型
+NACA duct   &&   NACA进气管道
+NAF   &&   (Network Access Facility) 网络存取设备
+NAM   &&   (Network Access Machine) 网络存取机机
+NAND   &&   “与非”
+NAND circuit   &&   “与非”电路
+NAND element   &&   “与非”门，“与非”组件
+NAND gate   &&   “与非”门
+NAND logic   &&   “与非”逻辑(电路)
+NAND operation   &&   “与非”运算
+NAND operator   &&   “与非”运符，“与非”算子
+NASA   &&   (National Aeronautics and Space Administration) 美国航空和航天管理局
+NASA-Lewis simulator   &&   NASA-刘易斯模拟器
+NAU   &&   (Network Addressable Unit) 网络可编址设备
+NBS   &&   (National Bureau of Standard) 美国标准局
+NBS equation   &&   美国标准局方程
+NBS manometer   &&   美国标准局量压力计
+NC   &&   (Numerical Control) 数控
+NC case hardening   &&   表面渗氮碳硬化处理
+NC cutting   &&   数控切削
+NC cutting machine   &&   数控切削机
+NC cutting tool   &&   数控刀具
+NC drilling machine   &&   数控钻床
+NC grinding machine   &&   数控磨床
+NC language processor   &&   数控语言处理机
+NC lathe   &&   数控车床
+NC machine   &&   数控机
+NC mixture   &&   数控混合剂，烟幕剂(锌粉、高氯酸铵、氯化铵等的混合剂)
+NC programming system   &&   数控程序制作系统
+NC robot   &&   数控机器人
+NC type milling machine   &&   数控铣床
+NC type punch press   &&   数控冲模回转头压力机
+NDIR   &&   (Non-Dispersive Infrared) 非扩散式红外线试验方法
+NDUV   &&   (Non-Dispersive Ultraviolet) 非扩散式紫外线试验方法
+NE Isometric   &&   东北等轴测 东北等角
+NEL   &&   (National Engineering Laboratory) 英国国家工程实验室
+NEL equation for thermal conductivities of liquid mixtures   &&   NEL计算液体混合物导热率的方程
+NEMA   &&   (National Electrical Manufacturing Association) 国家电气制造商协会
+NEMA standard condition   &&   NEMA标准条件
+NEPA   &&   (Nuclear Energy Propulsion for Aircraft) 飞机的核能推进
+NERVA   &&   (Nuclear Engine for Rocket Vehicle Application) 火箭飞行器用的核发动机
+NETWARE Network Architecture   &&   NETWARE网络体系结构
+NETWARE Network Operating System   &&   NETWARE网络操作系统
+NGTE   &&   (National Gas Turbine Establishment) 英国燃气轮机研究发展中心
+NGV   &&   (natural gas vehicle) 天然气汽车
+NHTSA   &&   (National Highway Traffic Safety Administration (US))  (美)国家公路交通安全局
+NIM bin   &&   NIM机箱
+NIST   &&   (National Institute of Standards and Technology (US))  (美)国家标准与技术研究所
+NMR   &&   (Nuclear Magnetic Resonance) 核磁共振
+NMR absorption band   &&   核磁共振吸收带
+NMR absorption line   &&   核磁共振吸收线
+NMR equipment   &&   核磁共振仪
+NMR line width   &&   核磁共振线宽
+NO   &&   (Oxides of Nitrogen Collectively) 氮氧化合物
+NOR   &&   “或非”
+NOR circuit   &&   “或非”电路
+NOR collator   &&   “或非”集电极
+NOR element   &&   “或非”门
+NOR gate   &&   “或非”门
+NOR operation   &&   “或非”操作
+NOT   &&   “非”
+NOT ACCEPTED screen status   &&   非接收屏幕状态
+NOT circuit   &&   “非”电路
+NOT element   &&   “非”门
+NOT gate   &&   “非”门
+NOT operation   &&   非操作
+NOT-AND   &&   “与非”
+NOT-AND operation   &&   “与非”操作
+NOT-BOTH operation   &&   “与非”门运算
+NOT-OR   &&   “或非”
+NOT-OR operation   &&   “或非”操作
+NOx   &&   氧化氮
+NP-complete problem   &&   NP-完全问题
+NPRA   &&   (National Petroleum Refiners Association (US)) (美)全国石油炼制业协会
+NSSN   &&   (National Standards System Network (US)) (美)国家标准系统网络
+NTA   &&   (National Type Approval (UK)) (英)国家定型
+NTSC   &&   (National Television System Committee) 美国国家电视标准委员会
+NTSC television system   &&   NTSC制电视系统
+NURB   &&   (Nonuniform Rational B-Splines) 非一致有理 B 样条曲线
+NURB surfaces   &&   NURB曲面
+NURBS curve   &&   NURBS曲线
+NVH   &&   (Noise，Vibration and Harshness) 噪声、振动和冲击
+NW Isometric   &&   西北等轴测 西北等角
+Na-k alloy   &&   钠钾共晶合金
+NaFion membrane   &&   纳氟锚制氢膜
+Nada   &&   纳达抗变色铜合金(Ni 3.5％～4％，Sn 3.5％～4％，Pb 0.7％～1％)
+Nansen bottle   &&   内森采水器
+Nansen opening-and-closing net   &&   内森开团式网
+Naper   &&   奈培(衰减单位，等于8.686分贝)
+Napier deltaictwo stroke engine   &&   内皮尔三角式双冲程柴油机
+Napierian logarithm   &&   自然对数，纳氏对数
+Narrow-tow-wide-heel   &&   小端窄大端宽接触
+Nash bargaining solution   &&   纳什商定解
+National Bureau of Standards   &&   国家标准局(美国)[NBS]
+National Economical Information System   &&   国家经济信息系统
+National Science Foundation   &&   国家科学基金会
+National Standard Reference Data   &&   国家标准参考数据
+National Television System Committee   &&   全国电视系统委员会(美国)
+Navier-Strokes equation   &&   纳维尔-斯托克流体力学方程
+Navier-Strokes equation for MHD   &&   N-S磁体动力方程
+Navy navigation satellite position fixing system   &&   海军导航卫星定位系统
+Nb-Ta mineral   &&   铌钽矿物
+NdYAG Laser (CW)   &&   NdYAG激光(连续式)
+NdYAG Lasers (LD Pumped)   &&   NdYAG激光(半导体激光激发)
+NdYAG Lasers (Pulsed)   &&   NdYAG激光(脉冲式)
+Near-infrared Photodiodes   &&   光二极体(近红外光)
+Nearshore Environmental Analog Prediction System   &&   近岸环境模拟预报系统
+Needle bronze   &&   针状青铜(含铅青铜，商品名，Cu 84.5％，Sn 8％，Zn 5.5％，Pd 2％)
+Neel temperature   &&   尼尔温度
+Neimann worm   &&   弧齿蜗杆
+Neogen   &&   涅奥根镍青铜(Cu 58％，Zn 27％，Ni 12％，Sn 2％～O.5％，Bi 0.5％)
+Neomagnal   &&   涅奥马格纳尔铝镁锌耐蚀合金(Mg 5％，Zn 5％，余为Al)
+Neonalium   &&   涅奥纳利姆铝铜合金(Cu 6％～14％，Fe O.4％～1％和Si等，余为Al)
+Nernst   &&   能斯特高温发热体(由Zr，Th，Y等氧化物共同烧结而成的混合物)
+Nernst bridge   &&   能斯特电桥
+Nernst calorimeter   &&   能斯特量热计
+Nernst chemical constant   &&   能斯特化学常数
+Nernst distribution law   &&   能斯特分配定律
+Nernst effect   &&   能斯特热电效应
+Nernst equation   &&   能斯特方程
+Nernst fuel cell   &&   能斯特燃料电池
+Nernst heat theorem   &&   热力学第三定律，能斯特热定律
+Nernst lamp   &&   能斯特灯
+Nernst theorem   &&   能斯特定理
+Nernst vacuum calorimeter   &&   能斯特真空量热器
+Nernst-Einstein relation   &&   能斯特-爱因斯坦关系式
+Nernst-Haskell equation   &&   能斯特-赫斯开尔方程
+Nerva nuclear rocket engine   &&   内尔瓦核火箭发动机
+Nesa coating   &&   透明导电膜
+Nesa glass   &&   奈塞玻璃(一种透明导电薄膜半导体玻璃)
+Nessler's solution   &&   奈斯勒溶液(可用作测定水中游离氨和化合氨的含量)
+Net Change   &&   净变法
+Net Requirement   &&   净需求量
+Neumann band   &&   纽曼带，孪晶带
+Neumann problem   &&   纽曼问题
+Neumeyer process   &&   纽梅尔法
+New Jersey sand   &&   新泽西州砂(美国)
+Newcomb's stability analysis   &&   纽科姆稳定性分析
+Newton automatic clutch   &&   牛顿自动离合器
+Newton ring   &&   牛顿环
+Newton system   &&   牛顿制(指黏度单位)
+Newton type algorithm   &&   牛顿型算法
+Newton's algorithm   &&   牛顿算法
+Newton's alloy   &&   牛顿低熔合金(熔点95℃)
+Newton's corpuscular theory   &&   牛顿微粒理论
+Newton's first law   &&   牛顿第一定律，惯性定律
+Newton's fluid   &&   牛顿流体
+Newton's interpolation   &&   牛顿插值
+Newton's law for charged particles   &&   牛顿带电质点定律
+Newton's method   &&   牛顿法
+Newton's polyhedron   &&   牛顿多面体
+Newton's second law   &&   牛顿第二定律，牛顿运动定律
+Newton's theory of gravitation   &&   牛顿引力定律
+Newton's third law   &&   牛顿第三定律，作用与反作用定律
+Newton,s law of motion   &&   牛顿运动定律
+Newton-Raphson-Kantorovich method   &&   牛顿-拉夫生-康托诺维奇方法
+Newton-like method   &&   类牛顿算法
+Newtonian behaviour   &&   牛顿行为
+Newtonian fluid   &&   牛顿流体
+Newtonian viscosity   &&   牛顿黏度
+Newtonian viscous value   &&   牛顿黏性值
+Neyman-Pearson detection theory   &&   奈曼-皮尔逊检测理论
+Neyman-Pearson lemma   &&   奈曼-皮尔逊引理
+Ni-Zn ferrite   &&   镍锌铁素体
+Ni-ferrite   &&   镍铁氧体
+Ni-hard   &&   镍硬铸铁(Ni 4％，Cr 2％)
+Ni-hard cast iron   &&   硬镍铸铁(Ni 4％～4.5％，Cr 1.5％)
+Ni-resist   &&   耐热高镍铸铁，含镍奥氏体铸铁(Ni 14％，Cu 6％～7％，Cr 2％4％)，
+Ni-resist cast iron   &&   耐蚀高镍铸铁，不锈镍铸铁
+NiCad battery   &&   镍镉电池
+Nicalloy   &&   尼卡洛伊高导磁铁镍合金(Ni 40％～50％，Fe 50％～60％)
+Nichols chart   &&   尼科尔斯图
+Nickel-Chromium-SilicomNickel-Silicom thermocouple   &&   镍铬硅镍硅热电偶
+Nickel-ChromiumCopperNickel thermocouple   &&   镍铬-铜镍热电偶
+Nickel-iron alloy   &&   镍铁合金
+Nickelene   &&   尼克伦多元合金(Cu 55％，Ni 12.5％，Zn 20.5％，Pb 10％，Sn 2％)
+Nickelin   &&   尼格林铜镍锰合金(Cu 69％，Ni 30％～31％，Mn 2％～3％)
+Nickeline   &&   尼格莱锡基合金(Sn 85．4％，Sb 8.8％，Cu 4.75％，Pb 0.43％，Zn 0.28％，少量Fe)
+Nickeloid   &&   尼克罗伊德铜镍耐蚀合金(Cu 55％～60％，余为Al)
+Niclad   &&   覆镍钢板，包镍钢板
+Nicol Prisms   &&   Nicol棱镜
+Nicol prism   &&   尼科尔棱镜，偏光镜
+Nicrosilal   &&   尼克柔西拉尔镍铬硅铸铁(商品名)(C 1.8％，Si 6％，Ni 8％，Cr 2％，Mn 1％，余为Fe)
+Niello   &&   乌银
+Nielloed   &&   发黑处理
+Nielson-test   &&   尼尔森试验
+Niemann Test   &&   利曼试验
+Niemeyer process   &&   纽梅尔法
+Nier-Johnson geometry mass spectrometer   &&   尼尔-约翰逊型双聚焦质谱计
+Nikalium   &&   尼卡立姆合金，尼卡立姆镍铝青铜
+Nilo   &&   尼洛低膨胀系数合金
+Nimonic   &&   镍铬合金
+Nimonic alloy   &&   尼莫尼克镍基合金，镍铬钛(耐热)合金
+Nionel   &&   尼沃内耳耐蚀合金(Ni 42％，Cr 22％，Fe 30％，Mo 3％，Cu 2％，Ti 1％)
+Nishiyama process   &&   (N-process)硅铁粉发热自硬砂法，N法
+Nisiloy   &&   镍硅(孕育剂)
+Niskin sterile water sampler   &&   尼斯金无菌采水器
+Nispan   &&   镍基等弹性模量合金(Ni 40％，Cr 5％，Ti 2％，余为Fe)
+Nitetsu coke oven   &&   日铁式焦炉
+Nitrogen Lasers   &&   氮分子激光
+Nitrous Oxides   &&   氮氧化物 [NOX]
+Nivaflex   &&   尼瓦弗莱克斯弹性合金
+Nivarox   &&   尼瓦罗克斯铁镍铬合金(Ni 33％，Cr 6％～10％；或Mo，W，Be 1％，余为Fe)
+Nivco alloy   &&   尼维哥钴镍合金(Ni 22.5％，Zn 1.1％，Ti 1.8％，少量Mn，Al，Si，余为Co)
+Noil   &&   高锡青铜(用作活塞环等)
+Nomogram   &&   诺模图
+Nonex   &&   铅硼玻璃(透射紫外线的玻璃)
+Nonex glass   &&   铅硼玻璃(透射紫外线的玻璃)
+Nonlinear Crystals   &&   非线性光学晶体
+Norton type gear box   &&   诺顿齿轮箱
+Novikov gear   &&   诺维科夫齿轮，双圆弧齿轮(with double circular arc tooth profiles)
+Novikov gear hob   &&   圆弧齿轮滚刀，诺维科夫齿轮滚刀
+Nyquist criterion   &&   尼奎斯特判据
+Nyquist diagram   &&   尼奎斯特图
+Nyquist interval   &&   尼奎斯特间隔
+Nyquist limit   &&   尼奎斯特极限
+Nyquist plot   &&   奈奎斯特图
+Nyquist rate   &&   尼奎斯特速度
+Nyquist stability theorem   &&   尼奎斯稳定性定理
+n-adic boolean operation   &&   对n和只有n个操作数的布尔运算
+n-adic operation   &&   对n和只有n个操作数进行运算
+n-ary   &&   n 元的
+n-ary Boolean operation   &&   n元布尔运算
+n-ary amplitude digital signal   &&   n级数字通信信号
+n-ary code   &&   n元代码，n元识别码
+n-ary digital signal   &&   n级数字信号
+n-ary operation   &&   n元运算
+n-ary relation   &&   n-元关系
+n-ary relationship   &&   n-元关系
+n-bit byte   &&   n位字节
+n-bit character   &&   n位字符
+n-cell array   &&   n单元阵列
+n-channel   &&   n-型沟道
+n-channel FET   &&   n-沟道场效应晶体管
+n-conductor cable   &&   n心电缆
+n-conductor concentric cable   &&   n心同心电缆
+n-digital number   &&   n位数
+n-digital product register   &&   n位乘积寄存器
+n-dimensional array   &&   n维数组
+n-dimensional normal distribution   &&   n维正态分布
+n-dimensional rectangular array   &&   n维矩形数组
+n-dimensional tape   &&   n维带
+n-exponent   &&   n-指数
+n-fold fuzzy grammar   &&   n步模糊语法
+n-p-n structure   &&   n-p-n结构
+n-person game   &&   n人游戏，n人对策
+n-plus-one address   &&   n加1地址
+n-plus-one address instruction   &&   n加1地址指令
+n-stage decision   &&   n步决策
+n-stage problem   &&   n阶段问题
+n-step   &&   n步
+n-th nodal unbalance   &&   第n阶振型不平衡谐量
+n-tuple   &&   n元组
+n-tuple length register   &&   n元组长度寄存器
+n-tuple register   &&   n元组寄存器
+n-type conduction   &&   n-型导电
+n-type semiconductor   &&   n-型半导体
+n-value   &&   n值(应变硬化指数，加工硬化指数)
+nabla   &&   劈形算符(V)，倒三角形
+nacelle   &&   短舱，发动机(短)舱，保护罩或流线型罩
+nacrite   &&   珍珠石，珍珠陶土
+nadir   &&   天底，最低点，最低温度
+nadir angle   &&   天底角
+nadir distance   &&   天底距
+nail   &&   ①钉，型钉②指甲③爪④钠尔(长度单位，≈5.715厘米)
+nail bearing   &&   钉型轴承
+nail cutting grinder   &&   磨刀机
+nail drawer   &&   拔钉钳
+nail drift   &&   冲孔器
+nail extractor   &&   拔钉器，拔钉钳
+nail hammer   &&   拔钉锤，钉锤
+nail head bonding   &&   钉头焊，球焊钉头式接合
+nail head type welding   &&   钉头式焊接
+nail heading   &&   钉头式连接法(印刷电路板的)
+nail hole   &&   钉眼
+nail iron   &&   钉子铁
+nail machine   &&   制钉机
+nail making machine   &&   制钉机
+nail making machines   &&   造钉机
+nail nippers   &&   起钉钳
+nail puller   &&   拔钉器，起钉器
+nail punch   &&   钉形冲头，刺孔冲头，钉形凸模，钉孔头(定位用)
+nail spike   &&   道钉
+nail wire   &&   制钉钢丝
+nailability   &&   受钉性
+nailable concrete   &&   受钉混凝土(可打钉的混凝土)
+nailing   &&   插钉子，钉牢，钉住，牢化
+nailing concrete   &&   受钉混凝土
+nailing strip   &&   钉条
+naked   &&   裸(露)的，无绝缘的，无保护的，无壳的
+naked cable   &&   明线
+naked electrode   &&   裸焊条
+naked eye   &&   肉眼
+naked hull   &&   裸船体，裸船壳
+naked molten metal   &&   裸露金属液
+naked wire   &&   ①光亮钢丝②裸线
+name   &&   名，名称，名字
+name call   &&   名字调用
+name cede   &&   名字代码
+name condition   &&   名字条件
+name constant   &&   名常数[NODN]
+name entry   &&   名入口
+name field   &&   名字域
+name identification   &&   名字标志
+name look-up rule   &&   名字查找规则
+name parameter   &&   名字参数
+name part   &&   名字部分
+name plate   &&   名(号)牌，铭牌
+name replacement   &&   名字代换，名字替换
+name space   &&   名字空间
+name substitution   &&   名字替换
+name table   &&   名字表
+name-to-address mapping   &&   名字-地址映象，名字-地址映像，名字-地址变换
+named UCS   &&   命名 UCS，具名 UCS
+named common   &&   公用命名
+named common area   &&   命名公用区，有名共享区
+named destination   &&   命名目的地，有名目标
+named file   &&   命名文件
+named object   &&   命名对象 具名对象
+named output file   &&   命名输出文件
+named plot style table   &&   命名的打印样式表 具名的出图型式表
+named program module   &&   命名程序模块
+named source file   &&   命名源文件
+named system   &&   有名系统
+named user program   &&   命名用户程序
+named view   &&   命名视图 具名的视景
+nameplate rating   &&   铭牌功率，铭牌上额定值
+naming program   &&   命名程序
+naming rule   &&   命名规则，赋名规则
+nano   &&   纳(诺)(10^-9)
+nano meter   &&   纳米
+nano watt electronics   &&   纳瓦(功率)电子学
+nano watt integrated circuit   &&   纳瓦集成电路，微功耗集成电路
+nano-ammeter   &&   纳安计
+nano-amp beam current   &&   纳安射束电流
+nano-ampere   &&   纳安(倍)
+nano-architecture   &&   纳诺结构，纳结构
+nanocircult   &&   纳电路，超小型集成电路
+nanofarad   &&   纳法(拉)
+nanogram   &&   纳克
+nanohenry   &&   纳亨(利)
+nanoinstruction   &&   纳诺指令
+nanoinstruction statement   &&   纳诺指令语句
+nanometer   &&   纳(诺)米(nm)
+nanon   &&   纳米
+nanoprocessor   &&   纳秒处理机
+nanoprogram   &&   纳诺程序
+nanoprogram memory   &&   纳程序存储器
+nanoprogram store   &&   纳程序存储器
+nanoprogrammable computer   &&   可编纳诺程序计算机
+nanoprogramming   &&   纳诺程序设计
+nanoscope   &&   纳秒示波器，超高频示波器
+nanosecond   &&   纳(诺)秒(nsec)
+nanosecond pulse   &&   纳秒脉冲
+nanosecond pulse amplifier   &&   纳秒脉冲放电器
+nanosecond pulser   &&   纳秒脉冲发生器
+nanostore   &&   纳(诺)程序存储器
+nanovolt   &&   纳伏(特)
+nanovoltmeter   &&   纳(诺)伏特计
+nantokite   &&   铜盐，氯化亚铜矿
+nantophone   &&   高音雾笛，电动雾笛
+nap raising machine   &&   卷界机，起球机
+napalm   &&   ①凝固汽油②凝固汽油弹
+napalm bomb   &&   凝固汽油炸弹
+naphtha   &&   ①石脑油，粗汽油，轻油，(粗)挥发油②原油，石油
+naphtha fuel   &&   石脑油燃料，粗汽油燃料
+naphtha gas   &&   石脑油气
+naphthalene   &&   萘
+naphthene-base crude petroleum   &&   环烷基粗石油
+naphthenic oil   &&   环烷油
+napper   &&   起绒机，拉绒机，拉毛机
+napping and friezing machine   &&   起绒机
+napping machine   &&   起绒机，拉绒机，拉毛机
+narrow   &&   ①狭窄的，狭小的，受限制的，严密的，精确的②收缩，限制，缩小，变窄
+narrow V belt   &&   窄V 带
+narrow V-engine   &&   窄V型发动机
+narrow angle camera   &&   窄角照相机
+narrow angle diffusion   &&   深照型漫射
+narrow angle lighting fittings   &&   深照型照明器
+narrow angle luminaire   &&   深照型照明器
+narrow band   &&   窄(频)带，窄波段
+narrow band channel   &&   窄(频)带信道
+narrow band filter   &&   窄带滤波器
+narrow band spectrum   &&   窄波段
+narrow base   &&   窄基础
+narrow base tower   &&   窄基杆塔
+narrow beam   &&   窄射束，聚焦射束
+narrow beam antenna   &&   窄波束天线
+narrow beam sound source   &&   狭柬声源
+narrow beam sounding system   &&   狭束测深装置
+narrow beam transducer   &&   狭束换能器
+narrow combine   &&   窄幅联合收获机
+narrow cut   &&   窄镏分
+narrow die   &&   窄砧
+narrow energy gap material   &&   窄禁带宽度材料
+narrow fabric loom   &&   窄带织机
+narrow flat steel   &&   窄扁钢
+narrow fraction   &&   窄馏分
+narrow frequency   &&   窄频带
+narrow gap   &&   狭窄通路，狭窄通道
+narrow gap helix   &&   窄缝螺旋线
+narrow gap one-side automatic welding   &&   狭间隙单面自动电弧焊
+narrow gate   &&   窄选通脉冲，窄闸门
+narrow gauge railway   &&   窄轨铁路
+narrow gauge track   &&   窄轨道
+narrow guide   &&   狭导轨
+narrow gun   &&   窄径电子枪
+narrow path   &&   窄路
+narrow pulse   &&   窄脉冲
+narrow pulse generator   &&   窄脉冲发生器
+narrow spectral line   &&   窄谱线
+narrow wave band   &&   窄波段
+narrow-aisle fork truck   &&   狭窄通道用的叉车
+narrow-band allocation   &&   窄(频)带分配
+narrow-band amplifier   &&   窄频带放大器
+narrow-band antenna   &&   窄(频)带天线
+narrow-band axis   &&   窄通带轴，狭通带轴
+narrow-band channel   &&   窄带信道
+narrow-band crystal filter   &&   窄(频)带晶体滤波器
+narrow-band detector   &&   窄(频)带检波器
+narrow-band filter   &&   窄带滤波器
+narrow-band frequency modulation   &&   窄带调频
+narrow-band interference   &&   窄(频)带干扰
+narrow-band path   &&   窄带通路
+narrow-band radio noise   &&   窄(频)带无线电噪声
+narrow-band random vibration   &&   窄带随机振动
+narrow-band reception   &&   窄(频)带接收
+narrow-band spectrum   &&   窄带谱
+narrow-band system   &&   窄(频)带制
+narrow-band television   &&   窄(频)带电视
+narrow-band-gap material   &&   窄禁带宽度材料
+narrow-band-long-wave  omnidirectional range   &&   窄(频)带长波全向无线电信标
+narrow-band-pass filter   &&   窄通带滤波器
+narrow-base photodiode   &&   薄基底光电二极管，窄基极光电二极管
+narrow-base phototransistor   &&   窄基极光电晶体管
+narrow-base transistor   &&   窄基极光电晶体管
+narrow-gap semiconductor   &&   窄能隙半导体
+narrow-gap spark chamber   &&   窄隙火花室
+narrow-gap welding   &&   窄间隙焊
+narrow-gate amplifier   &&   窄选通脉冲放大器，短时选择脉冲放大器
+narrow-gate circuit   &&   窄门电路，窄选通脉冲电路，短时选择脉冲电路，窄电闸电路，窄闸门电路
+narrow-gate pulse   &&   窄选通脉冲
+narrow-gauge   &&   ①窄轨铁道，窄轨距②窄轨车
+narrow-meshed   &&   窄筛分(的)
+narrow-mouthed bottle   &&   细口瓶
+narrow-neck electron gun   &&   细颈电子枪
+narrow-necked bottle   &&   细颈瓶
+narrow-pillar file   &&   窄齐头平锉
+narrow-row cultivator   &&   窄行中耕机
+narrow-row seeder   &&   窄行播种机
+narrow-sector recorder   &&   窄扇面记录仪
+narrow-track seeder   &&   窄轮距播种机
+narrowing   &&   缩小，收缩，窄化，变窄
+narrowing circuit   &&   脉冲压缩电路，脉冲变尖电路，脉冲变窄电路
+narrowing cutter   &&   阀座铣刀，窄座铣刀
+narrowing of pulse   &&   脉冲压缩
+nascent aluminium   &&   新生态铝，初生态铝
+nascent carbon   &&   新生态碳
+nascent chromium   &&   新生态铬，初生态铬
+nascent hydrogen   &&   新生氢，初生氢
+nascent neutron   &&   初生中子
+nascent nitrogen   &&   新生态氮
+nascent state   &&   新生状态，初生态
+nascent vacancy   &&   新生空位
+national information system   &&   国家信息系统
+national keyboard   &&   国语键盘
+national measuring system   &&   国家计量系统[NMS]
+national number   &&   国内号码
+national satellite   &&   国土卫星
+national standard   &&   ①国家标准②国家基准器
+national standard thread   &&   国家标准螺纹
+national supergrid   &&   国家超级电力网
+nationwide power grid system   &&   全国电网系统
+nationwide service network   &&   全国范围服务网
+nationwide toll dialing   &&   全国范围的长途拨号
+native   &&   天然的，自然的，天赋的
+native alloy   &&   天然合金，自然合金
+native antimony   &&   自然锑
+native attachment   &&   本机附件
+native bismuth   &&   自然铋
+native boundary   &&   自然边界
+native boundary condition   &&   自然边界条件
+native command name   &&   自然命令名字，固有命令名字
+native copper   &&   天然铜，自然铜
+native dement   &&   天然元素
+native gold   &&   原金
+native graphite   &&   天然石墨
+native iron   &&   天然铁
+native iron making process   &&   土法炼铁
+native mercury   &&   天然汞
+native metal   &&   天然金属
+native mode   &&   本机方式
+native nickel   &&   天然镍
+native products processing machinery   &&   土特产加工机
+native silver   &&   天然银，自然银
+native sulphur   &&   自然硫
+natrium   &&   钠Na(11)
+natrium lead   &&   钠铅合金(Na 2％)
+natron   &&   氧化钠，泡碱，含水苏打
+natron calk   &&   碱石灰
+natural   &&   ①天然的，自然的②固有的，本来的，本质的③常态的，正常的
+natural abrasive   &&   天然磨料
+natural acceleration   &&   固有加速度
+natural admittance   &&   自然导纳，固有导纳
+natural ageing   &&   自然时效，自然老化
+natural aggregate   &&   天然集料，天然集合体，自然团聚体
+natural air   &&   自然空气
+natural air circulation   &&   空气自然循环
+natural air cooling   &&   自然通风冷却
+natural air cooling system   &&   自然通风冷却系统
+natural alloy   &&   天然合金
+natural alloy iron   &&   天然合金铁
+natural alumina   &&   天然氧化铝(磨料)
+natural angular frequency   &&   固有角频率
+natural angular velocity   &&   固有角速度自然角速度
+natural antenna frequency   &&   固有天线频率
+natural aspiration engine   &&   不增压发动机
+natural back ground   &&   自然本底
+natural binary code   &&   自然二进制码
+natural binary-coded decimal   &&   自然二进制编码的十进制
+natural blade frequency   &&   叶片的自然频率
+natural block mica   &&   天然块云母
+natural bond sand   &&   天然黏结砂
+natural capacitance   &&   固有电容
+natural carbon   &&   天然炭，自然炭
+natural characteristic   &&   自然特性，固有特性
+natural circular frequency   &&   自然周频率，自然周频
+natural circulation   &&   自然循环，自然环流
+natural circulation boiler   &&   自然循环锅炉
+natural circulation cooling system   &&   自然循环冷却系统
+natural circulation reactor   &&   自然循环反应堆
+natural circulation water cooling   &&   自然循环水冷却
+natural coke   &&   天然焦(炭)
+natural colour reception   &&   彩色接收
+natural colour television   &&   彩色电视
+natural commutation   &&   自然换向
+natural condition   &&   自然条件
+natural condition test   &&   天然腐蚀试验，自然条件下试验
+natural conservation   &&   自然保护
+natural convection   &&   自然对流，天然对流
+natural convector   &&   自然对流放热器
+natural cooled system   &&   自然冷却系统
+natural cooling   &&   自然冷却
+natural cooling water   &&   自然冷却水
+natural coordinates   &&   自然坐标
+natural crack   &&   自然裂纹
+natural crystal   &&   天然晶体
+natural current   &&   (地表)自然电流，地电(流)
+natural cycle   &&   自然循环
+natural cycle water cooling   &&   自然循环水冷却
+natural damping   &&   自然阻尼
+natural day   &&   天然黏土，天然白土
+natural deduction   &&   自然演绎(法)
+natural deduction theorem proving   &&   自然演绎法定理证明
+natural defect   &&   自然缺陷
+natural dialogue   &&   自然对话
+natural diamond   &&   天然金刚石
+natural dipole moment   &&   固有偶极矩，永偶极矩
+natural dissipated power   &&   固有耗散功率
+natural draft   &&   ①自然通风，烟囱通风②自然拔模斜度(锻件的)
+natural draft boiler   &&   自然通风锅炉
+natural draft cooling tower   &&   自然通风冷却塔
+natural draft drier   &&   自然通风干燥机
+natural draft furnace   &&   自然通风炉
+natural draft pit furnace   &&   自然通风地坑炉
+natural draft pressure   &&   自然通风压力
+natural draft up firing   &&   自然通风式垂直燃烧
+natural draft ventilation   &&   天然通风
+natural drainage   &&   自然排水
+natural drying   &&   自然干燥，天然干燥
+natural elastic limit   &&   自然弹性极限
+natural electric current   &&   自然电流
+natural electric-field method instrument   &&   自然电场法仪器
+natural electrode   &&   天然(石墨)电极
+natural element   &&   天然元素
+natural environment   &&   自然环境
+natural equivalent circuit   &&   固有等效电路
+natural excitation   &&   自然励磁
+natural ferrite   &&   天然铁氧体
+natural field electro-detector   &&   天然场电测仪
+natural firmness   &&   固有坚固性
+natural flow station   &&   自流发电站
+natural flux   &&   自然熔剂，天然熔剂
+natural foundation   &&   天然地基
+natural frequency   &&   固有频率，自然频率
+natural frequency measurement   &&   固有频率的测量
+natural frequency of antenna   &&   天线自然频率
+natural frequency of rotor bearing system   &&   转子支承系统固有频率
+natural fuel   &&   天然燃料
+natural function generator   &&   自然函数生成程序，解析函数生成程序，解析函数发生器
+natural gamma spectrometer of logger   &&   自然伽玛能谱测井仪
+natural gas   &&   天然气，天然煤气
+natural gas atmosphere   &&   天然气保护气氛
+natural gas burner   &&   天然气燃烧器
+natural gas compressor   &&   天然气压缩机
+natural gas deposit   &&   天然气矿床]能源]
+natural gas engine   &&   天然气发动机
+natural gas liquefaction   &&   液化天然气
+natural gas liquefaction plant   &&   天然气液化厂，液化天然气厂
+natural gas purification   &&   天然气净化
+natural gas purifying treatment   &&   天然气净化处理
+natural gas refining   &&   天然气提纯
+natural gasoline   &&   天然汽油，气体汽油
+natural graphite   &&   天然石墨
+natural graphite powder   &&   天然石墨粉
+natural hardness   &&   自然硬度，原有硬度，天然硬度，未热处理钢的硬度
+natural homomorphism   &&   自然同态
+natural hot-water reservoir   &&   天然热水库
+natural humidity   &&   固有湿度
+natural hydrodynamics   &&   海洋流体力学
+natural hydrogen   &&   自然氢
+natural illumination   &&   昼光照明，自然照明
+natural impedance   &&   固有阻抗，特性阻抗
+natural impregnation   &&   自然浸渍
+natural inductance   &&   固有电感
+natural inherent frequency   &&   自然固有频率
+natural interference   &&   自然干扰，自然干涉
+natural joint   &&   自然连接
+natural language   &&   自然语言
+natural language application   &&   自然语言应用
+natural language communication   &&   自然语言通信
+natural language explanation   &&   自然语言说明，自然语言解释
+natural language interface   &&   自然语言接口
+natural language processing   &&   自然语言加工，自然语言处理
+natural language programming   &&   自然语言程序设计
+natural language query   &&   自然语言查询
+natural language symbol string   &&   自然语言符号串
+natural language system   &&   自然语言系统
+natural language text   &&   自然语言正文，自然语言原文
+natural language translation   &&   自然语言翻译
+natural language understander   &&   自然语言理解程序
+natural language understanding   &&   自然语言理解
+natural law   &&   自然规律，自然法则
+natural law function generator   &&   自然定律函数发生器，解析函数发生器
+natural line frequency   &&   线路自然频率，线路固有频率
+natural liquid fuel   &&   天然液体燃料
+natural load   &&   固有负载，自然负载
+natural logarithm   &&   自然对数
+natural magnet   &&   天然磁铁
+natural magnetic moment   &&   固有磁矩
+natural material   &&   ①固有噪声，天然噪声②天然材料
+natural mechanical property   &&   自然机械性
+natural merge sort   &&   自然归并分类
+natural merging   &&   自然归并
+natural metric   &&   自然度量
+natural mica   &&   天然云母
+natural mixture of asphalt   &&   天然(石油)沥青混合物
+natural mode of vibration   &&   固有振型
+natural moisture content   &&   天然含水量
+natural moulding sand   &&   天然型砂
+natural muscovite mica   &&   天然白云母
+natural noise   &&   天然噪声，固有噪声
+natural number   &&   自然数
+natural oil cooling   &&   自然油冷却
+natural ordering   &&   自然顺序，自然排序
+natural organic polymer   &&   天然有机聚合物
+natural organic substance   &&   天然有机物
+natural oscillation   &&   自然振荡，固有振荡
+natural oxidation inhibitor   &&   天然抗氧剂
+natural parameter   &&   自然参数，特性参数
+natural parting agent   &&   天然分型剂(铸造用)
+natural pattern   &&   实物模(样)
+natural period   &&   固有周期，自然周期
+natural platinum   &&   自然铂
+natural polymer   &&   天然聚合物
+natural polymeric material   &&   天然聚合物材料
+natural potential   &&   自然电位
+natural process   &&   自然过程
+natural purification   &&   自然净化，天然净化
+natural quartz   &&   天然石英
+natural radiation   &&   自然辐射，背景辐射
+natural radio-frequency interference   &&   自然无线电频率干涉
+natural radioactivity   &&   天然放射性，自然放射性
+natural refractory   &&   天然耐火材料
+natural remanent magnetization   &&   固有剩余磁化
+natural resin   &&   天然树脂
+natural resonance   &&   固有谐振，自然谐振
+natural resonant frequency   &&   固有谐振品频率
+natural resource management   &&   自然资源管理
+natural resources   &&   自然资源
+natural resources map   &&   自然资源图
+natural rubber   &&   天然橡胶
+natural rubber hydrocarbon   &&   天然橡胶烃
+natural rubber isomerization   &&   天然橡胶异构化
+natural rubber latex   &&   天然橡胶胶乳
+natural rubber vulcanizate   &&   硫化天然橡胶
+natural sand   &&   天然砂
+natural scale   &&   ①自然比例尺②自然级数
+natural science   &&   自然科学
+natural seasoning   &&   天然干燥，自然干燥
+natural self-purification   &&   天然自净化作用
+natural silica sand   &&   天然硅砂，天然石英砂
+natural size   &&   实际尺寸，实际大小
+natural solid fuel   &&   天然固体燃料
+natural stability   &&   固有稳定性
+natural stability limit   &&   自然稳定极限
+natural stabilizing treatment   &&   天然稳定化处理，自然时效
+natural steam power plant   &&   地热发电厂
+natural steam source   &&   地热汽源
+natural steatite   &&   天然皂石
+natural steel   &&   天然(硬度)钢，初生硬度钢
+natural storage   &&   天然水库
+natural strain   &&   自然应变，对数应变
+natural stress   &&   自然应力
+natural structure   &&   自然结构
+natural surface modifier   &&   天然表面改性剂
+natural synthesis   &&   天然合成
+natural system   &&   自然系统
+natural telluric current   &&   天然地电(流)
+natural tendency   &&   自然趋势
+natural topology   &&   自然拓扑
+natural transient stability limit   &&   自然暂态稳定极限
+natural transmission   &&   自然传输
+natural twist   &&   天然卷曲
+natural unit   &&   自然单位
+natural uranium   &&   天然铀
+natural uranium reactor   &&   天然铀反应堆
+natural velocity   &&   固有速度
+natural ventilation   &&   自然通风
+natural ventilator   &&   自然通风器
+natural vibration   &&   自然振动，固有振动
+natural vibration frequency   &&   固有振动频率
+natural water resources   &&   天然水力资源
+natural wave length   &&   固有波长，自然波长
+natural wave length of antenna   &&   天线固有波长，天线自然波长
+natural wavelength   &&   固有波长，自然波长
+natural wavelength of antenna   &&   天线自然波长
+natural wear   &&   自然磨损
+natural weathering   &&   天然气候曝露试验
+natural-convection cooling   &&   自然对流冷却
+natural-convection heat transfer   &&   自然对流传热
+natural-convection type air heater   &&   自然对流型空气加热器
+natural-draught transformer   &&   自然风冷变压器
+naturally aged steel   &&   天然时效钢
+naturally aspirated   &&   自然吸气
+naturally aspirated engine   &&   自然吸气发动机，不增压发动机
+naturally bonded sand   &&   天然黏结砂
+naturally occurring organic polymer   &&   天然有机聚合物
+naturally occurring polymer   &&   天然聚合物
+naturally-bonded moulding sand   &&   天然黏结型砂
+nature   &&   ①自然，自然界，天然②本性③性质，特性
+nature coke   &&   天然焦(炭)
+nature environment   &&   自然环境
+nature of casting metal   &&   铸造金属性能
+nature of circuit indicator   &&   电路性质标志信号
+nature of friction   &&   摩擦性质
+nature science   &&   自然科学
+nature time   &&   松弛时间
+nature-of-circuit indicator   &&   电路性质标志
+naught   &&   零
+naught line   &&   零位线
+nautical instrument   &&   航海仪器
+nautical mark   &&   航标
+nautical mile   &&   海里 (1海里=1852米)
+nautical receiving set   &&   水昕器
+navaglobe   &&   远程无线电导航系统
+navaids   &&   助航设备，导航设备
+naval aeroplane   &&   海军飞机
+naval architecture   &&   造船工程，造船学
+naval brass   &&   海军黄铜
+naval bronze   &&   海军青铜
+naval construction   &&   船舶构造，船舶结构
+naval mine   &&   水雷
+naval nickel bronze   &&   海军镍青铜，船用镍青铜(Ni 9％～12％，At 1％～3％，Zn 0.5％～2％，余为Cu)
+naval searchlight   &&   海军探照灯
+naval ships   &&   军用船
+naval vessel   &&   海军船舰
+naval wireless service   &&   海军无线电台
+navamander   &&   编码通信设备
+navar   &&   远程低频无线电导航系统，指挥飞行的雷达系统，远程低频无线电导航系统
+navarho   &&   远程低频无线电导航系统
+navarscreen   &&   导航系统(指挥飞行的投影装置)
+nave   &&   ①(轮)壳，套②轮辐 ，轮轴
+nave boring machine   &&   镗(轮)机
+nave face   &&   辐板
+navigating bridge   &&   驾驶台
+navigating instrument   &&   导航仪器，航海仪器，助航设备，航行仪器
+navigating sextant   &&   船舶(导航)六分仪
+navigation   &&   ①导航②航海，航行③航行学
+navigation aids   &&   导航辅助设备
+navigation antenna   &&   导航天线
+navigation beacon   &&   ①导航指向标(无线电)②导航信标，导航灯
+navigation bridge   &&   驾驶台
+navigation by electronic aids   &&   电子助导
+navigation by recognition   &&   识别导航
+navigation chamber   &&   (升船机的)升船箱(船闸的)闸室
+navigation computer   &&   导航计算机
+navigation coordinate   &&   导航坐标
+navigation equipment   &&   导航设备
+navigation facilities   &&   通航设施
+navigation instrument   &&   助航设备，航行仪器
+navigation lamp   &&   航行灯
+navigation landing craft   &&   领航登陆艇
+navigation lane   &&   航路
+navigation launcher   &&   导航发射机
+navigation light   &&   导航灯
+navigation light buoy   &&   航行灯浮标
+navigation radar   &&   导航雷达
+navigation radar equipment   &&   导航雷达装置，导航雷达设备
+navigation radar station   &&   导航雷达站
+navigation receiver   &&   导航接收机
+navigation satellite   &&   导航人造卫星
+navigation set   &&   导航设备
+navigation station location survey   &&   导航台定位测量
+navigation system   &&   导航系统
+navigational aids   &&   助航设备，导航设备
+navigational computer   &&   导航计算机
+navigational instrument   &&   航海仪器
+navigational parameter   &&   导航参数
+navigational receiver   &&   导航接收机
+navigational satellite   &&   导航卫星
+navigational system   &&   导航系统(无线电)
+navvy   &&   挖土机，掘土机
+navy  oceanographic  weather  buoys   &&   海军海洋天气浮标[NOWEB]
+navy C test piece   &&   海军C-型试验片
+navy tear test   &&   海军撕裂试验
+near equilibrium flow   &&   接近于平衡的流动
+near feasibility   &&   近可行性
+near feasible point   &&   近可行点
+near field   &&   近场
+near frozen flow   &&   接近于冻结的流动
+near infrared   &&   近红外线
+near infrared photoconductor   &&   近红外光电导体，近红外光敏电阻
+near infrared range   &&   近红外[NIR]
+near infrared range remote sensing   &&   近红外遥感
+near infrared region   &&   近红外区
+near optimization   &&   近(似最)优
+near optimum solution   &&   近优解
+near polar sun synchronous orbit   &&   近极地(准极地)太阳同步轨道
+near sonic   &&   近音速，跨音速
+near sonic drag   &&   近音速阻力，跨音速阻力
+near sonic flow   &&   近音速流，跨音速流
+near steady flow   &&   接近于稳定的流动
+near ultra violet   &&   近紫外
+near ultra-violet radiation   &&   近紫外辐射
+near ultra-violet rays   &&   近紫外线
+near zero release   &&   近零排放，几乎不排放(废物)
+near-earth orbit   &&   近地轨道
+near-earth satellite   &&   近地卫星
+near-end crosstalk   &&   近端串话，近端串音
+near-monochromatic radiation   &&   近单色辐射
+near-optimality   &&   近优性
+near-sonic speed   &&   近音速，跨音速
+nearest   &&   最近点 最近点
+nearest approach   &&   最近的逼近
+nearest neighbour classification   &&   最近邻域分类
+nearest-neighbor   &&   最近邻
+nearly empty band   &&   近空(能)带
+nearly free electron approximation   &&   近似自由电子近似法
+nearly full band   &&   近满(能)带
+nearly optimal control   &&   近似最佳控制，次最佳控制
+nearside   &&   近路边侧
+nearsphere powder   &&   亚球状粉
+neat   &&   纯(净)的
+neat gas   &&   净化气体
+neatsfoot oil   &&   牛蹄油
+nebulization   &&   喷雾作用，雾化
+nebulizer   &&   喷雾器，雾化器
+necessary and sufficient condition   &&   充要条件
+necessary bandwidth   &&   必需带宽
+necessary condition   &&   必要条件
+necessary condition for optimal plan   &&   最优方案的必要条件
+neck   &&   ①颈，轴颈②颈状部分③颈口④辊颈
+neck bash   &&   内衬套
+neck break   &&   辊颈折断
+neck brick   &&   斜面砖，锁砖
+neck formation   &&   缩颈形成
+neck in cold drawing   &&   冷拉缩颈
+neck insert   &&   颈口嵌件
+neck resistance   &&   缩颈抗力
+neck-down   &&   缩颈，局部缩细成颈状
+neck-down core   &&   易割冒口片
+neck-down riser   &&   易割冒口
+neck-free deformation   &&   无缩颈变形
+neck-in   &&   ①缩进，向内弯曲(边)②缩颈
+neck-out   &&   向外弯曲
+necked and rough turned roll   &&   全加工轧辊
+necked grain   &&   缩颈晶粒
+necked out   &&   向外弯曲(边)，扩径，外翻边
+necked roll   &&   光制辊颈轧辊
+necked volume   &&   压下量
+necked-down riser   &&   易割冒口
+necking   &&   细颈，断面收缩，缩颈，细颈现象
+necking effect   &&   缩颈效应，横向收缩(轧件的)
+necking in operation   &&   割缺口
+necking in tension   &&   拉伸缩颈，颈缩
+necking journal   &&   轴颈
+necking journal bearing   &&   轴颈轴承
+necking phenomenon   &&   缩颈现象
+necking point   &&   缩颈点
+necking strain   &&   缩颈应变
+necking tool   &&   开槽刀
+necking-down   &&   缩颈，断面收缩，缩口
+necking-down action   &&   缩颈作用，断面收缩作用
+needle   &&   ①针，指针②针状结晶③针状物④唱针
+needle accelerating pump   &&   加速泵针
+needle beam   &&   ①枕梁，扁担梁②横枕木，枕木
+needle bearing   &&   滚针轴承
+needle bearings   &&   滚针轴承
+needle crystal   &&   针状结晶
+needle file   &&   针锉
+needle fracture   &&   针状断口
+needle gap   &&   针隙
+needle grinding machine   &&   模孔针磨机
+needle jet   &&   针阀调节喷嘴
+needle loom   &&   针织机
+needle lubrication   &&   针孔润滑法
+needle machine   &&   针刺机
+needle nozzle   &&   针式喷管
+needle oil   &&   针润滑油
+needle pick-up   &&   针拾声器
+needle pointer   &&   指针
+needle powder   &&   针状粉末
+needle punch   &&   细针状凸模
+needle roller   &&   滚针
+needle roller bearing   &&   滚针轴承，滚针
+needle steel   &&   针状组织钢
+needle stem   &&   针阀杆
+needle test point   &&   针状测试点
+needle thermocouple   &&   针式热电偶
+needle type valve   &&   针形阀
+needle valve   &&   针阀
+needle wire   &&   制针用钢丝
+needle-like   &&   针状的
+needle-like bainite   &&   针状贝氏体
+needle-like phase   &&   针状相
+needle-like precipitate   &&   针状析出
+needle-like structure   &&   针状组织
+needle-shaped   &&   针状的
+needle-shaped blowhole   &&   针状气孔
+needle-shaped crystal   &&   针状晶体
+needle-type martensite   &&   针状马氏体
+needling agent   &&   针状组织促进剂
+negate   &&   求反，取否定，“非”
+negate instruction   &&   求反指令
+negate routine   &&   求反程序
+negater   &&   “非”门
+negation   &&   否定，“非”
+negation element   &&   “非”组件
+negative   &&   ①负的，阴性的，反面的②负片，照片底片，负数，负片，“非”，负电
+negative AND gate   &&   “与非”门
+negative OR circuit   &&   负“或”电路
+negative OR gate   &&   “或非”门
+negative acceleration   &&   负加速度
+negative acknowledge   &&   否定回答，否定应答[NAK]
+negative acknowledge character   &&   否定字符
+negative aileron   &&   负角副翼
+negative allowance   &&   允许负差，负公差
+negative appliances   &&   挖方机械，挖掘机械
+negative base number   &&   负基数
+negative bias voltage   &&   负偏压
+negative binary zero   &&   负二进制零
+negative binomial distribution   &&   负二项分布
+negative booster   &&   降压机，减压器
+negative boosting transformer   &&   减压变压器
+negative brush-lead   &&   电刷后退
+negative buoyancy   &&   负浮力(下沉)
+negative camber   &&   负外倾
+negative capacitance capacitor   &&   负容量电容器
+negative carry   &&   负进位
+negative catalyst   &&   负催化剂
+negative charge   &&   负电荷，阴电荷
+negative chlorine atom   &&   负电性氯原子
+negative conductance   &&   负电导
+negative contact agent   &&   负催化剂，负接触剂
+negative control   &&   负控制
+negative corona   &&   负电晕
+negative correlation   &&   负相关
+negative correlation energy   &&   负相关能
+negative creep   &&   负蠕变
+negative crystal   &&   负晶体
+negative current   &&   负电流，反向电流
+negative cycle   &&   负循环
+negative damping factor   &&   负阻尼因数
+negative definite   &&   负定的
+negative definite function   &&   负定函数
+negative definite matrix   &&   负定矩阵
+negative delta   &&   喇叭口
+negative delta Mooney   &&   穆尼负δ值(橡胶)
+negative deviation   &&   负偏差
+negative die   &&   阴模，下半模
+negative dielectric constant   &&   负介电常数
+negative direction   &&   反方向，逆向
+negative dislocation   &&   负位错
+negative displacement pump   &&   负排量泵
+negative distortion   &&   负畸变，负失真
+negative effective mass amplifiers and generators   &&   负有效质量放大器和发生器
+negative electricity   &&   负电，阴电
+negative electrode   &&   负电极，阴极，负极
+negative electron   &&   负电子，阴电子
+negative electron coincidence effect emitter   &&   负电子重合效应发射体
+negative element   &&   阴性元素，负电性元素
+negative energy density   &&   负能量密度
+negative energy state   &&   负能态
+negative engraving   &&   阴像刻图
+negative entry   &&   负号输入
+negative exponential distribution   &&   负指数分布
+negative eyepiece   &&   负目镜
+negative feedback   &&   ①负反馈②负回输
+negative feedback amplifier   &&   负反馈放大器
+negative feedback control   &&   负反馈控制
+negative feeder   &&   负馈电线，阴极馈电线
+negative film   &&   底片，负片
+negative flag   &&   负数标记
+negative glow   &&   阴极辉光
+negative grid generator   &&   负栅振荡器
+negative grid thyratron   &&   负栅闸流管
+negative group   &&   负性基
+negative grouping   &&   负性基
+negative hardening   &&   软化淬火处理，不完全淬火
+negative head   &&   负压，负水头
+negative hydrogen ion   &&   负氢离子
+negative image?   &&   合駀通信]
+negative impedance   &&   负阻抗
+negative impedance amplifier   &&   负阻抗放大器
+negative impedance converter   &&   负阻抗变换器
+negative impedance repeater   &&   负阻抗中继器
+negative impulse   &&   负脉冲
+negative incidence angle   &&   负冲角
+negative indication   &&   负号指示，负指示，负表示
+negative indicator   &&   负指示符
+negative input   &&   负输入
+negative interfacial tension   &&   负界面张力
+negative ion   &&   负离子，阴离子
+negative ion formation   &&   负离子形成
+negative ion vacancy   &&   负离子空位
+negative justification   &&   负调整
+negative knives linear   &&   负刀联线
+negative lens   &&   负透镜，发散透镜
+negative logic   &&   负逻辑
+negative mass instability   &&   负质量不稳定性
+negative matrix   &&   ①负底板，负底片②阴模③负矩阵
+negative maximum   &&   负极大值
+negative modulation   &&   负极性调制
+negative mould   &&   阴性模(板)
+negative movement   &&   负性运动，下降运动，下沉运动
+negative multinomial distribution   &&   负多项分布
+negative nodal point   &&   负结点
+negative number   &&   负数
+negative number representation   &&   负数表示法
+negative ocular   &&   负目镜
+negative offset steering   &&   负偏距
+negative orientation   &&   负定向
+negative output   &&   负输出
+negative peak   &&   最大负值，负峰值
+negative phase plate   &&   负变相板
+negative phase-sequence relay   &&   负相序继电器
+negative photoconductivity   &&   负光导率，负电导率
+negative photomask   &&   负掩模
+negative phototropism   &&   背旋光性
+negative picture phase   &&   负图像相位
+negative plate   &&   ①负极板②照相底板
+negative polarity   &&   反极性
+negative polarity welding   &&   反极性焊接，反接
+negative pole   &&   阴极，负极
+negative polling limit   &&   否定探询极限
+negative potential   &&   负电位，负电势
+negative power   &&   负乘方，负幂
+negative pressure   &&   负压，负压力，负压强
+negative pressure burning   &&   负压煅烧
+negative pressure burning lime   &&   负压煅烧石灰
+negative pressure casting   &&   负压铸造，真空密封铸造
+negative pressure duration   &&   负压历时
+negative pressure of compressed liquid   &&   压缩流体的负压力
+negative pressure vacuum type pneumatic conveyor   &&   负压真空式气力输送机
+negative pressure wave   &&   负向压力波
+negative proton   &&   负质子
+negative pulse stuffing   &&   负脉冲插入，负码速调整
+negative quantity   &&   负量
+negative quenching   &&   软化淬火处理，不完全淬火
+negative radical   &&   负性基
+negative rake angle   &&   负前角
+negative ray   &&   阴(极)射线
+negative real part   &&   负实数部分
+negative receiving   &&   负信号接收
+negative refraction   &&   负折射
+negative reinforcement   &&   负压力钢筋，负弯矩钢筋
+negative replica   &&   ①负复型，甲醛树脂复型②反印模
+negative resistance   &&   负电阻
+negative resistance amplifier   &&   负阻放大器
+negative resistance bridge   &&   测量负电阻电桥
+negative resistance device   &&   负电阻器件
+negative resistance effect   &&   负阻效应，负电阻效应
+negative resistance oscillator   &&   负电阻振荡器
+negative resistance repeater   &&   负电阻中继器
+negative response   &&   否定应答，否定响应
+negative root   &&   负根
+negative scanning   &&   负片扫描
+negative segregation   &&   反偏析，负偏析
+negative semi-definite matrix   &&   负半定矩阵
+negative sense-class   &&   负向类
+negative sequence   &&   负序列，逆序，负序
+negative shock response spectrum   &&   负冲击响应谱
+negative side   &&   反面
+negative sign   &&   负号
+negative signal   &&   否定信号
+negative sol   &&   负电性溶胶
+negative stability   &&   负稳定性
+negative stabilizer   &&   负稳定面(飞机的)
+negative strain   &&   负应变
+negative stress   &&   负应力
+negative stretch   &&   负拉伸
+negative stuffing   &&   负的速度匹配
+negative substituent   &&   负性取代基
+negative surface tension   &&   负表面张力
+negative synergism   &&   反协同效应
+negative tail   &&   负角尾翼(飞机的)
+negative taper   &&   倒(起模)斜度
+negative temperature   &&   负温度
+negative temperature coefficient   &&   负温度系数
+negative temperature coefficient thermistor   &&   负温度系数热敏电阻
+negative temperature gradient   &&   负温度梯度
+negative term   &&   负项
+negative terminal   &&   负极线接头，负端
+negative test   &&   负结果，反试验
+negative thixotropy   &&   负触变性
+negative thread   &&   阴螺纹
+negative valence   &&   负价
+negative value   &&   负值
+negative variation   &&   负变差
+negative vector   &&   负向量
+negative voltage   &&   负电压
+negative zero   &&   负零
+negative-glow generator   &&   阴极辉光振荡器
+negative-glow thyratron   &&   阴极辉光闸流管
+negative-going reflected pulse   &&   负向反射脉冲
+negative-going signal   &&   负向信号
+negative-going transition   &&   负向变换
+negative-phase relay   &&   负相继电器
+negative-phase-sequence component   &&   反相序分量
+negative-phase-sequence impedance   &&   反相序阻抗
+negative-phase-sequence over current relay   &&   反相序过流继电器
+negative-phase-sequence reactance   &&   反相序电抗
+negative-positive process   &&   正负过程
+negative-positive-negative transistor   &&   负正负晶体管
+negative-transconductance oscillator   &&   负跨导振荡器
+negatively changed material particle   &&   带阴电(荷)微粒
+negatively charge ion   &&   负离子
+negatively normal cone   &&   负法锥
+negativity   &&   负电性
+negatron   &&   电子，负电子
+negentropy   &&   负平均信息量，负熵
+negligible quantity   &&   可忽略量
+negotiation set   &&   谈判集，协商集
+neighbour   &&   ①邻元素②邻近
+neighbourhood   &&   邻域
+neighbouring entry   &&   邻近表项，临近人口
+neighbouring region   &&   邻区域
+neighbouring-element analysis   &&   近邻元素分析
+neither-nor operation   &&   “或非”运算
+nemalite   &&   纤水滑石，纤维水镁石
+nematic liquid crystal   &&   向列型液晶，丝状液晶
+nematic mesophase   &&   向列型中间相
+nematic structure   &&   向列型结构
+nenmtic   &&   丝状(的)，向列型的
+neo-ceramic glass   &&   微晶玻璃
+neoclassical confinement time   &&   新的约束时间
+neoclassical diffusion   &&   新型扩散
+neoclassical transport   &&   新型(超常规)迁移
+neoclassical transport coefficient   &&   新型迁移系数
+neocrystallization   &&   重新结晶(作用)
+neodymium   &&   钕Nd(60)
+neodymium addition   &&   钕添加剂
+neodymium alloy   &&   钕合金
+neodymium compound   &&   钕化合物
+neodymium crystal laser   &&   钕晶体激光器
+neodymium glass laser   &&   钕玻璃激光器
+neodymium ion   &&   钕离子
+neodymium pentaphosphate laser   &&   五磷酸钕激光器
+neodymium-base alloy   &&   钕基合金
+neohexane fuel   &&   新己烷汽油
+neon   &&   ①氖Ne(10)②氖灯，霓虹灯
+neon arc Iamp   &&   氖弧灯，热阴极氖灯
+neon computing element   &&   氖计算组件
+neon flash tube   &&   氖闪光灯
+neon glim lamp   &&   氖光灯，霓虹灯
+neon glow lamp   &&   氖辉光灯，冤虹灯
+neon indicator   &&   氖管指示灯，氖管指示器
+neon lamp   &&   氖灯，霓虹灯
+neon light   &&   氖灯，霓虹灯
+neon oscillator   &&   氖管振荡器
+neon sign   &&   氖灯信号
+neon spark test   &&   氖光试验器
+neon tube   &&   氖管，霓虹灯
+neon-grid screen   &&   氖栅屏
+neon-tube type wave meter   &&   氖管式测波仪
+neoprene   &&   聚氯丁烯，氯丁二烯橡胶，聚氯丁橡胶，氯丁橡胶，氯丁合成橡胶
+neoprene glove   &&   氯丁橡胶手套
+neoprene latex   &&   聚氯丁橡胶乳胶，人造橡胶乳胶
+neoprene synthetic rubber   &&   氯丁合成橡胶
+nephelauxetic effect   &&   电子云重排效应
+nepheline   &&   霞石
+nepheline phonolite   &&   霞石响岩
+nepheline syenite   &&   霞石正长岩(主要由霞石和正长石组成的一种天然矿物)
+nephelinolite   &&   霞石岩
+nephelite   &&   霞石
+nephelite worm   &&   霞石条纹
+nepheloid layer   &&   雾状层
+nepheloid water   &&   雾状水
+nephelometer   &&   浊度计，浑浊度表
+nephelometry   &&   浊度测定法，比浊法
+nephometer   &&   量云器
+nephoscope   &&   测云器
+nephrite   &&   软玉
+neptunium   &&   镎Np(93)
+neptunium additive alloy   &&   镎添加合金
+neptunium alloy   &&   镎合金
+neptunium base alloy   &&   镎基合金
+nerval net   &&   神经网络
+nerve   &&   ①(弹性)复原性，回缩性②神经
+nerve net   &&   神经网
+nerve pathway   &&   神经通路
+nerve rocket   &&   核动力火箭
+nerve structure   &&   神经组织
+nerve unit   &&   神经元
+nervous system   &&   神经系统
+nesh   &&   热脆的
+nesistor   &&   双极场效应晶体管
+nesosilicate   &&   岛状硅酸盐
+nesosilicate mineral   &&   岛状硅酸盐矿物
+nest   &&   ①蜂巢，巢，窝，蜂窝状缺陷②型砧④嵌套
+nest infrared radiation   &&   近红外辐射
+nest pin   &&   定位窝用销
+nest type blank locator   &&   坯料定位窝
+nested   &&   嵌套 巢状式
+nested DO   &&   循环嵌套，嵌套DO
+nested ELSE clause   &&   嵌套否则子句
+nested address space   &&   嵌套地址空间
+nested block   &&   嵌套分程序
+nested blocks   &&   嵌套块 巢状式图块
+nested command list   &&   嵌套命令表
+nested condition statement   &&   嵌套条件语句
+nested critical section   &&   嵌套临界区
+nested environment   &&   嵌套环境
+nested families   &&   成套类
+nested file transfer format   &&   嵌套文件传送格式
+nested interrupt   &&   嵌套中断
+nested interval   &&   区间套
+nested language   &&   嵌套语言
+nested loop   &&   嵌套循环
+nested loop mode   &&   嵌套循环方式
+nested micro call   &&   嵌套宏调用
+nested micro definition   &&   嵌套宏定义
+nested monitor   &&   嵌套监督程序
+nested monitor call   &&   嵌套监督程序调用
+nested procedure   &&   嵌套过程，嵌套进程
+nested program structure   &&   嵌套程序结构
+nested scope   &&   嵌套作用域
+nested sequence of intervals   &&   间嵌套序列
+nested sigh-on   &&   嵌套开始
+nested statement structure   &&   嵌套语句结构
+nested structure   &&   嵌套结构
+nested subroutine   &&   嵌套子程序，嵌套子例行程序
+nested subroutine linkage   &&   嵌套子程序键
+nested transaction   &&   嵌套事务
+nested transaction mechanism   &&   嵌套事务机构
+nested utility function   &&   网状效用函数
+nesting   &&   ①成网，入定位窝，人位③嵌套，套用④嵌置(在增强塑料中织物层的一种排列)
+nesting level   &&   嵌套级
+nesting level complexity   &&   嵌套级复杂性
+nesting loop   &&   嵌套循环
+nesting or recursive structure   &&   嵌套或递归结构
+nesting store   &&   嵌套存储
+nesting structure   &&   嵌套结构
+nesting work of strip   &&   冲片排列法
+net   &&   ①网，网格②通信网③纯净的，净值的
+net amount   &&   净总值，净数
+net area   &&   净面积
+net boundary   &&   网格边界
+net buoyancy   &&   净浮力
+net call sign   &&   通信网呼号
+net caloric power   &&   ①净热值②低热值
+net caloric value   &&   ①净热值②低热值
+net calorific power   &&   ①净热值②低热值
+net change   &&   净变
+net charge   &&   净电荷
+net charge density   &&   净电荷密度
+net contact area   &&   净接触面积
+net control station   &&   通信网管理电台
+net dry weight   &&   净干重
+net effect   &&   净效应，综合效果
+net efficiency   &&   净效率，有效效率
+net energy   &&   净能
+net function   &&   网格函数
+net high-polymer   &&   网状高聚物
+net horsepower   &&   净马力，有效功率
+net information contents   &&   净信息内容
+net load   &&   净负荷，有效负荷
+net loss   &&   通信网损耗
+net morphism   &&   网同形
+net news service   &&   网络新闻服务
+net output   &&   净输出
+net peak flow   &&   净高峰流量
+net plane   &&   点阵平面
+net point   &&   网格点
+net polymer   &&   网状聚合物
+net positive suction head   &&   净吸引压头，净的正吸人压头
+net power   &&   净功率
+net power flow   &&   净功率流
+net pyrgeometer   &&   净地球辐射表
+net pyrradiometer   &&   辐射平衡表
+net radiation   &&   净辐射，辐射平衡，辐射差额
+net recombination rate   &&   净复合率
+net region   &&   网格区域
+net retention time   &&   净保留时间
+net retention volume   &&   净保留体积
+net sounder   &&   网位仪
+net space charge   &&   净空间电荷
+net stock   &&   净存量，净库存量，净储备量
+net structure   &&   网状组织，网状构造
+net terrestrial radiation   &&   净地球辐射
+net thrust   &&   净推力
+net ton   &&   短吨，美吨
+net tonnage   &&   净吨位
+net tractive effort   &&   有效牵引力，净牵引力
+net weight   &&   净重
+net work   &&   纯功，有用功
+net-forged surface   &&   只经锻造的表面
+net-shaped structure   &&   网状结构，网状组织
+netted belt-conveyor furnace   &&   网带退火炉
+netted belt-conveyor lehr   &&   网带退火窑，网带退火炉
+netted cylinder   &&   网状圆筒，圆筒形滤网
+netting   &&   网织品，结网
+netting index   &&   网数(指分子中交联键数)
+netting number   &&   网数(指分子中交联键数)
+netting wire   &&   制网钢丝
+network   &&   ①网状(物)，网状组织②电路，网络，网格，电力网
+network UNIX system   &&   网络UNIX系统
+network access facility   &&   网络存取设备[NAF]
+network access machine   &&   网络存取机器[NAM]
+network access processor   &&   网络存处理机
+network access protocol   &&   网络访问协议
+network address   &&   网络地址
+network addressable unit   &&   网络可编址设备，网络寻址部件[NAU]
+network administration   &&   网络管理
+network admittance   &&   网络导纳
+network algorithm   &&   网络算法
+network analog   &&   网络模拟
+network analogy   &&   网络模拟
+network analysis   &&   网络分析，网格分析，电路分析
+network analysis program   &&   网络分析程序
+network analyzer   &&   网络分析器(仪)
+network and path analysis   &&   网络及路径分析
+network antivirus system   &&   网络防病毒系统
+network application   &&   网络应用
+network application environment   &&   网络应用环境
+network architecture   &&   网络体系结构
+network architecture design   &&   网络体系结构设计
+network awareness   &&   网络识别
+network base schedule   &&   网络基础调度
+network buffer   &&   网络缓冲器
+network calculator   &&   网络模拟计算机装置，网络模拟计算器
+network capacitance   &&   网络电容
+network cementite   &&   网状渗碳体
+network chain   &&   网络链
+network characteristic   &&   网络特性(曲线)
+network chart   &&   网络图
+network chinese character operating system   &&   网络汉字系统[NCCOS]
+network circuit   &&   ①电力网电路②网络电路，网络线路
+network communication circuit   &&   网络通信线路
+network communications control facility   &&   网络通信控制工具[NOCF]
+network commutator   &&   网络换向器
+network component   &&   网络的组成部分
+network computer interface   &&   网络计算机接口
+network computing environment   &&   网络计算环境
+network computing industry   &&   网络计算工业
+network configuration   &&   网络配置，网络构形
+network configuration table   &&   网络构形表
+network congestion   &&   网络拥挤
+network connection   &&   网络接线
+network constant   &&   网络常数
+network contactor   &&   电力网接触器
+network control   &&   ①网络控制②电力网控制[NC]
+network control function   &&   网络控制功能
+network control layer   &&   网络层，网络控制层
+network control mode   &&   网络控制方式
+network control module   &&   网络控制模块
+network control phase   &&   网络控制相位
+network control processor   &&   网络控制处理机
+network control program   &&   网络控制程序
+network control program generation   &&   网络控制程序生成
+network control program major node   &&   网络控制程序主节点
+network control program node   &&   网络控制程序节点
+network control program station   &&   网络控制程序站
+network control program virtual storage   &&   网络控制程序虚存
+network control system   &&   网络控制系统
+network control unit   &&   网络控制单位[NCU]
+network control-board   &&   ①网络控制盘②电力网控制盘
+network creation   &&   网建立
+network data description   &&   网络数据描述，网络数据说明
+network data model   &&   网络数据模型
+network data translator   &&   网络数据翻译程序
+network database   &&   网状数据库
+network database system   &&   网络数据库系统
+network decomposition   &&   网状分解
+network definition   &&   网络定义
+network definition language   &&   网络定义语言
+network delay   &&   网络延迟
+network design   &&   ①网络设计②电力网设计
+network design algorithm   &&   网络设计计算法
+network design criteria   &&   网络设计基准
+network design problem   &&   网络设计问题
+network diagnosis   &&   网络诊断
+network diagram   &&   网络图
+network distribution   &&   网络分布
+network distributor   &&   网络分配程序，网络分配器
+network domain   &&   网络管区
+network element   &&   网络部件
+network equation   &&   网络方程
+network fault   &&   ①网络故障②电力网故障
+network feeder   &&   电力网馈线
+network ferrite   &&   网状铁素体
+network filter   &&   网络滤波器
+network flow   &&   网络流
+network flow analysis   &&   网络流分析
+network flow model   &&   网络流模型
+network flow optimization problem   &&   网络流最优化问题
+network flow problem   &&   网络流问题
+network flux   &&   网络通量
+network former   &&   网络形成物
+network forming element   &&   网络形成元素
+network frame   &&   网络帧
+network frequency   &&   网络频率
+network function   &&   网络函数
+network game   &&   网络对策
+network graph theory   &&   网络图论
+network harmonic   &&   网络谐波
+network host   &&   网络主机
+network hum   &&   网络哼声
+network hypothesis   &&   (玻璃结构)网络假说
+network impedance   &&   网络阻抗
+network implementation language   &&   网络实现语言
+network independence   &&   网络独立性
+network information processor   &&   网络信息处理机
+network information service   &&   网络信息服务
+network interdependeney   &&   网络相互依存性
+network interface   &&   网络接口
+network interface adapter   &&   网络适配器，网卡
+network interface machine   &&   网络接口机
+network interface program   &&   网络接口程序
+network isolation circuit   &&   网络隔离电路
+network job control language   &&   网络作业控制语言
+network job entry facility   &&   网络作业录入设备，网络作业录入设施
+network job entry implementation   &&   网络作业录入实现
+network knowledge representation scheme   &&   网络知识表示模式
+network law   &&   网络定律
+network layer   &&   网络层
+network layer standard   &&   网络层标准
+network layout   &&   ①网络布置②电力网布置
+network limiter   &&   网络限制器
+network line   &&   网络线路
+network link   &&   网络链路
+network load analysis   &&   网络负载分析
+network lock-up   &&   网络死锁
+network logic analysis   &&   网络逻辑分析
+network loss   &&   ①网络损耗②电力网损耗
+network mail system   &&   网络邮件系统
+network maintenance   &&   网络维护
+network management   &&   网络管理
+network management problem   &&   网络管理问题
+network management system   &&   网络管理系统
+network management unit   &&   网络管理部件
+network map   &&   ①网络图②电力网图
+network master relay   &&   网络主继电器
+network matching   &&   网络匹配
+network measurement centre   &&   网络测量中心
+network message   &&   网络报文
+network method   &&   网络法
+network mode   &&   网络方式
+network model   &&   网状模型
+network model database system   &&   网络模型数据库系统
+network modeling   &&   网络模型化，网络建模
+network modifier   &&   网络改良器
+network module   &&   网络模块
+network monitoring   &&   网络监视，网络监督，网络监控
+network name   &&   网络名
+network nitride   &&   网状氮化物
+network node   &&   网络节点
+network of cementite   &&   网状渗碳体
+network of conductors   &&   导线网络
+network of monitoring and surveillance   &&   监视测定网
+network of observation   &&   观测网
+network of pipe lines   &&   管道网
+network of stations   &&   台网
+network operating system   &&   网络操作系统[NOS]
+network operating system function   &&   网络操作系统功能
+network operation system   &&   网络操作系统
+network operator   &&   网络操作员
+network operator command   &&   网络操作员命令
+network operator console   &&   网络操作员控制台
+network operator logging   &&   网络操作员注册
+network operator service   &&   网络操作员业务
+network operator terminal   &&   网络操作员终端
+network optimization   &&   网络优化(程序)
+network optimization system   &&   网络最优化系统
+network optimized approach   &&   网络优化方法
+network parameter   &&   网络参数
+network path   &&   网络路径，网络通路
+network performance   &&   网络性能
+network phase relay   &&   网络定相继电器
+network phasing relay   &&   网络定相继电器
+network physical unit   &&   网络处理部件，网络物理单元
+network plan   &&   ①网络布置②电力网布置
+network planning   &&   网络计划
+network polymer   &&   网状聚合物，网络聚合物
+network port   &&   网络端口，网络出入口
+network preparation processor   &&   网络准备处理机
+network privacy   &&   网络保密性
+network problem determination application   &&   网络问题判定应用
+network process   &&   网络处理
+network processing unit   &&   网络处理部件，网络处理器
+network processor   &&   网络处理机
+network protection   &&   ①网络保护②电力网保护
+network protector   &&   ①网络保护装置②电力网保护装置
+network protocol   &&   网络协议
+network quiescence   &&   网络静止功能
+network real time operation analysis   &&   网络实时操作分析
+network redundancy   &&   网络冗余度
+network registry   &&   网络注册，网络登记
+network relay   &&   电力网继电器
+network reliability   &&   网络可靠性
+network representation   &&   网络表示法
+network resource   &&   网络资源
+network restraint mechanism   &&   网络限动机构，网络抑制机构
+network routing diagram   &&   网络路径选择图
+network routing problem   &&   网络路径选择问题
+network rule   &&   网络规则
+network security   &&   网络安全性
+network server   &&   网络服务程序，网络服务器
+network service   &&   ①网络服务②电力网供电
+network service header   &&   网络服务标题
+network service procedure error   &&   网络服务过程错误[NSPE]
+network simplex method   &&   网络单向通信(单工)法
+network simulation   &&   网络仿真，网络模拟
+network site   &&   网络位置
+network slow down   &&   网络延迟，网络减速
+network source   &&   电网电源
+network stability   &&   ①网络稳定度②电力网稳定
+network state table   &&   网络状态表
+network status display system   &&   网络状态显示系统
+network strategy   &&   网络策略，构造网络方式
+network structure   &&   网络结构，网状组织
+network supply   &&   电力网供电
+network support manager   &&   网络支持管理程序
+network synthesis   &&   网络综合(法)
+network system   &&   ①网络系统②供电网系统
+network system theory   &&   网络系统理论
+network technique   &&   网络技术
+network technology   &&   网络技术
+network terminal   &&   网络终端
+network terminal option   &&   网络终端选择程序[NTO]
+network terminal system   &&   网络终端系统
+network terminating unit   &&   网络终端配套设备
+network testing problem   &&   网络检验问题，网络检测问题
+network theorem   &&   网络定理
+network theory   &&   网络理论，网状结构理论
+network throughout   &&   网络通过能力
+network topology   &&   网络拓扑(学)，网络布局
+network topology figure   &&   网络布局图
+network traffic   &&   网络信息流通量
+network traffic analysis   &&   网络信息流通量分析
+network traffic simulator   &&   网络管理模拟器
+network transfer admittance   &&   网络转移导纳
+network transfer function   &&   网络传递函数
+network transformer   &&   ①网络变压器②电力网变压器
+network tripping and reclosing device   &&   电力网自动跳闸和重合闸装置
+network universality   &&   网络通用性
+network vault   &&   网络窖
+network vein   &&   网状矿脉
+network virtual terminal   &&   网络虚拟终端
+network voltage   &&   电力网电压
+network vulnerability   &&   网络脆弱性
+network with earth-connected neutral point   &&   中性点接地网络
+network-forming ion   &&   (玻璃)网络形成离子
+network-like structure   &&   类网结构，类似网结构
+network-oriented computer system   &&   面向网络的计算机系统
+network-type computer   &&   网络型计算机
+network-wide coordination entity   &&   网络范围协调实体
+networking   &&   建网，联网
+networking environment condition   &&   联网环境条件
+networking function   &&   联网功能
+networking initial condition   &&   联网初始条件
+networking products   &&   联网产品
+networking support   &&   联网支援
+networking technology   &&   联网技术
+neural analyzer   &&   神经分析仪
+neural cell model   &&   神经细胞模型
+neural coding   &&   神经编码
+neural encoding   &&   神经编码
+neural net   &&   神经网
+neural network   &&   神经网络
+neural network simulation   &&   神经网络模拟
+neuritis   &&   类神经器件
+neurocybernetics   &&   神经控制论
+neurohumoral information theory   &&   神经体液信息论
+neuron   &&   神经元
+neuron model   &&   神经元模型
+neuron network simulation   &&   神经网络模拟
+neuron simulation   &&   神经模拟
+neurone   &&   神经元
+neurotransmission   &&   神经传递
+neurotransmitter   &&   神经传递体
+neutral   &&   ①中性的，中和的②中线③中性④中立的⑤空档
+neutral absorption   &&   中性吸收
+neutral activating method   &&   中性活化法(应用于亚氯酸钠漂白)
+neutral addition compound   &&   中性加成物
+neutral atmosphere   &&   中性气氛
+neutral atom   &&   中性原子
+neutral atom beam injection   &&   中性原子束注入
+neutral atom detector   &&   中性原子探测器
+neutral atomic beam   &&   中性原子束
+neutral atomic beam density   &&   中性原子束密度
+neutral atomic beam injection   &&   中性原子束喷射
+neutral atomic beam injector   &&   中性原子束喷射器
+neutral atomic density   &&   中性原子密度
+neutral axis   &&   中性轴，中性线
+neutral axis shift   &&   中心轴转动
+neutral balance   &&   随遇平衡
+neutral brick   &&   中性砖
+neutral burning   &&   中性燃烧
+neutral clay   &&   中性白土
+neutral colour   &&   中和色，不鲜明颜色，灰色，无彩色
+neutral colour filter   &&   中性滤光片，中性滤色器
+neutral compound   &&   中性化合物
+neutral conductor   &&   中性线
+neutral current   &&   中性水流(三相)，中性线电流
+neutral density filters   &&   中性密度滤光镜
+neutral donor   &&   中性施主
+neutral drag instability   &&   中性阻滞不稳定性
+neutral dye   &&   中性染料
+neutral earthing   &&   中点接地
+neutral energy level   &&   电中性能级
+neutral equilibrium   &&   随遇平衡
+neutral filter   &&   中性滤光片
+neutral flame   &&   中性焰
+neutral flow   &&   中子流动
+neutral fluid dynamics   &&   中性流体动力学
+neutral flux   &&   中性助熔剂
+neutral gas   &&   中性气体，惰性气体
+neutral gas blanket   &&   中性气体壳套
+neutral glass   &&   中性玻璃(耐化学腐蚀玻璃)
+neutral glycerine   &&   中性甘油
+neutral grey glass   &&   中性灰色滤光玻璃
+neutral grounding   &&   中性点接地
+neutral layer   &&   中和层，中性层
+neutral line   &&   中线，中和线，中性线(层)
+neutral material   &&   中性材料
+neutral medium   &&   中性介质
+neutral metal   &&   中性金属
+neutral oil   &&   中性油
+neutral operation   &&   中性工作
+neutral outcome   &&   中性后果
+neutral particle   &&   中性粒子，不带电粒子
+neutral particle detection   &&   中性质点探察
+neutral plane   &&   中性平面
+neutral point   &&   中和点，中性点，临界点
+neutral position   &&   中间位置
+neutral premetallized dyes   &&   中性金属络合染料
+neutral radical   &&   中性基
+neutral reaction   &&   中性反应，中和反应
+neutral refractory   &&   中性耐火材料
+neutral refractory brick   &&   中性耐火砖
+neutral relay   &&   无极继电器，非极性继电器，中和继电器
+neutral resin   &&   中性树脂，碱不溶树脂
+neutral return path   &&   中性线回路
+neutral salt   &&   中性盐
+neutral slag   &&   中性渣
+neutral soap   &&   中性肥皂
+neutral soil   &&   中性土
+neutral solution   &&   中性溶液
+neutral stability   &&   随机稳定性
+neutral stability curve   &&   随机稳定性曲线
+neutral start switch   &&   着火抑制剂，点火抑制开关
+neutral steer   &&   中性转向
+neutral sulfite semichemical pulp   &&   中性亚硫酸盐半化学纸浆
+neutral surface   &&   ①中性面，中和面②无应变面
+neutral temperature   &&   中和温度
+neutral tint   &&   不鲜明色(如青灰色，灰色)
+neutral transmission   &&   中性传输
+neutral turn   &&   空档转向
+neutral water glass   &&   中性水玻璃
+neutral zone   &&   中性带，中性区
+neutral-bath dyeing   &&   中性浴染色
+neutral-tinted glass   &&   中性有色玻璃
+neutral-tongue relay   &&   中位舌簧和继电器
+neutrality   &&   中和
+neutrality condition   &&   中性条件
+neutralization   &&   中和(作用)，中和处理，中和法，抵消，中和反应
+neutralization efficiency   &&   中和效率
+neutralization equivalent   &&   中和当量
+neutralization heat   &&   中和热
+neutralization number   &&   中性指数，中和值
+neutralization process   &&   中和过程
+neutralization ratio   &&   中和比率
+neutralization test   &&   中和试验，中和值测定
+neutralization value   &&   中和值
+neutralize   &&   使中和，平衡，抵消
+neutralized radio-frequency stage   &&   中和射频级
+neutralizer   &&   中和器，中和剂
+neutralizing   &&   中和
+neutralizing agent   &&   中和剂
+neutralizing capacitor   &&   中和电容器
+neutralizing current   &&   中和电路
+neutralizing reaction   &&   中和反应
+neutralizing tank   &&   中和槽
+neutralizing transformer   &&   中和变压器
+neutralizing treatment   &&   中和处理
+neutralizing voltage   &&   中和电压
+neutralizing well   &&   中和槽
+neutrally buoyant float   &&   中性浮标
+neutrino   &&   中微子
+neutron   &&   中子
+neutron absorber   &&   中子吸收剂，中子吸收器
+neutron absorbing material   &&   中子吸收材料
+neutron absorption   &&   中子吸收作用
+neutron absorption cross section   &&   中子吸收截面，中子俘获截面
+neutron activation   &&   中子活化，中子激活
+neutron age   &&   中子寿命
+neutron beam   &&   中子束
+neutron blanket   &&   中子壳套
+neutron capture   &&   中子俘获，中子吸收
+neutron conservation equation   &&   中子守恒方程
+neutron damage   &&   中子损害
+neutron detection   &&   中子探测
+neutron diffraction   &&   中子衍射
+neutron diffusion equation   &&   中子扩散方程
+neutron dosimeter   &&   牛顿流动定律，中子剂量计
+neutron emission   &&   中子放射
+neutron emission rate   &&   中子放射率
+neutron filter   &&   中子滤波器，中子过滤器
+neutron flux   &&   中子通量，中子流
+neutron fusion energy   &&   中子聚变能
+neutron irradiated metal   &&   中子辐照金属
+neutron irradiation   &&   中子辐照
+neutron logging instrument   &&   中子测井仪
+neutron multiplication   &&   中子繁殖
+neutron polarization   &&   中子极化作用
+neutron radiograghy   &&   中子射线照相术
+neutron radiography   &&   中子探伤法，中子射线摄影术
+neutron rate equation   &&   中子率方程
+neutron scattering   &&   中子散射
+neutron scattering pattern   &&   中子散射花样
+neutron shield   &&   中子护屏
+neutron source   &&   中子源
+neutron spectrometer   &&   中子能谱仪
+neutron transmutation   &&   中子蜕变
+neutron tube   &&   中子(发生)管
+neutron-absorbing glass   &&   中子吸收玻璃
+neutron-activation analysis   &&   中子活化分析中子放射性分析
+neutron-gamma radiometer   &&   中子伽玛辐射仪
+neutron-ray protected glass   &&   防中子射线玻璃
+neutron-testing   &&   中子试验
+neutronic flow   &&   中子流动
+nevertheless   &&   然而，不过
+new   &&   新建 开新档案
+new ceramics   &&   新陶瓷
+new hours of parking control   &&   停车控制新时段
+new layout   &&   新建布局
+new line character   &&   换行字符
+new oil   &&   新油
+new prediction method   &&   新预测法
+new sand   &&   新砂
+new traffic system   &&   新交通系统，高架地面运输系统
+new-ceram   &&   新型陶瓷(微晶玻璃)
+new-line character   &&   换行字符
+newbuilding dock   &&   造船坞
+newbuilding yard   &&   造船厂
+newest bound rule   &&   最新界法则
+newspaper handling equipment   &&   报纸处理设备
+newspaper packaging machine   &&   报纸包装机
+newspaper page facsimile apparatus   &&   报纸传真机
+newton   &&   牛顿(力的国际单位)
+next event   &&   下一事件
+next event incrementing   &&   下一事件增长
+next instruction   &&   后继指令
+next microinstruction   &&   后继微指令
+next move function   &&   下一个动作函数
+next move mapping   &&   下一个动作映象
+next nearest neighbour atom   &&   次最近邻原子
+next operator   &&   下一个(运)算符
+next page   &&   下一页
+next process unit   &&   下一道工序设备
+next record   &&   下一个记录
+next record of set   &&   组合的后续记录
+next record pointer   &&   下一个记录指示字
+next sentence   &&   下一个句子
+next state   &&   下一个状态，次状态
+next state function   &&   下一个状态函数
+next statement   &&   下一个语句
+next-address logic   &&   后继地址逻辑
+next-event synchronous simulation   &&   下一事件同步模拟
+next-executable statement   &&   下一个可执行语句
+next-instruction address   &&   后继指令地址
+next-node routing table   &&   下一个节点路径选择表
+nib   &&   ①尖头，尖端，笔尖②(机械瓦背面的)挂角
+nib-forming   &&   压小凸，压出尖突，尖头成型
+nib-forming die   &&   尖头成型模
+nibbed bolt   &&   尖头螺栓
+nibbing machine   &&   振动剪，啃切剪床
+nibbling   &&   零件轮廓的分段冲裁，啃切
+nicarbing   &&   碳氮共渗(法)，氰化(法)
+nicarburizing   &&   碳氮共渗
+nichrome   &&   镍铬合金(Ni 60％～95％，Cr 5％～32％，Fe 0.24％，Mn，Si)
+nichrome alumino-copper couple   &&   镍铬-铝铜热电偶
+nichrome alumino-copper thermocouple   &&   镍铬-铝铜热电偶
+nichrome alumino-nickel couple   &&   镍铬-镍铝热电偶
+nichrome alumino-nickel thermocouple   &&   镍铬-镍铝热电偶
+nichrome heating coil   &&   镍铬加热线圈
+nichrome heating resistance   &&   镍铬电阻
+nick   &&   ①割痕，刻痕，裂痕，沟②缺口
+nick action   &&   交咬作用(钢丝绳各股中钢丝的)
+nick bend test   &&   缺口弯曲试验
+nick break test   &&   缺口冲击断裂试验
+nicked teeth milling cutter   &&   切齿铣刀
+nickel   &&   ①镍Ni(28)②镀镍③镍灰(红光浅灰色)
+nickel addition   &&   镍添加合金(测量)
+nickel alkaline battery   &&   镍碱性电池
+nickel alloy   &&   镍合金
+nickel arsenide structure   &&   砷化镍(型)结构
+nickel bare welding filler metal   &&   镍焊丝
+nickel base alloy   &&   镍基合金
+nickel base alloy bare welding filler metal   &&   镍基合金焊丝
+nickel base alloy covered electrode   &&   镍基合金涂药焊条
+nickel black   &&   镍黑
+nickel brass   &&   镍黄铜
+nickel bronze   &&   镍青铜(Cu 60％，Ni 30％，Sn 8％，Fe 2％)
+nickel carbon alloy   &&   镍碳合金
+nickel cast iron   &&   镍铸铁
+nickel chrome steel   &&   镍铬钢
+nickel chromium alloy   &&   镍铬合金
+nickel chromium steel   &&   镍铬钢
+nickel coat   &&   包镍，镍表皮
+nickel coated iron   &&   镀镍铁
+nickel compound   &&   镍化合物
+nickel converting   &&   镍吹炼
+nickel delay line   &&   镍延迟线
+nickel equivalent   &&   镍当量
+nickel ferrite   &&   铁镍尖晶石
+nickel foil   &&   镍箔
+nickel iron   &&   镍铁，镍铁合金
+nickel isotope   &&   镍同位素
+nickel manganese bronze   &&   镍锰青铜
+nickel metallurgy   &&   炼镍，镍冶炼
+nickel mineral   &&   镍矿
+nickel modified polypropylene fibre   &&   镍改性聚丙烯纤维
+nickel pellet   &&   镍珠，镍丸，镍粒
+nickel plate   &&   电镀镍，镍镀层
+nickel plating   &&   镀镍，电镀镍
+nickel powder   &&   镍粉
+nickel print   &&   镍印法
+nickel reagent   &&   镍试剂
+nickel rich alloy   &&   富镍合金
+nickel silver   &&   铜镍锌合金，镍银，德银(Cu 50％～70％，Zn 13％～35％，Ni 5％～33％)
+nickel smelting   &&   炼镍，镍熔炼
+nickel steel   &&   镍钢
+nickel steel gas welding rod   &&   镍钢气焊条
+nickel tantalum alloy   &&   镍钽合金
+nickel vanadium cast iron   &&   镍钒铸铁
+nickel white iron   &&   镍白口铁
+nickel-base heat resisting superalloy   &&   镍基超耐热合金
+nickel-cadmium accumulator   &&   镍镉蓄电池
+nickel-cadmium battery   &&   镍镉蓄电池，镍镉电池
+nickel-cadmium dell   &&   镍镉蓄电池
+nickel-chromium resistor   &&   镍铬电阻器
+nickel-chromium steel   &&   镍铬钢
+nickel-chromium-manganese steel   &&   镍铬锰钢
+nickel-chromium-molybdenum steel   &&   镍铬钼钢
+nickel-chromium-tungsten steel   &&   镍铬钨钢
+nickel-clad   &&   钢板包镍法
+nickel-clad steel plate   &&   包镍钢板
+nickel-cobalt   &&   镍钴合金
+nickel-copper   &&   镍铜合金
+nickel-copper ferrite   &&   镍铜铁氧体
+nickel-covered welding electrode   &&   镍药皮焊条，涂药镍焊条
+nickel-hydrogen battery   &&   镍氢电池
+nickel-iron accumulator   &&   镍铁蓄电池
+nickel-iron battery   &&   镍铁电池，爱迪生蓄电池
+nickel-iron-alkaline cell   &&   镍铁(碱性)蓄电池
+nickel-manganese cast steel   &&   镍-锰铸钢
+nickel-metal hydride battery   &&   镍氢化金属电池
+nickel-molybdenum steel   &&   镍钼钢
+nickel-phos coating   &&   镍-磷涂层
+nickel-tin   &&   镍锡合金
+nickel-tungsten alloy   &&   镍钨合金(W 8％～25％，Ni 75％～90％)
+nickel-tungsten-calcium alloy   &&   镍钨钙合金
+nickel-zinc battery   &&   镍锌电池
+nickel-zinc ferrite   &&   镍锌铁氧体
+nickelage   &&   镀镍
+nickeling   &&   镀镍，覆镍
+nickelizing   &&   镀镍(电解)，渗镍
+nickelous compoud   &&   正镍化合物
+nicking and breaking   &&   刻痕折断法
+nicrosilal   &&   镍铬镁铸铁，奥氏体组织的铸体合金(Ni 18％，Si约15％)
+nigged ashlar   &&   琢石
+night latch   &&   弹子锁
+night lock   &&   弹子锁
+night reconnaissance   &&   夜间侦察
+night signal   &&   夜间信号
+night viewing TV tube   &&   夜视电视管
+night vision equipment   &&   夜视设备
+night vision meter   &&   夜视仪
+night-marking   &&   夜间标志
+nil   &&   零，无
+nill   &&   铁屑
+nilometer   &&   水位计(尤指刻在天然石壁上的水位标尺)
+nilpotent matrix   &&   幂零矩阵
+nine's complement   &&   十进制反码
+ninety-column card   &&   90列卡片
+niobate ceramics   &&   铌陶瓷
+niobate system ceramics   &&   铌酸盐系陶瓷
+niobate system piezoelectric ceramics   &&   铌酸盐系压电陶瓷
+niobite   &&   铌铁矿
+niobium   &&   铌Nb(41)
+niobium addition   &&   铌添加合金
+niobium alloy   &&   铌合金
+niobium bearing high strength steel   &&   含铌高强度钢
+niobium-base alloy   &&   铌基合金
+niobium-tantalum deposit   &&   铌钽矿床
+niobium-tantalum mineral   &&   铌钽矿物
+nip   &&   ①夹②咬入，压缩，压轧③夹住④剪断，钳住⑤叶片间隙
+nip action   &&   交咬作用(钢丝绳各股中钢丝的)
+nip angle   &&   咬人角
+nip roll   &&   压料棍
+nipper   &&   钳子
+nippers   &&   钳子，镊子，夹子
+nipple   &&   ①喷灯，喷嘴②螺纹接头，接头，螺纹接口(管)，螺丝管接头，管接头
+nipple joint   &&   套管接头
+nipple nut   &&   锥端接管螺纹
+nit   &&   尼特 (表面亮度单位，等于1新烛光/平方米)
+nital   &&   硝酸乙醇溶液(金相用浸蚀剂)
+nitempering   &&   氮回火
+niter   &&   硝石
+nitralising   &&   硝酸钠浸渍净化钢板法
+nitratine   &&   钠硝石，硝酸钠，智利硝石
+nitration   &&   渗氮，硝化作用
+nitre   &&   硝石
+nitric acid   &&   硝酸
+nitric acid quenching   &&   硝酸淬火
+nitricastiron   &&   渗氮(耐磨)铸铁(Si 2.58％，Cr 1.22％，V 0.16％，Mo 0.24％～1.01％)
+nitridation   &&   氮化(作用)，渗氮(作用)，硝化(作用)
+nitride   &&   氮化物
+nitride ceramics   &&   氮化物陶瓷
+nitride hardening   &&   渗氮硬化
+nitride masking   &&   氮化物掩蔽
+nitride needle   &&   针状氮化物
+nitride network   &&   网状氮化物
+nitride refractory   &&   氮化物耐火材料
+nitrided   &&   氮化的
+nitrided case   &&   渗氮层
+nitrided coating   &&   碳氮渗透层
+nitrided layer   &&   渗氮层，氮化层
+nitrided steel   &&   渗氮钢，氮化钢
+nitrided structure   &&   渗氮组织
+nitriding   &&   渗氮，氮化(处理)，硝化(作用)，氮化处理
+nitriding agent   &&   渗氮剂，氮化剂
+nitriding box   &&   渗氮箱，氮化箱
+nitriding furnace   &&   渗氮炉，氮化炉
+nitriding of titanium   &&   钛渗氮，钛氮化
+nitriding process   &&   渗氮法，氮化法
+nitriding steel   &&   渗氮钢，氮化钢
+nitriding treatment   &&   渗氮处理
+nitrification   &&   硝化作用
+nitrify   &&   渗氮，氮化
+nitrile   &&   腈
+nitrile rubber   &&   腈橡胶
+nitrile rubber Buna N   &&   丁晴橡胶
+nitrile-butadiene rubber   &&   丁腈橡胶
+nitro   &&   硝基甲烷
+nitro-alloy   &&   氮化合金，渗氮合金
+nitro-methane   &&   硝基甲烷
+nitrobenzene   &&   硝基苯
+nitrocarburizing   &&   软氮化，碳氮共渗
+nitrogen   &&   氮
+nitrogen arc welding   &&   氮弧焊，气体保护焊
+nitrogen atmosphere   &&   氮保护气氛
+nitrogen atom   &&   氮原子
+nitrogen case hardening   &&   渗氮硬化，表面渗氮
+nitrogen ceramics   &&   氮化物陶瓷
+nitrogen compound   &&   氮化合物
+nitrogen dioxide transfer furnace   &&   二氧化氮转化炉
+nitrogen family   &&   氮族元素
+nitrogen group element   &&   氮族元素
+nitrogen hardening   &&   渗氮硬化
+nitrogen oxides   &&   氧化氮
+nitrogen-containing alloy   &&   含氮合金
+nitrogen-oxide analyzer   &&   氮氧化物分析仪
+nitrogenation   &&   ①氮平衡②氮化
+nitrogenation oven   &&   氮化炉
+nitrogenization   &&   渗氮作用，氮化作用
+nitroglycerine   &&   硝化甘油炸药
+nitrometal   &&   硝基金属
+no delay river model   &&   无时延河流模型
+no gas welding   &&   非气焊
+no pall   &&   零位张力，无张力
+no room between lines   &&   行间没有空位
+no text in buffer   &&   缓冲器中无文本
+no touch relay   &&   无触点继电器
+no-address computer   &&   无地址计算机
+no-address instruction   &&   无地址指令
+no-break power system   &&   保证供应电力系统
+no-buffer queue   &&   无缓冲排队
+no-consoles condition   &&   无控制台条件
+no-draft forging   &&   无斜度锻造，无斜度锻件
+no-fuse breaker   &&   无熔丝断路器
+no-go gauge   &&   ①不(通)过规，不过端量规②止规，不通过规
+no-grind gate   &&   压边(内)浇口，缝隙(内)浇口
+no-leak   &&   无泄漏
+no-load   &&   空负荷，无载，空载，无负荷
+no-load and short-circuit   &&   无载和短路法
+no-load current   &&   无载电流，空载电流
+no-load cutout   &&   无载断路器
+no-load diesel relay   &&   柴油机空载继电器
+no-load engine surge   &&   无载发动机波动
+no-load impedance   &&   无载阻抗
+no-load induction   &&   无载电感
+no-load loss   &&   无载损失，空载损失
+no-load magnetizing current   &&   无载磁化电路
+no-load resistance   &&   无载(重)阻力
+no-load run   &&   无载运转
+no-load test   &&   空载试验，无负荷试验
+no-load voltage   &&   无负载电压
+no-load work   &&   无载功
+no-mag   &&   无磁性铸铁(Ni 10％，Mn 5％)
+no-man control   &&   无人控制，无人操纵
+no-numeric application   &&   非数据应用
+no-op   &&   空操作
+no-operation bit   &&   空操作位
+no-operation code   &&   空操作码，非操作码
+no-operation instruction   &&   空操作位指令
+no-print key   &&   非打印键
+no-ram   &&   不捣实
+no-roll roughing   &&   无滚动粗切
+no-slip angle   &&   临界角，前滑角
+no-slip point   &&   无滑动点，不滑动点，(不滑动的)中性点
+no-slip region   &&   无滑移区，黏着区
+no-voltage protection   &&   无(电)压保护
+no-wear EDM   &&   无损耗电火花加工
+nobelium   &&   锘No(102)
+noble gas   &&   稀有气体，惰性气体
+noble metal   &&   贵金属
+noble metal thermocouple   &&   贵金属热电偶
+noctovision   &&   红外线电视
+nocturnal cooling   &&   夜间冷却
+nocturnal cooling system   &&   夜间冷却系统
+nodal   &&   ①(波)节的②枢纽的，中心的，关键的，结点，节点
+nodal analysis   &&   节点分析法
+nodal basis   &&   结点基
+nodal displacement   &&   节点位移
+nodal equation   &&   节点方程
+nodal force   &&   节点力
+nodal point   &&   ①节点②叉点，结点
+nodalizer   &&   波节显示器
+node   &&   ①节，结点，结，叉点②波节③节点
+node admittance determinant   &&   节点导纳行列式
+node identifier   &&   节点标志符
+node initialization block   &&   节点初始化块[NIB]
+node matrix equation   &&   节点矩阵方程
+node name   &&   节点名
+node number   &&   节点号码
+node of digraph   &&   有向图的节点
+node of graph   &&   图(的)节点
+node of phase plane   &&   相平面节点
+node point of vibration   &&   振动节点
+node processor   &&   节点处理机
+node voltage   &&   波节电压
+node-node transmission procedures   &&   节点传输过程
+nodular cast iron   &&   球墨铸铁
+nodular cementite   &&   球状渗碳体
+nodular fine pearlite troostite   &&   屈氏体
+nodular graphite   &&   球状石墨
+nodular graphite cast iron   &&   球墨铸铁
+nodular powder   &&   球状粉末，粒状粉末
+nodular structure   &&   球粒结构，球状组织
+nodular troostite   &&   球状屈氏铁
+nodularization   &&   球化
+nodularizing agent   &&   球化剂
+nodule   &&   ①球粒，球状物，团块②结节，结核③矿瘤，岩球
+nodule number   &&   球数
+nodules   &&   粒状物，粒状曲线
+nodulizer   &&   球化剂
+nodulizing   &&   造球，球化，烧结作用，附聚作用
+nodulizing agent   &&   球化剂(铸)
+nodulous cementite   &&   球状渗碳体
+noetic science   &&   思维科学
+nog   &&   木钉，木栓，木砖
+noise   &&   噪声，噪音，杂声，干扰
+noise amplifier   &&   噪声放大器
+noise analyzer   &&   噪声分析器
+noise attenuation duct   &&   消音管道
+noise characteristics   &&   噪声特性
+noise control   &&   噪声控制
+noise criteria   &&   噪声标准
+noise current   &&   噪声电流
+noise deadener   &&   隔音材料，消声器
+noise deadening   &&   吸音，隔音，消音
+noise deadening foam   &&   隔音泡沫材料
+noise digit   &&   噪声数位
+noise diode   &&   噪声二极管
+noise dose   &&   噪声剂量
+noise dose meter   &&   噪声剂量计
+noise elimination   &&   噪声消除
+noise equivalent voltage   &&   噪声等效电压
+noise factor   &&   噪声因数
+noise filter   &&   静噪滤波器
+noise generator   &&   噪声(信号)发生器
+noise grade   &&   噪声等级
+noise hindrance   &&   噪音干扰
+noise improvement   &&   噪声改善系数
+noise injury   &&   噪声损伤
+noise insulation glass   &&   防噪音玻璃
+noise jammer   &&   杂波干扰机，噪声干扰机
+noise jamming   &&   噪声干扰
+noise killer   &&   噪声抑制器，噪声降低系统，静噪器
+noise level   &&   噪声(等)级，噪声电平，嗓声水平
+noise level analyzer   &&   噪声级分析仪
+noise limiter   &&   噪声限制器，噪声降低系统，静噪器
+noise load ratio   &&   嗓声负载比
+noise loading test   &&   噪声负载试验
+noise measurement   &&   噪声测量
+noise meter   &&   噪声计
+noise muffler   &&   消声器
+noise pollution   &&   噪声污染
+noise power   &&   噪声功率
+noise prediction   &&   噪声预估
+noise prevention   &&   噪声消除，噪声控制
+noise protection   &&   噪声防护
+noise radar   &&   噪声雷达
+noise reduction   &&   消音，噪声降低
+noise reduction system   &&   噪声降低系统
+noise room   &&   噪声室
+noise sensor   &&   噪声传感器
+noise silencer   &&   减噪器，静噪器，噪声抑制器，消音器，消声器
+noise source   &&   噪声源，噪声源
+noise suicide circuit   &&   噪声自灭电路
+noise suppressing varistor   &&   消噪电压敏电阻器
+noise suppression   &&   噪声抑制，噪声控制
+noise suppressor   &&   噪声抑制器，消音器
+noise temperature   &&   噪(声)温(度)
+noise temperature of an antenna   &&   天线噪声温度
+noise test   &&   噪声测试
+noise thermometer   &&   噪声温度计
+noise transducer   &&   噪声传感器
+noise tube   &&   噪声管
+noise weighting   &&   噪声加权
+noise-like signal   &&   似噪声信号
+noise-modulated jamming   &&   噪声调制干扰
+noise-power measurement   &&   噪声功率测量
+noise-reducing antenna system   &&   降低噪声的天线系统
+noise-reducing microphone   &&   抗噪声送话器，降噪声送话器
+noiseless channel   &&   无噪声信道
+noiseless running   &&   无噪声运转
+noisy channel   &&   噪声信道
+noisy communication channel   &&   噪声信道
+noisy generator   &&   有声运转发电机
+noisy mode   &&   有噪音方式
+noisy operation   &&   有噪音运转
+nominal   &&   名义
+nominal band   &&   标称频带
+nominal bandwidth   &&   标称带宽
+nominal capacity   &&   额定容量，额定能力
+nominal cartridge diameter of microphone   &&   传声器极头公称直径
+nominal characteristic   &&   名义特性
+nominal composition   &&   公称成分，名义成分
+nominal diameter   &&   标称直径，名义直径，公称直径
+nominal dimension   &&   公称尺寸，标称尺寸，名义尺寸
+nominal flow-rate   &&   公称流量
+nominal heat value   &&   标定热值
+nominal horse-power   &&   标称功率，额定功率(N.H.P.)
+nominal humidity   &&   标称湿度
+nominal hygienic air requirement   &&   标定卫生空气需要量
+nominal insulation voltage   &&   额定绝缘电压
+nominal line width   &&   标称行宽
+nominal load   &&   额定负载，标称负载
+nominal low-voltage   &&   额定低压
+nominal operating cell temperature   &&   电池标称工作温度
+nominal operating condition   &&   正常工作条件
+nominal operating voltage   &&   标称工作电压
+nominal output   &&   额定输出，额定生产率
+nominal pitch   &&   标称螺距，公称螺距
+nominal power   &&   额定功率，标称功率
+nominal power output   &&   标称输出功率
+nominal pressure   &&   公称压力，名义压力
+nominal pressure rating   &&   公称压力
+nominal range   &&   标称使用范围，标称量限
+nominal range of use   &&   标称使用范围
+nominal section   &&   模拟传输线段
+nominal size   &&   公称尺寸，名义尺寸，公称通径
+nominal slippage   &&   公称滑动量
+nominal strain   &&   公称应变，名义应变
+nominal stress   &&   名义应力、公称应力，名义应力、公称应力
+nominal temperature   &&   标称温度
+nominal tonnage   &&   名义吨位
+nominal torque   &&   公称扭矩
+nominal travel   &&   标称行程
+nominal value   &&   ①额定值②标称值，名义值
+nominal value of machine   &&   电机额定值
+nominal voltage   &&   标称电压，额定电压
+nominal voltage ratio   &&   标称电压比
+nomogram   &&   算图，线解图，列线图，诺模图
+nomograph   &&   列线图，线解图，计算图表，诺模图，算图
+nomographic chart   &&   列线图，算图，线解图
+nomographic method   &&   算图法，线解图法，列线图法
+nomography   &&   线解图法，算图法，列线图解法
+nomotron   &&   计数管，开关电子管
+non additivity   &&   非加和性
+non adjust assembly   &&   无修改装配
+non articulated locomotive   &&   非关节机车
+non bogie coach   &&   无转向架客车
+non bogie wagon   &&   无转向架货车
+non concentrating collector   &&   非集中型聚光器
+non cylindrical grain   &&   非圆柱药心
+non dimensional airflow rate   &&   无因次空气流率
+non dimensional flight speed   &&   无因次飞行速度
+non dimensional fuel-air ratio   &&   无因次燃料-空气比
+non dimensional jet thrust   &&   无因次喷气推力
+non dimensional number   &&   无因次数
+non dimensional performance parameter   &&   无因次工况参数
+non dimensional performance parameter for turbojet engine   &&   涡轮喷气发动机的无因次工况参数
+non dimensional turbine blade parameter   &&   无因次涡轮叶片速度
+non equilibrium carrier   &&   不平衡的载流子，非平衡载流子
+non equilibrium ionization   &&   不平衡电离
+non equivalence element   &&   “异”门，“异”组件
+non equivalence interruption   &&   “异”中断
+non equivalent electrons   &&   非等效电子
+non ideal gas   &&   非理想气体
+non ideal system   &&   非理想系统
+non imaging concentrator   &&   不成像的聚光器
+non integral fuel tank   &&   非整体的燃料箱
+non interacting scattering of electromagnetic waves   &&   不交叉衍射的电磁波
+non intercooled cycle   &&   非间冷的循环
+non isoenergetic flow   &&   非等能流动
+non linear Landau damping   &&   非线性伦道阻尼
+non linear bremsstrahlung   &&   非线性韧致辐射
+non linear stability theory   &&   非线性稳定性试验
+non linear tearing mode   &&   非线性撕裂模式
+non linear theory of combustion instability   &&   燃烧不稳定性的非线性理论
+non mix flow exhaust   &&   非混合流排气
+non normality   &&   非正态性
+non perfect fluid   &&   非理想流体
+non polarized plane wave   &&   非极化平面波
+non polarized relay   &&   非极化继电器
+non polarized return-to-zero recording   &&   非极性规零制记录
+non propellant   &&   非推进剂
+non recoverable system   &&   不可回收的系统
+non return magnetometer   &&   无定向磁力仪
+non rotational imaging   &&   无旋转成象
+non simple wave   &&   非简单波
+non split stream injector   &&   无分流进样器
+non uniform plasma   &&   不均匀等离子体
+non uniform stream   &&   不均匀气流
+non viscous fluid   &&   非黏滞性流体
+non-1inear linearity   &&   非线性
+non-ALU operation   &&   非运算器操作
+non-Bessemer iron   &&   非贝氏铁(高磷铁)
+non-Hookean elastic behavior   &&   非胡克弹性行为，非线性弹性性能
+non-Hookean interaction   &&   非胡克式相互作用
+non-Newtonian character   &&   非牛顿特征
+non-Newtonian flow   &&   非牛顿流动
+non-Newtonian fluid   &&   非牛顿流体
+non-Newtonian liquid   &&   非牛顿液体
+non-SNA terminal   &&   非系统网络体系终端
+non-absorbent material   &&   非吸收性材料
+non-absorbent medium   &&   非吸收性介质
+non-absorbent oil   &&   不被吸收的油
+non-active redundancy   &&   非工作储备
+non-adapted nozzle   &&   不可调整的喷管
+non-add   &&   非加
+non-adherent material   &&   防黏剂
+non-aging alloy   &&   非时效合金
+non-aging steel   &&   非时效钢
+non-aging treatment   &&   非时效处理
+non-alkali glass fibre   &&   无碱玻璃纤维
+non-alloy steel   &&   碳素钢，非合金钢
+non-aqueous adhesive   &&   非水溶(型)黏合剂
+non-aqueous electrolyte   &&   非水电解质，有机电解质
+non-automatic  tripping   &&   非自动跳闸，非自动断开
+non-automatic extraction turbine   &&   非自动调节抽气式汽轮机
+non-automatic signal   &&   非自动信号机
+non-automatic switching   &&   非自动转换
+non-automatic system   &&   非自动制，非自动系统
+non-axiality   &&   不同轴性
+non-azeotropic mixture   &&   非共沸混合物
+non-azeotropic mixture refrigerants   &&   非共沸制冷混合工质
+non-black body   &&   非黑体
+non-blocking access   &&   不中断通路
+non-blocking switch   &&   非封锁转接设备
+non-bonding electron   &&   不成键电子
+non-breeding material   &&   非增殖材料
+non-busy condition   &&   非占线状态，非状忙态
+non-caking coal   &&   不黏结煤
+non-carbon oil   &&   无炭油，不含悬浮炭的润滑油
+non-carbonate hardness   &&   非碳酸盐硬度
+non-carrying tail   &&   无升力尾翼
+non-catalytic process   &&   非催化过程
+non-cellulosic fibre   &&   非纤维素纤维，合成纤维
+non-centralized communication system   &&   非集中式传输系统
+non-circular gear   &&   非圆齿轮，非标准齿轮
+non-circular gear mechanism   &&   非圆齿轮机构
+non-circular sliding surface   &&   非圆滑动表面
+non-circulatory flow   &&   非环流
+non-classical point   &&   非经典的临界点
+non-coaxial injector   &&   非共轴心的喷射器
+non-coaxial measurement   &&   不同轴度测量
+non-coherent radiation   &&   非相干辐射
+non-coherent scattering   &&   非共格散射，不相干散射
+non-coherent twin boundary   &&   非共格孪晶间界，非相干孪晶间界
+non-coking coal   &&   不结焦煤
+non-collinear vectors   &&   非共线矢量
+non-combustible element   &&   不燃物体
+non-combustible material   &&   不燃材料，不燃物质
+non-combustible matter   &&   不燃物
+non-combustible substance   &&   不燃物
+non-commutative integral   &&   非交换积分
+non-commutative ring   &&   非交换环
+non-concentricity   &&   不同心度
+non-condensing automatic extraction turbine   &&   背压(自动)调节抽气式汽轮机
+non-condensing bleeder turbine   &&   背压抽气式汽轮机
+non-condensing steam engine   &&   背压式蒸气机，不凝结蒸气机
+non-condensing turbine   &&   非凝汽式结气轮机
+non-conducting   &&   不导电的，绝缘的
+non-conducting material   &&   不传导物质，不导电材料，绝缘材料
+non-conductive fibre   &&   不导电纤维，绝缘纤维
+non-conductor   &&   非导体，不导电体
+non-conforming imputation   &&   不一致分配
+non-conformity   &&   不合格
+non-conservation   &&   不守恒(性)
+non-conservative motion   &&   非守恒运动
+non-consumable arc melting   &&   非自耗电弧熔炼
+non-consumable electrode   &&   非自耗电极，不熔化电极，非消耗电极
+non-consumable electrode inert-gas arc welding   &&   非熔化电极惰性气体保护焊，钨电极惰性气体保护焊
+non-consumable electrode melting   &&   永久电极熔炼(法)，钍钨电极熔炼(法)
+non-consumable-electrode arc melting   &&   非自耗电极电弧熔炼
+non-contact   &&   不接触
+non-contact fuse   &&   非触发引信
+non-contact ignition device   &&   无触点点火装置
+non-contact measurement method   &&   不接触测量法
+non-contact micrometer   &&   非接触型千分尺
+non-contact scanning detector   &&   非接触式扫描跟踪器
+non-contact seal   &&   非接触式密封，非标准齿轮
+non-contact thermometry   &&   非接触测温法
+non-contact type conductometer   &&   不接触式电导仪
+non-contacting measurement   &&   非接触性测量
+non-contamination fuel   &&   无污染燃料
+non-continuous phase   &&   不连续相
+non-continuous rolling roll   &&   非连续式轧机
+non-cooperative Walras equilibration   &&   非合作瓦尔拉斯平衡
+non-cooperative game   &&   非合作对策
+non-cooperative game in extensive form   &&   展开型中非合作对策
+non-cooperative game in normal form   &&   正规型中非合作对策
+non-coplanar force   &&   非共面力，非同面力
+non-core drilling   &&   不取心钻进
+non-corroding   &&   不锈的，抗蚀的，不腐蚀
+non-corrosive alloy   &&   抗蚀合金，不锈合金，不腐蚀合金
+non-corrosive fibre   &&   不腐蚀纤维
+non-corrosive material   &&   不锈材料，抗腐蚀材料
+non-corrosive pump   &&   耐腐蚀泵
+non-corrosive steel   &&   不锈钢，抗腐蚀钢
+non-corrosiveness   &&   不腐蚀性
+non-crucible zone-melting   &&   无坩埚区域熔炼
+non-crucible zone-melting furnace   &&   无坩埚区熔炉
+non-crystalline alloy   &&   非晶态合金
+non-crystalline chain orientation   &&   非晶性链段取向
+non-crystalline electrode   &&   非晶体电极
+non-crystalline material   &&   非晶材料
+non-crystalline phase   &&   非晶相
+non-crystalline polymer   &&   非结晶性树脂
+non-crystalline region   &&   非晶区
+non-crystalline semiconductor   &&   非晶态半导体，无定形半导体
+non-crystalline solid   &&   非结晶体，非晶态固体
+non-crystalline substance   &&   非晶态物质，非晶质
+non-crystalline system   &&   非晶态体系
+non-crystallizing rubber   &&   不结晶橡胶
+non-cutting stroke   &&   非切削行程
+non-cyanide plating   &&   无氰电镀
+non-cylindricity measurement   &&   不圆柱度测量
+non-deformed fibre   &&   不变形纤维
+non-deforming alloy   &&   不变形合金
+non-deforming region   &&   不变形区
+non-deforming steel   &&   不变形钢
+non-deforming tool steel   &&   不变形工具钢
+non-degenerate   &&   非简并，非退化
+non-degenerate state   &&   非简并态
+non-degenerate system   &&   非简并系统
+non-degenerated amplifier   &&   非简并放大器
+non-degenerated breakdown   &&   非破坏性击穿
+non-degenerated semiconductor   &&   非简并半导体
+non-degenerative basic feasible solution   &&   非退化基本可行解
+non-delimiter byte   &&   非定界字节
+non-destructive ADD instruction   &&   非破坏性“加”指令
+non-destructive AND instruction   &&   非破坏性“与”指令
+non-destructive XOR instruction   &&   非破坏性“异或”指令
+non-destructive analysis   &&   无损分析，非破坏性分析
+non-destructive compare instruction   &&   非破坏性比较指令
+non-destructive examination   &&   无损检验，非破坏性检验
+non-destructive flaw detection   &&   无损探伤，无损检验，非破坏性探伤
+non-destructive inspection   &&   无损检验，无损探伤，非(无)破坏检验
+non-destructive inspection equipment   &&   无损探伤设备，非破坏性探伤设备
+non-destructive inspection machine   &&   无损探伤机
+non-destructive laser analysis   &&   激光非破坏性检验，激光无损检验
+non-destructive measurement   &&   非破坏(性)测量(法)，无损测量法
+non-destructive measuring   &&   无损测量法，非破坏测定法
+non-destructive method   &&   无损探伤(法)，非破坏性探伤法
+non-destructive read   &&   非破坏性读出
+non-destructive readout memory   &&   非破坏性读出存储器
+non-destructive storage   &&   非破坏性存储器
+non-destructive test   &&   非破坏性试验，无损检验，无损探伤
+non-destructive test by rebound hammer   &&   回弹式无损探伤
+non-destructive test by resonance   &&   共振法无损探伤
+non-destructive test by γ-ray method   &&   γ射线无损探伤
+non-destructive testing   &&   无损探伤，非破坏性试验，无损检验
+non-destructive testing standard   &&   无损探伤标准
+non-detonating fuel   &&   不爆震燃料
+non-dimensional [relative] velocity   &&   无量纲(相对)速度
+non-dimensional parameter   &&   无量纲参数，无因次参数
+non-directional antenna   &&   无方向性天线，全方向辐射天线
+non-directional beacon   &&   全方向信标
+non-directional diode   &&   无方向性二极管
+non-dispersive delay line   &&   非色散延迟线
+non-dispersive infra-red gas analyzer   &&   非色散红外线气体分析器，NDIR气体分析器
+non-dispersive infrared   &&   红外线试验法[NDIR]
+non-dispersive medium   &&   非色散介质
+non-display-base word processing equipment   &&   无显示字处理设备
+non-drying oil   &&   非干性油
+non-ductile fracture   &&   非塑性破断，非延性断裂
+non-elastic collision   &&   非弹性碰撞
+non-elastic deformation   &&   非弹性变形
+non-electrolyte   &&   非电解质
+non-electrolytic nickel plating   &&   非电解镀镍
+non-engineering system simulation   &&   非工程系统仿真
+non-enveloped thermistor   &&   非密封型热敏电阻器
+non-equilibrium   &&   不平衡
+non-equilibrium composite   &&   非平衡态复合材料
+non-equilibrium condition   &&   非平衡条件
+non-equilibrium defect   &&   非平衡缺陷
+non-equilibrium effect   &&   非平衡效应
+non-equilibrium freezing   &&   非平衡凝固
+non-equilibrium lever rule   &&   不平衡杠杆定理
+non-equilibrium microstructure   &&   非平衡显微组织
+non-equilibrium plasma   &&   非平衡等离子体
+non-equilibrium plasma reactor   &&   不平衡等离子反应器
+non-equilibrium polycondensation   &&   非平衡缩聚
+non-equilibrium reaction kinetics   &&   不平衡反应动力学
+non-equilibrium solidification   &&   非平衡凝固
+non-equilibrium state   &&   不平衡状态
+non-equilibrium structure   &&   非平衡组织
+non-erasable memory   &&   非可清存储器，固定存储器，只读存储器
+non-erasable storage   &&   只读存储器，固定存储器，非可擦存储器
+non-erosive velocity   &&   不冲刷流速
+non-escaping key   &&   非换码键
+non-excited synchronous motor   &&   无励磁同步电动机
+non-existent arc   &&   不存在弧
+non-existent code   &&   非法代码，不存在代码
+non-expansion   &&   不膨胀
+non-expansion cycle   &&   不膨胀循环
+non-expansion steel   &&   不膨胀钢，殷钢
+non-feasible solution   &&   不可行解
+non-felting property   &&   不黏合性
+non-ferritic material   &&   非铁素体材料
+non-ferromagnetic material   &&   非铁磁性材料
+non-ferromagnetics   &&   非铁磁性
+non-ferrous   &&   非铁的，有色金属的
+non-ferrous alloy   &&   非铁合金，有色合金
+non-ferrous alloy electrode   &&   非铁合金焊条
+non-ferrous casting   &&   有色金属铸件
+non-ferrous electrode   &&   有色金属焊条
+non-ferrous melting furnace   &&   有色金属熔炉
+non-ferrous metal   &&   有色金属，非铁金属
+non-ferrous metal alloy   &&   有色金属合金，非铁金属合金
+non-ferrous metal deposit   &&   有色金属矿床
+non-ferrous metallurgy   &&   有色金属冶金(学)
+non-ferrous metals smelting   &&   有色金属冶炼
+non-ferrous metals smelting works   &&   有色金属冶炼厂
+non-flame fibre   &&   不燃性纤维
+non-flame property   &&   不燃性，防火性
+non-flammability   &&   不燃性
+non-flammable fibre   &&   不燃性纤维
+non-flammable material   &&   不易燃材料
+non-flammable property   &&   不燃性
+non-floating axle   &&   非浮式半轴
+non-flowing character   &&   不流动性
+non-foaming oil   &&   不起泡润滑油
+non-foaming test   &&   不起泡沫试验
+non-freezing explosive   &&   不冻炸药
+non-function type optic-fibre temperature transducer   &&   非功能型光纤温度传感器
+non-gas-shielded welding   &&   自保护焊，无气体保护焊
+non-geared crank press   &&   无齿轮传动曲柄压力机
+non-geared drive   &&   皮带直接传动
+non-geared inclinable crank press   &&   皮带直接传动可倾式曲柄压力机
+non-geared non-inclinable crank press   &&   皮带直接传动不可倾曲柄压力机
+non-generated gear   &&   非展成大轮
+non-glass-forming metallic oxide   &&   非玻璃形态金属氧化物
+non-good parts   &&   不良品
+non-graphitizing carbon   &&   非石墨化碳
+non-hardening polymer   &&   非固化聚合物
+non-heat-treated alloy   &&   非热处理合金
+non-homogeneity   &&   不均匀性
+non-hydraulic binding material   &&   非水硬性胶凝材料
+non-hydrocarbon fuel   &&   非碳氢燃料，非烃材料
+non-ideal MHD stability theory   &&   非理想磁流体动力学稳定理论
+non-ideal solution   &&   非理想溶液
+non-ignitibility   &&   不可燃性
+non-imaging type   &&   非镜像型
+non-impact printer   &&   非击打式打印机
+non-increasing function   &&   非增函数
+non-independent suspension   &&   整体轴悬架
+non-inductive capacitor   &&   无电感电路，非感性电路
+non-inductive coil   &&   无感线圈
+non-inductive load   &&   无感载荷
+non-inductive resistance   &&   无感电阻
+non-inductive resister   &&   无感电阻器
+non-inductive winding   &&   无感绕组
+non-inflammability   &&   不可燃性
+non-inflammable gas   &&   不燃烧气体
+non-inflammable insulator   &&   不燃烧绝缘体
+non-interacting control   &&   无相关控制
+non-interchangeable accessory   &&   不可互换附件
+non-interruptable instruction   &&   非可中断指令
+non-intrinsic detector   &&   非本征探测器
+non-inverting buffer   &&   不反相缓冲器，同相缓冲器
+non-inverting parametric device   &&   不倒相参量器件
+non-ionic compound   &&   非离子(性)化合物
+non-ionic surface active agent   &&   非离子型表面活性剂
+non-ionic surface-active agent   &&   非离子型表面活性剂
+non-ionic surfactant   &&   非离子型表面活性剂
+non-ionics   &&   非离子型表面活性剂
+non-isolated analogue input   &&   非隔离的模拟输入
+non-isolated system   &&   不独立系统，非孤立系统
+non-isothermal condition   &&   非等温条件
+non-isothermality   &&   非等温性
+non-isotropic body   &&   各向异性体
+non-knocking fuel   &&   不爆震燃料
+non-lifting tail   &&   无升力尾翼
+non-line conversion   &&   非线性转换
+non-linear amplifier   &&   非线性放大器
+non-linear behavior   &&   非线性特性
+non-linear capacitor   &&   非线性电容器
+non-linear channel   &&   非线性信道
+non-linear circuit   &&   非线性电路
+non-linear circuit component   &&   非线性电路组件
+non-linear code   &&   非线性码
+non-linear coil   &&   非线性线圈
+non-linear continuum mechanics   &&   非线性连续介质力学
+non-linear control   &&   非线性控制
+non-linear control system   &&   非线性控制系统
+non-linear coupler   &&   非线性偶合器
+non-linear coupling   &&   非线性偶合
+non-linear damping   &&   非线性阻尼
+non-linear detection   &&   非线性检波
+non-linear device   &&   非线性器件
+non-linear dielectric   &&   非线性电介质
+non-linear differential equation   &&   非线性微分方程
+non-linear distortion   &&   非线性畸变，非线性失真
+non-linear distortion factor   &&   非线性失真系数
+non-linear effects in plasma   &&   等离子非线性效应
+non-linear elastic behavior   &&   非线性弹性性质
+non-linear elastic relation   &&   非线性弹性关系
+non-linear element   &&   非线性组件
+non-linear equation   &&   非线性方程
+non-linear feedback   &&   非线性反馈
+non-linear feedback control system   &&   非线性反馈控制系统
+non-linear fibre configuration   &&   非线型纤维构型
+non-linear filter   &&   非线性滤波器
+non-linear filtering   &&   非线性滤波
+non-linear hyperbolic equation   &&   非线性双曲型方程
+non-linear induction   &&   非线性电感
+non-linear integral equation   &&   非线性积分方程
+non-linear integrated circuit   &&   非线性集成电路
+non-linear large-deformation theory   &&   非线性大形变理论
+non-linear material   &&   非线性材料
+non-linear mechanics   &&   非线性力学
+non-linear model   &&   非线性模型
+non-linear non-separable problem   &&   非线性不可分问题
+non-linear operational element   &&   非线性运算部件
+non-linear operator   &&   非线性算子
+non-linear operator theory   &&   非线性算子理论
+non-linear optics   &&   非线性光学
+non-linear oscillator   &&   非线性振荡器
+non-linear parabolic equation   &&   非线性抛物型方程
+non-linear partial differential equation   &&   非线性偏微分方程
+non-linear polarization   &&   非线性极化
+non-linear polymer   &&   非线型聚合物
+non-linear programming   &&   非线性规划[NLP]
+non-linear reactance   &&   非线性电抗
+non-linear reflection   &&   非线性反射
+non-linear regression   &&   非线性回归
+non-linear resistance   &&   非线性电阻
+non-linear semi-group   &&   非线性半群
+non-linear shift register   &&   非线性移位寄存器
+non-linear spring   &&   非线性弹簧
+non-linear stress-strain relation   &&   非线性应力-应变关系(式)
+non-linear structural analysis   &&   非线性结构分析
+non-linear system   &&   非线性系统
+non-linear taper   &&   非线性电阻分布特性
+non-linear theory   &&   非线性理论
+non-linear transformation   &&   非线性变换
+non-linear vibration   &&   非线性振动
+non-linear wave mechanics   &&   非线性波动力学
+non-linearity   &&   非线性
+non-loadable character set   &&   可空载字符集
+non-loaded lines   &&   空载线路
+non-local coupling   &&   非定域偶合
+non-lock   &&   不联锁，非锁定
+non-magnetic   &&   无磁性的
+non-magnetic alloy   &&   非磁性合金，无磁性合金
+non-magnetic cast iron   &&   无磁性铸铁，非磁性铸铁
+non-magnetic material   &&   无磁性材料，非磁性材料
+non-magnetic recording medium   &&   非磁记录介质
+non-magnetic steel   &&   无磁性钢
+non-magnetic strain gauge   &&   抗磁性应变计
+non-magnetics   &&   无磁性，非磁性
+non-maintenance time   &&   非维修时间
+non-mechanical optical switches   &&   光开关(非机械式)
+non-memory-reference instruction   &&   非存储器访问指令，非访存指令
+non-message-driven program   &&   非报文驱动程序
+non-metal   &&   非金属
+non-metal additive   &&   非金属添加剂
+non-metal bearing   &&   非金属轴承
+non-metal coating   &&   非金属覆盖层，非金属涂层
+non-metal deposit   &&   非金属矿床
+non-metal lining   &&   非金属衬层
+non-metal pump   &&   非金属泵
+non-metal transition   &&   非金属转变
+non-metal valve   &&   非金属阀
+non-metallic coating   &&   非金属覆盖层，非金属涂层
+non-metallic composite   &&   非金属复合材料
+non-metallic detector   &&   非金属探测器
+non-metallic element   &&   非金属元素
+non-metallic fibre-reinforced ceramics   &&   非金属纤维增强陶瓷
+non-metallic fibrous reinforcement   &&   非金属纤维加强
+non-metallic fusion point   &&   非金属熔点(或烧结点)
+non-metallic gauze   &&   非金属丝网
+non-metallic hard material   &&   非金属硬质材料
+non-metallic impurity   &&   非金属杂质
+non-metallic inclusion   &&   非金属掺杂物，非金属夹杂物(金属缺陷)
+non-metallic luster   &&   非金属光泽
+non-metallic material   &&   非金属材料
+non-metallic matrix composite   &&   非金属基复合材料，非金属复合材料
+non-metallic mineral   &&   非金属矿物
+non-metallic mould material   &&   非金属制模材料
+non-metallic sheathed cable   &&   非金属护皮电缆
+non-metallic whisker   &&   非金属须晶，非金属晶须
+non-metallics   &&   非金属夹杂物，非金属物质
+non-microprogrammed machine   &&   非微过程控制机
+non-military transformation   &&   非队列转变
+non-minimum-phase system   &&   非最小相系统
+non-monotonic utility function   &&   非单调效用函数
+non-negative number   &&   非负数
+non-nested family   &&   非成套类
+non-nested hypothesis   &&   非成套假设
+non-nested loop mode   &&   非嵌套循环方式
+non-nested model   &&   非嵌套模型
+non-network control program station   &&   非网络控制程序站
+non-nitroglycerin explosive   &&   非硝化甘油炸药
+non-nucleated structure   &&   非成核结构
+non-null class   &&   非空类
+non-numeric character   &&   非数字字符
+non-numeric literal   &&   非数字文字
+non-numeric operation   &&   非数字操作
+non-numerical application   &&   非数值应用
+non-operable instruction   &&   非操作指令
+non-order alloy   &&   无序合金
+non-oriented electrical steel   &&   无取向电工钢
+non-oriented fibre   &&   无取向纤维
+non-oriented film   &&   无取向薄膜
+non-oriented silicon steel   &&   无取向的硅钢
+non-oriented silicon steel sheet   &&   无取向硅钢片
+non-orthogonal coordinates system   &&   非正交坐标系
+non-oxide ceramics   &&   非氧化物陶瓷
+non-oxidizable alloy   &&   抗氧化合金
+non-oxidizing atmosphere   &&   非氧化性气氛
+non-oxidizing process   &&   不氧化法(电炉炼钢)，返回法(电炉炼钢)
+non-oxygen flux   &&   无氧焊剂
+non-parallelism measurement   &&   不平行度测量
+non-peak hours   &&   非高峰时间
+non-perfect elastic collision   &&   非完全弹性碰撞
+non-periodical variation   &&   非周期性变化
+non-planeness measurement   &&   不平度测量
+non-plastic fracture   &&   脆性破裂
+non-plastic material   &&   非塑性材料
+non-polar bond   &&   无极键，非极性键
+non-polar compound   &&   非极性化合物
+non-polar dynamo   &&   单极发电机
+non-polar gas   &&   非极性气体(热力)
+non-polar generator   &&   单极发电机
+non-polar molecule   &&   非极性分子
+non-polar polymer   &&   非极性聚合物
+non-polar solvent   &&   非极性溶剂
+non-polar structure   &&   非极性结构
+non-pollution technology   &&   无污染工艺
+non-polynomial Lagrange   &&   肌非多项式拉格朗日量
+non-porosity   &&   无孔性
+non-powered axle   &&   非驱动轴
+non-preemptive priority   &&   无抢先优先权
+non-preference   &&   非偏好(性)
+non-pressure regulating roller leveler   &&   不调压式多辊矫直机
+non-print   &&   禁止打印
+non-printable character   &&   非可印字符
+non-printing character   &&   非打印字符
+non-printing code   &&   非打印码
+non-priority interrupt   &&   非优先级中断
+non-procedural language   &&   非过程语言
+non-procedural-oriented language   &&   面向非过程语言
+non-productive pole   &&   辅助查询
+non-productive task   &&   辅助任务
+non-propagating crack   &&   不扩展裂纹
+non-radiative capture   &&   无辐射俘获
+non-radiative process   &&   无辐射过程
+non-radioactive electron capture detector   &&   无放射源电子捕获检测器
+non-ramming airscoop   &&   非冲压空气口
+non-random mixture   &&   非随机混合物
+non-random two liquid equation   &&   非随机双液方程
+non-reactive   &&   无电抗性的
+non-reactive atmosphere   &&   无反应气氛，惰性气氛
+non-reactive circuit   &&   无电抗电路
+non-reactive impedance   &&   无抗阻抗
+non-reactive suspension   &&   平衡式悬架
+non-reciprocal device   &&   非互易器件
+non-recuperative turbine   &&   非再热式涡轮机
+non-recursive filtering method   &&   非递推滤波方法
+non-reentrant code   &&   非重人代码
+non-reference line imaginary real amplitude receiver   &&   无参考线虚分量仪
+non-reflecting surface cell   &&   无反射表面光电池
+non-refractory alloy   &&   耐热性差的合金，非难熔的合金
+non-regularity singular point   &&   非正则奇点
+non-reheat turbine   &&   非再热式涡轮机
+non-relevant failure   &&   非关联失效
+non-resident software   &&   非驻留软件
+non-return flap   &&   止回瓣
+non-return state   &&   不返回状态
+non-return valve   &&   止回阀，单向阀，止回闸
+non-return-to-reference recording   &&   不归零记录
+non-return-to-zero   &&   不归零(制)
+non-reusable disk queuing   &&   不可重用的盘排队
+non-reversibility   &&   不可逆性
+non-reversible reaction   &&   不可逆反应
+non-reversing rolling mill   &&   不可逆式轧钢机
+non-sag structure   &&   不下垂结构
+non-salient pole alternator   &&   隐极交流发电机
+non-salient pole generator   &&   隐极式发电机
+non-salient pole machine   &&   隐极电机
+non-salient pole synchronous generator   &&   隐极同步发电机
+non-sawdust cutting   &&   无锯屑切削
+non-scaling alloy   &&   不起皮合金，不生氧化皮合金
+non-scaling property   &&   不起皮性
+non-scaling steel   &&   不起皮钢
+non-scan field   &&   非扫描字段
+non-scanning receiver   &&   非搜索式接收机
+non-searching self-adjusting system   &&   非搜索性自调整系统[NSAS]
+non-segmented machine   &&   非段式计算机
+non-segmented processor   &&   非段式处理机
+non-segregated alloy steel   &&   无偏析合金钢
+non-selective absorber   &&   中性滤光片，非选择性滤光片
+non-selective radiator   &&   非选择辐射体
+non-self-adjoint operator   &&   非自伴算子
+non-self-igniting fuel   &&   非自燃燃料
+non-serial dynamical programming   &&   非系列动态规划
+non-settling solid   &&   不沉降固体
+non-shared port   &&   非公用人口，单用户人口
+non-shatterable glass   &&   不碎玻璃，防震玻璃
+non-shattering glass   &&   不碎玻璃，防碎玻璃，层压玻璃
+non-shrink   &&   抗缩，不缩
+non-shrink treatment   &&   防缩处理
+non-shrinkage steel   &&   不收缩钢，不变形钢
+non-silicate glass   &&   非硅酸盐玻璃
+non-siliceous sand   &&   非硅质砂
+non-single-crystal substance   &&   非单晶物质
+non-skid   &&   防滑
+non-skid chain   &&   防滑链
+non-skid tyre   &&   防滑胎
+non-skinned fibre   &&   无皮层纤维，全心纤维
+non-slip   &&   防滑
+non-slip angle   &&   无滑移角(轧制时前滑与后滑的分界角)
+non-slip cumulative type wire-drawing machine   &&   无滑动蓄丝式拉丝机
+non-slip region   &&   无滑移区
+non-sliping block   &&   防滑块
+non-sliping chock   &&   防滑块
+non-slipping   &&   不滑移
+non-squareness measurement   &&   不垂直度测量
+non-stable strategy   &&   不稳定策略
+non-stagnation point ablation   &&   非驻点烧蚀
+non-staining property   &&   ①防污染性②不着色性
+non-standard analysis   &&   非标准分析
+non-standard model   &&   非标准模型
+non-standard operating condition   &&   非标准工作条件
+non-standard propagation   &&   反常传播
+non-stationary deformation   &&   非稳态变形
+non-stationary extrusion   &&   非稳态挤压
+non-stationary flow   &&   不稳定流，非稳定流
+non-stationary piercing   &&   非稳态冲孔
+non-stationary random vibration   &&   非平稳随机振动
+non-stationary system   &&   非平稳系统
+non-steady flow   &&   不稳定流，不恒定流
+non-steady state creep   &&   非定常蠕变
+non-stop operation   &&   连续操作
+non-stop runs   &&   连续工作
+non-stop train   &&   直达快车
+non-storage camera tube   &&   非存储式摄像管
+non-storage device   &&   无存储设备
+non-storage tube   &&   非存储式摄像管
+non-straightness measurement   &&   不直度测量
+non-strain aging steel   &&   无应变时效钢
+non-stretch   &&   无伸缩
+non-strictly competitive two person game   &&   不严格竞争二人对策
+non-structural weight   &&   非结构载重
+non-supercharged engine   &&   非增压发动机
+non-sweeping receiver   &&   非搜索式接收机
+non-switched line   &&   非转接线路
+non-symmetrical adjustment   &&   不对称调整
+non-synchronous   &&   异步的
+non-synchronous contactor   &&   异步接触器
+non-tapered aerofoil   &&   等弦翼面
+non-terminal double bond   &&   非末端双键
+non-terminal symbol   &&   非终结符号
+non-terminal-related main storage data base   &&   非终端相关主程序器数据库
+non-terminating decimal   &&   无尽小数
+non-tracking   &&   无(电花)径迹
+non-tracking concentrator   &&   非跟踪聚光器
+non-traditional machining   &&   特种加工
+non-traditional machining apparatus   &&   特种加工设备
+non-transferable utility   &&   不可转移效用
+non-transferred arc   &&   非转移弧，非过渡电弧
+non-transparency   &&   不透明性，不透明度
+non-uniform   &&   不均匀，不一致，非一致
+non-uniform beam   &&   ①变截面梁②非均匀激光束
+non-uniform electric field   &&   不均匀电场
+non-uniform encoding   &&   非线性编码
+non-uniform flow   &&   变速流，不等速流
+non-uniform magnetic field   &&   不均匀磁场
+non-uniform quenching   &&   不均匀淬火
+non-uniform scale   &&   不均匀刻度
+non-uniform section   &&   变截面(杆)
+non-uniform signal quantization   &&   不均匀信号质量
+non-uniform source of light   &&   不均匀光源
+non-uniform transmission line   &&   不均匀传输线
+non-uniform waveguide   &&   不均匀波导
+non-uniformity of chart speed   &&   纸速不均匀性
+non-uniformly convergent   &&   非(均)匀收敛，非一致收敛
+non-uniplanar bending   &&   异面弯曲
+non-unique alternate key   &&   非惟一交替键
+non-uniqueness   &&   非惟一性，不惟一性
+non-usable part   &&   无用部分
+non-vacuum electron beam welder   &&   非真空电子束焊机
+non-vanishing vector   &&   非零向量
+non-variant system   &&   无变量系
+non-vectored interrupt   &&   非向量中断
+non-vibrating   &&   不振动
+non-viscous lubrication   &&   非黏滞润滑
+non-volatile lubricant   &&   不挥发润滑剂(压铸)
+non-volatile mass storage   &&   非易失性海量存储器，非易失性大容量存储器
+non-volatile matter   &&   不挥发性物质
+non-volatile memory   &&   永久存储器，固定存储器，非易失性存储器
+non-volatile oil   &&   不挥发性油
+non-volatile storage   &&   非易失性存储器
+non-welding characteristic   &&   不焊合性，不可焊接性
+non-wire-wound potentiometer   &&   非线绕电位器
+non-wire-wound resistor   &&   非线绕电阻器
+nonaccessible internal register   &&   不可取数内部存储器
+nonacyclic compound   &&   九环化合物
+nonadaptive investigation delay policy   &&   不适应调查延迟策略
+nonadaptive search plan   &&   非适应搜索方案
+nonalloyable metal   &&   不能形成合金的金属，不熔合金属
+nonbasic variable   &&   非基本变量
+nonbonding MO   &&   非键分子轨道
+noncapacitive a.c. arc   &&   非电容性交流电弧
+noncharring ablator   &&   不炭化烧蚀材料
+noncoded graphics   &&   非编码图形学
+noncombat vehicle   &&   非战斗车辆
+noncommand terminal   &&   非命令终端
+noncompelled signalling   &&   非互控信号方式
+noncondensable gas   &&   不凝结气体
+nonconductivity   &&   不导电性
+nonconjunction   &&   “与非”
+nonconjunction gate   &&   “与非”门
+nonconnected storage   &&   非连接存储器
+nonconservative creep   &&   非守恒蠕变，非保守蠕变
+nonconservative process   &&   非守恒过程
+noncontact thermometer   &&   不接触式温度计
+noncontingent event   &&   非偶然事件
+noncontinuity   &&   非连续性
+noncooperative constant-sum game   &&   非合作常和对策
+noncorrodibility   &&   抗腐蚀能力，不腐蚀性，防腐性
+noncorrosive property   &&   不腐蚀性，抗腐蚀性
+noncrystalline thermoplastics   &&   不结晶热塑性塑料
+noncyclic code   &&   非循环码(阻抗)
+noncyclic variation   &&   非周期变化
+nondecomposable   &&   不可分解的
+nondecreasing function   &&   非减函数，非下降函数
+nondegeneracy   &&   非退化，非简并
+nondegenerate basic feasible solution   &&   非退化基本可行解
+nondestructive readout optical memory   &&   无损读出光存储器
+nondestructive test by ultrasonic method   &&   超声脉冲无损探伤
+nondestructive testing technique   &&   无损探伤法，非破坏性探伤技术
+nondeterministic Turing machine   &&   非确定性图灵机
+nondeterministic control system   &&   非确定性控制系统
+nondeterministic finite automaton   &&   非确定有限自动机
+nondeterministic model   &&   非确定性模型
+nondeterministic system   &&   非确定性系统
+nondiffraction X-ray spectrometer   &&   非衍射X射线光谱仪
+nondirectional antenna   &&   不定向天线
+nondirectional counter   &&   不定向计数器
+nondirectional ray   &&   无方向射线
+nondisjunction   &&   “或非”
+nondisjunction gate   &&   “或非”门
+nondissipative network   &&   无耗网络
+nondissipative stub   &&   无耗散短线
+nondominated solution   &&   非主导解
+nonencoded keyboard   &&   非编码键盘
+nonequilibrium state   &&   非平衡态
+nonequilibrium system   &&   非均衡系统
+nonequivalence element   &&   “异”门，“异”组件
+nonequivalence operation   &&   “异”操作，“异”运算
+nonexecutable statement   &&   非执行语句
+nonexhaust valve engine   &&   无排气门式发动机，无阀门式发动机
+nonferrous   &&   不含铁的，非铁的
+nonfissile material   &&   非裂变材料，不裂变材料
+nonflow shrinkage   &&   非流动收缩
+nonfunctional packages software   &&   非函数软件包
+nongalling property   &&   耐摩损性，耐擦伤性
+nonglassy refractory   &&   非玻璃质耐火材料
+nongroup code   &&   非群码
+nonhardening steel   &&   未淬透钢，未淬硬钢，未淬火钢
+nonhoming   &&   不归位
+nonhoming tuning system   &&   不归位调谐系统
+nonhomogeneous discovery rate   &&   非齐次发现率
+nonhomogeneous linear equation   &&   非齐次线性方程
+nonhomogeneous region   &&   非齐次区域
+nonhomogeneous search space   &&   非齐次搜索空间
+nonhomogeneous stress   &&   非均匀应力
+nonhomogeneous system   &&   非均匀系统
+nonideal filter   &&   非理想滤波器
+nonidentity operation   &&   不同运算
+nonintelligible crosstalk   &&   不可懂串音
+noninteracting control   &&   非相互作用控制
+noninterchangeability   &&   不可互换性
+nonius   &&   游标卡尺
+nonkey attribute   &&   非码属性
+nonlinear characteristics   &&   非线性特性
+nonlinear control system   &&   非线性控制系统
+nonlinear control system theory   &&   非线性控制系统理论
+nonlinear control theory   &&   非线性控制理论
+nonlinear deformation   &&   非线性变形
+nonlinear econometric model   &&   非线性计量经济模型
+nonlinear elastic theory   &&   非线性弹性理论
+nonlinear estimation   &&   非线性估计
+nonlinear fractional function   &&   非线性分式函数
+nonlinear interconnection matrix   &&   非线性互连矩阵
+nonlinear model   &&   非线性模型
+nonlinear network   &&   非线性网络
+nonlinear optimal control   &&   非线性最优控制
+nonlinear optimization   &&   非线性(最)优化
+nonlinear prediction   &&   非线性预报
+nonlinear programming   &&   非线性规划
+nonlinear recombination   &&   非线性复合
+nonlinear resistive network   &&   非线性电阻网络
+nonlinear scale   &&   非线性标度
+nonlinear system simulation   &&   非线性系统仿真
+nonlinear system stability   &&   非线性系统稳定性
+nonlinear time-varying model   &&   非线性时变模型
+nonlinear vibration   &&   非线性振动
+nonlinear visco-elasticity   &&   非线性黏弹性
+nonlinear viscous damping   &&   非线性粘性阻尼
+nonlinearity   &&   非线性
+nonlocalized bond   &&   非定域键
+nonlocalized molecular orbital   &&   非定域分子轨道
+nonloss decomposition   &&   无损分解
+nonlubricated compressor   &&   无润滑式压缩机
+nonmagnetic vessel   &&   无磁船
+nonmaskable interrupt   &&   非可屏蔽中断
+nonmetal-metal transition   &&   非金属-金属转变
+nonmetal-nonmetal eutectic alloy   &&   非金属-非金属共晶合金
+nonmetallic material testing machine   &&   非金属材料试验机
+nonmotile phase   &&   不动阶段，不动期
+nonmultiple switchboard   &&   简式交换机
+nonnatural language system   &&   非自然语言系统
+nonnegative matrix   &&   非负矩阵
+nonnegativity constraints   &&   非负性约束
+nonode   &&   九极管
+nonparallelism   &&   不平行度
+nonparametric hypothesis   &&   非参数假设
+nonparametric method   &&   非参数法
+nonparametric statistics   &&   非参数统计
+nonparametric test   &&   非参数检验
+nonpassage of signal   &&   信号闭塞，信号不通
+nonperpendicularity   &&   不垂直度
+nonpressure welding   &&   无压焊接，不加压焊接
+nonprime attribute   &&   非主属性
+nonprioritive scheduling   &&   无抢先调度
+nonprioritive service   &&   无抢先服务
+nonprogrammed decision making   &&   非程序决策制定
+nonprogrammed halt   &&   非程序停机
+nonrandomized risk set   &&   非随机化风险集
+nonreactive metal   &&   非(化学)活性金属
+nonreflective ink   &&   非反射墨水
+nonrenewable fuse unit   &&   不能更新熔断器
+nonreproducing code   &&   非复制码
+nonresonant antenna   &&   非共振天线
+nonresonant line   &&   非共振线
+nonreturn-to-zero   &&   不归零制[NRZ]
+nonrusting steel   &&   不锈钢
+nonscatterable glass   &&   安全玻璃，不碎玻璃
+nonselective absorption   &&   非选择吸收
+nonseparable graph   &&   不可分图
+nonsequential stochastic programming   &&   无顺序随机规划
+nonshared control unit   &&   非公用控制部件
+nonshorted contact switch   &&   不短接接触开关
+nonsignificant character   &&   无效字符
+nonsimultaneous transmission   &&   非同时传输
+nonsingular matrix   &&   非奇异矩阵
+nonsingularity   &&   非单一性，非奇异性
+nonsinusoidal waveform   &&   非正弦波形
+nonslip plane   &&   非滑移面
+nonslip wire-drawing machine   &&   无滑动多次拉丝机
+nonstandard gear   &&   非标准齿轮
+nonsteady flow   &&   不稳定流，非定常流
+nonsteady motion   &&   非定常运动
+nonsteady state   &&   不稳定态，非稳定态
+nonstereo specific polymer   &&   无规立构聚合物
+nonstoichiometric compound   &&   非化学式计量化合物
+nonstoichiometry   &&   非化学计量学
+nonstoichiometry oxide   &&   非化学计量氧化物，非理想配比氧化物
+nonstraightness   &&   不直度
+nonswitched connection   &&   非转接连接
+nonswitched point-to point line   &&   无转点到点线路
+nonsymmetrical network   &&   不对称网络
+nonsymmetrical section   &&   ①不对称断面②不对称型钢
+nonsynchronous data transmission channel   &&   异步数据传输通道
+nonsynchronous initiation   &&   不同步启动
+nonsynchronous timer   &&   异步定时器
+nontemporary data set   &&   永久数据组
+nonterminal vocabulary   &&   非终结符号表
+nonthermal decimetric emission   &&   非热分米波发射
+nonuniform cooling   &&   不均匀冷却
+nonuniform hardening   &&   不均匀淬火
+nonuniform heating   &&   不均匀加热
+nonuniform stress   &&   非均匀应力，不均匀应力
+nonuniformity   &&   不均匀性，不一致性
+nonvital circuit relay   &&   非安全电路继电器
+nonvolatility   &&   不挥发性
+nonwetting metal   &&   不湿润金属
+nonzero test function   &&   非零验测函数
+nor articulated streamline train of light weight   &&   自重型非关节流线型机车
+norm   &&   ①标准，规范，准则②范数，定额，模方
+norm management   &&   定额管理
+normagal   &&   铝镁耐火材料
+normal   &&   ①正态，正规，正常，法向，正交，垂直②标准，简正③中性的，法线，当量
+normal acceleration   &&   法向加速度，正交加速度
+normal algorithm   &&   正规算法
+normal ambient temperature   &&   标准环境温度
+normal approximation   &&   正态逼近法
+normal backlash   &&   法向齿隙，法向侧隙
+normal backlash tolerance   &&   法向侧隙公差
+normal barometer   &&   标准气压表
+normal base pitch   &&   法向基节
+normal beam technique   &&   垂直法
+normal beam testing   &&   垂直法
+normal boiling fluid   &&   正常流体
+normal boiling point   &&   正常沸点
+normal burning   &&   正常燃烧，法向燃烧
+normal burning speed   &&   正常燃烧速度，法向燃烧速度
+normal calomel electrode   &&   当量甘汞电极
+normal chordal addendum   &&   法向弦齿高
+normal chordal thickness   &&   法向弦齿厚
+normal circular pitch   &&   法面，法向周节，法面齿距
+normal circular thickness   &&   法向弧齿厚
+normal clearance   &&   正常间隙
+normal clearance angle   &&   法向后角
+normal close   &&   常闭(阀)，常断(阀)
+normal combustion   &&   完全燃烧，正常燃烧
+normal component   &&   法向分量
+normal component stress   &&   垂直分应力，法向应力(分量)
+normal compound   &&   正构化合物
+normal condition   &&   正常状态，正常情况，标准状态，标准条件
+normal cone   &&   正态锥面，标准锥面，法锥面
+normal consistency   &&   标准稠度
+normal contact ratio   &&   法向重合度
+normal control   &&   发动机前置的
+normal control field   &&   标准控制字段
+normal coordinate   &&   正规坐标，法坐标，简正坐标
+normal cross section   &&   正断面，正剖面，法向截面
+normal curve of distribution   &&   正规分布曲线
+normal density function   &&   正规密度函数
+normal depreciation   &&   正常折旧
+normal diametral pitch   &&   法向径节
+normal direction   &&   法线方向
+normal disconnected mode   &&   正常断开方式
+normal disjunctive form   &&   标准逻辑加法形式
+normal distribution   &&   正态分布
+normal dose contact   &&   常闭触点
+normal dose valve   &&   常闭阀，常关阀
+normal electrode   &&   标准电极
+normal electrode potential   &&   标准电极电位
+normal electron tunnelling   &&   正常隧道电子效应
+normal element   &&   标准电池
+normal emission   &&   正常发射
+normal engine speed   &&   正常发动机转速
+normal equation   &&   法(线)方程，正规方程
+normal flow   &&   正常流向，正规流向
+normal flow rate   &&   正常流量
+normal force   &&   法向力，正交力，法面压力角
+normal forging sequence   &&   正常锻造程序
+normal form   &&   范式，正规形式，正则
+normal freezing   &&   正常凝固
+normal frequency distribution   &&   正态频率分布
+normal fuzzy algorithm   &&   正规模糊算法
+normal fuzzy function   &&   正规模糊函数
+normal gas solution   &&   标准气体吸收液
+normal glow discharge   &&   正常辉光放电
+normal gross weight   &&   正常总重
+normal ground joint   &&   标准磨口接头
+normal hardness   &&   正常硬度
+normal hydrogen electrode   &&   标准氢电极
+normal impact   &&   垂直碰撞
+normal incidence   &&   法向入射，垂直入射，正入射
+normal incidence reactivity   &&   正射反射率
+normal jet   &&   普通烧嘴，标准烧嘴
+normal load   &&   ①垂直载荷、法向载荷②正常负载③正交负荷
+normal magnetic induction   &&   正常磁感应强度
+normal magnetization curve   &&   正常磁化曲线
+normal matrix   &&   正规矩阵
+normal mode   &&   ①简正模，正常模②正常方式
+normal mode frequency   &&   简正模频率
+normal mode vibration   &&   简正振动
+normal modes   &&   正态振型
+normal module   &&   法向模数，法面模数
+normal open contact   &&   常开触点
+normal operating conditions   &&   正常工作状态，正常工作条件
+normal operation   &&   ①正常操作②正常运行③正常运算
+normal operator   &&   正规算子
+normal orientation   &&   正常定向
+normal orifice   &&   标准孔板
+normal output   &&   正常输出
+normal parameters   &&   法面参数，法面
+normal pearlite   &&   正常珠光体，标准珠光体
+normal perpendicular load   &&   法向垂直负载
+normal pitch   &&   ①法向齿距②标准行距，标准间距③法向节距④法面压力角
+normal plane   &&   法面，法向齿距，垂直面，法(向)平面
+normal point   &&   正常点，正规点
+normal polarity   &&   正极性
+normal polarization   &&   常规极化
+normal potential   &&   标准电位(势)
+normal pressure   &&   常压，正常压力，法向压力
+normal pressure and temperature   &&   标准压力和温度，标准状态
+normal pressure angle   &&   正常压力角，法向压力角
+normal pressure distribution   &&   正常压力分布
+normal pressure reactor   &&   常压反应器
+normal pressure synthesis   &&   常压合成
+normal probability curve   &&   正态概率曲线
+normal probability function   &&   正态概率分布函数
+normal probe   &&   直探头
+normal process   &&   正态过程
+normal profile angle   &&   法向齿廓，法向齿形角
+normal random number   &&   正规随机数，正态随机数
+normal random process   &&   正规随机过程
+normal random variable   &&   正规随机变量
+normal range   &&   正常范围
+normal rated load   &&   标准额定负荷
+normal rated power   &&   额定功率
+normal rating   &&   正常额定值，额定出力
+normal reduction potential   &&   标准还原电势
+normal reflection   &&   正反射，垂直反射
+normal relief angle   &&   法向后角
+normal restart   &&   正常再启动
+normal revolution   &&   正常转数
+normal roll pressure   &&   轧辊正压力
+normal running   &&   正常运转，正常操作
+normal running condition   &&   正常工作条件正常运行条件
+normal rupture   &&   正常断裂
+normal sampling inspection   &&   正常抽样检查
+normal sand   &&   标准砂
+normal section   &&   法向截面，正剖面，正截面
+normal segregation   &&   正常偏析
+normal sequence   &&   正规序列
+normal service condition   &&   标准使用条件，正常使用条件
+normal shock diffusion   &&   正冲波扩散
+normal shock function   &&   正冲波函数
+normal shock wave   &&   正冲波
+normal shut-down   &&   正常停车
+normal solution   &&   ①规度溶液，当量溶液②正解
+normal space-width taper   &&   正常齿槽宽收缩
+normal speed   &&   正常速度
+normal spin   &&   正常旋转
+normal station   &&   普通站
+normal steel   &&   正常钢(珠光体全部为层状)
+normal steel casting   &&   普通铸钢
+normal stochastic process   &&   正态随机过程
+normal straight blades snips   &&   直刃剪
+normal strain   &&   正应变，法向应变，垂直应变
+normal stress   &&   法向应力，垂直应力，正应力
+normal stress difference   &&   法向应力差
+normal stroke   &&   正常行程
+normal structure   &&   正常组织，常化组织
+normal subgroup   &&   正规子群，不变子群
+normal temperature   &&   正常温度，标准温度
+normal temperature and pressure   &&   正常温度和压力，标准温度和压力
+normal temperature distribution   &&   正常温度分布
+normal temperature strain gauge   &&   常温应变计
+normal tension   &&   正常张力，法向拉力
+normal test mode   &&   正常测试方式
+normal thermometer   &&   标准温度表
+normal thickness taper   &&   正常齿厚收缩
+normal tilt   &&   法向刀倾
+normal tooth profile   &&   法向齿廓，法面压力角
+normal tooth thickness   &&   法向齿厚
+normal transport service data unit   &&   正常传输业务数据装置
+normal tree   &&   正规树，规范树
+normal uranium   &&   天然铀
+normal value   &&   正常值，额定值
+normal variable   &&   正常变量
+normal velocity   &&   法向速度
+normal viscosity   &&   正常黏度，标准黏度
+normal voltage   &&   正常电压，标准电压
+normal water level   &&   (正)常水位，多年平均水位
+normal wear   &&   正常磨损，正常损耗
+normal weight   &&   正常重量，规定量
+normal weld   &&   正常焊接，正常焊缝
+normal-mode helix   &&   简正模螺旋线
+normal-mode rejection ratio   &&   简正模抑制比
+normal-phase liquid chromatography   &&   正相液相色谱法
+normal-plate anemometer   &&   垂直叶板风速仪
+normal-superconducting contact   &&   正常超导接触
+normality   &&   ①常态，正规性，正态性，正常性②规定浓度，当量浓度
+normality condition   &&   正规性条件，正常性条件
+normalization   &&   ①正火，常化②除内应力，归一化③正规化，标准化④规格化
+normalization factor   &&   归一化因子
+normalization method   &&   归一法
+normalization microroutine   &&   规格化微程序
+normalization operation   &&   规格化操作
+normalization regulator   &&   归一化调节器
+normalize   &&   ①规格化，标准化，规范化②正火，正常化
+normalized Q   &&   归一化Q值
+normalized admittance   &&   归一化导纳
+normalized cost function   &&   正规化价值函数
+normalized coupling coefficient   &&   归一化耦合系数
+normalized erosion resistance   &&   正常磨蚀抗力
+normalized fuzzy entropy   &&   正规化模糊墒
+normalized game   &&   正规化对策
+normalized impedance   &&   归一化阻抗
+normalized mass spectrum   &&   归一化质谱
+normalized norm   &&   标准型，规范化形式
+normalized parameter   &&   归一化参量，正规化参量
+normalized priority   &&   标准优先权，一般优先权
+normalized reactance   &&   归一化电抗
+normalized resistance   &&   归一化电阻
+normalized steel   &&   正火钢
+normalized structure   &&   正火组织，常化组织
+normalized susceptance   &&   归一化电纳
+normalized tempering   &&   正常回火处理
+normalized tire force coefficient   &&   正常疲劳强度系数
+normalized voltage   &&   归一化电压
+normalizer   &&   正规化子
+normalizing   &&   ①正常化，归一化，规格化，标准化②正火，常化
+normalizing annealing   &&   常化退火
+normalizing condition   &&   归一化条件，正规条件
+normalizing furnace   &&   常化炉，正火炉
+normalizing line   &&   正火作业线，常化作业线
+normalizing parameter   &&   归一化参量，标准化参数
+normalizing steel   &&   正火钢
+normally   &&   通常地
+normally aspirated   &&   自然吸气
+normally closed contact   &&   常闭触点
+normally closed solenoid valve   &&   常关式电磁阀
+normally open solenoid valve   &&   常开式电磁阀
+normally open valve   &&   常开阀
+normally opened contact   &&   常开触点
+normative model   &&   标准模型，规范模型
+nose   &&   ①鼻②凸头，突出部分③焊缝根部面积，钝边面积(焊接用)④头部，刀具⑤前缘，机首，前舱
+nose ablation   &&   头部烧蚀
+nose angle   &&   刀角，刀尖角
+nose cap   &&   头罩(飞机的)
+nose cone   &&   头锥
+nose drag   &&   (机)鼻端阻力
+nose fuse   &&   弹头引信
+nose inlet   &&   机鼻进口
+nose landing gear   &&   前起落架
+nose radius   &&   刀尖圆弧半径
+nose temperature   &&   鼻温(热处理中C曲线的)
+nose time   &&   鼻温孕育期，最短孕育期
+nose wheel   &&   前轮(飞机的)
+nosing   &&   缩口，收口，缩颈
+not gauge   &&   止规，不通过规
+not included in physical inventory   &&   不列入盘点
+not-go gauge   &&   不通过量规
+not-go side   &&   止端
+notation   &&   ①符号，记法，标记(法)②记数法，计算制③代号，注释
+notch   &&   ①缺口，凹口②切口，刻槽③划道(缺陷)
+notch antenna   &&   切口天线
+notch bar test   &&   切口棒试验，缺口试棒试验
+notch bend test   &&   缺口试样弯曲试验
+notch breaking test   &&   缺口试样断裂试验
+notch brittleness   &&   缺口脆性
+notch brittleness test   &&   缺口脆性试验
+notch contraction ratio   &&   缺口收缩比
+notch cutting   &&   冲缺口，冲槽
+notch die   &&   开凹口模，冲缺口模
+notch ductile steel   &&   缺口延性钢，耐冲击钢，延韧钢
+notch ductility   &&   缺口延性，缺口韧性
+notch effect   &&   缺口效应
+notch embrittlement   &&   缺口脆性
+notch factor   &&   缺口(应力集中)系数
+notch fatigae test   &&   缺口疲劳试验
+notch fatigue   &&   缺口疲劳
+notch filter   &&   节点滤波器，陷波滤波器
+notch impact strength   &&   缺口冲击强度
+notch impact test   &&   缺口冲击试验
+notch mark   &&   対刻印
+notch sensitiveness   &&   缺口敏感性
+notch sensitivity   &&   缺口敏感度，缺口灵敏度
+notch strength   &&   缺口强度
+notch strength ratio   &&   缺口强度比
+notch stress   &&   缺口应力
+notch tensile ratio   &&   缺口拉伸强度比
+notch tensile strength   &&   缺口抗张强度
+notch tensile test   &&   缺口拉伸试验
+notch test   &&   缺口试验，刻痕试验(具有刻痕的抗折试验)
+notch toughness   &&   缺口轫性
+notch yield ratio   &&   缺口屈服强度比
+notch-bar fatigue test   &&   缺口试样疲劳试验
+notch-bar impact strength   &&   缺口试样冲击值
+notch-bar impact test   &&   缺口试样冲击试验
+notch-brittle   &&   缺口脆性
+notch-sensitive material   &&   缺口敏感材料
+notchback   &&   舱背式
+notched bar   &&   缺口试棒
+notched bar test   &&   缺口(冲击)试验
+notched bending test   &&   缺口试样弯曲试验
+notched effect   &&   缺口效应
+notched furnace   &&   锯齿底炉
+notched impact specimen   &&   缺口冲击试样
+notched impact test   &&   缺口冲击试验
+notched ingot   &&   带缺口的铸锭
+notched izod test   &&   缺口冲击试验，缺口伊佐试验
+notched sample   &&   刻槽试件
+notched specimen   &&   缺口试样
+notched tensile strength   &&   缺口抗张强度，缺口拉伸强度
+notched-bar bend test   &&   缺口试样弯曲试验
+notched-bar impact fatigue test   &&   缺口试样冲击疲劳试验
+notched-bar impact property   &&   缺口试样冲击性能
+notched-bar impact test   &&   缺口试样冲击试验
+notched-bar pull test   &&   缺口试样拉力试验
+notched-bar tensile test   &&   缺口试样拉伸试验
+notched-bar toughness   &&   缺口试样韧性
+notched-bar value   &&   缺口试样冲击值
+notched-value   &&   缺口冲击值
+notching   &&   ①成凹口，做凹口②切口③多级的
+notching die   &&   冲缺口模
+notching press   &&   冲槽(压力)机，冲切口(压力)机
+notching punch   &&   冲槽凸模，冲缺口凸模
+notebook computer   &&   笔记本计算机
+notes   &&   说明
+noughts complement   &&   补码
+novar   &&   束射功率管
+novel material   &&   新型材料
+novelty saw   &&   刨削锯
+novice   &&   新手，初学者
+nowel   &&   下型箱，底箱
+noxious gas   &&   有害(毒)气体
+nozzle   &&   ①漏嘴，喷口，喷嘴，喷头，喷油嘴，注口，注嘴②出铁口(铸)③纺丝头，喷丝帽
+nozzle ablation   &&   喷管烧蚀
+nozzle accelerating pump   &&   加速泵喷管
+nozzle adiabatic efficiency   &&   喷管绝热效率
+nozzle area ratio   &&   喷管面积比
+nozzle blade   &&   喷管叶片
+nozzle cascade   &&   喷管叶栅
+nozzle characteristics   &&   喷管特性
+nozzle choking   &&   喷管阻塞
+nozzle closure   &&   喷嘴隔板
+nozzle control   &&   喷管调节
+nozzle cooling rate   &&   喷管冷却率
+nozzle diaphragm   &&   喷嘴隔板，喷管挡栅板，喷嘴环
+nozzle divergence angle   &&   喷管扩张角
+nozzle edge   &&   喷嘴斜切边
+nozzle entry   &&   喷管进口
+nozzle exit   &&   喷管出口
+nozzle expansion   &&   喷管膨胀
+nozzle expansion ratio   &&   喷管膨胀比
+nozzle flame   &&   喷管火焰
+nozzle flow   &&   喷管流动
+nozzle guide vane   &&   喷管导叶
+nozzle head   &&   纺丝头，喷嘴
+nozzle hole   &&   喷管孔
+nozzle inlet   &&   喷管进口
+nozzle liner   &&   喷管衬套
+nozzle loss   &&   ①喷嘴烧损②喷管损失
+nozzle manifold   &&   多支喷嘴，注嘴分流腔
+nozzle mass flow   &&   喷管质量流量
+nozzle mass flow rate   &&   喷管质量流率
+nozzle out gas angle   &&   喷管出气角
+nozzle propulsion efficiency   &&   喷管推进效率
+nozzle ring   &&   喷嘴环
+nozzle seat   &&   注嘴座
+nozzle section   &&   喷嘴截面，喷嘴组
+nozzle shut off   &&   注嘴止流
+nozzle spray angle   &&   喷嘴喷射角
+nozzle testing stand   &&   喷嘴试验台
+nozzle throat   &&   喷管喉部
+nozzle throat area   &&   喷管喉部截面
+nozzle touching   &&   注嘴接触
+nozzle valve   &&   喷嘴阀
+nozzle vane   &&   喷管液片
+nozzle velocity coefficient   &&   喷管速度系数
+nozzle-pocket brick   &&   注口座砖
+np semiconductor   &&   np半导体
+npn semiconductor   &&   npn半导体
+npn transistor   &&   npn晶体管
+npnp transistor   &&   npnp晶体管
+nuclear atom   &&   核型原子，原子的核模型，含核原子
+nuclear atom theory   &&   含核原子学说
+nuclear battery   &&   核电池
+nuclear boiler   &&   核锅炉
+nuclear bomb   &&   核弹
+nuclear bombardment   &&   原子核轰击
+nuclear breeder   &&   核增殖反应堆
+nuclear capture   &&   核俘获
+nuclear centre   &&   原子核心
+nuclear charge   &&   核电荷
+nuclear device   &&   核装置
+nuclear diameter   &&   原子核直径
+nuclear dimension   &&   原子核大小
+nuclear disintegration   &&   原子核蜕变，原子核分裂
+nuclear drive   &&   核能动力驱动
+nuclear electric power generation   &&   原子能发电
+nuclear electric quadrupole moment resonance spectroscopy   &&   核四极共振波谱法
+nuclear emission   &&   核发射
+nuclear energy   &&   核能
+nuclear energy metal   &&   核能(工业用)金属
+nuclear energy power generation   &&   核能发电，原子能发电
+nuclear energy release   &&   核能释放
+nuclear energy steam turbine   &&   原子能汽轮机
+nuclear engine   &&   核发动机
+nuclear engineering   &&   核工程
+nuclear explosion   &&   核爆炸
+nuclear explosion wave   &&   核爆炸波
+nuclear ferromagnetism   &&   核铁磁原理
+nuclear fission   &&   (原子)核裂变，(原子)核分裂
+nuclear fission power source   &&   核裂变能源
+nuclear force   &&   (原子)核力，核子力
+nuclear fuel   &&   核燃料
+nuclear fuel ceramics   &&   核燃料陶瓷
+nuclear fuel conversion   &&   核燃料转换
+nuclear fuel fabrication plant   &&   核燃料制造厂
+nuclear fuel management   &&   核燃料管理
+nuclear fuel pellet   &&   核燃料心块
+nuclear fuel reprocessing   &&   核燃料再处理
+nuclear fuel reprocessing plant   &&   核燃料再处理厂
+nuclear fuel rocket   &&   核燃料火箭
+nuclear fusion   &&   核聚变
+nuclear gas turbine   &&   核能燃汽轮机
+nuclear growth   &&   晶核成长
+nuclear heat   &&   核热
+nuclear hydrogen production   &&   核能制氢
+nuclear industry   &&   核(能)工业，原子能工业
+nuclear instrument module   &&   核仪器模块[NIM]
+nuclear ion drive   &&   核离子驱动
+nuclear iron and steelmaking   &&   原子能炼铁炼钢
+nuclear isomer   &&   同核异性物，同核异构体，同质异能核
+nuclear magnetic double resonance   &&   核磁双共振(法)
+nuclear magnetic moment   &&   核磁矩
+nuclear magnetic relaxation   &&   原子核磁性弛豫
+nuclear magnetic resonance   &&   核磁共振(磁场给予原子核的自旋运动)[NMR]
+nuclear magnetic resonance  spectrometry   &&   核磁共振谱测定法
+nuclear magnetic resonance absorption   &&   核磁共振吸收
+nuclear magnetic resonance magnetometer   &&   核磁共振磁强计
+nuclear magnetic resonance spectrometer   &&   核磁共振谱仪
+nuclear magnetic resonance spectroscopy   &&   核磁共振波谱法
+nuclear magnetic resonance studies   &&   核磁共振研究
+nuclear magnetism   &&   核磁原理
+nuclear magneton   &&   核磁子(磁矩单位)
+nuclear mass   &&   核质量
+nuclear material   &&   核能材料
+nuclear metallurgy   &&   核冶金(学)
+nuclear paramagnetism   &&   核顺磁性
+nuclear particle   &&   核质点
+nuclear pellet   &&   核丸球，核燃料心块
+nuclear physics   &&   核物理
+nuclear pile   &&   核反应堆
+nuclear plasma drive   &&   核等离子推进
+nuclear plate   &&   核胶片
+nuclear power   &&   核能，原子能，核动力
+nuclear power plant   &&   核电站，原子能电站，核动力装置
+nuclear power plant metal anti-corrosion   &&   核电站金属防腐
+nuclear power rocket   &&   核动力火箭
+nuclear power source   &&   核能源
+nuclear power station   &&   原子能电站，核动力站
+nuclear power torpedo   &&   核动力鱼雷
+nuclear power unit   &&   核动力装置
+nuclear powered gas turbine   &&   核动力燃气轮机
+nuclear powered reciprocating engine   &&   核动力往复式发动机
+nuclear powered space ship   &&   核动力宇宙飞船
+nuclear precession magnetometer   &&   核子旋进磁力仪
+nuclear probability   &&   成核概率
+nuclear process heat   &&   核过程热
+nuclear propelled aircraft   &&   核动力推进飞机
+nuclear propulsion   &&   核动力推进
+nuclear quadrupole moment resonance   &&   核四极矩共振
+nuclear radiation   &&   核辐射
+nuclear radiation damage   &&   核辐射损伤
+nuclear radiation detector   &&   核辐射探测器
+nuclear radiation resistant bearing   &&   抗核辐射轴承
+nuclear radiation sensor   &&   核辐射式传感器
+nuclear radiation thickness meter   &&   核辐射厚度计
+nuclear radiation transducer   &&   核辐射式传感器
+nuclear ramjet   &&   核动力冲压发动机
+nuclear reaction   &&   核反应
+nuclear reactor   &&   核反应堆
+nuclear reactor art   &&   核反应堆技术
+nuclear reactor ceramics   &&   核反应堆陶瓷
+nuclear reactor engineering   &&   核反应堆工程学
+nuclear reactor instrumentation   &&   核反应堆测量设备
+nuclear reactor material   &&   核反应堆材料
+nuclear reactor period   &&   原子核反应堆周期
+nuclear rocket engine   &&   核火箭发动机
+nuclear ship   &&   核动力船
+nuclear spin   &&   (原子)核自旋
+nuclear spin cooling   &&   核自旋致冷
+nuclear spin quantum number   &&   核自旋量子数
+nuclear spin resonance   &&   核自旋共振
+nuclear spin thermometry   &&   核自旋量热计
+nuclear steam generator   &&   核蒸气发生器
+nuclear submarine   &&   核潜艇
+nuclear triode detector   &&   核三极探测器
+nuclear turbine   &&   核能透平，核能涡轮(机)
+nuclear turbojet   &&   核动力涡轮喷气发动机
+nuclear warhead   &&   核弹头
+nuclear waste   &&   核工业废水
+nuclear-electric propulsion   &&   核电推进装置
+nuclear-electric rocket engine   &&   核电火箭发动机
+nuclear-energy rocket   &&   核火箭，原子能火箭
+nuclear-magnetic-resonance spectroscopy   &&   核磁共振谱学
+nuclear-powered ship   &&   核动力船
+nuclear-powered submarine   &&   核潜艇
+nuclear-thermal rocket   &&   热核火箭
+nucleating agent   &&   孕育剂，成核剂，晶核试剂
+nucleating point   &&   晶核形成点，成核点
+nucleation   &&   生核，成核，晶核形成
+nucleation barrier   &&   成核势垒
+nucleation center   &&   成核中心
+nucleation curve   &&   成核曲线
+nucleation density   &&   成核密度
+nucleation effect   &&   成核作用
+nucleation mechanism   &&   成核机制
+nucleation of oxide   &&   氧化物晶核形成，氧化物核化(结晶中心)
+nucleation of slip   &&   滑移成核
+nucleation of solidifying metal   &&   凝固金属成核，凝固金属核化
+nucleation power   &&   形成晶核能力
+nucleation probability   &&   成核概率
+nucleation process   &&   核化过程，成核过程
+nucleation site   &&   成核座，成核位置
+nucleation stage   &&   核化阶段，成核阶段
+nucleation term   &&   成核项
+nucleation-and-growth transformation   &&   成核和成长转变
+nucleator   &&   成核剂
+nuclei counter   &&   计核器
+nucleon   &&   核子
+nucleon-nucleon collision   &&   核子-核子碰撞
+nucleonics   &&   核子学
+nucleus   &&   ①核，原子核②晶核，核心③环④核心程序
+nucleus initialization program   &&   核心初始化程序[NIP]
+nucleus of condensation   &&   凝结核
+nucleus of crystal   &&   晶核，结晶中心
+nucleus of crystallization   &&   结晶核
+nucleus reaction control system   &&   核反应控制系统[NRCS]
+nucleus-magnetism-resonance magnetometer   &&   核磁共振磁力仪
+nude atom   &&   裸原子(高温下失掉电子的原子)
+nude source   &&   裸式离子源
+nuevite   &&   铌钇矿
+nugget   &&   焊珠，熔核，点焊熔核
+nuisanceless technology   &&   无公害工艺，无污染工艺
+null   &&   ①空值②零，零位③空，空行
+null adjustment   &&   零位调整
+null and void   &&   无效，作废
+null character   &&   空字符，零字符
+null cycle   &&   空转周期
+null detection   &&   ①零值测试②零值指示
+null event   &&   空事件，零事件
+null filed   &&   空字段
+null graph   &&   零图，空图
+null hypothesis   &&   零假设，虚假设，解消假设
+null indicator   &&   零位指示器，示零器
+null line   &&   零线，空行
+null locator value   &&   空定位符值
+null matrix   &&   零矩阵
+null measurement   &&   指零测量
+null method   &&   零位法
+null method of measurement   &&   零位测量法，指零测量法，零差测量法
+null output message   &&   空输出报文
+null position   &&   零位
+null reading method   &&   零读法
+null record   &&   空记录
+null recurrent   &&   零循环，零递归
+null sequence   &&   零序列
+null set   &&   空集，零集
+null setting device   &&   调零装置
+null space   &&   零空间
+null state   &&   零状态
+null statement   &&   空语句
+null string   &&   零字符串，空行
+null suppression   &&   零抑制，消去零
+null valence   &&   零价
+null vector   &&   零向量
+null word   &&   空字符
+null-current circuit   &&   零电流电路
+null-current measurement   &&   零电流测量
+nullity   &&   零度，零维
+number   &&   ①数，数字，数值，数目②号码，号数
+number data code   &&   数字数据代码
+number distribution function   &&   数分布函数
+number of ampere turns   &&   安匝数
+number of bit   &&   位数
+number of blows   &&   冲击次数
+number of degrees of freedom   &&   自由度数
+number of effective plate   &&   有效板数
+number of lockages   &&   过闸次数
+number of man-hour   &&   工时
+number of oscillations   &&   振动次数
+number of repeated bending   &&   反复弯曲次数
+number of revolutions   &&   转数
+number of strokes   &&   行程次数
+number of teeth   &&   齿数
+number of theoretical plate   &&   理论板数
+number of thread   &&   头数
+number of threads   &&   蜗杆头数
+number of turns   &&   匝数，转数
+number of waves   &&   波数
+number plate illuminating lamp   &&   牌照灯
+number record printer   &&   数字记录打印机
+number representation   &&   数的表示，数字表示法，记数
+number representation system   &&   记数系统
+number revolving stamp   &&   数字回转打印机
+number sequence   &&   数序，数字序列
+number system   &&   数制，数系，数字系统
+number theory   &&   数论
+number-average molecular weight   &&   数均分子量
+number-to-frequency converter   &&   数码-频率变换器
+number-to-position-to-voltage converter   &&   数码-位置-电压变换器
+number-to-time converter   &&   数码-时间变换器
+number-to-time-to-voltage converter   &&   数码-时间-电压变换器
+numbering area   &&   编号区
+numbering plan area code   &&   编号区代码[NPA]
+numbering system for steel   &&   钢号，钢材编号系统
+numeral   &&   数字，数字的
+numeral row   &&   数字行
+numeration   &&   记数，命数法
+numeration system   &&   数制，记数制，记数系统
+numerator   &&   ①计数器②分子
+numeric   &&   数字的
+numeric backspace character   &&   数字退格符[NSC]
+numeric bit data   &&   数字位数据
+numeric character   &&   数字符号
+numeric character data   &&   数字符号数据
+numeric character set   &&   数字符号集
+numeric character subset   &&   数字符号子集
+numeric code   &&   数字代码
+numeric code character set   &&   数字编码字符集
+numeric coding   &&   数字编码
+numeric computer   &&   数字计算机
+numeric constant   &&   数字常数
+numeric control   &&   数控
+numeric data   &&   数字数据
+numeric edited character set   &&   数字编辑符号集
+numeric field   &&   数字域
+numeric item   &&   数值项
+numeric key   &&   数字键
+numeric literal   &&   数值文字
+numeric pad   &&   数值插入
+numeric punch   &&   数字穿孔
+numeric representation   &&   数值表示
+numeric shift   &&   数值移位
+numeric space character   &&   数字空格符[NSC]
+numeric word   &&   数值字
+numerical   &&   数字的
+numerical algebra   &&   数值代数
+numerical analysis   &&   数值分析，计算方法
+numerical aperture   &&   数值孔径(显微镜)，数值口径[NA]
+numerical approximation   &&   数值逼近，数值近似
+numerical calculation   &&   数值计算
+numerical calculus   &&   数值计算，数值分析
+numerical check   &&   数值校验
+numerical control   &&   数(字)控(制)，数值控制
+numerical control computer   &&   数(字)控(制)计算机
+numerical control curing   &&   数控切削
+numerical control cutting machine   &&   数控切割机，数控机床
+numerical control equipment   &&   数控装置
+numerical control filament winder   &&   数控绕线机
+numerical control machine   &&   数控机床
+numerical control machine tool   &&   数控机床[NC]
+numerical control machining   &&   数控加工
+numerical control system   &&   数字控制系统
+numerical controlled machine tool   &&   数控机床
+numerical controlled plotter   &&   数控绘图机
+numerical controlled turret punch press   &&   数控回转冲头压力机
+numerical data   &&   数值数据
+numerical differentiation   &&   数值微分
+numerical display device   &&   数字显示装置
+numerical estimate   &&   数值估计
+numerical experiment   &&   数值实验
+numerical indicator   &&   数字管
+numerical integration   &&   数值积分
+numerical method   &&   数值解法，数值方法，数字方法，数值计算法
+numerical method analysis   &&   数值方法分析
+numerical model   &&   数值模式
+numerical quadrature   &&   数值积分
+numerical selector   &&   用户号码选择器
+numerical simulation   &&   数值模拟
+numerical solution   &&   数值解，近似解
+numerical solution technique   &&   数值解法
+numerical tape   &&   数字带
+numerical value   &&   数值
+numerical value of a quantity   &&   量的数值
+numerically controlled   &&   数字控制的
+numerically controlled boring machine   &&   数控镗床
+numerically controlled drilling machine   &&   数控钻床
+numerically controlled engine lathe   &&   数控普通车床
+numerically controlled filament-winding machine   &&   数控绕线机
+numerically controlled grinding machine   &&   数控磨床
+numerically controlled machine tool   &&   数控机床
+numerically controlled metal forming machine   &&   数控锻压机械
+numerically controlled milling machine   &&   数(字)控(制)铣床，数控铣床
+numerically controlled punching machine   &&   数控冲床
+numerically controlled shears   &&   数控剪床
+numerically controlled turret lathe   &&   数控转塔车床
+numeroscope   &&   示数器
+nun-uniform motion   &&   变速运动，非均速运动
+nut   &&   螺母
+nut and lever steering   &&   蜗杆螺母式转向器
+nut bolt   &&   带帽螺栓
+nut cap   &&   螺帽盖
+nut driving machine   &&   拧螺母机
+nut facing lathe   &&   螺母端面加工车床
+nut forging machine   &&   螺母锻造机
+nut former   &&   螺母镦压机
+nut lathe   &&   螺母车床
+nut lock washer   &&   螺母锁紧垫圈
+nut machine   &&   螺母机
+nut mandrel   &&   螺母心轴
+nut piercing   &&   螺母冲孔
+nut press   &&   螺母压力机
+nut spanner   &&   螺母扳手
+nut spinner   &&   快动螺母扳手，自动螺母扳手
+nut tap   &&   螺母螺丝攻
+nut tapping machine   &&   螺母攻丝机
+nut wrench   &&   螺母扳手
+nutating disc flowmeter   &&   圆盘流量计
+nutating feed   &&   盘旋馈电
+nutating flowmeter   &&   章动流量计
+nutation drive   &&   偏摆传动，盘旋传动，摆动传动
+nutation drive unit   &&   章动传动装置
+nutation of gyroscope   &&   陀螺章动
+nutational drift of gyroscope   &&   陀螺章动漂移
+nutational theory of gyroscope   &&   陀螺章动理论
+nutrients   &&   营养盐
+nutrients analyzer for seawater   &&   海水营养盐分析器
+nuts   &&   螺帽
+nuvistor   &&   抗振管
+nylon   &&   耐纶，酰胺纤维，尼龙
+nylon insert lock nuts   &&   尼龙嵌入防松螺帽

@@ -1,0 +1,3237 @@
+H type cable   &&   (分相)屏蔽电缆
+H-engine   &&   H形发动机
+H-pattern shift   &&   H形导槽换档
+H-point   &&   H点
+H-waveguide   &&   H-波导
+H. Hertz equation   &&   赫兹公式
+HART   &&   (Highway Addressable Remote Transducer) 高速可寻址远程变换器
+HART Communication Foundation   &&   HART通信基金会
+HAZ   &&   (Heat Affected Zone) 热作用区
+HC   &&   (Hydrocarbons (collective term))  碳氢化合物(集合词)
+HCT   &&   (Hydrocarbon Trap) 碳氢化合物捕集器
+HDLC   &&   (High Level Data Link Control) 高级数据链路控制规程
+HGO   &&   (Heavy Gas Oil) 重柴油
+HGV   &&   (Heavy Goods Vehicle) 重型货车
+HIFI   &&   (High Fidelity) 高保真
+HMP   &&   (High Melting Point) 高熔点
+HOV   &&   (High Occupancy Vehicle) 大容量车辆
+HRH   &&   高减速比准双曲面齿轮(大于10:1的减速比)
+HSDI   &&   (High-Speed Direct Injection (diesel))    (柴油机)高速直喷
+HSU   &&   (Hartridge Smoke Units) 哈却奇烟度单位
+HT neon tester   &&   高压试电笔
+HT rectifying tube   &&   高压整流管
+HT testing transformer   &&   高压试验变压器
+HTA   &&   (Hydrogenated Tallow Amine) 加氢油脂胺
+HTDC testing transformer   &&   高压直流(绝缘漏泄)试验变压器
+HUCR   &&   (Highest Useful Compression Ratio) 最大有效压缩比
+HVDC   &&   (High Voltage Direct Current (transmission system)) 高压直流输电系统
+HVDC coupling station   &&   高压直流联接站
+HVDC coupling system   &&   高压直流联接系统，高压直流耦合系统
+HVDC testing transformer   &&   高压直流试验变压器
+HVDC transmission   &&   高压直流输电
+HVDC transmission line   &&   高压直流输电线路
+HVDC transmission substation   &&   高压直流输电变电所
+HVDC transmission system   &&   高压直流输电系统
+HVI   &&   (High Viscosity Index (lubricants，etc．)) (润滑油)高粘度指数
+HWFET   &&   (Highway Fuel Economy Test) 公路燃料经济性试验
+Hall MHD generator   &&   霍尔磁流体动力发电机
+Hall aluminum process   &&   霍尔制铝法
+Hall coefficient   &&   霍尔系数
+Hall constant   &&   霍尔常数
+Hall converter   &&   霍尔变换器
+Hall current   &&   霍尔电流
+Hall device   &&   霍尔器件
+Hall effect   &&   霍尔效应
+Hall effect displacement transducer   &&   霍尔效应磁强计，霍尔效应磁力仪
+Hall effect tachometric transducer   &&   霍尔效应式转速传感器
+Hall electric machine   &&   霍尔电机
+Hall electromotor   &&   霍尔电动机
+Hall element   &&   霍尔传感器，霍尔组件
+Hall field   &&   霍尔磁场
+Hall generator   &&   霍尔发生器
+Hall gyrator   &&   霍尔效应回转器
+Hall mobility   &&   霍尔迁移率
+Hall parameter   &&   霍尔参数
+Hall plate   &&   霍尔(效应)板
+Hall power meter   &&   霍尔功率计
+Hall process   &&   霍尔法(电瓶还原制金属铀块法)
+Hall three dimension structure   &&   霍尔三维结构
+Hall type pressure transducer   &&   霍尔式压力传感器
+Hall unit   &&   霍尔组件
+Hall voltage   &&   霍尔电压
+Hall's three dimensional morphology structure   &&   霍尔三维形态结构
+Hall-effect   &&   霍耳效应
+Hall-effect chopper   &&   霍尔效应斩波器
+Hall-effect directional relay   &&   霍尔效应方向继电器
+Hall-effect generator   &&   霍尔效应发生器
+Hall-effect gyrator   &&   霍尔效应回转器
+Hall-effect isolator   &&   霍尔效应隔离器
+Hall-effect magnetometer   &&   霍尔效应磁强计
+Hall-effect modulation   &&   霍尔效应调制
+Hall-effect modulator   &&   霍尔效应调制器
+Hall-effect multiplier   &&   霍尔效应乘法器
+Hall-effect power meter   &&   霍尔效应功率计
+Hall-effect relay   &&   霍尔效应继电器
+Hall-effect switch   &&   霍尔效应开关
+Hamilton's principle   &&   哈密顿原理
+Hamilton-jacobi-Bellman equation   &&   哈密顿-雅可比-贝尔曼方程
+Hamilton-jacobi-equation   &&   哈密顿-雅可比方程
+Hamiltonian circuit   &&   哈密顿回路
+Hamiltonian coordinate   &&   哈密顿坐标
+Hamiltonian cycle   &&   哈密顿圈
+Hamiltonian function   &&   哈密顿函数
+Hamiltonian line   &&   哈密顿线
+Hamiltonian operator   &&   哈密顿算符
+Hamiltonian path   &&   哈密顿路径
+Hamming bound   &&   汉明界
+Hamming code   &&   汉明码
+Hamming distance   &&   汉明距离(间距)
+Hamming weight   &&   汉明权
+Hamming window   &&   汉明窗口
+Hardinge conical mill   &&   哈丁格圆锥式球磨机
+Hardinge feeder-weigher   &&   哈丁格称量给料器
+Hardinge thickener   &&   哈丁格沉降槽
+Harman number   &&   哈特曼数
+Hartley   &&   哈脱莱(一种信息单位)
+Hartley circuit   &&   哈脱莱电路，电感耦合三点(振荡)电路
+Hartley oscillator   &&   哈脱莱式振荡器
+Hartman boundary layer   &&   哈特曼边界层
+Hartman diaphragm   &&   哈特曼光阑
+Hartman dispersion formula   &&   哈特曼色散公式
+Hartman flow   &&   哈特曼流动(等离子的)
+Hartman lines   &&   哈特曼线(一种应变缺陷)
+Hartman test   &&   哈特曼检验
+Hartree equation   &&   哈特里方程
+Hartree field   &&   哈特里场
+Hartree method   &&   哈特里方法
+Hartree units   &&   哈特里单位
+Hartree-Foch approximation   &&   哈特里-福克近似
+Hartree-Foch equation   &&   哈特里-福克方程
+Hash List   &&   哈希表
+Hasse graph   &&   哈塞图解
+Hay bridge   &&   海氏电桥
+Hayes transmission   &&   海斯传动
+He abundance   &&   氦丰度
+He-Cd Lasers   &&   氦镉激光
+He-Ne Lasers   &&   氦氖激光
+He-Ne laser   &&   氦氖激光器
+Heaviside bridge   &&   亥维赛电桥
+Heaviside calculus   &&   亥维赛运算微积
+Heaviside function   &&   亥维赛函数
+Heaviside layer   &&   亥维赛层
+Heaviside unit function   &&   亥维赛单位函数
+Hehnholtz double layer   &&   亥姆霍兹双电层
+Helmholtz coil   &&   亥姆霍兹线圈
+Helmholtz coils   &&   亥姆霍兹线圈
+Helmholtz equation   &&   亥姆霍兹方程
+Helmholtz flow   &&   亥姆霍兹流动
+Helmholtz free energy   &&   亥姆霍兹自由能
+Helmholtz function   &&   亥姆霍兹函数
+Helmholtz instability   &&   亥姆霍兹不稳定性
+Helmholtz principle of minimum energy dissipation   &&   亥姆霍兹最小能量损耗原理
+Helmholtz relation for solid deformation   &&   亥姆霍兹固体形变关系式
+Helmholtz resonator   &&   亥姆霍蒋共鸣器
+Helmholtz theorem   &&   亥姆霍兹定理
+Helmholtz wave   &&   亥姆霍兹波
+Helmholz resonator   &&   海姆霍兹谐振器
+Henckys stress equation   &&   汉基应力方程
+Henckys theory of small plastic   &&   汉基小塑性变形理论
+Henry's constant   &&   亨利常数
+Henry's law   &&   亨利定律
+Hertz   &&   赫兹(Hz)
+Hertz antenna   &&   赫兹天线
+Hertz dipole   &&   赫兹偶极子
+Hertz doublet   &&   赫兹偶极子
+Hertz effect   &&   赫兹效应
+Hertz law   &&   赫兹定律
+Hertz oscillator   &&   赫兹振荡器
+Hertzian vector   &&   赫兹矢量
+Hertzian wave   &&   赫兹波
+Hi-Fi amplifier   &&   高保真放大器
+Hi-Fi headphone   &&   高保真耳机
+Hi-Fi recorder   &&   高保真录音机
+Hi-pot test of SPS   &&   高源高压测试
+Hofmann degradation   &&   霍夫曼降解
+Hofmann reaction   &&   霍夫曼反应
+Hofmann's rule   &&   霍夫曼规则
+Hooke's  joint   &&   虎克万向节
+Hooke's joint   &&   胡克万向节
+Hooke's law   &&   胡克定律
+Hooper engine   &&   虎珀发动机
+Hotchkiss drive   &&   霍奇凯斯传动
+Huffman Tree   &&   哈夫曼树
+Huffman code   &&   霍夫曼码
+Hurtree   &&   哈特里(一种能量单位)
+Hydrocarbon   &&   烃 [HC]
+habitay   &&   水下居住室(舱)
+hack iron   &&   十字镐，鹤嘴锄
+hack-file   &&   ①手锯②刀锉
+hacked bolt   &&   棘螺栓
+hackling machine   &&   疏理机，梳棉机，梳麻机
+hackly-fracture   &&   锯齿形断口
+hacksaw   &&   弓锯，钢锯
+hacksaw blade   &&   弓锯条，钢锯条
+hacksaw cutter   &&   钢锯铣刀
+hacksaw machine   &&   弓锯床，锯床，金属锯床
+haematite   &&   赤铁矿
+hafnium   &&   铪Hf(72)
+hafnium oxide thin film capacitor   &&   氧化铪薄膜电容器
+hahnium   &&   Ha(105)
+hailer   &&   ①高声信号器②汽笛，电笛
+hair   &&   ①金属丝，游丝②微动弹簧③毛发
+hair checking   &&   发裂，发丝裂缝
+hair compasses   &&   弹簧圆规
+hair crack   &&   细裂缝，细裂纹，发裂
+hair cracking   &&   发纹，发裂，发丝裂缝
+hair dividers   &&   弹簧两脚规，弹簧分规
+hair hygrograph   &&   毛发湿度计
+hair hygrometer   &&   毛发湿度表
+hair line   &&   发纹
+hair spring   &&   ①游丝②丝极，灯丝③细弹簧
+hair-pin winding   &&   发卡形绕组
+hair-wire   &&   游丝
+hairline   &&   发丝，细缝
+hairline crack   &&   发裂，发丝裂缝
+hairpin   &&   发针，发卡
+hairpin valve spring   &&   发卡阀簧
+half  cab   &&   侧置驾驶室
+half adder   &&   半加法器
+half axle   &&   半轴
+half band width   &&   半带宽，半谱带宽度
+half block   &&   半数据块
+half breadth   &&   半宽(度)
+half bridge   &&   半电桥
+half bridge measurement   &&   半桥测量
+half capacity operation   &&   半负荷运行
+half coil   &&   半(节)线圈，线圈边，线棒
+half coil space   &&   半加感节距
+half crystal   &&   半晶体，半晶质玻璃
+half current   &&   半选电流
+half cycle   &&   半周(期)
+half cycle transmission   &&   半周传输
+half duplex transmission   &&   半双工传输
+half elliptic spring   &&   半椭圆弹簧
+half life   &&   半衰期
+half line   &&   半直线，半行
+half load   &&   半负载，半负荷
+half loading section   &&   半加感段
+half martensite   &&   半马氏体
+half mode   &&   半模型
+half mould   &&   半型，半模，敞口模
+half nut   &&   对开螺母，开合螺母，开缝螺母
+half open interval   &&   半开区间
+half path   &&   半通路
+half period   &&   半衰期
+half periodic solution   &&   半周期解
+half pitch winding   &&   半节距绕组，半节距绕法
+half plane   &&   半平面
+half polar line   &&   半极线
+half power   &&   半功率
+half power beamwidth   &&   半功率射束宽度
+half reaction   &&   半反应
+half rear axle   &&   半后轴
+half round file   &&   半圆锉
+half section   &&   半节
+half shaft   &&   半轴
+half side formula   &&   半边公式
+half space   &&   半空间
+half speed   &&   半速(度)
+half tap   &&   半抽头
+half tone   &&   ①半音度②半色调，中间色调③浓淡点图
+half tone characteristic   &&   半色调特性(传真通信)
+half tone method   &&   半色调法
+half tone screen   &&   半色调屏
+half turn   &&   半匝，半圈
+half voltage   &&   半电压
+half width   &&   半宽(度)
+half-anchor ear   &&   半锚杆环
+half-anchor pole   &&   半锚杆
+half-anchor tower   &&   半锚塔，半锚式杆架
+half-bubble   &&   半磁泡
+half-carry   &&   半进位
+half-cell   &&   ①半胞腔②半电池
+half-coiled winding   &&   半(节)线圈绕组(节)线圈绕法
+half-confocal cavity   &&   半共焦腔
+half-core-box core   &&   半边心盒制型心
+half-countersunk rivet head   &&   半埋头式铆钉头
+half-cupped fracture   &&   半环形断裂
+half-deflection method   &&   半偏转法
+half-die   &&   半型
+half-duplex   &&   半双工
+half-duplex channel   &&   半双工信道
+half-duplex circuit   &&   半双工电路
+half-duplex operation   &&   半双工操作，半双工通信
+half-duplex repeater   &&   半双工增音机，半双工中继器
+half-duplex service   &&   半双工服务
+half-duplex transmission   &&   半双工传输
+half-filled-shell effect   &&   半充满壳层效应
+half-floating axle   &&   半浮式半轴
+half-formed coil   &&   半成型线圈
+half-formed winding   &&   半成型绕组，半成型线卷
+half-full-shell effect   &&   半充满壳层效应
+half-line pulse   &&   半行脉冲
+half-load   &&   半载荷
+half-peak breadth   &&   半峰宽度
+half-peak width   &&   半峰宽度
+half-period average-current   &&   半周平均电流
+half-period average-value   &&   半周平均值
+half-period zone   &&   半周期带
+half-power frequency   &&   半功率频率
+half-power point   &&   半功率点
+half-power width   &&   半功率宽度
+half-reflecting mirror   &&   半反射镜
+half-round file   &&   半圆锉
+half-round head   &&   半圆头
+half-round head screw   &&   半圆头螺丝
+half-select   &&   半选
+half-select pulse   &&   半选脉冲
+half-shadow   &&   半影，半阴
+half-shift register   &&   半位移寄存器
+half-silvered mirrors   &&   半涂银面镜
+half-time emitter   &&   半时发送器，中间发送器
+half-trace   &&   半迹
+half-track   &&   半履带车辆
+half-track car   &&   半履带式车辆，半履带式汽车
+half-track tape   &&   半声道磁带
+half-track tape recorder   &&   半声道磁带录音机
+half-turn coil   &&   半匝线圈
+half-value layer   &&   半吸收层，半值层
+half-wave   &&   半波
+half-wave amplifier   &&   半波放大器
+half-wave antenna   &&   半波天线
+half-wave circuit   &&   半波(整流)电路
+half-wave dipole antenna   &&   半波偶极天线
+half-wave length   &&   半波长
+half-wave line   &&   半波线
+half-wave loss   &&   半波损失
+half-wave plate   &&   半波(晶)片
+half-wave potential   &&   半波电位
+half-wave radiator   &&   半波辐射器
+half-wave rectification   &&   半波整流
+half-wave rectifier   &&   半波整流器
+half-wave rectifier transformer   &&   半波整流变压器
+half-wave slit   &&   半波缝
+half-wave suppressor coil   &&   半波抑制线圈，半波线圈
+half-wave symmetry   &&   半波对称
+half-wave transformer   &&   半波变压器
+half-wave transmission   &&   半波传输
+half-wave transmission line   &&   半波传输线
+half-wave vibrator   &&   半波振动器
+half-wave voltage   &&   半波电压
+half-word   &&   半字，I/O buffer半字输人输出缓冲器
+half-word boundary   &&   半字界
+half-word buffer   &&   半字缓冲器
+half-write pulse   &&   半写脉冲
+halftoning   &&   半色调
+halide   &&   卤化物
+haling   &&   扒砂
+halo   &&   晕圈
+halogen   &&   卤(素)⑥
+halogen light sources   &&   卤素灯
+halogenated rubber   &&   卤化橡胶
+halogenated solvent   &&   卤化溶剂
+halogenating agent   &&   卤化剂
+halogenating reaction   &&   卤化反应
+halogenation   &&   卤化作用
+halogenide   &&   卤化物
+halt   &&   停机，停止，暂停
+halt indicator   &&   停机指示器
+halt input   &&   停机输入
+halt instruction   &&   停机指令
+halt mode   &&   停机状态
+halt switch   &&   停机开关，暂停开关
+halted state   &&   停机转台，暂停状态
+halving register   &&   平分寄存器
+hammer   &&   ①锤②冲击式凿岩机，铁锤
+hammer blow   &&   锤打，锤击
+hammer break   &&   锤形衔铁断路器
+hammer crusher   &&   锤式破碎机，锤碎机
+hammer drill   &&   ①风钻，冲击式钻机，凿岩机②锤钻
+hammer forging   &&   ①锤锻，自由锻造，冷锻加工②锤锻件，锻造锻件
+hammer head   &&   锤头，锻锤头，舂砂冲头
+hammer mill   &&   锤式粉碎机，锤磨机，锤碎机
+hammer ram   &&   ①锤头，风动铆钉锤②冲击活塞
+hammer test   &&   锤击试验
+hammer welding   &&   锻焊，锻接
+hammer-block   &&   春砂冲头
+hammer-head crane   &&   塔式起重机，锤头式起重机
+hammered iron   &&   熟铁，锻铁
+hammering   &&   锤击、锻打
+hammering method   &&   敲击法
+hammering type Brinell hardness tester   &&   锤击式布氏硬度计
+hand   &&   ①手②指针，箭头③(手)柄，手把④曲柄，臂，摇杆⑤方，侧，方位，方向，方面⑥转向
+hand adjustment   &&   手调节，手调整
+hand air pump   &&   手动气泵
+hand anemometer   &&   手持风速表，手持风速计
+hand assemble   &&   手工装配
+hand assembly language   &&   手工汇编语言
+hand bellow   &&   手风箱
+hand bender   &&   手动弯曲机
+hand blower   &&   手风箱
+hand brace   &&   手摇钻
+hand brake   &&   手刹车，手闸，手制动器
+hand burnishing   &&   手工抛光
+hand cable   &&   手携(轻便)电缆
+hand calculation   &&   手工计算
+hand calculator   &&   手工计算器
+hand capacitance   &&   手电容，接触电容
+hand capstan   &&   手摇绞车
+hand centrifuge   &&   手摇离心机
+hand chain   &&   手动链
+hand chaser   &&   手动螺纹板牙
+hand chisel   &&   手凿
+hand chuck   &&   手动卡盘
+hand clutch lever   &&   手动离合器杆
+hand computation   &&   手算
+hand computer   &&   手摇计算机
+hand control   &&   手动控制，人工控制
+hand control signal box   &&   手控信号台
+hand controlled   &&   手操纵
+hand controlled sprinkler   &&   手操纵喷灌器
+hand counter   &&   手控计数器
+hand crane   &&   手动起重机，手动起重器
+hand crank   &&   手动曲柄，手摇曲柄
+hand crusher   &&   手摇压碎机
+hand cutter   &&   手工刀具
+hand cutting tool   &&   手工刀具
+hand direction indicator   &&   手动示向器
+hand drill   &&   ①手持式风钻，手持式凿岩机②手(摇)钻③手推条播机
+hand driven generator   &&   手摇发电机
+hand elevator   &&   手拉升降机
+hand expansion valve   &&   手动膨胀阀
+hand face shield   &&   手握面罩
+hand feed   &&   手动进刀，手动进给
+hand feed punch   &&   人工馈送穿孔机，手工输入穿孔机
+hand feeding   &&   手工进料
+hand fettle   &&   手修炉
+hand file   &&   手锉
+hand finishing   &&   手工修润
+hand firing   &&   手烧
+hand forging   &&   手锻
+hand forming   &&   手工成形
+hand generator   &&   手摇发电机
+hand grenade   &&   手榴弹
+hand grenade component   &&   手榴弹构件
+hand grinder   &&   手砂轮机
+hand grip   &&   手柄，端包架
+hand hammer   &&   手锤
+hand hoist   &&   手动绞车
+hand hole   &&   ①手孔，探孔，检查孔②孔，筛眼③入孔，注入孔
+hand inertia starter   &&   手动惯性启动机
+hand insertion   &&   手工嵌线，手工下线
+hand interrupter   &&   手动断续器
+hand jack   &&   手动千斤顶，手力千斤顶
+hand knitted carpet loom   &&   手工地毯织机
+hand lamp   &&   行灯，手提灯
+hand lamp transformer   &&   手提灯变压器，行灯变压器
+hand lapping   &&   手工研磨
+hand lay-up   &&   手工涂敷
+hand level   &&   手持水准仪，手水准器
+hand lever   &&   柄，手柄，把手，手杆
+hand lever dimmer switch   &&   大灯变向开关的手柄
+hand lever parking brake   &&   驻车制动器手柄
+hand lever turn signal lamp switch   &&   转向灯开关
+hand lever wiper & washer switch   &&   刮水器与清洗器开关的手柄
+hand loom   &&   手织机
+hand lubrication   &&   手工润滑
+hand lubricator   &&   手动润滑器
+hand microtelephone   &&   手持微型电话机，手 持(式)送受话器
+hand miller   &&   手动铣床
+hand milling machine   &&   手动铣床
+hand mould   &&   手工铸模，手动塑模
+hand moulding   &&   手工模塑，手工造型
+hand of cutter   &&   刀盘方向
+hand of spiral   &&   螺旋方向
+hand oiler   &&   手油壶，手注油器
+hand picking   &&   手工挑选
+hand planer   &&   手刨
+hand potter's wheel   &&   手工陶车
+hand priming   &&   手启动
+hand pulley block   &&   手动滑轮组
+hand pump   &&   手动泵，手压泵，手摇泵
+hand punch   &&   ①冲凿②手动冲孔机
+hand radar   &&   轻便雷达，便携式雷达
+hand ram straight draw moulding machine   &&   手舂砂顶箱造型机
+hand rammer   &&   手砂舂
+hand ramming   &&   手工舂砂
+hand reamer   &&   手动扩孔器，手铰刀，手用铰刀
+hand receiver   &&   手持式受话器
+hand regulation   &&   手动调整，手调节
+hand revolution counter   &&   手持转速表
+hand riveting   &&   手铆，手工铆接
+hand riveting hammer   &&   手铆锤
+hand roller   &&   手压辊
+hand sampling   &&   手工取样
+hand saw   &&   手锯
+hand shaking   &&   ①符号交换②建立同步交换
+hand shears   &&   剪刀
+hand shovel   &&   手铲
+hand sprayer   &&   手动喷雾器
+hand sprinkler   &&   手喷水器，手喷雾器，手洒水器
+hand squeezer   &&   手动压实式造型机
+hand stamper   &&   手动打印装置
+hand start   &&   ①手起动②发动机手起动的机构
+hand starter   &&   手动启动机
+hand steering gear   &&   手动转向装置
+hand stoker   &&   手力加煤机
+hand syringe   &&   手注射器
+hand tachometer   &&   手持转数计
+hand tap   &&   手用螺丝攻，手用丝锥
+hand telephone set   &&   手持电话机
+hand threading tool   &&   手动螺纹刀具
+hand throttle control   &&   手风门，手动节气门，手动油门
+hand tool   &&   手动工具
+hand tools   &&   手工具
+hand torch   &&   ①手电筒②火炬，焊炬，切割机
+hand tracking   &&   人工跟踪
+hand trip switch   &&   手动跳闸开关
+hand tripping   &&   手动跳闸
+hand tuning   &&   手调谐
+hand vice   &&   手虎钳，手钳，老虎钳
+hand weld   &&   手工焊缝
+hand welding   &&   手工焊接
+hand wheel   &&   ①手轮②操作盘，绞盘，转向盘
+hand wheel handle   &&   手轮柄
+hand wheel nut   &&   手轮螺母
+hand wheel switch   &&   手轮开关
+hand winch   &&   手摇绞车
+hand winding   &&   手绕法
+hand writing   &&   手写体
+hand writing recognition   &&   手迹识别
+hand-coded analyzer   &&   手编分析程序
+hand-coded compiler   &&   手编编译程序
+hand-coded programming   &&   手编程序
+hand-controlled grass cutter   &&   手控剪草机
+hand-controlled regulator   &&   手控调整器
+hand-driven crab   &&   手动起重绞车
+hand-driven grinder   &&   手摇砂轮机
+hand-driven potter's wheel   &&   手动陶车
+hand-dynamo   &&   手摇发电机
+hand-fork truck   &&   手动叉式起重车
+hand-gear   &&   手动装置
+hand-hammer drill   &&   手持式风钻
+hand-held calculator   &&   手提计算器
+hand-held color image scanners   &&   手持式影像扫描器
+hand-held drill   &&   手持式风钻，手持式凿岩机
+hand-held laser bar code scanners   &&   手持式激光条码扫描器
+hand-held terminal   &&   手提终端
+hand-ladle   &&   端包
+hand-operated   &&   手操纵，手动
+hand-operated arc welding   &&   手工电弧焊
+hand-operated bending roll   &&   手动弯曲辊
+hand-operated brake valve   &&   手操纵制动阀
+hand-operated control   &&   手动控制
+hand-operated device   &&   手动装置
+hand-operated electric drill   &&   手动电钻
+hand-operated gear   &&   手动装置
+hand-operated mechanism   &&   手动(操作)机构
+hand-operated portable crane   &&   手动轻便起重机
+hand-operated regulator   &&   手动调节器
+hand-operated scale   &&   手动秤
+hand-operated starter   &&   手动启动器
+hand-operated switch   &&   手动开关
+hand-operated telephone   &&   手摇电话机
+hand-operated valve   &&   手动阀
+hand-operated winch   &&   手动绞车
+hand-operating mechanism   &&   手动(操作)机构
+hand-operation   &&   手操作，人工操作
+hand-power grinder   &&   手动磨床
+hand-power screw press   &&   手动螺旋压机
+hand-power screw punching press   &&   手动螺旋冲床
+hand-press   &&   手压机，手动压机，手摇印刷机
+hand-printed character recognition   &&   手写印刷体字符识别
+hand-printer   &&   手摇印刷机
+hand-propelled tripper   &&   手摇推进式倾料机
+hand-reach envelope   &&   伸手包迹
+hand-regulated arc lump   &&   手调弧光灯
+hand-reset   &&   手动复归，手动复位，人工重调
+hand-reset relay   &&   手动复位继电器，手动还原继电器
+hand-rock drill   &&   手持式凿岩机
+hand-rolling tester   &&   手动滚动试验机
+hand-screw   &&   手动螺杆，手力千斤顶，手动千斤顶
+hand-sorting   &&   手工分选
+hand-tool   &&   手工工具
+hand-written character   &&   手写体字符
+hand-written character recognition   &&   手写体字符识别
+hand-written compiler   &&   手编编译程序
+hand-written form   &&   手写体
+hand-written numeral recognition   &&   手写数字识别
+hand-written stroke recognition   &&   手写笔划识别
+handbrake   &&   手制动器
+handcar   &&   ①手摇车，手推车②(铁路)手动轨道车
+handcart   &&   手车，手拉小车，手推车
+handed lamp   &&   手提灯
+hander   &&   夹头，支持器，架，座
+handicraft   &&   手工
+handie-talkie   &&   手提步话机
+handing equipment   &&   装卸设备，输送设备
+handite   &&   含锰砂矿(组件)
+handle   &&   ①柄，手把，手柄②处理，操纵③句柄④处理码(用于性质对话方块)
+handle air blower   &&   手风箱
+handle bar   &&   ①把手(脚踏车等的)②操纵柄
+handle magneto   &&   手摇(永)磁(发)电机
+handle mold   &&   手持式模具
+handle stickling machine   &&   贴柄机
+handle with care   &&   小心轻放
+handle-type fuse   &&   把手式(保险)丝
+handler   &&   处理程序，处理器
+handling   &&   操作，处理，操纵，维护
+handling device   &&   装卸装置
+handling equipment   &&   装卸设备
+handling failure   &&   处理失效
+handling machinery   &&   装卸机械，运送机械
+handling time   &&   处理时间
+hands of worm   &&   蜗杆旋向
+hands-off   &&   手动断路，手拉闸
+handset   &&   ①(电话)听筒，送受话器，手提步话机②手持的小型装置
+handset telephone   &&   手提电话机
+handshake   &&   ①信号交换，“握手”联络方式②信号交换输入输出控制(器)
+handshake protocol   &&   “握手”协议，接续协议
+handshaking   &&   ①握手信号，交握②同步交换，信号交换
+handshaking procedure   &&   接续规程
+handwheel   &&   手轮机构
+handy digital tachometer   &&   手持式数字转速表
+handy ship   &&   轻便船
+handy-talkie   &&   (手持式)步谈机
+hang reamer   &&   手胶刀
+hangar   &&   ①机库(飞机的)②吊钩，吊架
+hanger bearing   &&   ①吊线，吊架，挂钩②吊轴承，悬挂支承
+hanger rod   &&   吊杆
+hanging mercury electrode   &&   悬汞电极
+hank of cable   &&   电缆盘
+harbour surveillance control radar   &&   港口监视指挥雷达
+hard X-rays   &&   硬射线
+hard alloy   &&   硬质合金
+hard alloy cutter   &&   硬质合金刀具
+hard alloy powder   &&   硬质合金粉末
+hard alloy steel   &&   超硬合金钢
+hard and free expansion sheet making plant   &&   硬板材及自由发泡板机组
+hard axis   &&   硬磁化轴
+hard bearing balancing machine   &&   硬支承平衡机
+hard black   &&   硬质炭黑
+hard brass   &&   硬黄铜
+hard breakdown   &&   刚性击穿，刚性破坏
+hard carbide   &&   硬质碳化物
+hard carbon black   &&   硬质炭黑
+hard chromium plating   &&   镀硬铬
+hard clamping   &&   硬性固定
+hard coal   &&   硬煤
+hard contact   &&   硬触点
+hard copper   &&   硬铜
+hard copy   &&   硬拷贝，复印文件
+hard copy numerical input   &&   硬拷贝数字输入
+hard copy output   &&   硬拷贝输出
+hard core   &&   核心硬件
+hard disk   &&   硬磁盘
+hard disk drive   &&   硬磁盘机
+hard drawn copper wire   &&   硬拉铜线
+hard electron   &&   硬电子，高能电子
+hard facing   &&   硬表面堆焊
+hard finishing   &&   硬齿面精加工
+hard fire   &&   高温烧成
+hard format   &&   硬格式
+hard lead alloy   &&   硬铅合金
+hard limited integrator   &&   硬限量积分器
+hard limiting   &&   硬性限制，硬限幅
+hard line   &&   直通线(测试用)
+hard links   &&   防辐射无线电通信线路
+hard magnet alloy   &&   硬磁合金
+hard magnetic material   &&   硬磁(性)材料
+hard magnetization direction   &&   难磁化方向
+hard material   &&   硬质材料
+hard metal   &&   硬质合金
+hard metal tool   &&   硬质合金刀具
+hard plug   &&   冷型火花塞
+hard radiation   &&   硬辐射
+hard rays   &&   硬射线
+hard rubber   &&   硬(质)橡胶
+hard sand match   &&   干砂假箱，干砂胎模
+hard sectored format   &&   硬扇区记录格式
+hard sectoring   &&   硬分段
+hard solder   &&   硬焊焊料，钎焊焊料
+hard soldering   &&   硬焊，钎焊
+hard soldering alloy   &&   硬焊合金，钎焊合金
+hard staple fibre   &&   硬性短纤维
+hard steel   &&   硬钢
+hard superconductor   &&   硬超导体
+hard surface mask   &&   硬表面掩模
+hard tube   &&   高真空电子管，硬性电子管
+hard vacuum   &&   高真空
+hard ware   &&   硬件
+hard wearing alloy   &&   耐磨合金
+hard winding   &&   硬绕组
+hard wire   &&   ①实线②钢丝，高碳钢丝
+hard wire telemetry   &&   有线遥测
+hard wired   &&   硬件连接的，硬件实现的，电路的
+hard wired control logic   &&   硬件实现的控制逻辑
+hard x-ray   &&   硬X射线，穿透能力强的X射线
+hard-burned refractory ware   &&   硬烧耐火器材，硬烧耐火制品
+hard-rubber article   &&   硬橡胶制品
+hard-rubber sheet   &&   硬橡胶板
+hard-tube pulser   &&   高真空电子管脉冲发生器
+hard-wired instruction   &&   硬连线指令
+hard-wired terminal   &&   硬连线终端
+hardcopy   &&   硬拷贝
+hardenability   &&   ①硬化性能②淬透性
+hardenability band   &&   淬透性带
+hardenability curve   &&   淬透性曲线，硬化性曲线
+hardenability testing   &&   淬透性试验
+hardened and tempered steel   &&   淬火回火钢
+hardened circuit   &&   硬化电路，耐辐射电路
+hardened face   &&   硬化表面
+hardened rubber   &&   硬化橡胶
+hardened steel   &&   硬化钢
+hardened structure   &&   淬火组织
+hardened surface layer   &&   淬硬表面层
+hardener   &&   硬化剂
+hardening   &&   ①凝固②硬化，硬化作用③淬火
+hardening agent   &&   ①硬化剂②淬火剂，淬火介质
+hardening alloy   &&   硬化合金
+hardening aluminium alloy   &&   硬化铝合金
+hardening and tempering   &&   调质
+hardening bath   &&   淬火槽，淬火池
+hardening depth   &&   淬硬(层)深度
+hardening furnace   &&   淬火炉，硬化炉
+hardening medium   &&   淬火介质
+hardening solid   &&   硬化固体
+hardening temperature   &&   硬化温度
+hardening yield value   &&   硬化屈服值
+hardness   &&   ①硬度②硬性③真空度(电子管的)
+hardness level   &&   硬度等级
+hardness meter   &&   硬度计
+hardness number   &&   硬度值
+hardness penetrator   &&   硬度压头
+hardness ratio factor   &&   硬度比系数
+hardness scale   &&   硬度标(度)
+hardness sensor   &&   硬度传感器
+hardness test   &&   硬度试验
+hardness tester   &&   硬度试验机，硬度计
+hardness transducer   &&   硬度传感器
+hardometer   &&   硬度计
+hardware   &&   ①硬件，硬设备②金属附件
+hardware algorithm   &&   硬件算法
+hardware architecture   &&   硬件体系结构
+hardware assembler   &&   ①硬件汇编程序②硬件汇编器
+hardware base address   &&   硬件基地址
+hardware check   &&   ①机器检查②硬件校验
+hardware compatibility   &&   设备兼容
+hardware compiler   &&   硬件编译程序
+hardware configuration   &&   硬件配置，设备配置
+hardware construction   &&   硬件结构
+hardware description language   &&   硬件描述语言
+hardware development   &&   硬件开发
+hardware diagnostic program   &&   硬件诊断程序
+hardware digital processing   &&   硬件数字处理
+hardware emulation cross compiler   &&   硬件仿真过渡编译程序，硬件仿真交叉编译程序
+hardware enhancement   &&   硬件充实，硬件增强
+hardware error recovery management system   &&   硬件错误恢复管理系统
+hardware evaluation   &&   硬件评价
+hardware instruction   &&   硬件指令
+hardware interrupt facility   &&   硬件中断设备
+hardware interrupt level   &&   硬件中断级
+hardware language   &&   硬件语言
+hardware layer   &&   硬件层
+hardware linetype   &&   硬件线型 硬体线型
+hardware lock   &&   保密锁 硬体锁
+hardware maintenance   &&   硬件维护，硬件维修
+hardware management   &&   硬件管理
+hardware microprocessor   &&   硬件微处理机
+hardware model   &&   硬件模型
+hardware modularity   &&   硬件模块化
+hardware module   &&   硬件模块
+hardware monitor   &&   硬件监视器
+hardware operation   &&   硬件操作
+hardware pattern generator   &&   硬件图形发生器
+hardware performance   &&   硬件性能
+hardware platform   &&   硬件平台
+hardware priority interrupt   &&   硬件优先中断
+hardware realization of operating system   &&   操作系统硬件实现
+hardware redundancy   &&   硬件冗余法
+hardware representation   &&   硬件表示，机器表示
+hardware requirement   &&   硬件需求 硬体需求
+hardware reset   &&   硬件复位
+hardware resource   &&   硬件资源
+hardware resource control   &&   硬件资源控制
+hardware return-address storage   &&   硬件返回地址寄存器
+hardware selection criteria   &&   硬件选择标准
+hardware stack   &&   硬件堆栈
+hardware structure   &&   硬件结构
+hardware support   &&   硬件支持，硬件支持
+hardware system availability   &&   硬件系统可用性
+hardware system reliability   &&   硬件系统可靠性
+hardware technology   &&   硬件技术
+hardware timer   &&   硬件计时器
+hardware word size   &&   硬件字长
+hardware-assisted high level debugging   &&   硬件辅助的高级调试
+hardware-augmented software   &&   增强硬件的软件
+hardware-augmented software recognition method   &&   增强硬件的软件识别法
+hardware-firmware environment   &&   硬件-固件环境
+hardware-firmware-software tradeoff   &&   硬件固件软件权衡
+hardware-like compatibility   &&   类硬件兼容性
+hardware-software   &&   硬件-软件
+hardware-software harmony   &&   硬软件协调
+hardware-software interaction   &&   硬件软件交互作用
+hardware-software interface   &&   硬件软件接口
+hardware-software support   &&   硬软件支援
+harmful gas   &&   有害气体
+harmful interference   &&   有害干扰
+harmonic   &&   谐波，谐振
+harmonic absorber   &&   谐波吸收器
+harmonic amplifier   &&   谐波放大器
+harmonic analysis   &&   谐波分析，调和分析
+harmonic analyzer   &&   谐波分析器
+harmonic antenna   &&   谐波天线
+harmonic attenuation   &&   谐波衰减
+harmonic average   &&   调和平均(数)
+harmonic balancer   &&   谐波平衡器，谐振减振器
+harmonic bunching   &&   谐波聚束
+harmonic coefficient   &&   调和系数
+harmonic compensation   &&   谐波补偿
+harmonic component   &&   谐波分量
+harmonic configuration   &&   调和构形
+harmonic conjugate   &&   谐和共轭量，调和共轭
+harmonic content   &&   谐波含量
+harmonic content of an a.c. power supply   &&   交流电源的谐波含量
+harmonic continuation   &&   调和开拓
+harmonic conversion transducer   &&   谐波变换换能器
+harmonic current   &&   谐波电流，正弦电流
+harmonic curve   &&   谐波曲线，正弦曲线，调和曲线
+harmonic damper   &&   谐波平衡器，谐振减振器
+harmonic detector   &&   谐波检波器
+harmonic displacement   &&   谐波位移
+harmonic distortion   &&   谐波畸变，谐波失真
+harmonic division   &&   调和分割
+harmonic drive   &&   谐波激励
+harmonic driving   &&   谐波传动
+harmonic eliminator   &&   谐波消遏器
+harmonic equation   &&   调和方程
+harmonic excitation   &&   谐波激励
+harmonic excluder   &&   谐波消除器
+harmonic field   &&   谐波场
+harmonic filter   &&   谐波滤波器
+harmonic filtering circuit   &&   谐波滤除电路
+harmonic filtration   &&   谐波过滤
+harmonic frequency   &&   谐波频率
+harmonic function   &&   调和函数
+harmonic gear   &&   谐波齿轮，斜齿圆柱齿轮
+harmonic generator   &&   ①谐波振荡器，谐波发生器②谐波传动
+harmonic group   &&   调和群
+harmonic induction engine   &&   谐波进气发动机
+harmonic interference   &&   谐波干扰
+harmonic leakage power   &&   谐波漏功率
+harmonic leakage reactance   &&   谐波漏电抗
+harmonic loss   &&   谐波损耗
+harmonic mean   &&   调和平均值
+harmonic measure   &&   调和测度
+harmonic mixer   &&   谐波混频器
+harmonic motion   &&   谐波运动，正弦运动
+harmonic number   &&   调和数
+harmonic oscillation   &&   谐波振荡
+harmonic oscillator   &&   ①谐波振荡器②调和振子
+harmonic power   &&   谐波功率
+harmonic producer   &&   谐波振荡器，谐波发生器
+harmonic ratio   &&   调和比
+harmonic search   &&   谐振追踪
+harmonic section   &&   调和分割
+harmonic series   &&   ①谐级数，调和级数②谐波系
+harmonic source   &&   谐波源
+harmonic speed changer   &&   谐波减速装置
+harmonic suppressor   &&   谐波抑制器
+harmonic sweep   &&   谐振扫描
+harmonic telephone ringer   &&   谐波电话振铃器
+harmonic test   &&   谐波试验
+harmonic vibration   &&   谐波振动，谐和振动
+harmonic wave   &&   谐波
+harmonic-restraint relay   &&   谐波抑制继电器
+harmonics   &&   ①谐波②调和函数
+harmonious control   &&   和谐控制
+harmonious deviation   &&   和谐偏差
+harmonious mean diameter   &&   调和平均径
+harmonious strategy   &&   和谐策略
+harmonious variable   &&   和谐变量
+harmony   &&   ①谐和②和声学③调和
+harness connector left   &&   接线插座左
+harness connector right   &&   接线插座右
+harness inlet   &&   线束孔
+harrow   &&   耙，耙路机
+harrower   &&   耙土机
+harvester   &&   收割机，收获机，采集机
+hash   &&   杂乱数据，杂乱信号，杂乱脉冲干扰
+hash address   &&   散列地址
+hash addressing   &&   散列编址，散列寻址
+hash code   &&   散列码，散列编码
+hash coding   &&   ①无规则编码，随机编码，散列编码②散列表
+hash file   &&   散列文件
+hash function   &&   哈希函数，散列函数
+hash index   &&   散列索引
+hashing   &&   散列法
+hat   &&   随机编码
+hatch   &&   ①升降口，人孔，舱口②升降孔，升降器(潜艇的)③图案填充，剖面线
+hatch areas   &&   填充区域 剖面区域
+hatch boundaries   &&   填充边界 剖面边界
+hatch crane   &&   舱口起重机
+hatch edit   &&   填充编辑，剖面线编辑
+hatch pattern   &&   填充图案 剖面线样式
+hatch square   &&   舱口
+hatch styles   &&   填充样式 剖面样式
+hatchback   &&   舱背式
+hatching   &&   剖面线
+hatching knurling   &&   网纹滚花
+hatchway   &&   ①舱口②升降口
+hatted code   &&   随机码
+haul   &&   牵引
+haulage   &&   拖力，牵引，牵引力
+haulage capacity   &&   牵引能力
+hauler   &&   ①绞车，卷扬机，起重机②运输机
+hauling capacity of locomotive   &&   机车载重量
+hauling engine   &&   ①牵运机②牵引机车，卷扬机
+hauling equipment   &&   牵引设备
+hauling winch   &&   升降绞车，曳引绞车，升降卷扬机
+hay carrier   &&   干草运输拖车，装草机
+hay chopper   &&   干草切碎机，铡草机
+hay cutter   &&   切草机，割草机
+hay grinder   &&   干草粉碎机
+hay mover   &&   割草机
+hay wire   &&   临时电线
+hay wiring   &&   临时布线
+hazard detection   &&   冒险检测
+hazard elimination   &&   冒险消除
+hazard warning lamp   &&   危险报警闪光灯
+hazard-free circuit   &&   无危险电路
+hazardless NAND network   &&   无冒险“与非”网络
+hazardous substances mark   &&   危险品包装标志
+hazchem   &&   危险化学品代号
+haze   &&   雾度，雾状
+hazing   &&   变模糊
+head   &&   ①机头②头，磁头，压力头③标题④头部，上部，顶部，端部
+head amplifier   &&   前置放大器
+head arm   &&   磁头臂
+head block   &&   ①制动轮，闸瓦②横杆
+head board   &&   前挡板
+head crash   &&   磁头碰撞
+head eraser   &&   磁头消磁器，磁头抹声器
+head face   &&   端面
+head fraction   &&   初馏分，最新馏分
+head gasket   &&   盖垫密片，汽缸盖衬
+head gate   &&   ①冒口，切头②进水闸口
+head gear   &&   ①头戴受话器，头戴听筒②头对减速齿轮副
+head housing   &&   头盖
+head lamp   &&   ①大灯，前灯②信号灯③照明灯
+head light   &&   ①前灯②信号灯③头灯(汽车的)
+head line   &&   标题
+head lining   &&   车顶织物衬里
+head load   &&   磁头加载
+head maker   &&   磁头标志
+head mounted displays   &&   头戴式显示器[HMD]
+head of nail   &&   钉帽
+head packer   &&   主包装机
+head phone   &&   头戴受话器，头戴听筒
+head pipe   &&   头节排气管
+head punch   &&   顶冲头
+head quarters landing ship   &&   登陆司令舰
+head quarters ship   &&   旗舰，司令舰，指挥舰
+head race   &&   头轴承
+head rest with adjusting device   &&   头枕及其调整装置
+head restraint   &&   头枕
+head shaft   &&   主动轴，驱动轴
+head space gas chromatography   &&   顶空气相色谱法
+head stock   &&   床头箱，机头，机头座
+head tank   &&   高位槽
+head valve   &&   顶阀
+head word   &&   标题
+head-capacity characteristic curve   &&   压头-容量特性曲线
+head-receiver   &&   头戴式耳机，头带式听筒，头戴受话器，头戴听筒
+head-up display   &&   挡风玻璃显示
+head-up displays   &&   抬头显示器[HUD]
+headband receiver   &&   头戴式耳机
+header   &&   ①标题②锻造机，顶锻机③内浇口
+header area   &&   标题区
+header blank   &&   镦锻坯料
+header boards   &&   前挡板
+header bolt   &&   冷镦螺栓，冷锻螺栓
+header byte   &&   首标字节
+header card   &&   标题卡片
+header entry   &&   标题项目
+header format   &&   标题格式
+header line   &&   标题行
+header message   &&   标题信息
+header record   &&   标题记录
+header segment   &&   标题段
+header statement   &&   标题语句
+header table   &&   标题表
+header tank   &&   高位槽，上首液槽
+header word   &&   标题字
+heading   &&   ①标题②顶锻③船首向(某瞬间的船首方向)
+heading angle   &&   横摆角
+heading card   &&   标题卡片
+heading die   &&   镦锻模，镦粗模
+heading line   &&   标题行
+heading machine   &&   压头机，镦头机，镦粗冷镦机，卷边机
+heading marker   &&   船首标志
+heading press   &&   压头机，镦头机，镦粗机
+heading solid die   &&   镦锻整体模
+heading split dies   &&   镦锻组合模
+heading statement   &&   标题语句
+heading tool   &&   头部镦锻工具，锻头工具
+headlamp   &&   前照灯
+headlamp beam switch   &&   前照灯变光开关
+headlamp switch   &&   大灯开关
+headless punch   &&   直柄冲头
+headlight   &&   前照灯
+headlining   &&   车顶织物衬里
+headrest   &&   头枕
+heads-up design   &&   轻松设计 抬头设计
+headset   &&   头戴式耳机，头带式听筒，头戴受话器，头戴听筒
+headstock   &&   床头箱，主轴箱
+heap sorting   &&   堆排序
+heart cam   &&   心形凸轮
+heart check   &&   心部裂纹，中心裂纹
+heart pacer   &&   心律电子脉冲调节器，起搏器
+heart sound sensor   &&   心音传感器
+heart sound transducer   &&   心音传感器
+hearth   &&   火炉，炉(子)，炉床，坩埚
+hearth bottom   &&   炉床
+heat   &&   ①热②熔炼，加热③热度，热量，热气
+heat absorbent   &&   热吸收剂
+heat absorbing glass   &&   热吸收玻璃
+heat absorption   &&   热吸收
+heat absorption rate of heating surface   &&   加热表面吸热率
+heat accumulator   &&   蓄热器
+heat actuated device   &&   热驱动装置
+heat affected zone   &&   热影响区，高热影响区(焊接件的)
+heat aging   &&   ①热效②热效试验
+heat alarm   &&   热报警，热警报
+heat balance   &&   热平衡
+heat balance chart   &&   热平衡图
+heat balance diagram   &&   热平衡图
+heat balance table   &&   热平衡表
+heat barrier   &&   热障，热载体
+heat booster   &&   加热器
+heat bridge   &&   热桥
+heat capacity   &&   热容量
+heat capacity ratio   &&   热容比
+heat carrying agent   &&   热载体
+heat carrying capacity   &&   载热容量，载热能力
+heat case   &&   电热箱
+heat coagulant   &&   热凝固剂
+heat coil   &&   ①加热旋管②热线圈，热熔线圈
+heat collapse   &&   热破坏
+heat compensation jacket   &&   热补偿夹套
+heat compensator   &&   热补偿器
+heat conducting   &&   导热
+heat conduction   &&   导热，热传导
+heat conduction system   &&   热传导系统
+heat conductivity   &&   导热性，热传导率，热传导性
+heat conductor   &&   导热体，热传导体
+heat consumption   &&   热耗，热量消耗
+heat control   &&   热控制，温度调节
+heat control valve   &&   调温阀，热量控制阀
+heat convection   &&   热对流
+heat conversion factor   &&   热换算因数
+heat couple coefficient   &&   热耦合系数
+heat crack   &&   热裂纹
+heat cracking   &&   热裂
+heat cure   &&   热硫化
+heat curing   &&   热硫化，热固化
+heat curing accelerator   &&   热硫化促进剂
+heat curing method   &&   热硫化法
+heat current   &&   热流
+heat cycle   &&   加热周期，热循环，热周期
+heat dam   &&   隔热槽活塞的环形切槽
+heat damage   &&   热害
+heat death   &&   热寂
+heat decomposition   &&   热分解
+heat deterioration   &&   加热老化
+heat diffusion   &&   热扩散
+heat dispersion   &&   热分散
+heat dissipation   &&   ①热散逸，热扩散②热传，散热
+heat distortion   &&   热变形
+heat distortion point   &&   热变形点
+heat distortion test   &&   热变形试验
+heat distribution   &&   热分布，热量分布，热分配
+heat drop   &&   热降，热落差
+heat effect   &&   热效应
+heat efficiency   &&   热效率
+heat emission   &&   热发射，热辐射，热量发射
+heat endurance   &&   耐热性
+heat energy   &&   热能
+heat engine   &&   热(力)机，热机
+heat engineering   &&   热工
+heat equation   &&   热方程
+heat equilibrium   &&   热平衡
+heat equivalent   &&   热当量
+heat equivalent of work   &&   热功当量
+heat erosion   &&   高温腐蚀，热腐蚀，热侵蚀
+heat exchange   &&   热交换
+heat exchanger   &&   热交换器，换热器
+heat exchanger duty   &&   热交换器负荷，热交换器热量
+heat exchanger ingot casting   &&   热交换法浇铸(硅)锭
+heat exchanger plate   &&   热交换板，热传板
+heat exchanger tube   &&   热交换感，传热管
+heat exchanging growth   &&   热交换生长法
+heat expansion   &&   热膨胀
+heat exposure   &&   热曝露
+heat fade   &&   热衰退，热衰落，热衰减
+heat flow   &&   热流
+heat flow balance   &&   热流平衡
+heat flow meter   &&   热流计
+heat flux   &&   热流量，热通量
+heat flux potential method   &&   热流势法
+heat flux sensor   &&   热流传感器
+heat flux transducer   &&   热流传感器
+heat flux vector   &&   热通量向量
+heat function   &&   热函
+heat index   &&   热指数
+heat inertia index   &&   热惰性指标
+heat interchange   &&   热交换
+heat load   &&   热负载
+heat loss   &&   热损耗，热损失，热消耗
+heat medium   &&   热媒
+heat of combustion   &&   燃烧热
+heat of emission   &&   发射热
+heat of evaporation   &&   蒸发热
+heat of fusion   &&   熔化热
+heat of mixing   &&   混合热
+heat of polymerization   &&   聚合热
+heat operator   &&   热传导算子，热算子
+heat penetration   &&   热渗透
+heat pipe   &&   热管
+heat polymer   &&   热聚合物
+heat polymerization   &&   热聚合
+heat polymerization rubber   &&   热聚合橡胶
+heat power plant   &&   火电厂，火力发电厂，火电站
+heat preserving furnaces   &&   保温炉
+heat productivity   &&   发热量
+heat pump   &&   热力泵
+heat radiation   &&   热辐射
+heat radiator   &&   热散射器
+heat range   &&   温变范围
+heat range index   &&   温变范围指数
+heat ray   &&   热线
+heat recovery   &&   热量回收
+heat recovery system   &&   热量回收系统
+heat recuperation   &&   热回收
+heat refining   &&   热精炼
+heat reflecting glass   &&   热反射玻璃
+heat rejection   &&   热消耗
+heat reservoir   &&   热库
+heat resistance   &&   热阻，耐热性
+heat run   &&   加热试验，耐热试验，热运行
+heat sensitive ferrite   &&   热敏铁氧体
+heat sensitive material   &&   热敏材料
+heat sensitivity   &&   热敏性
+heat sensitization   &&   热敏化(作用)
+heat sensitized mixing   &&   热敏混炼
+heat sensitizer   &&   热敏化剂
+heat sensitizing agent   &&   热敏化剂
+heat sensor   &&   热传感器
+heat shield   &&   隔热板，挡热罩
+heat shroud   &&   热挡板，热遮板
+heat softening   &&   热软化
+heat stability   &&   热稳定性，耐热性
+heat stabilization test   &&   热稳定试验
+heat stabilizer   &&   热稳定剂
+heat stretch   &&   热伸长
+heat stretched fibre   &&   热拉伸纤维
+heat summation   &&   热量总和
+heat supply network   &&   热网
+heat synchronization   &&   热传导同步化
+heat system   &&   热力系统
+heat tight machine   &&   耐热电机
+heat transfer   &&   传热，热传递
+heat transfer fluid   &&   导热流体
+heat transfer medium   &&   传热介质
+heat transfer oil   &&   传热油
+heat transfer salt   &&   传热盐
+heat transfer theory   &&   传热学
+heat transmission   &&   热传递
+heat treated glass window   &&   热处理玻璃观察窗
+heat treatment   &&   热处理
+heat treatment cycle curve   &&   热处理曲线
+heat treatment furnace   &&   热处理炉
+heat treatment oil   &&   热处理用油
+heat treatment structure   &&   热处理结构
+heat unit   &&   热单位[HU]
+heat utilization   &&   热利用
+heat utilization efficiency   &&   热利用效率
+heat value   &&   发热量，发热值，热值
+heat vulcanizate   &&   热硫化胶
+heat vulcanization   &&   热硫化
+heat waste   &&   热消耗
+heat-age discoloration   &&   热老化变色
+heat-ageing   &&   加热老化，热老化
+heat-bondable fibre   &&   热黏合纤维
+heat-capacity mapping mission   &&   热容量制图卫星[HCMM]
+heat-content   &&   含热量，热含量，热函
+heat-exchange coefficient   &&   热交换系数
+heat-exchange equipment   &&   热交换设备
+heat-exchanger circuit   &&   热交换器回路
+heat-flux differential scanning calorimeter   &&   热流型差示扫描量热仪
+heat-flux differential scanning calorimetry   &&   热流型差示扫描量热法
+heat-generating agent   &&   发热剂
+heat-insulating material   &&   热绝缘材料
+heat-power engineering   &&   热工学，热力工程
+heat-proof material   &&   耐热材料
+heat-removal mechanism   &&   排热设备
+heat-resistance fabric   &&   耐热织物
+heat-resistance test   &&   耐热试验
+heat-resistant coating   &&   耐热涂层
+heat-resistant material   &&   耐热材料
+heat-resistant motor   &&   高温电动机，耐热电动机
+heat-resistant paint   &&   耐热漆
+heat-resisting alloy   &&   耐热合金
+heat-resisting enamel paint   &&   耐热瓷漆
+heat-resisting glass   &&   耐热玻璃
+heat-resisting material   &&   耐热材料
+heat-seeking missile   &&   红外线寻的导弹
+heat-sensitive sensor   &&   热敏传感器
+heat-setting refractory   &&   热固耐火材料
+heat-stable antioxidant   &&   热稳定防老剂
+heat-stable material   &&   耐热材料
+heat-stable oil   &&   耐热油
+heat-treatment equipment   &&   热处理设备
+heat-variable resistor   &&   热敏电阻
+heated and cooled enclosed location   &&   升温和降温封闭场所
+heated diving suit   &&   加热潜水服
+heated gas sampler   &&   加热气体进样器
+heated intake   &&   进气加热系统
+heated nebulization chamber   &&   加热雾化室
+heated storage   &&   加热储藏器
+heater   &&   ①发热丝②加热器
+heater band   &&   加热片
+heater characteristic of X-ray tube   &&   X射线管灯丝特性
+heater core   &&   加热器芯
+heater pad   &&   加热板
+heater plate   &&   加热板
+heater transformer   &&   灯丝变压器
+heating alternator   &&   加热用同步发电机
+heating and shrinking equipment   &&   热套装置
+heating area   &&   加热面积
+heating arrangement   &&   加热装置
+heating block   &&   加热块
+heating by far infra-red radiation   &&   远红外辐射加热
+heating chamber   &&   加热室
+heating coil   &&   发热螺线，加热旋管
+heating curve determination   &&   升温曲线测定
+heating curve determination apparatus   &&   升温曲线测定仪
+heating curves   &&   加热曲线
+heating cycle   &&   加热循环，加热周期
+heating dehydration   &&   热法脱水
+heating deterioration   &&   加热老化
+heating drum   &&   加热滚筒
+heating effect of current   &&   电流热效应
+heating element   &&   发热组件，加热组件，发热体，加热器
+heating equipment   &&   加热设备
+heating facilities   &&   加热设备
+heating filament   &&   发热丝
+heating jacket   &&   加热夹套
+heating member   &&   加热体
+heating mould curing   &&   热模养护
+heating pipe line   &&   热力管道
+heating plant   &&   供暖设备
+heating plate   &&   热压板，加热板
+heating power   &&   发热能力，热力
+heating power supply   &&   热力供应
+heating pulse   &&   加热脉冲
+heating quantity of bomb cylinder   &&   弹筒发热量
+heating quantity of constant capacity on high position   &&   恒容高位发热量
+heating radiator   &&   热辐射器
+heating rate   &&   加热速率，升温速率
+heating rate curves   &&   加热速率曲线
+heating rating   &&   热功率
+heating resistor   &&   加热电阻器
+heating space   &&   加热空间
+heating steam   &&   加热蒸汽
+heating surface   &&   加热表面，加热面
+heating system   &&   加热系统
+heating test   &&   发热试验
+heating time   &&   加热时间
+heating treatment furnaces   &&   熔热处理炉
+heating unit   &&   发热组件，发热体
+heating up   &&   加热
+heating wire   &&   电热丝
+heavier-than-air aircraft   &&   重飞行器
+heavily tapered solid   &&   整体模蕊盒
+heavy aircraft fuel   &&   重型飞机燃料
+heavy and streamlined fish   &&   重型流线型拖曳体
+heavy artillery piece   &&   重炮
+heavy bob   &&   重锤
+heavy bombardment airplane   &&   重型轰炸机
+heavy bomber   &&   重轰炸机
+heavy breakdown crane   &&   大型救险起重机
+heavy cargo ship   &&   重货物运输船
+heavy case bomb   &&   厚壳炸弹
+heavy casting   &&   大型铸件
+heavy charge   &&   重质原料
+heavy crude oil   &&   重质石油
+heavy crude petroleum   &&   重质石油
+heavy current   &&   强电(流)，大电流
+heavy current engineering   &&   强电工程
+heavy current test   &&   强电试验
+heavy cut   &&   ①重馏分②重切削，强力切削
+heavy cutting   &&   强力切削
+heavy distillate   &&   重馏分
+heavy duty diesel engine oil   &&   重负载柴油机油 [HDDEO]
+heavy duty oil   &&   ①重荷润滑油②柴油机用高净化润滑油
+heavy duty rectifier   &&   大功率整流器
+heavy duty vehicle or lubricant   &&   重负载车辆或润滑油
+heavy duty wheel hub nuts   &&   重型车螺帽
+heavy element   &&   重元素
+heavy element chemistry   &&   重元素化学
+heavy feed   &&   强进刀
+heavy feed stock   &&   重质原料
+heavy field artillery   &&   重型野炮
+heavy forging   &&   重型锻件，大锻件
+heavy fraction   &&   重馏分
+heavy fuel   &&   高黏度燃料，重质燃料
+heavy gas oil   &&   重柴油
+heavy goods vehicle   &&   重载运输车辆[HGV]
+heavy gun   &&   重炮
+heavy haul railway   &&   重载铁路
+heavy haulage   &&   重载运输
+heavy hex nuts   &&   六角重型螺帽
+heavy hydrocarbon oil   &&   重质烃油
+heavy hydrogen   &&   重氢
+heavy ion   &&   重离子
+heavy ion accelerator   &&   重离子加速器
+heavy ion bombardment   &&   重离子轰击
+heavy ion sputtering   &&   重离子溅射
+heavy liquid residuum   &&   重质液体残油
+heavy load   &&   重负载
+heavy load relay   &&   重负载继电器
+heavy load test   &&   重载试验
+heavy locomotive   &&   重载牵引车
+heavy lorry   &&   重型载货汽车
+heavy machine gun   &&   重机关枪
+heavy merchant mill   &&   大型轧钢机
+heavy meson   &&   重介子
+heavy metal   &&   重金属
+heavy motor truck   &&   重型载货汽车
+heavy nucleus   &&   重核
+heavy oil   &&   重油
+heavy oil cracking   &&   重油裂化
+heavy oil engine   &&   重油机，柴油机
+heavy oil fraction   &&   重油馏分
+heavy oil heater   &&   重油加热炉
+heavy oil thermal power generation   &&   重油热力发电厂
+heavy padder   &&   重浸轧机
+heavy particle   &&   重粒子
+heavy plate mill   &&   厚板轧机
+heavy power   &&   大功率
+heavy pressure   &&   高压
+heavy recycle oil   &&   重质循环油
+heavy section casting   &&   厚璧铸件
+heavy section mill   &&   大型型钢轧机
+heavy sections   &&   大型型钢
+heavy statics   &&   强天电干扰
+heavy still bottoms   &&   重质残油
+heavy tar distillate   &&   重质焦油馏出物
+heavy traffic   &&   高负荷服务
+heavy truck   &&   重型卡车，重型载货汽车
+heavy type writer   &&   重型打字机
+heavy vehicle   &&   重型车辆
+heavy vessel   &&   重型容器
+heavy wall pressure vessel   &&   厚壁高压容器
+heavy water   &&   重水
+heavy water reactor   &&   重水反应堆
+heavy weapons   &&   重武器
+heavy-current control   &&   强电控制
+heavy-current relay   &&   强电继电器，大电流继电器
+heavy-duty   &&   ①重负载②重型③大功率(电)
+heavy-duty compressor   &&   重型压缩机
+heavy-duty contact   &&   重负载触点
+heavy-duty crane   &&   重型起重机
+heavy-duty diesel oil   &&   重型柴油
+heavy-duty drilling machine   &&   重型钻床，大功率钻床
+heavy-duty engine oil   &&   重型发动机油
+heavy-duty fork lift truck   &&   重型叉车
+heavy-duty gear   &&   重型齿轮
+heavy-duty generator   &&   大容量发电机，大型发电机
+heavy-duty grabber   &&   重型抓斗
+heavy-duty grinding wheel   &&   强力磨削砂轮
+heavy-duty jack   &&   重型千斤顶
+heavy-duty lathe   &&   重型车床
+heavy-duty lift truck   &&   重型装卸车，重型叉车
+heavy-duty loader   &&   重型装载机
+heavy-duty lorry   &&   重型载货汽车
+heavy-duty lubricating grease   &&   重型润滑脂
+heavy-duty machine tool   &&   重型机床
+heavy-duty machinery   &&   重型机械
+heavy-duty motor   &&   重型电动机，大功率电动机
+heavy-duty radial drilling machine   &&   重型摇臂钻床
+heavy-duty tool   &&   粗加工刀具
+heavy-duty truck   &&   重型卡车
+heavy-fluid washer   &&   重液洗矿机
+heavy-lift crane   &&   重型起重机
+heavy-lift derrick   &&   重型桅杆式起重机，重型吊杆
+heavy-load truck   &&   重型载货汽车
+heavy-service crane   &&   重型起重机
+heavy-type grab bucket   &&   重型抓斗
+hectorite   &&   汉克脱石，水辉石
+heel   &&   轮齿大端
+heel pattern   &&   大端接触
+heelboard   &&   踵板
+height   &&   高度
+height anomaly   &&   高程异常
+height datum   &&   高程基准
+height equivalent to a theoretical plate   &&   理论板高
+height gauge   &&   高度游标(卡)尺，高度(量)规，高度尺，高度规，测高规
+height of a transfer unit   &&   传质单元高度
+height of addendum   &&   齿顶高
+height of fuzzy set   &&   模糊集高
+height of light   &&   灯高
+height of tide   &&   潮高
+height of tooth   &&   齿高
+height series   &&   高度系列
+height strength nuts   &&   高张力螺帽
+height system   &&   高程系统
+height traverse   &&   高程导线
+heliarc   &&   氦弧
+heliarc welding   &&   氦弧焊(接)
+helical   &&   螺线，螺旋(空间的)
+helical antenna   &&   螺旋线天线
+helical beam antenna   &&   螺旋线定向天线
+helical bellows   &&   螺旋波纹管
+helical bevel gear   &&   螺旋锥齿轮
+helical coil   &&   螺旋形谐振器
+helical coil steam generator   &&   螺旋管式蒸气发生器
+helical delay line   &&   螺旋延迟线
+helical dislocation   &&   螺线型位错
+helical duplex   &&   双重螺旋法
+helical gear   &&   螺旋齿轮，斜齿圆柱齿轮
+helical line   &&   螺旋线
+helical motion   &&   螺线运动，螺旋运动
+helical pair   &&   螺旋副
+helical scanning   &&   螺旋扫描，螺旋扫掠
+helical spring   &&   螺旋型弹簧
+helical tooth end mill   &&   螺旋刃立铣刀
+helical torsion spring   &&   扭簧
+helical-path mass spectrometer   &&   螺线质谱计
+helicity   &&   螺旋性
+helicopter   &&   直升飞机
+helicopter aircraft   &&   直升飞机
+helicopter ship   &&   直升飞机母舰
+helioelectric generating plant   &&   日光发电厂
+helioelectric production   &&   日光电力生产
+heliograph   &&   ①日光反射信号机②回光通信机③回光仪，日照计，日光计
+heliolamp   &&   日光灯
+helion filament   &&   太阳灯丝，日光灯灯丝
+helioplant   &&   太阳能利用装置
+helium   &&   氦He
+helium arc   &&   氦弧
+helium arc welding   &&   氦弧焊(接)
+helium burning   &&   氦燃烧
+helium cooling   &&   氦气冷却
+helium detector   &&   氦检测器
+helium family element   &&   氦族元素
+helium ionization detector   &&   氦电离检测器
+helium lamp   &&   氦灯
+helium mass spectrometer leak detector   &&   氦质谱检漏仪
+helium survey   &&   氦气测量
+helium-cooled reactor   &&   氦冷(反应)堆
+helium-neon laser   &&   氦氖激光器
+helium-oxygen diving equipment   &&   氦氧潜水装置
+helix ,helical line   &&   螺旋副
+helix angle   &&   螺旋角
+helix angle at reference cylinder   &&   分度圆柱螺旋角
+helixact   &&   螺旋运动法
+helixform   &&   螺旋成形法
+helmet connector   &&   蓄电池接线柱接头
+help   &&   帮助 说明
+helper sprig   &&   副簧
+hemi   &&   发动机半球形燃烧室
+hemi-anechoic chamber   &&   半消声室
+hemicolloid   &&   半胶体
+hemicolloid structure   &&   半胶体结构
+hemicompact   &&   半紧的
+hemimorphism   &&   半角性
+hemisphere   &&   半球(形)
+hemispherical earthed electrode   &&   半球形接地电极
+hemispherical emittance   &&   半球形发射
+hemispherical head   &&   半球形封头，半球形顶盖， 半球形燃烧室
+hemispherical light source   &&   半球形光源
+hemispherical pyrradiometer   &&   半球形热辐射计
+hemispherical reflectance   &&   半球形反射
+hemispheroid   &&   半球形体
+hemitropic armature winding   &&   半圈式电枢绕组
+hemivariate   &&   半变量
+hemming   &&   卷边加工
+hemming machine   &&   折边机，轧波纹机
+henry   &&   亨利(电感单位)
+heptode   &&   七极管
+heptode converter   &&   七极变频器，七极混频管
+hermetic centrifuge   &&   密封离心机
+hermetic seal   &&   气密封接
+hermetic sealing   &&   气密封装
+hermetic sealing connection   &&   密封接头
+hermetic sealing joint   &&   密封接头
+hermetic separator   &&   密封分离器
+hermetically sealed cable   &&   密封电缆
+hermetically sealed enclosure (Ex h)   &&   气密外壳(Ex h)
+hermetically sealed relay   &&   气密式继电器
+hermetically-scaled construction   &&   密封结构
+herringbone gear   &&   人字齿轮
+herringbone seal   &&   人字形密封
+herringbone wheel   &&   人字齿轮
+hertz   &&   赫兹(频率单位)
+hetero-epitaxy   &&   异质外延
+hetero-junction   &&   异质结
+hetero-junction voltaic cell   &&   异质结光电池
+heterocrystal   &&   异质晶体
+heterodyne analyzer   &&   外差式分析仪
+heterodyne frequency meter   &&   外差式频率计
+heterodyne receiver   &&   外差接收机
+heterogeneity   &&   异质性
+heteronuclear lock signal   &&   异核锁信号
+heteropolar   &&   异极
+heteropolar binding   &&   异极键联
+heteropolar bond   &&   异极键
+heteropolar compound   &&   异极化合物
+heteropolar generator   &&   异极发电机
+heteropolar induction generator   &&   异极感应发电机
+heteropolar lattice   &&   异极晶格
+heteropolar link   &&   异极键
+heteropolar linkage   &&   异极键
+heteropolar switching   &&   异极转换
+heteropolar valence   &&   异极化合价
+heteropolarity   &&   异极性
+hex cap nuts   &&   六角盖头螺帽
+hex coupling nuts   &&   高脚螺帽
+hex flange nuts   &&   六角轮缘螺帽
+hex jam nuts   &&   薄型螺帽
+hex machine screw nut   &&   机械螺丝用六角螺帽
+hex nuts   &&   普通六角螺帽
+hex serrated nuts   &&   六角锯齿螺帽
+hex slotted nut   &&   六角割沟螺帽
+hexadecimal numbering system   &&   十六进制记数系统
+hexadecimal system   &&   十六进制
+hexagon   &&   六角形
+hexagon bolt   &&   六角头螺栓
+hexagon headed bolt   &&   六角头螺栓
+hexagon nut   &&   六角螺母
+hexagon wrench   &&   六角板手
+hexagon-headed bolt   &&   六角头螺栓
+hexagonal   &&   六角形的，六角的
+hexagonal bar iron   &&   六角钢
+hexagonal bar steel   &&   六角钢
+hexagonal lattice   &&   六角晶格
+hexagonal nut   &&   六角螺母
+hexagonal screw   &&   六角螺钉
+hexagonal spanner   &&   六角扳手
+hexagonal wrench   &&   六角扳手
+hexahedral face cutting   &&   六面切削加工
+hexahedral hydraulic machine   &&   六面液压机
+hi-flash oil   &&   高闪点油
+hi-flash solvent   &&   高闪点溶剂
+hidden line   &&   虚线，隐藏线
+hidden-line image   &&   消隐图像 隐藏线影像
+hide   &&   消隐，隐藏
+hide plot   &&   消隐出图，隐藏出图
+hierarchical chart   &&   层次结构图
+hierarchical control   &&   递阶控制
+hierarchical database   &&   层次数据库
+hierarchical diffusion   &&   等级扩散
+hierarchical direct access method   &&   层次直接存取方法
+hierarchical indexed direct access method   &&   层次索引直接存取方法
+hierarchical indexed sequential access method   &&   层次索引顺序存取方法
+hierarchical intelligence   &&   分级智能
+hierarchical model   &&   层次模型
+hierarchical organization   &&   等级结构
+hierarchical parameter estimation   &&   递阶参数估计
+hierarchical planning   &&   递阶规划
+hierarchical sequence   &&   层次序列
+hierarchical sequential access method   &&   层次顺序存取方法
+hierarchical structure   &&   递阶结构
+hierarchical system   &&   分级系统，递阶系统
+hierarchy of function   &&   机能层次
+hierarchy plus input-process-output   &&   层次输入处理输出图[HIPO]
+high absorptivity   &&   高吸收率
+high accuracy   &&   高精度
+high accuracy formula   &&   高精度公式
+high alloy steel   &&   高合金钢
+high altitude equipment   &&   高空设备
+high altitude explosion   &&   高空爆炸
+high altitude test cell   &&   高空试验舱
+high alumina   &&   高铝
+high and low temperature test   &&   高低温试验
+high and low voltage   &&   高低压
+high and low voltage alarm   &&   高低压报警器
+high antiknock   &&   高抗爆
+high antiknock fuel   &&   高抗爆燃料
+high beam   &&   前照灯远光
+high beam warning lamp   &&   运光指示灯
+high boiler   &&   高沸点化合物
+high boiling component   &&   高沸点组分
+high boiling fraction   &&   高沸点馏分
+high boiling petroleum products   &&   高沸点石油产品
+high boiling point   &&   高沸点
+high boiling point compound   &&   高沸点化合物
+high boiling solvent   &&   高沸点溶剂
+high brightness   &&   高亮度
+high brightness oscilloscope tube   &&   高亮度示波管
+high brilliance   &&   高亮度
+high brilliance indicator   &&   高亮度显示器
+high calorific value   &&   高卡值，高热值
+high capacity   &&   ①高负载②高容量，大容量
+high carbon steel   &&   高碳钢
+high class gear   &&   高级齿轮
+high coercive force permanent-magnetic material   &&   高矫顽力永磁材料
+high compression ratio   &&   高压缩比
+high copper   &&   高铜
+high critical temperature superconductors   &&   高临界温度超导体
+high current density electrolysis   &&   高电流密度电解
+high current load   &&   大电流负荷
+high definition   &&   高清晰度
+high definition TV cameras   &&   高画质电视摄影机
+high definition interface   &&   高清晰度电视机
+high density   &&   高密度
+high density polyethylene   &&   高密度聚乙烯
+high density states   &&   高密态
+high dielectric   &&   高介(电)
+high dielectric capacitor ceramics   &&   高介电电容器瓷
+high direct voltage   &&   高直流电压
+high dispersion diffraction image   &&   高分散衍射象
+high dopant concentration   &&   高掺杂浓度
+high doping   &&   高掺杂
+high doping effect   &&   高掺杂效应
+high duty   &&   重负载
+high dynamic strain indicator   &&   超动态应变仪
+high e.m.f. potentiometer   &&   高电热电位差计
+high effective antenna   &&   高效天线
+high efficiency   &&   高效(率)
+high efficiency liquid chromatography   &&   高效液相色谱法
+high efficiency packing tower   &&   高效填料塔
+high efficiency particulate air filter   &&   高效空气微粒过滤器
+high efficiency photomultiplier   &&   高效光电倍增管，高效行波管
+high efficiency travelling wave tube   &&   高效行波管
+high elastic modulus fibre   &&   高弹性模量纤维
+high elasticity   &&   高弹性
+high electron energy diffractometer   &&   高能电子衍射仪[HEED]
+high elongation strain gauge   &&   大应变应变计
+high energy   &&   高能
+high energy X-rays   &&   高能X射线
+high energy astrophysics   &&   高能天体物理学
+high energy battery   &&   高能电池(组)
+high energy chemistry   &&   高能化学
+high energy proton   &&   高能质子
+high energy varistor   &&   高能电压敏电阻器
+high enrichment   &&   高度浓缩
+high excited molecule   &&   高激发态分子
+high explosive   &&   高级炸药，高威力炸药
+high fidelity   &&   高保真度(Hi-Fi)
+high fidelity amplifier   &&   高保真放大器
+high field   &&   高磁场
+high field magnet   &&   高磁场磁体
+high field superconductor   &&   高磁场超导体
+high flash point   &&   高闪点
+high flow speed   &&   高流速
+high flow-rate   &&   高流速
+high flowability   &&   高流动性
+high fluidity   &&   高流动性
+high flux   &&   高通量
+high flux reactor   &&   高通量(反应)堆
+high formability high strength steel   &&   高成型高强度钢
+high frequency capacitance measurement   &&   高频电容测量
+high frequency capacitor   &&   高频电容器
+high frequency capacitor ceramics   &&   高频电容器瓷
+high frequency concentration meter   &&   高频浓度计
+high frequency conditioning   &&   高频调节
+high frequency confinement   &&   高频约束(等离子的)
+high frequency dielectric splitter   &&   高频介电分选仪
+high frequency discharge   &&   高频放电
+high frequency electric machine   &&   高频电机
+high frequency electric spark machining   &&   高频电火花加工
+high frequency fatigue testing machine   &&   高频疲劳试验机
+high frequency firing furnace   &&   高频烧成炉
+high frequency flaw detection   &&   高频探伤
+high frequency furnace   &&   高频电炉
+high frequency gluing   &&   高频黏接
+high frequency heating   &&   高频加热
+high frequency inductance measurement   &&   高频电感测量
+high frequency insulator   &&   高频绝缘子
+high frequency ion source   &&   高频离子源
+high frequency loudspeaker   &&   高频扬声器
+high frequency magneto   &&   高频(永)磁(发)电机
+high frequency oscillation   &&   高频振荡
+high frequency oscillograph   &&   高频示波器
+high frequency plasma   &&   高频等离子体
+high frequency plug   &&   高频堵漏(等离子的)
+high frequency preheat   &&   高频预热
+high frequency preselector   &&   高频预选滤波器
+high frequency propagation   &&   高频传播
+high frequency pyrolysis   &&   高频热解
+high frequency quenching   &&   高频淬火
+high frequency relay   &&   高频继电器
+high frequency sealing   &&   高频封接
+high frequency signal generator   &&   高频信号发生器
+high frequency soldering   &&   高频钎焊
+high frequency spectrum   &&   高频光谱
+high frequency symmetrical cable   &&   高频对称电缆
+high frequency thyristor   &&   高频可控硅
+high frequency titrimeter   &&   高频滴定计
+high frequency torch   &&   高频炬
+high frequency transformer   &&   高频变压器
+high frequency varistor   &&   高频电压敏电阻器
+high gain   &&   高增益
+high grade cast iron   &&   高级铸铁
+high head   &&   高水头
+high heating value   &&   高热值
+high heating value gas   &&   高热值煤气
+high humidity   &&   高湿度
+high impact   &&   高冲击，高冲力
+high impact strength   &&   高冲击强度
+high impact strength manganese cast steel   &&   高冲击强度锰铸钢
+high injection level   &&   高注入水平
+high intensity sound microphone calibrator   &&   高声强传声器校准器
+high land electric machine   &&   高原电机
+high level   &&   ①高电平②高级
+high level data link control   &&   高级数据链路控制
+high level language   &&   高级语言
+high level switch   &&   高液位开关
+high lift cam   &&   高升程凸轮
+high limiting control   &&   上限控制
+high load   &&   高负载
+high low voltmeter   &&   高低压泵，双缸泵
+high lustre   &&   高光泽
+high magnifying power   &&   高倍率，高放大率
+high manganese steel   &&   高锰钢(C 0.9％～1.2％，Mn l0％～13％，余为Fe)
+high melting point   &&   高熔点
+high molecular compound   &&   高分子化合物
+high molecular polymer   &&   高分子聚合物
+high molecular-type surfactant   &&   高分子(型)表面活性剂
+high nuts   &&   高脚螺帽
+high order mode filter   &&   高次模滤波器
+high parameter electric power system   &&   高参数电力系统
+high pass   &&   高通
+high pass filter   &&   高通滤波器
+high peak current   &&   高峰值电流
+high performance liquid chromatograph   &&   高效液相色谱仪
+high performance scanning electron microscope   &&   高性能扫描电子显微镜
+high plateau train   &&   高原列车
+high polymer   &&   高分子，高分子聚合物，高聚物
+high polymer chemistry   &&   高分子化学
+high polymer microphone   &&   高聚物传声器
+high polymer piezoelectric materials   &&   高分子压电材料
+high polymer waste   &&   高聚物废物
+high potential   &&   高电势，高电位
+high power   &&   高倍，高功率，大容量，大功率(电)
+high power circulator   &&   高功率环形器
+high power electric arc furnace   &&   高功率电弧炉
+high power gain   &&   高功率增益
+high power magnifier   &&   高倍放大镜
+high power objective   &&   高倍物镜
+high power pulse   &&   强脉冲
+high power transmitter   &&   高功率发射机
+high powered ship   &&   大动力船
+high precision   &&   高精度
+high precision calender   &&   高精度压延机
+high precision computation   &&   高精度计算
+high precision isotope ratio mass spectrometer   &&   高精度同位素比质谱仪
+high press formability   &&   高压成型性
+high pressure   &&   高压
+high pressure DTA unit   &&   高压差式热分析仪
+high pressure absorber   &&   高压吸收塔
+high pressure capillary rheometer   &&   高压毛细管流变仪
+high pressure catalytic unit   &&   高压催化设备
+high pressure charging   &&   高压装料
+high pressure device   &&   高压装置
+high pressure float valve   &&   高压浮球阀
+high pressure gas chromatography   &&   高压气相色谱
+high pressure gate   &&   高压闸门
+high pressure grease   &&   高压润滑脂
+high pressure impregnation   &&   高压浸渍
+high pressure ion exchange   &&   高压离子交换[HPIE]
+high pressure lubricant   &&   高压润滑剂
+high pressure mercury vapour lamp   &&   高压汞[汽)灯，高压水银灯
+high pressure oil   &&   高压油
+high pressure phase transition   &&   高压相变
+high pressure pneumatic sensor   &&   高压气动传感器
+high pressure polyethylene   &&   高压聚乙烯[HPPE]
+high pressure safety cut-out   &&   高压安全切断器
+high pressure solvent pump   &&   高压溶剂泵
+high pressure spray nozzle   &&   高压喷嘴
+high pressure storage   &&   高压储存
+high pressure switch   &&   高压力开关
+high pressure tower   &&   高压塔
+high pressure water torch   &&   高压水枪
+high pure metal   &&   高纯金属
+high purity   &&   高纯度
+high purity graphite   &&   高纯石墨
+high radioactivity   &&   强放射性
+high resilience   &&   高回弹力
+high resilient rubber   &&   高回弹力橡胶
+high resistance   &&   高阻
+high resolution   &&   高分辨率
+high resolution NMR spectrum   &&   高分辨率核磁共振谱
+high resolution TV camera   &&   高分辨率电视摄像机
+high resolution chromatographic separation   &&   高分辨率色谱分离
+high resolution column   &&   高分辨率柱
+high resolution diffraction   &&   高分辨率衍射
+high resolution diffraction attachment   &&   高分辨衍射附件
+high resolution diffraction image   &&   高分辨衍射象
+high resolution electron microscope   &&   高分辨电子显微镜
+high resolution electron microscopy   &&   高分辨率电子显微术
+high resolution infrared radiometer   &&   高分辨率红外线辐射仪[HRIR]
+high resolution oscilloscope tube   &&   高分辨率示波管
+high resolution radar   &&   高分辨率雷达
+high resolution storage tube   &&   高分辨率储存管
+high resolution visible   &&   高分辨率[HRV]
+high resolution visible image instrument   &&   高分辨率图像仪
+high resonant state   &&   高共振态
+high rupturing capacity fuse   &&   高遮断容量熔丝
+high selective sensitivity   &&   高选择性灵敏度
+high sensitivity   &&   高灵敏度
+high shear viscometry   &&   高剪切测黏法
+high silica electrical porcelain   &&   高硅电瓷
+high silicon   &&   高硅
+high speed A-D converter   &&   高速模-数转换器
+high speed balancing   &&   高速平衡
+high speed balancing installation   &&   高速平衡设备
+high speed belt   &&   高速带，高度系列
+high speed carry   &&   高速进位
+high speed centrifuge   &&   高速离心机
+high speed cure   &&   高速硫化，快速硫化
+high speed detector   &&   高速检测器
+high speed diesel fuel   &&   高速柴油
+high speed digital computer   &&   高速数字计算机
+high speed direct injection   &&   高速直喷(柴油发动机 Diesel Engine) [HSDI]
+high speed electric machine   &&   高速电机
+high speed evaporator   &&   高速蒸发器
+high speed forming machine   &&   高速锤
+high speed grinding wheel   &&   高速砂轮
+high speed kneader   &&   高速捏合机
+high speed kneading machine   &&   高速捏合机
+high speed launch   &&   高速快艇
+high speed liquid chromatography   &&   高速液相色谱法
+high speed locomotive   &&   高速机车
+high speed lubrication   &&   高速润滑
+high speed motor   &&   高速电动机
+high speed plasma chromatography   &&   高速等离子色谱法
+high speed scrubber   &&   高速涤气器
+high speed simulation   &&   高速仿真，快速仿真
+high speed steel   &&   高速钢
+high speed temperature-rise programming   &&   高速程序升温
+high speed tool steel   &&   高速度工具钢
+high speed train   &&   高速列车
+high speed vulcanization   &&   高速硫化
+high stability   &&   高稳定度，高稳定性
+high stability insulation   &&   高稳定绝缘
+high strength   &&   高强度
+high strength cold rolled steel sheet   &&   高强度冷轧薄钢板
+high strength cold rolled steel with high press formability   &&   高压制成型性高强度冷轧钢
+high strength cold-workable Ti-added Al killed steel   &&   高强度可冷变形加钛铝镇静钢
+high strength corrosion-resistant plate steel   &&   高强度抗蚀钢板
+high strength high toughness alloy   &&   高强度高韧性合金
+high strength killed wire bar   &&   高强度镇静残锭
+high strength killed wire rod   &&   高强度镇静盘条
+high strength notch tough steel   &&   高强度缺口韧性钢
+high strength plain carbon steel   &&   高强度普通碳钢
+high strength plastics   &&   高强度层圧塑料
+high strength porcelain   &&   高强度瓷
+high strength steel   &&   高强度钢
+high temperature   &&   高温
+high temperature X-ray diffractometer   &&   X射线衍射仪
+high temperature ablative material   &&   高温烧蚀材料
+high temperature alloy   &&   耐高温合金
+high temperature balance   &&   高温天平
+high temperature cable   &&   高温电缆
+high temperature carbonization   &&   高温碳化
+high temperature ceramic coating   &&   高温陶瓷涂层
+high temperature ceramics   &&   高温陶瓷
+high temperature coating   &&   高温覆层
+high temperature cooling   &&   高温冷却(用高沸点液体冷却)
+high temperature decomposition   &&   高温分解
+high temperature destructive hydrogenation   &&   高温破坏加氢
+high temperature device   &&   高温装置
+high temperature dislocation internal friction   &&   高温位错内耗
+high temperature drying   &&   高温干燥
+high temperature electric machine   &&   高温电机
+high temperature electrical insulating coating   &&   高温电绝缘涂层
+high temperature enamel   &&   高温搪瓷
+high temperature furnace   &&   高温炉
+high temperature gas dynamics   &&   高温气体动力学
+high temperature gas physical mechanics   &&   高温气体物理力学
+high temperature grease   &&   高温润滑脂
+high temperature heat insulating coating   &&   高温隔热涂层
+high temperature high shear   &&   高温高剪切(粘度 Viscosity) [HTHS]
+high temperature inorganic coating   &&   高温无机涂层
+high temperature isostatic pressing   &&   高温等静力压制
+high temperature lubricant   &&   高温润滑剂
+high temperature lubricating coating   &&   高温润滑涂层
+high temperature magnetic materials   &&   高温  磁性材料
+high temperature mass spectrometry   &&   高温质谱分析
+high temperature materials   &&   高温材料
+high temperature microscope   &&   高温显微镜
+high temperature oxidation   &&   高温氧化
+high temperature plasma   &&   高温等离子体
+high temperature polymerization   &&   高温聚合，热聚合
+high temperature refractory material   &&   高温耐火材料
+high temperature resistant material   &&   耐高温材料
+high temperature sealing   &&   高温密封
+high temperature stability   &&   高温稳定性
+high temperature strain gauge   &&   高温应变计
+high temperature superconductivity   &&   高温超导性
+high temperature tempering   &&   高温回火
+high temperature test   &&   高温试验
+high temperature test chamber   &&   高温试验箱
+high temperature testing machine   &&   高温试验机
+high temperature thermal insulation coating   &&   高温隔热涂层
+high temperature thermistor   &&   高温处理
+high temperature thermometer   &&   高温(用)温度计
+high temperature viscosimeter   &&   高温黏度计
+high tenacity   &&   高韧度，高韧性
+high tensile steel   &&   高强度钢
+high tension   &&   ①高电压②高强度③高张力
+high tension instrument transformer   &&   高电压仪用互感器
+high tension insulator   &&   高压绝缘子
+high tension integrated circuit   &&   高压集成电路
+high tension loop   &&   高压回路
+high tension magneto   &&   高压(永)磁(发)电机
+high tension switch   &&   高压开关
+high test cast iron   &&   高级铸铁
+high toughness   &&   高韧度，高韧性
+high transmission glass   &&   高透射玻璃
+high vacuum   &&   高真空
+high vacuum distillation   &&   高真空蒸馏
+high vacuum insulation   &&   高真空绝缘
+high vacuum insulation of heat   &&   高真空绝热
+high vacuum jar   &&   高真空干燥器，高真空钟罩
+high vacuum measurement   &&   高真空计量
+high vacuum pump   &&   高真空泵
+high vacuum sputtering   &&   高真空溅射
+high vacuum system   &&   高真空系统
+high vacuum valve   &&   高真空阀
+high value standard resistor   &&   高阻标准电阻器
+high velocity combustion   &&   高速燃烧
+high velocity impact   &&   高速碰撞
+high viscosity index   &&   高粘度指标 [HVI]
+high voltage bridge   &&   高压电桥
+high voltage capacitor ceramic   &&   高压电容器瓷
+high voltage capacitor of a capacitor voltage transformer   &&   电容器式电压互感器的高压电容器
+high voltage current shunt   &&   高电压分流器
+high voltage d.c. generator   &&   ①高压直流发生器②高电压，高压
+high voltage divider   &&   高电压分压器
+high voltage electric power system   &&   高压电力系统
+high voltage electron microscope   &&   高压电子显微镜
+high voltage electron microscopy   &&   高电压电子显微术[HVEM]
+high voltage electrostatic field   &&   高压静电场
+high voltage fuse   &&   高压熔断器
+high voltage glow-discharge   &&   高压辉光放电
+high voltage insulating tank   &&   高压绝缘箱
+high voltage insulation technique   &&   高压绝缘技术
+high voltage laboratory   &&   高压试验室
+high voltage magnetron   &&   高压磁控管
+high voltage power supply   &&   高压电源
+high voltage resistor   &&   高压电阻器
+high voltage silicon rectifier stack   &&   高压硅整流堆
+high voltage source   &&   高压电源
+high voltage stability   &&   高压稳定度
+high voltage substation   &&   高压变电站
+high voltage switch   &&   高压开关
+high voltage terminal   &&   高压端
+high voltage testing equipment   &&   高电压试验设备
+high voltage testing laboratory   &&   高压试验室
+high wall drilling machine   &&   立式钻床
+high water   &&   高潮
+high water head   &&   高水头
+high wet modulus viscose fibre   &&   高湿模量黏胶纤维
+high-altitude aircraft   &&   高空飞机
+high-altitude balloon   &&   高空气球
+high-altitude laboratory   &&   高空试验室
+high-altitude machine   &&   高海拔电机，高原电机
+high-altitude test   &&   高空试验，高海拔试验
+high-alumina electrical porcelain   &&   高铝电瓷
+high-alumina refractory   &&   高铝耐火材料
+high-aluminous   &&   高铝
+high-ash coal   &&   高灰分煤
+high-capacity generator   &&   大容量发电机，大型发电机
+high-carbon steel   &&   高碳钢
+high-carbon steel for high strength wire   &&   高强度钢丝用高碳钢
+high-class fit   &&   高级精度配合
+high-concentration-ratio system   &&   高倍聚光系统
+high-conductivity   &&   高导电
+high-consistency viscosimeter   &&   高稠度黏度计
+high-contrast   &&   高对比度，高反差
+high-current   &&   大电流，强电(流)
+high-current effect   &&   大电流效应
+high-current supply   &&   大电流电源
+high-density connector   &&   高密度连接器
+high-density digital tape   &&   高密度数字磁带[HDDT]
+high-density explosive   &&   高密度炸药
+high-density plasma   &&   高密度等离子体
+high-duty fuel   &&   高辛烷值燃料
+high-energy accelerator   &&   高能加速器
+high-energy aviation fuel   &&   高能航空燃料
+high-energy electron   &&   高能电子
+high-energy electron diffraction   &&   高能电子衍射[HEED]
+high-energy fuel   &&   高能燃料
+high-energy particle   &&   高能粒子
+high-energy physics   &&   高能物理(学)
+high-energy radiation   &&   高能辐射
+high-energy spallation   &&   高能散裂
+high-energy-level reactor   &&   高能(反应)堆
+high-energy-rate forging   &&   高能高速锻造，高速锻造
+high-energy-rate forming   &&   高能快速成型
+high-enrichment reactor   &&   高浓缩燃料(反应)堆，高加浓(反应)堆
+high-flash aviation fuel   &&   高闪点航空燃料
+high-flash fuel   &&   高闪点燃料
+high-flash oil   &&   高闪点油
+high-flash solvent   &&   高闪点溶剂
+high-flux core   &&   ①高磁密铁心②高通量堆心(反应堆的)
+high-frequency   &&   高频[HF]
+high-frequency alternator   &&   高频发电机
+high-frequency amplifier   &&   高频放大器
+high-frequency antenna   &&   高频天线
+high-frequency cable   &&   高频电缆
+high-frequency ceramics   &&   高频陶瓷
+high-frequency choke   &&   高频扼流圈，高频抗流圈
+high-frequency communication   &&   高频通信
+high-frequency connector   &&   高频连接器
+high-frequency control   &&   高频控制
+high-frequency core   &&   高频磁心
+high-frequency current   &&   高频电流
+high-frequency drying   &&   高频干燥(法)
+high-frequency drying stove   &&   高频干燥炉
+high-frequency effect   &&   高频效应
+high-frequency generator   &&   高频发电机，高频发生器
+high-frequency hardening   &&   高频淬火
+high-frequency heating   &&   高频加热
+high-frequency impedance   &&   高频阻抗
+high-frequency impedance measurement   &&   高频阻抗测量
+high-frequency impulse   &&   高频脉冲
+high-frequency induction   &&   高频感应
+high-frequency induction furnace   &&   高频感应电炉，高频感应炉
+high-frequency induction quenching   &&   高频感应淬火
+high-frequency induction welding   &&   高频感应焊接
+high-frequency interference   &&   高频干扰
+high-frequency noise   &&   高频噪声
+high-frequency oscillator   &&   高频振荡器
+high-frequency polarography   &&   高频极谱法
+high-frequency porcelain   &&   高频(用)瓷
+high-frequency quenching   &&   高频淬火
+high-frequency sputtering   &&   高频溅射
+high-frequency titration   &&   高频滴定
+high-frequency vibration   &&   高频振荡，高频振动
+high-frequency voltage   &&   高频电压
+high-frequency vulcanization   &&   高频硫化
+high-frequency wave   &&   高频波
+high-frequency welding   &&   高频焊接
+high-grade fuel   &&   高级燃料
+high-grade insulation   &&   高级绝缘
+high-gravity environment   &&   高重力加速度环境
+high-head hydro-power plant   &&   高水头水电站，高水头水力发电厂
+high-head hydro-power station   &&   高水头水电站，高水头水力发电厂
+high-impedance rotor   &&   高阻抗转子
+high-intensity   &&   高强度
+high-intensity oscillation   &&   高强度振荡
+high-intensity radiation   &&   高强度辐射
+high-intensity sound laboratory   &&   高声强实验室
+high-knock rating gasoline   &&   高辛烷值汽油
+high-lead bearing alloy   &&   高铅轴承合金
+high-level instrumentation   &&   强放射性测量仪器，高功率测量仪器(反应堆)
+high-level language   &&   高级语言
+high-level radiation   &&   高强度辐射
+high-lift airfoil   &&   高升力机翼
+high-lift construction   &&   高空作业
+high-lift pump   &&   高扬程水泵，高压泵
+high-loss resonator   &&   高损耗谐振腔
+high-low action   &&   高低作用
+high-low bias check   &&   高低边缘检查，高低偏压校验
+high-low generator   &&   高低频发电机
+high-low junction   &&   高低结
+high-low position monitor   &&   高位-低位监视器(H/L monitor)
+high-low signal selector   &&   高低信号选择器
+high-low speed change   &&   高低变速
+high-low temperature chamber   &&   温度交变试验箱
+high-low voltmeter   &&   高低压(报警)电压表
+high-melting metal   &&   高熔点金属
+high-melting point metal   &&   高熔点金属
+high-mica   &&   高级云母
+high-molecular   &&   高分子
+high-noise immunity logic   &&   高抗干扰逻辑电路
+high-octane fuel   &&   高辛烷值燃料
+high-octane gasoline   &&   高辛烷值汽油
+high-octane motor fuel   &&   高辛烷值发动机燃料
+high-performance engine   &&   高性能发动机
+high-performance tape   &&   高性能带
+high-permeability   &&   高导磁率
+high-permeability alloy   &&   高导磁率合金(P 0.02％，Mn 0.1％，余为Fe)
+high-permeability materials   &&   高导磁率材料
+high-permittivity   &&   高介(电)
+high-permittivity ceramic   &&   高介电陶瓷
+high-pitch loudspeaker   &&   高音扬声器
+high-power drilling machine   &&   高功率钻床
+high-power electron beam   &&   高能电子束
+high-power generator   &&   大容量发电机，大型发电机
+high-power microscope   &&   高倍显微镜
+high-power modulation   &&   高电平调制，高功率调制
+high-power reactor   &&   大功串(反应)堆
+high-power station   &&   大容量发电厂
+high-power transformer   &&   大容量变压器，大型变压器
+high-power tube   &&   大型电子管
+high-precision regulator   &&   高精度调整器
+high-pressure boiler   &&   高压锅炉
+high-pressure chemistry   &&   高压化学
+high-pressure column   &&   高压柱
+high-pressure hydrogenation   &&   高压加氢
+high-pressure mass spectrometry   &&   高压质谱分析
+high-pressure plunger pump   &&   高压柱塞泵
+high-pressure pump   &&   高压泵
+high-pressure reactor   &&   高压反应器
+high-pressure sodium lamp   &&   高压钠灯
+high-pressure syringe   &&   高压注射器
+high-pressure turbine   &&   高压汽轮机，高压透平
+high-pressure vessel   &&   高压容器
+high-purity materials   &&   高纯材料
+high-quality materials   &&   高级材料
+high-recovery valve   &&   高压力恢复阀
+high-reflecting film   &&   高反射膜
+high-remanence   &&   高顽磁性
+high-resistance material   &&   高电阻材料
+high-resistance pyrometer   &&   高阻高温计
+high-resistance resistor   &&   高阻电阻器
+high-resolution NMR spectrometer   &&   高分辨核磁共振波谱仪
+high-resolution NMR spectroscope   &&   高分辨率核工业磁共振波谱仪
+high-resolution colour picture tube   &&   高分辨率彩色显像管
+high-resolution mass spectroscope   &&   高分辨质谱仪器
+high-sensitive demodulator   &&   高灵敏解调器
+high-sensitive vidicon   &&   高灵敏光导摄像管
+high-silicon[cast] iron   &&   高硅铸铁(Si l3％～17％)
+high-slip motor   &&   高转差率电动机
+high-speed accounting machine   &&   高速计算机
+high-speed aircraft   &&   高速飞机
+high-speed alternator   &&   高速交流发电机
+high-speed buffer register   &&   高速缓冲寄存器
+high-speed camera   &&   高速摄影机
+high-speed circuit breaker   &&   高速断路开关
+high-speed cutting   &&   高速切削
+high-speed diesel engine   &&   高速柴油机
+high-speed diffusion pump   &&   高速扩散泵
+high-speed disconnecting switch   &&   高速隔离开关
+high-speed excitation   &&   高速励磁
+high-speed extrusion   &&   高速挤压
+high-speed forging   &&   高速锻造
+high-speed forming   &&   高速成形
+high-speed fuse   &&   高速熔断器，高速熔丝
+high-speed governor   &&   高速调节器
+high-speed hydraulic hammer   &&   高速液压锤
+high-speed lathe   &&   高速车床
+high-speed machine tool   &&   高速机床
+high-speed motion picture camera   &&   高速摄影机
+high-speed oscillograph   &&   高速示波器
+high-speed oscilloscope   &&   高速示波器，快速扫描示波器
+high-speed planing machine   &&   高速刨床
+high-speed printer   &&   高速打印机
+high-speed reclosure   &&   快速重合闸
+high-speed relay   &&   高速继电器
+high-speed tap changer   &&   高速抽头切换开关，高速分接头切换开关
+high-speed transmission   &&   高速传递
+high-speed wire   &&   高速熔丝
+high-spin state   &&   高自旋态
+high-strength bolt   &&   高强度螺栓
+high-strength cast iron   &&   高强度铸铁
+high-strength glass   &&   高强度玻璃
+high-strength materials   &&   高强度材料
+high-strength rolled steel sheets   &&   高强度轧制薄钢板
+high-subsonic aircraft   &&   特超声速飞机
+high-sulphur crude oil   &&   高硫原油
+high-sulphur fuel   &&   高硫燃料
+high-temperature battery   &&   高温电池
+high-temperature cell   &&   高温电池
+high-temperature connector   &&   高温连接器
+high-temperature creep   &&   高温蠕变
+high-temperature diffusion normalizing   &&   高温扩散正火
+high-temperature gas cooled reactor   &&   高温气冷(反应)堆
+high-temperature high-pressure  technique   &&   高温-高压技术
+high-temperature insulation   &&   高温绝缘，耐高温绝缘
+high-temperature metallography   &&   高温金相学
+high-temperature oxidation test   &&   高温氧化试验
+high-temperature processing   &&   高温处理
+high-temperature strain gauge   &&   高温应变计
+high-temperature-oxidation resistant coating   &&   高温抗氧化涂层
+high-tension ammeter   &&   高压安培计，高压电流计
+high-tension bushing   &&   高压套管
+high-tension ceramics   &&   高压陶瓷
+high-tension current transformer   &&   高压电流互感器
+high-tension distribution equipment   &&   高压配电设备
+high-tension fuse   &&   高压熔断器
+high-tension laboratory   &&   高压试验室
+high-tension line   &&   高压线(路)
+high-tension measurement   &&   高压测量(电)
+high-tension neon tester   &&   高压氖试电笔
+high-tension rectifying tube   &&   高压整流管
+high-tension supply   &&   高压电源
+high-tension switchgear   &&   高压开关设备
+high-tension test   &&   高压试验
+high-tension testing apparatus   &&   高压试验设备
+high-tension testing transformer   &&   高压试验变压器
+high-tension voltmeter   &&   高压伏特计
+high-test gasoline   &&   高级汽油
+high-thrust engine   &&   高推力发动机
+high-vacuum connector   &&   高真空连接器
+high-voltage arc   &&   高压电弧
+high-voltage cable   &&   高压电缆
+high-voltage capacitor   &&   高压电容器
+high-voltage connector   &&   高电压连接器
+high-voltage corona   &&   高压电晕
+high-voltage direct current   &&   高压直流[HVDC]
+high-voltage electrical apparatus   &&   高压电器
+high-voltage electron microscope   &&   高压电子显微镜
+high-voltage generator   &&   高压发电机
+high-voltage insulation   &&   高压绝缘
+high-voltage multiplier   &&   高压倍增器
+high-voltage protection   &&   高压防护
+high-voltage pulse generator   &&   高压脉冲发生器
+high-voltage pulser   &&   高压脉冲发生器
+high-voltage rectifier   &&   高压整流器
+high-voltage relay   &&   高压继电器
+high-voltage test   &&   高压试验
+high-voltage trigger tube   &&   高电压触发管
+high-μ tube   &&   高放大系数管
+higher actual measuring range value   &&   实际测量范围上的限值
+higher harmonic   &&   高次谐波
+higher harmonic resonance   &&   高次谐波共振
+higher harmonic voltage   &&   高次谐波电压
+higher mode   &&   高次模
+higher pair   &&   高副,高度系列
+higher-difference   &&   高阶差分
+highest face temperature   &&   最高表面
+highlight   &&   ①亮光②突出显示，亮显
+highly compensated material   &&   高度补偿材料
+highly concentrated hydrogen peroxide   &&   高度浓缩过氧化氢
+highly cracked gasoline   &&   高度裂化汽油
+highly damped instrument   &&   高阻尼仪表
+highly elastic alloy   &&   高弹性合金
+highly elastic material   &&   高弹性材料
+highly elastic rubber   &&   高弹性橡胶
+highly maneuverable aircraft   &&   高度机动性飞机
+highly-corrosion-resisting   &&   高耐腐蚀
+highly-enriched fuel   &&   高浓缩燃料
+highness   &&   高度
+highway   &&   信息公路
+highway addressable remote transducer   &&   可导址远程传感器数据公路[HART]
+highway cycle   &&   公路循环
+highway driver   &&   信息公路驱动器
+highway for a CAMAC system   &&   系统信息公路[CAMAC]
+highway frame   &&   数据公路帧
+highway protocol   &&   数据公路协议
+highway unit   &&   数据公路单元
+hindley worm   &&   亨德菜蜗杆,球面蜗杆
+hindrance   &&   障碍，障碍物
+hinge   &&   铰链、枢纽
+hinge joint   &&   活塞连接
+hinged frame   &&   铰接框
+hinged tool holder   &&   活节刀柄
+hiperco   &&   海伯柯合金(一种高导磁率与高饱和磁通密度的磁性合金，Co 35％，Cr l％，余为Fe)
+hiperloy   &&   高导磁率软磁合金(Ni 50％，Fe 50％)
+hipernik   &&   高导磁率镍钢(N1 50％，Fe 50％)
+hipersil   &&   高导磁率硅钢，海波西尔高导磁率合金(Si 3％～3.5％，C<0.03％，S<0.02％，P 0.02％，Mn 0.1％，余为Fe)
+historical trend panel   &&   历史趋势画面
+hit   &&   命中
+hit and miss method   &&   断续法(内燃机调节的)
+hit on-the-fly printer   &&   飞击式打印机
+hitch   &&   ①联接牵引装置②套扣球和球座型套扣
+hitting point   &&   弹着点弹着点
+hoarfrost point   &&   结霜点
+hob   &&   ①螺旋铣刀，齿轮滚铣刀，滚铣刀，滚刀②滚铣，滚齿③蜗杆，螺杆，冲头④挤圧母模
+hob arbor   &&   滚铣刀轴
+hob cutter   &&   齿轮滚刀
+hob gear   &&   ①螺旋齿轮②齿轮切刀，棒形刀
+hob grinding machine   &&   滚刀磨床
+hob polling   &&   传递探询
+hob sharpener   &&   滚刀磨床
+hob sharpening grinding machine   &&   滚刀刃磨机床
+hobbed gear   &&   滚铣齿轮
+hobber   &&   滚铣机，滚齿机
+hobbing   &&   ①铣刀，齿轮滚铣刀②滚铣，滚削，滚齿③滚齿机④切压制模(法)，挤压制模(法)，滚齿加工
+hobbing cutter   &&   滚刀，齿轮滚刀
+hobbing machine   &&   滚齿机，螺旋铣床
+hobbing press   &&   切压机
+hodometer   &&   路程表，记距器，测距器
+hodoscope   &&   描迹仪
+hoe   &&   锄，锹，灰耙，耕耘机
+hoe bucket   &&   锄使铲斗，挖土铲斗
+hogging machine   &&   破碎机
+hoist   &&   ①吊车，升降机，起重机，卷扬机，绞车吊车，滑车(组)，电梯②升起，提升绞起，举起，吊起
+hoist apparatus   &&   起重设备
+hoist block   &&   起重滑车
+hoist garden   &&   提升钢丝绳
+hoist-away   &&   起重机
+hoister   &&   起重机，卷扬机
+hoisting controller   &&   起重控制器
+hoisting crane   &&   起重机
+hoisting device   &&   提升设备，升降装置，起重设备
+hoisting equipment   &&   提升设备
+hoisting machine   &&   提升机，起重机，升降机
+hoisting machinery   &&   起重机械
+hoisting ring   &&   吊环
+hoisting test   &&   起吊试验
+hoisting tool   &&   起重工具
+hold   &&   ①握，拿，抓②保持，吸持(继电器的)③同步，整步，同期
+hold circuit   &&   自保电路，保持电路
+hold control   &&   同步调节，同步控制
+hold instruction   &&   保持指令
+hold mark   &&   保持符号
+hold mode   &&   保持状态
+hold spring   &&   保持弹簧
+hold-back   &&   ①退缩，缩进②阻碍，阻止，抑制，压住，挡住③取消④制动装置
+hold-closed mechanism   &&   保持合闸机构
+hold-down bolt   &&   压紧螺栓[机械
+hold-down clamp   &&   压具
+hold-down fixture   &&   压牢装置
+hold-off recti6er   &&   偏压电流整流器
+holddown   &&   ①压板，压具，压块，夹爪，夹板，夹子②连接板③把手④瞄栓
+holder   &&   ①夹具，夹架，夹持器，电极夹，焊条钳，焊把，卡盘②焊把，焊条钳③杆，柄，托，架座，保持架，刀杆，刀柄④灯头
+holdfast   &&   ①保持，支持，稳固②夹，钳，钩子，支架③把手，握紧物④瞄碇
+holding action   &&   保持作用
+holding armature   &&   吸持衔铁
+holding contact   &&   吸持触点
+holding current   &&   吸持电流，保持电流(硅整流器)
+holding device   &&   ①夹具，夹紧器②吸持装置，夹持装置
+holding force   &&   吸持力
+holding furnaces   &&   连续溶解保温炉
+holding magnet   &&   吸持磁铁
+holding period   &&   保持时间
+holding position   &&   吸持位置，自保持位置
+holding relay   &&   保持继电器，吸持继电器
+holding strategy   &&   保持策略
+holding time   &&   吸持时间(继电器)，占用时间
+holding torque   &&   保持力矩，保持转矩
+holding valve   &&   保持阀
+holding voltage   &&   吸持电压
+holding-up tool   &&   托架，铆钉机静止压模
+hole   &&   ①孔，孔穴，空位，洞②穿孔
+hole base system   &&   基孔制
+hole capture   &&   空穴浮获
+hole carrier   &&   空穴载流子
+hole concentration   &&   空穴浓度
+hole conduction   &&   空穴导电
+hole current   &&   空穴电流
+hole current density   &&   空穴电流密度
+hole density   &&   空穴密度
+hole injection   &&   空穴注入
+hole lifetime   &&   空穴寿命
+hole migration   &&   空穴迁移
+hole mobility   &&   空穴迁移率，空位迁移率
+hole transfer   &&   空穴输运
+hole trap   &&   空穴陷阱
+hole-basic system of fits   &&   基孔制
+hole-electron pair   &&   空穴-电子对
+hole-particle interaction   &&   空穴-粒子相互作用
+hollow blow molding   &&   中空吹出成形
+hollow casting   &&   空心注浆，中空铸型法
+hollow cathode discharge tube   &&   空心阴极放电管[HCDT]
+hollow conductor   &&   空心导线
+hollow conductor cable   &&   空心导线电缆
+hollow copper conductor   &&   空心铜导体，空心铜线
+hollow fibre   &&   空心丝
+hollow flank worm   &&   圆弧圆柱蜗杆
+hollow float   &&   空心浮标，空心浮球
+hollow mill   &&   空心铣刀
+hollow molding   &&   中空成形
+hollow pipe   &&   空心管子
+hollow projectile cartridge   &&   空心弹
+hollow punch   &&   空心冲头
+hollow roll   &&   空心轧辊
+hollow shaft   &&   空心轴
+hollow tile   &&   空心砖
+hollow winding   &&   空心绕组
+hollow wire   &&   空心线
+hollow-cathode atomizer   &&   空心阴极原子化器
+hollow-cathode lamp   &&   空心阴极灯
+hollow-rotor motor   &&   空心转子电动机
+hollow-ware   &&   空心件
+hollow-ware glass   &&   空心玻皿
+holmium   &&   钬Ho(67)
+holo-photoelasticity   &&   全息光弹性法
+holocamera   &&   全息摄影机
+holocard   &&   全息卡
+holocrystalline   &&   全晶质
+hologram   &&   全息图，全息照片
+hologram radar   &&   全息雷达
+holograph   &&   全息照相
+holographic SDRS   &&   全息地震仪
+holographic cameras   &&   全像照像机
+holographic displays   &&   全像显示器
+holographic element   &&   全息组件
+holographic films and plates   &&   全像底片及感光板
+holographic filters   &&   全像滤光镜
+holographic grating   &&   全息摄影栅，全息光栅
+holographic information processing   &&   全息信息处理
+holographic interferometry   &&   全息干涉(测量)法
+holographic map   &&   全息地图
+holographic memory   &&   全息照相存伯
+holographic method pattern measurement equipments   &&   全像方式图样量测设备
+holographic movie   &&   全息电影
+holographic nondestructive testing   &&   全息术无损检验
+holographic nondestructive testing equipment   &&   全像非破坏检查设备
+holographic panoramic stereogram   &&   全息全景立体照片
+holographic spectroscopy   &&   全息光谱学
+holographic storage   &&   全息照相存储
+holographic television   &&   全息电视
+holographical display   &&   全息显示
+holography   &&   全息术，全息照相术
+holohedral form   &&   全面晶形
+holohedral symmetry   &&   全对称
+holohedrism   &&   全对称性
+holohedron   &&   全面体
+holohedry   &&   全对称，全面像
+hololock   &&   全息锁
+holomagnetization   &&   全磁化
+holometry   &&   全息(光)照相干涉测量术
+holophone   &&   全息录音机
+holotape   &&   全息录像带
+home   &&   自动寻的
+home computer   &&   家用计算机
+home motor   &&   家用电动机，国产电动机
+home page   &&   主页，首页
+home position   &&   起始位置 归位点
+home projector   &&   家用投影机
+home radio   &&   家用收音机
+home terminal   &&   家用终端设备
+homeostasis   &&   内稳态
+homer   &&   ①寻的设备②自动引导导弹，自动寻的导弹，自动瞄准导弹
+homework software   &&   家用软件
+homing device   &&   导归器
+homing guidance   &&   寻的制导
+homing mine   &&   自导水雷
+homing missile   &&   自动寻的导弹
+homing relay   &&   复位继电器
+homing torpedo   &&   自导鱼雷
+homo-chain polymer   &&   均链聚合物
+homofocal headlamp   &&   共焦前照灯
+homofocular headlamp   &&   共焦前照灯
+homogeneity spoiling pulse   &&   均匀性突变脉冲
+homogeneous equilibrium   &&   均相平衡
+homogeneous field   &&   均匀场
+homogeneous fluid   &&   均质流体
+homogeneous light   &&   单色光
+homogeneous network   &&   同机型网络
+homogeneous phase   &&   均相
+homogeneous plasma   &&   均匀等离子体
+homogeneous radiant energy   &&   单色辐射能
+homogeneous radiation   &&   单色辐射
+homogeneous radiation thermometer   &&   单色辐射温度计
+homography   &&   单应性
+homojunction   &&   同质结
+homojunction solar cell   &&   同质结太阳电池
+homonuclear lock signal   &&   同核锁信号
+homopolar alternator   &&   单极交流发电机
+homopolar bond   &&   同极性键，无极键
+homopolar dynamo   &&   单极直流发电机
+homopolar field magnet   &&   同极场磁铁
+homopolar generator   &&   单极发电机
+homopolar inductor motor   &&   单极感应电动机
+homopolar machine   &&   单极电机
+homopolar tachogenerator   &&   单极测速发电机
+homopolymer   &&   均聚物
+homopolymerization   &&   均聚(作用)
+homothetic axis   &&   (同)位(相)似轴
+homothetic figures   &&   [同]位(相)似图形
+honing   &&   ①珩磨，搪磨②金属表面磨损③喷砂清理④磨孔
+honing machine   &&   精细磨孔机，油石研磨机，珩机，搪磨机，磨汽缸机，条石磨孔机
+honing machines   &&   搪磨机
+honing tool   &&   镗缸头，镗磨头
+hood   &&   ①发动机罩②敞蓬汽车的可折叠软顶
+hood scoop   &&   发动机罩进风口
+hook   &&   钩，吊钩
+hook angle   &&   断面前角
+hook line   &&   钩线 钩线
+hook switch   &&   ①钩键②杠杆开关
+hook wrench   &&   钩形扳手
+hook-up wire   &&   布线用电线，架空电线，连接线
+hooks coupling universal coupling   &&   万向联轴器
+hoop   &&   ①环，圈，轴环②卷材，热轧带钢③箍，卡箍，铁环
+hoop-driving machine   &&   打箍机
+hooping machine   &&   打箍机
+hop   &&   单脚跳, 跳跃
+hop up   &&   增高功率
+hopper   &&   ①漏斗，进料斗，贮煤器，贮料斗②送卡箱，储存设备③斜槽
+hopper dredger   &&   开底式挖泥船
+hopper scale   &&   料斗秤
+hopping   &&   电子跳动
+hopping conduction   &&   跳跃导电
+hopping conductivity   &&   跳跃电导率
+hopping photoconductivity   &&   跳跃光电导率
+horizon   &&   水平线
+horizontal   &&   水平的
+horizontal axis   &&   水平轴线
+horizontal balancing machine   &&   卧式平衡机
+horizontal bed type milling machine   &&   水平床身式铣床，卧式床身铣机
+horizontal belt conveyor   &&   卧式胶带输送机，平带运输机
+horizontal boiler   &&   卧式锅炉
+horizontal boring and drilling machine   &&   卧式镗钻床
+horizontal boring and milling machine   &&   卧式镗铣床，卧式铣床
+horizontal boring and turning machine   &&   卧式镗床
+horizontal boring machine   &&   卧式搪孔机，卧式镗床，卧式钻机
+horizontal break switch   &&   水平断路开关
+horizontal broaching machine   &&   卧式拉床
+horizontal centrifugal casting machine   &&   卧式离心浇铸机
+horizontal chromatography   &&   水平色谱法
+horizontal chucking multi-spindle   &&   卧式多轴夹盘车床
+horizontal circle   &&   水平圆
+horizontal circular chromatograph   &&   水平圆环色谱
+horizontal component   &&   水平分量
+horizontal cylinder   &&   卧式汽缸
+horizontal cylinder drying machine   &&   卧筒干燥机
+horizontal cylindrical tank   &&   卧式圆形油罐
+horizontal deep-hole drilling machine   &&   卧式深孔钻床
+horizontal diamond boring machine   &&   卧式钻石镗床
+horizontal die slotting machine   &&   卧式冲模插床
+horizontal displacement   &&   水平位移
+horizontal division   &&   水平划分
+horizontal drawing machine   &&   平拉机
+horizontal driving pulse   &&   行启动脉冲
+horizontal driving signal   &&   行启动信号
+horizontal duplex drill   &&   卧式双轴钻床
+horizontal engine   &&   卧式(汽缸)发动机
+horizontal flow   &&   水平流
+horizontal forging machine   &&   卧式锻造机锻机
+horizontal frequency   &&   行频
+horizontal grate machine   &&   卧式筛选机
+horizontal intensity of geomagnetic field   &&   地磁场水平强度
+horizontal limit   &&   水平极限
+horizontal line   &&   水平线
+horizontal machine   &&   ①卧式电机②卧式机
+horizontal machine center   &&   卧式加工制造中心
+horizontal milling machine   &&   卧式铣床
+horizontal offset   &&   水平偏置
+horizontal oil-firing boiler   &&   卧式油烧锅炉
+horizontal opposed engine   &&   卧式对置发动机
+horizontal plane   &&   水平面
+horizontal planer   &&   卧式刨床
+horizontal planing machine   &&   卧式刨床
+horizontal plastic injection moulding machine   &&   卧式塑料注射成型机
+horizontal plate-bending machine   &&   卧式弯板机
+horizontal position welding   &&   横焊
+horizontal precipitation   &&   水平降水
+horizontal pressure   &&   横压力
+horizontal projection   &&   水平投影
+horizontal pull   &&   水平拉力
+horizontal rotary dryer   &&   卧式回转干燥器
+horizontal scan   &&   水平扫描
+horizontal scanning   &&   行扫描
+horizontal section   &&   横断面
+horizontal sweep   &&   水平扫描，行扫描
+horizontal tail   &&   水平翼
+horizontal thrust   &&   水平推力
+horizontal tubular boiler   &&   卧式火管锅炉
+horizontal turbine   &&   卧式水轮机
+horizontal type generator   &&   卧式发电机
+horizontal visibility   &&   水平能见度
+horizontal wave   &&   水平波
+horizontal zone melting   &&   水平区域熔化
+horizontal zone-melting technique   &&   水平区熔法
+horizontal-drive signal   &&   行主控信号
+horizontally opposed   &&   水平对置发动机
+horn   &&   ①角，角状物②喇叭，传声筒，喇叭形扬声器③操纵杆，柄臂④砧铁⑤轴状凹模
+horn antenna   &&   喇叭天线
+horn button   &&   喇叭按钮
+horn speaker   &&   号筒扬声器
+horn-gap switch   &&   有灭弧角的开关，锥形开关
+horn-type transducer   &&   喇叭式换能器
+horse van body   &&   运送马匹的厢式汽车
+horse-box   &&   运马车辆
+horse-shoe   &&   ①马蹄铁②马蹄形，U形
+horse-shoe electromagnet   &&   马蹄形电磁铁
+horse-shoe flame furnace   &&   马蹄焰窑炉
+horse-shoe flame system   &&   马蹄焰系统
+horse-shoe furnace   &&   马蹄窑
+horse-shoe manifold   &&   马蹄形管道
+horse-shoe mixer   &&   马蹄式混合机
+horse-shoe stirrer   &&   马蹄式搅拌机
+horsebox   &&   低货台车
+horsepower   &&   功率，马力
+horsepower-hour   &&   马力小时
+horseshoe magnet   &&   马蹄形磁铁
+horseshoe vortex   &&   马蹄形涡流
+hose   &&   ①软管，蛇管，胶管②水龙带，水管
+hose coupler   &&   软管接头
+hose intake-manifold outlet   &&   进气歧管出水管
+hose nippler   &&   管接头
+hose pipe   &&   软管，蛇管
+hose reservoir   &&   膨胀箱管
+hose tube   &&   软管
+hose union   &&   软管软接头，软件联管节
+hose-proof machine   &&   防水型电机
+host   &&   ①基质，晶核，主体②主机
+host CPU   &&   主中央处理机
+host application program   &&   主机应用程序
+host command facility   &&   主命令程序
+host command processor   &&   主命令处理程序
+host computer   &&   主计算机，主机
+host computer software   &&   主计算机软件
+host conversational function   &&   主机对话功能
+host crystal   &&   基质晶体，主晶体
+host interface   &&   主机接口
+host language   &&   主语言
+host material   &&   基质材料
+host mode   &&   主机方式
+host module   &&   主机模块
+host name   &&   主机名
+host processor   &&   主处理机
+host program   &&   主程序
+host system message block   &&   主系统消息块
+host-host protocol   &&   传输协议
+host-host transmission procedures   &&   主机-主机传输程序
+host-initiated program   &&   主机启动的程序
+host-node transmission procedures   &&   主机和节点之间传输程序
+host-slave architecture   &&   主从结构
+host-slave system   &&   主从系统
+hot air   &&   热空气
+hot air jet   &&   热空气射流
+hot bath quenching   &&   热浴淬火
+hot brittle iron   &&   热脆钢
+hot brittleness   &&   热脆，热脆性
+hot bulb ignition   &&   热球点火
+hot carrier   &&   热载流子
+hot carrier diode   &&   热载流子二极管
+hot carrier effect   &&   热载流子效应
+hot cathode discharge   &&   热阴极放电
+hot chamber die casting   &&   热室压铸
+hot chip   &&   加热片
+hot constant   &&   热态常数(反应堆的)
+hot critical reactor   &&   热(中子)临界反应堆
+hot cross-section   &&   热(中子)截面
+hot dip coating   &&   热浸涂
+hot dipping   &&   热浸镀
+hot drawing   &&   ①热拔，热拉②热拔钢管法，热拔丝法
+hot drawing pipe   &&   热拔钢管
+hot ductility   &&   热延性
+hot electron   &&   热电子
+hot extrusion   &&   热挤压(法)
+hot extrusion moulding   &&   热挤压模塑
+hot filament   &&   热灯丝，热丝
+hot finisher   &&   热精轧机
+hot forging   &&   热锻
+hot forging press   &&   热锻压床
+hot formed   &&   热成型的
+hot galvanizing   &&   热镀锌
+hot gluing   &&   热胶合
+hot hardness   &&   热硬度，热硬性
+hot heading   &&   热顶锻，热顶镦，热镦粗
+hot injection moulding   &&   热压铸成型
+hot iron   &&   热铁水
+hot isostatic pressing   &&   热等静压，高温等静力压制
+hot jacket   &&   热外套
+hot junction   &&   ①热端(热电偶的)②热结，热接点
+hot laboratory   &&   强放射性物质实验室
+hot line job   &&   带电操作，带电作业
+hot line sights   &&   热线瞄准具
+hot line work   &&   带电操作，带电作业
+hot mastication   &&   热塑炼，高温塑炼，高温软化
+hot material   &&   强放射性材料，热材料
+hot melt   &&   热熔法
+hot melt method   &&   热熔黏结法
+hot method   &&   热法
+hot mill   &&   热轧机
+hot mirror   &&   热镜
+hot mirrors   &&   热镜
+hot mix   &&   热拌
+hot patch   &&   热补
+hot plasma   &&   热等离子体
+hot plasticity   &&   热塑性
+hot plate tempering   &&   热钢板回火
+hot plug   &&   ①热型火花塞②分隔式燃烧室下部带有通道的镶块
+hot press   &&   热压机
+hot press forging   &&   热压锻造
+hot press molding   &&   热压成型
+hot press welding   &&   热压焊
+hot pressing   &&   热压
+hot pressured ceramics of lead zirconate and lead titanate   &&   热压锆钛酸铅陶瓷材料
+hot process   &&   热法
+hot processing   &&   热加工
+hot repair   &&   热补
+hot resistance   &&   热电阻，耐热性
+hot riser   &&   热冒口
+hot riveting   &&   热铆(接)
+hot roll   &&   ①热轧，热辗②热轧辊
+hot rolled flat steel for cryogenic service   &&   热轧低温钢板
+hot rolled high strength low alloy steel   &&   热轧高强度低合金钢
+hot rolled killed high strength steel   &&   热轧高强度镇静钢
+hot rolled niobium structural steel   &&   热轧铌结构钢
+hot rolled silicon steel   &&   热轧硅钢
+hot rolling   &&   热轧
+hot rolling mill   &&   热轧机
+hot runner   &&   热浇道
+hot saw   &&   热锯
+hot setting   &&   热固(性)
+hot setting adhesive   &&   热固黏合剂
+hot setting machine   &&   热定形机
+hot setting resin   &&   热固树脂
+hot short   &&   热脆
+hot short iron   &&   热脆钢
+hot soak losses   &&   吸热损失
+hot spot   &&   热斑，热点，加热区
+hot spray   &&   热喷涂
+hot stage microscope   &&   热台显微镜
+hot sticking   &&   热粘
+hot strength   &&   热强度
+hot stretch   &&   热拉伸
+hot swaging   &&   热型锻
+hot tear crack   &&   热撕裂
+hot tear resistance   &&   抗高温撕裂
+hot tensile strength   &&   高温抗拉强度
+hot test   &&   ①高温试验②点火试验(飞行试验或地面试验)
+hot testing   &&   热车试验
+hot upset forging   &&   热镦锻
+hot water boiler   &&   热水锅炉
+hot water circulation system   &&   热水循环系统
+hot water curing   &&   热水固化，热水硫化
+hot water heating   &&   热水加热
+hot water rocket engine   &&   热水火箭发动机
+hot water valve   &&   热水阀
+hot wire   &&   热丝，热线，带电电线
+hot wire anemometer   &&   热线风速表
+hot wire flow sensor   &&   热线流量传感器
+hot wire flow transducer   &&   热线流量传感器
+hot work die steel   &&   热锻模用钢
+hot-air ageing   &&   热空气老化
+hot-air balloon   &&   热气球
+hot-air blast   &&   ①热风，热鼓风②(炽)热空气射流③气动力加热
+hot-air blower   &&   热鼓风机
+hot-air cure   &&   热空气硫化
+hot-air drier   &&   热风干燥器
+hot-air funnel   &&   热-气(双层)漏斗
+hot-air furnace   &&   热风炉
+hot-air stove   &&   热风炉
+hot-atom effect   &&   热原子效应
+hot-blast cupola   &&   热风化铁炉
+hot-blast pig iron   &&   热风生铁
+hot-blast stove   &&   热风炉
+hot-blast temperature   &&   热风温度
+hot-cathode   &&   热阴极
+hot-cathode arc ion source   &&   热阴极弧离子源
+hot-cathode lamp   &&   热阴极灯
+hot-cathode rectifier   &&   热阴极整流器
+hot-cathode tube   &&   热阴极电子管
+hot-dip galvanizing   &&   热镀锌
+hot-dip process   &&   热浸镀法
+hot-dipping   &&   热浸渍
+hot-drawing   &&   热拔，热拔丝法，热拉
+hot-drawn tube   &&   热拉管
+hot-electron transistor   &&   热电子晶体(三极)管
+hot-forming   &&   热成型
+hot-line   &&   热线(通信的)，带电线路
+hot-mould   &&   热模，热模塑
+hot-moulded mica   &&   热力模压型云母
+hot-poured crack filler   &&   热灌填缝料
+hot-press forming   &&   热压成型
+hot-quenching   &&   热淬
+hot-rod   &&   改装的汽车
+hot-runner mold   &&   热流道模具
+hot-runner molding die   &&   热流道模具
+hot-shift PTO   &&   远程操纵的功率输出装置
+hot-sizing mill   &&   热校正机
+hot-spot application   &&   热点利用
+hot-spot model   &&   热斑模型
+hot-spot phenomenon   &&   热斑现象
+hot-spot temperature   &&   过热点温度，最热点温度，热斑温度
+hot-start enrichment   &&   热机起动加浓
+hot-strip   &&   ①热轧带材，热轧带钢②热轧带划伤
+hot-waste water   &&   热废水
+hot-water   &&   热水
+hot-wire anemometer   &&   热线风速计
+hot-wire galvanometer   &&   热线检流计
+hot-wire meter   &&   热线式仪表
+hot-wire relay   &&   热线式继电器(热敏继电器的一种)
+hot-wire respiratory flow sensor   &&   热丝(式)呼吸流量传感器
+hot-wire respiratory flow transducer   &&   热丝(式)呼吸流量传感器
+hot-wire turbulence meter   &&   热线湍流计
+hot-wire voltmeter   &&   热线式伏特计
+hot-working   &&   热加工
+hotel management information system   &&   饭店管理信息系统
+hotspot   &&   聚光角 聚光点
+houghite   &&   水滑石
+hour-glass   &&   砂漏
+hour-hand   &&   时针
+hourglass worm steering   &&   球面蜗杆式转向器
+hourly-machine rate   &&   机器每小时生产率
+house cable   &&   ①室内电缆②用户电缆
+house connecting box   &&   用户分线箱
+house generating set   &&   厂用发电机组
+house hold appliance   &&   家用电器
+house hold articles   &&   家庭用具
+house service wire   &&   进户线
+house telephone   &&   内部电话
+house wiring   &&   室内布线
+house-service equipments   &&   厂用电设备
+house-service switchgear   &&   厂用开关装置伸
+household electrical appliance   &&   家用电器
+household motor   &&   家用电动机
+housing   &&   灯体，外壳
+housing end plug   &&   挡盖组件
+housing limit temperature   &&   外壳极限温度
+hovercraft   &&   ①悬浮运载工具，气垫飞行器②气垫船，气垫艇
+hoverferry   &&   气垫渡船
+hovership   &&   气垫船，气垫艇
+howitzer   &&   榴弹炮
+howling   &&   啸声，颤噪效应
+howling damping   &&   啸声衰减
+hub   &&   ①(轮)毂，毂盘②(衬)套，套节，固定套筒③突口④交流声，哼声⑤集线器
+hub cap   &&   轮毂端盖
+hub plate   &&   从动盘毂
+hub reduction   &&   轮边减速
+huebnerite   &&   钨锰矿
+huge system   &&   巨系统
+hull   &&   ①船壳，船体②壳，包壳
+hull assembly   &&   船体装配
+hull cell   &&   薄膜电池
+hull plate   &&   船用钢板
+hull potential   &&   船壳电位
+hull structural member   &&   船体构件
+hull structure   &&   船体结构
+hulling machine   &&   脱粒机，去壳机
+hum   &&   交流声
+hum eliminator   &&   哼声抑制器
+hum interference   &&   哼声于扰，蜂鸣干扰
+hum level   &&   哼声电平
+hum noise   &&   哼声，交流声
+hum-balancing resistor   &&   哼声抵消电阻器
+hum-bucking coil   &&   (交流)哼声抑制线圈
+hum-free   &&   无交流声，无哼哼声
+hum-to-signal ratio   &&   哼声信号比
+human language   &&   人类语言，自然语言
+human resource management information system   &&   人力资源管理信息系统
+human simulation   &&   人的仿真
+human-machine interfaces   &&   人-机接口
+human-oriented language   &&   面向人类语言
+humid air   &&   湿空气
+humid heat test   &&   湿热试验
+humidification   &&   加湿
+humidifier   &&   加湿器
+humidistat   &&   恒湿器，湿度调节器
+humidity   &&   湿度
+humidity constant state   &&   恒湿状态
+humidity control   &&   湿度控制
+humidity control system   &&   湿度调节系统
+humidity controller   &&   湿度控制器
+humidity fluctuation   &&   湿度波动度
+humidity of the air   &&   空气湿度
+humidity range   &&   湿度范围
+humidity sensitive capacitor   &&   湿敏电容器
+humidity sensor   &&   湿敏组件，湿度传感器
+humidity transducer   &&   湿度传感器
+humidity uniformity   &&   湿度均匀性
+humidity-dependent resistor   &&   湿敏电阻器
+hummer   &&   哼声器，蜂音器
+hump locomotive   &&   驼峰调车机车
+hump voltage   &&   凸起电压，驼峰电压，峰值电压(频率特性曲线的)
+hundredweight   &&   英担 (四分之一英担 =50.80千克)
+hunter   &&   搜索器，寻觅器
+hunter-killer   &&   反潜潜艇
+hunter-killer carrier   &&   反潜航空母舰
+hunter-killer helicopter   &&   反潜直升飞机
+hunter-killer submarine   &&   反潜潜艇
+hunting   &&   ①振荡，波动②摆动③搜索，寻线
+hunting angle   &&   振荡角，摆动角
+hunting circuit   &&   寻线电路
+hunting contact   &&   寻线触点
+hunting frequency   &&   振荡频率，摆动频率
+hunting of generator   &&   发电机振荡
+hunting of governor   &&   调速器振荡
+hunting of load   &&   负载振荡，负载摆动
+hunting period   &&   ①振荡周期，摆动周期②搜索周期
+hunting power   &&   振荡功率，动荡功率
+hunting speed   &&   ①(步调)追逐速率②振荡速度③寻线速度
+hunting time   &&   ①振荡持续时间，晃动持续时间②寻线时期
+hunting tooth combination   &&   大小齿轮齿数无公因数的齿轮副
+hupermesh   &&   超配合
+hush kit   &&   噪声抑制器材
+hybrid   &&   ①混合物，混合②等差作用③桥接岔路④混合波导联结
+hybrid analog computer   &&   混合模拟计算机
+hybrid analog-digital simulation   &&   模拟-数字混合仿真
+hybrid analysis   &&   混合分析
+hybrid array   &&   混合方阵
+hybrid asynchronous linear electromotor   &&   混合型异步直线电动机
+hybrid balance   &&   混合线圈平衡
+hybrid circuit   &&   ①混合电路②波导管T形接头
+hybrid coil   &&   混合线圈，差动线圈
+hybrid combination   &&   混合装配，混合组合
+hybrid computer   &&   混合计算机，复合计算机
+hybrid computer simulation   &&   混合计算机仿真
+hybrid computer translator   &&   混合计算机翻译器，复合计算机翻译器
+hybrid control   &&   混合计算机控制
+hybrid control computer   &&   混合控制计算机
+hybrid correlation   &&   混合相关
+hybrid electromagnetic wave   &&   混合电磁波，复合电磁波
+hybrid engine   &&   混合发动机
+hybrid fibre reinforced composite   &&   双纤维增强复合材料
+hybrid hardware control   &&   混合硬件控制
+hybrid input/output   &&   混合输入输出
+hybrid integrated circuit   &&   混合集成电路[HIC]
+hybrid interface   &&   混合接口
+hybrid junction   &&   ①混合连接，混接②桥接
+hybrid library   &&   混合程序库
+hybrid main program   &&   混合主程序
+hybrid microstructure   &&   混合微型结构
+hybrid model   &&   混合模型
+hybrid network   &&   混合网络
+hybrid parameter   &&   混合参数
+hybrid power source   &&   混合电源
+hybrid power supply   &&   混合供电
+hybrid power system   &&   混合能源系统
+hybrid processor   &&   混合处理器
+hybrid programming   &&   混合程序编制
+hybrid propellant   &&   固液混合推进剂
+hybrid propellant rocket   &&   固液混合推进剂火箭
+hybrid propellant rocket engine   &&   混合推进剂火箭发动机
+hybrid propulsion   &&   固液混合推进
+hybrid regulator   &&   混合调节器
+hybrid relay   &&   混合继电器
+hybrid repeater   &&   混合中继器
+hybrid simulation   &&   混合仿真，混合模拟
+hybrid software   &&   混合软件
+hybrid solar-electric service   &&   混合式太阳电池设施
+hybrid telescope   &&   混合式望远镜
+hybrid thin-film circuit   &&   混合薄膜电路
+hybrid transformer   &&   混合变压器
+hybrid transistor-diode logic   &&   混合式晶体管-二极管逻辑回路
+hybrid transmission system   &&   混合传输系统
+hybrid travelling-wave klystron   &&   混合行波速调管
+hybrid vehicle   &&   混合驱动汽车
+hybrid wave   &&   混合波
+hybrid wave function   &&   混合波函数
+hybrid-type circuit   &&   混合型电路，多片电路
+hybridization   &&   杂化
+hybridization of atomic orbitals   &&   原子轨道的杂化
+hybridized orbital   &&   杂化轨道
+hycomax   &&   铝镍钴系永久磁铁(Ni 21％ Co 20％，Al 9％，Cu 2％)
+hydel plant   &&   水力发电厂
+hydel power   &&   水力动力，水电能
+hydragas suspension   &&   液气悬架
+hydrant   &&   消防栓
+hydration classifier   &&   水力分级机
+hydration heat   &&   水合热
+hydration plant   &&   水化设备
+hydrator   &&   水化器
+hydraulic accumulator   &&   液压蓄能器
+hydraulic actuating mechanism   &&   液动执行机构，液压执行机构
+hydraulic actuator   &&   ①液压执行组件②液压传动装置，液压动作器，液压执行机构
+hydraulic amplifier   &&   液压放大器
+hydraulic analogue method   &&   液压模拟法
+hydraulic boiler test   &&   锅炉水压试验
+hydraulic brake   &&   液压制动器，液压刹车，液压制动器
+hydraulic brake fluid   &&   水力制动液体
+hydraulic braking   &&   液压制动
+hydraulic buffer   &&   液压缓冲器，液压减震器
+hydraulic circuit   &&   液压管路，液压回路
+hydraulic classifier   &&   水力分粒机
+hydraulic clutch   &&   液力偶合器
+hydraulic coke removal   &&   水力法出焦
+hydraulic component   &&   液压组件
+hydraulic components   &&   液压组件
+hydraulic computer   &&   液压计算机
+hydraulic conductivity   &&   水力传导率
+hydraulic control   &&   液压调节，液压控制，液动控制
+hydraulic control mechanism   &&   液压操纵机构
+hydraulic control system   &&   液压调节系统
+hydraulic control valve   &&   液压控制阀
+hydraulic conveying   &&   水力输送
+hydraulic coupler   &&   液力偶合器
+hydraulic couplers   &&   齿轮滚刀，液力耦合器
+hydraulic coupling   &&   液压联轴节，液力联接器
+hydraulic crane   &&   水力吊车，液压起重机
+hydraulic cyclone   &&   水力旋流器
+hydraulic cylinder   &&   液压油缸，液圧缸
+hydraulic damper   &&   液压减震器
+hydraulic damping   &&   液力阻尼
+hydraulic device   &&   液压装置
+hydraulic diameter   &&   水力直径
+hydraulic drive   &&   水力传动，液压传动
+hydraulic drop   &&   落差
+hydraulic dynamometer   &&   ①液压测力计②液压测功计③水力测功器，水力功率计
+hydraulic electrogenerating   &&   水力发电
+hydraulic elevator   &&   液压升降机，液压电梯
+hydraulic energy   &&   水力能源
+hydraulic extruder   &&   液压压出机
+hydraulic forging press   &&   锻造液压机
+hydraulic fracturing   &&   水力破碎
+hydraulic gear   &&   液压传动机构
+hydraulic generator   &&   水轮发电机
+hydraulic governor   &&   电液调速器，液压调速器
+hydraulic head   &&   液压压头
+hydraulic head assembly   &&   高压泵头总成
+hydraulic hoist   &&   水力提升机
+hydraulic intensifier   &&   液压增强器
+hydraulic interlocking   &&   液压联锁
+hydraulic jack   &&   ①液压千斤顶②水力千斤顶 ③油缸
+hydraulic lift   &&   水力提升机，液压起重机，液压电梯，水力起重机，液压起落机构
+hydraulic lifter   &&   液压挺柱
+hydraulic machine   &&   油压机
+hydraulic machinery   &&   液压机械
+hydraulic magnetic trip unit   &&   液力磁性脱扣装置
+hydraulic mechanism   &&   液压机构，齿轮滚刀
+hydraulic mining   &&   水力开采
+hydraulic motor   &&   水力发动机，液压马达，液压发动机，液力发动机
+hydraulic natural frequency   &&   液压固有频率
+hydraulic oil   &&   液圧油
+hydraulic packing   &&   液压封垫
+hydraulic power   &&   水力，水能
+hydraulic power generation   &&   水力发电
+hydraulic power pack   &&   液压动力单元
+hydraulic power plant   &&   水(力发)电厂(力发)电站
+hydraulic power pool   &&   水电联合系统
+hydraulic power supply   &&   液压动力源
+hydraulic power tools   &&   液压工具
+hydraulic power transmission   &&   液压传动
+hydraulic power unit   &&   液压泵站
+hydraulic power units   &&   液压动力组件
+hydraulic press   &&   液压机，水压机
+hydraulic pressure   &&   液压，水压
+hydraulic pressure gauge   &&   液压表
+hydraulic pressure gradient   &&   液压梯度
+hydraulic pressure head   &&   液压压头
+hydraulic pressure test   &&   液压试验
+hydraulic pump   &&   水力泵，液压泵
+hydraulic pusher   &&   液压推车机
+hydraulic radius   &&   水力半径
+hydraulic ram   &&   液压顶杆，液压机冲头，液压撞击机
+hydraulic retarder   &&   液力缓速器
+hydraulic rotary cylinders   &&   液压回转缸
+hydraulic seal   &&   水封
+hydraulic separator   &&   水力离析器
+hydraulic servo   &&   液压伺服机，液压伺服系统，液压伺服机构
+hydraulic servo-motor   &&   液压伺服马达
+hydraulic steering   &&   液压传动控制，水力传动控制
+hydraulic step motor   &&   液压步进马达
+hydraulic stepless speed change   &&   液压无级变速
+hydraulic stepless speed changes   &&   液压无级变速，齿轮滚刀
+hydraulic stepping motor   &&   液压步进马达
+hydraulic system   &&   液压系统
+hydraulic tappet   &&   液压挺柱
+hydraulic tappet unit   &&   液压挺柱组件
+hydraulic telemetry   &&   液压遥控技术
+hydraulic testing machine   &&   液压式试验机
+hydraulic tool   &&   液压工具
+hydraulic torque converter   &&   液压变扭器
+hydraulic transmission   &&   液力传动
+hydraulic transmission unit   &&   液压传动装置
+hydraulic turbine   &&   水轮机，水力透平
+hydraulic vibrator   &&   液压振动器
+hydraulic vulcanizing machine   &&   液压硫化机
+hydraulic work   &&   水力发电工程
+hydraulic-formed bellows   &&   液压波纹管
+hydraulically driving arrangement   &&   液压传动装置
+hydraulically tuned magnetron   &&   液压调谐磁控管
+hydrazine fuel   &&   肼燃料，联氨燃料
+hydrazine fuel cell   &&   肼燃料电池
+hydrazine-air fuel cell   &&   肼－空气燃料电池
+hydride   &&   氢化物
+hydrion   &&   氢离子，质子
+hydro pumped storage   &&   抽水蓄能
+hydro-biplane   &&   双翼水上飞机
+hydro-conversion   &&   加氢转化
+hydro-elastic-plastic body   &&   流体-弹-塑性体
+hydro-elastic-plastic model   &&   流体-弹-塑性模型
+hydro-fining   &&   加氢精制
+hydro-finishing   &&   加氢精制
+hydro-generator   &&   水轮发电机，水力发电机，氢气发生器
+hydro-motor   &&   液压马达，油马达
+hydro-mount   &&   液力悬置
+hydroacoustic transducer   &&   水声传感器
+hydroaeroplane   &&   水上飞机
+hydrocarbon   &&   碳氢化合物
+hydrocarbon emissions   &&   碳氢化合物排放
+hydrocarbon fuel   &&   烃类燃料
+hydrocarbon trap   &&   碳氢化合物捕集器
+hydroclassifier   &&   水力分粒机
+hydrocondensation   &&   加氢缩合反应
+hydrocracker   &&   加氢裂化器
+hydrocracking process   &&   加氢裂解法
+hydrocracking unit   &&   加氢裂解装置
+hydrocyclone   &&   ①水力旋流器②旋液分离器，(水流)离心除尘机
+hydrodenitrification   &&   加氢脱氮作用
+hydrodesulfurization   &&   加氢脱硫作用
+hydrodynamic analog   &&   流体动力模拟
+hydrodynamic drive   &&   动液传动，液力传动，齿轮滚刀
+hydrodynamic experiment   &&   水动力学实验
+hydrodynamic governor   &&   液压调速器
+hydrodynamic journal bearing   &&   液体动压轴承，油膜轴承
+hydrodynamic lubrication   &&   液压润滑，动液润滑
+hydrodynamic noise   &&   水动力噪声，流体动力噪声，液体动力噪声
+hydrodynamic transducer   &&   流体动力型换能器
+hydrodynamics   &&   流体动力学，水动力学，水能动力学
+hydrodynamometer   &&   流量计，流速计
+hydroelectric analog-simulation   &&   水电模似
+hydroelectric conversion efficiency   &&   水电换能效率
+hydroelectric development   &&   水电开发
+hydroelectric engineering   &&   水力发电工程
+hydroelectric generating set   &&   水轮发电机组
+hydroelectric generating station   &&   水力发电站
+hydroelectric potential   &&   水力资源
+hydroelectric potentiality   &&   水力蕴藏量
+hydroelectric power   &&   水电，水电力
+hydroelectric power generation   &&   水力发电
+hydroelectric power house   &&   水电站厂房
+hydroelectric power plant   &&   水力发电厂
+hydroelectric power station   &&   水电站，水力发电站
+hydroelectric resources   &&   水电资源，水力资源
+hydroelectric station   &&   水电厂，水电站，水力发电站
+hydroelectric storage   &&   水电蕴藏
+hydroelectrical cell   &&   水电池
+hydroenergy   &&   水能
+hydroexpansivity   &&   水膨胀性
+hydrofining   &&   加氢精制
+hydrofoil   &&   ①水翼②水翼艇
+hydrofoil craft   &&   水翼艇
+hydrofoil profile   &&   水翼翼型
+hydrofoil shape vehicle   &&   水翼型拖曳体
+hydrofoil ship   &&   水翼艇
+hydrofoil test boat   &&   水翼试验艇
+hydroforming   &&   液压成型，加氢重整
+hydrofracture   &&   水力破碎
+hydrogasification   &&   加氢气化
+hydrogasoline   &&   加氢汽油
+hydrogel   &&   水凝胶
+hydrogen   &&   氢
+hydrogen bomb   &&   氢弹
+hydrogen brittleness   &&   氢脆
+hydrogen burning   &&   氢燃烧
+hydrogen coolant   &&   氢冷却剂
+hydrogen cooling   &&   氢冷(却)
+hydrogen diode   &&   氢二极管
+hydrogen electrode   &&   氢电极
+hydrogen embrittlement   &&   氢脆
+hydrogen fuel   &&   氢燃料
+hydrogen fusion reaction   &&   氢聚变反应
+hydrogen inner cooling   &&   直接氢冷(的)，氢内冷(的)
+hydrogen inner-cooling generator   &&   直接氢冷发电机，氢内冷发电机
+hydrogen maser   &&   氢微波激射器，氢脉塞
+hydrogen outer cooling   &&   间接氢冷(的)，氢外冷(的)
+hydrogen overpotential   &&   氢过电位压
+hydrogen overvoltage   &&   氢过电压
+hydrogen regulator   &&   氢气减压器
+hydrogen thyratron   &&   氢气闸流管
+hydrogen(pressure)gauge   &&   氢压力表
+hydrogen-cooled generator   &&   氢冷发电机，氢气冷却发电机
+hydrogen-cooled rotor   &&   氢冷转子
+hydrogen-cooled turbo-alternator   &&   氢冷汽轮发电机
+hydrogen-filled rectifier   &&   充氢整流器
+hydrogen-like atom   &&   类氢原子
+hydrogen-oxygen cell   &&   氢氧电池氢过电
+hydrogen-oxygen fuel cell   &&   氢-氧燃料电池
+hydrogenated apparatus   &&   加氢装置
+hydrogenated fuel   &&   加氢燃料
+hydrogenated gasoline   &&   加氢汽油
+hydrogenated plant   &&   加氢装置
+hydrogenated unit   &&   加氢装置
+hydrogenation   &&   加氢，氢化
+hydrogenation apparatus   &&   氢化装置
+hydrogenation reaction chamber   &&   加氢反应器
+hydrogenization   &&   加氢
+hydrogeothermy   &&   水文地热学
+hydrographic winch   &&   水文绞车
+hydrojet   &&   液力喷射
+hydrojet propelled ship   &&   喷水推进船
+hydrokinetic transmission   &&   动液传动
+hydrokinetics   &&   流体动力学
+hydrolastic suspension   &&   液力联系悬架
+hydromagnetic DC converter   &&   磁流体直流变流器
+hydromagnetics   &&   (电)磁流体(动)力学
+hydromagnetite   &&   水磁铁矿
+hydromechanics   &&   流体力学
+hydrometallurgical plant   &&   水冶设备
+hydromica   &&   水云母
+hydromuscovite   &&   水白云母
+hydrophone   &&   水下听音器，水听器
+hydrophone calibrator   &&   水听器校准器
+hydrophone streamer   &&   海洋地城电缆，拖缆，漂浮电缆
+hydroplane   &&   ①水上飞机②水上滑艇③水平舵(潜艇的)
+hydroplaning   &&   滑水效应制
+hydropneumatic accumulator   &&   液压气压蓄能器，气水蓄力器
+hydropower   &&   水能
+hydropower station   &&   水力发电站
+hydropress   &&   ①液压机②(装有橡皮垫的)单作用液压机，水压机
+hydroprocessing   &&   加氢处理
+hydroseparator   &&   水力离析器
+hydrospark forming process   &&   ①水中放电成型法②电水锤成型法
+hydrostatic   &&   静压传动
+hydrostatic bearing   &&   静压轴承
+hydrostatic equilibrium   &&   流体静力学平衡
+hydrostatic extrusion   &&   静力挤压
+hydrostatic gas-lubricated bearing   &&   静压气压轴承
+hydrostatic head   &&   静水头
+hydrostatic level   &&   液体静力水准仪
+hydrostatic lubrication   &&   流体静力润滑，液体静压润滑
+hydrostatic overpressure test   &&   静水超压试验
+hydrostatic pressure   &&   流体静压力，流体静压强
+hydrostatic water tunnel   &&   静水槽
+hydrostatics   &&   流体静力学
+hydrostorage   &&   水能储蓄
+hydrothermal circulation   &&   水热循环
+hydroturbine   &&   水轮机，水涡轮
+hygrograph   &&   湿度计
+hygrometer   &&   湿度表
+hygrometer calibration chamber   &&   湿度表检定箱
+hygrothermograph   &&   温湿计
+hyper frequency wave   &&   微波，超高频波
+hyper ionic atom   &&   超(子)原子
+hyper osmotic   &&   高渗(透)
+hyper osmotic anhydration   &&   高渗透性脱水
+hyper osmotic pressure   &&   高渗透压
+hyper osmoticity   &&   高渗透性
+hyper pressure   &&   超压
+hyper sonic   &&   高超声速，高超音速(大于5马赫)
+hyper sonic aerodynamics   &&   高声速空气动力学
+hyper sonic aircraft   &&   超声速飞机，高声速飞机
+hyper sonic characteristics   &&   高声速特性
+hyper sonic combustion   &&   高声速燃烧
+hyper sonic flight   &&   高声速飞行
+hyper sonic flow   &&   高声速流动
+hyper sonic flow theory   &&   高声速流动理论
+hyper sonic heat transfer   &&   高声速传热
+hyper sonic inlet   &&   高声速进气管
+hyper sonic nozzle   &&   高声速喷管
+hyper sonic reentry   &&   高声速再人
+hyper sonic speed   &&   高超声速
+hyper sonic vehicle   &&   高声速飞行器
+hyper sonic wake   &&   高声速尾迹，高声速尾流
+hyper sonic wind tunnel   &&   高声速风洞
+hyper stoichiometry   &&   超化学计量
+hyper tonic solution   &&   高渗透溶液
+hyper variable   &&   超变量
+hyper-frequency   &&   超高频
+hyperacoustic   &&   超声波的
+hyperbolic   &&   双曲线的
+hyperboloid gear   &&   双曲面齿轮
+hyperboloid of one sheet   &&   单叶双曲面
+hyperboloid of one sheet of revolution   &&   单叶旋转双曲面
+hypercycle theory   &&   超循环理论
+hyperelasticity   &&   超弹性
+hypergolic fuel   &&   双组分火箭燃料，自燃火箭燃料
+hyperlink   &&   超级链接 超连结
+hypermedia   &&   超媒体
+hyperstability   &&   超稳定性
+hypertext   &&   超文本
+hypo eutectoid steel for cold working   &&   冷加工亚共析钢
+hypo-eutectic   &&   低级共熔体，亚共析
+hypoid axle   &&   准双曲线桥
+hypoid bevel gear   &&   准双曲线伞齿轮，偏轴伞齿轮
+hypoid gear   &&   准双曲面齿轮
+hypoid gears   &&   准双曲面齿轮
+hypoid offset   &&   准双曲面齿轮偏置距
+hypsometer   &&   沸点测高表
+hysteresigraph   &&   磁滞回线记录仪
+hysteresimeter   &&   磁滞测定器，磁滞计
+hysteresis   &&   迟滞性，滞后，滞后作用
+hysteresis characteristic   &&   磁滞特性(曲线)
+hysteresis coefficient   &&   磁滞系数，滞后系数
+hysteresis curve   &&   磁滞回线，磁滞曲线
+hysteresis cycle   &&   磁滞回线，磁滞循环，磁滞周期
+hysteresis damping   &&   滞后阻尼
+hysteresis effect   &&   磁滞现象
+hysteresis error   &&   滞环误差，滞后误差
+hysteresis error plus dead band   &&   回差
+hysteresis loop   &&   磁滞回线，滞后环，滞环
+hysteresis loop method   &&   磁滞回线法
+hysteresis loss   &&   磁滞损耗，磁滞损失
+hysteresis material   &&   磁滞材料
+hysteresis meter   &&   磁滞测定器
+hysteresis motor   &&   磁滞电动机
+hysteresis power loss   &&   磁滞功率损耗
+hysteresis synchronous motor   &&   磁滞同步电动机
+hysteresis tester   &&   磁滞测定器
+hysteretic angle   &&   磁滞角
+hysteretic effect   &&   滞后效应
+hysteretic lag angle   &&   磁滞角

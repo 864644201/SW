@@ -1,0 +1,4135 @@
+F-Center Lasers   &&   铁离子中心激光
+F-head engine   &&   F型发动机
+FAT   &&   (Forschungsvereinigung Auomobiltechnik (Germany)) 汽车技术研究协会(德)
+FAX   &&   传真机
+FBP   &&   (Final Boiling Point) 完全蒸发时的温度
+FDDI   &&   (Fiber Distributed Data Interface) 光纤分布式数据接口
+FDDI Network Equipment   &&   光纤分布式资料界面网路设备
+FEMA   &&   (Failure Mode and Effects Analysis) 失效形式和现象分析
+FET   &&   (Field Effect Transistor) 场效应晶体管
+FET gas sensor   &&   场效应(管)湿度传感器
+FET gas transducer   &&   场效应(管)湿度传感器
+FEVI   &&   (Front-End Volatility Index) 前端挥发性指数
+FFV   &&   (Flexible Fueled Vehicle) 可变通燃料的车辆
+FI   &&   (Fuel Injection) 燃油喷射
+FIA   &&   ①(Fluorescent Indicator Adsorption) 萤光吸附指示器②(Federation Internationale de l'Automobile) 国际汽车联合会
+FID   &&   ①(Fuel Injector Driver (electronic))  (电控)喷油器驱动装置②(Flame Ionization Detector (analyser))  排气检测仪
+FIE   &&   (Fuel Injection Equipment) 燃油喷射设备
+FISlTA   &&   (Federation Intemationale des Societes d'Ingenieurs  des Techniques de l'Automobile) 国际汽车工程师学会联合会
+FM wave   &&   频率调制波
+FMVSS   &&   (Federal Motor Vehicle Safety Standard (US)) (美)联邦机动车安全标准
+FTA   &&   (Freight Transport Association (UK)) (英)货物运输协会
+FTP   &&   (Federal Test Procedure (US)) (美)联邦试验方法
+FVLI   &&   (Flexi-Volatihty Index) 柔变指数
+FWD   &&   ①(Four-Wheel Drive) 四轮驱动②(Front-Wheel Drive)  前轮驱动
+Fabry-Perot interferometers   &&   Fabry-Perot干涉仪
+Fahrenheit   &&   华氏温度，华氏度
+Fahrenheit temperature scale   &&   华氏温标
+Falex Test   &&   法菜克斯试验
+Faraday cage   &&   法拉第笼(静电屏蔽用)，静电屏蔽
+Faraday constant   &&   法拉第常数
+Faraday cup   &&   法拉第(圆)筒
+Faraday current   &&   法拉第电流
+Faraday cylinder   &&   法拉第(圆)筒
+Faraday disk   &&   法拉第圆盘
+Faraday effect   &&   法拉第效应
+Faraday impedance   &&   法拉第阻抗
+Faraday isolator   &&   法拉第隔离器
+Faraday rectification   &&   法拉第整流
+Faraday rotation   &&   法拉第旋转
+Faraday rotation circulator   &&   法拉第旋转式环行器
+Faraday rotation glass   &&   法拉第旋转式玻璃
+Faraday rotation isolator   &&   法拉第旋转式隔离器
+Faraday screen   &&   法拉第屏蔽
+Faraday shield   &&   法拉第屏蔽
+Faraday's law   &&   法拉第定律
+Faraday's law of electrolysis   &&   法拉第电解定律
+Faraday's law of electromagnetic induction   &&   法拉第电磁感应定律
+Federal Test Procedure   &&   联邦试验程序 [FTP]
+Federal bumper   &&   联邦安全保险杠
+Federal version   &&   联邦排放标准
+Fermi Yang model   &&   费米-杨模型
+Fermi age   &&   费米年龄
+Fermi age approximation   &&   费米近似
+Fermi age equation   &&   费米方程
+Fermi age theory   &&   费米理论
+Fermi distribution   &&   费米分布
+Fermi energy   &&   费米能(量)
+Fermi function   &&   费米函数
+Fermi gas   &&   费米气体
+Fermi gas model   &&   费米气体模型
+Fermi golden rule   &&   费米黄金定则
+Fermi interaction   &&   费米相互作用
+Fermi level   &&   费米能级
+Fermi level pinning   &&   费米能级钉扎效应
+Fermi liquid   &&   费米液体
+Fermi momentum   &&   费米动量
+Fermi plot   &&   费米图
+Fermi potential   &&   费米势
+Fermi resonance   &&   费米共振
+Fermi sea   &&   费米海
+Fermi spectrum   &&   费米谱
+Fermi sphere   &&   费米球
+Fermi statistics   &&   费米统计
+Fermi surface   &&   费米面
+Fermi temperature   &&   费米温度
+Fermi velocity   &&   费米速度
+Fermi wave vector   &&   费米波矢
+Fermi weak interaction theory   &&   费米弱作用理论
+Fernichrome   &&   铁镍钴铬合金(Ni 30％，Co 25％，Ct 8％，余为Fe)
+Fernico   &&   铁镍钴合金(Ni 28％～30％，Co 15％～19％，余为Fe)
+Fiber Distributed Data Interface Network   &&   FDDI网络
+Fiber Optic Bundles Non-silica Imaging   &&   多成分影像光纤
+Fiber Optic Bundles Silica Imaging   &&   石英系影像光纤
+Fiber Optic Cable Dispersion-Shifted   &&   色散位移光缆
+Fiber Optic Cable Multimode Silica 100140   &&   多模态石英系(100140)光缆
+Fiber Optic Cable Multimode Silica 62.5125   &&   多模态石英系(62.5125)光缆
+Fiber Optic Cable Multimode, Silica 50125   &&   多模态石英系(50125)光缆
+Fiber Optic Cable Plastic   &&   塑胶光缆
+Fiber Optic Cable Plastic-Clad Silica   &&   石英系塑胶包覆光缆
+Fiber Optic Cable Polarization - Maintaining   &&   偏振恒持光缆
+Fiber Optic Cable Single Mode Standard Loosely Buffered Aerial   &&   单模态标准型松包悬空式光缆
+Fiber Optic Cable Single Mode Standard Loosely Buffered Direct Buried   &&   单模态标准型松包直埋式光缆
+Fiber Optic Cable Single Mode Standard Loosely Buffered Duct   &&   单模态标准型松包管路式光缆
+Fiber Optic Cable Single Mode Standard Tightly Buffered Multifiber   &&   单模态标准型紧包多心式光缆
+Fiber Optic Cable Single Mode Standard Tightly Buffered Single Fiber   &&   单模态标准型紧包单心式光缆
+Fiber Optic Color Mark Photo Sensors   &&   光纤式色彩标记感测器
+Fiber Optic Connectors Multimode Adapter (ST,SMA,FCPC)   &&   多模态光纤连接器插座(ST，SMA，FCPC)
+Fiber Optic Connectors Multimode D4   &&   多模态D4光纤连接器
+Fiber Optic Connectors Multimode FCPC   &&   多模态FCPC相容光纤连接器
+Fiber Optic Connectors Multimode FDDI   &&   多模态FDDI光纤连接器
+Fiber Optic Connectors Multimode Multi-Channel   &&   多模态多心光纤连接器
+Fiber Optic Connectors Multimode SC   &&   多模态SC光纤连接器
+Fiber Optic Connectors Multimode SMA   &&   多模态SMA光纤连接器
+Fiber Optic Connectors Multimode ST   &&   多模态ST光纤连接器
+Fiber Optic Connectors Single Mode APC   &&   单模态APC光纤连接器
+Fiber Optic Connectors Single Mode Adapter (ST,FCPC,SC, Biconic)   &&   单模态光纤连接器插座(ST,FCPC,SC,Biconic)
+Fiber Optic Connectors Single Mode Biconic   &&   单模态Biconic光纤连接器
+Fiber Optic Connectors Single Mode D4   &&   单模态D4光纤连接器
+Fiber Optic Connectors Single Mode FCPC   &&   单模态FCPC光纤连接器
+Fiber Optic Connectors Single Mode FDDI   &&   单模态FDDI光纤连接器
+Fiber Optic Connectors Single Mode Multi-Channel   &&   单模态多心光纤连接器(MT)
+Fiber Optic Connectors Single Mode SC   &&   单模态SC光纤连接器
+Fiber Optic Connectors Single Mode ST   &&   单模态ST光纤连接器
+Fiber Optic Fibers Dispersion - Shifted   &&   色散位移光纤
+Fiber Optic Fibers Plastic   &&   塑胶光纤
+Fiber Optic Fibers Plastic - Clad Silica   &&   石英系塑胶包覆光纤
+Fiber Optic Fibers Polarization - Maintaining   &&   偏振恒持光纤
+Fiber Optic Fibers Silica Multimode Graded Index 100140   &&   石英系多模态渐近式折射率型光纤(100140)
+Fiber Optic Fibers Silica Multimode Graded Index 62.5125   &&   石英系多模态渐近式折射率型光纤(62.5125)
+Fiber Optic Fibers Silica Multimode Graded Index50125   &&   石英系多模态渐近式折射率型光纤(50125)
+Fiber Optic Fibers Silica Multimode Step Index   &&   石英系多模态步阶式折射率型光纤
+Fiber Optic Fibers Silica Single Mode Standard   &&   石英系单模态标准型光纤
+Fiber Optic Medical Fiberscopes   &&   医疗用光纤镜
+Fineman nephoscope   &&   法因曼测云器
+Fizeau Interferometers   &&   Fizeau干涉仪
+Fortin barometer   &&   福丁气压表
+Forward Error Correction   &&   正向纠错
+Fottinger coupling   &&   福廷格液力变矩器
+Fouier transform ion cyclotron resonance mass spertrometer   &&   傅立叶变换离子回旋共振质谱计[FT-ICR-MS]
+Fourier Lenses   &&   傅利叶透镜
+Fourier analysis   &&   傅里叶分析
+Fourier transform   &&   傅里叶变换
+Fourier transform infrared spectrometry   &&   傅立叶变换红外光谱法
+Fourier transform spectrometer   &&   傅里叶变换光谱仪
+Francis turbine   &&   轴流式透平，弗郎西斯式(水)轮机
+Frenel lens   &&   菲氏透镜
+Freon   &&   氟氯碳
+Fresnal diffraction string   &&   费涅尔衍射条纹
+Fresnel Lenses   &&   菲涅尔透镜
+Full-Duplex   &&   双工
+fabric belt   &&   纤维(皮)带
+fabric gear   &&   纤维齿轮
+fabric reinforced composite   &&   纤维织物增强复合材料
+fabricate   &&   制作，制造
+fabricate center   &&   加工中心[FC]
+fabricated language   &&   人工语言
+fabricated operation   &&   成型加工
+fabricated ship   &&   组装船
+fabrication   &&   ①制造，建造，构造，加工②装配，成型③建造物，制作物
+fabrication operation   &&   成型加工
+fabrication order   &&   制造大纲，制造指令[FO]
+fabrication tolerance   &&   制造公差
+fabroil   &&   纤维胶木
+face   &&   ①正面，表面②端，端面，晶面③复面，精整，抛光④荧屏⑤前面，顶面(车刀的)⑥齿尖，齿顶(齿轮的)⑦面向
+face advance   &&   扭曲量
+face angle   &&   顶锥角，面锥角
+face angle distance   &&   顶锥角距
+face angle radius   &&   齿面角半径
+face apex   &&   顶锥顶
+face apex beyond crossing point   &&   顶锥顶至相错点距离
+face bonding   &&   表面接合，正焊
+face cam   &&   平面凸轮，端面凸轮
+face centred cubic structure   &&   面心立方结构
+face centred rhombohedral lattice   &&   面心三角晶格
+face change character   &&   字形改变符，改型字
+face chuck   &&   平面卡盘，花盘
+face coat   &&   表面涂层
+face cone   &&   面锥，顶锥
+face cone element   &&   齿顶圆锥母线，面锥母线
+face contact ratio   &&   齿长重合度，轴向重合度(圆柱齿轮)
+face conveyor   &&   工作面运输机
+face cutter   &&   端面铣刀，平面铣刀
+face cutting   &&   ①端面车削②切削面(刀具的)
+face cutting edge   &&   端面车削刃
+face flange   &&   平面法兰
+face gear   &&   平面齿轮，半轴齿轮
+face grinding   &&   平面磨削
+face grinding machine   &&   平面磨床
+face grinding wheel   &&   平面磨轮
+face hardening   &&   表面淬火，表面淬硬，表面硬化
+face lathe   &&   落地车床
+face line   &&   齿面与轴面交线
+face mill   &&   端(面)锉刀，平面铣刀，端面铣刀
+face mill grinding attachment   &&   平面铣磨削装置
+face miller   &&   端面铣床
+face milling   &&   端面铣削
+face milling cutter   &&   平面铣刀，铣刀盘
+face mounting   &&   端面安装
+face nut   &&   平面螺母
+face of joint   &&   结合面
+face of weld   &&   焊面
+face plate   &&   ①面板②阴极射线管荧光屏③面罩
+face plate complete   &&   面板组
+face plate cover   &&   面板罩
+face plate screw   &&   面板螺钉
+face profiling   &&   端面仿形车削
+face runout   &&   端面跳动
+face shovel   &&   正铲挖土机，正铲挖掘机
+face spanner   &&   叉形螺母扳手，端面扳手
+face to face dimension   &&   端面距尺寸
+face tooth   &&   端面车刀齿
+face wear   &&   表面磨损
+face width   &&   ①齿宽②平底宽度
+face-bend specimen   &&   表面弯曲试样(焊缝的)
+face-centred   &&   面心的
+face-centred crystal   &&   面心晶体
+face-centred cube   &&   面心立方体
+face-centred cubic   &&   面心立方(F.C.C.)
+face-centred cubic alloy steel   &&   面心立方系合金钢
+face-centred cubic crystal   &&   面心立方晶体
+face-centred cubic lattice   &&   面心立方晶格
+face-centred cubic space lattice   &&   面心立方空间晶格
+face-centred grating   &&   面心晶格
+face-centred lattice   &&   面心晶格
+face-centred orthorhombic structure   &&   面心正方晶格，面心正交结构
+face-down bonding   &&   倒装焊接法(集成电路)
+face-fed brazing   &&   表面焊剂铜焊
+face-plate lathe   &&   落地车床
+face-to-face arrangement   &&   面对面安装
+face-to-face duplex ball bearing   &&   成对双联推力球轴承
+face-to-face duplex bearing   &&   成对双联轴承，正面组合复式轴承
+face-to-face duplex tapered roller bearing   &&   成对双联圆锥滚子轴承
+faced down bonding   &&   面朝下焊接
+faced hammer   &&   平面锤
+faced sealing   &&   端面密封
+facer   &&   ①刮刀②端面车刀③平面铣刀④刀架，刀盘
+facet   &&   ①小面，切割面，镶嵌面，磨光面②产生刻面
+facial recognition system   &&   面部识别系统
+facilitate   &&   帮助
+facilities   &&   设备，设施，装备，装置，刀具
+facilities management   &&   设备管理
+facility   &&   设备
+facility assignment   &&   设备分配
+facility design   &&   设备设计
+facility layout   &&   机械设备布置
+facility location   &&   设备布置
+facility request   &&   设备请求
+facility system analysis   &&   设备系统分析
+facing   &&   ①端面车削，面车削②衬片③车端面
+facing alloy   &&   表面加硬用合金
+facing attachment   &&   面铣装置
+facing lathe   &&   端面车床
+facing tool   &&   端面车刀
+facing up   &&   面磨合
+facing work   &&   表面加工，刨削，面饰
+facsimile   &&   传真，电传真
+facsimile apparatus   &&   传真机
+facsimile chart   &&   传真图
+facsimile communication   &&   传真通信
+facsimile communication equipment   &&   传真通信设备
+facsimile communication system   &&   传真通信系统
+facsimile distortion   &&   传真畸变
+facsimile equipment   &&   传真电报设备
+facsimile lenses   &&   传真机镜头
+facsimile mail   &&   传真信函
+facsimile network   &&   传真网
+facsimile posting machine   &&   传真机
+facsimile recorder   &&   传真记录器
+facsimile seismograph   &&   传真式地震仪
+facsimile set   &&   传真装置
+facsimile signal level   &&   传真信号电平
+facsimile signal simulator   &&   传真信号模拟舌
+facsimile system   &&   传真系统[FAX]
+facsimile telegraphy   &&   传真电报
+facsimile terminal equipment   &&   传真终端设备
+facsimile transmission   &&   传真电报传输
+facsimile transmitter   &&   传真发送机
+facsimiles   &&   传真机
+factor   &&   ①因数，系数，因子系数②因素，要素③倍，乘数
+factor of safety   &&   安全系数
+factor of stress concentration   &&   应力集中系数
+factored moment   &&   计算力矩
+factory automation   &&   工厂自动化
+factory communication   &&   工厂通信
+factory director   &&   厂长
+factory illumination   &&   工厂照明
+factory information protocol   &&   工厂信息协议
+factory management   &&   工厂管理
+factory noise   &&   工厂噪声
+factory production system   &&   工厂生产系统
+factory safety   &&   工厂安全
+factory test   &&   工厂试验
+factory waste   &&   工厂废料
+factual compiler   &&   事实编译程序
+fade   &&   ①衰退，衰落，衰减②消失③褪色度 渐层
+fade area   &&   衰落区，雷达盲区
+fade chart   &&   衰落区图，盲区图
+fade in   &&   淡入(电影)
+fade out   &&   淡出(电影、电视)
+fading   &&   ①衰落，衰减②褪色③消失
+fading bandwidth   &&   衰落带宽
+fading channel   &&   衰落信道
+fading control   &&   衰落控制
+fading effect   &&   衰落效应
+fading margin   &&   衰落边际
+fading peak   &&   衰落峰值
+fading period   &&   衰落周期
+fading region   &&   衰落区，衰减区
+fading spectrum   &&   衰落频谱
+faggot   &&   成束熟铁块，束铁
+fail   &&   ①故障，失效，事故②出故障
+fail address   &&   故障地址，失效地址
+fail close   &&   出故障关闭
+fail closed   &&   出故障时自动关闭
+fail logging   &&   故障记录
+fail open   &&   出故障时自动打开
+fail safe   &&   故障保险(的)，换效安全
+fail safe brake   &&   安全制动器
+fail safe control system   &&   故障自动防护控制系统
+fail safe design   &&   故障自动防护设计
+fail safe safety interlock   &&   故障自动防护联锁装置
+fail safe type alarm system   &&   故障自动防护式警报系统
+fail tree analysis   &&   失效树分析
+fail-safe spring brake   &&   贮能弹簧安全制动器
+fail-soft system   &&   故障弱化系统
+failure   &&   ①故障②失效，断裂③损坏，破坏④缺少，缺乏
+failure accident   &&   破坏事故
+failure analysis   &&   故障分析
+failure cable   &&   流线型拖缆
+failure cause   &&   故障原因
+failure cost function   &&   故障费用函数
+failure criterion   &&   故障判据
+failure criticality analysise   &&   故障致命性分析[FCA]
+failure data analysis   &&   故障数据分析
+failure detectability   &&   故障可探测性
+failure diagnosis   &&   故障诊断，失效诊断
+failure distribution   &&   失效分布
+failure effect analysis   &&   故障影响分析[FEA]
+failure function   &&   故障函数
+failure identification   &&   故障识别
+failure logging   &&   故障记录，故障登记
+failure mechanism   &&   失效机理
+failure mode   &&   故障模式，故障形式
+failure mode analysis   &&   故障模式分析[FMA]
+failure mode identification   &&   故障模式识别
+failure monitoring display   &&   故障监视显示器
+failure position   &&   故障位置
+failure predication   &&   故障预测
+failure probability analysis   &&   故障概率分析[FPA]
+failure rate   &&   故障率
+failure rate allocation   &&   故障率分配
+failure rate characteristic   &&   故障率特性
+failure rate data   &&   故障率数据
+failure rate function   &&   故障率函数
+failure rate sampling plans   &&   故障率采样计划
+failure recognition   &&   失效识别
+failure state   &&   失效状态
+failure symptom   &&   故障特征
+failure tree analysis   &&   故障树分析[FFA]
+failure tree analysis fast dynamics   &&   故障树分析快动性
+failure valve position   &&   阀断源位置
+failure warning relay   &&   故障警报继电器
+failure-rate acceleration factor   &&   故障率加速因数
+failure-tolerant system   &&   故障容错系统
+fair leader   &&   ①碾子②卷扬机械
+fair leader truck   &&   绳索滑车
+fair-lead   &&   ①导向套②导索器③绳索滑车
+fairing   &&   ①整流装置②整流罩③减阻装置
+fake host   &&   伪主机
+faked pattern   &&   假曲率模样(用以补偿铸件的翘曲)
+fall of potential method   &&   电压降法，电压降测阻法
+fall time   &&   下降时间
+fall within   &&   属于，适合于
+fall-of-potential test   &&   电压降测试故障法
+fallback   &&   撤退过程，撤退，低效运行，低效率运行程序
+falling ball impact test   &&   落球冲击试验
+falling coaxial cylinder viscometer   &&   同轴圆筒下落粘度计
+falling sphere viscometer   &&   落球粘度计
+falling-weight test   &&   冲击试验
+falloff angle   &&   收缩角 衰退角度
+false Mooney viscosity   &&   假莫尼黏度(黏度不随分子量增加而增加)
+false add   &&   无进位加，伪加
+false body   &&   假稠性(涂料的)，假体
+false bottom   &&   假底
+false ceiling   &&   假顶棚
+false correlation   &&   假相关
+false equilibrium   &&   假平衡
+false floor   &&   假底
+false fusion   &&   假熔
+false light   &&   假光
+false line lock   &&   假行同步
+false retrievals   &&   假检索
+false roof   &&   伪顶(矿)
+false statement   &&   假命题，假语句
+false strain   &&   虚假应变
+false supposition   &&   错误假定法(数)
+false target   &&   假目标，伪靶
+false target generator   &&   假目标发生器
+false-colour composite   &&   假彩色合成
+family mold   &&   反套制品模具
+family molding die   &&   成套制品模
+fan   &&   ①风机，通风机，鼓风机，风扇②叶片，翼，扇形物
+fan antenna   &&   扇形天线
+fan baffle   &&   风扇导流板
+fan beam   &&   扇形射束
+fan belt   &&   风扇胶带
+fan blade   &&   通风机叶片
+fan blower   &&   鼓风机
+fan casing   &&   通风机外壳
+fan coil   &&   风机盘管
+fan cooler   &&   冷风机
+fan diagram   &&   扇形图
+fan draught cooler   &&   冷风机
+fan drift   &&   通风道
+fan drive   &&   风机传动装置
+fan engine   &&   ①电风扇发动机②扇形发动机③风扇冷却发动机④双回路管式喷气发动机
+fan exhauster   &&   排气风机
+fan gate   &&   扇形浇口
+fan inlet   &&   风机进风口
+fan motor   &&   风扇马达，风扇电机
+fan outlet   &&   风机出风口
+fan propeller   &&   风机叶轮
+fan speed   &&   鼓风机转速
+fan wheel   &&   风机叶轮
+fan-cooled machine   &&   扇冷电机
+fan-jet   &&   涡轮喷气发动机
+fanfare horn   &&   蜗牛喇叭
+fanjet aircraft   &&   涡轮风扇式喷气飞机
+fanner   &&   风扇，扇风机，通风机
+fanning mill anemometer   &&   叶轮式风速表
+fantail die   &&   扇尾形模具
+far field   &&   远场
+far from   &&   毫不，一点不，远非
+far infra-red radiant element   &&   远红外副射组件
+far infrared radiation   &&   远红外辐射
+far infrared spectrophotometer   &&   远红外分光光度计
+far-end crosstalk   &&   远端串音，远端串扰
+far-infrared lasers   &&   远红外线激光
+farad   &&   法拉(电容单位)
+farad bridge   &&   电容电桥
+faraday   &&   法拉第(电量单位，=96485库仑)
+farm electric power   &&   农电，农用电
+farm electrification   &&   农村电气化
+farm engine   &&   农用发动机
+farm generating plant   &&   农用电厂
+farm machinery   &&   农机，农业机械
+farm machinery depot   &&   农机库
+farm machinery repairing shop   &&   农业机械修理厂
+farm machinery storage building   &&   农机库
+farm mechanization   &&   农业机械化
+farm motor   &&   农用电动机
+farm tractor   &&   农用拖拉机
+fascia   &&   仪表板
+fashion   &&   形式
+fast   &&   ①快速②固定③紧固
+fast Fourier method   &&   快速傅里叶方法
+fast Fourier transform   &&   快速傅里叶变换[FFT]
+fast accelerator   &&   快速促进剂
+fast access   &&   快速存取
+fast addressing   &&   快速寻址
+fast aircraft   &&   高速机
+fast atom bombardment   &&   快速原子轰击 [FAB]
+fast automatic gain control   &&   快速自动增益控制
+fast back   &&   直背式
+fast bleeding pipe   &&   快速排气管
+fast bleeding pipe port   &&   加速排气管接口
+fast blink   &&   快速闪烁
+fast boat   &&   快艇
+fast chopper   &&   快速断续器
+fast coincidence circuit   &&   快速重合电路
+fast control memory   &&   快速控制存储器
+fast cyclotron-wave parameter amplifier   &&   快速回旋波参量放大器
+fast ethernet   &&   快速以太网
+fast ethernet network equipment   &&   高速以太网路设备
+fast exciter   &&   快速励磁装置
+fast extrusion furnace   &&   快速压出炉
+fast facsimile   &&   快速传真
+fast fisser   &&   快中子裂变物质
+fast fission effect   &&   速裂变效应
+fast flange   &&   固定法兰
+fast fluidized bed   &&   快速流化床
+fast forward control   &&   ①快速正向控制②快速前进控制
+fast frequency shift magnetron   &&   快速变频磁控管
+fast idle   &&   高速空转，高速空行程
+fast initial phase   &&   快速初始相
+fast interline non-activate automatic control   &&   快速线间不激活自动控制
+fast loading   &&   快速装料
+fast mass storage   &&   快速大容量存储器
+fast modulation   &&   快速调相
+fast multiplier   &&   快速乘法器
+fast neutron   &&   快中子
+fast parallel arithmetic   &&   快速平行运算器
+fast particle   &&   快粒子
+fast path dependent region   &&   快速通路相关区
+fast path exclusive transaction   &&   快速通路互斥事务处理
+fast path feature   &&   快速通路特性
+fast path potential transaction   &&   快速通路潜在事务处理
+fast photomultiplier   &&   快速光电倍增管
+fast pull down system   &&   快速关闭方式(电视的)
+fast pulley   &&   固定轮，紧轮
+fast reaction   &&   快速反应
+fast reactor   &&   快中子反应堆
+fast real-time operation   &&   快速实时操作
+fast relay   &&   快速继电器
+fast return control   &&   快速反向控制
+fast rewind control   &&   快速反绕控制
+fast roll   &&   快速滚筒
+fast scan   &&   快速扫描
+fast scratchpad memory   &&   快速暂时存储器，快速便笺式存储器，快速缓冲存储器
+fast select   &&   快速选择
+fast shadow   &&   快速阴影
+fast sweep   &&   快速扫描
+fast switch   &&   快速开关
+fast synchronizate extend   &&   快速同步扩充
+fast time scale   &&   快速时标
+fast transformation   &&   快速变换
+fast turnaround   &&   快速换向，快速交换，快速周转[FTA]
+fast valve   &&   快动作阀门
+fast zoom mode   &&   快速缩放模式 快速缩放模式
+fast-access memory   &&   快速存取存储器
+fast-access storage   &&   快速存取存储器(计舅机)
+fast-acting micro-relay   &&   快动作微继电器
+fast-acting relay   &&   快动作继电器
+fast-hardening   &&   快速固结，快速硬化
+fast-moving dislocation   &&   快速位错
+fast-neutron breeder reactor   &&   快中子增殖反应堆
+fast-neutron capture   &&   快中子俘获
+fast-neutron reaction   &&   快中子反应
+fast-neutron reactor   &&   快中子堆，快中子反应堆
+fast-neutron shield   &&   快中子防护屏
+fast-neutron test reactor   &&   快中子实验堆[FTR]
+fast-operate fast-release relay   &&   快吸快放继电器
+fast-operate relay   &&   快动作继电器
+fast-operate slow-release relay   &&   快动缓释继电器
+fast-slow coincidence circuit   &&   快慢重合电路
+fasten   &&   锁紧(螺丝)，固定，紧固
+fastener   &&   ①固定件②紧固件③接线柱
+fastening   &&   紧固，接紧
+fastening bolt   &&   紧固螺钉，紧固螺栓，连接螺栓
+fastening of terminals   &&   端子的紧固
+fastening part   &&   紧固件
+fastenings   &&   紧固零件
+faster-than-real-time simulation   &&   超实时仿真
+fastness to rubbing   &&   摩擦牢度(纺)
+fat turpentine   &&   稠化松节油
+fatal   &&   致命错误 致命错误
+fathometer   &&   回音测深仪
+fatigue   &&   疲劳
+fatigue break-down   &&   疲劳破坏
+fatigue breakage   &&   疲劳破裂
+fatigue breaking   &&   疲劳破坏
+fatigue characteristic   &&   疲劳特性
+fatigue crack   &&   疲劳裂纹
+fatigue damage   &&   疲劳损坏
+fatigue deformation   &&   疲劳变形
+fatigue design standard   &&   疲劳设计标准
+fatigue effect   &&   疲劳效应
+fatigue experiment   &&   疲劳试验
+fatigue failure   &&   疲劳故障，疲劳破坏，疲劳失效，疲劳破裂
+fatigue fracture   &&   疲劳裂纹
+fatigue life   &&   疲劳寿命
+fatigue limit   &&   疲劳极限
+fatigue loss   &&   疲劳损耗
+fatigue of metals   &&   金属疲劳
+fatigue phenomenon   &&   疲劳现象
+fatigue range   &&   疲劳范围
+fatigue rupture   &&   疲劳破坏
+fatigue strain gauge   &&   疲劳应变计
+fatigue strength   &&   疲劳强度，疲劳极限
+fatigue strength curve   &&   疲劳强度曲线
+fatigue strength limit   &&   疲劳强度极限
+fatigue stress   &&   疲劳应力
+fatigue test   &&   疲劳试验，疲劳测试
+fatigue testing machine   &&   疲劳试验机
+fatigued   &&   疲劳
+faucet   &&   水龙头，旋塞
+fault   &&   ①故障，缺陷②损伤③疵点
+fault alarm   &&   故障报警(器)
+fault analysis   &&   故障分析
+fault auto-detection technique   &&   故障自动检测技术
+fault checking   &&   故障检测
+fault clearance   &&   故障消除
+fault clearance time   &&   故障消除时间
+fault correction time   &&   故障修复时间
+fault current   &&   故障电流
+fault detecting   &&   故障探测
+fault detector   &&   故障探测仪，故障指示器
+fault diagnosis   &&   故障诊断
+fault diagnosis system   &&   故障诊断系统
+fault display   &&   故障显示
+fault finder   &&   故障指示器
+fault finding   &&   故障探测
+fault ground   &&   故障接地
+fault indicating lamp   &&   故障位置指示灯，故障指示灯
+fault indicator   &&   故障指示器
+fault isolation   &&   故障隔离
+fault line   &&   故障线
+fault localization   &&   故障点测定
+fault localizer   &&   故障点测定器
+fault location   &&   故障定位
+fault location time   &&   故障部位寻找时间，故障探测时间
+fault locator   &&   ①故障脉冲测试仪②故障定位程序
+fault management   &&   故障管理
+fault mechanism   &&   故障机构
+fault monitoring analysis   &&   故障监视分析
+fault monitoring system   &&   故障监视系统
+fault point   &&   故障点
+fault progression   &&   故障发展
+fault protection   &&   故障保护(装置)
+fault protection relay   &&   故障保护继电器
+fault rate level   &&   故障率水平
+fault recognition   &&   故障识别
+fault redundancy   &&   故障重复性
+fault repairing   &&   故障修复
+fault section   &&   故障区段
+fault signal   &&   故障信号
+fault testing   &&   故障测试，故障检测，故障试验
+fault threshold   &&   故障门限
+fault time   &&   故障时间
+fault trace   &&   故障踪迹
+fault tracer   &&   故障寻找器
+fault tracing   &&   故障跟踪
+fault transient   &&   故障过渡过程
+fault tree analysis   &&   故障树形图分析[FFA]
+fault tree evaluation   &&   故障树评价
+fault tree event   &&   故障树事件
+fault tree simulation   &&   故障树模拟
+fault tree system   &&   故障树形图系统
+fault tree wire   &&   故障导线
+fault-control memory   &&   故障控制存储器
+fault-free system performance analysis   &&   故障系统性能分析
+fault-indicating contact   &&   故障指示电路触点
+fault-indicating system   &&   故障指示系统
+fault-intolerance approach   &&   不容错方法
+fault-locating test equipment   &&   故障位置测试装置
+fault-rate threshold   &&   故障率门限，故障率阈值
+fault-tolerance   &&   容错
+fault-tolerance approach   &&   容错方法
+fault-tolerance computing   &&   容错计算
+fault-tolerance system   &&   容错系统
+fault-tolerant computer   &&   容错计算机
+fault-tolerant optimal control   &&   容错最优控制
+faulty address   &&   错误地址
+faulty operation   &&   错误操作
+faulty section   &&   故障区域
+faulty wire   &&   故障导线
+favorites   &&   收藏夹
+fax   &&   传真，电视画面
+fax chart   &&   传真图
+fax map   &&   传真图
+faxcasting   &&   电视广播，电视传真广播
+fayalite   &&   铁橄榄石
+faying surfaces   &&   重叠面
+feasibility   &&   可行性
+feasibility study   &&   可行性研究
+feasibility study of system   &&   可行性分析
+feasible   &&   可行的
+feasible coordination   &&   可行协调
+feasible region   &&   可行域
+feather key   &&   滑键、导键
+feather wear   &&   条纹形磨损
+feather-alum   &&   铁明矾
+feature   &&   功能，特色，特征
+feature detection   &&   特征检测
+feature die   &&   公母模
+federated computer system   &&   联合计算机系统
+feeble current   &&   弱电流
+feeble field   &&   弱场
+feed   &&   ①进刀，进给，进料，吃刀量②供电，馈电③给水，进给
+feed adjustment   &&   ①进刀调整②馈电调整
+feed and feed lifting eccentric   &&   进给和进给提升偏心轮
+feed and feed lifting eccentric set screw   &&   进给和进给提升偏心轮定位螺钉
+feed apparatus   &&   ①进给装置，进料设备②给水器
+feed arrangement   &&   进给装置，进刀装置
+feed attachment   &&   进给附件
+feed back control   &&   反锁控制
+feed bar   &&   ①进给杆，进程杆(刀具的)②馈电电路，汇流条
+feed belt   &&   进给皮带，传送皮带
+feed bin   &&   进料斗，装料斗，料仓
+feed box   &&   ①走刀箱，进给箱②装料箱
+feed cable   &&   电源电缆，馈电电缆
+feed cam   &&   进给凸轮
+feed cam roller   &&   进给凸轮滚柱
+feed cam setscrew   &&   进给凸轮定位螺钉
+feed change   &&   进给变速，进刀箱
+feed change gear box   &&   进给变速齿轮箱，进刀变速齿轮箱
+feed change gears   &&   进刀机构变速齿轮
+feed change level   &&   进刀变速手柄
+feed channel   &&   进料道
+feed chute   &&   进料槽
+feed circuit   &&   ①馈电电路②给水回路
+feed composition   &&   进料组成
+feed connecting link   &&   进给联结杆
+feed connecting rod   &&   进给连杆
+feed control   &&   馈送控制
+feed conveyer   &&   进料运输机
+feed cord   &&   馈电软线
+feed dog screw   &&   进给齿轮锁紧螺钉
+feed drive   &&   进给传动
+feed drive gearing   &&   进给传动装置
+feed drum   &&   滚筒式进料机
+feed eccentric   &&   进给偏心轮
+feed function   &&   进给功能
+feed gear wheel   &&   进给齿轮
+feed gearing   &&   齿轮进给机构，进刀机构，进刀传动装置
+feed gears   &&   进给齿轮
+feed groove   &&   给油槽
+feed head   &&   ①进料口②给水水头
+feed heat exchanger   &&   进料热交换器
+feed heater with ribbed tubes   &&   肋管式给水加热器，肋管式给水预热器
+feed heating cycle   &&   给水加热循环
+feed hole   &&   ①传动导孔(传送纸带用)②输送孔
+feed hopper   &&   进料斗
+feed in   &&   ①送进，馈人②渐显，淡入
+feed in box   &&   馈电箱
+feed inlet   &&   进料口
+feed line   &&   ①进料管②馈线
+feed mechanism   &&   ①进刀装置②输入机构
+feed motion   &&   合闸动作
+feed nozzle   &&   进料口
+feed pipe   &&   进料管
+feed piping   &&   供水管道
+feed point   &&   馈电点
+feed preparation unit   &&   进料预处理装置
+feed pump   &&   给水泵，供给泵，供给液体的泵
+feed rate   &&   ①进给量②馈电比
+feed regulating valve   &&   给水调整阀
+feed roller   &&   进料辊
+feed room   &&   馈电房
+feed speed   &&   送进速度
+feed stop   &&   进给停止器
+feed system   &&   ①进料系统②供电系统，馈电系统③供给系统，供给系
+feed tank   &&   给水箱
+feed through   &&   ①穿通线(印刷电路板的)②连通线
+feed through ceramic capacitor   &&   穿心式瓷介电容器
+feed through insulator   &&   穿心式绝缘子
+feed through paper capacitor   &&   穿心式纸介电容器
+feed through power meter   &&   贯穿式功率表
+feed track   &&   (纸张)馈送道
+feed tube   &&   ①进料管②馈电管
+feed valve   &&   ①进料阀②给水阀
+feed water   &&   给水
+feed water filter   &&   给水过滤器
+feed water heater   &&   给水加热器
+feed water piping   &&   给水管道
+feed water pump   &&   给水泵
+feed water purifier   &&   供水净化器
+feed water regulator   &&   给水调节器(锅炉的)
+feed water softener   &&   给水软化装置
+feedback   &&   反馈，回授
+feedback adjustment   &&   反馈调整
+feedback admittance   &&   反馈导纳，回授导纳
+feedback amplifier   &&   反馈放大器，回授放大器
+feedback attenuation   &&   反馈衰减
+feedback branch   &&   反馈支路
+feedback bridge   &&   反馈电桥
+feedback capacitor   &&   反馈电容器
+feedback channel   &&   ①反馈信道，回授信道②反馈信道
+feedback characteristic   &&   反馈特性
+feedback circuit   &&   反馈电路，回授电路
+feedback coefficient   &&   反馈系数
+feedback coil   &&   反馈线圈，回授线圈
+feedback combining   &&   反馈式组合
+feedback compensation   &&   反馈补偿
+feedback compensation technique   &&   反馈补偿技术
+feedback condenser   &&   反馈电容器
+feedback control   &&   反馈控制
+feedback control loop   &&   反馈控制环路
+feedback control signal   &&   反馈控制信号
+feedback control system   &&   反馈控制系统
+feedback controller   &&   反馈控制器
+feedback coupling   &&   反馈耦合
+feedback current   &&   反馈电流
+feedback decoder   &&   反馈译码器
+feedback decoding   &&   反馈译码
+feedback device   &&   反馈装置
+feedback effect   &&   反馈效果
+feedback elements   &&   反馈组件，反馈环节
+feedback encoding   &&   反馈编码
+feedback error correction   &&   反馈纠错
+feedback excitation   &&   反馈激励
+feedback factor   &&   反馈系数，回授系数
+feedback forecast   &&   反馈预测
+feedback frequency modulation   &&   反馈调频[FBFM]
+feedback function   &&   反馈函数
+feedback gain   &&   反馈增益
+feedback information   &&   反馈信息
+feedback inhibitation   &&   反馈抑制
+feedback laser diastimeter   &&   反馈式激光测距仪
+feedback limiter   &&   反馈限制器
+feedback line   &&   反馈线
+feedback loop   &&   反馈回路，回授回路，反馈环路
+feedback loop system   &&   反馈回路系统
+feedback node   &&   反馈节点
+feedback oscillation   &&   反馈振荡器，回授振荡器
+feedback path   &&   反馈通路
+feedback phase   &&   反馈相，回授相
+feedback potentiometer   &&   反馈电位器
+feedback quantity   &&   反馈量
+feedback ratio   &&   反馈比，回授比
+feedback regulator   &&   反馈调节器
+feedback resistance   &&   反馈电阻
+feedback resistor   &&   反馈电阻(器)
+feedback sawtooth generator   &&   反馈锯齿波发生器
+feedback servomechanism   &&   反馈(式)伺服机构
+feedback signal   &&   反馈信号
+feedback stability   &&   反馈稳定
+feedback suppression   &&   反馈抑制
+feedback suppressor   &&   反馈抑制器，回授抑制器
+feedback susceptance   &&   反馈电纳
+feedback system   &&   反馈系统
+feedback system automation   &&   反馈系统自动化
+feedback transducer   &&   反馈转换器
+feedback transfer function   &&   反馈传递函数
+feedback transformer   &&   反馈变压器
+feedback transmitter   &&   反馈发射机，回授发射机
+feedback type current transformer   &&   反馈式电流互感器
+feedback type proportional controller   &&   馈型比例控制器
+feedback variable   &&   反馈变量
+feedback voltage   &&   反馈电压，回授电压
+feedback voltmeter   &&   反馈式伏特计
+feedback winding   &&   反馈绕组，回授绕组
+feedboard raising and lowering control   &&   馈送盘升降控制
+feeder   &&   ①进刀装置，进料机，进料器②馈(电)线，馈路③给水管
+feeder assembly   &&   馈线组件
+feeder box   &&   ①分线箱②馈路柜，馈电箱
+feeder brush   &&   馈电刷
+feeder busbar   &&   馈电母线
+feeder cable   &&   馈电电缆，馈电线
+feeder circuit   &&   馈电路线
+feeder clamp   &&   馈线线夹
+feeder clip   &&   馈线夹，馈线接线柱
+feeder distribution centre   &&   馈线分配中心
+feeder drop   &&   馈线电压降，馈路电压降
+feeder duct   &&   馈线导管，馈线槽
+feeder ear   &&   馈线夹耳
+feeder insulator   &&   馈电线绝缘子
+feeder line   &&   馈(电线)路，馈线
+feeder load   &&   馈线负载
+feeder loss   &&   馈线损耗
+feeder messenger wire   &&   馈线吊线，馈线悬缆线
+feeder panel   &&   馈电盘
+feeder pillar   &&   馈(电)线柱
+feeder protection equipment   &&   馈线保护装置，馈路保护装置
+feeder reactor   &&   馈路电抗器
+feeder schedule   &&   馈路表
+feeder section   &&   馈路区间，馈路段
+feeder substation   &&   馈电变电所
+feeder support   &&   馈路支承
+feeder switch   &&   馈路开关
+feeder switch board   &&   馈路配电盘
+feeder voltage regulator   &&   馈路电压调整器
+feedforward   &&   前馈
+feedforward compensation   &&   前馈补偿
+feedforward control   &&   前馈控制下
+feedforward network   &&   前馈网络
+feedforward path   &&   前馈路径，前馈通路
+feeding   &&   ①供电，馈电②给水
+feeding belt conveyer   &&   皮带送料机
+feeding coefficient   &&   馈电系数
+feeding current   &&   馈电电流
+feeding funnel   &&   进料斗
+feeding is not in place   &&   送料不到位
+feeding mechanism   &&   ①进刀装置②输入机构，进料机构
+feeding point   &&   馈电点
+feeding pump   &&   进料泵
+feeding roller   &&   进料辊
+feeding section   &&   送电区域
+feeding spout   &&   进料流糟
+feeding throat   &&   进料口
+feedover   &&   馈越
+feedwater treatment   &&   给水处理
+feeler   &&   测隙规，测厚规，塞尺
+feeler gauge   &&   测隙规
+feet   &&   英尺
+feet switch   &&   地脚开关
+felt   &&   毡
+felt dust suction box   &&   毡吸箱
+felt filter   &&   毡滤器
+felt gasket   &&   毡垫圈
+felt packing   &&   毡衬垫，毡填充物
+felt paper   &&   毡垫纸
+felt ring   &&   毡环，毡圈
+felt ring seal   &&   毡圈密封
+felt roll   &&   毡辊
+felt seal   &&   毡密封
+felt washer   &&   毡垫圈
+felted asbestos insulated cable   &&   石棉毡绝缘电缆
+felted fibre reinforced ceramics   &&   纤维毡增强陶瓷
+female   &&   阴的，凹形的
+female connection   &&   内孔连接器
+female die   &&   母模(凹模)
+female thread   &&   内螺纹，母螺纹
+femitron   &&   场射管
+fence   &&   ①雷达警戒网②电子篱笆，防扰篱笆③篱选，栏选
+fender   &&   ①挡，挡板②挡泥板(汽车的)③翼子板④车底挡板
+fermi   &&   费米(长度单位，=10^-15米)
+fermion   &&   费米子
+fermium   &&   镄Fm(100)
+fern leaf crystal   &&   锯齿形晶体，树枝状晶体
+ferractor   &&   ①铁氧体磁放大器②铁电振荡器
+ferreed   &&   铁簧继电器
+ferric   &&   铁的
+ferric alum   &&   铁明矾
+ferric induction   &&   铁磁感应
+ferric oxide   &&   铁氧体，氧化铁，三氧化二铁
+ferricyanide   &&   铁氰化物
+ferriferrous oxide   &&   四氧化三铁
+ferrifluoride   &&   铁氟化物
+ferrimagnetic amplifier   &&   铁磁放大器
+ferrimagnetic dielectric   &&   铁磁性电介质
+ferrimagnetic material   &&   铁磁性材料，铁淦氧磁性材料
+ferrimagnetic transducer   &&   铁磁换能器
+ferrimagnetism   &&   铁氧体磁性，亚铁磁性
+ferrimuscovite   &&   铁白云母
+ferristor   &&   ①铁磁电抗器②自饱和磁放大器
+ferrite   &&   ①铁素体②铁氧体③铁酸盐④铁淦氧，肥粒铁
+ferrite antenna   &&   铁氧体天线
+ferrite attenuator   &&   铁氧体衰减器
+ferrite banding   &&   铁素体带
+ferrite bar   &&   铁氧体磁棒
+ferrite bead   &&   铁氧体磁珠，铁氧体磁环
+ferrite bead memory   &&   铁氧体珠存储器
+ferrite cast iron   &&   铁素体铸铁
+ferrite ceramics   &&   铁氧体磁性材料
+ferrite circulator   &&   铁氧体环行器
+ferrite coil   &&   铁氧体磁心线圈
+ferrite core   &&   铁氧体磁心
+ferrite core coil   &&   铁氧体磁心线圈
+ferrite core memory   &&   铁氧体磁心存储器
+ferrite delay line   &&   铁氧体延迟线
+ferrite field dc linear motor   &&   铁氧体磁激磁直流线性电动机
+ferrite filled waveguide   &&   铁氧体填充波导
+ferrite film   &&   铁氧体薄膜
+ferrite formation   &&   铁素体生成
+ferrite former   &&   铁素体形成元素
+ferrite forming   &&   形成铁素体的
+ferrite forming element   &&   形成铁素体元素
+ferrite frame   &&   铁氧体心
+ferrite ghost   &&   铁素体痕迹，铁素体鬼线
+ferrite grain size   &&   铁素体晶粒度
+ferrite isolator   &&   铁氧体隔离器
+ferrite lattice   &&   铁素体晶格
+ferrite limiter   &&   铁氧体限幅器
+ferrite network   &&   铁素体网
+ferrite parametric amplifier   &&   铁氧参量放大器
+ferrite phase differential circulator   &&   铁氧体相差环行器
+ferrite plate memory   &&   铁氧体板存储器
+ferrite rod antenna   &&   铁氧体棒形天线
+ferrite rotator   &&   铁氧体旋转器
+ferrite scanning   &&   铁氧体器件扫描
+ferrite sheet   &&   铁氧体片
+ferrite stabilizer   &&   铁素体稳定化元素
+ferrite steel   &&   铁素体钢
+ferrite substrate   &&   铁氧体基片
+ferrite switch   &&   铁氧体开关
+ferrite tuned magnetron   &&   铁氧体调谐磁控管
+ferrite tuned oscillator   &&   铁氧体调谐振荡器
+ferrite tuning   &&   铁氧体调谐
+ferrite waveguide   &&   铁氧体波导
+ferrite yoke   &&   铁氧体磁轭
+ferritic   &&   铁素体的
+ferritic alloy   &&   铁素体合金
+ferritic cast iron   &&   铁素体铸铁
+ferritic chrome stainless steel   &&   铁素体铝硅合金不锈钢
+ferritic decarburized depth   &&   铁素体脱碳层厚度
+ferritic electrode   &&   铁素体钢焊条
+ferritic malleable cast iron   &&   铁素体可锻铸铁
+ferritic matrix   &&   铁素体基体
+ferritic nodular cast iron   &&   铁素体球墨铸铁
+ferritic spheroidal graphite cast iron   &&   铁素体球墨铸铁
+ferritic stainless steel   &&   铁素体不锈钢(Cr 14％～18％，C<O.12)
+ferritic steel   &&   铁素体钢
+ferritic veining   &&   铁素体网脉
+ferritizing annealing   &&   铁素体化退火(获得铁素体可锻铸铁的工艺过程)
+ferritomartensite   &&   铁素体马氏体
+ferroacoustic storage   &&   铁声存储器
+ferroalloy   &&   铁合金
+ferroalloy works   &&   铁合金厂
+ferroaluminium   &&   铁铝合金，铁铝
+ferroboron   &&   铁硼
+ferrobronze   &&   铁青铜
+ferrocerium   &&   铁铈
+ferrochrome   &&   铁铬(合金)
+ferrochromium   &&   铁铬(合金)(Cr 50％～70％)
+ferrocobalt   &&   铁钴合金
+ferrodolomite   &&   铁白云石
+ferrodynamic galvanometer   &&   铁磁电动系振动子
+ferrodynamic instrument   &&   铁磁电动系仪表
+ferrodynamic relay   &&   铁磁电动式继电器
+ferrodynamometer   &&   铁磁式功率计
+ferroelastic   &&   铁弹性的
+ferroelastic crystal   &&   铁弹性晶体
+ferroelastic effect   &&   铁弹性效应
+ferroelasticity   &&   铁弹性
+ferroelectric   &&   ①铁电的②铁电体
+ferroelectric autostabilization effect   &&   铁电自稳化效应
+ferroelectric axis   &&   铁电轴线
+ferroelectric capacitor   &&   铁电电容器
+ferroelectric ceramic device   &&   铁电陶瓷器件
+ferroelectric ceramics   &&   铁电陶瓷
+ferroelectric condenser   &&   铁电电容器
+ferroelectric converter   &&   铁电变换器
+ferroelectric crystal   &&   铁电晶体
+ferroelectric display   &&   铁电显示器
+ferroelectric domain   &&   铁电畴
+ferroelectric domain wall   &&   铁电踌壁
+ferroelectric effect   &&   铁电效应
+ferroelectric film   &&   铁电薄膜
+ferroelectric material   &&   铁电材料
+ferroelectric semiconductor   &&   铁电半导体
+ferroelectricity   &&   铁电，铁电现象，铁电性
+ferroelectrics   &&   ①铁电体②铁电学
+ferroferric oxide   &&   四氧化三铁
+ferrofluid   &&   铁磁流体
+ferrofluid seal   &&   铁磁流体密封
+ferrograph   &&   铁磁示波器
+ferrolite   &&   铁矿岩
+ferromagnet   &&   铁磁体
+ferromagnetic   &&   铁磁性的
+ferromagnetic alloy   &&   铁磁性合金
+ferromagnetic anisotropy   &&   铁磁各向异性
+ferromagnetic antiferromagnetic transition   &&   铁磁-反铁磁转变
+ferromagnetic body   &&   铁磁性材料，强磁性材料
+ferromagnetic crystal   &&   铁磁晶体
+ferromagnetic fluid   &&   铁磁流体
+ferromagnetic glass-ceramics   &&   铁磁性微晶玻璃
+ferromagnetic hydrodynamics   &&   铁磁流体力学
+ferromagnetic material   &&   铁磁材料，铁磁性材料，强磁性材料
+ferromagnetic oscilloscope   &&   铁磁示波器
+ferromagnetic paramagnetic transition   &&   磁-顺磁转变
+ferromagnetic relaxation   &&   铁磁弛豫
+ferromagnetic resonance   &&   铁磁共振(物)
+ferromagnetic rotation   &&   铁磁旋量
+ferromagnetic semiconductor   &&   铁磁半导体
+ferromagnetic substance   &&   铁磁性物质
+ferromagnetic transformation   &&   铁磁转变
+ferromagnetics   &&   ①铁磁体②铁磁学
+ferromagnetism   &&   ①铁磁，铁磁性②铁磁学
+ferromagnetography   &&   铁磁性记录法
+ferromagnon   &&   铁磁振子
+ferromanganese   &&   铁锰合金(Mn 76％～78％ C O.6％～7％)
+ferrometer   &&   磁导计，磁性测绘器
+ferromolybdenum   &&   铁钼合金(Mo 70％～75％，Si O.1％～2％，C O.6％～3.6％)
+ferronickel   &&   铁镍
+ferroniobium   &&   铁铌(合金)(Nb 50％～60％ Ta 6％)
+ferroniobium tantalum   &&   铁铌钛合金
+ferrooxidant   &&   铁氧化剂
+ferroresonance   &&   铁磁谐振，铁谐振
+ferrosilicon   &&   铁硅合金(Si 25％～95％)
+ferrospinel   &&   铁淦氧尖晶石
+ferrostatic pressure   &&   铁水静压力，钢铁水静压力
+ferrosteel   &&   灰口铸铁，钢性铸铁
+ferrous   &&   铁的，含铁的
+ferrous metal   &&   黑色金属
+ferrous metal complex   &&   铁系金属络合物
+ferrous metal deposit   &&   黑色金属矿床
+ferrous metallurgy   &&   黑色冶金学
+ferrule   &&   套圈，环，套管
+ferrule resistor   &&   套圈型电阻(器)
+ferrum   &&   铁Fe(26)
+ferry boat   &&   轮渡
+fetch   &&   取数，取指令
+fetch bit   &&   按位取数
+fetch cycle   &&   取数周期
+fetch program   &&   取出程序
+fettling   &&   ①补炉，②铸锭清理
+fexitron   &&   冷阴极脉冲X射线管
+fiat four   &&   扁平形四缸发动机
+fiber cable   &&   光缆
+fiber channel   &&   光纤通道
+fiber communication   &&   光纤通信
+fiber grating   &&   纤维磨削
+fiber grating strain sensor   &&   光纤光栅应变感测器
+fiber optic acoustic sensors   &&   光纤声波感测器
+fiber optic closure   &&   光纤接续盒
+fiber optic current sensors   &&   光纤电流感测器
+fiber optic density constituent sensors   &&   光纤浓度、成份感测器
+fiber optic displacement sensors   &&   光纤移位感测器
+fiber optic distribution box   &&   光纤终端箱
+fiber optic electric field sensors   &&   光纤电场感测器
+fiber optic fibers   &&   光纤
+fiber optic gyro sensors   &&   光纤陀螺仪感测器
+fiber optic illuminators   &&   光纤光源
+fiber optic light distribution radiation sensors   &&   光纤光分布放射线感测器
+fiber optic light guide   &&   光导管
+fiber optic liquid surface level sensors   &&   光纤液位感测器
+fiber optic magnetic field sensors   &&   光纤磁场感测器
+fiber optic magnetic flux sensors   &&   光纤磁通量感测器
+fiber optic mark photo sensors   &&   光纤式标记感测器
+fiber optic materials   &&   光纤材料
+fiber optic oil film sensors   &&   光纤油膜感测器
+fiber optic photo switches sensors   &&   光纤光电开关感测器
+fiber optic preforms   &&   光纤预型体
+fiber optic pressure sensors   &&   光纤压力感测器
+fiber optic scopes   &&   光纤显微镜
+fiber optic strain sensors   &&   光纤变形感测器
+fiber optic temperature sensors   &&   光纤温度感测器
+fiber optic velocity sensors   &&   光纤速度感测器
+fiber optic vibration sensors   &&   光纤振动感测器
+fibergrating   &&   光纤光栅
+fibre   &&   纤维
+fibre assembly   &&   纤维集合体
+fibre axis   &&   丝缕轴(X射线)，纤维轴
+fibre bonding   &&   纤维黏合
+fibre break extension   &&   纤维断裂伸长
+fibre bulk   &&   纤维本体
+fibre bundle   &&   纤维丛，纤维束
+fibre characterization   &&   纤维鉴定
+fibre chemistry   &&   纤维化学
+fibre composite   &&   纤维增强复合材料
+fibre composite material   &&   纤维增强复合材料
+fibre crimpness   &&   纤维卷曲度
+fibre diagram   &&   纤维结构图，纤维图
+fibre elastic modulus   &&   纤维弹性模量
+fibre furnish   &&   纤维配料
+fibre glass   &&   纤维玻璃
+fibre grease   &&   纤维状润滑脂
+fibre hook   &&   纤维弯钩
+fibre identification   &&   纤维鉴定
+fibre laminate   &&   纤维层压板
+fibre laser   &&   纤维激光器
+fibre length   &&   纤维长度
+fibre length meter   &&   纤维长度试验器
+fibre lens   &&   纤维透镜
+fibre like texture   &&   纤维状结构
+fibre metal   &&   纤维金属(由金属纤维构成的材料)
+fibre metallurgy   &&   纤维冶金(学)
+fibre modification   &&   纤维变性
+fibre morphology   &&   纤维形态
+fibre optic endoscope   &&   纤维光束内窥境
+fibre optic oscilloscope tube   &&   纤维光学示波管
+fibre optical cable   &&   纤维光缆
+fibre optics   &&   纤维光学
+fibre pattern   &&   纤维图
+fibre permanent set   &&   纤维永久变形
+fibre plaster   &&   纤维泥灰，纤维石膏
+fibre property   &&   纤维性能
+fibre quality   &&   纤维性质
+fibre reinforced plastics   &&   纤维增强塑料
+fibre reinforced thermoplastic plastics   &&   维增强热塑性塑料
+fibre resilience   &&   纤维回弹性
+fibre ribbon   &&   纤维条
+fibre separator   &&   纤维分选器
+fibre space   &&   纤维空间
+fibre strength   &&   纤维强度
+fibre strengthening   &&   纤维强化
+fibre stress   &&   纤维应力
+fibre structure   &&   纤维结构，纤维组织
+fibre surface   &&   纤维面
+fibre swelling   &&   纤维溶胀
+fibre tension   &&   纤维张力
+fibre texture   &&   丝缕织构，纤维织构
+fibre vacuum insulation   &&   纤维真空绝热
+fibre-growth model   &&   纤维生长模型
+fibre-optics image dissection camera   &&   光学析像摄影机
+fibre-reinforced composite   &&   纤维增强复合材料
+fibre-reinforced material   &&   纤维增强复合材料
+fibre-reinforced metal   &&   纤维增强金属材料
+fibre-strengthened alloy   &&   纤维强化合金
+fibrofelt   &&   纤维毡(墙壁绝缘用)
+fibrogram   &&   纤维图
+fibrograph   &&   纤维照影机
+fibrolite   &&   纤维板
+fibrous concrete   &&   纤维性混凝土
+fibrous crystal   &&   纤维状结晶
+fibrous eutectic alloy   &&   纤维状共晶合金
+fibrous flier   &&   纤维填料
+fibrous fracture   &&   纤维状断口
+fibrous glass reinforcements   &&   纤维玻璃增强材料
+fibrous graphite   &&   纤维石墨
+fibrous grease   &&   纤维状润滑脂
+fibrous insulant   &&   纤维绝热材料
+fibrous iron   &&   纤维断口铁，纤维状铁
+fibrous material   &&   纤维材料
+fibrous metal   &&   纤维金属(由金属纤维构成的材料)
+fibrous packing   &&   纤维填料
+fibrous plaster   &&   纤维灰泥
+fibrous reinforcement   &&   纤维增强，纤维增强材料
+fibrous reinforcement material   &&   纤维增强材料
+fibrous structure   &&   纤维状组织
+fibrous tactoid   &&   纤维质棒状胶体
+fibrous weld   &&   纤维状焊缝
+fictitious current sheet   &&   假想电流层
+fictitious generating voltage   &&   假想发电电压
+fictitious load   &&   假负载
+fictitious magnetic current   &&   假想磁流
+fictitious power   &&   假想功率，虚构功率
+fid   &&   ①销子，螺钉②柱螺栓，双端螺栓③测针
+fiddle   &&   ①台座，台架②支柱
+fiddle stick   &&   手摇播种机
+fidelity   &&   保真度，逼真度
+fidelity criterion   &&   保真度判据
+fidelity factor   &&   保真率
+fiducial axis   &&   基准轴线
+fiducial error   &&   引用误差
+fiducial line   &&   基准线
+fiducial point   &&   基准点
+fiducial value   &&   引用值，基值
+fie rod   &&   ①拉杆②转向横拉杆
+field   &&   ①范围，域②场，电场③字段，信息组，区段(程序的)，栏位④现场
+field accumulation   &&   字段累加
+field adjustment   &&   激励调节，磁场调节
+field adsorption   &&   场致吸附
+field aligned current   &&   场向电流
+field alignment error   &&   电场调整误差
+field ambulance   &&   救护车
+field ampere-turns   &&   激励安匝，磁场安匝
+field annealing   &&   场致退火
+field assay   &&   现场测试
+field balancing   &&   现场平衡
+field balancing equipment   &&   现场平衡设备
+field bobbin   &&   磁场线圈架，磁场线圈座
+field boiler   &&   工地锅炉
+field bolt   &&   现场安装螺栓
+field bus   &&   现场总线
+field bus control system   &&   现场总线控制系统[FCS]
+field cable   &&   军用电缆
+field camera   &&   轻便摄影机
+field circuit   &&   励磁电路，场电路
+field circuit breaker   &&   磁场断路器
+field code   &&   字段代码
+field coil   &&   励磁线圈
+field control   &&   现场控制
+field controller   &&   磁场控制器
+field core   &&   磁场铁心
+field current   &&   场电流，励磁电流，激励电流
+field current relay   &&   励磁电流继电器
+field data   &&   现场数据
+field data code   &&   数据字段码，军用数据码
+field deformation   &&   场形变
+field descriptor   &&   字段描述符
+field desorption   &&   场解吸[FD]
+field discharge   &&   ①消磁②磁场放电
+field displacement isolator   &&   场移式隔离器
+field distortion   &&   场畸变，场失真
+field distribution   &&   场分布
+field domain   &&   场畴
+field economizing relay   &&   弱激磁继电器
+field effect   &&   ①场效应，电场效应②场控
+field electron emission microscope   &&   场致电子发射显微镜
+field emission   &&   场发射，场致发射，电场发射
+field emission electron image   &&   场发射电子象
+field emission gun   &&   场发射电子枪
+field emission microscope   &&   场发射显微镜
+field emitter display   &&   场发射显示器[FED]
+field energy   &&   场能量
+field engine   &&   ①拖拉机②涡轮机
+field enhanced photoelectric emission   &&   场致光电发射
+field equation   &&   场方程
+field equipment   &&   场地设备
+field evaporation   &&   场致蒸发
+field exciter   &&   场激励器
+field experiment   &&   现场测试，现场试验
+field fuse   &&   磁场保险丝
+field in a date stream   &&   数据流中的字段
+field induced junction   &&   场感应结，电场感生结
+field inspection   &&   现场检验
+field intensity   &&   场强
+field intensity measurement   &&   场强计量
+field intensity meter   &&   场强计
+field intensity receiver   &&   场强接收机
+field interaction   &&   场相互作用
+field ion   &&   场离子
+field ion emission engine   &&   场电离放射发动机
+field ion emission microscope   &&   场离子发射显微镜
+field ion mass spectroscopy   &&   场离子质谱学
+field ion microscope   &&   场致离子显微镜[FIM]
+field ion microscopy   &&   场离子显微术
+field ionization   &&   场致电离
+field ionization ion source   &&   场致电离离子源
+field ionization source   &&   场电离源(FI source)
+field leakage   &&   场漏泄
+field length   &&   信息组长度，字段长度
+field lens   &&   场透镜
+field lenses   &&   向场透镜
+field level sensitivity   &&   字段级灵敏度
+field line   &&   场力线
+field luminescence   &&   场致发光
+field machinery   &&   田间作业机械
+field magnet   &&   场磁铁，场磁体
+field magnetomotive force   &&   磁场磁动势
+field maintenance   &&   现场维修
+field mower   &&   ①割草机②田间收割机
+field of a picture specification   &&   图像说明字段
+field of view   &&   视场
+field of visibility   &&   视野
+field particle   &&   场粒子
+field point   &&   场点
+field pole   &&   场磁极
+field processing   &&   现场加工
+field protective relay   &&   磁场保护继电器
+field quantum   &&   场量子
+field reliability test   &&   现场可靠性试验
+field rheostat   &&   磁场变阻器
+field separator   &&   字段分隔符
+field shunting   &&   磁场分流
+field source   &&   场源
+field stop   &&   场阑，视场光栏
+field strength   &&   场强
+field strength contour map   &&   等场强线图
+field strength pattern   &&   场强图
+field strength receiver   &&   场强接收机
+field sweeping   &&   场扫描
+field switch   &&   磁场开关，场开关
+field tapping   &&   磁场分接
+field test   &&   现场试验
+field theory   &&   场论
+field theory model   &&   场论模型
+field trial   &&   现场试验
+field type   &&   字段类型
+field voltage   &&   励磁电压
+field wave   &&   励磁波
+field weld   &&   现场焊接
+field yoke   &&   磁轭
+field-accelerating relay   &&   (磁)场加速继电器
+field-actuating relay   &&   磁场动作继电器
+field-application relay   &&   供磁继电器
+field-by-field form   &&   逐段形式
+field-by-field panel   &&   逐段显示控制面板
+field-by-field processing   &&   逐段处理
+field-control motor   &&   磁场可控型电动机
+field-developed program   &&   现场开发程序
+field-discharge protection   &&   磁场放电保护(装置)
+field-discharge switch   &&   磁场放电开关
+field-effect capacitor   &&   场效应电容器
+field-effect chopper   &&   场效应管斩波器
+field-effect device   &&   场效应器件
+field-effect diode   &&   场效应二极管
+field-effect display   &&   场效应显示
+field-effect phototransistor   &&   场效应光电晶体管
+field-effect tetrode   &&   场效应四极管
+field-effect transistor   &&   场控晶体管， 场效应晶体管[FET]
+field-effect transistor resistor   &&   场效应晶体管电阻
+field-effect tube   &&   场效应电子管
+field-effect varistor   &&   场效应变阻器
+field-effect-transistor channel   &&   场效应晶体管沟道
+field-emission cathode   &&   场致发射阴极
+field-emission ion source   &&   场致发射离子源
+field-emission microscope   &&   场致发射(电子)显微镜[FEM]
+field-emission spectroscopy   &&   场致发射光谱学[FES]
+field-emission tube   &&   场致发射管
+field-forcing   &&   磁场强励
+field-formatted request   &&   字段格式请求
+field-frequency lock   &&   场频锁
+field-intensity distribution   &&   场强分布
+field-replaceable unit   &&   现场可更换部件，插件
+field-sequential camera   &&   场序制彩色电视摄像机
+field-swept   &&   场扫描
+fieldistor   &&   场控晶体三极管，场效应晶体管
+fiery fracture   &&   粗晶断口
+fifth voltage range   &&   第五级电压
+fifth wheel   &&   ①牵引座②第五轮仪
+fighter   &&   歼击机，战斗机
+fighter aeroplane   &&   歼击机，战斗机
+fighter aircraft   &&   战斗机
+fighter interceptor   &&   截击机
+fighter plane   &&   战斗机
+fighter-bomber   &&   战斗轰炸机
+fighting ship   &&   战斗舰艇
+figuration   &&   成形
+figure   &&   ①图形②数值③位数④数字⑤数码
+figure punch   &&   数字冲压机
+figure reading electronic device   &&   电子读数器
+filament   &&   ①丝，纤丝②纤维，单丝，单纤维③丝极④灯丝
+filament activation   &&   灯丝激活
+filament activity test   &&   灯丝效率试验(电子管的)
+filament battery   &&   灯丝电池
+filament bombardment   &&   阴极轰击
+filament centre tap   &&   灯丝中点引线，灯丝中心抽头
+filament circuit   &&   灯丝电路
+filament control   &&   灯丝调节
+filament crystal   &&   丝状晶体
+filament current   &&   灯丝电流
+filament data   &&   灯丝电路参数，灯丝电路数据
+filament drawing   &&   拉细丝
+filament emission   &&   灯丝发射
+filament fuse   &&   灯丝电路保险丝
+filament generator   &&   灯丝电源发电机
+filament ground   &&   灯丝接地
+filament image   &&   灯丝象
+filament lamp   &&   白炽灯
+filament machine   &&   绕灯丝机，绕线机
+filament material   &&   灯丝材料
+filament potentiometer   &&   灯丝电位计
+filament power   &&   灯丝功率
+filament power supply   &&   灯丝电源
+filament regulation   &&   灯丝电路调节
+filament regulator   &&   灯丝调节器
+filament resistance   &&   灯丝电阻
+filament rheostat   &&   灯丝变阻器
+filament stalk   &&   灯丝杆
+filament supply   &&   灯丝电源
+filament switch   &&   灯丝开关
+filament temperature   &&   灯丝温度
+filament transformer   &&   灯丝变压器
+filament voltage   &&   灯丝电压，热丝电压(电子管)
+filament voltmeter   &&   灯丝伏特计
+filament volume fraction   &&   纤维体积含量
+filament wattage   &&   灯丝功率
+filament winding   &&   灯丝电源绕组
+filament wound composite   &&   纤维缠绕复合材料
+filament-reinforced metal   &&   纤维加强金属
+filamentary cathode   &&   灯丝式阴极
+filamentary composition   &&   丝状组合
+filamentary crystal reinforcement   &&   丝状晶体加强
+filamentary discharge   &&   丝状放电
+filamentary fibril   &&   丝状原纤维
+filamentary structural composite   &&   纤丝复合结构材料
+filamentary superconductor   &&   丝状超导体
+filamentary transistor   &&   丝状晶体管
+filar suspended galvanometer   &&   悬丝式检流计
+file   &&   ①锉，锉刀②外存储器，文件，档案，文卷
+file access   &&   文件存取
+file access method   &&   文件存取方式
+file activity ratio   &&   文件活动率
+file address checking program   &&   文件地址检验程序
+file addressing   &&   文件编址
+file alloy   &&   锉刀合金
+file analysis   &&   文件分析
+file area   &&   文件区
+file attribute   &&   文件属性
+file brush   &&   锉刀刷
+file catalog   &&   文件目录
+file clause   &&   文件子句
+file cleanup   &&   文件整理，文件净化
+file closing   &&   文件关闭
+file composition   &&   文件集成
+file computer   &&   文件计算机，编目计算机
+file constant   &&   文件常数
+file control   &&   文件控制
+file control mode   &&   文件控制模式
+file control system   &&   文件控制系统
+file control table   &&   文件控制表
+file conversion   &&   文件转换
+file cutting machine   &&   锉刀切削机床
+file definition   &&   文件定义
+file description   &&   文件说明，文件描述
+file description entry   &&   文件描述项
+file description statement   &&   文件说明语句，文件描述语句
+file design   &&   文件设计
+file destination   &&   目标文件
+file dictionary   &&   文件目录
+file directory management   &&   文件目录管理
+file drum   &&   文件磁鼓
+file dust   &&   锉屑
+file event   &&   文件事件
+file expression   &&   文件表达式
+file extension   &&   文件扩展
+file extension specification   &&   文件附加说明表
+file folder   &&   资料夹
+file gap   &&   文件间隔
+file hardness   &&   锉刀硬度
+file header   &&   文件标题
+file identification   &&   文件标志，文件识别
+file label   &&   文件标号，档案标签
+file layout   &&   文件布局，文件格式设计
+file maintenance   &&   文件维护
+file management   &&   文件管理
+file management system   &&   文件管理系统
+file mark   &&   ①文件标志②锉刀标志
+file memory   &&   档案存储
+file name   &&   文件名称
+file name table   &&   文件名称表
+file opening   &&   文件打开
+file organization   &&   文件组织
+file organization routine   &&   文件组织程序
+file packing density   &&   文件装填密度
+file pocket   &&   文件袋
+file preparation   &&   文件准备
+file printout   &&   文件打印
+file protection   &&   文件保护
+file protection ring   &&   文件保护环，档案保护圈
+file reconstruction procedure   &&   文件重建过程
+file record compaction   &&   文件记录的压缩
+file recovery   &&   文件恢复
+file reel   &&   文件卷盘
+file reference   &&   文件访问
+file restructure   &&   文件重构，文件改组
+file scratch test   &&   锉刀划痕试验
+file search   &&   文件搜索
+file section   &&   文件节
+file security   &&   文件保密
+file separator character   &&   文件分隔符
+file server   &&   文件服务机
+file set   &&   文件组，文件集
+file sharing   &&   文件共享
+file specification   &&   文件说明，文件明细表
+file status table   &&   文件状态表[FST]
+file steel   &&   锉刀钢
+file storage   &&   档案存储
+file store   &&   文件存储
+file structure   &&   文件结构
+file system   &&   文件系统
+file system control block   &&   文件系统控制块[FSCB]
+file test   &&   锉刀试验
+file tidying   &&   文件整理，文件净化
+file tooth forming tool   &&   锉齿成形刀具
+file transfer   &&   文件传输
+file transfer protocol   &&   文件传输协议[FTP]
+file type   &&   文件类型
+file update   &&   文件更新
+file variable   &&   文件变量
+file verification   &&   文件校验，文件验证
+file-manipulation command   &&   文件处理命令
+file-manipulation program   &&   文件处理程序
+file-oriented programming   &&   面向文件的程序设计
+file-oriented system   &&   面向文件的系统
+file-oriented writing operation   &&   面向文件的写操作
+file-structure device   &&   带文件结构的设备
+filed by accounting department for reference   &&   会计部存查
+files   &&   档，档案
+filing   &&   锉刀修润，锉屑，金属屑
+filing lathe   &&   锉刀车床
+filing table   &&   锉工工作台
+filings   &&   锉屑
+fill   &&   填充 填实
+fill factor   &&   占空因子，填充率
+fill preparation   &&   薄膜制备
+fill-load test   &&   满载试验
+filled composite   &&   充填复合材料
+filled system thermometer   &&   压力式温度计
+filled text   &&   填充文字 文字填实(用于填实线条、实体或实面)
+filled thermal system   &&   充灌式感温系统
+filler   &&   ①充填材料②浇铸机③漏斗，注入口，油口，加油口
+filler cap   &&   加注孔盖
+filler gate   &&   充水闸门
+filler inlet   &&   加油口
+filler metal   &&   ①填充金属②焊料，焊丝
+filler nozzle   &&   加油喷嘴，加注喷嘴
+filler pipe   &&   加水管，注油管，加油管
+filler plug   &&   注入塞
+filler rod   &&   ①焊条②嵌条
+filler speak   &&   填充料斑
+filler wire   &&   ①充填钢丝②熔化焊丝
+fillet   &&   ①圆角，倒角，内圆角，齿根圆角②凸缘，肩角③嵌条④填角焊缝⑤镶，嵌边⑥圆填角料
+fillet and rounds   &&   内圆角与外圆角
+fillet curve   &&   齿根过渡曲线
+fillet gauge   &&   圆角规
+fillet in normal shear   &&   正面焊缝
+fillet in parallel shear   &&   侧面焊缝
+fillet of screw   &&   螺纹圈
+fillet radius   &&   齿根圆角半径
+fillet weld   &&   角焊，填角焊，条焊，填角焊接
+fillet weld in the flat position   &&   角接平焊，船形焊
+fillet weld in the horizontal position   &&   横向角焊
+filleted corner   &&   内圆角
+filling core   &&   椿入蕊
+filling culvert of lock   &&   船闸进水涵洞
+filling engine   &&   装料机
+filling long wall method   &&   充填长壁采煤法
+filling machine   &&   ①装料机②切棉机
+filling material   &&   充填材料
+filling method   &&   充填法
+filling-emptying system of lock   &&   船闸输水系统
+film   &&   ①电影②薄层③薄膜，膜
+film absorber   &&   薄膜吸收体
+film adhesives   &&   薄膜黏合剂
+film articles   &&   薄膜制品
+film blowing   &&   薄膜吹塑(二热塑性薄膜成型法)
+film boiling   &&   膜态沸腾
+film casting   &&   薄膜铸塑(制造无衬薄膜或片材的方法)
+film circuit   &&   薄膜电路
+film coating   &&   薄膜敷层
+film coefficient   &&   膜系数
+film cooling   &&   薄膜冷却
+film copy   &&   电影拷贝
+film counter   &&   照像机用之底片计数器
+film crystal   &&   薄膜晶体
+film cut-out   &&   薄膜断流器
+film decoration technique   &&   电影制景技术
+film diffusion   &&   薄膜扩散
+film drier   &&   薄膜干燥机
+film elasticity   &&   薄膜弹性，膜弹性
+film equipment   &&   电影设备
+film evaporator   &&   薄膜蒸发器
+film for electrical purposes   &&   电工薄膜
+film formation   &&   成膜
+film former   &&   成膜剂，成膜物(质)
+film forming characteristic   &&   成膜特性
+film forming matter   &&   薄膜形成物质，成膜物(质)
+film gate   &&   膜形浇口，薄膜形浇口，薄膜浇口
+film glass   &&   薄膜玻璃
+film glue   &&   薄膜黏结剂，层胶
+film growth   &&   薄膜生长
+film healing   &&   薄膜修复，膜修复
+film insulation   &&   薄膜绝缘
+film integrated circuit   &&   膜集成电路
+film interference   &&   薄膜干涉
+film lighting   &&   电影照明
+film lightning arrester   &&   薄膜避雷器
+film lubrication   &&   薄膜润滑
+film machinery   &&   电影机械
+film maintaining   &&   膜维持
+film monitoring   &&   膜厚控制
+film optical-sensing device   &&   胶片光学读取设备
+film orientation   &&   薄膜分子定向
+film plasticizer   &&   薄膜增塑剂
+film potential   &&   薄膜电位
+film pressure   &&   膜压力
+film processing technique   &&   电影洗印技术
+film projector   &&   电影放映机
+film reactor   &&   膜式反应器
+film reader   &&   胶卷阅读机，照相底片读出器
+film recorder   &&   电影录音机，胶片记录器
+film recording thermograph   &&   照相温度(表)
+film resilience   &&   膜回弹性
+film resistor   &&   薄膜电阻(器)
+film rewinding device   &&   倒片机
+film rupture   &&   膜破坏，膜破裂
+film sample   &&   薄膜样品
+film scanning   &&   影片扫描
+film scribing   &&   薄膜刻图
+film splicer   &&   电影接片机
+film splicing machine   &&   电影接片机
+film spreading device   &&   薄膜扩展装置
+film strength   &&   薄膜强度，膜强度
+film stripping test   &&   薄膜剥离试验
+film studio   &&   电影制片厂
+film technique   &&   电影技术
+film theory   &&   薄膜理论
+film thickness   &&   薄膜厚度，膜厚(度)
+film thickness measuring   &&   膜厚测定法
+film toughness   &&   薄膜强度，膜强度
+film type bolometer   &&   薄膜型辐射热计
+film type electret   &&   薄膜驻极体
+film varistor   &&   膜式电压敏电阻器
+film waveguide   &&   薄膜波导
+film-developing machine   &&   电影洗片机
+film-forming   &&   成膜
+film-forming agent   &&   成膜剂
+film-forming compound   &&   成膜化合物
+film-forming emulsifier   &&   成膜乳化剂
+film-forming material   &&   成膜物(质)
+film-forming molecule   &&   成膜分子
+film-forming property   &&   成膜性能
+film-forming surfactant   &&   成膜表面活性剂
+film-type   &&   膜式
+film-type condensation   &&   膜式冷凝
+film-type rectifying section   &&   膜式精馏段
+film-wise operation   &&   膜式操作
+filminess   &&   薄膜状态
+filmistor   &&   薄膜电阻(器)
+filmogen   &&   成膜剂
+filmroll   &&   胶卷
+filter   &&   ①过滤②过滤器，滤清器
+filter area   &&   过滤面积
+filter attenuation   &&   滤波衰减
+filter capacitor   &&   滤波电容器
+filter choke   &&   滤波电扼流圈
+filter circuit   &&   滤波电路
+filter clogging   &&   过滤器堵塞
+filter cloth   &&   过滤布
+filter coke   &&   过滤用焦炭
+filter condenser   &&   滤波电容器
+filter crystal   &&   滤波晶体
+filter device   &&   滤光装置
+filter electronic   &&   电子滤波器
+filter element   &&   滤芯
+filter flask   &&   过滤瓶
+filter funnel   &&   过滤漏斗
+filter gauze   &&   滤网
+filter impedance compensator   &&   滤波器阻抗补偿器
+filter loading   &&   过滤器堵塞
+filter mechanical   &&   机械滤波器
+filter medium   &&   过滤介质
+filter net, suction canal   &&   进风罩滤网
+filter network   &&   滤波网络
+filter paper   &&   过滤纸
+filter period   &&   过滤周期
+filter plate   &&   过滤板
+filter plexor   &&   滤波式天线共享器
+filter pump   &&   滤泵
+filter stoppage   &&   过滤器堵塞
+filter transmission band   &&   滤波器通带
+filtered electron image   &&   过滤电子象
+filtered electron lens   &&   过滤电子透镜
+filtered group   &&   过滤群
+filtered neutron beam   &&   过滤中子束
+filtered radar data   &&   过滤的雷达数据
+filtering theory   &&   滤波理论
+filtration   &&   过滤结构
+fin   &&   ①翅片②尾翅
+fin leaf   &&   锡箔
+fin thread   &&   细牙
+final amplifier   &&   末级放大器
+final assembly schedule   &&   最终装配计划
+final contact, end of contact   &&   终止啮合点，齿形系数
+final controlling element   &&   终端控制组件，执行器
+final dimension   &&   成品尺寸
+final drive   &&   主减速器
+final drive and differential   &&   主传动及差速器
+final drive ratio   &&   主减速器速比
+final inspection   &&   终检
+final limit-switch   &&   极限终端开关
+final machining   &&   精加工
+final selector   &&   终接器
+final state   &&   终态
+final temperature   &&   终了温度终止温度
+financial management information system   &&   财务管理信息系统
+find   &&   查找 寻找工具
+finder   &&   寻迹器
+fine boring   &&   精密镗孔
+fine ceramics   &&   精细陶瓷
+fine gold   &&   纯金
+fine grinding   &&   细磨
+fine metal   &&   纯金属
+fine pitch   &&   (小模数)细径节
+fine silver   &&   纯银
+fine threads   &&   细牙螺纹
+fineness ratio   &&   径长比
+finger   &&   摇臂
+finger pin   &&   指形销
+finish   &&   完成，修饰(for render only)
+finish all over   &&   全面精加工[FAO]
+finish die   &&   精拔模
+finish draw   &&   精拔
+finish machined plate   &&   角形模板
+finish machined round plate   &&   圆形模板
+finish machining   &&   精加工
+finish turning   &&   精车
+finished article   &&   成品
+finished goods   &&   成品
+finished goods warehouse   &&   成品库
+finished item   &&   成品
+finished product   &&   成品
+finished product form   &&   成品形状
+finished product inspection   &&   成品检验
+finished product ratio   &&   成品率
+finished products   &&   成品
+finished products storage   &&   成品库
+finished size   &&   成品尺寸
+finished steel   &&   成品钢
+finisher   &&   精切机床
+finishing   &&   修饰
+finishing allowance   &&   修饰余量
+finishing cut   &&   精加工
+finishing grade   &&   修饰程度
+finishing machines   &&   修整机
+finishing mill   &&   精轧机
+finite automaton   &&   有限自动机
+finite dipping   &&   有限限幅
+finite memory automaton   &&   有限存储自动机
+finite-element method   &&   有限元法
+finned sheet exchanger   &&   翅板式换热器
+finned surface   &&   翅面
+finned surface electric machine   &&   翅面电机
+finned tube condenser   &&   翅管式冷凝器
+finned tube heat exchanger   &&   翅管式换热器
+finning   &&   散热片
+fire   &&   ①燃烧②火，火力
+fire alarm   &&   火警
+fire appliance   &&   消防车
+fire assay   &&   火法化验
+fire ball   &&   火球
+fire bar   &&   炉条
+fire barrier   &&   挡火墙
+fire bars   &&   炉条钢
+fire bed   &&   燃烧层
+fire behaviour   &&   着火性能
+fire bomb   &&   燃烧弹
+fire box   &&   火箱
+fire bulkhead   &&   挡火墙
+fire clay   &&   火泥
+fire control   &&   ①燃烧控制②射击控制
+fire detector   &&   火灾探测器
+fire direction net   &&   火力方向网
+fire door   &&   炉门
+fire engine   &&   消防泵，消防抽水机
+fire face   &&   轮胎胎脸
+fire hose   &&   水龙带
+fire integrity   &&   整体着火性
+fire point   &&   燃烧点
+fire power   &&   火力
+fire pump   &&   消防泵
+fire refining   &&   火法精炼
+fire resistance   &&   耐火性
+fire ring   &&   缸垫密封圈
+fire safety of ship   &&   船舶消防
+fire scale   &&   铁鳞
+fire scrub   &&   轮胎侧偏运动
+fire stability   &&   对火稳定性
+fire test   &&   燃烧试验
+fire-control computer   &&   射击控制计算机
+fire-control radar   &&   射击控制雷达
+fire-control sonar   &&   射击控制声呐
+fire-extinguishing equipment   &&   消防设备
+fire-fighting boat   &&   消防艇
+fire-fighting equipment   &&   消防设备
+fire-hose instability   &&   水龙带不稳定性
+fire-stop   &&   挡火物
+fire-tongs   &&   火钳
+fire-tube boiler   &&   火管锅炉
+firearm   &&   火器
+firebreak   &&   挡火墙
+firefinder   &&   火灾寻视器
+firelock   &&   火枪
+firewall   &&   前围板，防火墙
+firing   &&   点火
+firing angle   &&   引燃角
+firing circuit   &&   触发电路，点火电路
+firing failure   &&   引燃失败
+firing line   &&   火线
+firing order   &&   点火次序
+firing point   &&   燃烧点
+firing potential   &&   点火电位
+firing stroke   &&   点火冲程，作功行程
+firing voltage   &&   触发电压
+firm cure   &&   充分硫化
+firmware   &&   固件
+first Brillouin zone   &&   第一布里渊区(电子的)
+first CMC   &&   第一临界胶束浓度(CMC critical micelle concentration)
+first annealing   &&   第一次退火
+first approximation   &&   ①第一次近似，第一级近似，初步近似②第一近似值
+first article configuration inspection   &&   初样概略检验
+first check   &&   初盘复棹人
+first class insulated wire   &&   第一类绝缘线
+first cosmic velocity   &&   第一宇宙速度
+first count   &&   初盘人
+first critical angle   &&   第一临界角
+first diffusion equation   &&   第一扩散方程
+first engine   &&   多级火箭第一级发动机
+first gear   &&   最低挡
+first generation computer   &&   第一代计算机
+first harmonic   &&   基波
+first integral   &&   第一积分
+first law of motion   &&   第一运动定律
+first stage annealing   &&   第一段退火
+first-harmonic resonance   &&   基波共振，基波谐振
+first-item list   &&   首项表
+first-level address   &&   直接地址，第一级地址
+fish eye   &&   鱼眼
+fish finder   &&   鱼探仪
+fishtail   &&   鱼尾形
+fishtail die   &&   鱼尾形模具
+fissure   &&   裂纹
+fit   &&   ①自适应设置，布满②配合
+fit dimension   &&   配合尺寸
+fit points   &&   拟合点 拟合点
+fit symbol   &&   配合符号
+fit system   &&   配合方式
+fit together   &&   组装在一起
+fitter   &&   装配工，钳工
+fitting   &&   管件
+five-component borehole magnetometer   &&   井中五分量磁测井仪
+five-mile-an-hour bumper   &&   安全保险杠，联邦安全保险杠
+fix   &&   使固定，安装
+fixed bevel gear   &&   固定锥齿轮
+fixed bolster plate   &&   固定侧模板
+fixed cam brake   &&   固定凸轮制动器
+fixed choke carburetor   &&   固定喉管化油器
+fixed control   &&   固定测量方法
+fixed core   &&   定铁芯
+fixed form   &&   固定方式
+fixed form coding   &&   固定形式编码
+fixed form message   &&   固定格式消息
+fixed form operation   &&   固定方式操作
+fixed frame   &&   固定构件
+fixed function   &&   固定功能
+fixed gang-condenser   &&   不变电容器组
+fixed gun   &&   固定式机关枪
+fixed half and moving half   &&   定模和动模
+fixed head   &&   固定式缸盖
+fixed header prefix   &&   固定标题前缀[FHP]
+fixed index   &&   固定指标
+fixed instrument   &&   固定式仪表
+fixed laser bar code scanners   &&   固定式激光条码扫描器
+fixed link   &&   固定构件
+fixed link pack area   &&   固定链接装配区
+fixed load   &&   固定负荷，固定负载
+fixed loss   &&   固定损失，固定损耗
+fixed mean pole   &&   固定平极
+fixed measuring instrument   &&   固定式测量仪表
+fixed memory   &&   固定存储器
+fixed mode   &&   固定方式
+fixed optical attenuators   &&   光衰减器(固定)
+fixed order quantity   &&   固定批量法
+fixed page   &&   固定页面
+fixed partition   &&   固定分区
+fixed period requirement   &&   固定周期法
+fixed phase   &&   固定相(位)
+fixed phase drift   &&   固定相移
+fixed point   &&   定点，不变点，不动点(数)
+fixed point arithmetic   &&   不动点算法，定点运算
+fixed point calculation   &&   定点计算
+fixed point method   &&   不动点方法，定点法
+fixed point operation   &&   定点运算
+fixed points method of calibration   &&   定点法标定
+fixed pole   &&   固定极
+fixed preferential type   &&   固定择优方式
+fixed priority scheme   &&   固定优先方式
+fixed product layout   &&   固定工位式布置
+fixed resistance input type volt ratio box   &&   定阻输入式分压箱
+fixed resistance output type volt ratio box   &&   定阻输出式分压箱
+fixed routine   &&   固定例行程序
+fixed set point control   &&   定值控制
+fixed set point control system   &&   定值控制系统
+fixed setting   &&   固定安装法
+fixed steering control   &&   固定转向盘试验
+fixed storage   &&   固定存储器
+fixed transmitter   &&   固定发射机
+fixed value   &&   不变值
+fixed washer   &&   固定垫圈
+fixed word length computer   &&   固定字长计算机
+fixed-based natural frequency   &&   固定基础固有频率
+fixed-function generator   &&   固定功能生成程序
+fixed-image graphics   &&   固定图像图形学
+fixed-length record   &&   固定长记录
+fixed-line number   &&   固定行数
+fixed-point computer   &&   定点计算机
+fixed-point constant   &&   定点常数
+fixed-point format   &&   定点格式
+fixed-point notation   &&   定点记数法
+fixed-point number   &&   定点数
+fixed-point part   &&   定点部分
+fixed-point representation system   &&   定点表示制
+fixed-point simulation   &&   定点仿真，定点模拟
+fixed-point system   &&   定点系统
+fixed-point theorem   &&   不动点定理
+fixed-position addressing   &&   固定位置寻址
+fixed-position welding   &&   定位焊接
+fixed-program computer   &&   固定程序计算机
+fixed-radix numeration system   &&   固定基计数制
+fixed-to-floating point conversion   &&   定点浮点转换，点浮点转换
+fixed-trip   &&   固定跳闸
+fixedness   &&   不变性
+fixing plate   &&   压板
+fixity   &&   不变性
+fixture   &&   夹具
+fixture wire   &&   设备引线，电器引线
+flag   &&   ①标记，特征位，标志②表征，特征，旗标
+flag bit   &&   标记位，特征位
+flag data   &&   标记数据
+flag operation   &&   标志操作
+flag register   &&   标记寄存器
+flag sequence   &&   标志顺序
+flag shift command   &&   标记移位命令
+flag terminal   &&   接线片
+flag transfer   &&   标记传送
+flag word   &&   标志字
+flake aluminium   &&   薄铝片
+flake composite material   &&   薄片复合材料
+flake landing ship   &&   登陆防空舰
+flake thermistor   &&   薄片热敏电阻器
+flaked graphite   &&   石墨片，薄片石墨
+flaky graphite   &&   薄片石墨，石墨片
+flaky texture   &&   薄片状结构
+flamboyant   &&   火焰似的(颜色)
+flame   &&   火焰
+flame ablation   &&   熔化烧蚀
+flame annealing   &&   火焰退火
+flame attenuation   &&   火焰吹拉(玻璃纤维)焰衰减
+flame blowing   &&   火焰吹拉(玻璃纤维)
+flame bucket   &&   火焰反射器
+flame coating   &&   火焰喷涂
+flame descaling   &&   火焰除鳞，火焰清理
+flame detector   &&   火焰检测器
+flame emission spectrometry   &&   火焰发射光谱法
+flame engine   &&   ①燃气发动机②瓦斯机
+flame extinction   &&   火焰淬熄
+flame formation   &&   火焰形成
+flame front   &&   火焰前峰
+flame furnace   &&   火焰炉
+flame gouging   &&   火焰清铲
+flame hardening   &&   火焰淬火，火焰硬化
+flame hardening equipment   &&   火焰淬火装置
+flame heating   &&   火焰加热
+flame holder   &&   火焰稳定器
+flame holding   &&   燃烧稳定，火焰稳定性
+flame ignition   &&   火焰点火
+flame ionization detector   &&   火焰电离检测器，烟气电离检测仪[FID]
+flame jet   &&   火焰喷射
+flame monitor   &&   火焰监测器
+flame normalizing   &&   火焰正火
+flame photometer   &&   火焰光度计
+flame photometric detector   &&   火焰光度检测器[FPD]
+flame plating   &&   火焰喷镀
+flame projector   &&   火焰喷射器
+flame proof enclosure (Ex d)   &&   隔爆外壳(Ex d)
+flame propagation   &&   火焰传播
+flame propagation mode   &&   火焰传播法
+flame propagation test   &&   火焰传播试验
+flame propagation theory   &&   火焰传播理论
+flame pyrolysis   &&   火焰裂解
+flame quenching   &&   火焰淬火
+flame shield   &&   火焰反射器
+flame softening   &&   火焰软化处理
+flame spectrometry   &&   火焰光谱法
+flame spectrum   &&   火焰光谱
+flame speed   &&   火焰速度
+flame spray coating   &&   火焰喷涂
+flame spraying   &&   火焰喷涂
+flame stability   &&   火焰稳定性
+flame stabilization   &&   火焰稳定化
+flame structure   &&   火焰结构
+flame temperature   &&   火焰温度
+flame temperature detector   &&   火焰温度检测器
+flame tempering   &&   火焰回火
+flame test   &&   火焰鉴定(化学元素的)
+flame thrower   &&   火焰喷射器
+flame trap   &&   排烟收集装置
+flame treatment   &&   火焰处理
+flame tube   &&   火焰管，火焰筒
+flame zone   &&   火焰区
+flame-etch test   &&   火焰侵蚀试验
+flame-sprayed plastic coating   &&   火焰喷涂塑料覆盖层
+flaming sheath   &&   火焰覆盖层
+flammability test   &&   可燃性试验
+flanch   &&   法兰
+flange   &&   ①法兰②挡边
+flange coupled connector   &&   法兰式连接器
+flange coupling   &&   凸缘联轴器
+flange gasket   &&   法兰衬垫
+flange gasket residual stress   &&   法兰垫线余应力
+flange gasket stress   &&   法兰垫应力
+flange joint   &&   凸缘接头
+flange nylon insert lock nuts   &&   突缘尼龙盖帽
+flange of wheel   &&   轮缘
+flange packing   &&   法兰衬垫
+flange plate   &&   法兰盘
+flange pressure tapping   &&   法兰取压口
+flange wrinkle   &&   凸缘起皱
+flanged bend   &&   法兰弯头
+flanged cross   &&   法兰四通
+flanged ends   &&   法兰连接端
+flanged pin   &&   凸缘活塞
+flanged shaft   &&   凸缘轴
+flanged tee   &&   法兰三通
+flangeless ends   &&   无法兰连接端
+flangeless valve   &&   无法兰阀
+flank   &&   下齿面
+flank of tooth   &&   齿侧
+flanking   &&   下齿面加工
+flap   &&   ①导流翼 ②副翼
+flare bomb   &&   信号弹
+flare stack   &&   火炬烟囱，火炬管
+flare stack burner   &&   火炬烟囱燃烧器
+flash   &&   ①闪光，闪烁，光泽②毛刺，飞边，焊瘤
+flash alloy   &&   闪光合金
+flash baking   &&   快速烘干
+flash boiler   &&   速法气锅炉
+flash bomb   &&   闪光炸弹
+flash counter tube   &&   闪烁计数管
+flash detonator   &&   火焰雷管
+flash drying   &&   快速烘干
+flash fin   &&   溢料，滋料
+flash gate   &&   闸门浇口
+flash groove   &&   溢料缝，跑胶道，流胶沟，滋流沟
+flash heat   &&   快速加热
+flash lamp   &&   闪光灯
+flash light   &&   闪光灯
+flash mold   &&   溢料式模具
+flash point   &&   引火点，闪点
+flash polymerization   &&   猝发聚合反应
+flash-arc   &&   火花弧
+flasher unit   &&   闪光装置
+flashing   &&   电弧放电，闪阀
+flashing light   &&   闪烁光
+flashing point   &&   闪点，燃点
+flashing rhythm of light   &&   灯光节奏
+flashing sintering   &&   快速粉末冶金(法)
+flashlight   &&   电筒
+flask   &&   砂箱，造型箱，上箱
+flask casting   &&   砂箱铸造
+flask filler   &&   砂箱填砂机
+flask moulding   &&   砂箱造型
+flat   &&   平板货车
+flat CRTs   &&   平面阴极射线管
+flat bar   &&   扁条
+flat bar steel   &&   扁钢
+flat battery   &&   扁平电蓄电池
+flat bed plotter   &&   平板绘图仪
+flat belt   &&   平带，频率
+flat belt driving   &&   平带传动，频率
+flat bus-bar   &&   扁汇流条，扁母线
+flat cable   &&   扁(平)电缆
+flat copper wire   &&   扁铜线
+flat cotter   &&   扁销
+flat engine   &&   扁平形发动机
+flat file   &&   偏(平)锉
+flat head   &&   ①平头，平顶燃烧室②侧置气门发动机
+flat iron   &&   扁铁
+flat iron bar   &&   扁铁条
+flat lead   &&   薄铅板
+flat leaf spring   &&   板簧
+flat mirrors   &&   平面镜
+flat out   &&   全速运行
+flat ribbon   &&   扁带
+flat scraper   &&   平刮刀
+flat section ingot   &&   扁锭
+flat shaded edges on   &&   带边框平淡着色
+flat spot   &&   ①加速迟缓②轮胎补钉
+flat steel   &&   扁钢
+flat steel bar   &&   扁钢条
+flat steel slab   &&   扁钢坯
+flat waser nuts   &&   平面华司螺帽
+flat wire   &&   扁钢丝
+flat wire rope   &&   扁钢丝绳
+flat-bed color image scanners   &&   平台式影像扫描器
+flat-face follower   &&   平底从动件
+flat-head bolt   &&   平头螺栓
+flat-head screw   &&   平头螺钉
+flat-head wood screw   &&   平头木螺丝
+flat-panel technology   &&   平面(显示)技术
+flat-rolled bar   &&   薄钢坯
+flat-shaded   &&   (平淡)着色
+flatbed truck   &&   平板货车
+flatness   &&   平面度
+flatness testers   &&   平面度测定系统
+flaw   &&   疵，疵点，疵瑕，刮伤
+flaw echo   &&   缺陷反射波
+flaw resolution   &&   缺陷分辨力
+flaw sensitivity   &&   缺陷灵敏度
+flee power turbine   &&   动力透平
+fleet air control and surveillance facility   &&   舰队空中控制与监视站
+fleet boat   &&   舰队潜艇
+fleet guide   &&   舰队向导舰
+fleet lighter   &&   舰队战斗机
+flexibility   &&   适应性，柔性
+flexibility of spring   &&   弹簧挠性
+flexible   &&   柔韧的，适应性好的
+flexible array   &&   灵活阵列
+flexible automation   &&   灵活自动化，柔性自动化
+flexible axis   &&   挠性轴
+flexible bearing   &&   挠性轴承
+flexible brake hose   &&   制动软管
+flexible connection   &&   活动连接
+flexible coupling   &&   弹性联接
+flexible disk   &&   软磁盘
+flexible drive   &&   挠性传动
+flexible electron multiplicator   &&   挠性电子倍增器
+flexible impulse   &&   柔性冲击
+flexible joint   &&   柔性联轴节
+flexible manufacture system   &&   灵活加工系统
+flexible manufacturing system   &&   柔性制造系统[FMS]
+flexible membrane moulding   &&   膜袋模塑(法)
+flexible parallel processing   &&   灵活并行处理
+flexible rack   &&   柔性齿条
+flexible rotor   &&   挠性转子，柔性转子
+flexible support   &&   弹性支承
+flexible suspension   &&   弹性吊架
+flexible symbol   &&   可变符号
+flexural critical speed   &&   挠曲临界转速
+flexural principle mode   &&   挠曲主振型
+flicker   &&   闪烁
+flight computer   &&   飞行计算机
+flight control system   &&   飞行控制系统
+flight device   &&   飞行器
+flight path computer   &&   飞行航迹计算机，飞弹道计算机，导航计算机
+flight simulator   &&   飞行模拟机
+flight-course computer   &&   导航计算机
+flight-deck   &&   飞行甲板，驾驶舱
+flight-follow   &&   雷达跟踪飞机
+flinger   &&   甩油盘，抛油盘
+flint   &&   火石
+flint glass   &&   火石玻璃
+flint glass paper   &&   粗砂纸
+flint glazing calender   &&   火石砑光机
+flint lining   &&   火石衬
+flint optical glass   &&   火石光学玻璃(指高折光率玻璃)
+flip network   &&   交换网络
+flipper   &&   ①卷边②挡泥板(汽车的)
+flitch   &&   加强板
+float   &&   ①控制浮子，测量浮子②低货台车③浮动
+float and cable level measuring device   &&   浮标和缆索式液闰测量装置
+float barograph   &&   浮子气压计
+float bowl   &&   浮子室
+float chamber   &&   浮子室
+float coupling   &&   浮动式联轴节
+float level controller   &&   浮动式液面调节器
+float level measuring device   &&   浮子液位测量装置
+float level regulator   &&   浮子型液位调节阀
+float level sensor   &&   浮子-干簧管液位传感器
+float level transducer   &&   浮子-干簧管液位传感器
+float needle   &&   浮子针阀
+float tide gauge   &&   浮子式验潮仪
+float wheel   &&   浮轮
+floatability   &&   浮动性
+floating accelerometer   &&   重力式测波仪
+floating address   &&   浮动地址，可变地址
+floating address register   &&   浮动地址寄存器
+floating axle   &&   浮动轴，全浮式半轴
+floating ball   &&   浮置输入
+floating bearing   &&   浮动轴承
+floating buffer   &&   浮动缓冲区
+floating caliper   &&   浮动制动钳
+floating cam brake   &&   浮动凸轮制动器
+floating cardan shaft   &&   活动万向轴
+floating clamp   &&   浮动夹头
+floating concrete mixing plant   &&   混凝土搅拌船
+floating contact   &&   浮动接触
+floating controller   &&   浮动控制器
+floating coupling   &&   浮动式联轴节
+floating crane   &&   水上起重机
+floating decimal accumulator   &&   浮点十进累加器
+floating decimal subroutine   &&   浮点十进运算子程序
+floating divide   &&   浮点除
+floating earth   &&   浮动接地
+floating executive   &&   浮点执行程序
+floating ground   &&   浮动接地
+floating multiply   &&   浮点乘
+floating normalized control   &&   浮点规格化控制
+floating number   &&   浮点数
+floating output   &&   浮置输出
+floating point   &&   浮点
+floating point accumulator   &&   浮点累计器
+floating point adder   &&   浮点加法器
+floating point approximation   &&   浮点逼近
+floating point arithmetic   &&   浮点运算
+floating point computer   &&   浮点计算机
+floating point operation code   &&   浮点操作码
+floating point package   &&   浮点程序包
+floating point processor   &&   浮点处理器
+floating point program   &&   浮点程序
+floating point register   &&   浮点寄存器
+floating point shift   &&   浮点移位
+floating point subtract   &&   浮点减
+floating point symbolic address   &&   浮点符号地址
+floating pollutants   &&   浮动污染物
+floating potential   &&   浮动电势
+floating punch   &&   浮动冲头
+floating reamer   &&   浮动铰刀
+floating running sand   &&   流沙
+floating shaft   &&   浮动轴
+floating tank   &&   浮动运输油罐
+floating tool   &&   浮动刀具
+floating viewports   &&   浮动视口 浮动视埠
+floating-point base   &&   浮点墓数
+floating-point basis   &&   浮点基
+floating-point binary constant   &&   浮点二进制常数，二进制浮点常数
+floating-point coding compaction   &&   浮点编码精简法
+floating-point computation   &&   浮点计算
+floating-point data   &&   浮点数据
+floating-point decimal constant   &&   浮点十进制常数，十进制浮点常数
+floating-point input format   &&   浮点输入格式
+floating-point instruction group   &&   浮点指令组
+floating-point mould   &&   浮点模型
+flood   &&   布满 大量
+flooding   &&   淹没
+floodlight   &&   探照灯
+floodlight projector   &&   强力探照灯
+floor   &&   ①轿车地板②货箱地板
+floor carpet assembly   &&   地毯总成
+floor cleaning in progress   &&   正在清扫地板
+floor lamp   &&   落地灯
+floor light   &&   落地灯
+floor panel   &&   地板
+floor pedestal   &&   落地式轴承台
+floor shift   &&   地板安装变速杆
+floor type borer   &&   落地式镗床
+floor type horizontal boring machine   &&   有台卧式镗床
+floor type sensitive drill press   &&   落地式灵敏钻床
+floor type unit heater   &&   落地式单位供暖器
+floor-mounted motor   &&   落地安装型电动机
+flopover   &&   电视图像上下跳动
+floppy   &&   软磁盘
+floppy ROM   &&   柔性只读存储器
+floppy disc   &&   软(磁)盘
+floppy disc formatter   &&   软盘格式生成器
+floppy disk   &&   软盘，软磁盘
+floppy disk cartridge   &&   软磁盘
+floppy disk controller   &&   软盘控制器，软磁盘控制器
+floppy disk drive   &&   软磁盘机，软磁盘驱动机构[FDD]
+floppy disk file   &&   软盘文件
+floppy disk formatting   &&   软磁盘格式化
+floppy disk interface   &&   软磁盘接口
+floppy disk operating system   &&   软磁盘操作系统
+floppy disk performance   &&   软磁盘性能
+floppy disk system   &&   软磁盘系统
+floppy file   &&   软盘文件
+flotation   &&   浮动，漂浮性
+flotation collar   &&   安全环状浮袋
+flow   &&   ①水流②流，流动③流量
+flow aid   &&   流动性促进剂
+flow amount   &&   流水量
+flow analysis program   &&   流量分析程序
+flow behaviour   &&   流动特性，流动性能
+flow birefringence   &&   流动双折射
+flow calorimeter   &&   流动比色计
+flow capacity   &&   流量
+flow characteristic   &&   流动特性
+flow chart   &&   流程图，流图，框图，操作程序图，流程表单，流程图表，流向线图，流程窗体
+flow chart connector   &&   流程图连接符
+flow chart convention   &&   流程图规则，流程图约定
+flow chart generator   &&   流程图生成程序
+flow chart microprogramming language   &&   程图微程序设计语言
+flow chart schema   &&   流程图模式，框图模式
+flow chart symbol   &&   流程图符号
+flow chart system   &&   流程图系统
+flow chart template   &&   流程图模板
+flow charting   &&   流程图表示
+flow coat   &&   流动涂覆
+flow coating   &&   流动涂覆
+flow coefficient   &&   流量系数
+flow conditioner   &&   流动调整器
+flow conditioner straightener   &&   流动调整器整直器
+flow control   &&   流量控制，(信息)流控制
+flow control analysis   &&   信息流控制分析
+flow control relay   &&   流量控制继电器
+flow control valve   &&   流量控制阀
+flow corrector   &&   流量修正器
+flow curve   &&   流动曲线
+flow density   &&   流动密度
+flow diagram   &&   流程图，操作程序图，流图，框图
+flow dichroism   &&   流动二向色性
+flow diffuser   &&   流量扩散器
+flow direction   &&   流向
+flow distributing system   &&   流量分配系统
+flow elbow   &&   流量弯管
+flow equation   &&   流动方程
+flow factor   &&   流量因数
+flow failure   &&   流动破坏
+flow feedback control   &&   流量反馈控制
+flow feeder   &&   流动送料机
+flow field   &&   流场
+flow field electrical analogy   &&   流场电比拟
+flow fluctuation   &&   流量波动
+flow form   &&   流态
+flow friction characteristics   &&   流动摩擦特性
+flow function   &&   流函数，流量函数
+flow gauge   &&   流量计，测流计
+flow graph   &&   流(程)图，进程图
+flow graph algorithm   &&   流图算法
+flow graph machine model   &&   流程图示机器模型
+flow graph reducibility   &&   流程图可约性
+flow graph schematic model   &&   流程图解模型
+flow homogenizer   &&   流量均化器
+flow index   &&   流动指数
+flow indicator   &&   流量指示器
+flow limit   &&   流动极限
+flow line   &&   流线，流水线，波程线、合流纹、接缝线
+flow line production   &&   流水作业生产法
+flow mark   &&   流痕，流动痕迹，流动斑点，波痕纹
+flow measurement calibration device   &&   流量测量校准装置
+flow measuring device   &&   流量测量装置
+flow meter   &&   流量表
+flow method   &&   流水作业
+flow model   &&   流动模型
+flow net   &&   流网
+flow nozzle   &&   测流喷嘴，流量喷嘴
+flow of control model   &&   控制流模型
+flow of information   &&   信息流(程)
+flow of program   &&   程序流(程)
+flow orientation   &&   流动取向
+flow path   &&   流径
+flow pattern   &&   流动模式，流动型式，流态
+flow point   &&   流动点
+flow process   &&   流水作业
+flow process chart   &&   流程图
+flow process diagram   &&   流(程)图
+flow production   &&   流水作业
+flow production line   &&   流水作业线
+flow profile   &&   流动剖面
+flow program   &&   流动程序
+flow promoter   &&   流动性促进剂
+flow promoting agent   &&   流动性促进剂
+flow promotor   &&   流动性促进剂
+flow property   &&   流动性能，流动性
+flow quantity   &&   流量
+flow rate   &&   流动速率
+flow rate deviation   &&   流量偏移
+flow rate meter   &&   流速计
+flow rate of mobile phase   &&   流动相流速
+flow rate oscillation   &&   流量振荡
+flow ratio controller   &&   流量比率控制器
+flow reactor   &&   连续反应器
+flow recorder   &&   流量记录器
+flow relay   &&   流量继电器
+flow rule   &&   流动法则，流动规则
+flow scheme   &&   流程图
+flow sensor   &&   流量传感器
+flow sheet   &&   流程图，操作程序图
+flow signal   &&   流量信号
+flow stability   &&   流动稳定性
+flow stabilizer   &&   流量稳定器
+flow stress   &&   流动应力
+flow surveying   &&   测流(量)
+flow switch   &&   流量开关
+flow table   &&   ①流动稠度试验台②流程表③流盘
+flow test   &&   流动试验，流量试验
+flow to close   &&   流关
+flow to open   &&   流开
+flow transducer   &&   流量传感器
+flow velocity   &&   流动速率，流速
+flow welding   &&   熔焊
+flow-activation energy   &&   流动活化能
+flow-control agent   &&   流控剂(油漆的)
+flow-line continuous production   &&   流水线连续生产
+flow-line technique   &&   流水作业法
+flow-rate   &&   流量
+flow-rate range   &&   流量范围
+flowability   &&   流动性
+flowability testing   &&   流动性试验
+flowage structure   &&   流程结构
+flowing after glow technology   &&   流动余辉技术
+flowing chromatogram   &&   流动色谱图
+flowing pressure   &&   流动压力
+flowing production   &&   流水生产
+flowing sand   &&   流沙
+flowing temperature   &&   流动温度
+flowmeter   &&   流量计
+flowout diagram   &&   流出量图
+fluctuate   &&   波动，起伏，浮动
+fluctuate data   &&   起伏数据
+fluctuate noise   &&   起伏噪声，起伏干扰
+fluctuate of current   &&   电流波动
+fluctuate of speed   &&   转速波动
+fluctuate pressure   &&   脉动压力
+fluctuating circulating stress   &&   脉动循环应力
+fluctuating current   &&   波动电流
+fluctuating load   &&   脉动载荷，波动负载，脉动循环应力
+fluctuating loudness   &&   波动响度
+fluctuation   &&   振幅，波动，脉动，起伏
+fluctuation of current   &&   电流波动
+fluctuation of temperature   &&   温度波动
+flue boiler   &&   燃烧管锅炉
+flue gas   &&   废气
+fluid   &&   流体
+fluid behaviour   &&   流体特性
+fluid characteristic   &&   流体特性
+fluid clutch   &&   液力偶合器
+fluid condition   &&   流动条件
+fluid coupling   &&   液力偶合器
+fluid damping galvanometer   &&   液体阻尼振动子
+fluid density meter   &&   流体密度计
+fluid drag   &&   水流阻力，流体阻力
+fluid dynamics   &&   流体动力学
+fluid elastic deformation   &&   流体弹性变形
+fluid film lubrication   &&   流体薄膜润滑(作用)
+fluid flow indicator   &&   流体流动指示剂
+fluid flow orientation   &&   流动取向
+fluid flowmeter   &&   流体流量计
+fluid flywheel   &&   液力飞轮
+fluid friction   &&   流体摩擦
+fluid heating medium   &&   流体加热介质
+fluid in cell method   &&   流体网络法
+fluid kinematics   &&   流体运动学
+fluid layer   &&   流体层
+fluid machines   &&   流体机械
+fluid mechanics   &&   流体力学
+fluid model   &&   流体模型
+fluid network   &&   流体网络
+fluid passage   &&   流路
+fluid pressure   &&   流体压力
+fluid pressure motor   &&   流压电动机，液压马达
+fluid resistance   &&   流动阻抗
+fluid sand   &&   流态砂
+fluid sand moulding   &&   流态造型
+fluid sand process   &&   流态法
+fluid slag   &&   流动渣
+fluid statics   &&   流体静力学
+fluid transmission gear   &&   流体传动齿轮
+fluid welding   &&   流焊
+fluid-bed   &&   流化床
+fluid-bed catalystic cracker   &&   流化床催化裂化设备
+fluid-bed catalystic cracking unit   &&   流化床催化裂化设备
+fluid-bed combustion   &&   流化床燃烧
+fluid-bed flowmeter   &&   流化床流量计
+fluid-bed vulcanization   &&   流化床硫化
+fluid-dynamic   &&   流体动力(学)的
+fluid-dynamic transducer   &&   流体动力型换能器
+fluid-solid coupling analysis   &&   流体-固体耦合分析
+fluid-solid flow   &&   流-固流动
+fluid-static lubrication   &&   流体静力润滑
+fluid-static pressure   &&   流体静压力，流体静压强
+fluid-statical   &&   流体静力(学)的
+fluidic flowmeter   &&   射流流量计
+fluidics   &&   流体学
+fluidity   &&   流动性，流度
+fluidity improver   &&   流动性改进剂
+fluidity-temperature relationship   &&   流动性温度关系
+fluidization   &&   流化作用，流化，流态化
+fluidization quality   &&   流化品质
+fluidized bed   &&   流化床，流态床
+fluidized bed catalysis   &&   流化床催化
+fluidized bed denitration   &&   流化床脱硝
+fluidized bed dryer   &&   流化床干燥器
+fluidized bed furnace   &&   流态化炉，流化床式炉
+fluidized bed incinerator   &&   流化床焚烧炉
+fluidized bed reactor   &&   流化床反应器
+fluidized carbonization   &&   流化床碳化
+fluidized catalytic cracking process   &&   流化床催化裂化过程
+fluidized catalytic hydroforming   &&   流化床催化(临)氢重整
+fluidized distillation   &&   流化床蒸馏
+fluidized furnace   &&   流化床式炉
+fluidized gasification   &&   流化床气化
+fluidized sand   &&   流态砂
+fluidized solid   &&   流化固体
+fluidized-fuel reactor   &&   流化燃料反应堆
+fluidizing agent   &&   流化剂
+fluidizing cooler   &&   流化式冷却器
+fluidizing dryer   &&   流化式子燥器
+fluidizing process   &&   流化床过程
+fluidizing velocity   &&   流化速度
+fluidness   &&   流动性，流度
+fluidrive   &&   流压传动
+flume   &&   侧流槽
+flume cleaning   &&   火焰清理
+flume cutting   &&   火焰切割
+fluorescence   &&   荧光
+fluorescence analysis   &&   荧光分析
+fluorescence detector   &&   荧光检测器
+fluorescence effect   &&   荧光效应
+fluorescence improver   &&   荧光促进剂
+fluorescence microscopes   &&   萤光显微镜
+fluorescence microscopy   &&   荧光显微术
+fluorescence spectrophotometer   &&   荧光分光光度计
+fluorescent X-ray analysis   &&   荧光X射线分析法
+fluorescent X-ray spectrometry   &&   荧光X射线光谱学
+fluorescent crack detection   &&   荧光探伤
+fluorescent crystal   &&   荧光晶体
+fluorescent emission crystals   &&   萤光放射晶体
+fluorescent fault detector   &&   荧光探伤仪
+fluorescent film technique   &&   荧光薄膜技术
+fluorescent image   &&   荧光象
+fluorescent lamp   &&   荧光灯
+fluorescent light   &&   荧光灯
+fluorescent magnetic particle   &&   荧光磁粉
+fluorescent magnetic particle inspection machine   &&   荧光磁粉探伤机
+fluorescent material   &&   荧光材料
+fluorescent particle inspection   &&   荧光粉检验
+fluorescent penetrant inspection   &&   荧光渗透剂检验法，荧光探伤
+fluorescent plastics   &&   荧光塑料
+fluorescent radiation   &&   荧光辐射
+fluorescent scanning technique   &&   荧光扫描技术
+fluorescent screen   &&   荧光屏
+fluorescent test   &&   荧光探伤
+fluorescent thin layer   &&   荧光薄层
+fluorescent tracer   &&   荧光示踪剂
+fluorescent tube   &&   荧光管
+fluoride   &&   氟化物
+fluorimeter   &&   荧光计
+fluorine   &&   氟F(9)
+fluorine plastic   &&   氟塑料
+fluorine rubber   &&   氟橡胶
+fluorochemical vapor machine   &&   氟化物蒸气冷却电机
+fluorodensitometry   &&   荧光密度测定法
+fluorometer   &&   荧光计
+fluorometric analysis   &&   荧光分析
+fluorometry   &&   荧光测定法
+fluorophotometer   &&   荧光光度计
+fluoroplastics   &&   氟塑料
+fluoroscope   &&   荧光镜
+fluoroscopy   &&   荧光检查，荧光学
+fluorospectrophotometer   &&   荧光分光光度计
+flush bolt   &&   平头插销
+flush head   &&   平头
+flush joint   &&   平头接合
+flush mounted pressure gauge   &&   嵌装压力表
+flush regulator   &&   冲洗调节器
+flush rivet   &&   平头铆钉
+flusher   &&   冲洗器
+flushing   &&   吹氮脱气(铸造的一种工艺)
+flushing valve   &&   冲洗阀
+flute   &&   出屑槽(刀具的)
+flute instability   &&   槽纹不稳定性
+flutter   &&   颤振
+flutter calculation   &&   颤动计算
+flutter computer   &&   颤动(模拟)计算机
+flux   &&   ①熔剂②流量③通量
+flux Richardson number   &&   通量理查德森数
+flux bath   &&   熔剂槽
+flux box   &&   熔剂箱
+flux charge   &&   熔剂
+flux constant   &&   磁通常数
+flux correction transport method   &&   通量校正传输法
+flux creep   &&   磁通蠕变
+flux density   &&   通量密度
+flux differential relay   &&   磁通差动继电器
+flux flow   &&   磁通流动
+flux jumping   &&   磁通跳跃
+flux linkage   &&   磁链
+flux meter   &&   磁通表
+flux monitor   &&   通量监测器
+flux of radiation   &&   辐射通量
+flux quantization   &&   磁通量子化
+flux trapping   &&   磁通捕获
+flux-density vector   &&   通量密度矢量
+flux-refining   &&   熔剂精炼
+flux-vector splitting method   &&   通量-矢量分裂法
+fluxgate compass   &&   磁通门罗盘
+fluxgate magnetometer   &&   磁通门磁力仪，磁通门磁强计
+fluxibility   &&   熔度，熔性
+fluxing agent   &&   熔化剂，熔剂
+fluxion   &&   流数(数)
+fluxmeter   &&   磁通表
+fluxmeter calibrator   &&   磁通表校验仪
+fluxon   &&   磁通量子
+fly cutter   &&   飞刀
+fly cutting   &&   飞刀切削
+fly frame   &&   粗纱机
+fly screen   &&   风档
+fly-by-wire system   &&   电传操纵系统，有线遥控驾驶系统
+flyback power supply   &&   回描电源
+flyback retrace   &&   回(扫)描
+flyback transformer   &&   反馈变压器
+flying belt printer   &&   飞带打印机
+flying bomb   &&   飞弹
+flying disk printer   &&   字盘式打印机
+flying dram printer   &&   字轮式打印机
+flying head   &&   浮动磁头
+flying printer   &&   飞击式打印机，轮式打印机
+flying shear   &&   飞剪
+flying spot scanner   &&   飞点扫描器
+flying spot store address   &&   飞点存储地址
+flying tested aircraft   &&   飞行实验飞机，空中试验室
+flying wheel printer   &&   飞轮打印机
+flying-crane helicopter   &&   起重直升机
+flyout properties   &&   弹出特性对话框，图示列性质
+flywheel   &&   调速轮，飞轮
+flywheel effect   &&   飞轮效应
+flywheel magneto   &&   飞轮磁电机
+flywheel ring gear   &&   飞轮齿圈
+flywheel synchronization   &&   飞轮同步
+flywheel time base   &&   飞轮时基
+flywheel-type alternator   &&   飞轮式交流发电机
+foam   &&   泡沫
+foam casting   &&   泡沫铸塑
+foam density   &&   泡沫密度
+foam fire extinguisher   &&   泡沫灭火机
+foam flotation   &&   泡沫浮选
+foam forming   &&   泡成形
+foam insulation   &&   泡沫绝热
+foam material   &&   泡沫材料
+foam plastics   &&   泡沫塑料
+foam separation   &&   泡沫分离
+foam tube primary   &&   主腔乳化泡沫管
+foam tube primary barrel   &&   主腔乳化泡沫管
+foam tube secondary barrel   &&   副腔乳化泡沫管
+foam-thermal insulation material   &&   泡沫绝热材料
+foamed alumina   &&   泡沫氧化铝
+foamed metal   &&   泡沫金属
+foamed plaster moulding   &&   泡沫石膏造型
+foamed plastics   &&   泡沫塑料
+foamed polystyrene   &&   泡沫聚苯乙烯
+foamed polystyrene chaplet   &&   泡沫聚苯乙烯型心撑
+foamed slag   &&   泡沫熔渣，泡沫渣
+foamed slag kick   &&   泡沫矿渣砖
+foamed thermoplastic resin   &&   泡沫热塑树脂
+foamed-slag concrete   &&   泡沫熔渣混凝土
+focal area   &&   焦点区
+focal circle   &&   焦圆
+focal coordinates   &&   焦点坐标
+focal curve   &&   焦点曲线
+focal cusp   &&   焦点会切线
+focal depth   &&   焦深
+focal distance   &&   焦距
+focal interval   &&   焦间节
+focal length   &&   焦距
+focal line   &&   焦线
+focal parabola   &&   焦抛物线
+focal plane   &&   焦平面，焦点平面
+focal point   &&   焦点
+focal point focus   &&   焦点
+focal radius   &&   焦半径
+focal strip   &&   焦带
+focal surface   &&   焦曲面
+focometers   &&   焦距仪
+focus   &&   焦点
+focus level   &&   聚焦水平
+focus size   &&   焦点尺寸
+focus-coil axis   &&   聚焦线圈轴
+focus-to-film distance   &&   焦距
+focused collision   &&   焦点碰撞，聚焦碰撞
+focusing   &&   聚焦
+focusing cylinder   &&   聚焦圆筒
+focusing electrode   &&   聚焦极
+focusing lamp   &&   聚焦灯
+focusing system   &&   聚焦系统
+focusing type probe   &&   聚焦探头
+fog   &&   雾
+fog lamp   &&   雾灯
+fog lamp switch   &&   雾灯开关
+fog light   &&   雾灯
+fog-gauge   &&   雾量器
+foil   &&   箔片，箔
+foil laminate   &&   箔层
+foil strain gauge   &&   箔式应变计
+fold   &&   折叠 折痕
+folded chain   &&   折叠链
+folded container   &&   折叠容器
+folded length   &&   折叠长度
+folder   &&   折叠机
+folding   &&   折页
+folding chart   &&   折叠式记录纸
+folding machine   &&   折布机，折边机，折叠机，折页机
+folding paper   &&   折叠式记录纸
+folding press   &&   折叠机
+folding rule   &&   折尺
+folding scale   &&   折尺
+folding-rotor aircraft   &&   旋翼可折叠式飞机，旋翼可折叠式喷气飞机
+folding-wing aircraft   &&   折叠翼飞机
+follow   &&   跟随 自动平面视景
+follow current   &&   持续电流(避雷器放电后输电线流过的电流)
+follow-on tool   &&   连续模
+follow-up control   &&   随动控制
+follow-up pointer   &&   从动针
+follow-up unit   &&   从动部件
+follower   &&   从动件，从动轮，随动件
+follower dwell   &&   从动件停歇
+follower motion   &&   从动件运动规律，从动件停歇
+follower pulley   &&   从动皮带轮
+font   &&   字型，字盘，字体
+font map file   &&   字体映射文件 字体对映档
+food analyzer   &&   食品分析仪
+foot   &&   英尺 (1英尺=12英寸=0.3048米)
+foot brake   &&   脚制动器
+foot damper   &&   足部风门
+foot-well   &&   足窝，驾驶者放腿脚的搁脚空间
+footprint   &&   轮胎印迹
+footprint aspect ratio   &&   印迹长宽比
+footwell   &&   足窝，驾驶者放腿脚的搁脚空间
+force   &&   力，压力
+force constant   &&   力常数
+force control   &&   ①转向系的力输入试验②汽车操纵稳定性的力输入试验
+force convection   &&   强近对流
+force field   &&   力场
+force function   &&   力函数
+force method   &&   力法
+force of traction   &&   牵引力
+force polygon   &&   力多边形
+force pump   &&   压力泵
+force screw   &&   力螺旋
+force sensing of robot   &&   机器人力感觉
+force sensor   &&   力传感器
+force standard machine   &&   力标准机
+force transducer   &&   力传感器
+force triangle   &&   力三角形
+force water pump   &&   压力水泵
+force-balance acceleration transducer   &&   力平衡式加速度传感器
+force-balance accelerometer   &&   力平衡式加速度计
+force-closed cam mechanism   &&   力封闭型凸轮机构
+force-drive cam mechanism   &&   力封闭型凸轮机构
+force-ventilated machine   &&   强迫通风机
+forced air blast   &&   压力鼓风
+forced air blasting   &&   强制鼓风
+forced air circulation   &&   强迫通风
+forced air cooling   &&   强迫气冷，强制空冷
+forced air-cooled transformer   &&   强迫风冷式变压器
+forced circulation   &&   强制循环，压力环流
+forced circulation furnace   &&   炉气强迫循环(热处理)炉
+forced concrete mixer   &&   强制式混凝土搅拌机
+forced convection   &&   强制对流
+forced convection cooling   &&   强制对流冷却
+forced cooling   &&   强制冷却
+forced crystallization   &&   强制结晶
+forced downshift   &&   强制低档
+forced draft   &&   强制通风，压力通风
+forced draught   &&   强制通风
+forced drying   &&   强制干燥
+forced ejection   &&   强制顶出
+forced excitation   &&   强行励磁
+forced feed system   &&   强制进料系统
+forced filtration   &&   强制过滤
+forced ignition   &&   强制点火
+forced interruption   &&   强行中断
+forced lubrication   &&   强制润滑
+forced magnetization   &&   强制磁化
+forced oil-cooling   &&   强迫油冷带压
+forced oil-cooling transformer   &&   强迫油冷变压器
+forced oscillation   &&   强迫振荡，强制振荡
+forced response   &&   强迫响应
+forced saving   &&   强制储蓄
+forced synchronizing   &&   强制同步
+forced ventilation   &&   强制通风
+forced vibration   &&   强迫振动，受迫振动
+forced water cooling   &&   强迫水冷
+forced wave   &&   强制波
+forced-chamber rocket engine   &&   四燃烧室火箭发动机
+forced-induction engine   &&   增压发动机气机的发动机
+forced-ventilated motor   &&   强制通风式电动机
+forced-vibration experiment   &&   强迫振动实验
+forces of nature   &&   自然力
+forcing excitation   &&   强迫励磁
+forcing function   &&   强制函数
+forcing pump   &&   强制泵
+forecasting time zone   &&   预测时间区间
+foregoing   &&   在前的，前面的
+foreground   &&   前台
+foreground processing   &&   前台处理
+foreground program   &&   前台程序
+foreplane   &&   粗刨(木工用)
+foretell   &&   预测，预示，预言
+forge   &&   锻，锻造
+forge copper   &&   锻铜
+forge crack   &&   锻裂，锻造裂纹
+forge crack failure   &&   锻裂破断
+forge furnace   &&   锻炉，锻造炉
+forge hearth   &&   锻工炉，锻铁炉
+forge pig iron   &&   锻铁
+forge scale   &&   锻屑，铁鳞(锻造的)
+forge shop   &&   锻工车间
+forge steel shaft   &&   锻钢轴
+forge welding   &&   锻焊
+forged shaft   &&   锻轴
+forged steel   &&   锻钢
+forged steel roller   &&   锻钢滚筒
+forged weld   &&   锻焊
+forger   &&   锻工
+forging   &&   锻工，锻件，锻造
+forging alloy   &&   锻造合金
+forging aluminium   &&   锻铝
+forging and pressing   &&   锻压
+forging coal   &&   锻造煤
+forging coke   &&   锻造(用)焦炭
+forging cold   &&   冷锻
+forging condition   &&   锻造状态
+forging copper   &&   铜锻
+forging die   &&   锻模
+forging die steel   &&   锻造模用钢
+forging dies   &&   锻模
+forging furnace   &&   锻炉，锻造炉
+forging hammer   &&   锻锤
+forging machine   &&   锻造机
+forging other   &&   其它锻造
+forging press   &&   锻压机
+forging quality steel   &&   锻压用钢(坯)，锻造用钢
+forging roll   &&   轧锻
+forging steel   &&   钢锻
+forging welding   &&   锻接
+fork   &&   叉
+fork mounting   &&   叉式装置
+fork truck   &&   铲车，叉车
+forklift   &&   叉车
+forklift truck   &&   铲车，叉车
+form   &&   格式，形成，形式，表格，程序
+form address microinstruction   &&   格式地址微指令
+form address operation   &&   格式地址操作
+form block   &&   折刀
+form broach   &&   成形拉刀
+form cutter   &&   成形刀具
+form cutting   &&   成形切削
+form design   &&   表格设计
+form factor   &&   齿形系数，波形因数
+form feed character   &&   纸馈送，走纸，纸馈送符，格式馈送符
+form flash   &&   格式闪烁
+form grinding   &&   成形磨削
+form grinding machine   &&   成形磨床
+form milling   &&   成形铣削
+form of thread   &&   牙型
+form overlay   &&   格式重叠，格式背景
+form parameter   &&   形式参数
+form threading tool   &&   成形螺蚊刀具
+form tolerance   &&   形状公差，成型公差
+form tool   &&   成形刀
+formal adjoint   &&   形式伴随
+formal bond   &&   形式键
+formal charge   &&   形式电荷
+formal inference   &&   形式推理
+formal language   &&   形式语言
+formal language theory   &&   形式语言理论
+formal logic   &&   形式逻辑
+formal logical system   &&   形式逻辑系统
+formal method   &&   形式方法
+formal proof   &&   形式证明
+formal system   &&   形式系统
+formal upper bound   &&   形式上界
+formality   &&   形式性
+formalization   &&   形式化
+format   &&   格式(化)，形式
+format character set   &&   格式字符集
+format check   &&   格式检验
+format description statement   &&   格式描述语句
+format description type   &&   格式描述类型
+format effector character   &&   格式生效符
+format identification field   &&   格式标志字段
+format item   &&   格式项
+format line   &&   格式行
+format list   &&   格式表
+format record   &&   格式记录
+format selection   &&   格式选择
+format service program   &&   格式服务程序
+format set   &&   格式组
+format sheet   &&   格式纸，格式图表
+format track   &&   格式化磁道
+format transformation   &&   格式变换
+format translate   &&   格式转换，格式翻译
+formate   &&   成形法
+formation   &&   形成
+formation constant   &&   形成常数
+formation function   &&   形成函数
+formation heat   &&   形成热
+formation of slag   &&   成渣
+formatted DSCB   &&   格式化数据集控制块
+formatted diskette   &&   格式化软磁盘
+formatted display   &&   格式化显示
+formatted dump   &&   格式化转储
+formatted image   &&   格式化图像
+formatted input/output   &&   格式化输入/输出
+formatted mass storage   &&   格式化海量存储器，格式化大容量存储器
+formatted program   &&   格式化程序
+formatted record   &&   格式化记录
+formatted request   &&   格式化请求
+formatted software capacity   &&   格式化软件容量
+formatted system service   &&   格式化系统服务
+formatted tape   &&   格式化磁带
+formatting text   &&   设置文字格式，格式化文字
+formed cutter   &&   成形铣刀
+former   &&   齿廓样板，靠模
+forming   &&   成型(抽凸，冲凸)，成形加工
+forming cutter   &&   成形刀具
+forming die   &&   成形模
+forming for compression   &&   圧缩成形
+forming process   &&   成形法
+forming rest   &&   成形刀架
+forming roll   &&   成形轧辊
+forming structure   &&   成形结构
+forming tool   &&   成形刀具
+forming turning tool   &&   成形车刀
+forms control buffer   &&   格式控制缓冲(打印机上)[FCB]
+formula   &&   公式，程序
+formula calculator   &&   公式计算器
+formula for triple angle   &&   三倍角公式
+formula manipulation   &&   公式处理
+formula manipulation language   &&   公式处理语言
+formula translation   &&   公式翻译
+formulation   &&   公式化
+formulism   &&   公式化
+formulistic   &&   公式化
+forward channel   &&   正向信道
+forward control   &&   平头驾驶室，发动机前置
+forward shoe   &&   领蹄
+fossil fuel   &&   矿物燃料
+fouling   &&   壅塞
+foundation   &&   基本，基本原则，基础
+foundation base   &&   基底，基础梁
+foundation bed   &&   基础垫层，基底
+foundation bolt   &&   基础螺栓
+foundation brake   &&   制动系的基础部分
+foundation embedment   &&   基础埋设深度
+foundation engineering   &&   基础工程
+foundation field bus   &&   基金会现场总线[FF]
+foundation isolation   &&   基础隔振
+foundation mat   &&   基础底板，墓垫层
+foundation of equipment   &&   设备基础
+foundation pod   &&   基础垫层
+foundation vibration   &&   基础振动
+foundry equipment   &&   铸造设备
+four axle rigid   &&   四轴货车
+four ball test   &&   四球试验
+four bar linkage   &&   四杆联动机构，四连杆机构
+four dimensional acceleration   &&   四维加速度
+four dimensional current density   &&   四维流密度
+four dimensional force   &&   四维力
+four dimensional momentum   &&   四维动量
+four dimensional space-time   &&   四维时空
+four dimensional tensor   &&   四维张量
+four dimensional vector   &&   四维矢量
+four dimensional velocity   &&   四维速度
+four dimensions   &&   四维
+four fold correlation   &&   四项相关
+four hearth burner   &&   四膛炉，四室炉
+four hearth furnace   &&   四膛炉，四室炉
+four membered ring   &&   四元环
+four ring   &&   四元环
+four screen quadrants   &&   四屏幕象限
+four spring bogie   &&   四簧双后桥结构
+four spring non-reactive suspension   &&   反作用杆式四簧平衡悬架
+four spring reactive bogie   &&   四簧平衡悬架
+four spring reactive suspension   &&   四簧平衡悬架
+four way plug valve   &&   四通塞阀
+four wheel drive   &&   四轮驱动
+four-address   &&   四地址
+four-address code   &&   四地址代码
+four-address computer   &&   四地址计算机
+four-address instruction code   &&   四地址指令码
+four-ball bearing apparatus   &&   四球试验机(用于评价润滑油的润滑性能)
+four-ball extreme pressure tester   &&   四球极压试验机
+four-ball machine   &&   四球摩擦机
+four-bar linkage   &&   四杆机构
+four-bit byte   &&   四位长字节
+four-bull   &&   四球
+four-channel   &&   四路，四声道
+four-channel switch   &&   四路转换开关
+four-colour   &&   四色
+four-colour conjecture   &&   四色猜想，四色推测问题
+four-colour photometry   &&   四色测光
+four-component alloy   &&   四元合金
+four-core   &&   四心
+four-cycle engine   &&   四冲程发动机
+four-function   &&   四功能
+four-function computer   &&   四功能计算机
+four-level laser material   &&   四能级激光材料
+four-part alloy   &&   四元合金
+four-phase   &&   四相
+four-phase stepper motor   &&   四相步进电动机
+four-plus-one address   &&   四加一地址
+four-point   &&   四点
+four-point control method   &&   四点控制法
+four-point probe   &&   四点探针(法)，四探针
+four-point resistance method   &&   四点电阻法(测定超导性用)
+four-point support   &&   四点支承
+four-pole generator   &&   四极发电机
+four-pole network   &&   四端网络
+four-roll   &&   四辊
+four-roll crusher   &&   四辊碾碎机
+four-roll mill   &&   四辊磨
+four-row keyboard   &&   四行键盘
+four-square test   &&   四方试验
+four-stage mass spectrometer   &&   四级质谱仪
+four-stroke   &&   四冲程
+four-stroke cycle   &&   四冲程循环
+four-stroke engine   &&   四冲程发动机
+four-terminal network   &&   四端网络
+four-terminal standard resistor   &&   四端(钮)标准电阻器
+four-way   &&   四通，四向
+four-way cock   &&   四向小龙头
+four-way valve   &&   四通阀
+four-wired cable   &&   四心电缆
+four-wired circuit   &&   四线线路
+four-wired repeater   &&   四线中继器，四线增音器
+four-wired terminating set   &&   四线端接装置
+four-word-deep pash stack   &&   四字堆栈
+four-word-deep pop stack   &&   四字堆栈
+fourth generation language   &&   第四代语言
+fractile   &&   分位数(值)
+fraction   &&   ①部分②分式③分数④小数⑤镏份
+fractional Miller indices   &&   分数米勒指数
+fractional charge experiment   &&   少量电荷实验
+fractional computer   &&   分数计算机
+fractional differentiation   &&   分数微分
+fractional electric motor   &&   分马力电动机
+fractional free volume   &&   部分自由体积
+fractional horsepower motor   &&   分数马力电动机
+fractional iteration   &&   分式迭代
+fractional number   &&   分数
+fractional order reaction   &&   分数级反应
+fractional representation   &&   小数表示
+fractional turbine   &&   部分进汽轮机，部分进汽式透平机
+fractionation   &&   ①部分化②分数化
+fracture   &&   断裂，断面
+fracture analysis diagram   &&   断裂分析图
+fracture anisotropy   &&   断裂各向异性
+fracture appearance transition temperature   &&   断裂形貌转变温度
+fracture behaviour   &&   断裂行为
+fracture criterion   &&   断裂判据，断裂准则
+fracture dynamics   &&   断裂动力学
+fracture energy   &&   断裂能
+fracture initiation temperature   &&   断裂起始温度
+fracture instability   &&   断裂不稳定性
+fracture mechanics   &&   断裂力学
+fracture mechanism   &&   断裂机制
+fracture parameters   &&   断裂参量
+fracture process   &&   断裂过程
+fracture speed   &&   断裂速度
+fracture strength   &&   断裂强度
+fracture stress   &&   断裂应力
+fracture surface   &&   断面
+fracture surface energy   &&   断裂表面能
+fracture test   &&   断裂试验
+fracture toughness   &&   断裂韧度，断裂韧性
+fracture toughness test   &&   断裂韧性试验
+fracture transition temperature   &&   断裂转变温度
+fracture zone   &&   断裂区
+fragile   &&   易碎
+fragility   &&   脆度，脆性，易裂性，易碎性
+fragment ion   &&   碎片离子
+fragmentation   &&   ①存储残片，零头②核爆炸③碎裂过程
+fragmentation bomb   &&   杀伤炸弹
+fragmentation bomb cluster   &&   杀伤集束炸弹
+fragmentation grenade   &&   杀伤手榴弹
+fragmentation model   &&   存储残片模型
+fragmentation pattern   &&   碎裂图型
+frame   &&   ①框，框架，边框②机架，机座③机身(飞机的)④帧(电视的)⑤框形，框式，画格，仪表框
+frame accumulator   &&   框式蓄电池
+frame aerial   &&   框形天线
+frame antenna   &&   框形天线
+frame blanking   &&   帧消隐，帧回扫熄灭
+frame controlling cake wire   &&   操纵拉索支架
+frame crane   &&   龙门起重机，门式起重机，高架起重机
+frame diagram   &&   框架图
+frame direction-finder   &&   框形测向器
+frame filter press   &&   框式压滤机
+frame fixed link   &&   机架
+frame frequency   &&   帧频(电视的)
+frame leakage protection   &&   机壳漏电保护(装置)
+frame period   &&   帧周期
+frame plate   &&   框式压滤板
+frame predictive encode   &&   帧内预测编码
+frame relaying   &&   帧中继
+frame saw   &&   框锯
+frame seat-back   &&   靠背骨架
+frame slip   &&   帧滑动(电视的)
+frame work   &&   框架
+frame-synchronizing impulse   &&   帧同步脉冲
+frameless construction   &&   无框架结构
+framer   &&   调帧器
+framework   &&   框架
+framing   &&   成帧(电视)
+framing control   &&   帧调整
+framing photography   &&   分幅照相法
+framing signal   &&   定位信号
+frangibility   &&   脆度，脆弱性，脆性，易碎性
+frangible fracture   &&   脆性断裂，脆性破断
+frangible grenade   &&   燃烧手榴弹
+frazing   &&   去边屑
+free   &&   自由的，游离的
+free ammonia   &&   游离氨
+free atom   &&   自由原子
+free carbide   &&   游离碳化物
+free carbon   &&   游离碳
+free cementite   &&   游离渗碳体
+free charge   &&   自由电荷
+free charge carrier   &&   自由带电体
+free control   &&   转向系空载试验
+free convection   &&   自由对流
+free crystal   &&   游离晶体
+free discharge   &&   自由放电
+free electron   &&   自由电子
+free electron lasers   &&   自由电子激光
+free end   &&   自由端，活动端
+free energy   &&   自由能
+free energy of melting   &&   熔化自由能
+free enthalpy   &&   自由焓
+free falling STD profile system   &&   自返式温盐深剖面仪
+free falling body   &&   自由落体
+free field   &&   ①自由场②自由字段，自由声场
+free field correction curves   &&   自由场修正曲线
+free field reciprocity calibration   &&   自由声场互易校准
+free field storage   &&   自由字段存储
+free fit   &&   自由配合
+free floating pin   &&   浮动活塞销
+free flowing softener   &&   易流动软化剂
+free from   &&   免于
+free gas   &&   游离气体
+free graphite   &&   游离石墨
+free hydrogen   &&   游离氢
+free induction decay   &&   自由感应衰减[FID]
+free induction decay signal   &&   自由感应衰减信号
+free inertia force   &&   一级惯性力
+free ion   &&   自由离子
+free iron   &&   游离铁
+free jet type turbine   &&   冲击式水轮机，冲动式水轮机，射流式水轮机
+free line signal   &&   空线信号
+free magnetic charge   &&   自由磁荷
+free oscillating period   &&   自由振动周期
+free oscillation   &&   自由振荡
+free particle   &&   自由粒子
+free path   &&   自由(路)程
+free play   &&   齿隙
+free plotting   &&   自由绘图，自由出图
+free radical   &&   游离基
+free radical addition   &&   游离基加成
+free space   &&   自由空间
+free state   &&   游离状态
+free steering control   &&   汽车操纵性放手试验
+free sulphur   &&   单体硫
+free swelling rate   &&   自由膨胀率
+free swing of pendulum   &&   摆锤空击
+free trajectory   &&   自由飞行弹道，弹道轨迹
+free travel   &&   自由行程
+free vector   &&   自由矢(量)
+free vehicle respirometer   &&   活动式海底生物呼吸测量器
+free vibration   &&   自由振动
+free vortex   &&   自由涡流
+free wheel   &&   飞轮(自行车的)
+free wheeling clutch   &&   超越离合器
+free-burning coal   &&   单烧煤，易燃煤(不结焦烟煤)(自源)
+free-cutting   &&   易加工，易切削
+free-cutting alloy   &&   易切削合金
+free-cutting brass   &&   易切削黄铜(Cu 58％，Zn 40％，Pb2％)
+free-cutting bronze   &&   快削青铜
+free-cutting metal   &&   易切削金属
+free-cutting steel   &&   易切钢，易切削钢
+free-field frequency response of microphone   &&   传声器自由声场频率响应
+free-field sensitivity of microphone   &&   传声器自由声场灵敏度
+free-field wedge   &&   自由场尖劈
+free-form   &&   自由形式(的) 自由形式
+free-form curve   &&   自由曲线
+free-form surface   &&   自由曲面
+free-machining   &&   易切削
+free-machining alloy steel   &&   易切削合金钢
+free-machining steel   &&   易切削钢
+free-piston engine   &&   自由活塞发动机
+free-radical mass spectrometry   &&   游离基质谱分析
+free-radical oxidation   &&   游离基氧化
+free-radical polymerization   &&   游离基(引发)聚合(反应)
+free-radical reaction   &&   游离基反应
+free-radical scavenger   &&   游离基清除剂
+free-radical termination   &&   游离基终止
+free-running circuit   &&   自运转电路
+free-running sweep   &&   自激扫描
+free-space propagation   &&   自由空间传播
+free-turbine engine   &&   自由涡轮燃气发动机
+freehand line   &&   徒手画线 手绘线
+freeness   &&   游离度
+freewheel   &&   自由轮机构
+freeze   &&   冻结，冷冻，凝固，咬住
+freeze mode   &&   冻结状态
+freezer   &&   冷冻机
+freezing   &&   冷冻，凝固
+freezing constant   &&   凝固常数
+freezing heat   &&   凝固热
+freezing index   &&   冻结指数
+freezing layers   &&   冻结图层 冻结图层
+freezing level   &&   冻结高度
+freezing mechanism   &&   凝固机制
+freezing method   &&   冻结法
+freezing period   &&   凝固期
+freezing point   &&   冻结点，凝固点
+freezing point depression   &&   凝固点降低
+freezing point lowering   &&   凝固点降低
+freezing process   &&   冻结法
+freezing range   &&   凝固区间，凝固范围
+freezing resistance   &&   耐冻性
+freezing shrinkage   &&   凝固收缩
+freezing zone   &&   冻结带
+freight space   &&   舱位
+freon   &&   氟利昂(制冷剂)
+frequency   &&   ①频，频率(接触)②次数
+frequency accentuation   &&   频率加强
+frequency allocation   &&   频率分配
+frequency analysis   &&   频率分析
+frequency analyzer   &&   频率分析仪
+frequency band   &&   频带
+frequency behaviour   &&   频率特性
+frequency bridge   &&   频率电桥
+frequency carrier system   &&   频率载波制
+frequency change-over switch   &&   频率转换开关
+frequency changer   &&   变频机，变频器
+frequency channel   &&   频道
+frequency compensation   &&   频率补偿
+frequency control of motor speed   &&   变频调速
+frequency conversion   &&   变频
+frequency converter   &&   变频机，变频器
+frequency converter tube   &&   变频管
+frequency converters   &&   变频器
+frequency correction   &&   频率校正
+frequency departure   &&   频率漂移
+frequency departure meter   &&   频率漂移计
+frequency deviation   &&   频率偏移，频率漂移，频偏，频移
+frequency discriminator   &&   鉴别器
+frequency dispersion   &&   频散
+frequency distortion   &&   频率畸变，频率失真
+frequency distribution   &&   频率分布
+frequency divider   &&   分频器
+frequency dividing   &&   分频
+frequency division multiplexing   &&   频分多路传输，频分多路复用[FDM]
+frequency domain   &&   ①频域②频率范围
+frequency domain analysis   &&   频域分析
+frequency domain method   &&   频域法
+frequency domain model reduction method   &&   频域模型降价法
+frequency domain reflectometer   &&   频域反射计
+frequency doubler   &&   倍频器
+frequency doubling   &&   倍频
+frequency doubling crystal   &&   倍频晶体
+frequency drift   &&   频率漂移
+frequency effect   &&   频率效应
+frequency encoding   &&   频率编码
+frequency exchange signaling   &&   频率交换信号传输
+frequency excursion   &&   频移
+frequency factor   &&   频率因子(接触)
+frequency filter   &&   频率滤波器
+frequency four-vector   &&   频率四维矢量
+frequency frogging   &&   频率互换
+frequency generator   &&   频率发生器
+frequency index   &&   频率指数
+frequency indicator   &&   频率指示器
+frequency interlace   &&   频率交错
+frequency keying   &&   频率键控
+frequency measurement   &&   频率测定
+frequency measurement by Lissajou's figure   &&   用李沙育图形测频
+frequency measurement by comparison with time scale   &&   时标比较法测频
+frequency measurement by digital meter   &&   用数字频率计测频
+frequency measurement by stroboscope   &&   闪光测频
+frequency meter   &&   频率表，频率计
+frequency mixing   &&   混频
+frequency modulation   &&   频率周制，调频[FM]
+frequency modulation-frequency modulation   &&   调频-调频
+frequency modulation-phase modulation   &&   调频-调相
+frequency modulator   &&   调频器
+frequency monitor   &&   频率监控器
+frequency multiplier   &&   倍频器
+frequency of access   &&   存取频率
+frequency of infinite attenuation   &&   无限衰减频率
+frequency of the natural hydraulic mode   &&   液压固有频率
+frequency of vibration   &&   振动频率
+frequency offset   &&   频率偏移
+frequency offset transponder   &&   频偏应答器
+frequency output   &&   频率输出
+frequency pulling   &&   频率牵引
+frequency range   &&   频段
+frequency regulation   &&   频率调整
+frequency regulator   &&   频率调节器
+frequency relaxation spectrum   &&   频率松弛谱
+frequency relay   &&   频率继电器
+frequency response   &&   频率响应
+frequency response characteristics   &&   频率响应特性(图)
+frequency response locus   &&   频率响应轨迹图
+frequency response of microphone   &&   传声器频率响应
+frequency response range   &&   频率响应范围
+frequency response tracer   &&   频率响应显示仪
+frequency selection   &&   频率选择
+frequency sensitivity   &&   频率灵敏度
+frequency shift   &&   频率偏移，频偏，频移
+frequency shift keying   &&   频移键控[FSK]
+frequency shift magnetometer   &&   频移磁强计
+frequency sounding instrument   &&   频率测深仪
+frequency spectra induced polarization instrument   &&   频谱激电仪
+frequency stability   &&   频率稳定度，频率稳定性
+frequency stabilization   &&   频率稳定
+frequency stabilized lasers   &&   稳频激光
+frequency stabilizer   &&   频率稳定器
+frequency standard   &&   频率标准源
+frequency sweeping   &&   频率扫描
+frequency swing   &&   频率摆动
+frequency synthesizer   &&   频率合成器
+frequency tolerance   &&   频率容差
+frequency transformation   &&   变频
+frequency transformer   &&   变频机，变频器，频率变换器
+frequency transient response   &&   频率瞬态响应
+frequency-amplitude characteristic   &&   幅频特性
+frequency-modulated carrier current telephone   &&   调频式载波电流电话
+frequency-modulated cyclotron   &&   调频回旋加速器
+frequency-modulated detector   &&   调频检波器
+frequency-modulated jamming   &&   调频干扰
+frequency-modulated radar   &&   调频雷达
+frequency-modulated receiver   &&   调频接收机，调频收音机
+frequency-modulated transmitter   &&   调频发射机
+frequency-modulated tuner   &&   调频调谐器
+frequency-modulated wave   &&   调频波
+frequency-modulation broadcast band   &&   调频广播波段
+frequency-modulation broadcasting   &&   调频广播
+frequency-modulation laser   &&   调频激光器
+frequency-modulation motor   &&   频率调制电动机
+frequency-modulation noise level on carrier   &&   载波的调频噪声电平
+frequency-modulation receiver   &&   调频接收机
+frequency-modulation receiver deviation sensitivity   &&   调频接收机偏差灵敏度
+frequency-modulation threshold   &&   调频门限
+frequency-modulation transmitter   &&   调频发射机
+frequency-modulation tube   &&   调频管
+frequency-modulation tuner   &&   调频调谐器
+frequency-phase characteristic   &&   相频特性
+frequency-shift converter   &&   频移变换器
+frequency-shift keying   &&   频移键控(调谐)
+frequency-temperature coefficient   &&   频率-温度系数
+frequent operation   &&   频繁操作，频繁工作
+fresh iron   &&   初熔铁
+fretting corrosion   &&   擦伤腐蚀
+friability   &&   脆弱性，易碎性
+friable   &&   易碎
+friable coal   &&   易碎煤
+friction   &&   摩擦
+friction and wear   &&   摩擦和磨耗
+friction and windage loss   &&   摩擦和通风损耗(电机的)
+friction angle   &&   摩擦角
+friction bar   &&   摩擦棒(夹板锤的)
+friction bearing   &&   摩擦轴承
+friction bezel ring   &&   压紧盖环
+friction brake   &&   摩擦制动器
+friction circle   &&   摩擦圆
+friction clutch   &&   摩擦离合器
+friction coupling   &&   摩擦联轴器
+friction disc   &&   摩擦片
+friction disk   &&   摩擦盘，摩擦片
+friction disk damper   &&   摩擦盘式减振器
+friction drag   &&   摩擦阻力
+friction drive   &&   摩擦传动
+friction dynamometer   &&   摩擦测力计，摩擦功率计
+friction error   &&   轻敲位移
+friction facing   &&   摩擦衬片
+friction factor   &&   摩擦因数，摩擦因子
+friction force   &&   摩擦力，摩擦
+friction gear   &&   摩擦传动装置
+friction horsepower   &&   摩擦马力，摩擦功率
+friction lining   &&   摩擦衬片
+friction load   &&   摩擦负荷
+friction material   &&   摩擦材料
+friction moment   &&   摩擦力矩
+friction pad   &&   摩擦块
+friction plate   &&   摩擦盘
+friction pulley   &&   摩擦轮
+friction resisting   &&   耐摩擦
+friction saw   &&   摩擦锯
+friction separator   &&   摩擦分离器
+friction squeezer   &&   摩擦榨取机
+friction stock   &&   擦胶剂
+friction surface   &&   摩擦(表)面
+friction test   &&   摩擦试验
+friction testing machine   &&   摩擦试验机
+friction torque   &&   摩擦转矩
+friction velocity   &&   磨擦速度
+friction welding   &&   摩擦焊接
+frictional angle   &&   摩擦角
+frictional characteristic   &&   摩擦特性
+frictional coefficient   &&   摩擦系数
+frictional damping   &&   摩擦阻尼
+frictional damping washer   &&   阻尼片
+frictional drag   &&   摩擦阻力
+frictional electricity   &&   摩擦电
+frictional energy   &&   摩擦能
+frictional facing   &&   摩擦片
+frictional heat   &&   摩擦热
+frictional loss   &&   摩擦损耗
+frictional press   &&   摩擦压力机
+frictional resistance   &&   摩擦阻力，耐摩擦
+frictional stiffness   &&   摩擦劲度
+frictional stress   &&   摩擦应力
+frictional work   &&   摩擦功
+frigid zone   &&   冻结带
+fringe   &&   不重合(彩色的)
+fritting   &&   熔合，熔结
+frog   &&   辙叉
+frogging repeater   &&   换频中继器
+from   &&   自
+front   &&   前沿(信号或波)
+front angle   &&   前角
+front axle   &&   前轴
+front brick   &&   正面砖
+front caliper disc brake assembly   &&   前钳盘式制动器总成
+front clipping on   &&   前向剪裁打开
+front coil spring   &&   前螺旋弹簧
+front cone   &&   前锥
+front connected switch   &&   前面接线开关
+front contact   &&   前触点
+front corner marker lamp   &&   前示廓灯
+front crown   &&   前锥齿冠
+front crown to crossing point   &&   前锥齿冠至交错点
+front door   &&   前车门
+front door shell, right   &&   前右车门焊接总成
+front drive   &&   前轮传动
+front electrode   &&   前电极
+front elevation   &&   正面图
+front end microprocessor   &&   前端微处理机
+front end processor   &&   前端处理机
+front entrance   &&   前门入口
+front factor   &&   前置因子
+front fender   &&   前翼子板
+front fillet welding   &&   正面角焊
+front focal distance   &&   前焦距
+front focal length   &&   前焦距
+front focus   &&   前焦距
+front housing   &&   前盖
+front housing unit   &&   前壳体组件
+front jockey wheel   &&   前导轮
+front muffle   &&   前消声器
+front page   &&   首页
+front pillar   &&   前柱
+front plate   &&   前板
+front porch   &&   前沿
+front roll   &&   前辊道
+front roller   &&   前滚筒
+front scavenge pipe   &&   前清除管
+front seat & safety belt   &&   前座椅与安全带
+front seat assembly   &&   前座总成
+front shock absorber   &&   前减振器
+front side   &&   正面
+front slagging cupola   &&   连续出渣冲天炉
+front suspension   &&   前悬架
+front suspension part   &&   前悬架部件
+front view   &&   ①主视图，正面图，正视图②前视景，前视图
+front wall   &&   前围
+front welded suspension pillar assembly with steering arm   &&   前悬架支柱(带转向臂)焊接总成
+front wheel   &&   前轮
+front wheel drive   &&   前轮驱动 [FWD]
+front wheel hub   &&   前轮轮毂
+front-end   &&   前端
+front-end computer   &&   前端计算机
+front-end loader   &&   前端装载机
+front-end octane   &&   前端辛烷值
+front-end processor   &&   前端处理机
+front-end ram   &&   前端举升机构
+front-wheel drive   &&   前轮驱动
+frontage   &&   正面
+frontal chromatography   &&   迎头色谱法
+frontier   &&   前沿
+frontier electron theory   &&   前沿电子理论
+frontier molecular orbital   &&   前沿分子轨道
+frontier orbital   &&   前沿轨道
+frost crack   &&   冻裂
+frost line   &&   冰冻线
+frost point hygrometer   &&   霜点湿度计(表)
+frost susceptibility   &&   易冻性
+froth   &&   泡沫，起泡
+froth flotation   &&   起泡浮选
+frother   &&   起沫剂
+frothiness   &&   发泡性，起泡性
+frothing   &&   发泡，起沫
+frothing agent   &&   发泡剂，起沫，起泡剂
+frothing machine   &&   发泡机，起沫机
+frothing percentage   &&   发泡率
+frozen depth   &&   冻结深度
+frozen robber   &&   冷冻(橡)胶
+frozen strain   &&   冻结应变
+frozen stress   &&   冻结应力
+frozen-in field line   &&   磁力线冻结
+fruit miller   &&   水果切碎机
+fruit-mincing machine   &&   切水果机
+fruit-stemming machine   &&   果把分离机
+fuel   &&   燃料
+fuel accumulator   &&   储油器
+fuel additive   &&   燃料添加剂
+fuel alloy   &&   燃料合金
+fuel antiknock quality   &&   燃料抗爆性
+fuel assembly   &&   燃料组件
+fuel atomization   &&   燃料喷射，燃料雾化
+fuel atomizing   &&   燃料喷射
+fuel binder   &&   燃料黏合剂
+fuel breeding   &&   燃料增殖(核燃料的)
+fuel brick   &&   燃料块
+fuel bundle   &&   燃料棒束
+fuel bunker   &&   燃料贮仓，燃料仓
+fuel burner   &&   燃料喷嘴
+fuel capacity   &&   燃料容量
+fuel cell   &&   燃料电池
+fuel characteristics   &&   燃料特性
+fuel coating   &&   燃料涂层
+fuel consumption   &&   耗油量，燃料消耗率
+fuel consumption curve   &&   燃料消耗曲线
+fuel cooling   &&   燃料冷却
+fuel core   &&   燃料心棒
+fuel corrosion   &&   燃料腐蚀
+fuel cycle   &&   燃料循环
+fuel depot   &&   燃料库
+fuel distributor   &&   燃油分配器
+fuel dope   &&   燃料添加剂
+fuel economizer   &&   燃料节约器
+fuel economy oil   &&   节能油 [FEO]
+fuel element   &&   燃料组件
+fuel feed   &&   燃料供给
+fuel feed pipe   &&   供油管
+fuel feed port   &&   供油管接口
+fuel filter   &&   汽油滤清器
+fuel filter cartridge   &&   汽油滤清器滤芯
+fuel gage   &&   油量计
+fuel gas   &&   可燃气体，燃气
+fuel gauge   &&   油量计
+fuel governor   &&   燃料控制器，燃油控制
+fuel indicator   &&   燃油表
+fuel injection   &&   燃油喷射
+fuel injection pump   &&   燃油喷射泵
+fuel injector   &&   喷油器，燃料喷射器
+fuel inlet   &&   进油口
+fuel inlet adapter   &&   进油口接头
+fuel inlet filter net   &&   进油口滤网
+fuel inlet needle valve   &&   进油针阀
+fuel level sensor   &&   油面传感器
+fuel lever sensor fuel tank   &&   油箱液面传感器
+fuel line   &&   燃油管
+fuel mould magnetic moulding process   &&   燃模磁丸造型法
+fuel nozzle   &&   燃料喷嘴
+fuel oil   &&   燃料油，燃油
+fuel oil atomization   &&   燃料油雾化
+fuel oil filling system   &&   燃油装料系统
+fuel oil flash tower   &&   燃油闪蒸塔
+fuel oil stabilizer   &&   燃油稳定剂
+fuel oil supply   &&   燃油供给
+fuel outlet   &&   出油口
+fuel outlet needle valve accelerating pump   &&   加速泵出油针阀
+fuel pressure regulator   &&   燃油压力调节器
+fuel processing   &&   燃料处理，燃料加工
+fuel pump   &&   ①汽油泵，燃油泵②燃油喷射泵
+fuel ratio   &&   燃料比率
+fuel reservoir   &&   燃料库
+fuel resin   &&   燃料树脂
+fuel return pipe   &&   回油管
+fuel return pipe port   &&   回油管接口
+fuel sac   &&   贮油穴
+fuel strainer   &&   集滤器
+fuel supply system & air cleaner   &&   供给系统
+fuel system   &&   燃料系统，燃油系统
+fuel tank   &&   油箱，燃油箱
+fuel tank & pump   &&   油箱与油泵
+fuel tank body   &&   油箱体
+fuel utilization factor   &&   燃料利用系数
+fuel value   &&   燃料值，燃烧值
+fuel-air ratio   &&   燃料空气比
+fuel-air separator   &&   油气分离器
+fuel-air separator cartridge   &&   油气分离器滤芯
+fuel-burning equipment   &&   燃烧设备
+fuel-injection engine   &&   喷射燃料发动机，柴油机
+fuel-oil burner   &&   燃油喷嘴
+fuel-oil nozzle   &&   燃油喷嘴
+fuel-regeneration factor   &&   燃料再生系数
+fuel-reprocessing   &&   燃料回收(核燃料)
+fuel-tank   &&   燃料箱
+fuelling station   &&   燃料供应站
+fugacity   &&   易逸性
+fugitiveness   &&   易消失性
+fulcrum pin   &&   主销，支销
+fulcrum ring   &&   膜片弹簧支承圈
+full advance system   &&   全面前进式开采法
+full annealing   &&   完全退火
+full balance of shaking force   &&   惯性力完全平衡
+full blast   &&   全风(鼓风炉的)
+full blow   &&   全(风)吹(炼)
+full bridge measurement   &&   全桥测量
+full capacity trim   &&   全容量阀内件
+full compatibility   &&   全兼容性
+full current   &&   全电流
+full damping   &&   全阻尼
+full dip impregnation   &&   全浸入浸渍法
+full duplex   &&   全双工
+full duplex ethernet   &&   全双工以太网
+full electrification   &&   全盘电气化
+full face digging   &&   全面开挖(隧道)
+full field   &&   全磁场
+full field relay   &&   满励磁继电器(电动机控制用)
+full fillet weld   &&   全角焊缝
+full finishing blackplate   &&   精加工黑铁皮
+full floating axle   &&   全浮动轴(汽车的)
+full fluid film lubrication   &&   全液膜润滑
+full functional dependence   &&   全函数相关
+full gloss   &&   全光
+full hardening   &&   淬透
+full impregnation   &&   全浸渍
+full impulse wave   &&   全(冲击)波(避雷器)
+full injection turbine   &&   反击式水轮机，反动轮机
+full insulated winding   &&   全绝缘绕组
+full lead crystal glass   &&   全铅晶质玻璃
+full line   &&   粗实线
+full liquid-cooling generator   &&   全液冷发电机
+full load   &&   满载，全负荷
+full name   &&   全名
+full overlap method   &&   全重叠法
+full pitch   &&   全节距
+full pool level   &&   满库水位
+full portal gantry   &&   龙门(式)起重机
+full potential   &&   全电势，全电位
+full preview   &&   全视口预览 完整预览
+full production capacity   &&   全部生产能力
+full range   &&   满量程
+full retreat system   &&   全面后退式开采法
+full scale flow-rate   &&   满标度流量
+full shell   &&   满亢壳层
+full thread   &&   全螺纹
+full trailer   &&   全挂车
+full view   &&   全视图
+full wave   &&   全波
+full-adder   &&   全加器
+full-address   &&   全地址
+full-admission turbine   &&   整周进水式水轮机
+full-boiled   &&   全沸煮
+full-boiled process   &&   全沸煮法
+full-depth teeth   &&   全齿高齿
+full-floating   &&   全浮动
+full-floating mechanical packing   &&   全浮动机械填料
+full-flow filter   &&   全流式滤清器
+full-hardened steel   &&   全淬硬钢
+full-journal bearing   &&   全轴颈轴承
+full-load characteristic   &&   满载特性(曲线)
+full-load enrichment device   &&   高负荷加浓装置
+full-load loss   &&   满载损耗
+full-load output   &&   满载输出
+full-load running   &&   满载运转
+full-load speed   &&   满载速度，满载转速
+full-load test   &&   满载试验
+full-scale   &&   满标度，满刻度
+full-scale deflection   &&   满标度偏转
+full-scale response   &&   满刻度响应
+full-scale rocket   &&   全尺寸火箭
+full-scale test   &&   全面试验
+full-scale value   &&   满刻度值，满标度值(仪表的)
+full-screen editing   &&   全屏莫编辑
+full-screen processing   &&   全屏幕处理[FSP]
+full-subtracter   &&   全减器
+full-time drive   &&   全时驱动
+full-track vehicle   &&   全履带车辆
+full-voltage starting   &&   全电压启动
+full-wave amplifier   &&   全波放大器
+full-wave bridges   &&   全波(整流)电桥
+full-wave control   &&   全波控制
+full-wave detection   &&   全波检波
+full-wave logger   &&   声波全波列测井仪
+full-wave oscillation   &&   全波振荡
+full-wave phase control   &&   全波相位控制
+full-wave rectification   &&   全波整流
+full-wave rectifier   &&   全波整流器
+full-wave symmetry   &&   全波对称
+full-wave vibrator   &&   全波振动器
+full-wave voltage impulse   &&   全波电压冲击(避雷器的)
+full-word boundary   &&   全字边长
+full[load] capacity   &&   满载容量
+fully associative buffer storage   &&   全相联缓冲存储器
+fully developed velocity distribution   &&   充分发展的速度分布
+fully dissociated signaling   &&   全分离信号方式
+fully eclipsed form   &&   全重叠式
+fully enclosed motor   &&   全封闭式电动机，全封闭型电动机
+fully flameproof motor   &&   全防爆型电动机
+fully homing missile   &&   主动式自动寻的导弹
+fully impregnated insulation   &&   全浸渍绝缘
+fully insulated current transformer   &&   全绝缘电流互感器
+fully loaded   &&   满载
+fully restrained beam   &&   全部约束梁
+fully rough turbulent flow   &&   充分混杂紊流
+fully water-cooled turbo generator   &&   汽轮发电机
+fully-galvanized wire   &&   全镀锌钢丝
+fully-guarded motor   &&   全防护型电动机
+fully-ionized gas   &&   全电离化气体
+fully-killed steel   &&   全镇静钢
+fully-specified finite-state machine   &&   明有限状态机
+function   &&   ①操作②机能，功能，功用③函数
+function analyses design   &&   功能分析设计
+function analysis   &&   功能分析
+function authority credential   &&   功能特许证，功能授权凭证
+function block   &&   功能块
+function code   &&   功能码
+function control block   &&   功能控制块[FCB]
+function control device   &&   功能控制器
+function data table   &&   功能数据表[FDT]
+function declaration statement   &&   功能说明语句
+function definition module   &&   功能定义模块
+function design   &&   功能设计
+function device   &&   功能器件
+function diagram   &&   功能图，原理图
+function element   &&   功能组件
+function evaluation routine   &&   函数求值程序
+function generation   &&   函数发生器
+function generator   &&   函数发生器
+function hazard   &&   函数冒险
+function hole   &&   功能孔，标志孔
+function identifier   &&   功能识别符
+function key   &&   功能键
+function keyboard   &&   功能键盘
+function letter   &&   操作字码
+function logic   &&   功能逻辑
+function management data service   &&   功能管理数据服务
+function management header   &&   功能管理标题
+function module   &&   功能模块
+function modules of MRPⅡ   &&   MRPⅡ的功能模块
+function multiplier   &&   函数乘法器
+function name   &&   功能部件名，函数名
+function of information system   &&   信息系统的功能
+function of product   &&   产品功能
+function part   &&   操作部分
+function preselection   &&   功能预选
+function procedure   &&   函数过程
+function punch   &&   功能孔
+function reference   &&   函数调用，函数引用
+function relay   &&   函数继电器(模拟机的)
+function routine   &&   功能例行程序
+function subprogram   &&   函数子程序，功能子程序
+function switch   &&   函数开关
+function table   &&   函数表
+function test   &&   机能试验
+function type optic-fibre temperature transducer   &&   功能型光纤温度传感器
+function unit   &&   操作部件，机能部件
+function-generating subroutine   &&   函数发生子程序，功能产生子程序
+functional   &&   泛函
+functional analysis   &&   泛函分析
+functional analysis system technique   &&   功能分析系统技术
+functional assembly   &&   功能汇编
+functional block   &&   功能块
+functional character   &&   功能符号
+functional decomposition   &&   功能分解
+functional dependency   &&   函数相关性
+functional design   &&   功能设计
+functional device   &&   功能器件
+functional diagram   &&   功能图
+functional enhancement package   &&   功能增强程序包
+functional insulation   &&   功能绝缘
+functional interface   &&   功能接口
+functional interleaving   &&   功能交叉
+functional language   &&   函数式语言
+functional macro   &&   功能宏指令，操作宏指令
+functional model   &&   功能模型
+functional modularity   &&   功能调节性，功能积木性，功能模块性
+functional module   &&   功能模块
+functional polymer   &&   功能高聚物
+functional recovery routine   &&   功能恢复例行程序[FRR]
+functional requirement   &&   功能要求(规格)
+functional similarity   &&   功能相似
+functional simulation   &&   功能仿真
+functional switching circuit   &&   函数开关电路
+functional test   &&   功能试验
+functional trial   &&   功能试验
+functional unit   &&   操作部件
+functor   &&   函子
+fundament   &&   基本原理，基础
+fundamental absorption band   &&   基本吸收带
+fundamental absorption edge   &&   基本吸收边
+fundamental characteristics   &&   基本性能
+fundamental circle   &&   基本圆
+fundamental circuit   &&   基本电路，基本回路
+fundamental component   &&   基本分量，基波分量
+fundamental crystal   &&   基频晶体
+fundamental current   &&   基波电流
+fundamental cut-set   &&   基本割集
+fundamental design   &&   基本设计
+fundamental deviation   &&   基本偏差
+fundamental digraph   &&   基本有向图
+fundamental disequilibrium   &&   基本不平衡
+fundamental domain   &&   基本域
+fundamental driving force   &&   基本推动力
+fundamental duality theorem   &&   基本对偶定理
+fundamental element   &&   基本组件
+fundamental equation   &&   基本方程
+fundamental form   &&   基本型，基本形式
+fundamental frequency   &&   ①基波频率②基本频率，基频
+fundamental function   &&   基本功能
+fundamental group   &&   基群
+fundamental harmonic   &&   基波
+fundamental hierachical relation   &&   基本层次联系
+fundamental input-connection matrix   &&   基本输入联络矩阵
+fundamental interconnection vector   &&   基本关联向量
+fundamental lattice   &&   基本点阵
+fundamental law   &&   基本定律
+fundamental line   &&   基本(点阵)线
+fundamental locus   &&   基本轨迹
+fundamental loop   &&   基本回路
+fundamental matrix   &&   基本矩阵
+fundamental mechanism   &&   基础机构
+fundamental method of measurement   &&   基础测量法
+fundamental metric tensor   &&   基本度量张量
+fundamental mode   &&   ①基本工作方式②基本模(式)
+fundamental model   &&   基本模型
+fundamental natural mode of vibration   &&   基本固有振型
+fundamental operating system   &&   基本操作系统
+fundamental operation   &&   基本作业
+fundamental particle   &&   基本质点
+fundamental period   &&   基本周期
+fundamental phasor factor   &&   基波功率因数
+fundamental physical constant   &&   基本物理常量
+fundamental plane   &&   基面
+fundamental point   &&   基本点
+fundamental power factor   &&   基波功率因数
+fundamental principle   &&   基本原理
+fundamental region   &&   基本区域
+fundamental renewal equation   &&   基本更新方程
+fundamental research   &&   基本理论研究
+fundamental rheological curve   &&   基本流变曲线
+fundamental sampling theorem   &&   基本采样定理
+fundamental simplex   &&   基本单纯形
+fundamental solution   &&   基本解
+fundamental structure   &&   基本结构
+fundamental system   &&   基本系
+fundamental theory   &&   基本理论
+fundamental tolerance unit   &&   基本公差单位
+fundamental transition   &&   基本跃迁
+fundamental unit   &&   基本单位，基本单元
+fundamental vector   &&   基本矢量
+fundamental vibration   &&   基频振动
+fundamental wave   &&   基波
+funnel-shaped mud viscometer   &&   漏斗式泥浆粘度计
+furnace   &&   炉，炉子
+furnace accretion   &&   炉瘤
+furnace air   &&   炉内空气，炉内气氛
+furnace annealing   &&   炉内退火，炉中退火
+furnace arch   &&   炉顶，炉拱
+furnace atmosphere   &&   炉内气氛
+furnace base   &&   炉底，炉基
+furnace bed   &&   炉床，炉底
+furnace body   &&   炉体
+furnace body brick   &&   炉体砖
+furnace bosh   &&   炉腰
+furnace bottom   &&   炉床，炉底
+furnace brazing   &&   炉内钎焊
+furnace burden   &&   炉料
+furnace capacity   &&   炉子容量，炉子生产能力
+furnace cavity   &&   炉膛
+furnace chamber   &&   炉室，炉膛，燃烧室
+furnace charge   &&   炉料
+furnace charging   &&   炉内装料，装炉料
+furnace charging table   &&   炉用装料辊道
+furnace cinder   &&   炉灰，炉渣
+furnace clinker   &&   炉渣结块
+furnace coke   &&   炉焦(炭)
+furnace condition   &&   炉况
+furnace construction   &&   炉体建筑，炉子构造，炉体结构
+furnace contour   &&   炉型
+furnace cooled steel   &&   炉冷钢
+furnace cooling   &&   炉冷，随炉缓冷
+furnace cycle   &&   炉期
+furnace delivery table   &&   炉用输出辊道辊道
+furnace design   &&   炉子结构，炉子设计
+furnace door   &&   炉门
+furnace draft   &&   炉子抽风力
+furnace draught   &&   炉子抽风力
+furnace dust   &&   炉灰
+furnace efficiency   &&   炉子效率
+furnace entry table   &&   进炉辊道，炉用输入辊道
+furnace for gaseous fuel   &&   气体燃料炉
+furnace for reproduction of fixed points   &&   定点炉
+furnace for verification use   &&   检定炉
+furnace foundation   &&   炉基
+furnace gas   &&   炉内气体，炉气
+furnace gas condenser   &&   炉气冷凝器
+furnace gas scruber   &&   炉气洗涤器
+furnace grate   &&   炉条，炉篦
+furnace hearth   &&   炉床，炉底，炉膛
+furnace inside   &&   炉内
+furnace installation   &&   炉子设备
+furnace irregularity   &&   炉子不顺，炉子失常，炉子事故
+furnace jacket   &&   炉壳
+furnace lid   &&   炉盖
+furnace life   &&   炉龄，炉期，炉子寿命
+furnace lines   &&   炉型
+furnace lining   &&   炉衬
+furnace maneuver   &&   炉子操作
+furnace manoeuver   &&   炉子操作
+furnace mixture   &&   炉料
+furnace of continuous conveyor type   &&   连续输送带式炉
+furnace operation   &&   炉况，炉子操作
+furnace output   &&   炉产量，炉子生产能力
+furnace pan   &&   炉盘
+furnace pit   &&   炉坑
+furnace plate   &&   炉盘
+furnace power   &&   炉子功率
+furnace practice   &&   炉况，炉子操作
+furnace pull-out rolls   &&   炉内拉料辊
+furnace rated current   &&   炉子额定电流
+furnace rated power   &&   炉子额定功率
+furnace rated temperature   &&   炉子额定温度
+furnace rated voltage   &&   炉子额定电压
+furnace retort   &&   炉室
+furnace roasting   &&   炉内焙烧，炉内煅烧
+furnace roils   &&   炉内辊
+furnace roof   &&   炉顶
+furnace room   &&   炉室，燃烧室
+furnace shaft   &&   炉身，炉体
+furnace shell   &&   炉壳
+furnace stack   &&   炉身
+furnace temperature   &&   炉温
+furnace thermal efficiency   &&   炉子热效率
+furnace throat   &&   炉喉
+furnace top   &&   炉顶
+furnace tube   &&   炉管
+furnace tube spring hanger   &&   炉管弹簧吊架
+furnace utilization   &&   炉子利用(率)
+furnace vault   &&   炉顶
+furnace voltage   &&   炉子电压
+furnace wall   &&   炉墙
+furnace working   &&   炉况，炉子操作
+furnace-boat   &&   炉舟
+furnacing   &&   炉内焙烧，炉内煅烧
+fuse   &&   ①熔断器，保险丝，熔断丝②熔化，熔解熔融③导火索
+fuse base   &&   熔丝座
+fuse block   &&   保险丝盒，熔丝盒
+fuse board   &&   熔断器盘，熔丝板
+fuse box   &&   熔断丝盒，保险丝盒
+fuse cartridge   &&   熔丝盒
+fuse clip   &&   保险丝夹
+fuse diode   &&   熔式二极管
+fuse disconnecting switch   &&   熔丝隔离开关
+fuse link   &&   保险丝管，熔断片
+fuse machine   &&   热熔机
+fuse metal   &&   保险丝合金，易熔金属
+fuse plug   &&   保险塞，熔丝塞
+fuse protection   &&   熔断器保护(装置)，熔丝保护(装置)
+fuse protector   &&   熔断丝护板
+fuse rating   &&   熔断丝额定电流
+fuse together   &&   熔合
+fuse tube   &&   熔丝管
+fuse unit   &&   保险丝盒
+fuse wire   &&   ①熔丝②保险丝
+fuse-alarm   &&   熔丝报警
+fuse-carrier   &&   熔丝架，熔丝座
+fuse-element   &&   熔片，熔丝
+fuse-resistor   &&   熔断电阻器
+fuse-switch   &&   熔丝开关
+fused alumina   &&   熔融氧化铝，熔融矾土
+fused cast basic brick   &&   熔铸碱性耐火砖
+fused cast mullite   &&   熔铸莫来石
+fused cast mullite brick   &&   熔铸莫来砖
+fused cast refractory   &&   熔铸耐火材料
+fused catalyst   &&   熔融催化剂
+fused cutout   &&   熔丝断路器
+fused electrolyte   &&   熔融电解质
+fused heterocycle   &&   稠杂环
+fused polycyclic system   &&   稠合多环系
+fused quartz brick   &&   熔融石英砖
+fused ring   &&   稠环
+fused salt   &&   熔盐
+fused salt chemistry   &&   熔盐化学
+fused salt electrolysis   &&   熔盐电解
+fused salt electrolysis process   &&   熔盐电解法(复合多晶纤维成形法之一)
+fused salt liquid phase   &&   熔盐液相
+fused salt polarography   &&   熔盐极谱法
+fused semiconductor   &&   熔凝半导体
+fused silica   &&   熔凝硅石
+fused silica brick   &&   熔融石英砖
+fused silica fibre   &&   熔化硅石纤维
+fused silica glass   &&   熔凝硅石玻璃，石英镜片
+fused silica yarn   &&   熔硅石线
+fused-contact phototransistor   &&   熔合接点光电晶体管
+fused-impurity phototransistor   &&   熔合杂质光电晶体管
+fused-salt extraction   &&   熔盐萃取
+fuselage   &&   机身(飞机的)
+fuselage wire   &&   机身拉线
+fusibility   &&   可熔性，熔度，熔性
+fusibility curve   &&   熔度曲线，熔性曲线
+fusible   &&   可熔的，易熔的
+fusible alloy   &&   易熔合金，低熔点合金
+fusible clay   &&   易熔黏土
+fusible cone   &&   熔锥(测温用)
+fusible cutout   &&   熔断器
+fusible element   &&   可熔组件(熔断器的)
+fusible plug   &&   可熔塞，易熔塞
+fusible resistor   &&   可熔电阻器
+fusible salt   &&   易熔盐
+fusible solid   &&   可熔固体
+fusing   &&   熔合，熔断
+fusing current   &&   熔断电流
+fusing energy   &&   熔化能
+fusing point   &&   熔点
+fusing soldering   &&   熔焊
+fusing temperature   &&   熔化温度
+fusion   &&   ①熔化，熔解，溶融②聚变
+fusion alloying   &&   熔化法配制合金
+fusion bomb   &&   热核弹，氢弹
+fusion bonding   &&   熔接，熔融连接
+fusion cast basalt   &&   熔铸玄武岩
+fusion cast brick   &&   熔铸砖
+fusion casting   &&   熔铸
+fusion casting mould   &&   熔融浇铸模
+fusion curve   &&   熔化曲线
+fusion energy   &&   聚变能
+fusion fuel   &&   聚变燃料
+fusion heat   &&   熔化热
+fusion lamination   &&   熔融层压(胶合)法
+fusion material   &&   聚变物质
+fusion metallurgy   &&   熔炼
+fusion mixture   &&   熔化混合物
+fusion penetration   &&   熔深(焊缝的)，熔透
+fusion point   &&   熔点
+fusion power   &&   聚变能
+fusion power plant   &&   聚变发电厂
+fusion range   &&   熔化范围
+fusion reaction   &&   熔合反应
+fusion reactor   &&   聚变反应堆
+fusion section   &&   熔化带，熔化区
+fusion test   &&   熔融试验
+fusion welding   &&   熔焊
+fusion zone   &&   熔化带，熔化区
+fusion-cast refractory   &&   熔铸耐火材料
+fusion-electrolysis   &&   熔盐电解
+future address patch   &&   未来地址插入码
+future label   &&   未来标号
+fuze   &&   ①保险丝②熔化
+fuzzification   &&   模糊性，模糊化
+fuzziness   &&   模糊性
+fuzzy   &&   模糊
+fuzzy Turing machine   &&   模糊图灵机
+fuzzy connectives   &&   模糊连接词
+fuzzy consensus   &&   模糊一致
+fuzzy constraint   &&   模糊约束
+fuzzy constraint programming   &&   模糊约束规划
+fuzzy continuity   &&   模糊连续
+fuzzy continuous   &&   模糊连续
+fuzzy continuous function   &&   模糊连续函数
+fuzzy control   &&   模糊控制
+fuzzy control rule   &&   模糊控制规则
+fuzzy control system   &&   模糊控制系统伯控
+fuzzy controller   &&   模糊控制器
+fuzzy convex hull   &&   模糊凸包
+fuzzy correlation   &&   模糊相关
+fuzzy decision   &&   模糊决策
+fuzzy decision tree   &&   模糊决策树
+fuzzy dynamic   &&   模糊动态
+fuzzy dynamic analysis   &&   模糊动态分析
+fuzzy dynamic programming   &&   模糊动态规划
+fuzzy dynamic system   &&   模糊动态系统
+fuzzy economic game   &&   模糊经济对策
+fuzzy environment   &&   模糊环境
+fuzzy evaluation   &&   模糊评价
+fuzzy expert system   &&   模糊专家系统
+fuzzy expression   &&   模糊表达式
+fuzzy feasibility degree   &&   模糊可行度
+fuzzy feedback control system   &&   模糊反馈控制系统
+fuzzy field   &&   模糊域
+fuzzy field of subsets   &&   模糊子集域
+fuzzy finite state automaton   &&   模糊有限状态自动机
+fuzzy flow chart   &&   模糊流程图
+fuzzy force   &&   模糊力
+fuzzy formula   &&   模糊公式
+fuzzy function   &&   模糊函数
+fuzzy game   &&   模糊对策
+fuzzy goal programming   &&   模糊目标规划
+fuzzy grammatical inference   &&   模糊语法推理
+fuzzy group   &&   模糊群
+fuzzy identity function   &&   模糊恒等函数
+fuzzy identity morphism   &&   模糊恒等映照
+fuzzy implication   &&   模糊隐含
+fuzzy information   &&   模糊信息
+fuzzy information processing   &&   模糊信息处理
+fuzzy interval   &&   模糊区间
+fuzzy iterated consensus   &&   模糊迭接交感
+fuzzy linear control   &&   模糊线性控制
+fuzzy linear ordering   &&   模糊线性序
+fuzzy linear programming   &&   模糊线性规划
+fuzzy logic   &&   模糊逻辑
+fuzzy logic control   &&   模糊逻辑控制
+fuzzy mapping   &&   模糊映射
+fuzzy mathematical programming   &&   模糊数学规划
+fuzzy measure   &&   模糊测度
+fuzzy membership function   &&   模糊隶属函数
+fuzzy morphisms   &&   模糊映照
+fuzzy neural network   &&   模糊神经网络
+fuzzy noise   &&   模糊干扰
+fuzzy number   &&   模糊数
+fuzzy number absolute value   &&   模糊数绝对值
+fuzzy number addition   &&   模糊数加法
+fuzzy number division   &&   模糊数除法
+fuzzy number entropy   &&   模糊数熵
+fuzzy number exponential   &&   模糊数指数
+fuzzy open set   &&   模糊开集
+fuzzy optimal control   &&   模糊最佳控制
+fuzzy output mapping   &&   模糊输出映射
+fuzzy output transformation   &&   模糊输出变换
+fuzzy partition   &&   模糊划分
+fuzzy partition matrix   &&   模糊划分矩阵
+fuzzy path   &&   模糊道路
+fuzzy phrase   &&   模糊片语
+fuzzy point   &&   模糊点
+fuzzy preference ordering   &&   模糊优先排序
+fuzzy prime implication   &&   模糊素隐含
+fuzzy probability   &&   模糊概率
+fuzzy probability distribution   &&   模糊概率分布
+fuzzy probability field   &&   模糊概率场
+fuzzy processor   &&   模糊信息机
+fuzzy programming   &&   模糊规划
+fuzzy prototype   &&   模糊样品
+fuzzy random measure   &&   模糊随机测度
+fuzzy random variable   &&   模糊随机变量
+fuzzy regular language   &&   模糊正则语言
+fuzzy relation   &&   模糊关系
+fuzzy relation equation   &&   模糊关系方程
+fuzzy relation system   &&   模糊关系系统
+fuzzy reliability degree   &&   模糊可靠度
+fuzzy response   &&   模糊响应
+fuzzy restriction   &&   模糊约束
+fuzzy ring   &&   模糊环
+fuzzy satisfactory degree   &&   模糊满意度
+fuzzy series   &&   模糊级数
+fuzzy set   &&   模糊集，面对面安装
+fuzzy set theory   &&   模糊集理论
+fuzzy simple disjunctive decomposition   &&   模糊简单析取分解
+fuzzy space partition   &&   模糊空间划分
+fuzzy state   &&   模糊状态
+fuzzy state regulator   &&   模糊状态调整器
+fuzzy state-transition matrix   &&   模糊状态转移矩阵
+fuzzy state-transition tree   &&   模糊状态转移树
+fuzzy subset   &&   模糊子集
+fuzzy switching function   &&   模糊开关函数
+fuzzy system mapping   &&   模糊系统映射
+fuzzy terminal regulator   &&   模糊终端调整器
+fuzzy theory   &&   含模理论
+fuzzy topological space   &&   模糊拓扑空间
+fuzzy transition function   &&   模糊转变函数
+fuzzy transition matrix   &&   模糊转移矩阵
+fuzzy truth value   &&   模糊真值
+fuzzy upper bound   &&   模糊上界
+fuzzy utility   &&   模糊效用
+fuzzy variable   &&   模糊变量
+fuzzy vector   &&   模糊向量

@@ -1,0 +1,1128 @@
+U bolt   &&   U形螺栓，马蹄形螺栓
+U format   &&   U格式
+U groove   &&   U型坡口
+U groove welding   &&   U型坡口焊
+U iron   &&   U形钢，槽钢
+U link   &&   U形连接线
+U nuts   &&   U形螺帽
+U punch   &&   U型冲头
+U-O press   &&   U形-O形成形机
+U-antenna   &&   U形天线
+U-bend die   &&   U型弯曲模
+U-clamp   &&   U形夹
+U-clip   &&   U形线夹
+U-cylinder   &&   共燃烧室发动机
+U-engine   &&   U型发动机
+U-magnet   &&   U形磁铁，马蹄形磁铁
+U-nut   &&   U型螺母
+U-port   &&   U型端口
+U-shaped core   &&   U形铁心
+U-shaped expansion pipe   &&   U形膨胀管
+U-shaped magnetic core   &&   U形磁心
+U-steel   &&   U字钢，槽钢
+U-tube manometer   &&   U形管压力计
+UDDS   &&   (Urban Dynamometer Schedule) 市区测功器程序
+UJ   &&   (Universal Joint)万向节
+UKPIA   &&   (United Kingdom Petroleum Industry Association) 英国石油工业协会
+ULEV   &&   (Ultra-Low-Emission Vehicle California)  (加利福尼亚)超低排放汽车
+ULW   &&   (Unladen Weight of commercial vehicle)  (商用汽车)空车质量
+UNI   &&   (User Network Interface )用户网络接口
+UNIX Operating System   &&   UNIX操作系统
+USABC   &&   (United States Advanced Battery Consortium)  美国先进蓄电池联合
+UV dosimeter   &&   紫外线表
+UVW anemometer   &&   三维风速表
+Ultimate pressure   &&   极限压力
+Ultramicrotome   &&   超微切片机
+Ultraperm   &&   乌托拉普姆高透磁合金
+United State Space Activities   &&   美国航天
+United State Space Shuttle Project   &&   美国航天飞机工程
+United State Space Tracking Networks   &&   美国航天测控网
+United States Aviation   &&   美国航空
+ubicon   &&   紫外线摄像管
+ubitron   &&   波动射束注人器
+ucsicon   &&   UCS图标，USC 图示
+ultimate   &&   极限，终极
+ultimate aim   &&   终极目标
+ultimate bearing capacity   &&   极限承载力
+ultimate bending strength   &&   极限弯曲强度
+ultimate design   &&   极限状态设计
+ultimate design method   &&   极限状态设计法
+ultimate elongation   &&   极限伸长率
+ultimate extension   &&   极限延伸
+ultimate factor of safety   &&   极限安全系数
+ultimate life   &&   极限使用寿命
+ultimate limit switch   &&   极服限制开关，极限限位开关
+ultimate load   &&   极限荷载
+ultimate mechanical property   &&   极限力学性质
+ultimate output   &&   极限输出，最大输出
+ultimate resilience   &&   极限回弹性
+ultimate strain   &&   极限应变
+ultimate strength   &&   极限强度
+ultimate stress   &&   极限应力
+ultimate tensile strength   &&   极限抗张强度
+ultimate tensile stress   &&   极限张应力
+ultimate trip current   &&   极限跳闸电流，最终脱扣电流
+ultimate trip limit   &&   极限脱扣电流值，最终跳闸界限
+ultimate use temperature   &&   极限使用温度
+ultimate vacuum   &&   极限真空
+ultimate working capacity   &&   极限工作容量
+ultimate-high-strength steel   &&   极限高强度钢
+ultimately   &&   终于
+ultor   &&   (阴极射线管的)最高压阳极
+ultra high frequency   &&   超高频
+ultra high viscosity index   &&   超高粘度指数 [UHVI]
+ultra low emissions vehicle   &&   超低排放汽车 [ULEV]
+ultra narrowband filters   &&   超窄频滤光镜
+ultra porcelain   &&   超高频(绝缘)瓷料
+ultra sonic   &&   超声的，超音的
+ultra thermometer   &&   超高温温度计
+ultra thin-film capacitor   &&   超薄膜电容器
+ultra-audio wave   &&   超声波
+ultra-audion   &&   超三极管，反馈栅极检波器
+ultra-audion current   &&   超再生电路，超三极管电路
+ultra-audion oscillator   &&   超三极管振荡器，超再生振荡器
+ultra-fine grain steel   &&   超细晶组织钢
+ultra-high strength steel   &&   超高强度钢
+ultra-high tensile steel   &&   超高强度钢
+ultra-high vacuum   &&   超高真空
+ultra-high voltage   &&   超高压
+ultra-high voltage electron microscope   &&   超高压电子显微镜
+ultra-high-frequency converter   &&   超高频变频器
+ultra-high-frequency generator   &&   超高频发生器
+ultra-high-frequency oscillator   &&   超高频振荡器
+ultra-high-frequency receiver   &&   超高频接收机
+ultra-high-frequency translator   &&   超高频电视差转机，超高频电视转发机
+ultra-high-frequency transmitter   &&   超高频发射机
+ultra-high-frequency wave   &&   ①超高频电波，超短波②超高频调谐器
+ultra-high-speed internal grinder   &&   超高速内圆磨床
+ultra-large crude carrier   &&   超级油轮
+ultra-light alloy   &&   超轻合金
+ultra-low temperature   &&   超低温
+ultra-low-melting alloy   &&   超低熔合金
+ultra-low-volume sprayer   &&   超低量喷雾器
+ultra-microelectrode   &&   超微型电极
+ultra-thin tinplate   &&   极薄镀锡薄钢板
+ultra-violet and visible spectrophotometer   &&   紫外可见光分光光度计
+ultracentrifuge   &&   超速离心机
+ultradyne receiver   &&   超外差接收机
+ultrafax   &&   电视高速传真，电视传真电报
+ultrahigh vacuum   &&   超高真空
+ultrahigh-frequency band   &&   超高频波段(300-3000兆赫)
+ultralinear   &&   超线性的
+ultralong wave   &&   超长波
+ultralong wave spectrometer   &&   超长波光谱仪
+ultralow frequency   &&   超低频
+ultramicrostrncture   &&   超微结构
+ultramicrotechnique   &&   超微技术
+ultramicrotomy   &&   超薄切片术
+ultramicrowave   &&   超微波
+ultraphonic rays   &&   视外线
+ultrared heating   &&   红外线加热
+ultrared ray   &&   红外线
+ultrashort wave   &&   超短波
+ultrashort wave transmission   &&   超短波发射
+ultrashort wave transmitter   &&   超短波发射机
+ultrasonator   &&   超声波发生器
+ultrasonic Doppler blood pressure sensor   &&   超声多普勒血压传感器
+ultrasonic Doppler blood pressure transduce   &&   超声多普勒血压传感器
+ultrasonic analyser   &&   超声波探伤仪
+ultrasonic anemometer   &&   超声波风速表
+ultrasonic apparatus for material testing   &&   超声波材料试验仪
+ultrasonic beam   &&   超声波束
+ultrasonic bonding   &&   超声波焊接
+ultrasonic brazing   &&   超声波铜焊，超声波钎焊
+ultrasonic camera   &&   超声波摄像机
+ultrasonic communication   &&   超声波通信
+ultrasonic delay line   &&   超声波延迟线
+ultrasonic detection   &&   超声波探伤
+ultrasonic detector   &&   超声波探测器
+ultrasonic disc cutter   &&   超声样品切割机
+ultrasonic drill   &&   超声钻
+ultrasonic drilling   &&   超声钻法
+ultrasonic equipment   &&   超声波装置
+ultrasonic erosion   &&   超声腐蚀
+ultrasonic examination   &&   超声波探伤
+ultrasonic fault detection   &&   超声波探伤
+ultrasonic flaw detection   &&   超声波探伤
+ultrasonic flaw detector   &&   超声探伤仪，超声波探测器
+ultrasonic flow transducer   &&   超声流量传感器
+ultrasonic flowmeter   &&   超声流量计
+ultrasonic frequency   &&   超声波频率，超音频
+ultrasonic generator   &&   超声波发生器
+ultrasonic grating constant   &&   超声波光栅常数
+ultrasonic hardness tester   &&   超声硬度测试计
+ultrasonic inserting   &&   超声法嵌进
+ultrasonic inspection   &&   超声波探伤，超声波检验
+ultrasonic level detector   &&   超声波水平探测仪
+ultrasonic level measuring device   &&   超声物位测量装置
+ultrasonic level meter   &&   超声物位计
+ultrasonic light diffraction   &&   超声波光衍射
+ultrasonic light modulation   &&   超声波光调制
+ultrasonic light modulator   &&   超声波光调制器
+ultrasonic machining   &&   超声加工，超音速加工
+ultrasonic memory   &&   超声存储器
+ultrasonic metal inspection   &&   超声波金属探伤
+ultrasonic metal working   &&   金属超声加工
+ultrasonic methods   &&   超声法
+ultrasonic oscillation   &&   超声波振荡
+ultrasonic prating   &&   超声波电镀
+ultrasonic process   &&   ①超声检验②超声压铸法
+ultrasonic processing   &&   超声处理
+ultrasonic pulse method   &&   超声脉冲法
+ultrasonic reflectoscope   &&   超声探伤仪
+ultrasonic sealing   &&   超声波(薄膜)密封法
+ultrasonic seam welding machine   &&   超声波缝焊机
+ultrasonic sensor   &&   超声波传感器
+ultrasonic soldering   &&   超声波焊接，超声波钎焊
+ultrasonic space grating   &&   超声波空间光栅
+ultrasonic spot welding machine   &&   超声波点焊机
+ultrasonic stroboscope   &&   超声波频闪观测器
+ultrasonic test   &&   超声波探伤
+ultrasonic testing   &&   超声波检验
+ultrasonic thickness meter   &&   超声波厚度计
+ultrasonic transducer   &&   超声换能器
+ultrasonic transmitter   &&   超声波发射器
+ultrasonic underwater communication   &&   超声波水下通信
+ultrasonic vibration   &&   超声波振动
+ultrasonic wave   &&   超声波
+ultrasonic wave welding   &&   超声波焊接
+ultrasonic welder   &&   超声波焊机
+ultrasonic wire drawing   &&   超声波拔丝
+ultrasonic working   &&   超声波加工
+ultrasonics   &&   ①超声波②超声(波)学
+ultrasonoscope   &&   超声波探伤仪
+ultraspeed welding   &&   超速焊接
+ultrathin section sample   &&   超薄切片样品
+ultraudio   &&   三极管回授式检波器
+ultraviolet absorbing filters   &&   紫外吸收滤光镜
+ultraviolet cell   &&   紫外光电组件
+ultraviolet filter   &&   透过紫外线的滤光片
+ultraviolet hygrometer   &&   紫外湿度表
+ultraviolet lamp   &&   紫外线照射装置，紫外线灯
+ultraviolet lenses   &&   紫外线透镜
+ultraviolet light Sources   &&   紫外线光源
+ultraviolet light sensor   &&   紫外光传感器
+ultraviolet light transducer   &&   紫外光传感器
+ultraviolet materials   &&   紫外线材料
+ultraviolet photo electron spectroscopy   &&   紫外光电子能谱法[UPS]
+ultraviolet photo-electron spectrometer   &&   紫外光电子能谱仪
+ultraviolet photodiodes   &&   光二极体(紫外光)
+ultraviolet photoemission   &&   紫外光电子发射
+ultraviolet radiation   &&   紫外辐射，紫外线辐射
+ultraviolet ray intensity meter   &&   紫外线强度计
+ultraviolet remote sensing   &&   紫外遥感
+ultraviolet source   &&   紫外线源
+ultraviolet spectrum   &&   紫外光谱
+ultraviolet transmitting filters   &&   紫外透过滤光镜
+ultraviolet-visible detector   &&   紫外-可见光检测器
+ultrawhite synchronizing signal   &&   白色同步信号，超白同步信号
+ultron   &&   波导耦合正交场放大器
+umbrella antenna   &&   伞形天线
+umbrella insulator   &&   伞形绝缘子
+umbrella type alternator   &&   伞形交流发电机
+umbrella type generator   &&   伞形(水轮)发电机
+umformer   &&   变换机，交流机
+unaddressed operation   &&   非寻址操作
+unallowable character   &&   非法字符，禁用字符
+unallowable digit   &&   非法数位
+unallowable instruction check   &&   非法指令校验
+unallowable instruction digit   &&   非法指令位
+unalloyed metals   &&   纯金属
+unamplified back bias   &&   非放大反馈偏压
+unarmoured cable   &&   非铠装电缆
+unary operation   &&   一元运算，一目运算
+unary operator   &&   一元运算符，一目运算符，一元算子
+unassembled   &&   未装配的，未接合的
+unattended answering service   &&   自动服务(电话)
+unattended automatic exchange   &&   无人值班自动电话交换台
+unattended equipment   &&   自动设备
+unattended operation   &&   自动操作，无人监督操作
+unattended station   &&   无人值班发电站
+unattended substation   &&   无人值班变电所
+unattended system   &&   无人管理系统
+unattended time   &&   待修时间，未用时间
+unavailable energy   &&   不可用能
+unbalance   &&   不平衡
+unbalance capacity   &&   不平衡电容
+unbalance component measuring device   &&   不平衡分量测量装置
+unbalance factor   &&   不平衡系数
+unbalance load   &&   不平衡负载
+unbalance mass   &&   不平衡质量
+unbalance reduction ratio   &&   不平衡量减少率[URR]
+unbalance response   &&   不平衡响应
+unbalance vector   &&   不平衡矢量
+unbalance vector measuring device   &&   不平衡矢量测量装置
+unbalanced bridge   &&   不平衡电桥
+unbalanced circuit   &&   不平衡电路
+unbalanced current   &&   不平衡电流
+unbalanced feeder line   &&   不平衡馈电线
+unbalanced line   &&   ①不平衡传输线②不平衡线路
+unbalanced load   &&   不平衡负荷
+unbalanced magnetic pull   &&   不平衡磁引力
+unbalanced modulator   &&   不平衡调制器
+unbalanced network   &&   不平衡网络
+unbalanced output   &&   非对称输出，不平衡输出
+unbalanced phase   &&   不平衡相
+unbalanced phase current   &&   不平衡相电流
+unbalanced strip line   &&   不平衡传输线，不平衡线路
+unbalanced system   &&   不平衡系统，不平衡制
+unbalanced threephase load   &&   不平衡三相负载，不平衡三相负荷
+unbalanced threephase voltage   &&   不平衡三相电压
+unbalanced transformation   &&   不平衡变换
+unbalanced voltage   &&   不平衡电压
+unbalanced wire circuit   &&   不平衡有线电路
+unbiased estimation   &&   无偏估计
+unbiased telephone ringer   &&   无偏电话振铃机
+unblanking pulse   &&   启通脉冲
+unblocking   &&   ①解锁②接通
+unbonded strain gauge   &&   非粘贴式应变计
+unbound electron   &&   非束缚电子，自由电子
+unbundled program   &&   非附随程序
+unburned hydro carbons   &&   未燃碳氢化合物[UTC]
+unburnt hydrocarbon   &&   未燃烧烃 [UHC]
+uncaging   &&   ①释放，松开
+uncertain region   &&   不确定区，不可辨区
+uncertainty   &&   不确定度
+uncertainty of measurement   &&   测量不确定度
+uncertainty principle   &&   不定性原理，测不准原理
+unchamfered butt weld   &&   无坡口对接焊
+uncharged particle   &&   不带电粒子
+uncharged state   &&   未充电状态
+uncoated electrode   &&   ①裸焊条②裸电极
+uncoaxiality   &&   不同轴性
+uncoil   &&   松开(线卷)，拉直
+uncoiler   &&   开卷机
+uncoiler and straightener   &&   整平机
+uncoiling   &&   解卷
+uncoiling reel   &&   开卷机
+uncombined carbon   &&   游离碳
+uncommon metals   &&   稀土金属
+uncompensated amplifier   &&   无补偿放大器
+uncompleted orbit   &&   未满轨道
+unconditional jump   &&   无条件跳转
+unconditional jump instruction   &&   无条件转移指令
+unconditional stability   &&   无条件稳定性
+unconditional transfer instruction   &&   无条件转移指令
+unconditioned transfer of control   &&   无条件转移控制
+unconstrained optimization   &&   五约束优化
+uncontrolled   &&   无控火箭弹
+uncooled motor   &&   非冷却式发动机
+uncorrectable error   &&   无法校正的错误
+uncorrected result   &&   未修正结果
+uncoupled modes   &&   非耦合振型
+uncovered wire   &&   无绝源导线，裸线
+undamped alternating current   &&   未衰减交流电流
+undamped natural mode of vibration   &&   无阻尼固有振动模态
+undamped wave   &&   未衰减波，未阻尼波
+undampted natural frequency   &&   无阻尼固有频率
+undefine   &&   命令取消 取消定义
+under annealing   &&   不完全退火
+under cut   &&   清角
+under hardening   &&   淬火不足，欠热淬火
+under laying   &&   下部焊层
+under ramming   &&   舂实不足
+under water acoustic measurment   &&   水声综合测量仪
+under-current circuit breaker   &&   欠电流断路器
+under-current cut-out   &&   欠电流自动断路器
+under-current relay   &&   欠电流继电器
+under-current release   &&   欠电流释放，欠电流脱扣
+under-current trip   &&   欠电流跳闸，欠电流脱扣
+under-feed furnace   &&   下加热式炉
+under-voltage circuit breaker   &&   欠电压断路器，低电压断路器
+under-voltage detector   &&   欠压检测器
+under-voltage no-close release   &&   欠电压不闭合释放装置
+under-voltage open phase relay   &&   欠电压开相继电器
+under-voltage protection   &&   欠电压保护装置
+under-voltage relay   &&   欠电压继电器
+under-voltage release   &&   欠电压释放，欠电压跳闸
+under-voltage reverse-phase relay   &&   欠电压反相继电器
+under-voltage tripping   &&   欠电压释放，欠电压跳闸
+underbead crack   &&   热影响区裂纹(焊缝)，焊缝下裂纹
+underbed   &&   底架，底座
+underbody   &&   车身底部，汽车下部
+underbody flow   &&   汽车下面气流
+underbunching   &&   非理想聚束，聚束不足
+undercarriage   &&   底架
+undercharge   &&   冲电不足
+undercoating   &&   底部涂层
+undercompensated machine   &&   欠补偿电机
+undercompensated meter   &&   欠补偿电表
+undercompound excitation   &&   欠复励
+undercompound generator   &&   欠复励发电机
+undercompound winding   &&   欠复励绕组
+undercontact rail   &&   底面接触(的)导轨
+undercooled austenite   &&   过冷奥氏体
+undercooled graphite   &&   过冷石墨
+undercooled surface method   &&   表面降温(锻造)法，中心压实法
+undercooling   &&   过冷，过冷现象
+undercooling graphite   &&   过冷石墨
+undercrown   &&   顶部底面
+undercunpling   &&   欠耦合，耦合不足
+undercurrent   &&   电流不足，暗流，潜流
+undercut   &&   根切，底切，侧向分型，凹槽
+undercut commutator   &&   磨损过深的换向器
+undercut moulding   &&   侧向分型模
+undercutting   &&   根切，运动失真，过度切割
+undercylindered engine   &&   小马力蒸汽机车
+underdamping   &&   周期阻尼，欠阻尼
+underdome bell   &&   机内式电铃
+underdraft   &&   轧件下弯
+underdrive press   &&   下传动压力机，底传动压力机
+underdrive sheet metal stamping automatic press   &&   下传动板料冲压自动压力机
+underdrive single action press   &&   下传动单动压力机
+underexcited generator   &&   欠励发电机，励磁不足发电机
+underexcited synchronous device   &&   欠激同步装置
+underfeed   &&   底部进料的
+underfeed stoker   &&   下饲式加煤机，下饲式排炉
+underfired furnace   &&   底燃式炉，热底式炉
+underfloor cable raceway   &&   地板下电缆管道
+underfloor raceway   &&   ①地板下线槽②地板下电缆管道
+underflow   &&   下溢 低溢
+underfrequency   &&   频率降低，最低频率
+undergo   &&   经受
+underground burst   &&   地下爆炸
+underground cable   &&   地下电缆
+underground cable box   &&   地下电缆接线盒
+underground current   &&   地下电流
+underground explosion   &&   地下爆炸
+underground feeder   &&   地下馈电线
+underground hydraulic power plant   &&   地下水电厂
+underground laying   &&   地下敷设
+underground liquefied petroleum gas stor-age   &&   地下液化石油气储存库
+underground pipeline   &&   地下管道
+underground plow   &&   地下开沟犁(敷电缆用)
+underground room   &&   地下室
+underground substation   &&   地下变电所
+underground transmission   &&   地下输电
+underhood   &&   ①发动机舱②发动机罩
+underhung crane   &&   下悬起重机
+underlap   &&   ①欠重叠②欠遮盖
+underline   &&   下划线 底线
+underload equipment   &&   轻载设备，欠载设备
+underload relay   &&   负载不足继电器，轻载继电器，低负荷继电器
+underload starter   &&   轻载(电动机)启动器
+underload switch   &&   轻载开关，小型开关
+undermodulation   &&   调制不足，欠调制，慢化不足，欠慢化(反应堆)
+underplate   &&   底板，底座
+underpower   &&   低功率
+underpower protection   &&   低功率保护(装置)
+underpower relay   &&   功率不足继电器，低功率继电器
+underpressure   &&   压力不足
+underreaching protection   &&   继电器失灵保护(装置)
+underreaching relay   &&   欠灵继电器
+underrun protection   &&   防尾追钻底护栏
+undersaturated exciter   &&   欠饱合励磁机
+underscreen   &&   发动机舱底板
+undersea buoy system   &&   水下浮标系统
+underseal   &&   底部涂层
+undershield   &&   发动机舱底板
+undershoot   &&   下冲，负脉冲信号，负尖峰
+undershot wheel   &&   下冲式水轮
+underside   &&   下面，下侧
+undersize forging   &&   尺寸不足锻件
+underslung car frame   &&   悬吊罐笼架(电梯)
+underslung engine   &&   悬吊式发动机
+underslung worm transmission   &&   下置蜗杆式传动
+undersquare engine   &&   缸径小于行程的发动机，气缸直径小于活塞行程的发动机
+understandability   &&   可理解性
+understeer   &&   不足转向
+understressing   &&   应力不足
+undersynchronous braking   &&   低于同步制动，次同步制动
+underthrow distortion   &&   欠幅失真
+undertread   &&   带束层
+undervoltage   &&   电压不足
+underwater absorption meter   &&   水下吸收仪
+underwater acoustic   &&   水(下)声学
+underwater acoustic communication set   &&   水下通讯装置
+underwater acoustic measurement   &&   水声测量
+underwater acoustic transducer   &&   水声换能器
+underwater camera   &&   水下照相机
+underwater communication system   &&   水下通讯装置
+underwater holography   &&   水下全息摄影
+underwater irradiance meter   &&   水下辐照度计
+underwater lighting system   &&   水下照明装置
+underwater movie camera   &&   水下电影摄影机
+underwater panoramic camera   &&   水下全景照相机
+underwater polarimeter   &&   水下偏振仪
+underwater radiance meter   &&   水下辐射率计
+underwater scattering meter   &&   水下散射仪
+underwater sound   &&   水(下)声学
+underwater sound integrated measuring set   &&   水声综合测量仪器
+underwater sound test tank   &&   水声试验水池
+underwater telephone   &&   水下电话
+underwater television   &&   水下电视
+underwater television camera   &&   水下电视摄像机
+underwater towed system   &&   水下拖曳系统
+underwater towed vehicle   &&   水下拖曳体
+underwater transducer array   &&   水声换能器基阵
+underwater transmissometer   &&   水下透射率仪
+underwater vehicle   &&   水下运载工具
+underwater visibility   &&   水下能见度
+underwater window   &&   水下“窗口”
+undetected error rate   &&   未被检查出的误差率
+undetermined components   &&   非测组分
+undeveloped settings   &&   试切前调整
+undistorted output   &&   不失真输出
+undistorted power output   &&   不失真功率输出
+undistorted signal   &&   不失真信号
+undistorted transmission   &&   不失真传输
+undistorted wave   &&   不失真波，无畸变波
+undisturbed stream   &&   未扰动流
+undisturbed wave   &&   未扰动波，静止波
+undisturbed-one output   &&   未扰动“1”输出
+undisturbed-zero output   &&   未扰动“0”输出
+undo   &&   放弃 复原
+undriven roll   &&   空转辊，从动辊
+undue   &&   不适当的，过度的
+undulating quantity   &&   波动量，脉动量
+undulating surface   &&   波动面
+undulation   &&   ①波动②起伏
+undulator   &&   ①波纹收报机②波纹印码机
+undulatory current   &&   波动电流
+unearthed voltage transformer   &&   不接地型电压互感器
+unenclosed relay   &&   敞开式继电器
+uneven temperature distribution   &&   不均匀温度分布
+unexcited salient-pole synchronous machine   &&   未激励凸极同步电机
+unexcited state   &&   未激态
+unfavorable phase   &&   不利相位
+unfired tube   &&   非点火管
+unformatted diskette   &&   无格式软磁盘
+unformatted display   &&   无格式显示
+unformatted image   &&   无格式图像
+unformatted record   &&   无格式记录
+unformatted system services   &&   无格式系统服务
+unfused switch   &&   无熔断器式开关，无熔丝开关
+ungrounded bridge   &&   不接地电桥
+ungrounded supply system   &&   不接地供电系统
+unhide   &&   显示，取消隐藏
+unialignment tool   &&   单一调整工具
+uniaxial crystal   &&   单轴晶体
+uniaxial extension   &&   单轴延伸
+uniaxial loading   &&   单轴负载
+uniaxial magnetic anisotropy   &&   单轴磁(畴)各向异性
+uniaxial orientation   &&   单轴取向
+uniaxial semiconductor   &&   单轴半导体
+uniaxial strain gauge   &&   单轴应变计
+uniaxial tensile deformation   &&   单轴拉伸形变
+unibus   &&   单一总线
+unicity principle   &&   单一性原理
+unicoil winding   &&   单线圈绕组
+uniconductor   &&   单导体，单导线
+uniconductor waveguide   &&   单导体波导
+unicontrol   &&   ①单向控制，单向调整②单钮调谐，同轴调谐
+unicrystalloid silicon thermistor   &&   单晶硅热敏电阻器
+unicursal equation   &&   单行方程
+unicyclic graph   &&   单循环图
+unidiameter joint   &&   等径接头(电缆)
+unidirection flow of information   &&   单向信息流
+unidirectional amplifier   &&   单向放大器
+unidirectional antenna   &&   单向天线
+unidirectional bus   &&   单向母线
+unidirectional conductivity   &&   单向电导率
+unidirectional converter   &&   单向变换器
+unidirectional coupler   &&   单向耦合器
+unidirectional current   &&   单向电流
+unidirectional diffusion   &&   单向扩散
+unidirectional element   &&   单向组件
+unidirectional illumination   &&   单向照明
+unidirectional log-periodic antenna   &&   单向对数周期天线
+unidirectional magnetization   &&   单向磁化
+unidirectional pulse   &&   单向脉冲
+unidirectional pulse-amplitude modulation   &&   单向脉冲调制
+unidirectional relay   &&   单向继电器
+unidirectional rotation   &&   单向旋转
+unidirectional shear flow   &&   单向剪切流
+unidirectional transducer   &&   单向转换器，单向换能器，单向传感器
+unidirectional transmission   &&   单向传输
+unified atomic mass unit   &&   统一原子质量单位
+unifilar winding   &&   单线绕组
+uniflow   &&   单流
+uniflow boiler   &&   直流式锅炉，单流式锅炉
+uniflow engine   &&   单流式蒸汽机，单流发动机
+uniflow scavenging   &&   直流扫气
+uniflow type compressor   &&   单流式压缩机
+uniflux   &&   ①单向流②均匀通量
+unifluxor   &&   匀磁线
+uniform   &&   统一的，一致的
+uniform acceleration   &&   等加速度
+uniform codes   &&   等距码，均匀码
+uniform cooling   &&   均匀冷却
+uniform corrosion   &&   均匀腐蚀
+uniform current density   &&   均匀电流密度，等电流密度
+uniform dielectric   &&   均匀介质
+uniform diffuser   &&   均匀漫射体
+uniform diffuser reflection   &&   均匀漫反射
+uniform diffuser transmission   &&   均匀漫透射
+uniform electric field   &&   均匀电场
+uniform extension   &&   均匀伸长
+uniform function   &&   单值函数
+uniform lighting   &&   均匀照明
+uniform line   &&   均匀线
+uniform linear array   &&   均匀线性天线阵
+uniform magnetic field   &&   均匀磁场，均强磁场
+uniform magnetization   &&   均匀磁化
+uniform mode   &&   均匀模式
+uniform motion   &&   等速运动规律
+uniform plane wave   &&   均匀平面波
+uniform probability design   &&   均匀概率设计
+uniform quantizer   &&   均匀量化器
+uniform roll   &&   匀速滚动
+uniform section   &&   均匀截面
+uniform stability   &&   一致稳定性
+uniform temperature distribution   &&   均匀温度分布
+uniform temperature zone   &&   均温区
+uniform temperature zone length   &&   均热带长度
+uniform velocity   &&   等速
+uniform velocity tester   &&   匀速试验机
+uniform waveguide   &&   均匀波导
+uniformity of table motion   &&   台面运动的均匀度
+uniformity ratio of illumination   &&   照度均匀度
+uniformity trial   &&   均一性试验
+uniformization   &&   均匀化，一致化，单值化
+uniformization theory   &&   单值化理论
+uniformly distributed load   &&   ①均匀分布载荷重，等分布载荷重②均匀分布负载，等分布负荷
+uniformly doped region   &&   均匀掺杂区
+uniformly loaded cable   &&   均匀加载电缆
+unifrequency   &&   单频(率)
+unijunction   &&   单结
+unijunction transistor   &&   单结晶体管
+unilateral amplifier   &&   单向放大器
+unilateral antenna   &&   单向天线
+unilateral audio track   &&   单边声槽，单边声迹
+unilateral bearing   &&   单向方位
+unilateral conduction   &&   单向导电
+unilateral conductivity   &&   单向传导率，单向电导率
+unilateral connection   &&   单向连接
+unilateral constraint   &&   单侧约束
+unilateral diode   &&   单向二极管
+unilateral element   &&   单向组件
+unilateral gain   &&   单向增益
+unilateral gear   &&   单侧齿轮
+unilateral impedance   &&   单向阻抗
+unilateral matching   &&   单向匹配
+unilateral network   &&   单向网络
+unilateral sound track   &&   单边声槽，单边声迹
+unilateral switch   &&   单向开关，单边开关
+unilateral tolerance   &&   单向公差
+unilateral transducer   &&   单向转换器，单向换能器
+unilateral transmission   &&   单侧传动
+unilateral winding   &&   ①单向绕组②单向绕法
+unilateralization   &&   单向化
+unilayer   &&   单层
+unimodal function   &&   单峰函数
+unimolecular reaction   &&   单分子反应
+uninstall   &&   删除安装 解除安装
+uninsulated   &&   未绝缘的，无绝缘的
+uninsulated conductor   &&   无绝缘导线
+uninsulation   &&   ①未绝缘，不绝缘②不绝热，未绝热
+uninterruptable power system   &&   不间断电源[UPS]
+uninterrupted power supply   &&   不断电电源
+uninterrupted power system   &&   不间断电力系统
+uninterrupted service   &&   无事故运行，不间断服务
+union   &&   并集 联集
+union catalogue   &&   联合目录
+union nut   &&   双端螺母
+unipivot instrument   &&   单枢轴型仪表
+uniplanar filament   &&   单平面灯丝
+unipolar   &&   单极
+unipolar armature   &&   单极电枢
+unipolar conduction   &&   单极传导
+unipolar dynamo   &&   单极发电机
+unipolar field-effect type transistor   &&   单极场效应型晶体管
+unipolar flux   &&   单极磁通
+unipolar generator   &&   单极发电机
+unipolar induction   &&   单极感应
+unipolar machine   &&   单极电机
+unipolar pulse   &&   单极脉冲
+unipolar transistor   &&   单极晶体管
+unipolar transmission   &&   单极传输
+unipole antenna   &&   单极天线，无方向性天线
+unipotential electron gun   &&   单电位电子枪
+unipotential electrostatic lens   &&   单电位静电透镜
+unipotential gun   &&   单电位电子枪
+unipump   &&   单一泵
+unipunch   &&   单孔穿孔(器)
+unique   &&   单值的，惟一的
+unique value   &&   惟一值
+uniquefeature   &&   特点，特色
+uniqueness   &&   ①单值性②惟一性
+uniselector   &&   旋转式选择器
+uniselector distribution frame   &&   旋转式选择器配线架
+unisotropy   &&   非各向同性
+unisparker   &&   单一发火器，单一火花发生器
+unit   &&   ①单位(物理量等的)②单元
+unit antenna   &&   单位天线，半波天线
+unit area   &&   单位面积
+unit area acoustic impedance   &&   声阻抗率
+unit assembly drawing   &&   部件装配图
+unit auxiliary   &&   单元机组辅助设备
+unit brightness   &&   单位亮度
+unit cable   &&   组合电缆
+unit call   &&   通话单位
+unit capacity   &&   单位容量
+unit cell   &&   单晶胞
+unit charge   &&   单位电荷
+unit circle   &&   单位圆
+unit construction computer   &&   组件式计算机
+unit construction principle   &&   组合结构原理
+unit control   &&   部件控制，单元控制，单位控制
+unit conversion   &&   单位换算
+unit cooler   &&   制冷机组
+unit core   &&   单位磁心
+unit deformation   &&   单位变形
+unit diagnostics   &&   部件诊断(程序)
+unit die   &&   组合压铸型
+unit dies   &&   成套模具
+unit dislocation   &&   单元位错
+unit efficiency   &&   机组效率
+unit electric flux   &&   单位电通量
+unit electrostatic charge   &&   单位静电荷
+unit energy   &&   单位能量
+unit energy cost   &&   单位能量成本
+unit error   &&   单位误差
+unit feedback   &&   单位反馈
+unit feeder   &&   单馈电线，单馈线
+unit fuel injector   &&   整体式喷油器
+unit horse-power   &&   单位马力
+unit impulse   &&   单位脉冲，单位冲击
+unit impulse response   &&   单位脉冲响应
+unit installed capacity   &&   单位装机容量
+unit insulator   &&   单元绝缘子(绝缘子串中的)
+unit interval   &&   单位间隔
+unit interval at the commutator   &&   在换向器上的单位间隔
+unit length   &&   单位长度
+unit line   &&   单位线，单位线路
+unit load   &&   单位负载，单位负荷
+unit loading device   &&   成组装载设备
+unit magnetic pole   &&   单位磁极
+unit mass   &&   单位质量
+unit mold   &&   单元式模具
+unit of heat   &&   热单位
+unit of luminous intensity   &&   光强单位
+unit of measurement   &&   测量单位
+unit of work   &&   功单位
+unit operation   &&   单元操作
+unit operator   &&   单位算予
+unit pole   &&   单位磁极
+unit positive charge   &&   单位正电荷
+unit potential   &&   单位电势，单位电位
+unit power   &&   单位功率
+unit power plant   &&   成套动力装置
+unit pressure   &&   单位压力
+unit process   &&   单元过程，单元作业
+unit pump   &&   整体泵
+unit quantity of electricity   &&   电学单位电量
+unit record   &&   单元记录
+unit record device   &&   单元记录装置
+unit record principle   &&   单位记录法
+unit relay   &&   单元继电器
+unit resistance   &&   电阻系数，电阻率，单位电阻
+unit resolution   &&   单位分辨
+unit resolution mass   &&   单位分辨质量
+unit sampling   &&   单位取样，单位抽样
+unit sequence starting relay   &&   单位顺序启动继电器
+unit sequence switch   &&   单位顺序开关
+unit shaft system   &&   单轴制
+unit signal   &&   单位信号
+unit speed   &&   单位转速②(水轮机的)比速
+unit step   &&   单位阶跃
+unit step function   &&   单位阶跃函数
+unit strain   &&   单位应变
+unit stress   &&   单位应力
+unit string   &&   单字符串
+unit substation   &&   成套变电所，单元变电所
+unit substation transformer   &&   成套变电所变压器，单元变电所变压器
+unit switch   &&   单元开关，组合开关
+unit tension   &&   单位拉力
+unit tensor   &&   单位张量
+unit testing   &&   单元测试
+unit time   &&   单位时间
+unit torque gradient   &&   单位转矩梯度
+unit trip   &&   单元机组解列
+unit tube   &&   单位管(包含单位通量的管)
+unit under test   &&   在试设备
+unit value   &&   单位值
+unit vector   &&   单位矢量
+unit voltage   &&   单位电压
+unit volume   &&   单位体积
+unit vulcanizer   &&   单元硫化机
+unit warm up time   &&   (机组)暖机时间
+unit weight   &&   单位权，单位重量
+unit-area acoustic impedance   &&   声阻抗率，单
+unit-area capacitance   &&   单位面积电容
+unit-distance code   &&   单位距离码
+unit-exciter scheme   &&   单式励磁机方案
+unit-heater   &&   供暖机组
+unit-impulse signal   &&   单位脉冲信号
+unit-power construction cost   &&   单位(千瓦)造价
+unit-ramp function   &&   单位斜坡函数
+unit-step current   &&   单位阶跃电流
+unit-step function   &&   单位阶跃函数
+unit-step voltage   &&   单位阶跃电压
+unit-type cable   &&   单元式电缆
+unitary air conditioner   &&   整体式空气调节器
+unitary algebra   &&   单式代数
+unitary analysis   &&   单价分析
+unitary construction   &&   ①整体结构②整体承载式车身
+unitary gas conversion process   &&   单元气体转化过程，单元气转化过程
+unitary gas thermal polymerization   &&   单元气体热聚合
+unitary process   &&   单元过程，单元气转化过程
+unitary ratio   &&   单位换算比
+uniterm   &&   单一项目，单元名词
+uniterm system   &&   单项系统，单元名词系统
+unitization   &&   成组化
+unitized construction   &&   ①整体结构②整体承载式车身
+unitized design   &&   组合设计
+unitool   &&   曲面镶片刀
+unitor   &&   “或”门
+unitray ratio   &&   单位换算比
+units   &&   部件
+unituning   &&   单钮调谐
+unitunnel diode   &&   单隧道二极管
+unity coupling   &&   全耦合，整体耦合
+unity feedback   &&   全反馈
+unity gain bandwidth   &&   单位增益频宽
+unity power factor   &&   整功率因素
+univalence   &&   单价
+univalency   &&   单价
+univalent   &&   单价，单叶
+univalent correspondence   &&   单值对应
+univalent function   &&   单叶函数
+univariate analysis   &&   单变分析
+universal 2-axis slant bed machine   &&   双轴斜床身万能机床
+universal Turning machine   &&   通用图灵机
+universal asynchronous receiver transmitter   &&   通用异步收发两用机
+universal attachment   &&   通用附件
+universal autocollimator   &&   通用自动准直仪
+universal automatic computer   &&   通用自动计算机，通用电子计算机
+universal avometer   &&   万用表
+universal balancing machine   &&   通用平衡机
+universal beam mill   &&   万能式钢梁轧机铣床
+universal bench mill   &&   万能台式铣床
+universal bender   &&   万能弯管机
+universal blower   &&   通用鼓风机
+universal borer   &&   万能镗床
+universal boring and drilling machine   &&   万能镗钻两用机床
+universal boring machine   &&   万能镗床
+universal bridge   &&   通用电桥，万能电桥
+universal buffer-controller   &&   通用缓冲控制器
+universal centre-type grinding machine   &&   万能中心磨床
+universal change-over switch   &&   万能转换开关
+universal chuck   &&   通用卡盘
+universal classification system   &&   通用分类系统
+universal claw   &&   万能拆装器
+universal coal cutter   &&   万能截煤机
+universal code   &&   通用密码
+universal coil   &&   通用线圈
+universal combined punching and shearing machine   &&   万能联合冲剪机
+universal comparator   &&   通用比长仪
+universal contact   &&   万能接头
+universal container   &&   通用集装箱
+universal controller   &&   万用控制器
+universal coupler   &&   通用联接器，通用联轴节
+universal crane   &&   万能起重机
+universal cutter   &&   通用刀具，普通刀具
+universal cutter and tool grinder   &&   万能工具磨床
+universal digital computer   &&   通用数字计算机
+universal drafting machine   &&   万能绘图机
+universal drive shaft   &&   万向传动轴
+universal driving shaft   &&   联动轴
+universal electronic tube   &&   通用电子管
+universal engine stand   &&   发动机万能试验台
+universal fatigue machine   &&   通用疲劳试验机
+universal folding machine   &&   万能折弯机
+universal forging mill   &&   万能锻造机，万向锻造机
+universal fractional-horsepower commutator motor   &&   万能微型换能器电动机
+universal fuse links   &&   通用熔线，通用熔断片
+universal galvanometer   &&   通用电流计
+universal gas chromatograph   &&   通用气相色谱仪
+universal gear testing machine   &&   万能齿轮试验机
+universal grinder   &&   万能磨床
+universal head loss coefficient   &&   通用压头损失系数
+universal instrument   &&   通用仪表
+universal interconnecting device   &&   通用连接装置，通用连接器件
+universal internal grinder   &&   万能内圆磨床
+universal joint   &&   万向节
+universal knee-and-column milling machine   &&   万能升降台式铣床
+universal lathe   &&   万能车床
+universal lever   &&   通用杠杆
+universal machine   &&   ①通用电机②万能工作机械，通用机械
+universal machine language equipment register   &&   通用电机计算机语言设备寄存器
+universal machine works   &&   通用机械厂
+universal material testing machine   &&   万能材料试验机
+universal measuring instrument   &&   通用测量仪表
+universal metal   &&   通用铅合金
+universal meter   &&   通用电表，万用表
+universal mill   &&   万能轧机
+universal milling and boring machine   &&   万能铣镗机床
+universal milling machine   &&   万能铣床
+universal mold   &&   通用模具
+universal motor   &&   通用电动机，交直流两用电动机
+universal output transformer   &&   万用输出变压器
+universal planer   &&   万能刨床
+universal polar stereographic projection   &&   通用极球面投影[UPS]
+universal pressure boiler   &&   通用压力锅炉
+universal product code   &&   通用产品码
+universal pulling machine   &&   万能拔桩机
+universal radial drill   &&   万能摇臂钻床
+universal radial drilling machine   &&   万能摇臂钻床
+universal receiver   &&   通用接收机，交直流两用电动机
+universal relieving lathe   &&   万能铲齿车床
+universal resonance curve   &&   通用谐振曲线
+universal rolling   &&   万能轧制
+universal sawing machine   &&   万能锯床
+universal shaper   &&   万能牛头刨床
+universal shaping machine   &&   万能牛头刨床
+universal shearing and punching machine   &&   万能剪冲床
+universal slotting machine   &&   万能铲床
+universal spindle reciprocating table grinding machine   &&   万能往返式工作台磨床
+universal stand   &&   通用支架
+universal strength testing machine   &&   万能强度试验机
+universal switch   &&   万能开关
+universal test ammeter   &&   交直流试验安培计
+universal testing machine   &&   万能试验机
+universal thread grinding machine   &&   万能螺纹磨床
+universal tongs   &&   万能钳
+universal tool grinding machine   &&   万能工具磨床
+universal tool milling machine   &&   万能工具铣床
+universal toolmaker's microscope   &&   万能工具显微镜
+universal turning tool   &&   万能车刀
+universal type   &&   通用式
+universal upsetting and welding machine   &&   万能镦锻焊接机
+universal valve   &&   通用电子管
+universal vise   &&   万向虎钳
+universal-joint driving   &&   万向节传动
+univibrator   &&   单稳态多谐振荡器
+unjacketed fording   &&   无包套锻造
+unknown number   &&   未知数
+unknown quantity   &&   未知量
+unladen weight   &&   空载质量
+unleaded gasoline   &&   无铅汽油
+unlike polarity   &&   异极性
+unlike poles   &&   异名极
+unload   &&   卸载 释放
+unload antenna   &&   无载天线
+unloaded Q   &&   无载Q值
+unloaded circuit   &&   无载电路
+unloader   &&   卸载机
+unloader valve   &&   气压调节阀
+unloading   &&   ①放空②排污
+unloading amplifier   &&   去负载放大器
+unloading circuit   &&   转储线路，空载电路
+unloading conveyor   &&   卸载传送机
+unlocking   &&   松开，解开，释放
+unmanned aircraft   &&   无人驾驶飞机
+unmanned submersible   &&   无人潜水器
+unmatched load   &&   非匹配负载
+unmodulated control system   &&   无监视控制系统
+unmodulated signal   &&   未调(制)信号
+unmodulated wave   &&   未调(制)波
+unnamed blocks   &&   无名块 未具名块
+unoccupied band   &&   自由能带，空带
+unoccupied level   &&   未(占)满能级
+unoccupied time   &&   未占线时间
+unpack   &&   分开
+unpaired electron   &&   不成对电子
+unpolarized light   &&   非偏振光
+unregulated voltage   &&   未调节电压
+unreliability   &&   不可靠(性)，不安全(性)
+unreliability function   &&   不可靠性函数
+unressonable   &&   不合理、没有道理
+unrestorable system   &&   非恢复系统
+unrestricted gate   &&   无阻浇口
+unroll   &&   解开，展开
+unsaturated current transformer   &&   不饱和电流互感器
+unsaturated standard cell   &&   不饱和标准电池
+unsaturated steam   &&   不饱和蒸汽
+unscrewing mold   &&   退扣式模具
+unserviceability   &&   ①使用不可靠性，运转不安全性②不实用性
+unshared-electron   &&   未共价电子，未共享电子
+unshielded cable   &&   无屏蔽电缆
+unshorting   &&   消除短路
+unsolder   &&   焊开，烫开
+unsoluble cutting oil   &&   不水溶性油质切削剂
+unsoundness   &&   缺陷
+unspring axle   &&   簧下轴
+unspring mass   &&   ①非簧载质量 ②悬架弹簧以下部件质量
+unspring weight   &&   ①非簧载质量 ②悬架弹簧以下部件质量
+unstable aircraft   &&   不稳定飞行器
+unstable operation   &&   不稳定运转
+unstable running   &&   不稳定运转
+unstable system   &&   不稳定系统
+unsteady flow   &&   不稳定流
+unstructured Decision   &&   非结构化决策
+unsuitable value   &&   不适合(的)值，不适用值
+unsymmetrical fault   &&   不对称故障
+unsymmetrical load   &&   不对称负载，不对称负荷
+unsymmetrical oscillations   &&   不对称振荡
+unsymmetrical winding   &&   ①不对称绕组②不对称绕法
+unsymmetry   &&   不对称性
+untunable magnetron   &&   不可调磁控管
+untuned   &&   未调谐的
+untuned antenna   &&   非调谐电路
+untuned iron-core transformer   &&   未调谐铁心变压器
+untwinned martensite   &&   非孪晶马氏体
+unuqueness theorem   &&   ①单值性定理②惟一性定理
+unusual service condition   &&   不正常工作条件
+unwind   &&   程序展开
+unwinder   &&   退绕机
+unyoked core   &&   无轭铁心
+up cut milling   &&   逆铣加工
+up level   &&   高电平
+up milling   &&   逆铣
+up stripper   &&   上脱料板
+up time   &&   正常运行时间
+up-coiler   &&   地上卷曲机
+up-converter   &&   上变频器
+up-cut milling   &&   逆铣
+up-cut shear   &&   上切式剪切机，下刃运动剪切机
+up-down counter   &&   升降计数器，正反计数器，双向计数器
+up-line   &&   上行线路
+up-roll   &&   向上滚动
+updating   &&   更新 更新
+updraft boiler   &&   塔式锅炉
+updraft carburetor   &&   上吸式化油器
+updraft furnace   &&   向上通风炉
+updraught   &&   上吸
+updraught carburetor   &&   上吸式化油器
+upend forging   &&   冲挤锻造，镦粗成形模锻
+upending   &&   镦粗，顶锻
+upped bit   &&   ①镶硬质合金钻头②焊接车刀
+upper beam   &&   远光,前照灯的远光
+upper bearing chock   &&   上轴承座(轧辊的)
+upper bearing unit front suspension   &&   前悬架上支承
+upper body carburetor   &&   化油器上本体
+upper bracket   &&   上支架，上支座
+upper control limit   &&   控制上限，行动上限
+upper critical Mach number   &&   上临界马赫数
+upper cut-off frequency   &&   上限截(止)频(率)
+upper dead center   &&   上止点
+upper derivate   &&   上导数
+upper die base   &&   上模座
+upper frequency limit   &&   频率上限
+upper guide bearing   &&   上导向轴承
+upper half bearing bracket   &&   上半部轴承座
+upper half-power frequency   &&   半功率频率上限
+upper harmonic   &&   高次谐波
+upper holder block   &&   上压块
+upper horizontal flue   &&   上横气道
+upper hose radiator outlet   &&   冷却液上橡胶软管
+upper integral   &&   上积分
+upper limit of the nominal of use for frequency   &&   标称使用频率范围上限
+upper mid plate   &&   上中间板
+upper operating temperature   &&   上限运行温度
+upper padding plate blank   &&   上垫板
+upper plate   &&   上模板
+upper punch   &&   上冲头，上凸模
+upper semi-continuum   &&   上半连续
+upper semi-lattice   &&   上半格
+upper send-mould   &&   上半模(阳模)
+upper sideband   &&   上边(频)带，高旁(频)带
+upper spring retainer   &&   上弹簧座
+upper steering shaft   &&   上转向轴
+upper supporting blank   &&   上承板
+upper tension spring   &&   上拉力弹簧
+upper valve spring retainer   &&   上气门弹簧座
+upper winding-bar   &&   上层绕组铜条
+upper yield point   &&   上屈服点
+upper-air observation   &&   高空观测
+upright core   &&   直立铁心
+upset   &&   镦，镦粗
+upset butt welding   &&   镦压对焊，电阻对焊
+upset forging machine   &&   镦锻机，平锻机
+upset welding   &&   镦压焊接
+upsetter   &&   镦锻机，平锻机
+upsetter forging   &&   平锻机锻造
+upsetter forging press   &&   镦锻机，平锻机
+upsetting   &&   镦锻，平锻，镦粗
+upsetting die   &&   镦锻模
+upsetting machine   &&   镦锻机，平锻机，顶锻机
+upsetting test   &&   镦粗试验
+upside Down   &&   倒置 上下颠倒
+upslope time   &&   电流渐增时间
+upward   &&   向上
+upward stroke   &&   上冲程
+upward terrestrial radiation   &&   向上地球辐射
+upward total radiation   &&   向上(全)辐射
+upward welding   &&   仰焊
+uranimn-base fuel   &&   铀基燃料
+uranium   &&   铀
+uranium atomic pile   &&   铀原子(反应)堆
+uranium enriching plant   &&   铀浓缩工厂
+uranium enrichment   &&   铀浓缩
+uranium fission   &&   铀核裂变
+uranium furnace   &&   铀反应堆
+uranium rays   &&   铀射线
+uranium separation   &&   铀分离
+uranium-deuteroxide lattice   &&   铀重水栅格(反应堆)
+uranothorite   &&   铀钍矿
+urban cycle   &&   市区循环
+urban distribution   &&   城市配电
+urban power distribution   &&   城市配电
+urban telephone   &&   市内电话
+urea enzyme sensor   &&   酶(式)尿毒传感器
+urea enzyme transducer   &&   酶(式)尿毒传感器
+urgent call   &&   加急电话
+urgent signal   &&   紧急信号
+urgent telegram   &&   加急电报
+urinary bladder inner pressure sensor   &&   膀胱内压传感器
+urinary bladder inner pressure transducer   &&   膀胱内压传感器
+usability   &&   可使用性，使用性能
+usable cross-section of the test channel   &&   试验流道的可用横截面
+usable minimum immersion depth   &&   最小可用浸入深度
+usable sensitivity   &&   可用灵敏度
+use of emergency alarm   &&   用于报警
+useful area   &&   有效面积，有用面积
+useful capacity   &&   有效出力，有用容量
+useful cross-section   &&   有效截面，有用截面
+useful efficiency   &&   实用效率，工作效率
+useful flux   &&   有效磁通，有用磁通
+useful life   &&   使用寿命
+useful luminous flux   &&   有效光通，有用光通
+useful numbers   &&   常用电话号码
+useful output   &&   有效出力，有用出力
+useful picture area   &&   有效图像面积
+useful resistance   &&   有益阻力
+useful spectral range   &&   有效光谱范围
+useful steam consumption   &&   有效汽耗
+useful torque   &&   有效转矩，有用转矩
+useful voltage   &&   有用热功率
+useful work   &&   有效功，有用功
+useless resistance   &&   有害阻力
+uselessness   &&   无用、浪费
+user   &&   用户
+user Program   &&   用户程序
+user adjustment   &&   用户调整
+user area   &&   用户区
+user attribute   &&   用户属性
+user attribute data set   &&   用户属性数据集[UADS]
+user block handling routine   &&   用户块处理程序[UBHR]
+user command   &&   用户命令
+user control store   &&   用户控制存储
+user coordinate system   &&   用户坐标系 使用者座标系统[UCS]
+user data set   &&   用户数据集
+user identification   &&   用户标志
+user information   &&   用户信息
+user interface program   &&   用户接口程序[UIP]
+user layer   &&   用户层
+user number   &&   用户号码，用户代号
+user-Friendly   &&   用户友好性
+user-accessible graphics subroutine   &&   用户可访问的绘图子程序
+user-accessible register   &&   用户可访问寄存器
+user-accessible subroutine   &&   用户可访问子程序
+user-generated assembly program   &&   用户汇编程序
+user-oriented subroutine   &&   面向用户的子程序
+user-to-user service   &&   用户对用户业务
+ute   &&   轻型商用车，客货两用车
+utilance   &&   光通利用率
+utility facility program   &&   实用设备程序[UFP]
+utility routine   &&   服务程序，实用程序，实用例行程序
+utility software   &&   实用软件
+utilization factor   &&   利用系数
+utilization factor of equipment and installations   &&   设备利用率，设备利用系数
+utilization of energy   &&   能量利用
+utilization of industrial waste heat in district heat supply   &&   工业余热供热
+utilization of steam   &&   蒸汽利用
+utilization ratio   &&   利用率
+utilize   &&   利用
+utopian   &&   乌托邦的，理想化的
