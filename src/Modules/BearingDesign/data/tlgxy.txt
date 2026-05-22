@@ -1,2 +1,0 @@
-ID|d_1X|d_1Y|s_0X|s_0Y|s_1X|s_1Y|e
-1|tana|1|1.5tana|0.67|tana|1|1.5tana
