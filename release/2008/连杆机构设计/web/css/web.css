@@ -1,0 +1,20 @@
+.Title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #990000;
+}
+.thth {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+td {
+	font-family: "ËÎÌו";
+	font-size: 14px;
+	line-height: 16px;
+	padding: 6px;
+}
+body {
+	margin: 1px;
+}

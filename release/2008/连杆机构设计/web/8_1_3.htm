@@ -1,0 +1,189 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">特殊曲线绘制机构</span></td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>椭圆规机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/732.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 图中滑块1、3在十字滑槽中移动，并以铰链A、B与连杆2连接，连杆上C 点的轨迹为椭圆。C点在连杆上的位置可以调节，令 AB=a、BC=b，C点在直角坐标系中的位置为x、y， 则 <br>
+        <img src="images/73_1.gif" width="101" height="47"><br>
+        　　 连杆2上除AB的中点的轨迹为圆外，其余各点 的轨迹均为椭圆，用它们可画出各种椭圆，长半轴为（a＋b）、短半轴为b。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>行星轮椭圆轨迹机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/733.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 中心内齿轮2为固定轮，系杆OC作主动件带动行星轮1在轮2内运动，轮2的节圆半径等于轮1的节圆直径。 固联在行星轮1上的杆BM随轮l一起运动，在节圆外BM上任一点M的轨迹为椭圆。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>铰链六杆椭圆轨迹机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/734.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 铰链六杆机构中AB=BC、BD=DM=BE=EM，当以 AB为主动件转动时，M点的轨迹为椭圆，其长轴与AC重合。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>双曲线轨迹机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/735.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 四杆机构ABCD的杆长AB=CD、BC=AD，导杆3、4各与滑块2、l组成移动副，滑块1、2铰接于M，则M点的运动轨迹是以D为焦点的双曲线。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>截锥曲线绘制机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/741.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 图a所示绘制截锥曲线的克姆普别尔机构是由四铰链菱形机构ABCD 与活动导槽1、4滑块2、3、5等组成。当机构按图b 放置时，其M点的轨迹为椭圆；按图C则M点轨迹为抛物线；按图d则M点轨迹为双曲线。绘制双曲线时，PK杆末端的P应沿直线EE滑动，并使PK杆始终垂直于EE。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>摆线正多边形轨迹机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/742.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 图中内齿轮1固定，系杆O 1 O 2 带动行星轮2在轮1内啮合转动。齿轮2节圆上任一点的轨迹为内摆线。轮2外部固联某点M的轨迹为外点内余摆线。适当选择轮1、2的节圆半径比及M点的位置，用M点可画出近似直线的正多边形。如轮 2、1的节圆半径比为 r2：r1= 2：3，点M轨迹为正三角形；r2：r1=3：4为正四边形； r2：r1=4：5为正五边形；r2：r1=5：6为正六边形。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

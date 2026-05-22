@@ -1,0 +1,2392 @@
+G-bias   &&   栅极偏压
+G-flow   &&   格里森制金属件的商标，采用冷挤压成形法
+G-form   &&   采用热锻成形法制造
+G-spin   &&   精密主轴的机床
+G-string   &&   嘎吱声
+G-trac   &&   圆柱齿轮的无端链式机床的商标
+GAWR   &&   (Gross Axle Weight Rating (US)) (美)额定总轴荷
+GC   &&   gas chromatography气相层分析
+GDE   &&   (Groupe des Entraves (for dismantling vehicle technical trade barriers) (Europe)) (欧洲)(拆除汽车技术贸易障碍)促进工作组
+GDI   &&   (Gas Direct Injection) 直接汽油喷射
+GGG   &&   (Gadolinium Gallium Garnet) 钆镓石榴石
+GGG Laser Crystals   &&   GGG激光晶体
+GLC   &&   (Gas/Liquid Chromatography) 气/液相层分析
+GLE-sine   &&   砂轮内外压力角正弦波进行修整用机构
+GRIN Lenses   &&   (Graduated Refractive Index Rod) 微小光学，GRIN透镜
+GRP   &&   (Glass Reinforced Plastic) 玻璃纤维强化塑料
+GSGG   &&   钆镓石榴石晶体
+GSGG GSAG Laser Crystals   &&   激光晶体(GSGG,GSAG)
+GT   &&   (Gran Turismo (car)) (汽车车名)格兰·图里斯莫
+GTBA   &&   (Gasoline-Grade Tertiary Butyl Alcohol) 汽油级的叔丁醇
+GTW   &&   (Gross Train Weight) 列车总质量
+GVNTA   &&   (Goods Vehicle National Type Approval) 货车国家定型
+GVTW   &&   (Gross Vehicle Test Weight (US)) (美)汽车试验总质量
+GVW   &&   (Gross Vehicle Weight) 汽车总质量
+GVWR   &&   (Gross Vehicle Weight Rating) 额定汽车总质量
+Galilean refracting telescopes   &&   折射望远镜，Galilean望远镜
+Gamma tandem mirror   &&   伽马6型串联磁镜
+Gauss Kruger projection   &&   高斯-克吕格投影
+Gauss Markov process   &&   高斯-马尔可夫过程
+Gauss Newton method   &&   高斯-牛顿法
+Gauss Seidel method   &&   高斯-赛德尔法
+Gauss cell   &&   高斯电池
+Gauss concentration profile   &&   高斯浓度图
+Gauss distribution   &&   高斯分布
+Gauss error function   &&   高斯误差函数
+Gauss eyepiece   &&   高斯目镜
+Gauss integral   &&   高斯积分
+Gauss integral theorem   &&   高斯积分定理
+Gauss interpolation formula   &&   高斯插值公式
+Gauss law   &&   高斯定律
+Gauss method of reduction   &&   高斯约化法
+Gauss mid-latitude formula   &&   高斯中纬度公式
+Gauss optics   &&   高斯光学
+Gauss peak   &&   高斯峰
+Gauss plane coordinate   &&   高斯平面坐标
+Gauss probability integral   &&   高斯概率积分
+Gauss system of units   &&   高斯单位制
+Gauss theorem   &&   高斯定理
+Gaussian beam   &&   高斯光束
+Gaussian chain   &&   高斯链
+Gaussian constant   &&   高斯常数
+Gaussian curvature   &&   高斯曲率
+Gaussian curve   &&   高斯曲线
+Gaussian distribution   &&   高斯分布
+Gaussian distribution curve   &&   高斯分布曲线
+Gaussian doublet   &&   高斯型双合透镜
+Gaussian elimination   &&   高斯消元
+Gaussian elimination method   &&   高斯消去法
+Gaussian equation   &&   高斯方程
+Gaussian error curve   &&   高斯误差曲线
+Gaussian function   &&   高斯函数
+Gaussian gravitational constant   &&   高斯引力常数
+Gaussian integration method   &&   高斯求积法
+Gaussian law of error   &&   高斯误差定律
+Gaussian line shape   &&   高斯线形
+Gaussian network   &&   高斯网络
+Gaussian normal curve   &&   高斯正态曲线
+Gaussian optics   &&   高斯光学
+Gaussian potential well   &&   高斯势阱
+Gaussian quadrature   &&   高斯求积
+Gaussian random vector   &&   高斯随机向量
+Gaussian stochastic process   &&   高斯随机过程
+Gaussian type orbital   &&   高斯型轨道[GTO]
+Gedge's alloy   &&   格奇含铁黄铜(Cu 60％ Zn 38％，Fe l.5％)
+Geiger   &&   盖革计数管，盖革计数器
+Geiger counter   &&   盖革计数器
+Geiger type vibrograph   &&   盖格尔式测振仪
+Geiger-Muller counter   &&   (G.M.counter)革-米勒计数器
+Geissler pump   &&   盖斯勒泵
+Geissler tube   &&   盖斯勒管
+Geminol   &&   格米诺尔镍铬-镍硅系热电偶
+Gemmer steering gear   &&   吉梅尔转向器
+Genalloy   &&   格纳洛依耐热高镍铬合金钢(Ni 31％～40％，Cr 12％～21％，C O.5％，余为Fe)
+Genarco alloy   &&   吉纳科轴承合金(Sn 89％，Sb 7.5％，Cu 3.5％)
+German Standards Organization   &&   德国工业标准
+German alloy   &&   德国合金(Zn 12％，Cu2％，余为Al)
+German silver   &&   德(国)银(Cu 52％～80％，Zn 10％～35％，Ni 5％～35％)
+Gershum tube   &&   格森管
+Gibbs Duhem relation   &&   吉布斯-杜亨关系
+Gibbs elasticity   &&   吉布斯弹性
+Gibbs free energy   &&   吉布斯自由能
+Gibbs function   &&   吉布斯函数
+Gibbs indophenol test   &&   吉布斯靛酚试验
+Gibbs paradox   &&   吉布斯佯谬
+Gibbs phase rule   &&   吉布斯相律
+Glan-Thomson Prisms   &&   Glan-Thomson棱镜
+Gleason bevel gear cutter   &&   格里森伞齿轮铣刀
+Gleason bevel gear generator   &&   格里森伞齿轮滚齿机，格里森锥齿轮滚齿机
+Gleason bevel gear shaper   &&   格里森伞齿轮刨齿机，格里森锥齿轮刨齿机
+Gleason spiral bevel gear cutter   &&   格里森螺旋伞齿轮滚铣刀
+Gleason spiral bevel gear generator   &&   格里森螺旋伞齿轮滚齿机
+Gleason straight bevel gear cutter   &&   格里森直伞齿轮刨刀
+Gliever lead base bearing metal   &&   格利维尔铅基轴承合金(Pb 76.5％，Sn 8％，Sb l4％，Fe l.5％)
+Gliever zinc base bearing metal   &&   格利维尔锌基轴承合金(Zn 73.3％，Sn 7％，Cu 4.2％，Sb 9％，Pb 5％，Cd l.5％)
+Globeloy   &&   格洛拜洛伊耐热铸铁(Si 6％，Cr 4％，C 2％，Mn 0.5％，余为Fe)
+Gloden Bridge Engineering   &&   “金桥”工程
+Goggles Glasses and Films   &&   激光护眼镜(safty equipment)
+Golden Card Engineering   &&   “金卡”工程
+Golden Pass Engineering   &&   “金关”工程
+Gough-Joule Effect   &&   高夫-朱尔效应
+Grashoff's law   &&   格拉晓夫定理，曲柄存在条件
+Guillaume alloy   &&   铁镍低膨胀系数合金
+Gurney flap   &&   古奈扰流板
+gable   &&   山形齿沟底面
+gable bottom car   &&   尖底车
+gad tongs   &&   平口钳
+gadder   &&   凿孔机，钻机
+gadding machine   &&   凿孔机，钻机，穿孔机，钻头
+gadiometer   &&   磁强梯度计
+gadolinium   &&   钆Gd(64)
+gag   &&   ①矫直，矫正，压平②压紧装置，夹持器
+gag press   &&   压直机，矫正压力机
+gagger   &&   ①辊式矫正机②造型工具，铸模工具③泥心撑，撑子，型心撑④砂钩
+gagging   &&   冷矫正，矫直，压平
+gain   &&   增益，放大
+gain adjustment   &&   增益调整
+gain amplification   &&   增益放大
+gain amplifier   &&   增益放大器
+gain asymptote   &&   增益渐近线
+gain bandwidth   &&   增益带宽
+gain bandwidth product   &&   增益带宽乘积
+gain characteristic   &&   增益特性
+gain constant   &&   增益常数，放大系数，放大率
+gain control   &&   增益调整，增益控制
+gain controller   &&   增益调整器
+gain margin   &&   增益裕度，增益余量
+gain measuring set   &&   增益测量器
+gain of photoconductivity   &&   光电导增益
+gain reduction   &&   增益衰减
+gain set   &&   增音机，扩音机
+gain turndown   &&   增益自动下降
+gain-crossover frequency   &&   增益交越频率
+gaiter   &&   长统橡胶靴, 绑腿
+galactic noise   &&   银河噪扰
+galactic radio   &&   银河射电波，银河无线电波
+galenite   &&   方铅矿
+gall   &&   擦伤
+gallery cable   &&   坑道电缆
+galling   &&   毛边
+gallium   &&   镓Ga(31)
+gallium arsenide laser   &&   砷化镓激光器
+gallium arsenide semiconductor   &&   砷化镓半导体
+gallium arsenide solar cell   &&   砷化镓太阳电池
+gallium nitride   &&   氮化镓
+gallium nitride band gap   &&   氮化镓能带间歇
+gallium phosphide semiconductor   &&   磷化镓半导体
+gallon   &&   加伦 (1加伦=4夸脱=3.785升)
+galloping   &&   飞车(汽油发动机由于燃料混合气过浓而运转不正常)
+gallow pulley   &&   张力惰轮
+gallows   &&   ①吊线机②门式卸卷机
+gallows frame   &&   龙门起重架，门式吊架
+gallows plow   &&   前导轮架式单铧犁，双轮单铧犁
+galvanic   &&   ①电镀的②电流的，电的③镀锌的
+galvanic action   &&   ①电池作用②电镀作用
+galvanic anode   &&   动电正极，动电阳极
+galvanic bath   &&   电镀池，电镀槽
+galvanic cell   &&   原电池
+galvanic corrosion   &&   电(腐)蚀，电池作用腐蚀，电化(学)腐蚀
+galvanic couple   &&   电偶
+galvanic current   &&   动电电流，电流
+galvanic effect   &&   电化学效应，电偶效应
+galvanic electricity   &&   动电，流电
+galvanic etching   &&   电(腐)蚀
+galvanic pile   &&   电堆
+galvanic protection   &&   电化腐蚀防护(金属材料的)
+galvanic series   &&   电势序，电位序，电压序列
+galvanism   &&   电流，流电学
+galvanization   &&   ①镀锌②电镀
+galvanize   &&   镀锌
+galvanized bath   &&   镀锌池
+galvanized bolt   &&   镀锌螺栓
+galvanized corrugated steel   &&   镀锌瓦楞薄钢板
+galvanized iron   &&   镀锌钢材
+galvanized iron sheet   &&   白铁皮
+galvanized sheet   &&   镀锌钢皮
+galvanized sheet gauge   &&   镀锌钢板板规
+galvanized sheet metal   &&   镀锌铁皮
+galvanized sheet steel   &&   镀锌薄钢板
+galvanized steel   &&   镀锌钢
+galvanized steel plate   &&   镀锌钢板
+galvanized steel sheet   &&   镀锌铁板
+galvanized stranded wire   &&   镀锌钢绞线
+galvanized wire   &&   镀锌钢丝，镀锌线
+galvanizing   &&   电镀，镀锌
+galvanizing bath   &&   电镀槽，镀锌槽
+galvanizing brittlement   &&   镀锌脆性
+galvanizing embrittlement   &&   镀锌脆性
+galvanizing flux   &&   镀锌助熔剂
+galvanizing process   &&   电镀程序，电镀法
+galvanizing shop   &&   电镀车间
+galvano acupuncture   &&   电针(刺)疗法
+galvano acupuncture anaesthesia   &&   电针(刺)麻醉
+galvano chemistry   &&   电化学
+galvano luminescence   &&   电解发光
+galvanocautery   &&   电腐蚀，电烧灼
+galvanograph   &&   ①电镀板，电铸版②电流记录图
+galvanography   &&   电镀制版术
+galvanolysis   &&   电解
+galvanomagnetic coefficient   &&   磁场电效应系数
+galvanomagnetic effect   &&   电磁效应
+galvanomagnetism   &&   电磁，电磁学
+galvanometer   &&   电流表，电流计，检流表
+galvanometer oscillograph   &&   电流计示波器
+galvanometer record type strong-motion instrument   &&   电流计记录式强震仪
+galvanometer recorder   &&   电流计记录器，电流计式调光器
+galvanometer recording   &&   电流计记录
+galvanometer with optical point   &&   光点式检流计
+galvanometer-type relay   &&   电流计式继电器
+galvanometry   &&   电流测定法
+galvanoplastic   &&   电铸的
+galvanoplasty   &&   电铸
+galvanoscope   &&   验电器
+game   &&   博奕，对策
+game graph   &&   博奕图
+game of chance   &&   机会对策
+game playing of machine   &&   机器博奕
+game theory   &&   对策论，博弈树
+game tree   &&   博奕树
+game tree search   &&   博奕树检索
+gaming   &&   博奕，对策
+gaming machine   &&   博奕机
+gaming simulation   &&   博奕模拟，对策模拟
+gamma   &&   ①伽马(磁场强度单位)②伽马(希腊字母丁)
+gamma absorption analysis   &&   伽马射线吸收分析
+gamma absorptometer   &&   伽马射线吸收计
+gamma amplifier   &&   伽马放大器(电视的)
+gamma carbon   &&   伽马碳原子
+gamma cellulose   &&   伽马纤维素
+gamma corrected voltage   &&   伽马校正电压
+gamma correction   &&   伽马校正(电视图像灰度校正)
+gamma decay   &&   伽马衰变
+gamma directioned radiometer   &&   伽玛定向辐射仪
+gamma excited X-ray fluorimeter   &&   伽马射线激发X射线荧光分析仪
+gamma exponent   &&   伽马指数
+gamma ferrite   &&   伽马铁
+gamma function   &&   伽马函数
+gamma glucose   &&   伽马葡萄糖
+gamma iron   &&   伽马铁
+gamma position   &&   伽马位
+gamma processing image   &&   处理象
+gamma radiation   &&   伽马辐射
+gamma radiator   &&   伽马辐射体
+gamma radiometer in borehole   &&   井中伽玛辐射仪
+gamma ray   &&   伽马射线
+gamma ray counter   &&   伽马射线计数器
+gamma ray equipment   &&   伽马射线设备
+gamma ray laser   &&   伽马射线激光器
+gamma ray level measuring device   &&   伽马射线液位测量装置
+gamma ray logger   &&   伽玛测井仪
+gamma ray orbitography   &&   伽马射线眼科照相法
+gamma ray spectrometry   &&   伽马射线能谱测量法
+gamma sampling radiometer of banded screen   &&   带屏伽玛取样加射仪
+gamma scintillator radiometer   &&   伽玛闪烁辐射仪
+gamma spectrometer   &&   伽马能谱仪
+gamma spectrometer in borehold   &&   井下伽玛能谱仪
+gamma substitution   &&   伽马位取代
+gamma value   &&   伽马值
+gamma-ray detection apparatus   &&   γ射线探伤机
+gamma-ray spectrometer   &&   伽玛能谱仪
+gamma-rays   &&   射线
+gamma-spectrometry   &&   伽玛测量
+gammagraphy   &&   γ射线照相术
+gammametry   &&   γ射线测量法
+gammasonde   &&   γ探空仪
+gang   &&   ①成组②同轴的，联动的，同调的
+gang adjustment   &&   同轴调整，统调
+gang blanking die   &&   组合落料模，多头冲割模
+gang capacitor   &&   同轴可变电容器，统调电容器
+gang condenser   &&   同轴电容器，电容器组
+gang control   &&   同轴控制，联动控制
+gang cutter   &&   组合铣刀
+gang die forming   &&   群模成形
+gang dies   &&   复合模，多头冲模，顺序动作模
+gang drill   &&   排式钻床，排式钻头
+gang drilling machine   &&   排式钻床
+gang form   &&   成套模板
+gang head   &&   多轴组合头，组合刀具，组刀头
+gang head drilling machine   &&   多轴组合头钻床，组合刀具钻床
+gang mill   &&   ①组合铣刀②框锯
+gang milling   &&   排铣
+gang mould   &&   成组模板
+gang potentiometer   &&   同轴电位器
+gang press   &&   排式压机，复动压力机，联成压机
+gang printer   &&   排字印刷机
+gang punch   &&   成组穿孔，复穿孔，群穿孔
+gang saw   &&   排锯
+gang shear   &&   多刀剪切机
+gang slitter   &&   多刀圆盘剪切机，多刀圆盘剪床
+gang slitting machine   &&   多刀圆盘剪切机，多刀圆盘剪床
+gang switch   &&   联动开关，同轴开关
+gang tool   &&   ①多轴车床，多刀车床②单轴铣刀具
+gang trimmer   &&   横截圆排锯机
+gang variable condenser   &&   同轴可变电容器
+ganged   &&   ①成组的，成套的②联接的，联动的
+ganged control   &&   同轴联动控制
+gangway   &&   通道
+gantree crane   &&   门式起重机
+gantry   &&   起重机架，龙门架，龙门起重机
+gantry container crane   &&   集装箱龙门起重机
+gantry conveyor   &&   门式输送机
+gantry crane   &&   龙门起重机，门式起重机，高架起重机，门吊
+gantry crane charger   &&   龙门起重加料机
+gantry crane with crab   &&   蟹爪式龙门起重机
+gantry crane with crab trolley   &&   载重小车式龙门起重机
+gantry crane with hoist   &&   升降式龙门起重机
+gantry crane with jib crane   &&   悬臂式龙门起重机
+gantry crane with man trolley   &&   载人小车式龙门起重机
+gantry crane with rope trolley   &&   钢丝绳小车式龙门起重机
+gantry crane with slewing man-trolley   &&   旋转载人小车式龙门起重机
+gantry slinger   &&   行车式抛砂机
+gantry spiral coal unloader   &&   门式螺旋卸煤机
+gantry transfer crane   &&   门式搬运起重机
+gantry travel speed   &&   门架行走速度
+gantry traveller   &&   移动式龙门起重机
+gantry type milling machine   &&   龙门铣床
+gantry wagon   &&   龙门起重机
+gap   &&   ①间隙，隙缝，间隔②气隙③裂口
+gap adjusting filler   &&   接缝调整填料
+gap adjustment   &&   间隙调整
+gap admittance   &&   间隙导纳，气隙导纳
+gap ampere-turns   &&   气隙安匝(电机的)
+gap arrester   &&   气隙避雷器，气隙放电器
+gap capacitance   &&   气隙电容，间隙电容
+gap character   &&   间隙符
+gap coding   &&   间隙编码
+gap digit   &&   间隔位
+gap factor   &&   间隙系数
+gap field   &&   气隙(磁)场
+gap filling adhesive   &&   间隙填充黏合剂
+gap filling property   &&   间隙填充性能
+gap flux   &&   气隙通量
+gap lathe   &&   凹口车床
+gap length   &&   间隔长度
+gap press   &&   开式压力机，悬臂式压力机
+gap reluctance   &&   气隙磁阻
+gap series   &&   间隙级数
+gap size   &&   间隙尺寸
+gap structure   &&   气隙结构，间隙结构
+gap test   &&   空隙检验
+gap theorem   &&   间隙定理
+gap value   &&   间隙值
+gap-frame press   &&   开式压力机
+garage jack   &&   修车起重机
+garbage   &&   ①汽车库，飞机库②无用信息，不用信息，混乱信息，无用数据，杂乱数据③无用存储单元④垃圾，废品
+garbage body with heavy duty hydraulic hoist   &&   垃圾车车身连加重水力升降机
+garbage collection   &&   无用存储单元收集
+garbage collection algorithm   &&   无用存储单元收集算法
+garbage collection routine   &&   无用存储单元收集程序
+garbage collector   &&   无用存储单元收集程序
+garbage in   &&   无用输入
+garbage in garbage out   &&   无用输入无用输出
+garbage out   &&   无用输出
+garbage power   &&   垃圾发电
+garbage power plant   &&   燃垃圾电厂
+garbage truck   &&   垃圾车
+garble   &&   ①虚假信息，窜改的信息②虚假编码
+garden tractor   &&   手扶(园艺用)拖拉机
+garnet   &&   石榴石
+garnet compound   &&   石榴石型化合物
+garnet laser   &&   石榴石激光器
+garnet maser   &&   石榴石微波激射器
+gas   &&   ①气体②燃气，天然气，煤气③充气④放气，排气⑤汽油
+gas  turbine   &&   燃气轮机
+gas accumulator relay   &&   气体积聚继电器
+gas activated battery   &&   气体激活电池
+gas amplification   &&   气体放大
+gas amplification factor   &&   气体放大因数
+gas analysis   &&   气体分析
+gas analyzer   &&   气体分析器
+gas and gasoline threeway valve   &&   煤气与汽油三通阀
+gas assist injection molding   &&   气张注塑
+gas attack   &&   气体腐蚀
+gas backstreaming   &&   气体回流
+gas barrel   &&   煤气管
+gas bearing   &&   气体轴承
+gas blowing engine   &&   煤气鼓风机
+gas blowout   &&   气喷
+gas bomb   &&   储气瓶，氧气瓶，毒气弹，气体钢瓶
+gas burette   &&   气体量管
+gas burner   &&   ①燃气喷嘴，燃气燃烧器②煤气喷灯，煤气燃烧器
+gas burning furnace   &&   煤气加热炉，煤气炉，煤气燃烧炉
+gas burst   &&   气体爆炸
+gas cable   &&   充气电缆
+gas carburization   &&   气体渗碳
+gas cell   &&   ①离子光电池，充气光电池②充气电池
+gas characteristic   &&   气体特性
+gas charging   &&   充气
+gas chromatogram   &&   气相色谱图
+gas chromatograph   &&   气相色谱仪
+gas chromatograph-mass spectrometer   &&   气相色谱-质谱联用仪接口[GCMS]
+gas chromatography   &&   气体色层分离法，气体色谱法，气相色谱(法)
+gas chromatography-mass   &&   气相色谱-质谱法[GC-MS]
+gas circuit   &&   气路
+gas circulator   &&   气体循环泵
+gas cleaner   &&   气体净化器
+gas cleanup   &&   除气
+gas coke   &&   煤气焦炭
+gas collecting line   &&   煤气聚集管
+gas collecting main   &&   煤气总管
+gas collecting tube   &&   煤气聚集管
+gas collector   &&   煤气聚集器
+gas compressor   &&   气体压缩机
+gas condenser   &&   气体冷凝器
+gas conductivity   &&   气体电导
+gas constant   &&   气体常数
+gas cooled   &&   气冷
+gas cooled electrical machine   &&   气冷电机
+gas cooled reactor   &&   气冷反应
+gas cooler   &&   煤气冷却器，气体冷却器
+gas corrosion   &&   气体腐蚀
+gas counter   &&   气体计数器
+gas cutting   &&   气割
+gas cycle   &&   气体循环
+gas cycle reactor   &&   气体循环反应器
+gas cylinder regulator   &&   气瓶减压器
+gas densitometer   &&   气体密度计
+gas density meter   &&   气体密度计
+gas diffusion column   &&   气体扩散柱
+gas diffusion electrode   &&   气体扩散电极
+gas diode   &&   充气二极管
+gas discharge   &&   气体放电
+gas discharge current   &&   气体放电电流
+gas discharge detector   &&   气体放电检测器
+gas discharge display   &&   气体放电显示
+gas discharge ion source   &&   气体放电离子源
+gas discharge laser   &&   气体放电激光器
+gas discharge plasma   &&   气体放电等离子体
+gas discharge tube   &&   气体放电管
+gas dissociation   &&   气体离解
+gas distillate   &&   气体馏出物
+gas distributing system   &&   煤气管道网
+gas doping   &&   气体掺杂
+gas driven generator   &&   煤气发电机
+gas dry filter trap   &&   气体干燥滤阱
+gas dryer   &&   气体干燥器
+gas drying bottle   &&   气体干燥瓶
+gas dynamics   &&   气体动力学
+gas electric welding   &&   气电联合焊接
+gas electrode   &&   气体电极
+gas engine   &&   ①内燃机，燃气(发动)机②煤气机，煤气发动机
+gas equation   &&   气体方程式
+gas escape   &&   气体逸出
+gas expansion   &&   气体膨胀
+gas explosion   &&   煤气爆炸
+gas expulsion   &&   气体排除
+gas filled X-ray tube   &&   充气X射线管
+gas filled cable   &&   充气电缆
+gas filled capacitor   &&   充气电容器
+gas filled counter   &&   充气计数管
+gas filled detector   &&   充气检测器
+gas filled diode   &&   充气二极管
+gas filled gap   &&   充气放电器
+gas filled joint   &&   充气接头
+gas filled lamp   &&   充气灯
+gas filled lamp bulb   &&   充气灯泡
+gas filled photo cell   &&   充气光电管
+gas filled phototube   &&   充气光电管，离子光电管
+gas filled pipe cable   &&   管内充气电缆
+gas filled radiation-counter tube   &&   充气辐射计数管
+gas filled rectifier   &&   充气整流管
+gas filled rectifier tube   &&   充气整流管
+gas filled relay   &&   充气继电器，离子继电器
+gas filled sealed dry-type   &&   气密封干式变压器
+gas filled solid   &&   充气固体
+gas filled station   &&   充气站
+gas filled switching tube   &&   充气开关管
+gas filled thermometer   &&   充气温度计，气体压力温度计
+gas filled triode   &&   充气三极管
+gas filled tube   &&   充气管
+gas filled tube rectifier   &&   充气整流管
+gas filled type explosion-proof machine   &&   气防爆型电机
+gas filled valve   &&   充气管
+gas film   &&   气膜
+gas film coefficient   &&   气膜系数
+gas film controlling   &&   气膜控制
+gas film mass transfer coefficient   &&   气模传质系数
+gas filter   &&   气体过滤器
+gas fired air furnace   &&   煤气火焰炉
+gas fired carburizing furnace   &&   煤气渗碳炉
+gas fired furnace   &&   煤气炉
+gas fired power plant   &&   煤气火力发电厂
+gas fired reverberatory furnace   &&   煤气反射炉
+gas focusing   &&   气体聚焦
+gas forge   &&   煤气锻造炉
+gas furnace   &&   煤气炉
+gas gathering system   &&   气体收集系统
+gas gauge   &&   煤气压力计
+gas generating station   &&   煤气发生站
+gas generator   &&   ①煤气发生器，煤气发生炉②气体发生炉，气体发生器
+gas graphite reactor   &&   石墨气冷(反应)堆
+gas grenade   &&   毒气榴弹
+gas grid   &&   气体供应网
+gas gun   &&   气体自动枪
+gas guzzler   &&   油老虎
+gas heating furnace   &&   煤气加热炉
+gas hold-up   &&   气体滞留
+gas horsepower   &&   燃气马力，燃气功率
+gas hourly space velocity   &&   气时空速
+gas industry   &&   煤气工业
+gas insulated transformer   &&   气体绝缘变压器
+gas ionization   &&   气体电离
+gas jet   &&   煤气(喷)嘴
+gas kinetics   &&   气体动力(学理)论，气体分子运动论
+gas lamp   &&   煤气灯
+gas laser   &&   气体激光器
+gas lasers   &&   气体激光
+gas leakage   &&   气体泄漏
+gas leakage test   &&   气密性试验
+gas light   &&   煤气灯
+gas liquefaction   &&   气体液化
+gas liquid   &&   气液
+gas liquid chromatography   &&   气液色谱法[GLC]
+gas liquid partition coefficient   &&   气液分配系数
+gas liquid reaction   &&   气液反应
+gas machine   &&   气体发生器
+gas mantle   &&   灯罩(煤气灯的)
+gas mark   &&   焦痕
+gas meter   &&   煤气表
+gas metering   &&   燃气计量
+gas motor   &&   煤气发动机
+gas nozzle   &&   燃气喷嘴
+gas odorant   &&   气体加味剂
+gas odorizer   &&   气体臭味检测器
+gas oil   &&   柴油
+gas outlet   &&   出气口
+gas output   &&   煤气输出量
+gas oven   &&   煤气炉
+gas panel   &&   气体放电显示屏
+gas permeation   &&   气体渗透
+gas phase   &&   气相
+gas phase permeation   &&   气相渗透
+gas phase suspension process   &&   气相悬浮过程
+gas phase titration   &&   气相滴定
+gas pipe tongs   &&   气管钳
+gas pipeline   &&   燃气输配管线
+gas power engine   &&   燃气发动机，煤气发动机
+gas power locomotive   &&   煤气机车
+gas power plant   &&   燃气发电厂，煤气发电厂
+gas pressure protection   &&   气体压力保护，气压保护
+gas pressure regulating station   &&   燃气调压站
+gas pressure regulator   &&   燃气调压器
+gas pressure relay   &&   气压继电器
+gas pressure weld   &&   气压焊
+gas pressure welding machine   &&   气压焊接机
+gas pressurized rocket motor   &&   气压式液体火箭发动机
+gas producer   &&   煤气发生炉，煤气发生器
+gas proof electric machine   &&   气密型电机
+gas proof machine   &&   气密型电机，防瓦斯电机
+gas proof sealing   &&   气密密封
+gas proof test   &&   气密性试验
+gas property   &&   气体性质
+gas proportional detector   &&   气体正比检测器
+gas pump thermocouple   &&   抽气式热电偶
+gas purged pressure recording gauge   &&   补气引压式验潮仪
+gas purifier   &&   气体净化器
+gas purifying apparatus   &&   气体净化器
+gas quenching   &&   气冷淬火
+gas range   &&   煤气灶
+gas recovery   &&   气体回收
+gas recycle process   &&   气体再循环过程
+gas recyclers and gas handling equipment   &&   气体再生设备，气体填充设备
+gas reformer   &&   气体转化器，煤气转化器
+gas retort carbon   &&   煤气甑碳
+gas rudder   &&   燃气舵
+gas sample analysis   &&   气体取样分析
+gas scrubbing   &&   气体洗涤
+gas seal   &&   气体密封
+gas segregation   &&   气体偏析
+gas sensing electrode   &&   气敏电极
+gas sensor   &&   气敏组件，气体传感器
+gas separation   &&   气体分离
+gas shield   &&   气体保护，气体遮蔽
+gas shielded arc welding   &&   气体保护焊，气体保护弧焊
+gas shielded electrode   &&   气体保护焊条
+gas shielded magnetic flux arc welding   &&   磁性焊剂气体保护焊
+gas shielded metal-arc welding   &&   气体保护金属弧
+gas shielded welding   &&   气体保护焊
+gas spring   &&   气体弹簧
+gas starter   &&   煤气启动机
+gas storage   &&   储气
+gas stove   &&   煤气炉
+gas tank   &&   ①装在汽车上运送汽油的油罐②装在汽车上运送液化石油气和其它气态燃料的气罐
+gas tank truck   &&   筒式运煤车
+gas tar   &&   煤气焦油
+gas tetrode   &&   充气四极管
+gas thermometer   &&   气体温度计
+gas tight housing   &&   气密机壳
+gas tight test   &&   气密试验，气密性试验
+gas tight thread   &&   气密螺纹
+gas tightness   &&   气密性
+gas torch   &&   煤气喷灯
+gas transducer   &&   气体传感器
+gas triode   &&   充气三极管
+gas truck   &&   运送汽油的油罐车
+gas tube   &&   充气管
+gas turbine   &&   燃气轮机，燃气透平，燃气涡轮
+gas turbine aircraft   &&   燃气轮机飞机
+gas turbine automobile   &&   燃气轮机汽车
+gas turbine blade   &&   燃气涡轮叶片
+gas turbine booster propulsion set   &&   燃气轮机加力推进装置
+gas turbine compressor   &&   燃气涡轮压缩机[GTC]
+gas turbine electric device   &&   燃气轮机电力驱动
+gas turbine electric locomotive   &&   燃气轮机电气机车
+gas turbine electric power plant   &&   燃气轮机发电厂
+gas turbine engine   &&   燃气涡轮(发动)机
+gas turbine generator   &&   燃气涡轮发电机
+gas turbine generator start test   &&   燃气轮机发电机启动试验
+gas turbine jet   &&   燃气轮机喷气发动机
+gas turbine locomotive   &&   燃气涡轮机车
+gas turbine power unit   &&   燃气涡轮动力装置[GTPU]
+gas turbine powered solar electric generating system   &&   太阳能燃气轮机发电系统
+gas turbine propulsion   &&   燃气轮机牵引
+gas valve   &&   充气管
+gas vane   &&   燃气舵
+gas washer   &&   煤气洗涤器
+gas washing   &&   煤气洗涤
+gas welding   &&   气焊
+gas welding blowpipe   &&   气焊吹管
+gas welding machine   &&   气焊机
+gas welding outlet   &&   气焊机
+gas welding rod   &&   气焊焊条
+gas welding torch   &&   气焊吹管
+gas works coke   &&   煤气厂焦炭
+gas yield   &&   煤气产量
+gas-and-pressure-air burner   &&   低压煤气燃烧器
+gas-compression cable   &&   气体压缩电缆
+gas-compression cycle   &&   气体压缩循环
+gas-discharge source   &&   气体放电源
+gas-enclosed pressure gauge   &&   气密引压式验尚潮仪
+gas-flame brazing   &&   气焰钎焊
+gas-flow counter tube   &&   流气型计数管
+gas-liquid chromatography   &&   气液色谱法
+gas-sensitive element   &&   气敏组件
+gas-solid chromatography   &&   气固色谱法
+gaseous conductor   &&   导电气体，气体导体
+gaseous contamination   &&   气体污染
+gaseous cyaniding   &&   气体氧化法
+gaseous detonation   &&   气体爆炸
+gaseous diffuse   &&   气体扩散
+gaseous discharge   &&   气体放电
+gaseous discharge lamp   &&   气体放电管
+gaseous discharge tube   &&   气体放电管
+gaseous fuel   &&   气体燃料
+gaseous insulator   &&   气体绝缘体
+gaseous propellant engine   &&   气体燃料发动机
+gaseous propellant rocket   &&   气体火箭发动机
+gases for lasers   &&   激光用气体
+gases for optical application   &&   光学用气体
+gasholder   &&   储气罐
+gasholder structure   &&   储气罐结构
+gasification   &&   煤气化
+gasifier   &&   ①气化器②气体发生器
+gasify   &&   充气
+gasket   &&   密封垫，垫密片，垫片，垫圈，衬片，垫衬
+gasket cement   &&   衬片黏胶
+gasket joint   &&   垫圈接头
+gasket material   &&   垫衬材料
+gasket seal   &&   垫片密封
+gasket sealed relay   &&   垫片密封继电器
+gasket seat   &&   垫圈座
+gasohol   &&   酒精汽油混合燃料
+gasolene   &&   汽油
+gasoline   &&   汽油
+gasoline additive   &&   汽油添加剂
+gasoline anti-icing agent   &&   汽油防冻剂
+gasoline blast burner   &&   汽油喷灯
+gasoline consumption   &&   汽油消耗
+gasoline corrosion test cup   &&   汽油试蚀杯
+gasoline crane   &&   汽油起重机
+gasoline direct injection   &&   汽油直喷 [GDI]
+gasoline dope   &&   汽油添加剂
+gasoline electric device   &&   汽油机组电力驱动系统
+gasoline electric tractor   &&   汽油电力拖车
+gasoline electric vehicle   &&   汽油电力车
+gasoline engine   &&   汽油发动机
+gasoline engine driven machine   &&   汽油动力机
+gasoline engine generator   &&   汽油(内燃)发电机
+gasoline filter   &&   汽油过滤器
+gasoline float gauge   &&   汽油浮标表
+gasoline fraction   &&   汽油馏分
+gasoline freezing point   &&   汽油凝固点
+gasoline knocking   &&   汽油爆震
+gasoline level gauge   &&   汽油液面计
+gasoline locomotive   &&   汽油机车
+gasoline motor   &&   汽油发动机
+gasoline motor car   &&   汽油(汽)车
+gasoline octane number   &&   汽油辛烷值
+gasoline powered truck   &&   汽油发动机运货车
+gasoline pressure gauge   &&   汽油压力计
+gasoline pump   &&   汽油泵
+gasoline roller   &&   汽油压路机
+gasoline splitter   &&   汽油分馏塔
+gasoline strainer   &&   汽油过滤器
+gasoline tank truck   &&   运汽油车，加油车
+gasoline tanker   &&   汽油船
+gasoline throttle   &&   油门，节气门
+gasoline torch   &&   汽油喷灯
+gasoscope   &&   气体检验器
+gasproof   &&   气密
+gassing   &&   充气，出气
+gassing factor   &&   充气系数
+gassy surface   &&   表面不清析(搪瓷缺陷)
+gastight   &&   气密
+gastight casing   &&   气密机壳，气密外壳
+gastight casting   &&   气密铸件
+gaston   &&   抗干扰调制器，充气管噪声调制器
+gastrointestinal inner pressure sensor   &&   胃肠内压传感器
+gastrointestinal inner pressure transducer   &&   胃肠内压传感器
+gastunite   &&   水硅钙铀矿
+gate   &&   ①活门②门，门电路，门控，门脉③选通电路，选通，选通脉冲④闸⑤栅(场效应晶体管)⑥浇口
+gate action   &&   选通作用
+gate array   &&   门阵列
+gate balance   &&   浇口平衡
+gate bush   &&   浇口衬套
+gate change   &&   导槽换档
+gate circuit   &&   门电路，选通电路
+gate contact   &&   栅极接点
+gate control block   &&   门控制块[GCB]
+gate electrode   &&   栅极电极
+gate generator   &&   选通脉冲发生器
+gate land   &&   浇口面
+gate leakage current   &&   栅极漏电流
+gate level simulator   &&   门级模拟程序
+gate mark   &&   浇口痕进
+gate operating gear   &&   水闸操纵机构
+gate pulse   &&   选通脉冲
+gate valve   &&   闸阀
+gate voltage   &&   栅压(场效应晶体管)
+gate-type flowmeter   &&   闸门式流量计
+gateway   &&   网关，网间连接器，门路连接器，网间连接程序
+gateway exchange   &&   网间连接处理机，人口处理机
+gateway processor   &&   网间连接处理机，人口处理机
+gather   &&   前束
+gather-write   &&   集中写
+gather-write/scatter-read   &&   集中写分散读
+gathering   &&   储集
+gathering area   &&   储集区
+gating   &&   选通，控制
+gating circuit   &&   门电路
+gating matrix   &&   控制矩阵
+gating technics   &&   脉冲选通技术
+gauge   &&   ①规，量规②表，计③厚薄规，线规④塞规，标准规⑤压力机
+gauge bar   &&   规杆
+gauge bit   &&   成型车刀
+gauge block   &&   规块，规块定位规，量块
+gauge board   &&   规准尺，规准板
+gauge circuit   &&   应变计(片)电路
+gauge covariance   &&   规范协方差，规范正交函数协方差
+gauge factor   &&   应变计灵敏系数
+gauge field   &&   规范场
+gauge field theory   &&   规范场论
+gauge hierarchy problem   &&   规范等级问题
+gauge invariance   &&   规范不变性
+gauge lathe   &&   样板车床
+gauge length   &&   标距长度，标距
+gauge line   &&   规线
+gauge plate   &&   量规定位板
+gauge pressure   &&   表压
+gauge pressure sensor   &&   表压传感器
+gauge pressure transducer   &&   表压传感器
+gauge resistance   &&   应变计(片)电阻
+gauge stick   &&   规杆
+gauge transformation   &&   规范变换
+gauge transformation of the second kind   &&   第二类规范变换
+gauge wheel   &&   规轮，前导轮，调整轮，仿形轮，限深轮
+gauss   &&   高斯(磁场强度单位)
+gauss meter   &&   高斯计，磁强计
+gaussistor   &&   磁阻放大器
+gauze carburetor   &&   纱网化油器
+gear   &&   ①齿轮，齿轮机构，传动装置②档，排档③机构④机关⑤连接，齿合
+gear and pinion drive   &&   大小齿轮传动
+gear and pinion steering   &&   大小齿轮转向
+gear and spline rolling machines   &&   齿轮和花键滚轧机
+gear and thread grinding machine   &&   齿轮和螺纹磨床
+gear assembly   &&   ①齿轮传动装置②减速器
+gear axial displacement   &&   齿轮轴向位移
+gear axial plane   &&   齿轮轴向平面
+gear axis   &&   齿轮轴线
+gear backlash   &&   齿轮侧隙
+gear bank   &&   齿轮组
+gear box   &&   ①齿轮箱，变速箱，传动箱②进刀箱，进给箱
+gear box adapter   &&   齿轮箱接头
+gear box breather   &&   齿轮箱通气孔
+gear box casing   &&   齿轮箱体，变速箱体
+gear box flange   &&   齿轮箱凸缘
+gear box input   &&   齿轮箱输入功率
+gear box input shaft   &&   齿轮箱输入轴
+gear box main drive shaft   &&   齿轮箱主动轴
+gear box oil   &&   齿轮箱油
+gear box oil filter   &&   齿轮箱加油口，变速箱加油口
+gear box output   &&   齿轮箱输出
+gear box output shaft   &&   齿轮箱输出轴
+gear box pulley   &&   齿轮箱皮带轮
+gear brake   &&   齿轮闸
+gear broach   &&   齿轮拉刀
+gear bronze   &&   齿轮青铜(Cu 91％，Sn 9%～12％)
+gear burnishing   &&   齿轮挤光法，齿轮滚光法
+gear burr machine   &&   去齿轮毛边机
+gear case   &&   齿轮箱，变速箱
+gear case oil   &&   齿轮箱油
+gear center   &&   齿轮中心
+gear chain   &&   齿轮传动链
+gear change   &&   ①变速齿轮，交换齿轮②齿轮变速，换档
+gear changing by foot   &&   脚踏变速，脚踏换档
+gear clearance   &&   齿轮间隙，齿顶间隙
+gear cluster   &&   齿轮组，中间轴齿轮组件
+gear clutch   &&   齿式离合器
+gear combination   &&   齿轮组合
+gear compressor   &&   齿式压缩器
+gear cone   &&   大轮锥距
+gear coupling   &&   齿轮联轴节，齿轮联轴器
+gear crimping   &&   齿轮卷曲法
+gear cutter   &&   齿轮刀具，齿轮铣刀，切齿机
+gear cutter hob   &&   齿轮滚刀
+gear cutting   &&   切齿
+gear cutting and finishing machine   &&   齿轮精削机床
+gear cutting machine   &&   齿轮加工机床，切齿机
+gear cutting machines   &&   齿轮切削机
+gear cutting tool   &&   齿轮切削刀具
+gear cutting tool grinding machine   &&   齿轮切削工具磨床
+gear drive   &&   齿轮传动(装置)
+gear drive equipment   &&   齿轮传动装置
+gear driven camshaft   &&   齿轮传动式凸轮轴
+gear driven exciter   &&   齿轮传动励磁机
+gear driven fan   &&   齿轮传动扇
+gear driven supercharger   &&   齿轮传动增压器
+gear engagement   &&   齿轮啮合
+gear finisher   &&   成形法齿轮精切机床
+gear finishing machine   &&   齿轮精加工机床
+gear flowmeter   &&   齿轮流量计
+gear forming   &&   齿轮成形加工法
+gear generating   &&   齿轮展成加工法
+gear grease   &&   齿轮润滑脂
+gear grinding machine   &&   齿轮磨床
+gear head stock   &&   齿轮床头箱
+gear hob   &&   齿轮滚刀
+gear hobbing machine   &&   滚齿机
+gear honing machine   &&   齿轮珩磨机
+gear housing   &&   齿轮箱
+gear increaser   &&   齿轮增速器
+gear lapping machine   &&   齿轮研磨机
+gear level   &&   使换中档
+gear lubricant   &&   齿轮润滑剂
+gear lubrication   &&   齿轮润滑
+gear manufacturing summary   &&   齿轮加工调整卡
+gear marking compound   &&   检查齿轮啮合涂色剂
+gear member   &&   大轮
+gear meshing   &&   齿轮啮合
+gear milling cutter   &&   齿轮铣刀
+gear milling machine   &&   齿轮铣床
+gear motor   &&   齿轮(传动)电动机，带齿轮的电动机
+gear oil   &&   齿轮润滑油，齿轮油
+gear pair   &&   齿轮副
+gear pattern   &&   齿轮驱动(引起的)误差图型
+gear planer   &&   成型刨齿机
+gear polishing   &&   齿轮抛光法
+gear pump   &&   齿轮泵
+gear rack   &&   齿条
+gear ratio   &&   齿轮齿数比，齿轮传动速比，齿轮速比
+gear reducer   &&   齿轮减速箱，减速器
+gear ring   &&   齿圈，齿环
+gear rougher   &&   齿轮粗切机床
+gear set   &&   齿轮组，齿轮箱，变速箱，传动箱
+gear shaper   &&   插齿机
+gear shaping   &&   插齿
+gear shaping cutter   &&   插齿刀
+gear shaping machine   &&   刨齿机
+gear shaving machine   &&   剃齿机
+gear shift housing   &&   齿轮箱
+gear shifter   &&   变速杆
+gear spinning pump   &&   齿轮纺丝泵
+gear step   &&   齿轮速比差
+gear tester   &&   齿轮检查仪，齿轮试验机
+gear testing apparatus   &&   齿轮检查仪
+gear testing machine   &&   齿轮试验机
+gear texturing   &&   齿轮变形法
+gear tipping   &&   齿轮倾斜
+gear tooth   &&   (齿)轮齿
+gear tooth callipers   &&   齿轮(游标)卡尺
+gear tooth chamfering machine   &&   齿轮倒角机
+gear train   &&   轮系，齿轮传动链，齿轮系，齿轮组
+gear train with fixed axes   &&   定轴轮系
+gear transmission   &&   齿轮传动
+gear type oil pump   &&   齿轮式机油泵
+gear unit   &&   齿轮传动装置
+gear wheel   &&   齿轮，大齿轮
+gearbox   &&   ①齿轮箱②变速器
+gearcase   &&   ①齿轮箱②变速箱壳体③(自行车)齿轮罩
+gearcase transmission   &&   变速器
+geared block   &&   齿轮滑车
+geared blower   &&   齿轮传动式鼓风机
+geared braker   &&   齿轮传动手制动机
+geared diesel   &&   齿轮传动柴油机
+geared diesel boat   &&   齿轮减速内燃机船
+geared diesel locomotive   &&   齿轮传动内燃机车
+geared down engine   &&   减速发动机
+geared down motor   &&   齿轮减速发动机
+geared drill   &&   齿轮钻床
+geared drive machine   &&   齿轮传动电机
+geared feed   &&   齿轮进给，齿轮进刀
+geared feed pump   &&   齿轮(传动)给水泵
+geared head   &&   齿轮变速箱
+geared head engine lathe   &&   齿轮箱车床
+geared head lathe   &&   齿轮传动车床，全齿轮车床
+geared hoist   &&   齿轮起重机
+geared inclined crank press   &&   齿轮传动可倾式曲柄压力机
+geared index   &&   齿轮系分度
+geared ladle-hoist   &&   齿轮传动的浇包起重机，浇包传动机构
+geared lathe   &&   齿轮车床
+geared locomotive   &&   齿轮传动机车
+geared motor   &&   齿轮传动电动机，带减速齿轮的电动机
+geared noncondensing turbine   &&   齿轮传动背压式汽轮机
+geared noninclined crank press   &&   齿轮传动固定式曲柄压力机
+geared pump   &&   齿轮(传动)泵
+geared speed   &&   ①计算车速②汽车各档的最高车速
+geared synchro system   &&   齿轮同步装置系统
+geared system   &&   齿轮装置，变速箱
+geared traction machine   &&   齿轮(传动)牵引电机
+geared turbine   &&   齿轮汽轮机
+gearing   &&   传动装置，齿轮传动，齿轮装置
+gearing bronze   &&   齿轮青铜(Cu 91％，Sn 9％～12％)
+gearing down   &&   齿轮减速(传动)
+gearing in   &&   齿轮啮合
+gearing up   &&   齿轮增速(传动引机械)
+gearless locomotive   &&   无齿轮机车
+gearless motor   &&   直接传动电动机，无齿轮电动机
+gearlever   &&   变速杆
+gears   &&   齿轮，传动齿轮，齿轮组
+gearset   &&   主传动总成
+gearshift lever knob   &&   变速杆手球
+gel   &&   胶，凝胶
+gel chromatography   &&   凝胶色谱法
+gelatinate   &&   冻结
+gelatine   &&   胶，明胶，凝胶
+gelatinized fuel   &&   稠化燃料
+gelatinized silk   &&   涂胶丝
+gelatinizer   &&   稠化剂
+gelled cell   &&   胶质电池
+geminated transistor   &&   配对晶体管，成对晶体管
+genemotor   &&   双电枢绕组电动发电机
+general   &&   通用的，综合的，一般的，总的
+general address   &&   通用地址，综合地址
+general aeronautical material   &&   通用航空材料
+general alarm system   &&   通用警报系统
+general arrangement   &&   总布置(图)，总图，总体布置
+general arrangement of electrical equipment   &&   电器布置图
+general arrangement plan   &&   总体布置图
+general assembly   &&   总装配
+general assembly program   &&   通用汇编程序
+general cargo   &&   杂货
+general compiler   &&   通用编译程序
+general computer   &&   通用计算机
+general connection diagram   &&   全部设备接线图，总接线图
+general connection diagram of all equipments   &&   全部设备接线图，总接线图
+general connector   &&   通用插件，通用连接线
+general constraint   &&   公共约束
+general control panel   &&   总控制盘
+general coordinated method   &&   综合协调方法
+general count register   &&   通用计数寄存器
+general data register   &&   通用数据寄存器
+general design of information system   &&   信息系统总体设计
+general diffuse illumination   &&   通用漫射照明器，一般漫射照明器
+general diffused lighting   &&   一般漫射照明
+general drawing   &&   总图
+general facilities   &&   通用设施
+general flowchart   &&   总流程图，综合流程图
+general format identifier   &&   通用格式识别符
+general game   &&   总对策
+general illumination   &&   一般照明，全面照明
+general input-output model   &&   总输入-输出模型
+general layout   &&   总体布置(图)，总平面(图)
+general layout scheme of a factory   &&   工厂总体设计图
+general lighting   &&   一般照明，全面照明
+general lighting-service lamp   &&   一般照明用灯
+general locking   &&   强制同步
+general machine tool   &&   普通机床，通用机床
+general manager   &&   总经理
+general memory   &&   通用存储器
+general migration   &&   通用迁移
+general overhaul   &&   全面检查(设备的)，大修
+general plan   &&   总体计划，总图
+general problem solver   &&   通用问题解算机
+general procedure   &&   通用程序
+general program   &&   通用程序
+general programming support   &&   通用程序支持
+general purpose aeroplane   &&   通用飞机
+general purpose strain gauge   &&   常温应变计
+general relativity theory   &&   广义相对论
+general routine   &&   通用程序
+general service desk   &&   总操作台
+general service hose   &&   通用胶管
+general service signal   &&   通用业务信号
+general survey   &&   一般检验
+general system theory   &&   一般系统理论
+general theory of relativity   &&   广义相对论
+general utility functions   &&   通用辅助操作
+general utility tool   &&   通用工具
+general vacuum tube   &&   通用电子管，普通电子管
+general view   &&   全视图
+general warning indicator   &&   通用告警指示器
+general wiring diagram   &&   总接线图
+general-purpose accessory   &&   通用附件
+general-purpose alloy   &&   通用合金
+general-purpose analogue computer   &&   通用模拟计算机
+general-purpose automatic test system   &&   通用自动测试系统
+general-purpose branch circuit   &&   通用支路
+general-purpose camera   &&   通用电视摄像机
+general-purpose circuit breaker   &&   通用断路器
+general-purpose computer   &&   通用计算机
+general-purpose controller   &&   通用控制器
+general-purpose digital computer   &&   通用数字计算机
+general-purpose floodlight   &&   通用探照灯
+general-purpose function generator   &&   通用函数发生器
+general-purpose grease   &&   通用润滑脂
+general-purpose language   &&   通用语言
+general-purpose machine   &&   通用计算机
+general-purpose machine language   &&   通用机器语言
+general-purpose machine tool   &&   通用机床
+general-purpose manipulator   &&   万能键控器，万能机械手
+general-purpose microprocessor   &&   通用微处理机
+general-purpose motor   &&   通用电动机
+general-purpose operating system   &&   通用操作系统
+general-purpose paper card   &&   通用纸卡片
+general-purpose plastics   &&   通用塑料
+general-purpose power cable   &&   通用动力电缆
+general-purpose power switch   &&   通用电力开关
+general-purpose pressure gauge   &&   一般压力表
+general-purpose probe interface   &&   通用探头接口
+general-purpose processor   &&   通用处理机
+general-purpose program   &&   通用程序
+general-purpose reactor   &&   通用反应器
+general-purpose register   &&   通用寄存器
+general-purpose relay   &&   通用继电器
+general-purpose resistor   &&   通用电阻器
+general-purpose rubber   &&   通用橡胶
+general-purpose software   &&   通用软件
+general-purpose steel   &&   通用钢
+general-purpose system simulator   &&   通用系统仿真程序
+general-purpose test equipment   &&   通用测试设备
+general-purpose tractor   &&   通用牵引车
+general-purpose transformer   &&   通用变压器
+general-purpose varnish   &&   通用清漆
+general-purpose vehicle   &&   ①通用车辆②多用途飞行器
+general-register   &&   通用寄存器
+general-register machine   &&   通用寄存器计算机
+general-use snap switch   &&   通用弹簧开关，普通快通开关，普通室内开关
+general-use switch   &&   普通开关
+generalization   &&   ①广义②普通化，一般化，通用化
+generalization-specialization structure   &&   通用-专用结构
+generalized   &&   广义的
+generalized Hooke's law   &&   广义胡克定律
+generalized Maxwell model   &&   广义麦克斯韦模型
+generalized Newtonian fluid   &&   广义牛顿流体
+generalized Newtonian liquid   &&   广义牛顿液体
+generalized Ohm's law   &&   广义欧姆定律
+generalized Poisson distribution   &&   广义泊松分布
+generalized Poisson process   &&   广义泊松过程
+generalized admittance   &&   广义导纳
+generalized affinity   &&   广义亲和力
+generalized binomial distribution   &&   广义二项分布
+generalized body   &&   广义物体
+generalized continuum mechanics   &&   广义连续介质力学
+generalized convex programming   &&   广义凸规划
+generalized coordinate   &&   广义坐标
+generalized coordinates   &&   广义坐标
+generalized current density   &&   广义电流密度
+generalized data base management system   &&   通用数据总线管理系统
+generalized data manipulation   &&   通用化数据处理
+generalized displacement   &&   广义位移
+generalized eigenspace   &&   广义特照间, 广义本照间
+generalized ellipsoidal molecules   &&   广义椭圆体分子
+generalized entropy   &&   广义熵
+generalized failure theory   &&   广义强度理论
+generalized file processing   &&   广义文件处理
+generalized force   &&   广义力
+generalized function   &&   广义函数
+generalized fuzzy-set theory   &&   通用模糊集合论
+generalized identity function   &&   广义单位函数
+generalized impedance   &&   广义电抗
+generalized information retrieval and listing system   &&   广义信息检索和编排系统
+generalized information system   &&   通用信息处理系统
+generalized information theory   &&   通用信息论
+generalized inverse   &&   广义逆
+generalized inverse matrix   &&   广义逆矩阵
+generalized kinematic chain   &&   一般化运动链
+generalized least squares method   &&   广义最小二乘法
+generalized liquid model   &&   广义液体模型
+generalized list   &&   广义表
+generalized load   &&   广义负载，综合负载
+generalized maximum shear stress criterion   &&   广义最大剪应力准则
+generalized merge program   &&   通用合并程序
+generalized modeling   &&   广义建模
+generalized moment   &&   广义力矩
+generalized momentum   &&   广义动量
+generalized octahedral shear stress theory   &&   广义八面体剪应力理论
+generalized plasticity   &&   广义塑性力学
+generalized power series   &&   广义幂级数
+generalized reaction rated equation   &&   广义反应速率方程
+generalized reduced gradient method   &&   广义减化梯度法
+generalized routine   &&   广义例行程序
+generalized sequential access method   &&   通用顺序存取方法
+generalized single shear stress theory   &&   广义单剪应力理论
+generalized solid model   &&   广义固体模型
+generalized solubility parameter   &&   广义溶度参数
+generalized sort program   &&   通用排序程序
+generalized space   &&   广义空间
+generalized supervisor calls trail   &&   通用管理程序调用跟踪
+generalized trace facility   &&   通用跟踪程序
+generalized twin shear stress theory   &&   广义双剪应力理论
+generalized valence bond   &&   广义价键[GVB]
+generalized valence bond method   &&   广义价键法
+generalized variance   &&   广义方差
+generalized variational principles   &&   广义变分原理
+generalized velocity   &&   广义速度
+generate   &&   生成，产生，引起
+generated address   &&   生成地址，形成地址
+generated energy   &&   发电量
+generated error   &&   生成误差
+generated gear   &&   展成法齿轮
+generated noise   &&   生成噪声
+generated power   &&   发电功率
+generated symbol   &&   生成符号
+generated voltage   &&   发电电压
+generating   &&   展成法
+generating auxiliary power   &&   发电厂厂用电功率
+generating cam   &&   展成凸轮
+generating capacity   &&   发电容
+generating capacity factor   &&   发电利用率
+generating cone   &&   基(圆)锥
+generating cost   &&   发电成本
+generating cutting   &&   滚齿切削法，滚切法，范成法
+generating electric field meter   &&   电场电位梯度计
+generating equipment   &&   发电设备
+generating function   &&   生成函数
+generating gear   &&   产形齿论，展成齿轮
+generating gear shaper   &&   刨齿机
+generating group   &&   发电机组
+generating line   &&   母线，发生线
+generating line of involute   &&   渐开线发生线
+generating machinery   &&   发电设备，发电机
+generating magnetometer   &&   发电机式磁强计，线圈式磁强计，生成磁强计
+generating milling   &&   滚齿铣
+generating operation   &&   发电运行
+generating plane   &&   发生面
+generating plant   &&   ①发电厂，发电所②发电设备
+generating pressure angle   &&   产形轮压力角
+generating program   &&   编辑程序，产生程序
+generating routine   &&   编辑程序，生成程序
+generating set   &&   发电机组，发电设备
+generating set feeding   &&   发电机组馈电
+generating station   &&   电站，发电厂，发电所
+generating station auxiliaries   &&   发电厂辅助设备
+generating subroutine   &&   产生子程序
+generating system   &&   发电系统
+generating train   &&   展成传动键
+generating unit   &&   发电机组
+generation   &&   ①代，世代②发生，产生，形成，展成③振荡
+generation data group   &&   世代数据组，生成数据组[GDG]
+generation data set   &&   世代数据集
+generation deficiency   &&   发电不足
+generation function   &&   生成函数
+generation input stream   &&   生成输入流
+generation mechanism   &&   广义机构
+generation of electric energy   &&   发电
+generation outage   &&   发电事故
+generation phase   &&   生成阶段
+generation rate   &&   产生率(半导体中电子和空穴的)
+generation routine   &&   生成程序
+generation scheme   &&   生成图式，生成模式
+generation set   &&   发电设备
+generation system   &&   生成系统
+generative computer assisted instruction   &&   生成计算机辅助教育
+generative computer-managed learning   &&   生成计算机管理学习
+generative grammar   &&   生成语法
+generative path programming   &&   生成面向通路程序设计
+generative power   &&   原动力，发生力
+generative process   &&   产生过程，生成过程
+generative system   &&   生成系统
+generative-recombinative balance   &&   产生-复合平衡
+generator   &&   ①发电机②发生器③发送器，传感器④程序发生器，产生程序，展成齿轮加工机床
+generator armature   &&   发电机电枢
+generator armature core   &&   发电机电枢铁心
+generator bearing   &&   发电机轴承
+generator breaker   &&   发电机断路器
+generator brush   &&   发电机电刷
+generator busbar   &&   发电机母线，发电机汇流条
+generator busbar assembly   &&   发电机组合母线
+generator capacity   &&   发电机容量
+generator casing   &&   发电机外壳
+generator characteristic   &&   发电机特性(曲线)
+generator choke coil   &&   发电机扼流圈
+generator circuit   &&   发电机电路
+generator circuit breaker   &&   发电机断路器
+generator commutation   &&   发电机换向，发电机整流
+generator construction   &&   发电机结构
+generator contacter   &&   发电机接触器
+generator control desk   &&   发电机控制台
+generator control panel   &&   发电机控制板
+generator cut-out relay   &&   发电机断路继电器
+generator drying out operation   &&   发电机干燥运转
+generator effect   &&   发电机效应
+generator efficiency   &&   发电机效率
+generator electrode   &&   发电机电极
+generator end   &&   发电机端
+generator engine cooling fresh water   &&   发电机冷却淡水冷却机
+generator engine cooling water pump   &&   发电机冷却淡水泵
+generator excitation   &&   发电机励磁
+generator exciter   &&   发电机励磁机
+generator exciting winding   &&   发电机励磁绕组
+generator field   &&   发电机磁场
+generator field accelerating relay   &&   发电机磁场加速继电器
+generator field coil   &&   发电机磁场线圈
+generator field control   &&   发电机磁场控制
+generator field decelerating relay   &&   发电机磁场减速继电器
+generator field relay   &&   发电机磁场继电器
+generator gas   &&   发电炉煤气
+generator gate   &&   脉冲发电器
+generator group   &&   发电机组
+generator housing   &&   发电机机座
+generator impedance   &&   发电机组抗
+generator input   &&   发电机输入(功率)
+generator instrument   &&   发电机仪表
+generator kit   &&   发电机的整套零件
+generator lead wire   &&   发电机引线
+generator line contacter   &&   发电机线路接触器
+generator load   &&   发电机负荷，发电机负载
+generator load factor   &&   发电机负载因数
+generator loss   &&   发电机损耗
+generator mode of operation   &&   发电机运行方式
+generator monitoring unit   &&   发电机监控装置
+generator neutral point   &&   发电机中性点
+generator operating conditions   &&   发电机运行情况
+generator operation   &&   发电机运行
+generator output   &&   发电机输出(功率)
+generator panel   &&   发电机盘，发电机屏
+generator polarity   &&   发电机极性
+generator protection   &&   发电机保护(装置)
+generator rating   &&   发电机额定值
+generator reactor   &&   发电机电抗器
+generator regulation   &&   发电机调整
+generator regulator   &&   发电机调节器，发电机调压器
+generator resistance   &&   发电机电阻
+generator room   &&   发电机房
+generator rotor   &&   发电机转子
+generator set   &&   发电机组
+generator speed   &&   发电机转速
+generator stand   &&   发电机座
+generator stator   &&   发电机定子
+generator triode   &&   振荡三极管
+generator unloading point   &&   发电机卸载点
+generator voltage   &&   发电机电压
+generator voltage regulator   &&   发电机电压调整器
+generator winding   &&   发电机绕组
+generator with automatically regulated output   &&   自动调整输出式发电机
+generator with disk armature   &&   盘型电枢发电机
+generator with flywheel   &&   飞轮式发电机
+generator with stand voltage test   &&   发电机耐压试验
+generator-motor   &&   发电-电动两用电机，发电电动机
+generator-transformer block   &&   发电机-变压器单元
+generator-transformer unit   &&   发电机-变压器单元
+generic application entity   &&   通用应用目标
+geneva gear   &&   槽轮，十字轮机构, 马氏间歇机构，间歇工件轮
+geneva index   &&   星形轮分度，槽轮分度
+geneva mechanism   &&   槽轮机构
+geneva numerate   &&   槽数
+geneva wheel   &&   槽轮，十字轮机构, 马氏间歇机构，间歇工件轮
+geochemistry   &&   地球化学
+geodetic equipment   &&   测地设备
+geodetic instrument   &&   大地测量仪器
+geodynamics   &&   地球动力学
+geographic information system   &&   地理信息系统[GIS]
+geographic series   &&   地面级数
+geographical coordinates   &&   地面坐标
+geologic compass   &&   地质罗盘仪
+geological stereometer   &&   地质立体量测仪
+geomagnetic effect   &&   地磁效应
+geomagnetic electrokinetograph   &&   地磁场电磁海流计[GEK]
+geomagnetic field   &&   地磁场
+geomagnetic storm   &&   地磁暴
+geomagnetism   &&   地磁学，地磁
+geometric   &&   几何的
+geometric aberration   &&   几何象差
+geometric centre   &&   几何中心
+geometric centre of the dial   &&   度盘几何中心
+geometric characteristic symbols   &&   几何特性 几何特性符号
+geometric characteristics   &&   几何特性
+geometric convergence   &&   几何收敛
+geometric correlation   &&   几何相关
+geometric criterion   &&   几何判据
+geometric discontinuity   &&   几何不连续性
+geometric displacement   &&   几何排量
+geometric distortion   &&   几何失真
+geometric distribution   &&   几何分布
+geometric elastic stress concentration factor   &&   几何弹性应力增强系数
+geometric figure   &&   几何图形
+geometric growth   &&   几何增长
+geometric impedance factor   &&   几何阻抗因子
+geometric interpretation   &&   几何解释
+geometric metamerism   &&   几何位变异构
+geometric modeling technique   &&   几何造型技术
+geometric probability   &&   几何概率
+geometric programming   &&   几何规划
+geometric progression   &&   几何级数
+geometric radius   &&   几何半径
+geometric rectification of imagery   &&   图像几何纠正
+geometric registration of imagery   &&   图像几何配准
+geometric sequence   &&   几何序列
+geometric series   &&   几何级数
+geometric stiffness   &&   几何刚度
+geometric tolerance   &&   形位公差，几何公差
+geometric variable   &&   几何变量
+geometrical   &&   几何的
+geometrical accuracy   &&   几何精确度
+geometrical acoustics   &&   几何声学
+geometrical attenuation   &&   几何衰减
+geometrical average   &&   几何平均值
+geometrical axis   &&   几何轴
+geometrical capacity   &&   几何容量
+geometrical constraint   &&   几何约束
+geometrical conversion   &&   几何转变
+geometrical cross section   &&   几何截面
+geometrical crystallography   &&   几何晶体学
+geometrical error   &&   几何误差
+geometrical factor   &&   几何因数
+geometrical feature   &&   几何特性
+geometrical figure   &&   几何图形
+geometrical isomeride   &&   几何异构体
+geometrical isomerism   &&   几何异构现象
+geometrical mean   &&   几何平均值
+geometrical optics   &&   几何光学
+geometrical similarity   &&   几何相似性
+geometrical symmetry   &&   几何对称
+geometry   &&   几何，几何学，几何图形
+geometry factor-durability   &&   齿面接触强度几何系数
+geometry factor-strength   &&   强度几何系数
+geophone   &&   地听器
+geophysical fluid dynamics   &&   地球流体动力学
+geostationary meteorological satellite   &&   地球同步气象卫星
+geosynchronous orbit   &&   地球同步轨道
+geosynchronous-satellite   &&   地球同步卫星
+geotherm   &&   地热
+geothermal electric power generator   &&   地热发电机
+geothermal electric power station   &&   地热发电站
+geothermal power plant   &&   地热发电厂
+germanate   &&   锗酸盐
+germanate glass   &&   锗酸盐玻璃
+germanic compound   &&   锗化合物
+germanium   &&   锗Ge(32)
+germanium alloy transistor   &&   锗合金晶体管
+germanium crystal   &&   锗晶体
+germanium diode   &&   锗二极管
+germanium doped with gold   &&   锗掺金
+germanium doped with zinc   &&   锗掺锌
+germanium gold eutectic mixture   &&   锗-金低共熔混合物
+germanium junction transistor   &&   锗结型晶体管
+germanium low frequency high power triode   &&   锗低频大功率晶体三极管
+germanium mesa transistor   &&   锗台面型晶体管
+germanium semiconductor   &&   锗半导体
+germanium semiconductor triode   &&   锗半导体三极管
+germanium thermometer   &&   锗电阻
+germanium-silicon alloy   &&   锗-硅合金
+germanomolybdate   &&   锗钼酸盐
+gettering   &&   除气
+ghost   &&   幻影
+ghost bands   &&   鬼线
+ghost image   &&   重影，鬼像，叠影
+ghost line   &&   鬼线
+ghost mode   &&   鬼模
+ghost peak   &&   假峰
+gi cable   &&   气体绝缘电缆(gas insulated cable)
+giant computer   &&   巨型计算机
+gib   &&   ①扁栓②起重杆，吊车臂，凹形拉紧
+gib arm of crane   &&   起重机臂
+gib crane   &&   挺杆重机臂
+gib head   &&   螺栓头，钩头，销子头
+gib hoist   &&   悬臂式重机臂
+gibbet   &&   ①起重臂②支架，撑架
+gibbsite   &&   水铝矿
+gig   &&   提升机，绞车，卷扬机，起重机
+giga   &&   吉(咖)(10^9)
+giga bytes   &&   吉(咖)字节
+gilbert   &&   吉伯(磁通势单位)
+gilding aircraft   &&   滑翔机
+gilding press   &&   烫金机
+gill   &&   ①基尔(完成一次给定操作的时间单位)②吉耳(英国液量单位，等于0.25品脱，约0.142升)
+gill box   &&   针梳机
+gilled pipe   &&   加肋管
+gilled radiator   &&   片式散热器，肋条式散热器
+gilled tube   &&   肋形管
+gilled tube radiator   &&   管片式散热器
+gilling machine   &&   针梳机
+gills   &&   百叶窗
+gimbal joint   &&   万向节
+gimbal servo motor   &&   万向伺服电动机
+gimbaled errors of gyroscope   &&   陀螺框架误差
+gimbaled motor   &&   万向架固定式发动机，万向架悬挂式发动机
+gimbaled power plant   &&   万向架悬挂式动力装置
+gimbaled rocket engine   &&   万向架固定式定向火箭发动机
+gimbaling rocket motor   &&   框架固定式火箭发动机，万向架支座火箭发动机
+gin   &&   ①三脚起重机，绞车，绞盘，葫芦②弹棉机，轧棉机，打桩机
+gin block   &&   单轮滑车
+gin compress   &&   轧花压包机
+girder   &&   ①钢梁，工字钢②桁梁
+girder and rail mill   &&   轨梁轧机
+girder construction   &&   梁结构
+girder fork   &&   车架前叉
+girder iron   &&   梁钢，梁铁
+girder radial drilling machine   &&   梁式摇臂钻床
+girder spindle   &&   前叉枢轴
+girder steel   &&   梁钢，工字铁
+girth joint   &&   环形焊接，(锅炉的)横向焊接
+girth rivet seam   &&   沿圆周铆接
+gismondite   &&   水钙沸石
+git   &&   ①门，闸门，闭锁器②人口沟(锻模的)，浇口，浇铸沟，流道
+glancing angle   &&   掠射角
+gland   &&   ①衬片，压盖(密封时压填料用)②密封垫，密封装置，密封套
+gland bolt   &&   压盖螺栓
+gland box   &&   填料箱，填料函，填料盒
+gland follower   &&   密封压盖随动件
+gland nut   &&   压紧螺母
+gland packing   &&   压盖密封，压盖填料
+gland packing leakage   &&   汽封漏汽，轴封漏汽
+gland sealing steam collecting pipe   &&   汽封蒸汽集汽管
+gland sealing steam control valve   &&   汽封蒸汽调节阀
+gland sealing steam exhaust   &&   汽封蒸汽排汽
+gland sealing steam supply   &&   汽封供汽
+gland spring   &&   汽封弹簧
+gland steam   &&   汽封蒸汽，轴封蒸汽
+glare   &&   眩光
+glare control   &&   眩光控制
+glare index   &&   眩光指数
+glarometer   &&   抗眩测量器
+glass   &&   玻璃
+glass backed mica tape   &&   玻璃云母带
+glass base   &&   玻璃基底，玻璃基片
+glass base laminated material   &&   玻璃基层压材料
+glass basis   &&   玻璃基体，玻璃母体
+glass bath furnace   &&   玻璃浴炉(热挤压坯料无氧化加热用)
+glass beads   &&   玻璃珠
+glass bending machine   &&   玻璃弯曲机
+glass bending process   &&   玻璃弯曲法
+glass blanket   &&   玻璃棉毡
+glass block   &&   玻璃块，玻璃砖
+glass blowing   &&   玻璃吹制，灯工吹制(玻璃)
+glass bonded mica   &&   玻璃胶合云母
+glass brick   &&   玻璃块，玻璃砖
+glass bubbles   &&   玻璃小泡
+glass bulb rectifier   &&   玻璃壳整流器
+glass capacitor   &&   玻璃电容器
+glass cement   &&   玻璃胶(二玻璃黏合剂，玻璃胶凝材料)
+glass ceramic   &&   玻璃陶瓷
+glass circle   &&   玻璃电极
+glass cloth   &&   玻璃布，玻璃织物
+glass cloth laminate   &&   玻璃布层压制品
+glass coating   &&   玻璃涂层
+glass colour   &&   玻璃(着色用)颜料
+glass component   &&   玻璃组分
+glass composition   &&   玻璃成分，玻璃组分
+glass constituent   &&   玻璃组分
+glass content   &&   玻璃含量
+glass cord   &&   玻璃(纤维)绳
+glass cotton   &&   玻璃棉
+glass cover sheet   &&   玻璃盖片
+glass cutter   &&   玻璃(割)刀
+glass defect   &&   玻璃缺陷
+glass diffusion source   &&   玻璃扩散源
+glass diode   &&   玻璃二极管
+glass drops   &&   玻璃珠
+glass dust   &&   玻璃粉
+glass electrode   &&   玻璃电极
+glass epoxy   &&   玻璃钢，玻璃环氧树脂
+glass fabric   &&   玻璃布，玻璃织物
+glass felt   &&   玻璃棉毡
+glass fiber   &&   玻璃纤维
+glass fibre   &&   玻璃丝，玻璃纤维
+glass fibre coating   &&   玻璃纤维涂层，玻璃纤维涂料
+glass fibre covered wire   &&   玻璃丝包线
+glass fibre insulation   &&   玻璃纤维绝缘
+glass fibre lubricant   &&   玻璃纤维润滑剂
+glass fibre phenolics   &&   玻璃纤维酚醛塑料
+glass fibre reinforced plastics   &&   玻璃钢，玻璃纤维增强塑料
+glass filament   &&   玻璃长丝，玻璃丝
+glass filament reinforcement   &&   玻璃丝增强(作用)
+glass flake   &&   玻璃鳞片
+glass flour   &&   玻璃粉
+glass foam   &&   玻璃泡沫
+glass funnel   &&   玻璃漏斗
+glass furnace   &&   玻璃熔炉
+glass gilding   &&   玻璃镀金
+glass glazing   &&   玻璃釉
+glass glue   &&   玻璃胶(二玻璃黏合剂，玻璃胶凝材料)
+glass hardness   &&   玻璃硬度
+glass insulation   &&   玻璃绝缘
+glass insulator   &&   玻璃绝缘子
+glass laser   &&   玻璃激光器
+glass lasers   &&   玻璃激光
+glass marble   &&   玻璃球(制玻璃纤维的原料)
+glass marker   &&   玻璃刻度器
+glass matrix   &&   玻璃基体，玻璃母体
+glass measure   &&   玻璃量杯
+glass metal   &&   玻璃金属
+glass metal sealing alloy   &&   玻璃-金属封接合金
+glass mica composite   &&   玻璃-云母复合材料
+glass micanite   &&   玻璃云母板
+glass mirrors   &&   玻璃面镜
+glass monofilament   &&   玻璃单丝
+glass paint   &&   玻璃涂料
+glass panel   &&   玻璃面板
+glass paper   &&   玻璃纸
+glass phase   &&   玻璃相
+glass pipe line   &&   玻璃输送管线
+glass plate   &&   玻璃板
+glass powder   &&   玻璃粉
+glass property   &&   玻璃性能
+glass rod   &&   玻璃棒
+glass sand   &&   玻璃砂
+glass sand paper   &&   玻璃砂纸
+glass seal   &&   玻璃封接
+glass sealing alloy   &&   玻璃封接合金
+glass sheet   &&   玻璃板，玻璃片
+glass shell   &&   玻璃外壳
+glass silk   &&   玻璃丝
+glass silvering   &&   玻璃镀银
+glass solder   &&   玻璃焊剂
+glass state transition   &&   玻璃化转变
+glass strain   &&   玻璃应变
+glass stress   &&   玻璃应力
+glass striking temperature   &&   玻璃显色温度
+glass transition   &&   玻璃转化
+glass transition temperature   &&   玻璃化温度
+glass transmission   &&   玻璃透光率
+glass water gauge   &&   玻璃水位表
+glass wool   &&   玻璃棉，玻璃纤维
+glass wool filter   &&   玻璃棉滤器
+glass-ceramic mirrors   &&   玻璃陶瓷面镜
+glass-to-metal seal   &&   玻璃-金属封接
+glass-tube fuse   &&   玻璃管熔断器
+glassceramic   &&   微晶玻璃
+glassing machine   &&   打光机，磨光机
+glasslike ceramic clinker   &&   玻璃状陶瓷熔渣
+glasslike slag   &&   玻璃状熔渣
+glassware   &&   玻璃仪器，玻璃制品
+glassy break   &&   玻璃状断口
+glassy fracture   &&   玻璃状断口
+glassy inclusion   &&   玻璃态夹杂物
+glassy magnetic material   &&   玻璃态磁性材料
+glassy mass   &&   玻璃状物质
+glassy micro-phase   &&   玻璃态微观相
+glassy polymer   &&   玻璃态聚合物
+glassy semiconductor   &&   玻璃半导体
+glassy shear modulus   &&   玻璃态剪切模量
+glassy tensile modulus   &&   玻璃态拉伸模量
+glaze   &&   光泽
+glaze wheel   &&   抛光轮，研磨轮
+glazed iron   &&   脆性生铁
+glazed pig   &&   高硅生铁，脆性生铁
+glazed surface   &&   抛光表面
+glazed wire   &&   漆包线
+glazer   &&   ①抛光轮，砂轮②轧光机
+glazing   &&   光滑
+glazing calender   &&   砑光机，轧光机，擦光机
+glazing machine   &&   磨光机，抛光机，压光机
+glazing mill   &&   磨光机
+glazy pig iron   &&   高硅生铁
+gleaner   &&   割捆机，捆麦机，束谷机
+glide   &&   ①滑动，滑移②滑翔③滑道
+glide band   &&   滑移带
+glide bomb   &&   滑翔式炸弹
+glide conveyor   &&   滚动式输送机
+glide direction   &&   滑移方向
+glide dislocation   &&   滑移位错
+glide element   &&   滑移元
+glide lamella   &&   滑动(夹)层，滑移层
+glide packet   &&   滑动小件
+glide plane   &&   滑动面，滑移平面
+glide plane of symmetry   &&   滑移对称面
+glide reflection   &&   滑移反射
+glide reflection plane   &&   滑动反射面(X射线仪器的)
+glide rocket   &&   滑翔火箭
+glide strain   &&   滑移应变
+glide surface   &&   滑移面
+glide wheel   &&   滑轮
+glide wheel conveyor   &&   滚道式输送器，滚轮式输送器
+glider   &&   ①滑翔艇，滑翔机②滑翔导弹
+glider plane   &&   滑翔机
+gliding aircraft   &&   滑翔机
+gliding craft   &&   航空器，滑翔机
+gliding fracture   &&   滑移断裂
+gliding plane   &&   滑移平面
+gliding surface   &&   滑移面
+glissile dislocation   &&   滑动位错
+glist   &&   云母
+glitch   &&   ①一闪信号，假信号②误操作
+glitter   &&   闪光，闪光剂，闪光颜料(由反光鳞片组成的装饰用颜料)
+global   &&   全局(的) 整体
+global address   &&   全局地址
+global analysis   &&   整体分析
+global area   &&   全局区
+global beam antenna   &&   全球覆盖天线(卫星通信的)
+global code   &&   全局代码
+global communication coverage   &&   全球通信范围
+global communication system   &&   全球通信系统
+global computer network   &&   全球计算机网络
+global control section   &&   全局控制段
+global data base   &&   全球数据库
+global lock   &&   全局锁
+global network   &&   全球网络
+global object   &&   全局目标
+global optimum   &&   全局最优
+global positioning system   &&   全球测位系统
+global processor   &&   全局处理程序
+global radiation   &&   总辐射
+global search   &&   全局检索，全局查找
+global shared resources   &&   全局共享资源[GSR]
+global storage   &&   全局存储，整体存储
+global variable   &&   全局变量，全程变量
+global variable symbol   &&   全局变量符，全程变量符
+global virtual protocol   &&   全局虚拟协议
+global web of computer networks   &&   全球算机网络网1计算机]
+globe   &&   ①球，球体②球形的
+globe bearing   &&   球面轴承
+globe casing turbine   &&   球壳式水轮机
+globe head rivet   &&   圆头铆钉
+globe insulator   &&   球形绝缘子
+globe journal   &&   球形轴颈
+globe lathe   &&   球面车床
+globe mill   &&   球磨机
+globe strain insulator   &&   球形耐拉绝缘子
+globe valve   &&   球形阀
+globoid   &&   球状体
+globoid gearing   &&   曲面轮传动
+globoid worm   &&   球面蜗杆
+globoid worm gear   &&   球面蜗轮，曲面蜗轮，球面蜗杆传动
+globoid worm toothing   &&   球面蜗杆啮合
+globoidal worm gearing   &&   球面蜗杆传动
+globular carbide   &&   球状石墨，球状碳化物
+globular cementite   &&   球状渗碳体，球状炭化铁
+globular pearlite   &&   球状珠光体
+globular powder   &&   球状粉末
+globular shape   &&   球形，点状
+globular structure   &&   球状组织，球状构造
+globulation   &&   成球作用
+gloss   &&   光泽
+gloss finish   &&   光泽表面，光泽加工
+gloss index   &&   光泽度
+gloss meter   &&   光泽计
+gloss meters   &&   光泽计
+gloss oil   &&   光泽油
+gloss paint   &&   光泽涂料
+glossiness   &&   光泽度，光泽性
+glossy coal   &&   辉煤
+glove box   &&   贮物箱，杂物箱
+glove machine   &&   手套机
+glove valve   &&   球阀
+glow   &&   辉光
+glow corona   &&   辉光电晕
+glow discharge   &&   辉光放电
+glow lamp   &&   辉光灯
+glow plug   &&   电热塞
+glow starter   &&   辉光灯启动器
+glow thyratron   &&   辉光闸流管
+glow tube   &&   辉光管
+glow-discharge cathode   &&   辉光放电阴极
+glow-discharge detector   &&   辉光放电检测器
+glow-discharge display panel   &&   辉光放电显示板
+glow-discharge electron gun   &&   辉光放电电子枪
+glow-discharge lamp   &&   辉光放电管
+glow-discharge microphone   &&   辉光放电电话筒
+glow-discharge nitriding   &&   辉光放电氮化
+glow-discharge rectifier   &&   辉光放电整流器
+glow-discharge stabilizer   &&   辉光问答管
+glow-discharge tube   &&   辉光放电管
+glower   &&   ①白炽灯丝②白炽体，炽热体
+glowing   &&   炽热
+glowing ceramic rod   &&   辉光磁棒
+glowing furnace   &&   淬火炉
+glucose enzyme sensor   &&   酶(式)葡萄糖传感器
+glucose enzyme transducer   &&   酶(式)葡萄糖传感器
+glucoside   &&   葡糖苷， 糖苷，配糖物
+glue   &&   ①胶，胶质，胶合剂，黏结剂②胶水
+glue belt joint   &&   皮带胶接
+glue in pearls   &&   颗粒胶
+glued board   &&   胶合板
+glued insulation joint   &&   胶结绝缘接头
+glued joint   &&   胶接接头
+glutamate microbial sensor   &&   微生物谷氨酸传感器
+glutamate microbial transducer   &&   微生物谷氨酸传感器
+glutamic acid microbial sensor   &&   微生物谷氨酸传感器
+glutamic acid microbial transducer   &&   微生物谷氨酸传感器
+glycol cellulose   &&   纤维素乙二醇
+glycol ether of cellulose   &&   纤维素乙二醇醚
+glyphograph   &&   电刻版
+glyphography   &&   电刻术，电气凸板法
+go ahead mode   &&   专函方式，向导方式
+go ahead sequence   &&   向导序列
+go ahead tone   &&   向导音调
+go-anywhere vehicle   &&   越野车
+go-no-go test   &&   功能试验
+goalpost   &&   门柱，龙门架
+goat   &&   转辙机
+godet wheel   &&   导丝轮，导丝盘
+goffer   &&   ①皱褶，起皱②压出皱纹
+goffer machine   &&   压纹机
+gold   &&   ①金Au(79)②黄金③包金，镀金
+gold alloy   &&   金合金
+gold base alloy   &&   金基合金
+gold bond type diode   &&   金键二极管
+gold bronze   &&   金色铝青铜(Al 3％～5％，余为 Cu)
+gold bullion   &&   金锭
+gold coating   &&   金涂层
+gold cobalt alloy   &&   金钴热电偶合金(Co 2.1％，余为Au)
+gold contact   &&   金触点
+gold copper   &&   金铜合金
+gold doping   &&   掺金，金掺杂
+gold foil   &&   金箔
+gold gasket   &&   金密封垫圈
+gold glass   &&   金封接玻璃
+gold lacquer   &&   淡金水(涂于铝箔上产生金色效果的紫胶漆)
+gold leaf   &&   金箔
+gold solder   &&   金焊料
+gold soldering alloy   &&   金焊料合金(Au 58％～65％，Ag 12％～22％，Cu l2％～22％)
+gold stamping   &&   烫金
+gold-black coating   &&   金发黑处理膜
+gold-doped germanium detector   &&   锗掺金探测器
+gold-doped transistor   &&   掺金型晶体管
+gold-germanium eutectic temperature   &&   金-锗低共熔温度
+gold-leaf electroscope   &&   金箔验电器
+gold-silicon eutectic temperature   &&   金-硅低共熔温度
+gold-tin alloy   &&   金锡钎焊合金
+gold-vanadium alloy   &&   金钒合金(V 1％，Au 99％)
+goniometer   &&   ①测角计，测角仪②测向计③测高器③天线方向性调整器
+goniometer system   &&   测向装置，测角系统，测角器方式
+goniophotometer   &&   测角光度计
+good conductor   &&   良导体
+good parts   &&   良品
+good product   &&   良品
+good product accepted   &&   良品
+goodness of circuit   &&   电路品质因数
+goods accepted   &&   良品
+goods car   &&   运货汽车
+goods carrying vehicle   &&   运货车
+goods engine   &&   货运机车
+goods lift   &&   运货电梯，运货升降机
+goods locomotive   &&   货运机车
+goods stock   &&   货运车辆
+goods train   &&   货物列车
+goods vehicle   &&   商用汽车
+goods wagon   &&   货车
+goose neck   &&   鹅颈管
+gooseneck   &&   ①鹅颈管，鹅颈钩，S形弯曲管②挂车的拖曳臂③半挂车前端车架抬高部分④弹簧式弯头车刀
+gooseneck boom   &&   鹅头(鹅颈形起重杆)
+gooseneck crane   &&   鹅颈式起重机
+gooseneck dumper   &&   鹅颈式倾卸车
+gooseneck machine   &&   鹅颈式压铸机
+gooseneck spring tool   &&   鹅颈弹簧刀
+gooseneck tool   &&   鹅颈刀，弹簧刀，弯曲刀具
+gooseneck ventilator   &&   鹅颈式通风管
+gopher ditcher   &&   履带式挖沟机
+gothic character set   &&   黑体字字符集
+gouge   &&   沟槽，凿槽
+govern   &&   统治，支配，管理
+governor   &&   限速器
+governor valve   &&   气压调节阀
+grab   &&   ①抓住②抓斗③抓岩机
+grab bucket   &&   抓斗
+grab-type loader   &&   抓岩机
+grabber   &&   安全带收卷器
+grabbing crane   &&   抓斗式起重机
+gradation   &&   级配
+grade   &&   ①分等，分级②级配③级，等
+grade I standard dynamometer   &&   一等标准测力计
+grade II standard load calibrating machine   &&   二等标准测力机
+grade III standard dynamometer   &&   三等标准测力计
+grade of accuracy   &&   精度等级
+grade of precision   &&   精度等级
+gradeability   &&   托曳力，爬坡能力
+graded aggregate   &&   级配集料
+graded aggregate pavement   &&   级配路面
+graded insulated transformer   &&   分段绝缘变压器
+graded insulated winding   &&   分段绝缘绕组
+graded insulation   &&   分段绝缘
+graded insulation cable   &&   分段绝缘电缆
+graded materials   &&   级配材料
+graded mix   &&   级配混合料
+graded net   &&   等级网格
+graded potential   &&   分级电位
+graded seal   &&   递级封接
+graded-L operation   &&   分级L操作
+grader   &&   分级机
+grader-L signals   &&   分级L信号[GL]
+gradient   &&   倾斜度，倾斜量，梯度，百分度，渐层
+gradient Richardson number   &&   梯度里查森数
+gradient error   &&   梯度误差
+gradient error of bath   &&   槽的梯度误差
+gradient flux-gate magnetometer   &&   磁通门磁力梯度仪
+gradient freezing   &&   梯度冷冻
+gradient method   &&   梯度法
+gradient of magnetic potential   &&   磁位梯度
+gradient projection method   &&   梯度投影法
+gradient quenching   &&   梯度淬火
+gradient slope   &&   梯度倾斜度
+gradient solvent   &&   梯度溶剂
+gradient steepness   &&   梯度倾斜度
+gradient superconducting magnetometer   &&   超导磁力梯度仪
+gradient vector   &&   梯度向量
+gradienter   &&   测梯度仪，倾斜测定器，倾斜仪
+grading   &&   ①等分，分级②级配
+grading machine   &&   分级机，自动筛分机，土地平整机
+grading room   &&   分级室
+gradiometer   &&   磁场梯度仪，测梯度仪
+grads   &&   百分度 分度
+gradual change   &&   渐变
+gradual exhaustion   &&   渐次消耗
+gradual failure   &&   渐变失效
+gradually applied load   &&   渐加荷载
+graduate   &&   刻度
+graduated bottle   &&   刻度瓶
+graduated circle   &&   刻度圈
+graduated dial   &&   刻度盘
+graduated disk   &&   刻度盘
+graduated glass   &&   玻璃量杯
+graduated range   &&   刻度范围
+graduated receiver   &&   刻度容器
+graduated ring   &&   刻度圈
+graduation   &&   ①分级②分度，刻度
+graduation line   &&   刻度线
+graduator   &&   刻度器
+grafting tool   &&   锹，铲
+grain   &&   ①粒，晶粒，颗粒，磨粒，砂粒②纹理
+grain attack   &&   晶粒腐蚀
+grain boundary   &&   晶界
+grain coarsening   &&   晶粒粗化
+grain contrast   &&   晶粒衬度，晶粒反差
+grain coordination number   &&   晶粒配位数
+grain density   &&   晶粒密度
+grain discontinuity   &&   晶粒不连续性
+grain effect   &&   晶粒效应
+grain formation   &&   晶粒形成
+grain grading   &&   晶粒级配
+grain growth control   &&   晶粒长大控制
+grain growth inhibition   &&   晶粒长大抑制
+grain migration   &&   晶粒迁移
+grain orientation   &&   晶粒取向
+grain oxidation   &&   晶粒氧化
+grain pattern   &&   木纹式样
+grain propagation   &&   晶粒扩展
+grain refinement   &&   晶粒细化
+grain refining   &&   晶粒细化
+grain refining temperature   &&   晶粒细化温度
+grain relaxation   &&   晶粒弛豫
+grain shape   &&   晶粒形状
+grain size   &&   晶粒大小，晶粒度，结晶粒度
+grain size control   &&   晶粒度控制
+grain structure   &&   晶粒组织
+grain-boundary angle   &&   晶界角
+grain-boundary attack   &&   晶界腐蚀
+grain-boundary corrosion   &&   晶界腐蚀
+grain-boundary cracking   &&   晶界开裂
+grain-boundary energy   &&   晶界能
+grain-boundary flow   &&   晶界流变
+grain-boundary fracture   &&   晶界断裂
+grain-boundary impurity concentration   &&   界杂质浓度
+grain-boundary migration   &&   晶界迁移
+grain-boundary mobility   &&   晶界活动度
+grain-boundary movement   &&   晶界运动
+grain-boundary precipitation   &&   晶界沉淀
+grain-boundary segregation   &&   晶界偏析
+grain-boundary self diffusion   &&   晶界自扩散
+grain-boundary shape   &&   晶界形状
+grain-boundary sliding   &&   晶界滑动
+grain-boundary strength   &&   晶界强度
+grain-boundary structure   &&   晶界组织
+grain-oriented alloy   &&   晶粒取向合金
+grain-oriented silicon iron   &&   晶粒取向硅钢
+grain-oriented steel   &&   晶粒取向钢
+graining   &&   晶粒形成
+gram   &&   克(重量单位)
+gramophone   &&   唱机，电唱机
+gramophone disc   &&   唱片
+gramophone needle   &&   唱针，电唱针
+gramophone record   &&   唱片
+gramophone stylus   &&   唱针，电唱针
+gran turismo   &&   高级跑车[GT]
+granolite treatment   &&   磷酸溶液热处理
+granular polymerization   &&   成粒聚合(作用)
+granularity   &&   成粒性
+granulated glass   &&   玻璃细粒
+granulating agent   &&   成粒剂
+granulating machine   &&   ①成粒机②火药成粒机
+granulation   &&   成粒
+granulation polymerization   &&   成粒聚合(作用)
+granulator   &&   成粒器
+granule   &&   细粒
+granuloblast   &&   成粒细胞
+graph   &&   图表，图解，图形
+graph search   &&   图搜索
+graph structure   &&   图结构
+graph theoretic problem   &&   图论问题
+graph theory   &&   图论
+graph traversal   &&   图的遍历
+grapher   &&   图形屏，图形萤幕
+graphic   &&   图解的
+graphic access method   &&   图形存取法
+graphic appraisal method   &&   图解评价法[GAM]
+graphic area   &&   图形区 图形区
+graphic character   &&   图形字符
+graphic character modification   &&   图形字符修改性能
+graphic chart   &&   图表
+graphic display   &&   图形显示装置
+graphic display program   &&   图形显示程序
+graphic display terminal   &&   图解显示器
+graphic input unit   &&   图形输人设备
+graphic instrument   &&   图解仪
+graphic interpretation   &&   图解法
+graphic job processing   &&   图形作业处理
+graphic job processor   &&   图形作业处理程序[GJP]
+graphic language   &&   图形语言
+graphic library   &&   图形库
+graphic mapping control point   &&   图解图根点
+graphic method   &&   图示法
+graphic mode   &&   图形模式
+graphic operation   &&   图操作，图形操作
+graphic output unit   &&   图形输出设备
+graphic package   &&   图形程序包
+graphic panel   &&   全模拟盘
+graphic processing facility   &&   图形处理装置[GPF]
+graphic report generator   &&   图形报告生成程序
+graphic sign   &&   图形记号
+graphic solution   &&   图解
+graphic symbol   &&   图形符号
+graphic variable   &&   图形变量
+graphical analysis   &&   图解分析
+graphical evaluation and review technique   &&   图解评审技术
+graphical method   &&   图解法
+graphical model   &&   图解模型
+graphical rectification   &&   图解纠正
+graphical representation   &&   图示
+graphical sequencing   &&   图解顺序
+graphics   &&   图形，图形学
+graphics access method   &&   图像存取方法，图形存取方法[GAM]
+graphics cursor   &&   图形光标 图形游标
+graphics screen   &&   图形屏 图形萤幕
+graphics user interface   &&   图形用户接口[GUI]
+graphics window   &&   图形窗口 图形视窗
+graphite   &&   石墨
+graphite alloy   &&   石墨(减摩)合金(Pb 68％，Sb 17％，Sn l5%)
+graphite block   &&   石墨块，石墨砖
+graphite boat   &&   石墨舟皿
+graphite bronze   &&   石墨青铜
+graphite brush   &&   石墨电刷
+graphite crucible   &&   石墨坩埚
+graphite die   &&   石墨模
+graphite electrode   &&   石墨电极
+graphite embrittlement   &&   石墨脆性
+graphite fibre   &&   石墨纤维
+graphite fibre coupling agent   &&   石墨纤维耦合剂
+graphite flake   &&   石墨片
+graphite grease   &&   石墨润滑脂，石墨脂
+graphite lubricant oil   &&   石墨润滑油
+graphite machine   &&   石墨加工机
+graphite moderated reactor   &&   石墨慢化(反应)堆
+graphite nodule   &&   石墨球
+graphite plate   &&   石墨板
+graphite pot   &&   石墨坩埚
+graphite powder   &&   石墨粉
+graphite reinforcement   &&   石墨加强
+graphite resistor furnace   &&   石墨电阻炉
+graphite-base composite material   &&   石墨基合成材料
+graphite-ebonite electrode   &&   石墨硬橡胶电极
+graphite-fibre-reinforced plastics   &&   石墨纤维增强塑料
+graphite-reinforced phenolics   &&   石墨加强酚醛塑料
+graphite-uranium pile   &&   石墨-铀堆
+graphitic corrosion   &&   石墨化腐蚀
+graphitic embrittlement   &&   石墨脆性
+graphitic pig iron   &&   灰口(生)铁
+graphitization   &&   石墨化(作用)
+graphitized alloy   &&   石墨化合金
+graphitized carbon filament   &&   石墨化碳丝
+graphitized filamentary material   &&   石墨纤维材料
+graphitizing   &&   石墨化(作用)，石墨退火
+graphitizing annealing   &&   石墨化退火
+grapholite   &&   石墨片岩
+graphs of fuzzy switching function   &&   模糊开关函数图
+grasp   &&   抓住
+grate   &&   炉条，炉篦
+grate bars   &&   炉条钢
+grating displacement transducer   &&   光栅式位移传感器
+grating monochromator   &&   光栅单色仪
+grating nephoscope   &&   栅状测云器
+grating spectrograph   &&   光栅摄谱仪
+graver   &&   刻刀
+gravimeter   &&   重力仪
+graving tool   &&   雕刻刀具
+gravitation   &&   地心吸力，地心引力
+gravitation filter   &&   过滤澄清器
+gravitational attraction   &&   地球引力
+gravitational balancing machine   &&   重力式平衡机，重力平衡机
+gravity   &&   地心吸力，地心引力
+gravity anomaly   &&   重力异常
+gravity casting   &&   重力铸造
+gravity casting machines   &&   重力铸造机
+gravity corer   &&   重力式取样管
+gravity correction   &&   重力修正
+gravity gradient survey   &&   重力梯度测量
+gravity gradiometer   &&   重力梯度仪
+gravity horizontal gradient survey   &&   重力水平梯度测量
+gravity nut   &&   重心铊
+gravity platform   &&   重力平台
+gravity profile   &&   重力剖面
+gravity survey   &&   重力测量
+gravity vertical gradient survey   &&   重力垂向梯度测量
+gravity-piston type corer   &&   重力活塞式取样管
+gray   &&   灰度 灰阶
+gray body   &&   灰体
+gray cast-iron   &&   灰铸铁
+gray corrosion   &&   灰色斑点
+gray filter   &&   灰色滤光片
+gray platinum   &&   灰色铂
+gray scale   &&   灰度
+grease   &&   脂膏、黄脂，润滑脂
+grease gun   &&   润滑脂枪、注油枪
+grease nipple   &&   润滑脂注入口、润滑脂嘴
+grease pits   &&   污斑
+grease up   &&   加油、加注润滑脂
+green computer   &&   绿色电脑
+green design design for environment   &&   绿色设计
+greenhouse effect   &&   温室效应
+greenhouse gases   &&   温室气体
+greenish-yellow gold alloy   &&   淡绿黄金
+grey cast iron   &&   灰铸铁
+grey iron   &&   灰口(生)铁
+grey manganese ore   &&   灰锰矿
+grey pig iron   &&   灰生铁
+grid   &&   ①栅，栅格(反应堆的)②栅极③网格，格网，格栅④格点，格子
+grid amplitude   &&   格网幅度
+grid azimuth   &&   格网方位角
+grid bearing   &&   格网方位，格网方向
+grid bias   &&   栅极偏压
+grid bias supply   &&   栅极偏压电源
+grid capacitance   &&   栅极电容
+grid cathode conductance   &&   栅极-阴极间电导
+grid choke   &&   栅极扼流圈，栅极抗流圈
+grid condenser   &&   栅极电容器
+grid contact   &&   栅极接触
+grid control   &&   栅极控制
+grid cut-off voltage   &&   栅极截止电压
+grid data bank   &&   格网数据库
+grid declination   &&   格网偏角
+grid direction   &&   格网方向
+grid electrode   &&   栅极
+grid emission   &&   栅极放射
+grid impulse   &&   栅极脉冲
+grid leak detector   &&   栅漏检波器
+grid lines device   &&   格线装置
+grid mesh   &&   栅极网孔，栅网
+grid mode   &&   栅格模式 格点模式
+grid modulation   &&   栅极调制
+grid navigation   &&   格网导航
+grid peak-voltage   &&   栅极尖峰电压
+grid ratio   &&   栅格比值
+grid resistor   &&   栅极电阻器
+grid variation   &&   格网偏差
+grid voltage   &&   栅压
+grid-cathode diode   &&   栅阴二极管
+grid-control voltage   &&   栅极控制电压
+grid-controlled X-ray tube   &&   栅控X射线管
+grid-controlled rectifier   &&   栅极控制整流器
+grid-plate capacitance   &&   栅极-板极电容
+grill   &&   格栅
+grille   &&   格栅，水箱护罩
+grille spectrometer   &&   格栅谱仪
+grind   &&   磨，磨削，研磨
+grindability testing   &&   磨削性试验
+grinder   &&   砂轮机，磨床
+grinder bench   &&   磨床工作台
+grinders thread   &&   螺纹磨床
+grinders tools   &&   工具磨床
+grinders ultrasonic   &&   超声波打磨机
+grinding   &&   磨光，磨削
+grinding crack   &&   磨削裂纹
+grinding cracks   &&   磨削裂纹
+grinding defect   &&   磨痕
+grinding machine   &&   磨床，砂轮机
+grinding machines   &&   磨床
+grinding machines centerless   &&   无心磨床
+grinding machines cylindrical   &&   外圆磨床
+grinding machines universal   &&   万能磨床
+grinding mill   &&   磨碎机，碾磨机
+grinding testing   &&   ①磨削性试验，可磨性试验②磨耗性试验
+grinding tolerance   &&   磨削裕度
+grinding tools   &&   磨削工具
+grinding wheel   &&   磨轮
+grinding wheel groove   &&   砂轮越程槽
+grinding wheels   &&   磨轮
+grins axle weight   &&   总轴荷
+grip   &&   ①夹点，掣点②夹头
+grip gear   &&   紧固装置
+grip hole   &&   倾斜炮眼
+gripper   &&   ①抓爪，夹具②机械爪
+gripping tongs   &&   平口钳，鸭嘴钳
+grit   &&   沙砾
+grit blasting   &&   喷钢砂(处理)
+grit chamber   &&   除砂室
+grit maker   &&   抽粒机
+groove   &&   ①槽纹，刻槽②凹槽，沟槽③压线
+groove cam   &&   槽凸轮
+groove cutting machine   &&   开槽机
+groove depth   &&   槽深
+groove milling cutter   &&   槽铣刀
+groove punch   &&   压线冲子
+groove welding   &&   起槽熔接
+grooved bullet   &&   有槽子弹，带螺纹子弹
+grooved cam   &&   槽凸轮
+grooved cylinder   &&   槽纹滚筒
+grooved flange   &&   槽面法兰
+grooved pulley   &&   槽轮
+grooved roller   &&   槽纹辊
+grooved shaft   &&   槽轴
+grooved spring steel   &&   带槽弹簧钢
+grooved strip, window   &&   车窗槽条
+grooving machine   &&   刻槽机
+grooving tool   &&   车外圆刀具，开槽刀具
+grope   &&   模索
+gross axle weight rating   &&   总轴荷[GAWR]
+gross combination weight   &&   列车总质量[GCW]
+gross contact area   &&   总印迹面积
+gross generation   &&   总发电量
+gross load   &&   总负荷，总载量
+gross power   &&   总功率
+gross rated capacity   &&   总额定出力，总额定容量
+gross requirement   &&   毛需求量
+gross train weight   &&   汽车列车总质量[GTW]
+gross vehicle weight   &&   ①汽车总质量②货车及其装载的质量和 [GVW]
+gross weight   &&   总重量
+ground   &&   ①接地②地基
+ground X-ray fluorimeter   &&   地面X射线荧光仪
+ground bar   &&   接地棒
+ground base   &&   地基
+ground based observation   &&   地面观测
+ground bus   &&   接地母线
+ground cable   &&   地下电缆
+ground clearance   &&   离地间隙
+ground connection   &&   ①接地②接地线
+ground contact   &&   接地
+ground detector   &&   接地检测器
+ground distance relay   &&   接地距离继电器
+ground echoes   &&   地面回波
+ground effect   &&   地面效应
+ground effect vehicle   &&   地面效应车辆
+ground electrochemical extractor   &&   地电化学提取法仪器
+ground electromagnetic instrument   &&   地面电磁法仪器
+ground fault   &&   接地故障
+ground fault current   &&   接地故障电流
+ground fault protection   &&   接地故障保护(装置)
+ground fault relay   &&   接地故障继电器
+ground field   &&   基域
+ground gamma spectrometer   &&   地面伽玛能谱仪
+ground gear   &&   地面设备，降落设备
+ground graphite   &&   石墨粉
+ground gravity survey   &&   地面重力测量
+ground instrument   &&   地面仪器
+ground lead   &&   接地线
+ground line angles   &&   汽车通过角
+ground locket   &&   地面发射的火箭
+ground mass   &&   基本质量
+ground net   &&   地线网
+ground noise   &&   本底噪声
+ground plane   &&   地平面
+ground plate   &&   接地板
+ground point   &&   接地点
+ground potential   &&   地电位，地电势
+ground protection   &&   接地保护(装置)
+ground pulse electromagnetic instrument   &&   地面脉冲电磁仪
+ground receiving station   &&   地面接收站
+ground rule   &&   基本准则，基础性准则
+ground state   &&   基态
+ground state level   &&   基态能级
+ground support bomber   &&   地面辅助轰炸机
+ground terminal   &&   接地端子
+ground track   &&   地面跟踪
+ground type charging machine   &&   地面装料机
+ground visibility   &&   地面能见度
+ground water   &&   地下水
+ground wire   &&   地线
+ground work   &&   基础
+ground-attack aircraft   &&   攻击机
+ground-controlled interception radar   &&   地面控制拦截监视雷达
+ground-station   &&   地面站
+ground-to-air [guided] missile   &&   地对空导弹
+ground-to-ground [guided] missile   &&   地对地导弹
+ground-to-plane radio   &&   飞机与地面联络无线电装置
+ground-to-ship missile   &&   地对舰导弹
+ground-to-ship rocket   &&   地对舰导弹
+ground-water level   &&   地下水位
+ground-water pollution   &&   地下水污染
+ground-water reservoir   &&   地下水库
+ground-water table   &&   地下水位
+grounded circuit   &&   接地电路
+grounded junction   &&   接地端
+grounded noise   &&   接地噪声
+grounded-resistance tester   &&   接地电阻测定器
+grounding   &&   接地
+grounding contact   &&   接地触头
+grounding current   &&   接地电流
+grounding switch   &&   接地开关
+group   &&   ①成组，编组，群组②群，组，类别③基
+group address   &&   组地址
+group address message   &&   组地址消息，多地址消息
+group addressing   &&   成组寻址，组寻址，组编址，成组访问
+group advance receive   &&   组提前接收
+group advance send   &&   组提前发送
+group algebra   &&   群代数
+group amplifier   &&   群放大器
+group authority   &&   组特许权
+group battery   &&   电池组
+group busy signal   &&   组占线信号，群占信号线
+group button   &&   成组按钮
+group carrier frequency   &&   群载(波)频(率)，组载波频率
+group carry   &&   成组进位，分组进位
+group change   &&   成组改变
+group code   &&   ①组码，群组码②群码
+group coded recording   &&   组编码记录[GCR]
+group control   &&   群控(制)，分组控制
+group data set   &&   组数据集
+group decision support system   &&   群体决策支持系统[GDSS]
+group delay   &&   组延迟
+group demodulator   &&   群调解器
+group digital check   &&   成组数字检查
+group drive   &&   成组传动装置，成组拖动(装置)
+group driving   &&   成组传动(机器等的)
+group entry   &&   组人口
+group frequency   &&   基频
+group indicate   &&   组指示，组标志
+group item   &&   组项
+group knife   &&   组合闸刀
+group layout   &&   成组布局
+group leader supervisor   &&   组长
+group length   &&   组长度
+group machining   &&   成组加工
+group mark   &&   组标志
+group milling cutter   &&   组合铣刀
+group moment   &&   基矩
+group name   &&   组名
+group number   &&   组号
+group of an instrument for explosive atmosphere   &&   防爆仪表类别
+group of bit   &&   位组
+group of locks   &&   船闸群
+group of machines   &&   机群
+group of piles   &&   桩群
+group of planes   &&   机群
+group of waves   &&   波群
+group orbital   &&   群轨道
+group profile   &&   组说明
+group record   &&   分组记录，编组记录，成组记录
+group separator   &&   组分隔符
+group switch   &&   成组开关
+group switching   &&   组交换
+group technique   &&   成组技术[GT]
+group technology   &&   成组技术[GT]
+group theory   &&   群论
+group variety   &&   群簇
+group velocity   &&   群速
+group-hand modem   &&   宽带调制解调器
+grouped column   &&   群柱
+grouped record   &&   成组记录
+grouser   &&   履剌
+growing point   &&   成长点
+growl   &&   隆隆声
+grown fire   &&   鼓涨的轮胎
+growth theory   &&   成长理论
+guard   &&   保险装置
+guard boat   &&   警备船，警备舰
+guard switch   &&   保险开关
+guarded input   &&   保护输入
+gudgeon pin   &&   活塞销
+guest's car park   &&   来客停车场
+guidance system   &&   导向系统
+guidance test   &&   制导设备测试，制导系统测试
+guide   &&   导轨，导向器(燃气轮机)
+guide bar   &&   导杆
+guide bearing piston rod   &&   活塞杆导向座
+guide blade   &&   导向叶片
+guide board   &&   导板，导向板
+guide bush   &&   导套
+guide bushing   &&   引导衬套
+guide channel   &&   导向槽
+guide groove   &&   导向槽
+guide hole   &&   导孔
+guide pad   &&   导料块
+guide pillar   &&   导柱
+guide pillars and bushes   &&   导柱和导套
+guide pin   &&   ①导销，导柱②合模销
+guide pin bush   &&   合模销套、导套
+guide plate   &&   ①导板，导向板②定位板③导料板
+guide post   &&   导柱(冲压模的)，引导柱
+guide post bushing   &&   导柱套
+guide pulley   &&   导轮，导向轮
+guide rail   &&   导轨
+guide rod   &&   导杆
+guide roll   &&   导辊，导向辊
+guide screw   &&   丝杠
+guide slot   &&   导向槽
+guide steel bush   &&   导向钢套
+guide thimble   &&   导向套管
+guide track   &&   ①轴承环②滚珠导槽，导轨③轨道
+guide trough   &&   导向槽
+guide valve   &&   导向阀
+guide vane   &&   导向叶片
+guide wall   &&   导流堤
+guide way   &&   导轨，导向槽
+guide wheel   &&   导轮
+guided aircraft missile   &&   机载导弹，航空导弹[GAM]
+guided aircraft rocket   &&   机载火箭，航空火箭[GAR]
+guided bomb   &&   导弹，制导炸弹
+guided bomber   &&   导弹轰炸机
+guided missile   &&   导弹
+guided missile counter-measures   &&   导弹对抗(措施)，防导弹措施[GMCM]
+guided missile cruiser   &&   导弹巡洋舰
+guided missile destroyer   &&   导弹驱逐舰
+guided missile heavy cruiser   &&   重型导弹巡洋舰
+guided missile launcher   &&   导弹发射装置
+guided missile light cruiser   &&   轻型导弹巡洋舰
+guided missile ship   &&   导弹舰
+guided missile submarine   &&   导弹潜艇
+guided missile test set   &&   导弹试验装置
+guided propagation   &&   导向传播(电)
+guided radar   &&   导向雷达
+guided rocket   &&   制导导弹
+guided ship-to-air rocket   &&   舰对空导弹
+guided ship-to-ground rocket   &&   舰对地导弹
+guided ship-to-ship rocket   &&   舰对舰导弹
+guided space vehicle   &&   制导航天飞行器[GSV]
+guided weapon control system   &&   制导武器控制系统
+guided weapon escort ship   &&   导弹护卫舰
+guiding centre   &&   导向中心
+guiding centre approximation   &&   导向中心近似
+guiding mechanism   &&   导向装置
+guiding telescope   &&   导星(望远)镜
+gullet tooth   &&   偏锋齿，钩齿
+gulp valve   &&   空气阀
+gum   &&   胶质
+gumming machine   &&   涂胶机
+gummosis   &&   流胶
+gun   &&   ①枪，炮，火炮②电子枪③注射器，注油枪
+gun drill   &&   深孔钻、枪管钻
+gun drilling machine   &&   深孔钻床
+gun powder   &&   火药
+gun rifling machine   &&   枪管来复线机
+gun-cotton   &&   火棉，纤维素六硝酸酯
+gunnery ship   &&   炮舰
+guss concrete   &&   流态混凝土
+guttering   &&   檐槽
+gypsum mold   &&   石膏铸模
+gypsum molding die   &&   石膏模
+gyratory breaker   &&   环动式轧碎机
+gyro   &&   陀螺，陀螺仪
+gyro azimuth   &&   陀螺方位角
+gyro balancing machine   &&   陀螺测斜仪
+gyro correction   &&   陀螺修正
+gyro drift   &&   陀螺漂移
+gyro electronic distance measuring traverse   &&   陀螺定向光电测距导线
+gyro error   &&   陀螺误差
+gyro level   &&   陀螺水准仪
+gyro meridian   &&   陀螺仪子午线
+gyro orientation error   &&   陀螺定向误差
+gyro-controlled missile   &&   陀螺控制的导弹(兵下)
+gyro-theodolite   &&   陀螺经纬仪
+gyro-vertical apparatus   &&   陀螺垂直仪
+gyrocompass   &&   陀螺罗经，陀螺罗盘
+gyrodynamics   &&   陀螺力学
+gyrodyne aircraft   &&   旋翼式螺旋桨飞机
+gyroscope   &&   ①图解法②陀螺仪
+gyroscope autopilot   &&   陀螺自动驾驶仪
+gyroscopic effect   &&   陀螺效应
+gyroscopic horizon   &&   陀螺水平仪
+gyroscopic moment   &&   陀螺力矩
+gyroscopic theodolite   &&   陀螺经纬仪
+gyroscopic torque   &&   回转，回转力矩
+gyrostabilized platform   &&   陀螺稳定平台
+gyrostat   &&   陀螺体
+gyrostatic orientation survey   &&   陀螺定向测量
+gyrotheodolite   &&   陀螺经纬仪

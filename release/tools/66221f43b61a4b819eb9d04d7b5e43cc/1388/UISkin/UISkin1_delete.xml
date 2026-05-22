@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window >
+	<Font name="Cambria" size="18" bold="true" italic="true" />
+
+	<Default name="VScrollBar" value="width=&quot;12&quot; button1normalimage=&quot;file='scroll2.png' source='0,0,1,1' fade='125'&quot; button1hotimage=&quot;file='scroll2.png' source='0,0,1,1' mask='#FFFF00FF' fade='125'&quot; button1pushedimage=&quot;file='scroll2.png' source='0,0,1,1' mask='#FFFF00FF' fade='125'&quot; button1disabledimage=&quot;file='scroll2.png' source='0,0,1,1' mask='#FFFF00FF' fade='125'&quot; button2normalimage=&quot;file='scroll2.png' source='0,0,1,1' fade='125' mask='#FFFF00FF'&quot; button2hotimage=&quot;file='scroll2.png' source='0,0,1,1' fade='125'mask='#FFFF00FF'&quot; button2pushedimage=&quot;file='scroll2.png'fade='125' source='0,0,1,1' mask='#FFFF00FF'&quot; button2disabledimage=&quot;file='scroll2.png' source='0,0,1,1'fade='125' mask='#FFFF00FF'&quot; thumbnormalimage=&quot;file='scroll2.png' source='0,0,1,2'   mask='#FFFF00FF'&quot; thumbhotimage=&quot;file='scroll2.png' source='0,0,1,2'   mask='#FFFF00FF'&quot; thumbpushedimage=&quot;ffile='scroll2.png' source='0,0,1,2'   mask='#FFFF00FF'&quot; thumbdisabledimage=&quot;file='scroll2.png' source='0,0,1,2'   mask='#FFFF00FF'&quot; railnormalimage=&quot;file='scroll2.png' source='0,0,1,2'   mask='#FFFF00FF'&quot; railhotimage=&quot;file='scroll2.png' source='0,0,1,2'   mask='#FFFF00FF'&quot; railpushedimage=&quot;file='scroll2.png' source='0,0,1,2'   mask='#FFFF00FF'&quot; raildisabledimage=&quot;file='scroll2.png' source='0,0,1,2'   mask='#FFFF00FF'&quot; bknormalimage=&quot;file='scroll2.png' source='0,0,1,1'   fade='125' mask='#FFFF00FF'&quot; bkhotimage=&quot;file='scroll2.png' source='0,0,1,1' fade='125'  mask='#FFFF00FF'&quot; bkpushedimage=&quot;file='scroll2.png' source='0,0,1,1' fade='125'  mask='#FFFF00FF'&quot; bkdisabledimage=&quot;file='scroll2.png' source='0,0,1,1'  fade='125' mask='#FFFF00FF'&quot; " />
+
+<Container name="deletexml" float="false" visible="false" >
+	<HorizontalLayout >
+		<Control />
+		<VerticalLayout width="350"  >
+			<Control />
+			<VerticalLayout  height="208" bkcolor="0xff000000" bkimage="file='About_Background_00.png'" >
+				<Control height="1" bkcolor="#FF3AC6D7" />
+
+				<HorizontalLayout  height="26"  bkimage="file='About_Background_01.png'" >
+					<Control width="5" />
+					<VerticalLayout  width="65" >
+						<Control  />
+						<Control width="63" height="9" bkimage="file='About_00.png'" />
+						<Control />
+					</VerticalLayout>
+					<Control />
+					<VerticalLayout width="22" >
+						<Control />
+						<Button name="closedelete" width="22" height="22" bkimage="file='minmaxexit00.png'  dest='5,5,17,17' source='64,2,76,14' fade='125' "  hotimage="file='minmaxexit00.png'  dest='5,5,17,17' source='64,2,76,14' fade='225' " visible="true" />
+						<Control />
+					</VerticalLayout>
+					<Control width="2" />
+				</HorizontalLayout>
+
+				<Control height="12" />
+				<HorizontalLayout >
+					<Control width="30" />
+					<VerticalLayout >
+						<Control height="1" />
+						<Control height="2" />
+						<HorizontalLayout inset="2,0,2,0"  >
+							<List name="listviewfiledelete" inset="0,0,0,0" itemshowhtml="true" vscrollbar="true" hscrollbar="true"  itemalign="center" itemaltbk="false" sepimm="false" hscrollbar="false" menu="true"  itemhotbkcolor="#FF063040" itemselectedbkcolor="#FF063040" >
+								<ListHeader height="24" menu="true" bkcolor="#FF1d586b" >
+									<ListHeaderItem text="序号"     font="3" width="60"  sepwidth="1" textcolor="c0c0c0" />
+									<ListHeaderItem text="弹簧参数配置文件" font="3" width="200" sepwidth="1" textcolor="c0c0c0" />
+								</ListHeader>
+								<!--<Include source="listitem.xml"/>-->
+								<!--<Include source="listitem.xml"/>-->
+							</List>
+						</HorizontalLayout>
+									
+						<Control height="5" />
+						<Control height="1" />
+						<Control height="5" />
+						<HorizontalLayout height="24" >
+							<Control width="30" />
+							<Button name="Button_deletefile" width="80" height="24" bkimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='125' " hotimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='225' "  text="删除" font="3" textcolor="b0f0f7" />	
+							<Control />
+							<Button name="closedelete" width="80" height="24" bkimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='125' " hotimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='225' "  text="取消" font="3" textcolor="b0f0f7" />	
+							<Control width="30" />
+						</HorizontalLayout>	
+					</VerticalLayout >
+					<Control width="30" />
+				</HorizontalLayout>
+				<Control height="12" />
+
+				<Control height="1" bkcolor="#FF3AC6D7" />
+			</VerticalLayout>
+			<Control />
+		</VerticalLayout>
+		<Control />
+	</HorizontalLayout>
+</Container>
+
+</Window>

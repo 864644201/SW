@@ -1,0 +1,178 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">近似直线机构</span></td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>罗伯特近似直线机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/721.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 利用铰链四杆机构的连杆上某点轨迹中一段近似直线作为 直线导引机构，称其为罗伯特连杆机构，该机构可用在测量仪器上。各杆的尺寸关系为 <br>
+        　　 AB=CD=0.584h <br>
+        　　 BC=0.592h <br>
+        　　 AD=h <br>
+        　　 在BC的垂直平分线上取EM=l.112h，则连杆上 M点的轨迹为近似直线。若 AB=CD=0.6h、 BC=0.5h，则M点近似沿AD作直线往复移动。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>简化瓦特近似直线机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/722.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 取连杆BC=0.6h，两摇杆AB=CD=1.5h，则BC中点P的轨迹为瓦特双叶形对称曲线，其形状类似对称的 8字，在规定h范围内PP接近直线，且直线轨迹位于两固定铰链A，D水平距离的中垂线上。固定铰链A、D铅垂距离为h，其偏量各为h/2。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>2-4-5连杆直线机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/723.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 铰链四杆机构ABCD的各杆长度比取 <br>
+        　　 AB=CD <br>
+        　　 BC：AD：AB=2：4：5 <br>
+        　　 故此称作2-4-5连杆机构。当摇杆CD转到C'D位置，连杆BC的中点P的轨迹PP为近似直线，且平行于AD。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>起重铲直线机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/724.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 当机构各杆具有图示机构的尺寸关系时，主动液压缸1的活塞在液压作用下，用活塞杆的伸缩带动起重臂2，使2上的E点沿铅垂线升降，保证和E固联的起重铲完成升降的要求。图中h1，h2表示起重铲的两个升高位置。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>皮革打光机近似直线机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/731.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动曲柄1带动杆2上的M点按图示点划线m的轨迹运动，在m轨迹的下半部是近似直线MM 1 。在M点设置抛光轮，可利用M点的直线轨迹部分用抛光轮在皮革上完成抛光工作，轨迹m的上半部曲线抬高作为空行程。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

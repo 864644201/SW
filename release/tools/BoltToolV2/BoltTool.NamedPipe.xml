@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BoltTool.NamedPipe</name>
+    </assembly>
+    <members>
+        <member name="T:BoltTool.NamedPipe.Command">
+            <summary>
+            命令
+            </summary>
+        </member>
+        <member name="T:BoltTool.NamedPipe.ReadingHoleCommand">
+            <summary>
+            读取孔
+            </summary>
+        </member>
+        <member name="T:BoltTool.NamedPipe.SetActiveDocCommand">
+            <summary>
+            切换活动文档
+            </summary>
+        </member>
+        <member name="T:BoltTool.NamedPipe.BoltPreviewCommand">
+            <summary>
+            装配预览
+            </summary>
+        </member>
+        <member name="M:BoltTool.NamedPipe.NamedPipeService.Listen(System.String,BoltTool.NamedPipe.ListenCallbackHander)">
+            <summary>
+            监听
+            </summary>
+            <param name="channelName">通道名称</param>
+            <param name="callback">回调</param>
+        </member>
+        <member name="M:BoltTool.NamedPipe.NamedPipeService.SendMessage(System.String,System.Object)">
+            <summary>
+            发送
+            </summary>
+            <param name="serverChannelName">服务管道名称</param>
+            <param name="msgObj">消息实例</param>
+        </member>
+        <member name="M:BoltTool.NamedPipe.NamedPipeService.SendMessage(System.String,System.Object,System.Int32)">
+            <summary>
+            发送
+            </summary>
+            <param name="serverChannelName">服务管道名称</param>
+            <param name="msgObj">消息实例</param>
+            <param name="timeOut"></param>
+        </member>
+        <member name="M:BoltTool.NamedPipe.NamedPipeService.SendMessage(System.String,System.Object,System.Int32,System.Action,System.Action)">
+            <summary>
+            发送
+            </summary>
+            <param name="serverChannelName">服务管道名称</param>
+            <param name="msgObj">消息实例</param>
+            <param name="timeOut"></param>
+            <param name="success">成功委托</param>
+            <param name="failed">失败委托</param>
+        </member>
+        <member name="T:BoltTool.NamedPipe.Result">
+            <summary>
+            addin-->Client(结果)
+            </summary>
+        </member>
+        <member name="P:BoltTool.NamedPipe.Result.ResultType">
+            <summary>
+            结果类型
+            </summary>
+        </member>
+        <member name="T:BoltTool.NamedPipe.ReadingResult">
+            <summary>
+            读取结果
+            </summary>
+        </member>
+        <member name="P:BoltTool.NamedPipe.ReadingResult.HoleDictionary">
+            <summary>
+            孔信息
+            </summary>
+        </member>
+        <member name="P:BoltTool.NamedPipe.ReadingResult.ComponentsTree">
+            <summary>
+            部件树
+            </summary>
+        </member>
+        <member name="T:BoltTool.NamedPipe.ReadingInfoResult">
+            <summary>
+            读取信息
+            </summary>
+        </member>
+        <member name="T:BoltTool.NamedPipe.ReadingStepResult">
+            <summary>
+            读取步进
+            </summary>
+        </member>
+        <member name="T:BoltTool.NamedPipe.AssemblyStepResult">
+            <summary>
+            装配步进
+            </summary>
+        </member>
+        <member name="T:BoltTool.NamedPipe.AssemblyStopResult">
+            <summary>
+            停止结果
+            </summary>
+        </member>
+        <member name="T:BoltTool.NamedPipe.AddHolesGroupResult">
+            <summary>
+            添加孔组结果
+            </summary>
+        </member>
+    </members>
+</doc>

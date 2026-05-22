@@ -1,0 +1,128 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">双曲柄四杆机构</span></td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>双曲柄惯性筛 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/433.gif" width="235" height="114"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 由双曲柄机构 ABCD和偏置曲柄滑块机构DEC组成双曲柄惯性筛。 铰链四杆机构实现双曲柄的条件是最短杆加最长杆的长度小于或等于其余二杆的长度之和，且最短杆作机架。主动杆AB匀速转动，从动杆CD作变速转动，从动杆CD的角速度是机构位置的函数。双曲柄四杆机 构与偏置滑块机构均有急回特性，两机构并用可增加急回作用，以期回程获得较大的加速度，提高筛选效率。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>反平行四杆机构 </p></td>
+        </tr>
+        <tr>
+          <td align="middle"></td>
+        </tr>
+      </table>
+        <p><img src="images/434.gif" width="211" height="151"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 以短杆1、3 作曲柄，长杆2作连杆、构件4作机架，各杆长应为 AB=CD=a,BC=DA=b,a&lt;b构件1为主动件，从动曲柄3作反向非匀速转动，瞬时传动比 <br>
+        <img src="images/43_4.gif" width="240" height="47"><br>
+        式中 P--构件1、3的速度瞬心； <br>
+        　　 φ1--曲柄1的转角。 <br>
+        　　 上式说明i 31 是φ1的函数，当φ1=0时，i 31 =(i 31 )max=-(b+a)/(b-a)； 当φ1=180°时，i 31 =(i 31 )min=-(b-a)/(b+a)。这种反平行四杆机构的平均传动比i 31 =-1。 <br>
+        　　 当曲柄1转至与机架AD重合的位置时，从动杆3也与AD重合，机构将出现运动不确定状态，即从动 件3转向有反、正两种可能，须用特殊装置（如死点引出器等）或以构件的惯性来渡过这个位置，保证从动件转向不变。运动精度要求不高时可用反平行四杆机构代替椭圆齿轮传动。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

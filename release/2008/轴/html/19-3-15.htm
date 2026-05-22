@@ -1,0 +1,436 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="19-3-15.files/filelist.xml">
+<link rel=Edit-Time-Data href="19-3-15.files/editdata.mso">
+<link rel=OLE-Object-Data href="19-3-15.files/oledata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>轴抗弯和抗扭截面系数计算公式</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>thtfpc user</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>移动办公</o:LastAuthor>
+  <o:Revision>31</o:Revision>
+  <o:TotalTime>47</o:TotalTime>
+  <o:Created>2005-03-16T08:26:00Z</o:Created>
+  <o:LastSaved>2006-04-22T01:04:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>60</o:Words>
+  <o:Characters>347</o:Characters>
+  <o:Company>thtfpc</o:Company>
+  <o:Lines>2</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>406</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+ <o:CustomDocumentProperties>
+  <o:MTWinEqns dt:dt="boolean">1</o:MTWinEqns>
+ </o:CustomDocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:PunctuationKerning/>
+  <w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	padding:24.0pt 24.0pt 24.0pt 24.0pt;
+	mso-paper-source:0;
+	layout-grid:15.6pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=ZH-CN style='tab-interval:21.0pt;text-justify-trim:punctuation'>
+
+<div class=Section1 style='layout-grid:15.6pt'>
+
+<table class=MsoNormalTable border=1 cellspacing=3 cellpadding=0 width=718
+ style='width:19.0cm;mso-cellspacing:2.0pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+ mso-border-insideh:.75pt outset windowtext;mso-border-insidev:.75pt outset windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=188 style='width:141.35pt;background:silver;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-family:宋体;mso-hansi-font-family:"Times New Roman";color:black;
+  mso-font-kerning:0pt'>截 面 形 状</span><span lang=EN-US><o:p></o:p></span></p>
+  </td>
+  <td width=308 style='width:230.85pt;background:silver;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-char-indent-size:
+  10.5pt'><span lang=EN-US>W<o:p></o:p></span></p>
+  </td>
+  <td width=211 style='width:158.45pt;background:silver;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center;mso-char-indent-size:
+  10.5pt'><span class=SpellE><span lang=EN-US>Wp</span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=188 valign=top style='width:141.35pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+   coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+   filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:94.5pt;
+   height:84.75pt'>
+   <v:imagedata src="19-3-15.files/image001.png" o:title="19-3-15-1"/>
+  </v:shape><![endif]--><![if !vml]><img width=126 height=113
+  src="19-3-15.files/image002.jpg" v:shapes="_x0000_i1025"><![endif]></span></p>
+  </td>
+  <td width=308 style='width:230.85pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><sub><span
+  lang=EN-US><!--[if gte vml 1]><v:shape id="_x0000_i1026" type="#_x0000_t75"
+   style='width:62.25pt;height:33pt' o:ole="">
+   <v:imagedata src="19-3-15.files/image039.wmz" o:title=""/>
+  </v:shape><![endif]--><![if !vml]><img width=83 height=44
+  src="19-3-15.files/image004.gif" v:shapes="_x0000_i1026"><![endif]><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1026"
+    DrawAspect="Content" ObjectID="_1207201840">
+   </o:OLEObject>
+  </xml><![endif]--></span></sub></p>
+  </td>
+  <td width=211 style='width:158.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><sub><span
+  lang=EN-US><!--[if gte vml 1]><v:shape id="_x0000_i1027" type="#_x0000_t75"
+   style='width:63pt;height:33pt' o:ole="">
+   <v:imagedata src="19-3-15.files/image040.wmz" o:title=""/>
+  </v:shape><![endif]--><![if !vml]><img width=84 height=44
+  src="19-3-15.files/image006.gif" v:shapes="_x0000_i1027"><![endif]><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1027"
+    DrawAspect="Content" ObjectID="_1207201841">
+   </o:OLEObject>
+  </xml><![endif]--></span></sub></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=188 valign=top style='width:141.35pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US><!--[if gte vml 1]><v:shape id="_x0000_i1028"
+   type="#_x0000_t75" style='width:111.75pt;height:85.5pt'>
+   <v:imagedata src="19-3-15.files/image007.png" o:title="19-3-15-2"/>
+  </v:shape><![endif]--><![if !vml]><img width=149 height=114
+  src="19-3-15.files/image008.jpg" v:shapes="_x0000_i1028"><![endif]></span></p>
+  </td>
+  <td width=308 style='width:230.85pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><sub><span
+  lang=EN-US><!--[if gte vml 1]><v:shape id="_x0000_i1029" type="#_x0000_t75"
+   style='width:173.25pt;height:33pt' o:ole="">
+   <v:imagedata src="19-3-15.files/image041.wmz" o:title=""/>
+  </v:shape><![endif]--><![if !vml]><img width=231 height=44
+  src="19-3-15.files/image010.gif" v:shapes="_x0000_i1029"><![endif]><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1029"
+    DrawAspect="Content" ObjectID="_1207201842">
+   </o:OLEObject>
+  </xml><![endif]--></span></sub></p>
+  </td>
+  <td width=211 style='width:158.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><sub><span
+  lang=EN-US><!--[if gte vml 1]><v:shape id="_x0000_i1030" type="#_x0000_t75"
+   style='width:134.25pt;height:33pt' o:ole="">
+   <v:imagedata src="19-3-15.files/image042.wmz" o:title=""/>
+  </v:shape><![endif]--><![if !vml]><img width=179 height=44
+  src="19-3-15.files/image012.gif" v:shapes="_x0000_i1030"><![endif]><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1030"
+    DrawAspect="Content" ObjectID="_1207201843">
+   </o:OLEObject>
+  </xml><![endif]--></span></sub></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=188 valign=top style='width:141.35pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US><!--[if gte vml 1]><v:shape id="_x0000_i1031"
+   type="#_x0000_t75" style='width:105pt;height:105pt'>
+   <v:imagedata src="19-3-15.files/image013.png" o:title="19-3-15-3"/>
+  </v:shape><![endif]--><![if !vml]><img width=140 height=140
+  src="19-3-15.files/image014.jpg" v:shapes="_x0000_i1031"><![endif]></span></p>
+  </td>
+  <td width=308 style='width:230.85pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><sub><span
+  lang=EN-US><!--[if gte vml 1]><v:shape id="_x0000_i1032" type="#_x0000_t75"
+   style='width:81.75pt;height:33pt' o:ole="">
+   <v:imagedata src="19-3-15.files/image043.wmz" o:title=""/>
+  </v:shape><![endif]--><![if !vml]><img width=109 height=44
+  src="19-3-15.files/image016.gif" v:shapes="_x0000_i1032"><![endif]><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1032"
+    DrawAspect="Content" ObjectID="_1207201844">
+   </o:OLEObject>
+  </xml><![endif]--></span></sub></p>
+  </td>
+  <td width=211 style='width:158.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><sub><span
+  lang=EN-US><!--[if gte vml 1]><v:shape id="_x0000_i1033" type="#_x0000_t75"
+   style='width:81.75pt;height:33pt' o:ole="">
+   <v:imagedata src="19-3-15.files/image044.wmz" o:title=""/>
+  </v:shape><![endif]--><![if !vml]><img width=109 height=44
+  src="19-3-15.files/image018.gif" v:shapes="_x0000_i1033"><![endif]><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1033"
+    DrawAspect="Content" ObjectID="_1207201845">
+   </o:OLEObject>
+  </xml><![endif]--></span></sub></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width=188 valign=top style='width:141.35pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US><!--[if gte vml 1]><v:shape id="_x0000_i1034"
+   type="#_x0000_t75" style='width:129pt;height:110.25pt'>
+   <v:imagedata src="19-3-15.files/image019.gif" o:title="19-3-15-4"/>
+  </v:shape><![endif]--><![if !vml]><img width=172 height=147
+  src="19-3-15.files/image019.gif" v:shapes="_x0000_i1034"><![endif]></span></p>
+  </td>
+  <td width=308 style='width:230.85pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><sub><span
+  lang=EN-US><span style='position:relative;top:12.0pt;mso-text-raise:-12.0pt'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1035" type="#_x0000_t75" style='width:86.25pt;height:33pt'
+   o:ole="">
+   <v:imagedata src="19-3-15.files/image045.wmz" o:title=""/>
+  </v:shape><![endif]--><![if !vml]><img width=115 height=44
+  src="19-3-15.files/image021.gif" v:shapes="_x0000_i1035"><![endif]></span><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1035"
+    DrawAspect="Content" ObjectID="_1207201846">
+   </o:OLEObject>
+  </xml><![endif]--></span></sub></p>
+  </td>
+  <td width=211 style='width:158.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><sub><span
+  lang=EN-US><span style='position:relative;top:12.0pt;mso-text-raise:-12.0pt'><!--[if gte vml 1]><v:shape
+   id="_x0000_i1036" type="#_x0000_t75" style='width:86.25pt;height:33pt'
+   o:ole="">
+   <v:imagedata src="19-3-15.files/image046.wmz" o:title=""/>
+  </v:shape><![endif]--><![if !vml]><img width=115 height=44
+  src="19-3-15.files/image023.gif" v:shapes="_x0000_i1036"><![endif]></span><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.3" ShapeID="_x0000_i1036"
+    DrawAspect="Content" ObjectID="_1207201847">
+   </o:OLEObject>
+  </xml><![endif]--></span></sub></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td width=188 valign=top style='width:141.35pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US><!--[if gte vml 1]><v:shape id="_x0000_i1037"
+   type="#_x0000_t75" style='width:120.75pt;height:117.75pt'>
+   <v:imagedata src="19-3-15.files/image024.gif" o:title="19-3-15-5"/>
+  </v:shape><![endif]--><![if !vml]><img width=161 height=157
+  src="19-3-15.files/image024.gif" v:shapes="_x0000_i1037"><![endif]></span></p>
+  </td>
+  <td width=308 style='width:230.85pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><sub><span
+  lang=EN-US><!--[if gte vml 1]><v:shape id="_x0000_i1038" type="#_x0000_t75"
+   style='width:83.25pt;height:33pt' o:ole="">
+   <v:imagedata src="19-3-15.files/image047.wmz" o:title=""/>
+  </v:shape><![endif]--><![if !vml]><img width=111 height=44
+  src="19-3-15.files/image026.gif" v:shapes="_x0000_i1038"><![endif]><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1038"
+    DrawAspect="Content" ObjectID="_1207201848">
+   </o:OLEObject>
+  </xml><![endif]--></span></sub></p>
+  </td>
+  <td width=211 style='width:158.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><sub><span
+  lang=EN-US><!--[if gte vml 1]><v:shape id="_x0000_i1039" type="#_x0000_t75"
+   style='width:62.25pt;height:33pt' o:ole="">
+   <v:imagedata src="19-3-15.files/image048.wmz" o:title=""/>
+  </v:shape><![endif]--><![if !vml]><img width=83 height=44
+  src="19-3-15.files/image028.gif" v:shapes="_x0000_i1039"><![endif]><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1039"
+    DrawAspect="Content" ObjectID="_1207201849">
+   </o:OLEObject>
+  </xml><![endif]--></span></sub></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td width=188 valign=top style='width:141.35pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US><!--[if gte vml 1]><v:shape id="_x0000_i1040"
+   type="#_x0000_t75" style='width:120.75pt;height:126.75pt'>
+   <v:imagedata src="19-3-15.files/image029.png" o:title="19-3-15-6"/>
+  </v:shape><![endif]--><![if !vml]><img width=161 height=169
+  src="19-3-15.files/image049.jpg" v:shapes="_x0000_i1040"><![endif]><o:p></o:p></span></p>
+  </td>
+  <td width=308 style='width:230.85pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><sub><span
+  lang=EN-US style='position:relative;top:12.0pt;mso-text-raise:-12.0pt'><span
+  style='position:relative;top:12pt'><!--[if gte vml 1]><v:shape id="_x0000_i1041"
+   type="#_x0000_t75" style='width:212.25pt;height:33pt' o:ole="">
+   <v:imagedata src="19-3-15.files/image050.wmz" o:title=""/>
+  </v:shape><![endif]--><![if !vml]><img width=283 height=44
+  src="19-3-15.files/image032.gif" v:shapes="_x0000_i1041"><![endif]><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1041"
+    DrawAspect="Content" ObjectID="_1207201850">
+   </o:OLEObject>
+  </xml><![endif]--></span></span></sub></p>
+  </td>
+  <td width=211 style='width:158.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><sub><span
+  lang=EN-US><!--[if gte vml 1]><v:shape id="_x0000_i1042" type="#_x0000_t75"
+   style='width:128.25pt;height:33pt' o:ole="">
+   <v:imagedata src="19-3-15.files/image051.wmz" o:title=""/>
+  </v:shape><![endif]--><![if !vml]><img width=171 height=44
+  src="19-3-15.files/image034.gif" v:shapes="_x0000_i1042"><![endif]><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1042"
+    DrawAspect="Content" ObjectID="_1207201851">
+   </o:OLEObject>
+  </xml><![endif]--></span></sub></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;mso-yfti-lastrow:yes'>
+  <td width=188 valign=top style='width:141.35pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal><span lang=EN-US><!--[if gte vml 1]><v:shape id="_x0000_i1043"
+   type="#_x0000_t75" style='width:120.75pt;height:108.75pt'>
+   <v:imagedata src="19-3-15.files/image035.png" o:title="19-3-15-7"/>
+  </v:shape><![endif]--><![if !vml]><img width=161 height=145
+  src="19-3-15.files/image036.jpg" v:shapes="_x0000_i1043"><![endif]></span></p>
+  </td>
+  <td width=308 style='width:230.85pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><sub><span
+  lang=EN-US><!--[if gte vml 1]><v:shape id="_x0000_i1044" type="#_x0000_t75"
+   style='width:62.25pt;height:33pt' o:ole="">
+   <v:imagedata src="19-3-15.files/image039.wmz" o:title=""/>
+  </v:shape><![endif]--><![if !vml]><img width=83 height=44
+  src="19-3-15.files/image037.gif" v:shapes="_x0000_i1044"><![endif]><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1044"
+    DrawAspect="Content" ObjectID="_1207201852">
+   </o:OLEObject>
+  </xml><![endif]--></span></sub></p>
+  </td>
+  <td width=211 style='width:158.45pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=center style='text-align:center'><sub><span
+  lang=EN-US><!--[if gte vml 1]><v:shape id="_x0000_i1045" type="#_x0000_t75"
+   style='width:63pt;height:33pt' o:ole="">
+   <v:imagedata src="19-3-15.files/image040.wmz" o:title=""/>
+  </v:shape><![endif]--><![if !vml]><img width=84 height=44
+  src="19-3-15.files/image038.gif" v:shapes="_x0000_i1045"><![endif]><!--[if gte mso 9]><xml>
+   <o:OLEObject Type="Embed" ProgID="Equation.DSMT4" ShapeID="_x0000_i1045"
+    DrawAspect="Content" ObjectID="_1207201853">
+   </o:OLEObject>
+  </xml><![endif]--></span></sub></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+
+</div>
+
+</body>
+
+</html>

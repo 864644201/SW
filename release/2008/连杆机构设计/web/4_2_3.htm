@@ -1,0 +1,156 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">螺旋调节机构</span></td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>曲柄连杆长度可调机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/551.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 曲柄摇杆机构ABCD的曲柄和连杆长度都可用螺旋调整。主动圆盘1上装有调节螺旋5可改变曲柄销B的位置，即改变曲柄AB的长度。连杆BC与摇杆CD以杆套和紧固螺钉6连接，旋松螺钉6可调节连杆长度，随后将6紧固。由于曲柄和连杆长度的改变，结果调节了摇杆3的摆动行程与位置。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>滑槽连杆调节机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/552.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动偏心轮1绕固定轴A转动，即以AB作曲柄带动滑槽连杆2 作平面复杂运动。旋转调节螺钉3可改变滑销C的位置，结果改变连杆2的摆动范围与运动规律。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>摆杆长度可调的凸轮机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/553.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动偏心凸轮3上设有环形槽与摆动从动件2上的滚子B接触，通过滚子带动2作摆动，并以2杆端的铰链A与滑块5来驱动从动件4作上下移动。 <br>
+        　　 摆杆2是螺杆，它与滚子外侧固联的螺母相配合，当旋转手柄1时，可用螺旋改变AB的长度，以此来调整从动件4的移动行程和运动规律。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>行程可调的导杆机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/554.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 滑块2与定滑块3铰接于E点，定滑块3的位置由螺杆4调节，使3在固定导轨1中移动，从而改变滑块2在导杆5中的相对位置，实现对活塞7行程的调节。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,204 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">槽轮间歇机构</span></td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>附设模板的槽轮机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/574.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 柱销4可在销轮3上的滑槽中移动，并由弹簧5支撑。当主动销轮3匀速转动时，以可径向伸缩的柱销4带动槽轮 1转动。同时柱销4也在附设凸轮模板2的曲线槽内运动，由曲线槽控制柱销4的驱动半径，使槽轮1作近似等速转动，或按工艺要求改变模板曲线糟的形状，从而改变从动槽轮的运动规律，或改变从动槽轮形状，以期得到较好的运动规律和动力特性。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>椭圆齿轮槽轮机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/581.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动椭圆齿轮1匀速转动与椭圆齿轮2啮合，带动与轮2固联的转臂2'。转臂以柱销3驱动从动槽轮4作间歇转动。当齿轮1以长径与齿轮2的短径啮合时，轮2瞬时角速度较大，此时柱销3驱动槽轮可缩短运动时间。用于机床的转位机构可缩短辅助时间，增加工作时间。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>双曲柄槽轮机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/582.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动曲柄 3通过连杆带动从动曲柄2作非匀速转动，固联在2 上的柱销驱动从动槽轮1转动，使槽轮转动时在很长的一段行程内，其角速度接近不变，且角速度值较大。主动曲柄3与从动曲柄2的轴距为e。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>双柱销变形槽轮机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/583.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动销轮1上有两个对称的柱销A、B。销轮1在ψ角范围内以柱销带动槽轮2转动φ角；在θ角范围内槽轮2 停歇。停歇时，槽轮2与柱销接触的廓线段是以销轮1 的轴线为中心、以柱销子距中心的距离为半径的圆弧， 这样两柱销在运动中使槽轮固定不动，直至转角超出θ角范围，柱销方可带动槽轮转动。主动销轮1每转一周槽轮2有两个运动周期，转过两个槽。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>长时间停歇的槽轮机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/584.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动链轮3通过固联在链条5上的驱动柱销2带动从槽轮1转动90°，之后有较长时间的停歇。部分链条上带有止动弧块4，在槽轮不运动时起锁止作用。槽轮停歇时间的长短由两连轮的中心距决定。为保证停歇时间准确，应注意部分链节将因受冲击力变形或磨损造成链节拉长，而采取必要的校正措施。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>内槽轮机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/585.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 从动内槽轮2 有四条侧向槽成均匀分布，它与主动柱销1接触，柱销 1每转过2ψl角时，槽轮2同向转动（2π-2ψl'）角度， 随后，柱销转动的圆弧与所对应的轮2上的弧形槽部分吻合，起锁止作用，这时槽轮静止不动完成槽轮的间歇转动，转向与主动柱销相同。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>齿轮槽轮机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/591.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 工艺要求分度角一定（如齿轮4每次转90°，并且有较好的动力特性时，可采用槽数较多的槽轮，用齿轮增速。若同时要求停歇时间保持不变，则必须增加销轮转速，这时机构的动力性能比槽数少的槽轮机构好。图中，销轮5与蜗轮6固联，由蜗杆回带动；槽轮2与齿轮3固联；齿轮4由齿轮3带动。 <br>
+        　　 增加槽轮的槽数固然优点较多，但将导致机构尺寸的增大，设计时应全面考虑。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="1024,576" mininfo="544,116" caption="0,0,0,68" sizebox="4,4,4,4" alpha="255" bktran="false" >
+	
+	<Font id="0" name="楷体" size="16" bold="false" italic="false" />
+	<Font id="1" name="楷体" size="18" bold="true" italic="false" />
+	<Font id="2" name="Cambria" size="18" bold="true" italic="true" />
+	<Font id="3" name="楷体" size="14" bold="false" italic="false" />
+	<Font id="4" name="Cambria" size="12" bold="false" italic="false" />
+	<Font id="5" name="楷体" size="12" bold="false" italic="false" />
+	<Font id="6" name="楷体" size="20" bold="false" italic="false" />
+	<Font id="7" name="Cambria" size="16" bold="false" italic="true" />
+	<Font id="8" name="Cambria" size="16" bold="false" italic="true" />
+	<Font id="9" name="Cambria" size="14" bold="false" italic="true" />
+
+
+	<Font id="10" name="Adobe Kaiti Std" size="16" bold="false" italic="false" />
+	<Font id="11" name="楷体" size="20" bold="true" italic="false" />
+
+	<Font id="12" name="SimHei" size="16" bold="false" italic="false" />
+
+	<Font id="13" name="Sea Dog 2001 Shadow" size="20" bold="false" italic="false" />
+	<Font id="14" name="Sea Dog 2001" size="16" bold="true" italic="false" />
+
+	<Font id="15" name="Cambria" size="16" bold="false" italic="true" />
+
+	<Font id="16" name="楷体" size="16" bold="false" italic="false" />
+
+
+	<VerticalLayout  name="WinBackGround"  bkcolor="#FF183e53" >
+		
+		<Include source="UISkin1_Frame.xml" count="1" />
+
+	</VerticalLayout>
+
+</Window>

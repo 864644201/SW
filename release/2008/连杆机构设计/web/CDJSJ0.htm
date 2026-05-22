@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<p><strong>&nbsp; 按最小传动角具有最大值的条件设计曲柄摇杆机构</strong></p>
+<p>&nbsp;<img border="0" src="../images/CDJSJ/yg1image1.bmp" width="234" height="166"><br>
+&nbsp; 根据已知的φ12及ψ12，由上图查得最大的最小传动角MAXγmin及β角。其中β为摇杆在远极限位置时曲柄与机架间的夹角。</p>
+<p>&nbsp; 然后用下列公式计算各构件相对长度。</p>
+<p>&nbsp;&nbsp;&nbsp;
+<img border="0" src="../images/CDJSJ/yg1image3.bmp" width="193" height="179"></p>
+<p>&nbsp; 式中：</p>
+<p>　　a <font face="宋体">—　曲柄长度；</font></p>
+<p>　　b <font face="宋体">—　连杆长度；</font>　</p>
+<p>　　c<font face="宋体"> —　摇杆长度；</font></p>
+<p><font face="宋体">　　d —　机架长度；</font></p>
+<p><font face="宋体">　　</font>γmin　<font face="宋体">—　选定的最小传动角；</font></p>
+<p>　　φ12 <font face="宋体">—　摇杆C两由极限位置1到极限位置2时主动曲柄转过的角度；</font></p>
+<p>　　ψ12 <font face="宋体">—　摇杆C两极限位置间的夹角。</font></p>
+</body>
+</html>

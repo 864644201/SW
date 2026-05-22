@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?窗口内主框架?>
+<VerticalLayout name="background" >
+	<Default name="VScrollBar" value="width=&quot;12&quot; button1normalimage=&quot;file='scroll2.png' source='0,0,1,1' fade='125'&quot; button1hotimage=&quot;file='scroll2.png' source='0,0,1,1' mask='#FFFF00FF' fade='125'&quot; button1pushedimage=&quot;file='scroll2.png' source='0,0,1,1' mask='#FFFF00FF' fade='125'&quot; button1disabledimage=&quot;file='scroll2.png' source='0,0,1,1' mask='#FFFF00FF' fade='125'&quot; button2normalimage=&quot;file='scroll2.png' source='0,0,1,1' fade='125' mask='#FFFF00FF'&quot; button2hotimage=&quot;file='scroll2.png' source='0,0,1,1' fade='125'mask='#FFFF00FF'&quot; button2pushedimage=&quot;file='scroll2.png'fade='125' source='0,0,1,1' mask='#FFFF00FF'&quot; button2disabledimage=&quot;file='scroll2.png' source='0,0,1,1'fade='125' mask='#FFFF00FF'&quot; thumbnormalimage=&quot;file='scroll2.png' source='0,0,1,2'   mask='#FFFF00FF'&quot; thumbhotimage=&quot;file='scroll2.png' source='0,0,1,2'   mask='#FFFF00FF'&quot; thumbpushedimage=&quot;ffile='scroll2.png' source='0,0,1,2'   mask='#FFFF00FF'&quot; thumbdisabledimage=&quot;file='scroll2.png' source='0,0,1,2'   mask='#FFFF00FF'&quot; railnormalimage=&quot;file='scroll2.png' source='0,0,1,2'   mask='#FFFF00FF'&quot; railhotimage=&quot;file='scroll2.png' source='0,0,1,2'   mask='#FFFF00FF'&quot; railpushedimage=&quot;file='scroll2.png' source='0,0,1,2'   mask='#FFFF00FF'&quot; raildisabledimage=&quot;file='scroll2.png' source='0,0,1,2'   mask='#FFFF00FF'&quot; bknormalimage=&quot;file='scroll2.png' source='0,0,1,1'   fade='125' mask='#FFFF00FF'&quot; bkhotimage=&quot;file='scroll2.png' source='0,0,1,1' fade='125'  mask='#FFFF00FF'&quot; bkpushedimage=&quot;file='scroll2.png' source='0,0,1,1' fade='125'  mask='#FFFF00FF'&quot; bkdisabledimage=&quot;file='scroll2.png' source='0,0,1,1'  fade='125' mask='#FFFF00FF'&quot; " />
+				
+	<?顶栏?>
+	<VerticalLayout name="VLY_TitleBar" height="60" >
+		<Control height="15" />
+		<HorizontalLayout>
+
+			<?图标?>
+			<HorizontalLayout width="180" >
+				<Control width="24" />
+				<VerticalLayout >
+					<Control />
+					<?Text  height="16" width="60" text="DE" font="13" textcolor="b0f0f7" align="center" /?>
+					<?Text  height="16" width="60" text="MO" font="13" textcolor="b0f0f7" align="center" /?>
+					<?Text  height="20" width="80" text="MD" font="13" textcolor="b0f0f7" align="center" /?>
+					<Control />
+				</VerticalLayout>
+				<?Control width="24" /?>
+			</HorizontalLayout>
+
+			<?标题?>			
+			<VerticalLayout >
+				<Control />
+				<Control height="5" />
+				<HorizontalLayout height="30">
+					<Control />
+					<Text  width="260" height="30" text="弯曲弹簧" font="11" textcolor="b0f0f7" align="center" />
+					<Control />
+				</HorizontalLayout>
+				<Control />
+			</VerticalLayout>
+
+			<?关闭?>
+			<VerticalLayout width="180" >
+				<Control />
+				<HorizontalLayout height="25" >
+					<Control />
+					<!-- <Button name="about" width="25" height="25" bkimage="file='minmaxexit00.png'  dest='5,5,19,19' source='1,1,15,15' fade='125' "  hotimage="file='minmaxexit00.png'  dest='5,5,19,19' source='1,1,15,15' fade='225' "  visible="true" /> -->
+					<?Button name="setting" width="25" height="25" bkimage="file='minmaxexit00.png'  dest='5,4,19,20' source='15,0,29,16' fade='125' "  hotimage="file='minmaxexit00.png'  dest='5,4,19,20' source='15,0,29,16' fade='225' "  visible="true" /?>
+					<Button name="minimize" width="25" height="25" bkimage="file='minmaxexit00.png'  dest='7,6,17,18' source='29,2,39,14' fade='125' "  hotimage="file='minmaxexit00.png'  dest='7,6,17,18' source='29,2,39,14' fade='225' "  visible="true" />
+					<Button name="maximize" width="25" height="25" bkimage="file='minmaxexit00.png'  dest='7,7,19,19' source='39,2,51,14' fade='125' "  hotimage="file='minmaxexit00.png'  dest='7,7,19,19' source='39,2,51,14' fade='225' "  visible="true" />
+					<Button name="restore" width="25" height="25" bkimage="file='minmaxexit00.png'  dest='6,6,19,18' source='51,2,64,14' fade='125' " hotimage="file='minmaxexit00.png'  dest='6,6,19,18' source='51,2,64,14' fade='225' " visible="false" />
+					<Button name="close" width="25" height="25" bkimage="file='minmaxexit00.png'  dest='6,6,18,18' source='64,2,76,14' fade='125' "  hotimage="file='minmaxexit00.png'  dest='6,6,18,18' source='64,2,76,14' fade='225' " visible="true" />
+					<Control width="24" />
+				</HorizontalLayout>
+				<Control />
+			</VerticalLayout>
+
+		</HorizontalLayout>
+		<Control height="12" />
+	</VerticalLayout>
+
+
+	<?中栏?>
+	<HorizontalLayout name="VLY_Content">
+		
+			<Control width="30" />
+			<Container >
+			<VerticalLayout >
+
+				<VerticalLayout height="124" >
+					<Control height="1" bkcolor="#FF3AC6D7" />
+					<Control height="5" />
+					<?菜单?>
+					<HorizontalLayout inset="2,0,2,0"  >
+						<List name="listview" inset="0,0,0,0" itemshowhtml="true" vscrollbar="true" hscrollbar="true"  itemalign="center" itemaltbk="false" sepimm="false" hscrollbar="false" menu="true"  itemhotbkcolor="#00000000" itemselectedbkcolor="#FF063040" >
+							<ListHeader height="27" menu="true" bkcolor="#FF063040" >
+								<ListHeaderItem text="序号"     font="3" width="60"  sepwidth="1" textcolor="c0c0c0" />
+								<ListHeaderItem text="弹簧中径" font="3" width="100" sepwidth="1" textcolor="b0f0f7" />
+								<ListHeaderItem text="节距"     font="3" width="100" sepwidth="1" textcolor="b0f0f7" />
+								<ListHeaderItem text="圈数"     font="3" width="100" sepwidth="1" textcolor="b0f0f7" />
+								<ListHeaderItem text="偏移尺寸" font="3" width="100" sepwidth="1" textcolor="b0f0f7" />
+								<ListHeaderItem text="偏移方向" font="3" width="100" sepwidth="1" textcolor="b0f0f7" />
+								<ListHeaderItem name="wqdlistheader" text="弯曲度"   font="3" width="100" sepwidth="1" textcolor="b0f0f7" />
+								<ListHeaderItem text="端点高度" font="3" width="100" sepwidth="1" textcolor="c0c0c0" />
+								<ListHeaderItem text="最小高度" font="3" width="100" sepwidth="1" textcolor="c0c0c0" />
+								<ListHeaderItem text="最大高度" font="3" width="100" sepwidth="1" textcolor="c0c0c0" />
+								<!--ListHeaderItem text="最大高度" font="3" width="100" hotimage="file='BackGround.png' fade='255' " pushedimage="file='BackGround.png' fade='225' " sepimage="file='BackGround.png' fade='200' " sepwidth="1" textcolor="b0f0f7" /-->
+							</ListHeader>
+							<!--<Include source="listitem.xml"/>-->
+
+						  
+						</List>
+					</HorizontalLayout>
+					<Control height="5" />
+					<Control height="1" bkcolor="#FF3AC6D7" />
+				</VerticalLayout >
+				<Control height="12" />
+				<HorizontalLayout name="VLY_Content" >
+					
+					<Container name="VLY_Content" bkcolor="#FF063040">
+						<VerticalLayout >
+							<Control height="5" />
+							<DrawCurve name="DrawCurve"  />
+							<Control height="5" />
+							
+						</VerticalLayout>
+						<Include source="UISkin1_drawcurveText.xml" count="1" />
+					</Container>
+
+					<Control width="10" />
+					<Control width="1" bkcolor="#FF3AC6D7" />
+					<Control width="10" />
+
+					<VerticalLayout name="VLY_Content" width="180"  >
+						<Control />
+						
+						<HorizontalLayout name="VLY_Content" height="30" >
+							<VerticalLayout inset="8,4,2,2" width="80">
+								<Control />
+								<Text text="弹簧旋向:" height="20" textcolor="#b0f0f7" font="3"></Text>
+								<Control />
+							</VerticalLayout>
+							
+							<VerticalLayout width="90"  >
+								<Control />
+								<Combo name="Combo_xx"  vscrollbar="true"  dropboxsize="90,50" width="90" height="24" float="false" bordercolor="#FFb0f0f7" childpadding="1" normalimage="file='Combo00.png' corner='2,2,26,22' fade='125' "  hotimage="file='Combo00.png' corner='2,2,26,22' fade='205' "  font="5" itemfont="3"  textcolor="b0f0f7" textpadding="2,1,1,1"   itemtextcolor="b0f0f7"  itembkcolor="#F0233a48"  itemselectedtextcolor="#77b0f0f7" itemselectedbkcolor="#77233a48" itemhotbkcolor="#77233a48" itemhottextcolor="#77b0f0f7" itemlinecolor="#77233a48"  itemtextpadding="3,0,0,0"  >
+
+					                <ListLabelElement  height="24" text="右旋" selected="true" />
+					                <ListLabelElement  height="24" text="左旋" selected="false" />
+					            </Combo >
+								<Control />
+							</VerticalLayout>
+							
+							<Control />
+						</HorizontalLayout>
+
+						<Control />
+
+						<HorizontalLayout name="VLY_Content" height="30" >
+							<VerticalLayout inset="8,4,2,2" width="80">
+								<Control />
+								<Text text="线径:" height="20" textcolor="#b0f0f7" font="3"></Text>
+								<Control />
+							</VerticalLayout>
+							<VerticalLayout width="90">
+								<Control />
+								<RichEdit name="REdit_xj" width="90" height="24" text="2.0" inset="6,4,4,0" font="9" bordersize="1" bordercolor="196684" focusbordercolor="238EB8" bkcolor="0x00000000" textcolor="b0f0f7"  autohscroll="true" multiline="false" rich="false" wantreturn="false" wanttab="false" />
+								<Control />
+							</VerticalLayout>
+						</HorizontalLayout>
+
+						<Control />
+
+						<HorizontalLayout name="VLY_Content" height="30" >
+							<VerticalLayout inset="8,4,2,2" width="80">
+								<Control />
+								<Text text="起始角度:" height="20" textcolor="#b0f0f7" font="3"></Text>
+								<Control />
+							</VerticalLayout>
+							<VerticalLayout width="90">
+								<Control />
+								<RichEdit name="REdit_StartDeg" width="90" height="24" text="0.0" inset="6,4,4,0" font="9" bordersize="1" bordercolor="196684" focusbordercolor="238EB8" bkcolor="0x00000000" textcolor="b0f0f7"  autohscroll="true" multiline="false" rich="false" wantreturn="false" wanttab="false" />
+								<Control />
+							</VerticalLayout>
+							<VerticalLayout >
+								<Control />
+								<?Text text="°" height="20" textcolor="#b0f0f7" font="3" /?>
+								<Control />
+							</VerticalLayout>
+						</HorizontalLayout>
+
+						
+						
+						<Control />
+
+						<HorizontalLayout name="VLY_Content" height="30" >
+							<VerticalLayout inset="8,4,2,2" width="80">
+								<Control />
+								<Text text="弯曲:" height="20" textcolor="#b0f0f7" font="3"></Text>
+								<Control />
+							</VerticalLayout>
+							<VerticalLayout width="90" >
+								<Control />
+								<Combo name="Combo_wq"  vscrollbar="true"  dropboxsize="90,50" width="90" height="24" float="false" bordercolor="#FFb0f0f7" childpadding="1" normalimage="file='Combo00.png' corner='2,2,26,22' fade='125' "  hotimage="file='Combo00.png' corner='2,2,26,22' fade='205' "  font="5" itemfont="3"  textcolor="b0f0f7" textpadding="2,1,1,1"   itemtextcolor="b0f0f7"  itembkcolor="#F0233a48"  itemselectedtextcolor="#77b0f0f7" itemselectedbkcolor="#77233a48" itemhotbkcolor="#77233a48" itemhottextcolor="#77b0f0f7" itemlinecolor="#77233a48"  itemtextpadding="3,0,0,0"  >
+
+					                <ListLabelElement  height="24" text="单一角度" selected="true" />
+					                <ListLabelElement  height="24" text="多角度" selected="false" />
+					            </Combo >
+								<Control />
+							</VerticalLayout>
+						</HorizontalLayout>
+
+						<Control />
+
+						<HorizontalLayout name="VLY_Content" height="30" >
+							<VerticalLayout inset="8,4,2,2" width="80">
+								<Control />
+								<Text text="弯曲度:" height="20" textcolor="#b0f0f7" font="3"></Text>
+								<Control />
+							</VerticalLayout>
+							<VerticalLayout width="90">
+								<Control />
+								<RichEdit name="REdit_wqDeg" width="90" height="24" text="0.0" inset="6,4,4,0" font="9" bordersize="1" bordercolor="196684" focusbordercolor="238EB8" bkcolor="0x00000000" textcolor="b0f0f7"  autohscroll="true" multiline="false" rich="false" wantreturn="false" wanttab="false" />
+								<Control />
+							</VerticalLayout>
+						</HorizontalLayout>
+
+						<Control />
+						<Control height="1" bkcolor="#FF3AC6D7" />
+						<?Control height="10" /?>
+						
+						<Control />
+
+						<HorizontalLayout height="30" >
+							<Control  />
+							<VerticalLayout  width="80"  >
+								<Control height="2" />
+								<Button name="Button_save" width="80" height="26" bkimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='125' " hotimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='225' "  text="另存文件" font="3" textcolor="b0f0f7"  />	
+								<Control height="2" />
+							</VerticalLayout>	
+							<Control  />
+							<VerticalLayout width="80">
+								<Control height="2" />
+								<Button name="Button_open" width="80" height="26" bkimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='125' " hotimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='225' "  text="打开文件" font="3" textcolor="b0f0f7"  />	
+								<Control height="2" />
+							</VerticalLayout>	
+							<Control />	
+						</HorizontalLayout>
+
+						<Control />
+
+						<HorizontalLayout  height="30" >
+							<Control  />
+							<VerticalLayout  width="80" >
+								<Control height="2" />
+								<Button name="Button_delete" enabled="true" width="80" height="26" bkimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='125' " hotimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='225' "  text="删除文件" font="3" textcolor="b0f0f7"  />	
+								<Control height="2" />
+							</VerticalLayout>	
+							<Control  />
+							<VerticalLayout width="80" >
+								<Control height="2" />
+								<Button name="Button_create" enabled="true" width="80" height="26" bkimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='125' " hotimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='225' "  text="生成模型" font="3" textcolor="b0f0f7"  />	
+								<Control height="2" />
+							</VerticalLayout>	
+							<Control />	
+						</HorizontalLayout>
+
+						<Control />
+
+						<HorizontalLayout  height="30" >
+							<Control  />
+							<VerticalLayout width="80" >
+								<Control height="2" />
+								<Button name="Button_help" enabled="true" width="80" height="26" bkimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='125' " hotimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='225' "  text="在线帮助" font="3" textcolor="b0f0f7"  />	
+								<Control height="2" />
+							</VerticalLayout>	
+							<Control />	
+						</HorizontalLayout>
+						
+						<Control />
+
+					</VerticalLayout>
+				</HorizontalLayout>
+				<Control height="12" />
+				<Control height="1" bkcolor="#FF3AC6D7" />
+
+			</VerticalLayout>
+			<Include source="UISkin1_open.xml" count="1" visible="false"  />
+			<Include source="UISkin1_save.xml" count="1" visible="false" />					
+			<Include source="UISkin1_delete.xml" count="1" visible="false" />
+			<Include source="UISkin1_saveprompt.xml" count="1" visible="false" />
+			<Include source="UISkin1_About.xml" count="1" visible="false" />	
+			<Include source="UISkin1_create.xml" count="1" visible="false" />	
+			</Container >
+			<Control width="30" />
+			
+		
+	</HorizontalLayout>
+
+
+	<?底栏?>
+	<VerticalLayout name="VLY_StatusBar" height="28">
+		<?Control /?>
+		<?HorizontalLayout height="10" ?>
+			<?Control /?>
+			<?Control width="486" bkimage="StatusBar_01.png"/?>
+			<?Control /?>
+		<?HorizontalLayout?>
+		<Control />
+		<HorizontalLayout height="10" >
+			<Control />
+			<?Control width="93" bkimage="StatusBar_02.png"/?>
+			<Control width="93" text="Designed by FireBird" font="0" textcolor="b0f0f7" />
+			<Control />
+		</HorizontalLayout>
+		<Control />
+	</VerticalLayout>
+
+</VerticalLayout>

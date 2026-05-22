@@ -1,0 +1,169 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">组合机构</span></td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="74%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>两齿轮连杆机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/443.gif" width="171" height="181"></p></td>
+    <td valign="top" width="74%"><p><br>
+        　　 由四杆机构 ABCD和齿轮2、4组合而成。行星齿轮2固连在连杆 BC上，中心轮4绕固定轴A转动。当主动件1以ω1匀速转动时，通过构件2带动从动轮从作非匀速转动，其角速度为ω2 <br>
+        <img src="images/44_1.gif" width="152" height="44"><br>
+        式中ω2--齿轮与连杆固连构件2的角速度； <br>
+        　　 z2，z4--齿轮2、4的齿数。 <br>
+        　　 由上式可见，ω4是两齿轮齿数z2，z4和ω2的函 数，当确定齿数后，上式中第一项为常数项，第二项 变量。ω2是各杆长与机构位置的函数。如果第一、二项瞬时相等，可得到瞬时停歇机构；如果第二项大于第一项，则将改变ω4的转向，即变为逆转。显然用该机构可实现从动件的复杂运动规律。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>三齿轮连杆机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/444.gif"></p></td>
+    <td valign="top" width="74%"><p><br>
+        　　 由曲柄摇杆机构ABCD和安装在该机构上的三个齿轮组成。齿轮 1与主动曲柄AB固联，并绕A轴转动，齿轮3、5分别空套在C、D轴上。当主动曲柄AB作匀速转动时，通过齿轮1、连杆BC和齿轮3带动齿轮5作非匀速转动，摇杆4在角范围内作加速或减速摆动。各构件尺寸选择适当可使齿轮5实现瞬时停歇或逆转。齿轮5的角速度为 <br>
+        <img src="images/44_2.gif"><br>
+        式中 ω4、ω2--摇杆4、连杆2的角速度。 <br>
+        　　 当齿轮的齿数比和曲柄AB的长度一定时，如果适当调节机架AD的长度l，可以得到齿轮5不同的运动规律。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>齿轮连杆差速机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/451.gif"></p></td>
+    <td valign="top" width="74%"><p><br>
+        　　 差速机构具有两个自由度，需要两个主动件。给定主动齿轮1角速度ω1、主动曲柄a的角速度ωa，均为匀速转动。各轮齿数为z1、z2、z3、z3'、z4，如欲求从动件的角速度ω4，可把该机构看作由构件a、b、c作为系杆的三个差动轮系的组合 <br>
+        <img src="images/44_3.gif" width="129" height="40"><br>
+        <img src="images/45_1.gif" width="131" height="40"><br>
+        <img src="images/45_2.gif" width="132" height="44"><br>
+        上式联立求解可得ω4 <br>
+        <img src="images/45_3.gif" width="392" height="25"><br>
+        　　 式中 i ba =ωb/ωa、i cb =ωc/ωb-均为铰链四杆机构ABCD各杆长尺寸与机构位置的函数。 如果齿轮1与曲柄a固联，ω1=ωa，则 <br>
+        <img src="images/45_4.gif" width="271" height="25"></p></td>
+  </tr>
+  <tr>
+    <td valign="top"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>凸轮差动齿轮机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/452.gif" width="243" height="189"></p></td>
+    <td valign="top" width="74%"><p><br>
+        　　 由齿轮1、2、2'、3和系杆H组成的差动轮系与凸轮机构组合成单自由度机构。凸轮F固联在行星轮2、2'的轴O2上，并和轴线位置不变的滚子G相接触。当主动轮1匀速转动时，凸轮F控制系杆作往复摆动，从动轮3作周期性非匀速转动。改变凸轮轮廓径向尺寸，可使从动轮3速度变化规律满足预定要求。当凸轮的基圆段圆弧与滚子接触时，从动齿轮3作匀速转动。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

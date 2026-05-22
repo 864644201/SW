@@ -1,0 +1,139 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">双侧停歇摆动机构</span></td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td  align="middle"><p>两极限位置停歇摆动机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/614.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动曲柄AO通过四杆机构OABC的连杆AB上的M 点通过杆MD带动从动件DF作往复摆动，但因为M 点的轨迹有两段曲率近似相同的圆弧，而DM长度恰好等于两圆弧的曲率半径，且D和D'分别位于曲率中心，从而使摆杆从动件DF作两极限位置有停歇的间歇摆动。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td  align="middle"><p>两极限位置停歇摆动机构之二 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/621.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 图示机构中，主动曲柄1通过连杆2带动扇形板3摆动，在扇形板3上装有可移动的齿圈4。当1带动扇形 板3顺时针转动时，扇形板3上的挡块A推动齿圈4 与齿轮5啮合，使齿轮5逆时针转动。当扇形板3逆时针回摆时，齿圈4在扇形板3上滑动，这时齿圈4与齿轮5相对静止，齿轮5停歇不动，直至扇形板3上的挡块B推动齿圈，齿轮5方作顺时针转动。扇形板3再次变向摆动时，齿轮5同样也有一段停歇时间。因此该机构具有双侧停歇特点。如果改变挡块B与齿圈的间距l的弧长，可调整齿轮5的停歇时间。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td  align="middle"><p>瞬时停歇摆动机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/622.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动曲柄AB逆时针转动，带动摇杆CD和固联在CD上的扇形齿轮1，轮1与齿轮3啮合使铰接在轮3上的滑块2摆动，由滑块2驱使从动导杆EG作往复摆动，且在两摆动极限位置时有瞬时停顿。摇杆CD在摆动的两极限位置C1D、C 2 D时，角速度较小，且改变方向。摆动导杆机构FEG的从动导杆EG在两极限位置E 1 G、E 2 G附近时其角速度也较小，且改变方向。当用轮1、3将它们联系起来，并使之同时到达极限位置，结果使导杆在两极限位置附近实现近似停歇，且可停歇较长的时间。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

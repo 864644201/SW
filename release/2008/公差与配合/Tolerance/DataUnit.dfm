@@ -1,0 +1,39 @@
+object Data2: TData2
+  OldCreateOrder = False
+  Left = 357
+  Top = 166
+  Height = 280
+  Width = 448
+  object ADOTable1: TADOTable
+    Connection = ADOConnection1
+    CursorType = ctStatic
+    TableName = #26631#20934#20844#24046#25968#20540
+    Left = 24
+    Top = 8
+  end
+  object ADOTable2: TADOTable
+    Connection = ADOConnection1
+    CursorType = ctStatic
+    TableName = #23380#30340#22522#26412#20559#24046#25968#20540
+    Left = 88
+    Top = 8
+  end
+  object ADOTable3: TADOTable
+    Connection = ADOConnection1
+    CursorType = ctStatic
+    TableName = #36724#30340#22522#26412#20559#24046#25968#20540
+    Left = 152
+    Top = 8
+  end
+  object ADOConnection1: TADOConnection
+    ConnectionString = 
+      'Provider=Microsoft.Jet.OLEDB.4.0;Password="";Data Source=E:\Shar' +
+      'ed Folder\jxsj_new\Tolerance\DATAS\cooper.mdb;Persist Security I' +
+      'nfo=True'
+    LoginPrompt = False
+    Mode = cmShareDenyNone
+    Provider = 'Microsoft.Jet.OLEDB.4.0'
+    Left = 96
+    Top = 104
+  end
+end

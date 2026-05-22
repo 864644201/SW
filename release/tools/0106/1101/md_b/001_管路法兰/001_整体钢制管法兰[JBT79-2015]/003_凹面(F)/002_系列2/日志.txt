@@ -1,0 +1,4 @@
+C:\Users\Administrator.PC-20170822PLEN\Desktop\FlangeBox\FlangeBox\md_b\整体钢制管法兰[JBT79-2015]\003_凹面（F）\002_系列2\1_PN40.db驱动正确
+C:\Users\Administrator.PC-20170822PLEN\Desktop\FlangeBox\FlangeBox\md_b\整体钢制管法兰[JBT79-2015]\003_凹面（F）\002_系列2\2_PN63.db驱动正确
+C:\Users\Administrator.PC-20170822PLEN\Desktop\FlangeBox\FlangeBox\md_b\整体钢制管法兰[JBT79-2015]\003_凹面（F）\002_系列2\3_PN100.db驱动正确
+C:\Users\Administrator.PC-20170822PLEN\Desktop\FlangeBox\FlangeBox\md_b\整体钢制管法兰[JBT79-2015]\003_凹面（F）\002_系列2\4_PN160.db驱动正确

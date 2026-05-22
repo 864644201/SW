@@ -1,0 +1,155 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">棘轮间歇机构</span></td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>双爪棘轮机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/565.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 单爪棘轮机构在主动摆杆作用下，通过单爪推动棘轮作定向间歇转动，其转角为周节所对应的中心角或它的整数倍。图示双爪棘轮机构的主动摆杆1上铰接两个棘爪2、2'，通过棘爪驱动棘轮3作间歇转动。两棘爪相距1.5周节(或 2.5、3.5…)，由于摆杆的摆角不同，可使棘轮每转过半个周节所对应的中心角α或它的整数倍。多爪机构可在不减弱棘轮强度的条件下得到较小的棘轮转角。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>浮动棘轮机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/571.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 浮动棘轮3空套在轴上与棘轮2的直径、模数、齿数均相同，但附有一个犬齿K。在一般情况下主动摆杆1通过棘爪4同时驱动棘轮2、3作间歇转动，但当3上的犬齿K进入啮合时，棘爪4被抬起仅与犬齿啮合，只推动棘轮3空转，而棘轮2不动。轮2停歇不转的时间长短与犬齿K 的齿数有关，犬齿的齿数多停歇时间就长。棘爪与犬齿脱离啮合时，将仍间歇地推动棘轮2、3作同步转动。这种停歇时间不等的棘轮机构称作浮动棘轮机构。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>短暂停歇的棘轮机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/572.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 链轮6 和棘轮5固联于轴2上，主动套筒1空套在轴2上，套筒1上铰接有棘爪4。若1顺时针转动时通过棘爪4带 动棘轮5和链轮6同时转动。当4的端部与固定在机架上的档杆3接触时，棘爪4与棘轮5脱开，棘轮和链轮停转。l继续转动到棘爪4与档杆3脱离时，在扭簧7的作用下棘爪再次与棘轮吻合带动链轮转动。此机构用于运送涂料零件通过干燥护的链条式间歇运动机构， 如印染烘干机等。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>摩擦式间歇机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/573.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动杆1作上下往复移动，通过插臂2和推杆3使摩擦片4、5夹紧从动轮6的内外轮缘而使其作定向间歇转动。当主动杆1向上推动摇臂2绕O点向上转动时，摩擦片4 在摩擦力作用下使推杆3向下摆动，并借助辅助弹簧 7的拉力使摩擦片4紧贴轮6外缘，因摇臂2继续向上转动的同时有微量横向外移使摩擦片5紧贴轮6内缘。结果4、5夹紧轮6的轮缘并推动其作逆时针转动。当主动杆1拉摇臂2向下转动时，摩擦片4与轮6的摩擦力使推杆3向上摆动而成浮动，轮6静止。这样就形成了间歇转动。该机构的优点是摩擦面积大可用于大载荷。但角α过大将减弱夹紧力，α过小将造成回程时不易分离，一般取a＜7°。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

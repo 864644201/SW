@@ -1,0 +1,254 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">齿轮轮系传动机构</span></td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="top"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+        <tr>
+          <td>差动轮系机构 </td>
+        </tr>
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+      </table>
+        <img src="images/2_1_1_2/351.gif" width="148" height="138"><img src="images/2_1_1_2/352.gif" width="155" height="94"></td>
+    <td width="68%" valign="top"><br>
+      图中由中心齿轮1、3，行星齿轮2、2'和系杆H组成，机构自由度为2。它的传动不仅与各轮齿数有关，还与各轮转速有关。当给该机构一公共转速&quot;－n H &quot;时，系杆H变为固定，差动轮系其他为定轴轮系，其传动比仅与齿数成反比。 <br>
+      <img src="images/2_1_1_2/35_3.gif"><br>
+      式中 n1、n3、nH--齿轮1、3和系杆H的转速； <br>
+       z1、z2、z3、z4--各齿轮的齿数。 </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="top"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+        <tr>
+          <td>行星轮系机构 </td>
+        </tr>
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+      </table>
+        <div align="center"><img src="images/2_1_1_2/353.gif" width="192" height="140"></div></td>
+    <td width="68%" valign="top"><br>
+       行星轮系与差动轮系不同，它有一个中心轮是固定的，其自由度为1，他们同属周转轮系。图中所示机构的传动比 <br>
+      <img src="images/2_1_1_2/35_4.gif"><br>
+      式中 n3、n H --中心轮3和系杆H的转速； <br>
+       z1、z2、z2'、z3--各齿轮的齿数。 <br>
+      若i3H＞0，则n3、nH为同向转动；若i3H＜0，则为反向转动。此机构可获得很大的传动比，例如作机床的示数机构；但增速时效率很低，甚至于产生自锁，故一般不用于增速。 </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="top"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+        <tr>
+          <td align="center">行星减速器 </td>
+        </tr>
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+      </table>
+        <div align="center"><img src="images/2_1_1_2/354.gif" width="286" height="198"></div></td>
+    <td width="68%" valign="top"><br>
+      图中主动轴H作为系杆带动两个行星齿轮2，2同时与从动齿轮1和固定齿轮3啮合，可得较大减速比。如z1=100、z3=98，其减速比为i H1 =50，即主动轴H每转一周，从动齿轮1转过2个齿。 </td>
+  </tr>
+  <tr>
+    <td width="26%" align="center" valign="top"><div align="left"></div>
+    <table align="left" cellpadding="0" cellspacing="0">
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+        <tr>
+          <td align="center">有缺口齿轮机构 </td>
+        </tr>
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+      </table>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><img src="images/2_1_1_2/355.gif" width="202" height="226"></p></td>
+    <td width="68%" valign="top"><br>
+      图中以齿轮1作主动轮，通过惰轮2、4驱动有缺口的从动齿轮3。由于功率分流传动，可减小机构的体积和重量，为了满足生产上要求在轮3上开一宽度为b的钳口槽（如石油钻井的旋扣器），并保证从动轮3作整周转动。机构尺寸关 系应满足下列条件: <br>
+      ① 正确安装条件 <br>
+      α(z3-z4)+γ(z4-z1)+β(z3-z2)+δ(z2-z1)=2πk <br>
+      式中α、γ、β、δ--为各齿轮中心线的夹角 <br>
+      z1 、z2、z3、z4--为各齿轮齿数 <br>
+      k--为正整数 <br>
+      ② 槽宽b所对应的中心角θ＜α+β <br>
+      ③ 齿轮中心距 <br>
+      <img src="images/2_1_1_2/36_1.gif"><br>
+      式中 da1、da2、da3、da4--为各齿轮的齿顶圆直径 </td>
+  </tr>
+  <tr>
+    <td width="26%" align="center" valign="top"><table align="left" cellpadding="0" cellspacing="0">
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+        <tr>
+          <td align="center">复合轮系 </td>
+        </tr>
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+      </table>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><img src="images/2_1_1_2/361.gif" width="199" height="127"></p></td>
+    <td width="68%" valign="top"><br>
+      机构由周转轮系和定轴轮系、或若干周转轮系组合而成的复杂轮系，也称混合轮系。图示由行星轮系1－2－5－6－H和差动轮系8－3－4－7－H组合而成。若z1=z8、z6=z7、z4=z3，则传动比 <br>
+      <img src="images/2_1_1_2/36_2.gif"><br>
+      当z2、z3相差一个齿时，可获得结构紧凑的大传动比机构。例如z1=32、z2=81、z3=80、z4=z5=20、z6=z7=50，则i 17 ≈426。复合轮系多数用于减速器、 变速器。 </td>
+  </tr>
+  <tr>
+    <td width="26%" align="center" valign="top"><table align="left" cellpadding="0" cellspacing="0">
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+        <tr>
+          <td align="center">三个中心钻的行星减速机构 </td>
+        </tr>
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+      </table>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><img src="images/2_1_1_2/362.gif" width="168" height="236"></p></td>
+    <td width="68%" valign="top"><br>
+      图示为车床电动三爪自定心卡盘行星减速装置。主动轮1通过H所支承的齿轮2、2'、固定齿轮3和从动齿轮4的啮合传动而驱使齿轮4转动，轮4上的阿基米德螺旋槽控制卡盘，使其卡紧或松开工件。传动比 <br>
+      <img src="images/2_1_1_2/36_3.gif"><br>
+      若齿数z1=6、z2=z2'=25、z3=57、z4=56，则i14=-588，负号表示齿轮1于4转向相反。该轮系结 构紧凑，体积小、传动比大，但安装比较复杂，常用于中小功率传动或机械的控制部分。 </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="top"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+        <tr>
+          <td align="center">少齿差行星减速机构 </td>
+        </tr>
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+      </table>
+        <p>&nbsp;</p>
+        <p align="center"><img src="images/2_1_1_2/363.gif" width="245" height="292"></p></td>
+    <td width="68%" valign="top"><br>
+      以系杆H为主动件，驱动行星齿轮1与固定中心轮2啮合，带动输出轴3匀速转动，传动比 <br>
+      <img src="images/2_1_1_2/36_4.gif"><br>
+      若轮2齿数z2=z1+1，则得到大传动比iH3=-z1， 且结构简单紧凑。轮1、2的齿廓可用渐开线、摆线或针齿。这类机构主轴转速可达1500～1800r／min， 采用摆线外轮效率较高，功率可达45kw，甚至达到100kw。 <br>
+      输出机构一般由销盘和孔盘组成，如图b 所示。也可采用一对齿数相等的内外齿轮组成的零齿差输 出机构。为避免齿形干涉，齿轮除径向变位外还要切向变位（图C）。该机构用很少几个构件，可获得相当大的传动比，结构简单紧凑。 </td>
+  </tr>
+  <tr>
+    <td width="26%" valign="top"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+        <tr>
+          <td align="center">谐波齿轮传动机构 </td>
+        </tr>
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+      </table>
+        <p align="center"><img src="images/2_1_1_2/371.gif" width="198" height="182"></p></td>
+    <td width="68%" valign="top"><br>
+      图示为双波发生器谐波传动机构，波发生器H的触头3将柔性齿轮l撑成椭圆形， 在长轴处柔性齿轮1与刚性齿轮2沿全齿高啮合，在短轴处完全脱离吻合。当H转动时， 将轮1的轮齿依次压入轮2间，使1、2轮产生相对转动。 <br>
+      ①刚轮2固定，波发生器H为主动、柔轮1从动，则传动比 <br>
+      <img src="images/2_1_1_2/37_1.gif"><br>
+      ②柔轮1固定，H主动、轮2位从动，则传动比 <br>
+      <img src="images/2_1_1_2/37_2.gif"><br>
+      谐波传动的特点是传动比大、传动平稳、结构简单效率高，且体积小重量轻。但柔轮易出现疲劳损伤。谐波齿轮传动机构有双波、三波和单级、双级等各种水平型。 </td>
+  </tr>
+</table>
+</body>
+</html>

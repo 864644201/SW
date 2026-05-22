@@ -1,0 +1,449 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BatchExportDrawings</name>
+    </assembly>
+    <members>
+        <member name="F:BatchExportDrawings.FrmAbout.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:BatchExportDrawings.FrmAbout.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:BatchExportDrawings.FrmAbout.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:BatchExportDrawings.Drawings.Drawings">
+            <summary>
+            出工程图类
+            </summary>
+        </member>
+        <member name="P:BatchExportDrawings.Drawings.Drawings.MaxCount">
+            <summary>
+            文件个数
+            </summary>
+        </member>
+        <member name="P:BatchExportDrawings.Drawings.Drawings.Step">
+            <summary>
+            单步
+            </summary>
+        </member>
+        <member name="T:BatchExportDrawings.Drawings.Drawings.cdAssemBar">
+            <summary>
+            进度条委托
+            </summary>
+            <param name="imaxCnt"></param>
+            <param name="iStep"></param>
+        </member>
+        <member name="F:BatchExportDrawings.Drawings.Drawings.AssemBar">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:BatchExportDrawings.Drawings.Drawings.tranDwg">
+            <summary>
+            图纸比例到最优
+            </summary>
+        </member>
+        <member name="P:BatchExportDrawings.Drawings.Drawings.drawScale">
+            <summary>
+            图纸比例到最优
+            </summary>
+        </member>
+        <member name="P:BatchExportDrawings.Drawings.Drawings.stardardScale">
+            <summary>
+            国标比例
+            </summary>
+        </member>
+        <member name="P:BatchExportDrawings.Drawings.Drawings.sheetMetal">
+            <summary>
+            钣金展开
+            </summary>
+        </member>
+        <member name="P:BatchExportDrawings.Drawings.Drawings.sheetFlap">
+            <summary>
+            钣金展开是否翻转
+            </summary>
+        </member>
+        <member name="P:BatchExportDrawings.Drawings.Drawings.bendSheet">
+            <summary>
+            折弯系数表
+            </summary>
+        </member>
+        <member name="P:BatchExportDrawings.Drawings.Drawings.standarView">
+            <summary>
+            标准三视图
+            </summary>
+        </member>
+        <member name="P:BatchExportDrawings.Drawings.Drawings.isometric">
+            <summary>
+            等轴测视图
+            </summary>
+        </member>
+        <member name="P:BatchExportDrawings.Drawings.Drawings.matrialBom">
+            <summary>
+            材料明细表
+            </summary>
+        </member>
+        <member name="P:BatchExportDrawings.Drawings.Drawings.widthLeft">
+            <summary>
+            图纸左边框宽度
+            </summary>
+        </member>
+        <member name="P:BatchExportDrawings.Drawings.Drawings.widthRight">
+            <summary>
+            图纸右下边框宽度
+            </summary>
+        </member>
+        <member name="P:BatchExportDrawings.Drawings.Drawings.higthSheet">
+            <summary>
+            标题栏单元格高度
+            </summary>
+        </member>
+        <member name="M:BatchExportDrawings.Drawings.Drawings.ExportDrawing(SolidWorks.Interop.sldworks.SldWorks,System.Collections.Generic.Dictionary{System.String,System.String[]},System.Collections.Generic.List{System.String},System.String,System.String,System.String)">
+            <summary>
+            出工程图方法
+            </summary>
+            <param name="dicValue">字典集合保存datagridview中的值</param>
+            <param name="drawPath">图纸路径集合</param>
+            <param name="bomPath">bom表模板路径</param>
+            <param name="bendPath">折弯表模板路径</param>
+            <param name="savePath">图纸保存路径</param>
+        </member>
+        <member name="M:BatchExportDrawings.Drawings.Drawings.Drawing(SolidWorks.Interop.sldworks.SldWorks,System.Collections.Generic.Dictionary{System.String,System.String[]},System.String,System.String,System.String,System.String)">
+            <summary>
+            出工程图
+            </summary>
+            <param name="dicValues">字典集合</param>
+            <param name="bomPaths">Bom表模板</param>
+            <param name="bendPaths">折弯表模板</param>
+            <param name="savePaths">保存路径</param>
+        </member>
+        <member name="M:BatchExportDrawings.Drawings.Drawings.CheckSWDocVersion(SolidWorks.Interop.sldworks.SldWorks,System.String)">
+            <summary>
+            判断文件版本 2019-10-11 添加
+            </summary>
+            <param name="swApp"></param>
+            <param name="docPath">文件路径</param>
+            <returns></returns>
+        </member>
+        <member name="M:BatchExportDrawings.Drawings.Drawings.IsMentalSheets(SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            判断是否为钣金
+            </summary>
+            <param name="swModel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BatchExportDrawings.Drawings.Drawings.JudgeTemplateCorrect(SolidWorks.Interop.sldworks.DrawingDoc,System.String,System.Boolean)">
+            <summary>
+            判断选择的模板是否正确  2019/11/12添加
+            </summary>
+            <param name="swDrawDoc">工程图对象</param>
+            <param name="ex">后缀名</param>
+            <param name="result">视角</param>
+            <returns></returns>
+        </member>
+        <member name="M:BatchExportDrawings.Drawings.Drawings.SheetPlante(SolidWorks.Interop.sldworks.ModelDoc2,SolidWorks.Interop.sldworks.DrawingDoc,System.String,System.Collections.Generic.List{System.Double[]},System.Collections.Generic.List{System.Double[]},System.Int32)">
+            <summary>
+            钣金展开
+            </summary>
+            <param name="swModel"></param>
+            <param name="swDraw"></param>
+            <param name="path">零件路径</param>
+            <param name="pos"></param>
+            <param name="outLine"></param>
+            <param name="viewNum"></param>
+        </member>
+        <member name="M:BatchExportDrawings.Drawings.Drawings.SupressFeature(SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            压缩钣金展开
+            </summary>
+            <param name="swModel"></param>
+        </member>
+        <member name="M:BatchExportDrawings.Drawings.Drawings.InsertBendTable(SolidWorks.Interop.sldworks.DrawingDoc,SolidWorks.Interop.sldworks.IView,SolidWorks.Interop.sldworks.ModelDoc2,System.String)">
+            <summary>
+            插入折弯表
+            </summary>
+            <param name="swDraw"></param>
+            <param name="__swView"></param>
+            <param name="swModel"></param>
+        </member>
+        <member name="M:BatchExportDrawings.Drawings.Drawings.CreatIsometric(SolidWorks.Interop.sldworks.DrawingDoc,System.String)">
+            <summary>
+            只生成等轴测视图
+            </summary>
+            <param name="swDraw"></param>
+            <param name="fileName"></param>
+        </member>
+        <member name="M:BatchExportDrawings.Drawings.Drawings.ChangeViewShow(System.String,SolidWorks.Interop.sldworks.IView)">
+            <summary>
+            改变视图的显示样式
+            </summary>
+            <param name="viewType">视图样式</param>
+            <param name="__swView"></param>
+        </member>
+        <member name="M:BatchExportDrawings.Drawings.Drawings.AddDimension(System.String,SolidWorks.Interop.sldworks.DrawingDoc,SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            添加尺寸
+            </summary>
+            <param name="dimensionType">添加尺寸类型</param>
+            <param name="_swDrawDoc"></param>
+            <param name="swModel"></param>
+        </member>
+        <member name="M:BatchExportDrawings.Drawings.Drawings.CalcuScale(System.Collections.Generic.List{System.Double[]},SolidWorks.Interop.sldworks.DrawingDoc,System.Double,System.Double,System.Int32)">
+            <summary>
+            计算修改比列
+            </summary>
+            <param name="box"></param>
+            <param name="swDraw"></param>
+            <param name="scale"></param>
+            <param name="space"></param>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.#ctor">
+            <summary>
+            构造函数（初始化）
+            </summary>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.SubLastString(System.String,System.String)">
+             <summary>
+            截取到最后一位字符
+             </summary>
+             <param name="sSubStr">原字符串路径</param>
+             <param name="sSplitStr">分隔的字符</param>
+             <returns></returns>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.GetFiles(System.String,System.String,System.String)">
+            <summary>
+            获取用户所选文件（prt,asm）
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.GetDrawPathByDir(System.String)">
+            <summary>
+            获取文件夹下所有图纸路径
+            </summary>
+            <param name="direct"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.GetAllFiles(System.String)">
+            <summary>
+            获取用户所选择文件夹下的所有文件（prt,asm）
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.GetFileByDir(System.String)">
+            <summary>
+            获取文件夹下包含指定字符串的所有文件
+            </summary>
+            <param name="directory">文件夹路径</param>       
+            <returns></returns>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.GetTemp(System.String@,System.String,System.String,System.String)">
+            <summary>
+            获取工程图模板文件
+            </summary>
+            <returns></returns>        
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.pairArry(System.Collections.Generic.Dictionary{System.String,System.String},System.Int32)">
+            <summary>
+            字典排序方法
+            </summary>
+            <param name="dic">排序对象</param>
+        </member>
+        <member name="F:BatchExportDrawings.FrmMain.tempDic">
+            <summary>
+            判断添加的文件是否有重复文件（注意string为null）
+            </summary>      
+            <param name="newFile">新添加的文件</param>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.openDocToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            打开文件夹选择文件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.AddFileInfo(System.String[],System.String[])">
+            <summary>
+            添加文件信息
+            </summary>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.addCombox">
+            <summary>
+            向combox中添加元素
+            </summary>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.openDirecToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            选择文件夹里所有文件
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.openCurrentToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            打开当前sw中的文件
+            </summary>      
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.dgvFileList_CellClick(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)">
+            <summary>
+            点击单元格立即选择下拉框事件
+            </summary>     
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.deleteFileToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            删除选中行
+            </summary>   
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.clearFileToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            清空列表所有文件
+            </summary>     
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.FilesLists">
+            <summary>
+            获取界面展示全部或选中的文件
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.dgvFileList_CellMouseClick(System.Object,System.Windows.Forms.DataGridViewCellMouseEventArgs)">
+            <summary>
+            用户单击单元格时取消选中行
+            </summary>   
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.JudgeTempIsSize(System.String)">
+            <summary>
+            判断模板是否存在尺寸
+            </summary>
+            <param name="tempPath">模板名称</param>
+            <returns>结果</returns>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.CheckFileOpen(System.Int32,SolidWorks.Interop.sldworks.SldWorks,System.String)">
+            <summary>
+            检查文件打开情况
+            </summary>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.FirstColum">
+            <summary>
+            获取第一列文件名
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.tempIsSame(System.Collections.Generic.List{System.String})">
+            <summary>
+            过滤重复的模板文件
+            </summary>
+            <param name="newTemp">新加载的模板文件</param>
+            <returns></returns>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.chkIsometric_Click(System.Object,System.EventArgs)">
+            <summary>
+            点击checkbox全选\取消按钮（待修改）
+            </summary>       
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.chkBom_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            实现明细表的全选\取消全选
+            </summary>      
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.dgvFileList_CellContentClick(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)">
+            <summary>
+            实现明细表某一checkbox为false时，全选按钮也为false
+            </summary>     
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.btnStartDrawing_Click(System.Object,System.EventArgs)">
+            <summary>
+            开始按钮事件
+            </summary>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.FrmMain_Load(System.Object,System.EventArgs)">
+            <summary>
+            窗体加载事件
+            </summary>     
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.pbBarStep(System.Int32,System.Int32)">
+            <summary>
+            进度条格式
+            </summary>
+            <param name="imaxValue">总数</param>
+            <param name="istep">总步数</param>
+        </member>
+        <member name="F:BatchExportDrawings.FrmMain.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:BatchExportDrawings.FrmMain.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要修改
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="M:BatchExportDrawings.Program.Main">
+            <summary>
+            应用程序的主入口点。
+            </summary>
+            
+        </member>
+        <member name="M:BatchExportDrawings.FrmResultShow.#ctor(System.Collections.Generic.List{System.String},System.Int32,System.Collections.Generic.List{System.String})">
+            <summary>
+            初始化（构造方法）
+            </summary>
+            <param name="data">跳过的文件</param>
+            <param name="num">成功的文件数</param>
+        </member>
+        <member name="F:BatchExportDrawings.FrmResultShow.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:BatchExportDrawings.FrmResultShow.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:BatchExportDrawings.FrmResultShow.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:BatchExportDrawings.Properties.Resources">
+            <summary>
+              一个强类型的资源类，用于查找本地化的字符串等。
+            </summary>
+        </member>
+        <member name="P:BatchExportDrawings.Properties.Resources.ResourceManager">
+            <summary>
+              返回此类使用的缓存的 ResourceManager 实例。
+            </summary>
+        </member>
+        <member name="P:BatchExportDrawings.Properties.Resources.Culture">
+            <summary>
+              重写当前线程的 CurrentUICulture 属性，对
+              使用此强类型资源类的所有资源查找执行重写。
+            </summary>
+        </member>
+        <member name="P:BatchExportDrawings.Properties.Resources.批量自动出图_64">
+            <summary>
+              查找类似于 (图标) 的 System.Drawing.Icon 类型的本地化资源。
+            </summary>
+        </member>
+    </members>
+</doc>

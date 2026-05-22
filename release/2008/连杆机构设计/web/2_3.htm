@@ -1,0 +1,123 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">转动导杆机构</span></td>
+  </tr>
+  <tr>
+    <td><p align="center" class="thth">机构示意图 </p></td>
+    <td><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>刨床转动导杆机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/441.gif"></p></td>
+    <td valign="top"><p><br>
+        　　 机架AB的长度比主动曲柄BC的长度短，BC通过滑块C带动转动导杆AC作非匀速转动，并具有明显的急回特性。该机构用于刨床、插床，它具有较慢的近于等速的切削行程速度和较快的回程速度。滑块E的行程S=2AD，当比值BC/AB较小时，机构的动力性能变坏，一般推荐(BC/AB)&gt;2。转动导杆机构在回转柱塞泵、叶片泵、切纸机及旋转式发动机等机器上均有应用。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>联轴器机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/442.gif" width="273" height="170"></p></td>
+    <td valign="top"><p><br>
+        　　 用联轴器联接轴心线不重合的两轴，在两轮间传递运动和动力。 主动盘1绕C轴转动时，圆盘1上的滑槽拨动从动盘3上的销2，使其统A轴旋转，同时销2相对滑槽移动。该机构属于转动导杆机构。导杆1作匀速转动， 通过滑块与铰链带动从动杆3作非匀速转动。当偏距 e=AC很小时，从动杆3的角速度变化趋向平缓。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

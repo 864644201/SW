@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<p><strong>&nbsp; 根据最小传动角设计双曲柄机构</strong></p>
+<p>&nbsp;<br>
+&nbsp; 　　<img border="0" src="../images/CDJSJ/sqbimage1.bmp" width="277" height="177"></p>
+<p>　　　　如上图表示出双曲柄机构的两个位置AB<font size="1">1</font>C<font size="1">1</font>D及AB<font size="1">2</font>C<font size="1">2</font>D，此时具有两个最小传动角（γmin<font size="1">1</font>,γmin<font size="1">2</font>）。</p>
+<p>　　在这两位置之间输入杆AB转180度，输出杆DC转ψ角度。为了达到最佳传动条件，给定ψ时，要求两个</p>
+<p>　　传动角的最小值相等。按最小传动角设计双曲柄机构时，用下面(a)、(b)、(c)线图分别根据给定的</p>
+<p>　　ψ及γmin值，求得a/d，b/d及c/d三个相对长度值。</p>
+<p><img border="0" src="../images/CDJSJ/sqbimage2.bmp" width="265" height="391"><img border="0" src="../images/CDJSJ/sqbimage3.bmp" width="277" height="383"><img border="0" src="../images/CDJSJ/sqbimage4.bmp" width="257" height="398"></p>
+<p>　　　　　　　　(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+(c)</p>
+<p>&nbsp; 式中：</p>
+<p>　　a <font face="宋体">—　输入杆AB的长度；</font></p>
+<p>　　b <font face="宋体">—　连杆BC的长度；</font>　</p>
+<p>　　c<font face="宋体"> —　输出杆CD的长度；</font></p>
+<p><font face="宋体">　　d —　机架AD的长度；</font></p>
+<p><font face="宋体">　　</font>γmin<font face="宋体">及</font>ψ<font face="宋体">见上述。</font></p>
+</body>
+</html>

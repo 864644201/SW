@@ -1,0 +1,4597 @@
+10BASE-2   &&   同轴细电缆以太网
+10BASE-5   &&   同轴粗电缆以太网
+10BASE-F   &&   光纤介质以太网
+10BASE-T   &&   双绞线以太网
+B AND Not A gate   &&   禁止门，B“与”“非”A 门
+B OR NOT A gate   &&   B“或”A“非”门
+B Tree   &&   B树
+B implies A gate   &&   A“或”B“非”门
+B instruction   &&   变址(数)指令，B指令
+B type graphite   &&   B型石墨，菊花状石墨
+B+Tree   &&   B+树
+B-ISDN   &&   宽带综合服务数字网
+B-amplifier   &&   B类放大器，乙类放大器
+B-eliminator   &&   乙电源整流器，代乙电器，阳极电源整流器
+B-line   &&   ①变址(数)寄存器②B线
+B-pillar   &&   中立柱(B-支柱)
+B-plus   &&   阳极电源的正极，B电池的正极
+B-post   &&   中立柱(B-支柱)
+B-power   &&   阳极电源，乙电源，板极电源
+B-register   &&   B寄存器，加法寄存器，变址寄存器
+B-scope   &&   B型显示
+B-stage resin   &&   乙阶树脂，半溶阶段树脂
+BCC   &&   (Bus and Coach Council (UK)) (英)公共汽车和客车委员会
+BDC   &&   (Bottom Dead Center (of engine stroke))  下止点
+BEV   &&   (Barrier Equivalent Velocity) 壁障当量速度
+BHC   &&   (Burner-Heated Catalyst) 燃烧加热催化器
+BHP   &&   (Brake Horsepower) 制动马力
+BICERI   &&   (British Internal Combustion Engine Research Institute (formerly BICERA))  英国内燃机研究协会(即以前的BICERA)
+BMEP   &&   (Brake Mean Effective Pressure) 制动平均有效压力
+BMV   &&   (Ministry of Transport (Germany)) (德)运输部
+BNA   &&   (Bureau des Normes de l’Automobile(France)) (法)汽车标准局
+BP-scope   &&   BP 型显示
+BPC   &&   增压压力控制
+BS&W   &&   (Bottom Sediment and Wear (of lubricant)) (润滑剂的)残渣和损耗
+BSAS   &&   (British Standards Automotive Standards)  英国汽车标准
+BSFC   &&   (Brake Specific Fuel Consumption) 制动燃料消耗率
+BSI   &&   British Standards institution英国标准局
+BT-calibration installation   &&   深温计(BT)检定装置
+BTC   &&   (British Technical Council (of the Motor and Petroleum  industries))    (汽车和石油工业的)英国技术委员会
+BTDC   &&   (Before Top Dead Center (of engine stroke))  上止点前
+BTG alloy   &&   奥氏体钢(Cr 10％，Ni 60％，W 2％～5％，Mo 1％，Mnl％～3％)
+BTU   &&   (British Thermal Unit)  英热工单位
+BThU   &&   (British Thermal Unit)  英热工单位
+BUDC   &&   (Before Upper Dead Center (prefer BTDC)  上止点前(建议用BTDC)
+BWR type reactor   &&   沸水型堆
+Babbit   &&   巴比合金，巴氏(轴承)合金
+Babbit alloy   &&   巴比合金
+Babbit bronze   &&   巴比青铜，轴承青铜
+Babbit lining   &&   巴氏合金衬
+Babbit-line bearing   &&   巴比合金衬套轴承
+Babbit-metal   &&   巴比合金，巴氏(轴承)合金
+Babbitt metal   &&   巴氏合金
+Babbitting   &&   镶巴比合金
+Backman thermometer   &&   贝克曼温度计
+Baily furnace   &&   贝利炭粒炉
+Bain strain   &&   贝氏应变
+Bainite   &&   贝氏体
+Bainite critical cooling rate   &&   贝氏体临界冷却速度
+Bainite ductile iron   &&   贝氏体球(墨铸)铁
+Bainite hardenability   &&   贝氏体淬透性
+Bainite hardening   &&   贝氏体淬火，贝氏体强化
+Bainite quenching   &&   贝氏体淬火
+Bainite range   &&   贝氏体区，贝氏体范围
+Bainite steel   &&   贝氏体钢
+Bainite structure   &&   贝氏体组织
+Bainite tempering   &&   贝氏体回火
+Bainite transformation   &&   贝氏体转变
+Bainite treatment   &&   贝氏体处理
+Baldwin creep tester   &&   鲍德文蠕变试验机
+Banbury mixer   &&   班伯里密炼机
+Barkhausen effect   &&   巴克豪森效应(铁磁体中磁的不连续变化)
+Barkhausen-Kurz valve   &&   巴克豪森-库尔兹电子管(具有制动电场的三极管)
+Barnett effect   &&   巴尼特效应(物体旋转产生磁化)
+Baros metal   &&   镍铬合金(Ni 90％，Cr l0％)
+Barus effect   &&   熔体挤出胀大, 巴拉斯效应
+Be-bronze   &&   铍青铜
+BeV   &&   10亿电子伏(特)(10^9电子伏)
+Beallon   &&   比阿隆铍铜合金
+Beaufort scale   &&   蒲福风级
+Beckman differential thermometer   &&   贝克曼温度计
+Beckman process   &&   贝克曼法(用以制微孔硬质橡胶)
+Beckman thermometer   &&   贝克曼温度计
+Beer's law   &&   比尔定律
+Beilby layer   &&   热熔层,伯尔比层
+Belady algorithm   &&   贝莱迪算法
+Belgian block   &&   比利时石块铺砌路(面)
+Belgian pave   &&   比利时石块铺砌路(面)
+Bell Laboratory   &&   贝尔实验室
+Bell Telephone Laboratory   &&   贝尔电话(实验)室[BTL]
+Bell reactor   &&   贝尔堆
+Bell shell   &&   钟型壳
+Bellini-Tosi system   &&   贝立尼-托西(天线)系统
+Bellman's principle of optimality   &&   贝尔曼最优化原理
+Beloyarsk-1 reactor   &&   别洛雅尔斯克-堆
+Bematron   &&   毕玛管
+Bendix drive   &&   本迪克斯驱动装置，惯性驱动装置
+Bendix screw   &&   螺旋花键
+Bendix starter   &&   本迪克斯起动机
+Bendix-Tracta joint   &&   滑块式万向节
+Bendix-Weise joint   &&   球叉式万向节
+Bendix-Weiss joint   &&   本迪克斯-外斯式万向节
+Benedict metal   &&   本尼迪克特白铜(铜镍锌合金)
+Bengough-Stuart process   &&   本戈—斯图尔特法
+Benson boiler   &&   本生式锅炉，直流锅炉
+Benzene   &&   苯 C6H6
+Benzole   &&   苯
+Bergman generator   &&   伯格曼发电机(带第三电刷的)，恒压三刷发电机(电气机车用的)
+Bernoulli equation   &&   伯努利方程
+Bernoulli number   &&   伯努利数
+Bernoulli process   &&   伯努利过程
+Bernoulli stochastic process   &&   伯努利随机过程
+Bernoulli trial   &&   伯努利试验
+Berry transformer   &&   贝里变压器
+Bertrand lens   &&   伯特兰透镜
+Beryllia   &&   贝里利耐火材料，氧化铍耐火材料，氧化铍
+Bessel function   &&   贝塞尔函数
+Bessel transform   &&   贝赛尔变换
+Bessel's differential equation   &&   贝塞尔微分方程
+Bessel's interpolation formula   &&   贝塞尔插值公式
+Bessemer basic steel   &&   碱性转炉钢
+Bessemer blow   &&   酸性转炉吹炼
+Bessemer charge   &&   酸性转炉炉料
+Bessemer converter   &&   酸性转炉，贝氏炉
+Bessemer copper   &&   吹炉铜
+Bessemer cupola   &&   酸性化铁炉，冶金冲天炉
+Bessemer furnace slag   &&   转炉钢渣
+Bessemer heat   &&   酸性转炉熔炼
+Bessemer ingot iron   &&   酸性转炉钢锭
+Bessemer iron   &&   酸性转炉钢
+Bessemer low carbon steel   &&   酸性转炉低碳钢
+Bessemer mild steel   &&   酸性低碳钢
+Bessemer ore   &&   低磷铁矿，酸性转炉铁矿
+Bessemer pig iron   &&   酸性转炉生铁，贝氏生铁
+Bessemer process   &&   贝氏炉(炼钢)法，酸性转炉(炼钢)法
+Bessemer steel   &&   酸性转炉钢
+Bessemer-bottom-blown furnace   &&   底吹转炉
+Bessemer-side-blown furnace   &&   侧吹转炉
+Bessemerizing   &&   酸性转炉炼钢法
+Besson nephoscope   &&   贝森测云器
+Beta varn   &&   贝塔线(一种很细的玻璃丝)
+Beta voltaic cell   &&   β-伏打电池
+Bethenod-Latoar high frequency generator   &&   贝斯诺德-拉图尔高频发电机
+Bezier curve   &&   Bezier 曲线
+Bi-tone horn   &&   双音喇叭
+Binding brass   &&   含铅黄铜(含63％～64％Cu，35％Zn，1％～2％Pb)
+Binodalcarve   &&   双节固溶曲线，比诺达尔线
+Bioch one-electron state   &&   布洛赫单电子态
+Birfield universal joint   &&   伯菲尔德万向节
+Birmabrite   &&   耐蚀铝合金(Mg 3.5％～4.0％，Mn 0.05％，余为Al)
+Birmasil   &&   铸造铝合金(Si 10％～13％，Ni 2.5％～3.5％，Fe 0.6％，Mn 0.5％，Mg 0.1％，Zn，Pb)
+Birmastic   &&   耐热铸造铝合金(Si 12％，Ni 2.5％～3.5％，少量Fe，Cu，Mn，余为Al)
+Birmingham wire gauge   &&   伯明翰线规(测量金属丝或金属薄片用，英国)
+Bitter pattern   &&   毕特图(直接观察铁磁性体磁畴构造的方法)
+Bitter type coil   &&   毕特型线圈
+Blavier's test   &&   布莱维尔试验(一种寻找电缆故障点的方法)
+Bloch equation   &&   布洛赫方程
+Bloch function   &&   布洛赫函数
+Bloch wall   &&   布洛赫型壁
+Bloch's model   &&   布洛赫模型
+Bloch-type wall   &&   布洛赫型壁
+Blondel chart   &&   布朗德尔图表(计算输电线弛度用)
+Blondel diagram   &&   布朗德尔(相量)图(计算同步电机参数用)
+Blondel oscillograph   &&   布朗德尔示波器(单回线磁电式示波器)
+Blondel's theorem   &&   布朗德尔定理
+Bode diagram   &&   博德图(以对数频率为基础的对数增益和角度值的图解)
+Bohr atom   &&   玻尔原子
+Bohr atom model   &&   玻尔原子模型
+Bohr magneton   &&   玻尔磁子，玻尔磁控管
+Bohr radius   &&   玻尔半径
+Bohr's periodic table   &&   玻尔(元素)周期表
+Boltzmann approximation   &&   玻尔兹曼近似
+Boltzmann constant   &&   玻尔兹曼常数
+Boltzmann distribution   &&   玻尔兹曼分布
+Boltzmann equation   &&   玻尔兹曼方程
+Boltzmann transport equation   &&   玻尔兹曼输运方程
+Boltzmann-Maxwell statistics   &&   玻尔兹曼-麦克斯韦统计
+Bonetti machine   &&   一种静电感应发生器
+Bose-Einstein statistics   &&   玻色-爱因斯坦统计法
+Boucherot circuit   &&   波切洛特-加龙省电路(由LC组成的在恒电压时得到恒电流的电路)
+Boucherot squirrel-cage motor   &&   双鼠笼式电动机
+Boucherot starting method   &&   波切洛特-加龙省启动法(鼠笼电动机的一种启动方法)
+Bouguer's law   &&   伯格定律
+Bourdon[tube]   &&   布尔登管式压力计
+Bourry diagram   &&   布里图解(表示黏土脱粒收缩与干燥时间的关系)
+Bouyoucos hydrometer   &&   鲍氏比重计(测砂子，黏土含量)
+Bowden brake   &&   博登制动器
+Bowden cable   &&   博登拉线
+Boyce-Codd normal form   &&   BC范式
+Boyle's law   &&   玻意尔定律
+Boyle-Charlie's law   &&   玻意尔喳理定律
+Bragg angle   &&   布拉格角
+Bragg condition   &&   布拉格条件
+Bragg curve   &&   布拉格曲线(α粒子张开的射程-能量曲线)
+Bragg diffraction   &&   布拉格衍射
+Bragg direction   &&   布拉格方向
+Bragg equation   &&   布拉格方程式
+Bragg ionization curve   &&   布拉格电离曲线
+Bragg law   &&   布拉格定律
+Bragg maximum   &&   布拉格最大值
+Bragg method   &&   布拉格法(X射线晶体分析)
+Bragg peak   &&   布拉格峰
+Bragg reflected beam   &&   布拉格反射束
+Bragg reflection   &&   布拉格反射
+Bragg reflection angle   &&   布拉格反射角
+Bragg reflection rule   &&   布拉格定则
+Bragg scattering angle   &&   布拉格散射角
+Bragg's equation   &&   布拉格方程
+Bravais lattice   &&   布拉维晶格
+Bravais unit cell   &&   布拉维晶胞
+Bravais-Miller indices   &&   布拉维—密勒指数
+Brayton cycle   &&   卜来顿循环
+Brewster angle   &&   布儒斯特角
+Brewster law   &&   布儒斯特定律(光的反射与折射定律)
+Brewster prism   &&   布儒斯特棱镜
+Brienll hardness tester   &&   布氏硬度计
+Brigg's logarithm   &&   常用对数，布氏对数
+Brigg's standard pipe thread   &&   布里格标准管螺纹
+Brillouin function   &&   布里渊函数
+Brillouin laser   &&   布里渊激光器
+Brillouin scattering   &&   布里渊散射
+Brillouin zone   &&   布里渊区
+Brinell ball   &&   布氏硬度试验机
+Brinell figure   &&   布氏硬度试验读数
+Brinell hardness   &&   布氏硬度
+Brinell hardness number   &&   布氏硬度值
+Brinell hardness penetrator   &&   布氏硬度压头
+Brinell hardness test   &&   布氏硬度试验
+Brinell hardness testing machine   &&   布氏硬度试验机
+Brinell number   &&   布氏(硬度)值
+Brinell test   &&   布氏(硬度)试验
+Brinelling   &&   布氏硬度试验，测布氏硬度
+Brinelling measuring magnifier   &&   布氏硬测量放大镜
+Bristol alloy   &&   白铜(h 37％，Cu 58％，Sn 5％)
+Britannia joint   &&   英式焊接
+Britannia metal   &&   不列颠锡铜锑合金
+British   &&   英制
+British Patent   &&   英国专利
+British Standard   &&   英国标准
+British Standard Dimension   &&   英国度量标准[BSD]
+British Standard Gauge   &&   英国标准线规[BSG]
+British Standard Wire gauge   &&   英国标准线规[BSWG]
+British Thermal Units   &&   英热单位 [BTU]
+British horse power   &&   英制马力(=745.7瓦)[BHP]
+British standard   &&   英国标准[BS]
+British standard pipe thread   &&   英国标准管用螺纹
+British standard specification   &&   英国标准学规范，英国标准技术规格
+British standard thread   &&   英国标准螺纹
+British system   &&   英制
+British thermal unit   &&   英国热量单位(=252卡=1055焦耳)[BTU]
+British unit system   &&   英国单位制
+Broach   &&   拉刀
+Brook's inductometer   &&   布鲁克电感计
+Brookfield viscosity   &&   布鲁克费尔德粘度
+Brouwer theorem   &&   布鲁韦定理
+Brown and Sharpe gauge   &&   布朗-夏普线规，美国线规，B&S线规
+Brown and Sharpe taper   &&   布朗-夏普锥度
+Brown's test   &&   布朗法钢丝绳磨损试验
+Brown-Boveri test   &&   布朗-博维里氧化稳定性试验
+Brownian motion   &&   布朗运动
+Brune synthesis of RLC network   &&   络勃隆综合
+Brussels classification system   &&   布鲁塞尔分类系统，通用十进制分类系统
+Brussels system   &&   布鲁塞尔系统，通用十进制系统
+Bubble Sorting   &&   冒泡排序
+Buchholz protection   &&   瓦斯继电保护(装置)
+Buchholz relay   &&   巴克霍尔茨继电器，瓦斯继电器，气体继电器(变压器的)
+Byram anemometer   &&   拜拉姆风速表
+babble   &&   多路感应的复杂失真，多路感应的复杂，混串音
+baby Bessemer converter   &&   小型酸性转炉
+baby Brinell   &&   小型布氏硬度计(hardness tester)
+baby cupola   &&   小冲天炉，小化铁炉
+baby knife switch   &&   小型闸刀开关
+baby rail   &&   小钢轨
+baby tower   &&   小型蒸馏塔
+baby tractor   &&   小型拖拉机
+baby-car   &&   小型汽车
+bacca box smoother   &&   球面角光子(铸造用)球面墁刀
+back action   &&   反作用
+back and forth method   &&   尝试法，往返法
+back angle   &&   ①后角(切削)，后视角，后隙角②连接角钢，背锥角
+back angle distance   &&   背角距(在背锥母线方向)
+back axle   &&   后桥，后车轴
+back balance   &&   ①平衡锤，平衡重②后平衡
+back bias voltage   &&   反向偏压，负偏压
+back board   &&   背板，背靠，底板，后板，后部挡板
+back bridge wall   &&   ①火桥②挡烟板(反射炉的)
+back cap   &&   后盖
+back centre   &&   后顶尖
+back clearance   &&   背隙(螺纹)
+back clearance angle   &&   车刀纵向后角
+back clipping on   &&   后向剪裁打开
+back coat   &&   底漆(层)
+back conductance   &&   反向电导
+back cone   &&   背锥
+back cone angle   &&   背锥角
+back cone distance   &&   背锥距
+back cone element   &&   背锥母线
+back connected instrument   &&   接头在背面的仪表
+back contact   &&   背电极
+back coupling   &&   反耦，回授
+back current   &&   反向电流
+back donation   &&   反馈
+back draft   &&   回程
+back drop   &&   ①交流声②干扰③背景
+back edge   &&   后沿
+back electromotive force   &&   反电动势
+back elevation   &&   后视图
+back feedback   &&   反馈，回授
+back flashover   &&   反击雷闪络，反向闪络
+back flush   &&   ①反向洗涤，回洗，逆流洗涤②反向色谱
+back flushing   &&   反吹
+back focal length   &&   反焦距
+back focal plane   &&   反聚焦面
+back focus   &&   反焦点
+back ground   &&   背景，底影，基础
+back guy   &&   后拉线
+back induction   &&   去磁作用
+back kick   &&   反向放电
+back lash error   &&   齿隙误差
+back layer   &&   摄影背面层
+back light   &&   ①后灯②背景光，后照光
+back magnetization   &&   反磁化
+back mission   &&   反向发射
+back motion   &&   倒转，反向运动
+back nut   &&   后螺母，限动螺母，支撑螺母
+back of a knife   &&   刀背
+back of arc   &&   拱背
+back of film microscope   &&   胶片后聚焦显微镜
+back off system   &&   主操作系统，基本操作系统
+back peak   &&   反冲峰
+back pitch   &&   ①后(节)距，背节距②反螺旋
+back play   &&   空程，空隙
+back porch   &&   后沿
+back pouring   &&   补浇
+back pressure   &&   反压力，回压，背压
+back pressure evaporator   &&   背压式蒸发器
+back pressure test   &&   回压试验
+back purge   &&   反冲
+back rake angle   &&   纵向前角
+back reflection   &&   背反射
+back reflection X-ray examination   &&   背射X射线检验
+back reflection photograph   &&   背射照相
+back resistance   &&   逆向电阻，反向电阻
+back rolling   &&   重复滚压
+back scattered electron   &&   背散射电子
+back scattered electron beam   &&   背散射电子束
+back scattered electron image   &&   反散射电子图像
+back scattered radiation   &&   反散射辐射
+back scattering spectrometry   &&   反散射谱法
+back scheduling   &&   倒排日程
+back shop   &&   修理厂，修理车间，辅助车间
+back signal   &&   回应信号，回原信号
+back slagging   &&   炉底出渣，炉后出渣
+back space   &&   退位，退格，回退
+back stay   &&   后拉线，后撑条
+back streaming   &&   回流
+back surface field   &&   背面场[BSF]
+back surface reflector   &&   背表面反射器[BSR]
+back taper   &&   倒锥
+back titration   &&   反滴定
+back tool rest   &&   后刀架
+back transient   &&   反向瞬态过程
+back up equipment   &&   后援设备
+back view   &&   后视图 后视景
+back view mirror   &&   望后镜
+back wall   &&   后壁式
+back washing machine   &&   复洗机
+back wave   &&   反射波，回波
+back wedge angle   &&   纵向楔角
+back welding   &&   封底焊
+back-and-forth movement   &&   往返运动，往复运动
+back-checking   &&   返回校验
+back-diffusion   &&   反向扩散，逆扩散
+back-end   &&   ①后头，尾端②未采部分
+back-end computer   &&   后端计算机
+back-extractant   &&   反萃取剂
+back-extraction   &&   反抽提，反萃取
+back-filling tamper   &&   回填压实机
+back-fire relief valve   &&   阻火器
+back-flame boiler   &&   回焰锅炉
+back-lash   &&   ①轮齿隙，齿隙游移②后冲，后座③余隙，间隙④回闪
+back-of-board wiring   &&   盘后接线
+back-off   &&   ①补偿②拧松，拆开，解开③抽出，撤离，退刀
+back-off angle   &&   后角
+back-out   &&   ①脱出，扭松，旋出，甩出(如螺栓等)②逆序操作③退火
+back-plate   &&   制动器底板
+back-porch effect   &&   后沿效应
+back-porch tilt   &&   后沿倾斜
+back-pressure steam turbine   &&   背压式蒸汽透平
+back-pressure turbine   &&   背压式汽轮机
+back-projection cabinet   &&   屏幕放映机
+back-pull wire-drawing   &&   反拉力拉丝
+back-roll   &&   ①反绕，倒卷②重算③反滚筒
+back-run   &&   ①逆的，反转的②封底焊缝
+back-scattering gauge   &&   反向散射测量计
+back-shock nucleus kinetic energy   &&   反冲核动能
+back-spin   &&   反转，回旋
+back-steam   &&   回汽
+back-substitution   &&   反替换法
+back-surface contact   &&   背面接触
+back-tilting   &&   后倾
+back-to-back arrangement   &&   背对背安装
+back-to-back method   &&   反馈法
+back-to-back mounting   &&   背靠背安装
+back-to-back testing   &&   背靠背试验，反馈试验，对拖试验
+back-to-back type   &&   背靠背
+back-to-front ratio   &&   正反比
+back-twist   &&   退扭
+back-up   &&   ①封炉②垫板③后备，后援 ④倒车
+back-up alarm   &&   倒车警报器
+back-up lamp switch   &&   倒车灯开关
+back-up memory   &&   后备存储器，后援存储器
+back-up plate   &&   垫板
+back-up protection   &&   后备保护
+back-up ring   &&   保护圈，垫圈，支撑环
+back-up roll   &&   支撑轧辊，支撑辊
+back-up safety device   &&   备用安全设备，备用安全装置
+back-up source   &&   后备电源，备用电源
+back-up washer   &&   保护垫圈，支撑垫圈
+back-wall cell   &&   后壁式电池
+back-wired panel   &&   后面布线的面板，盘后布线的配电板
+backacting shovel   &&   反铲
+backbone   &&   ①骨架②主链
+backbone chassis   &&   脊骨式底盘
+backbone network   &&   中坚网络，主干网络
+backdranght   &&   ①倒转，回程②反向通风，逆流通风
+backdraught   &&   回程
+backed-off milling cutter   &&   铲齿铣刀
+backed-off tap   &&   铲齿丝锥
+backed-up pressure   &&   支撑压力
+backedge   &&   ①后脊②裂缝③夹层，轧疤④压折
+backedge of impulse   &&   脉冲后沿
+backfill   &&   ①回填用推土机填平地面.    ②回填料
+backfin   &&   ①后脊②裂缝③夹层，轧疤④舌尖，压折
+backfire   &&   火焰反冲，逆火，回火
+backflash   &&   火焰反冲，逆火，回火，反闪
+backflow   &&   ①逆流，回流，倒流②反循环冲洗③开模缩裂
+backgear   &&   背齿轮，后齿轮，倒档，倒档齿轮装置，慢盘齿轮
+backgear shaft   &&   背齿轮轴
+background   &&   ①后台，背景②本底，基底
+background camera   &&   背景摄影机
+background color   &&   背景色 背景颜色
+background current   &&   基流
+background doping   &&   本底掺杂
+background illumination   &&   本底照度
+background impurity   &&   本底杂质
+background ion   &&   本底离子
+background loop   &&   背景循环模块
+background mass spectrum   &&   本底质谱
+background monitor   &&   本底监测器
+background noise   &&   本底噪声，背景噪声
+background pollution   &&   本底污染
+background processing   &&   后台处理，背景处理
+background program   &&   后台程度
+background radiation   &&   背景辐射，本底辐射
+background register   &&   辅助寄存器，后备寄存器
+background signal   &&   本底信号
+background spectrum   &&   本底质谱图，本底匹线图
+background survey   &&   本底调查
+background temperature   &&   背景温度
+background voltage noise   &&   基底电压噪音
+backhand welding   &&   反手焊，右向焊
+backhoe   &&   后铲
+backhoe loader   &&   带后铲的斗式装载机
+backing   &&   ①背衬，衬板②充填③后备的，后台的④支架，底座⑤逆转
+backing bead   &&   背面焊道，封底焊道
+backing belt   &&   ①倒车皮带②后动皮带
+backing board   &&   垫板
+backing injection   &&   背注入
+backing material   &&   ①基材②背衬料③底子料，衬底材料，敷底物
+backing memory   &&   后备存储器，后援存储器，外存储器
+backing plate   &&   垫模板、承板
+backing pressure   &&   托持压强，托压，托持压力
+backing pump   &&   初级(前置)泵
+backing ring   &&   衬环，垫圈，垫环
+backing roll   &&   承压滚筒，支撑辊
+backing sand   &&   背砂
+backing storage   &&   辅助存储器，备用存储器，外存储器
+backing store   &&   后备存储器
+backing strip   &&   垫板
+backing system   &&   前级(真空)系统
+backing up   &&   回行
+backing-off   &&   ①铲(齿)，凿②后凹槽③消除
+backing-off angle   &&   后角
+backing-off attachment   &&   铲磨附件，铲齿附件
+backing-off lathe   &&   铲齿车床，铲背车床
+backing-up   &&   ①倒车②封底焊③支撑
+backing-up screw   &&   止动螺钉
+backlash   &&   齿侧间隙，侧隙
+backlash tolerance   &&   侧隙公差
+backlash variation   &&   侧隙变量
+backlash variation tolerance   &&   侧隙变量公差
+backlight   &&   背光源，后窗
+backlight defogging system   &&   后窗除霜装置
+backlog   &&   积累，储备
+backlogging   &&   积压
+backplate   &&   ①信号板②背面板，后(挡)板，护板
+backrest   &&   座椅靠背
+backrinding   &&   开模缩裂
+backscatter   &&   反向散射体，向后散射体，反向散射，背散射
+backscatter angle   &&   反向散射角
+backscatter factor   &&   反散射因素
+backscattered electron image   &&   背散射电子象
+backscattering correction   &&   反向散射校正
+backscattering factor   &&   反向散射因素
+backseat   &&   后座
+backshaft   &&   后轴
+backspace character   &&   返回符号，回车符号，回退符
+backspace key   &&   回退键
+backspace statement   &&   返回语句，回退语句
+backstand   &&   后座，张紧座
+backstay cable   &&   后拉缆，拉索
+backstep sequence welding   &&   分段退焊
+backstep welding   &&   分级退焊法
+backstop   &&   ①托架，止挡，止回器②挡住，支持
+backstroke   &&   返回行程，返回冲程，回程
+backswept wing   &&   后掠翼
+backswing   &&   ①反冲②回摆，反向摆动③倒转
+backtracking   &&   倒向追踪
+backtracking method   &&   倒向追踪方法
+backup   &&   备份 备份
+backup coat   &&   加固层
+backup item   &&   平行项目，备份项目
+backup lamp   &&   ①倒车灯 ②前照辅助灯
+backup programmer   &&   后补程序员
+backup sand   &&   充填砂
+backup system   &&   备用装置，备用系统
+backward   &&   向后的，反向的，倒行的，落后的，反向，左右反向
+backward boost   &&   ①制动，制推②降压③降压器
+backward brush-lead   &&   电刷超前后移
+backward channel   &&   反向信道
+backward counter   &&   反向计数器
+backward creep   &&   金属的后滑
+backward crosstalk   &&   后向串扰
+backward current   &&   逆向电流，反向电流
+backward delay   &&   向后推迟，向后迟滞
+backward difference   &&   后向差分
+backward diode   &&   反向二极管
+backward dynamic programming   &&   后向动态规划
+backward equation   &&   向后方程
+backward extrusion   &&   反挤压
+backward feeding   &&   逆向馈电，反向送料
+backward flow   &&   逆流，回流
+backward impedance   &&   反向阻抗
+backward kinematics   &&   反向运动学
+backward motion   &&   倒退，反向运动
+backward phase component   &&   反向相分量，负序分量
+backward position   &&   反转位置，回程位置
+backward progression lap winding   &&   左行叠绕法
+backward scattering   &&   反散射，反向散射
+backward sequence   &&   反向序，负序
+backward shifting   &&   逆转
+backward slip   &&   后滑
+backward stroke   &&   返回冲程
+backward sweep   &&   后掠角
+backward torque   &&   反向转矩
+backward travel   &&   后退行程
+backward wave   &&   反向波，回波
+backward wave amplifier tube   &&   返波放大管
+backward welding   &&   后倾焊
+backward-acting regulator   &&   反向作用调节器
+backward-bending supply curve   &&   向后弯曲供给曲线
+backward-bladed aerodynamic fan   &&   后弯叶片风机
+backward-field impedance   &&   反向(磁场)阻抗，负序(磁场)阻抗
+backward-order reactance   &&   负序电抗
+backward-rotating field   &&   反向旋转磁场
+backward-wave tube   &&   回波管
+backwash   &&   ①回流，倒流②喷流，尾流
+backwash valve   &&   反冲洗阀，逆洗阀
+bactard   &&   白琥珀
+bacteria   &&   细菌(bacterium的复数)
+bacterial corrosion   &&   细菌腐蚀
+bacterial metallurgy   &&   细菌冶金
+bad   &&   不正确的，不正确
+bad conductor   &&   不良导体
+bad contact   &&   不良触点，不良接触
+bad corner   &&   欠压，缺胶
+bad earth   &&   接地不良
+baddeckite   &&   赤铁黏土
+baddeleyite   &&   含有铁质的白云母，赤铁黏土，斜锆石，二氧化锆
+badge   &&   标记，符号，表征
+badly bleeding   &&   冒顶，跑钢，渗漏
+badly bleeding ingot   &&   补缩不好的钢锭，冒顶的钢锭
+badly rigged   &&   ①不良的安装，不良的装备②调整不好
+baffle   &&   ①挡板，降板②阻塞③调节阻板，导流塞④导风板
+baffle blanket   &&   吸音毡
+baffle board   &&   隔音板，挡板
+baffle chamber   &&   隔板室，消音室
+baffle column   &&   挡板塔
+baffle layer   &&   过渡层
+baffle plate   &&   ①隔板，挡板，遮护板②折流档板③火墙
+baffle spray tower   &&   挡板喷雾塔
+baffle tower   &&   挡板塔
+baffle type collector   &&   百叶窗式收尘器，挡板式收尘器，挡板式集尘器
+baffle valve   &&   挡板阀
+baffle wall   &&   隔板
+baffler   &&   ①阻尼器②挡板，隔板③折流器，导流板④减音器，消音器
+bag   &&   袋，袋囊，包
+bag and spoon dredger   &&   袋匙式挖泥船
+bag collection   &&   布袋收尘
+bag dust collector   &&   滤袋除尘器
+bag dust filter   &&   袋式滤尘器
+bag model   &&   袋模型
+bag moulding   &&   袋(模)塑法，膜袋模塑法
+bag paper   &&   袋纸
+bag-type   &&   袋式
+bag-type collector   &&   袋式滤尘器，袋式集尘器
+bag-type strainer   &&   布袋滤器
+baggage car   &&   ①行李车②辎重车
+baggage compartment lamp   &&   行李箱灯泡
+baggage compartment lid   &&   行李箱盖
+bagging   &&   ①装袋，打包②棉包布，包皮布
+bagging and weighing machine   &&   装袋-秤重机
+bagging auger   &&   装袋螺旋推进器
+bagging machine   &&   打包机，装袋机
+baghouse precipitator   &&   滤袋除尘器
+bagpipe   &&   风笛
+bahnmetal   &&   铅基轴承合金(Pb 98.64％，Al 0.2％，Ca O.65％～0.73％，Na 0.58％～0.66％)
+bail   &&   ①天平②吊包架
+bailing   &&   ①抽汲，抽水②捞砂，提捞③用泥浆泵清理钻孔
+bait hook   &&   钩子
+bake   &&   ①烘，烤②焙于③烧固
+bake lining   &&   背衬
+bake-out   &&   烘开，预热除气
+bake-out temperature   &&   烘烤温度
+baked core   &&   干(砂)心
+baked moulding   &&   干型
+baked permeability   &&   ①干透气性②硬化后透气性
+baked property   &&   干态性能
+baked sand   &&   烘干砂
+baked strength   &&   干强度
+baked tensile strength   &&   干拉强度
+bakelite   &&   酚醛塑料，酚醛树脂，可熔酚醛树脂，电木
+bakelite cement   &&   树脂水泥
+bakelite lacquer   &&   酚醛塑胶漆
+bakelite paper   &&   电木纸，胶木纸
+bakelite paste   &&   电木膏，胶木膏
+bakelite powder   &&   电木粉，胶木粉
+bakelite tube   &&   胶木管
+bakelite varnish   &&   电木漆，胶木漆
+bakelite wedge   &&   胶木槽楔
+bakelite-cover porcelain-base knife switch   &&   胶盖瓷底闸刀开关
+baker   &&   烘炉，烘于器
+baking   &&   烘，烧，焙，烤干，焙烘，烘焙，烧固
+baking coal   &&   黏结烧煤
+baking enamel   &&   烘烤搪瓷
+baking finish   &&   烘漆
+baking machine   &&   焙烘机
+baking operation   &&   烘干工序
+baking oven   &&   烘箱
+baking paint   &&   烘漆
+baking pan   &&   烘心板
+baking plate   &&   烘心板
+baking quality   &&   烘焙质量
+baking temperature   &&   烘焙温度
+baking tunnel   &&   烘干隧道炉
+baking varnish   &&   烤漆，热干燥漆
+balance   &&   ①平衡②余额③天平，秤
+balance and hair spring system   &&   摆轮游丝系统
+balance arm   &&   均衡梁，平衡臂，天平臂，秤杆
+balance assembly line   &&   装配线平衡
+balance bar   &&   平衡杆
+balance beam   &&   ①天平梁②平衡杆，平衡梁
+balance calibration test   &&   天平校准试验
+balance check   &&   零位检查
+balance coil   &&   平衡线圈
+balance crane   &&   平衡起重机
+balance equation   &&   平衡方程
+balance error   &&   平衡误差
+balance for measuring amount of precipitation   &&   水量秤
+balance indicator   &&   平衡指示器
+balance level   &&   水准仪，衡准仪
+balance of cuts and fills   &&   平衡挖填
+balance of heat   &&   热平衡
+balance of machinery   &&   机械平衡
+balance of mechanism   &&   机构平衡
+balance of moving part   &&   运动部分的平衡
+balance of nature   &&   自然平衡
+balance of rotor   &&   转子平衡
+balance of rotors   &&   回转体平衡
+balance of shaking force   &&   惯性力平衡
+balance out   &&   ①衡消，平衡掉②中和
+balance output   &&   对称输出
+balance phase control   &&   相位平衡控制
+balance piece   &&   平衡块
+balance pipe   &&   平衡管
+balance piston   &&   平衡活塞
+balance plastometer   &&   何氏可塑计
+balance point   &&   平衡点
+balance pressure reducing valve   &&   平衡减压阀
+balance quality of rotor   &&   转子平衡精度
+balance relay   &&   平衡继电器
+balance rheometer   &&   平衡流变仪
+balance shaft   &&   平衡轴
+balance slide valve   &&   平衡滑阀
+balance spring   &&   游丝
+balance tank   &&   平衡储槽
+balance test   &&   平衡试验
+balance theory   &&   平衡理论
+balance weight   &&   平衡块
+balance weight & clip   &&   平衡块及夹子
+balance wheel   &&   摆轮
+balance wieght   &&   平衡块
+balance-delay time   &&   平衡滞延时间
+balance-type potentiometer   &&   平衡式电位计
+balance-unbalance transformer   &&   平衡-不平衡转换器，平衡—不平衡变压器
+balanced TR tube   &&   平衡式开关管
+balanced action   &&   平衡作用
+balanced amplifier   &&   平衡放大器
+balanced armature   &&   平衡衔铁，平衡电枢
+balanced array   &&   平衡阵列
+balanced binary tree   &&   平衡二叉树
+balanced blast   &&   等(鼓)风
+balanced blast cupola   &&   等风冲天炉
+balanced bridge   &&   平衡电桥
+balanced cable   &&   平衡电缆，对称电缆
+balanced capacitance   &&   平衡电容
+balanced circuit   &&   平衡电路，平衡回路
+balanced core   &&   平衡心，悬臂心
+balanced crankshaft   &&   平衡曲轴
+balanced current relay   &&   平衡电流继电器
+balanced deflection   &&   对称偏转
+balanced demodulator   &&   平衡解调器
+balanced development   &&   平衡发展
+balanced draft   &&   平衡通风
+balanced error   &&   ①平均误差，比较误差②差额
+balanced excitation   &&   平衡励磁，平衡激励
+balanced feeder   &&   平衡馈线
+balanced film   &&   双延薄膜，双向拉伸薄膜
+balanced filter   &&   衡消滤波器
+balanced force   &&   平衡力
+balanced force relay   &&   平衡力继电器
+balanced game   &&   平衡对策
+balanced gasoline   &&   平衡汽油
+balanced growth   &&   均衡成长
+balanced inoculant   &&   稳定碳化物孕育剂
+balanced input   &&   平衡输入
+balanced line   &&   平衡线路
+balanced line system   &&   平衡线路制，平衡线路系统
+balanced load   &&   平衡负载，对称负载
+balanced mixer   &&   平衡混频器
+balanced modulation   &&   平衡调制
+balanced modulator   &&   平衡调制器
+balanced network   &&   平衡网络，对称网络
+balanced orientation   &&   平衡取向
+balanced pair   &&   平衡双股线，平衡线对
+balanced periodic quantity   &&   对称交变量，对称周期量
+balanced phase   &&   平衡相位，等载相位
+balanced plug   &&   平衡型阀芯
+balanced polyphase load   &&   对称多相负荷，平衡多相负荷
+balanced polyphase system   &&   平衡多相制，平衡多相系统
+balanced power supply   &&   平衡电源
+balanced pressure regulator   &&   平衡压力调节器
+balanced production line   &&   均衡生产线
+balanced protective system   &&   差动保护系统，平衡保护系统
+balanced reaction   &&   平衡反应
+balanced relay   &&   平衡继电器
+balanced ring   &&   均衡环
+balanced rotary armature   &&   平衡旋转式电枢
+balanced rotary relay   &&   平衡旋转式继电器
+balanced rudder   &&   平衡舵
+balanced runner   &&   平衡流道
+balanced sorting   &&   均衡分类法
+balanced state   &&   平衡状态
+balanced steel   &&   半镇静钢，半脱氧钢
+balanced structure   &&   平衡结构
+balanced supply   &&   对称电源，平衡电源
+balanced three-phase current   &&   对称三相电流，平衡三相电流
+balanced three-phase voltage   &&   对称三相电压，平衡三相电压
+balanced transformer   &&   平衡变压器
+balanced transmission line   &&   对称输电线，平衡传输线
+balanced transportation problem   &&   均衡运输问题
+balanced tree   &&   均衡树
+balanced tunable receiver   &&   平衡调谐接收机
+balanced voltage   &&   对称电压
+balanced welding   &&   对称焊
+balanced winding   &&   均衡绕阻，平衡绕阻
+balanced-beam relay   &&   平衡杆式继电器
+balanced-bias detector   &&   平衡偏压检波器
+balanced-draft control   &&   负压调节，引风调节
+balanced-to-ground   &&   对地平衡的
+balanced-unbalanced adapter   &&   平衡、非平衡适配器
+balanced-unbalanced transformer   &&   平衡-不平衡变压器
+balancer   &&   ①均衡器，平衡器，配重②均压机，补偿器
+balancer field rheostat   &&   均压机励磁分流电阻
+balancer-booster   &&   平衡试验机
+balancing   &&   平衡(法)，均衡，配平
+balancing antenna   &&   除于扰天线，平衡天线
+balancing axial thrust   &&   平衡轴向力
+balancing battery   &&   浮充电池组，补偿电池
+balancing condenser   &&   ①平衡调相机②补偿电容器
+balancing control   &&   平衡控制
+balancing delay   &&   平衡延误
+balancing equipment   &&   平衡设备
+balancing form   &&   平衡式
+balancing hole   &&   平衡孔
+balancing illumination   &&   均匀照明
+balancing load   &&   平衡载荷
+balancing loss   &&   平衡损耗，失配损耗
+balancing machine   &&   平衡机
+balancing machine sensitivity   &&   平衡机灵敏度
+balancing mass   &&   平衡质量
+balancing network   &&   平衡网络
+balancing piston   &&   平衡活塞
+balancing process   &&   平衡过程
+balancing quality   &&   平衡品质
+balancing rheostat   &&   平衡变阻器
+balancing speed   &&   平衡转速
+balancing stand   &&   平衡架，平衡台
+balancing tank   &&   平衡储槽
+balancing test   &&   平衡试验
+balancing weight   &&   平衡重量，配重
+balata spring   &&   橡胶弹簧
+bale   &&   打包，打捆，包装
+bale of wire   &&   线束
+bale press   &&   打包机，包装机
+bale-out   &&   勺取(金属液)
+bale-out furnace   &&   固定式坩埚炉
+bale-out pot furnace   &&   固定式坩埚炉，固定式熔炉
+baling   &&   ①打包，打捆②堆垛
+baling paper   &&   打包纸，包装纸
+baling wire   &&   打包钢丝，捆扎用钢丝
+balitron   &&   稳定负载特性电子管
+balk   &&   ①顶板支架，大木，梁木②横向系杆，桥跨，舷材③障碍
+balk ring   &&   摩擦环
+ball   &&   ①(金属)球，钢珠，钢球，弹，弹子②团状海绵铁③压头
+ball adapter   &&   ①球形连接器，球形转接器②电子管适配器
+ball and roller bearing   &&   滚珠和滚柱轴承
+ball and socket   &&   球窝
+ball and socket bearing   &&   球窝轴承
+ball bearing   &&   ①球轴承，滚珠轴承②承载能力
+ball bearing steel   &&   滚珠轴承钢
+ball bearing wire   &&   滚珠轴承钢丝，捆扎用钢丝
+ball bearing without inner ring   &&   不带内圈的球轴承
+ball bonding   &&   球焊
+ball burnishing   &&   ①球磨抛光，钢球滚压②钢球挤孔法
+ball button   &&   球塞套ball cage   &&   滚珠轴承罩，滚珠隔离圈
+ball check valve   &&   球形止回阀
+ball clay   &&   ①球状(黏)土②泥团
+ball cock   &&   浮球旋塞，浮球阀，球阀
+ball cock washer   &&   球阀垫片
+ball collar thrust bearing   &&   环形滚珠止推轴承
+ball crusher   &&   球磨机
+ball drop   &&   砸炉(冲天炉)
+ball end mill   &&   圆头指形立铣刀
+ball feeder   &&   球状冒口
+ball float valve   &&   浮球阀，浮子阀
+ball gauge   &&   球形量规
+ball governor   &&   飞球调节器，球调节器
+ball grinding mill   &&   (细)球磨机
+ball hardness   &&   钢球硬度
+ball hardness testing machine   &&   布氏硬度试验机
+ball iron   &&   ①熟铁，粒铁②钢珠
+ball joint   &&   球节，球形连接
+ball knob   &&   球状捏手
+ball lenses   &&   球透镜
+ball lightning   &&   球(形)雷，球形闪电
+ball lubricator   &&   钢珠式注油嘴
+ball mill   &&   球磨机，球磨
+ball one-way valve   &&   单向阀钢球
+ball peen hammer   &&   奶头锤
+ball plunger   &&   定位球塞
+ball pneumatic dead weight tester   &&   浮球压力计
+ball point setscrew   &&   球端定位螺钉
+ball race   &&   滚珠轴承坐圈，滚道
+ball relief valve   &&   安全球阀，减压球阀，释放球阀
+ball retainer   &&   滚珠护圈
+ball rolling mill   &&   钢球轧机
+ball rust test   &&   球腐蚀试验 [BRT]
+ball safety valve   &&   安全球阀，球形安全阀
+ball screw   &&   滚珠丝杆
+ball screw assembly   &&   滚珠丝杠副
+ball sizing   &&   钢球挤(光)孔
+ball sleeve   &&   球面卡套
+ball slider   &&   球塞滑块
+ball spark-gap   &&   球形火花隙
+ball test   &&   布氏硬度检验
+ball thrust bearing   &&   推力球轴承
+ball type phototube   &&   球形光电管
+ball valve   &&   球阀
+ball valve accelerating pump   &&   加速泵球阀
+ball valve oiler   &&   球阀注油器
+ball-and-socket joint   &&   球窝接头，万向接头
+ball-milling   &&   球磨
+ball-pressure hardness   &&   布氏硬度，球压硬度
+ball-thrust hardness   &&   布氏硬度，球压硬度
+ballability   &&   造球性，成球力
+balland   &&   铅精矿
+ballas   &&   工业用金刚石
+ballast   &&   ①道碴，石碴②整流器，整定器
+ballast coil   &&   镇流线圈，平衡线圈
+ballast concrete   &&   ①石碴混凝土②镇重用混凝土
+ballast lamp   &&   稳流灯
+ballast resister   &&   镇流电阻
+ballast tube   &&   镇流管，稳流管
+ballasting resistance   &&   镇流电阻，平稳电阻
+balling   &&   做成球团
+balling furnace   &&   搅炼炉
+balling-up   &&   ①卷取②收集，积聚③成球
+ballistic   &&   冲击的，弹道的，弹道(学)的，弹道式的
+ballistic breaker   &&   快速断路器
+ballistic camera   &&   弹道摄影机
+ballistic constant   &&   冲击常数
+ballistic curve   &&   弹道，弹道曲线
+ballistic galvanometer   &&   冲击检流计，冲击电流计
+ballistic geodesy   &&   弹道大地测量
+ballistic meteorological observation   &&   弹道气象测量
+ballistic missile   &&   弹道导弹
+ballistic pendulum   &&   冲击摆，弹道摆
+ballistic photogrammetry   &&   弹道摄影测量
+ballistic range test   &&   弹道靶道试验
+ballistic rocket   &&   弹道火箭
+ballistic test   &&   冲击强力试验
+ballistic vehicle   &&   弹道火箭
+ballistic-resistant fabric   &&   耐冲击织物，防弹织物
+ballistics   &&   弹道学
+ballistics of a rigid body   &&   刚体弹道学
+ballometer   &&   雾(粒)电(荷)计
+balloon   &&   ①(探测)气球②球形(玻璃)瓶
+balloon tire   &&   低压轮胎
+ballscrew   &&   滚珠丝杠
+balopticon stereopticon   &&   投影放大器
+bamboo steel   &&   竹节钢，轧钢
+banana jack   &&   香蕉塞孔，香蕉插孔
+banana oil   &&   香蕉水
+banana plug   &&   香蕉型插头
+banana spring   &&   香蕉形螺旋弹簧  中心线弯曲的螺旋弹簧.
+banana tube   &&   香蕉管
+band   &&   ①带，带子②波带③(光)谱带④频带⑤光带⑥能带⑦区域
+band absorption   &&   光(谱)带吸收
+band bending   &&   能带弯曲
+band brake   &&   ①带式制动器②粗线
+band compression   &&   频带压缩
+band conveyer   &&   传送带，带式传送器
+band conveying   &&   带式传送
+band conveyor   &&   带式输送机，带式运输机
+band degeneracy   &&   能带简并度
+band diagram   &&   能带图
+band discontinuity   &&   能带不连续性
+band dryer   &&   带式干燥机
+band edge tailing   &&   能带尾，(能)带边尾部
+band elimination filter   &&   带阻滤波器，带除滤波器
+band extreme   &&   能带极值
+band filter   &&   带通滤波器，带式过滤机
+band gap   &&   禁带宽度，(能)带隙
+band heater   &&   ①环带状的电热器②带式加热器
+band iron   &&   ①钢带②扁铁，带铁，铁箍
+band lightning   &&   带状闪电
+band loss   &&   绑线损耗，端箍损耗
+band matrix   &&   带状矩阵
+band microphone   &&   带式微音器，带式传声器
+band model   &&   (能)带模型
+band number   &&   段号，带数
+band of regulated voltage   &&   调整电压范围
+band origin   &&   谱带基线，谱带起始线
+band parameter   &&   能带参数
+band pass   &&   带通，通频带
+band pickling machine   &&   带材酸洗机
+band polishing machine   &&   带式抛光机
+band polymer   &&   带聚物，带型聚合物
+band pressure level   &&   频带声压级
+band rate   &&   泼特率
+band reduction method   &&   点阵带约法，能带衰减法
+band saw   &&   带锯机
+band sawing machine   &&   带锯机
+band scheme   &&   能带图
+band selector   &&   波段开关，波段选择器
+band shift   &&   能带移动
+band sintering machine   &&   带式烧结机
+band spectrum   &&   带(光)谱，带状谱
+band splitting   &&   能带分裂，谱带分裂
+band spread   &&   能带展宽
+band spreader   &&   频带扩展(微调)电容器
+band steel   &&   带钢，钢带
+band stop filter   &&   带阻滤波器
+band structure   &&   能带结构
+band suppression filter   &&   带阻滤波器
+band switch   &&   波段开关
+band tail   &&   带尾
+band tape   &&   卷尺
+band theory   &&   能带理论
+band theory of solid   &&   固体的能带理论
+band transformer   &&   波段变压器
+band type   &&   带式
+band width of video amplifier   &&   视频放大器频宽
+band-armoured cable   &&   钢带铠装电缆
+band-bang control   &&   继电器式控制
+band-exclusion filter   &&   带除滤波器，带阻滤波器
+band-gap energy   &&   禁带能量，频带隙能量
+band-limited signal   &&   限带信号
+band-limited spectrum   &&   限带频谱
+band-pass transformer   &&   宽频带变压器，带通变压器
+band-rejection   &&   带除
+band-rejection filter   &&   带阻滤波器，带隙滤波器，带除滤波器
+band-separation network   &&   频带分离网络
+band-splitting filter   &&   带分滤波器
+band-to-band recombination   &&   带-带复合
+band-to-band transition   &&   带-带跃迁，带间跃迁
+band-type brake   &&   带式抱闸
+bandage   &&   ①绑箍，包带，绑带，绑线②绑扎
+banded clay   &&   缟状土
+banded coal   &&   ①层状煤②带状煤
+banded structure   &&   条纹状组织
+banding   &&   聚集成带
+banding ferrite   &&   条状铁素体
+banding insulation   &&   绑带绝缘
+banding ring   &&   ①绑环，端箍②护环
+banding steel   &&   箍钢，带钢
+banding wire   &&   包扎线，绑线
+bandpass amplifier   &&   带通放大器
+bandpass filter   &&   带通滤波器，带通滤光片
+bandwidth   &&   带宽，频带宽度
+bandwidth amplifier   &&   频带放大器，带宽放大器
+bandwidth expansion ratio   &&   频带展宽比
+bandwidth range   &&   带宽范围
+bandy   &&   ①曲折的，带状的②弯曲的
+bang-bang   &&   砰砰控制机构
+bang-bang control   &&   开关式控制，起停控制，继电控制
+bang-bang principle   &&   开关原理
+banisters   &&   扶手
+banjo   &&   五弦琴  指类似五弦琴的结构.
+banjo axle   &&   驱动桥
+banjo fixing   &&   对接接头，对接组件
+bank cable   &&   ①多心电缆②线弧电缆
+bank coal   &&   ①小块原煤②矸石堆中拣出的煤
+bank contact   &&   触排接点
+bank information system   &&   银行信息系统
+bank locomotive   &&   推进机车
+bank mark   &&   料纹
+bank of condensers   &&   ①电容器组②冷凝器组
+bank of contacts   &&   接头排，触头排，选择器线弧
+bank of transformers   &&   变压器组
+bank rod   &&   触排棒
+bank sand   &&   岸砂(黏土约少于5％的天然砂)
+bank terminal   &&   触排端子
+bank winding   &&   多层连续绕组，叠绕法，叠线绕组
+bank wire   &&   触排导线
+bank wiring   &&   触排布线
+bank-up water level   &&   回水位，回水，壅水位
+banked   &&   ①侧倾的，倾斜的②筑有堤的，堆成堤状的③排成一行的，成组的
+banked battery   &&   蓄电池组，并联电池组
+banked distribution transformers   &&   配电变压器组
+banked fire   &&   压火，焖火(锅炉)
+banked radiators   &&   (分布)散热器组
+banked secondaries   &&   配电变压器组的二次网
+banked winding   &&   多层连续绕组，叠层线圈，重叠绕法
+banking   &&   封炉，闷炉(铁)
+banner word   &&   标题字
+bantam tube   &&   小型管
+bar   &&   ①棒材，条钢，型钢②杆，棒，条③巴(压力单位，=10^5pa)
+bar bend test   &&   试棒抗弯试验
+bar capacity   &&   棒料最大直径
+bar chart   &&   作业日历计划
+bar code scanner lenses   &&   条码扫描器镜头
+bar code scanners   &&   条码扫描器
+bar copper   &&   铜条，铜棒
+bar coupler   &&   母线联络开关
+bar drawing   &&   棒材拉拔
+bar feed mechanism   &&   棒料送进机构
+bar graph   &&   直方图，线条图
+bar insulation   &&   线棒绝缘，排间绝缘
+bar iron   &&   ①条钢，型钢②棒材
+bar magnet   &&   磁棒，条形磁铁
+bar mark   &&   挂轴印痕
+bar of flat   &&   板片，扁平棒
+bar of hexagonal section   &&   六角棒材
+bar of uniform strength   &&   等强度棒
+bar pattern   &&   线条形图形
+bar plate   &&   板坯，板料
+bar primary bushing type current transformer   &&   棒形电流互感器
+bar type heater   &&   棒形加热器
+bar type micrometer   &&   棒状测微计
+bar type thermometer   &&   棒形温度计
+bar-conductor   &&   导条，线棒
+bar-conductor insulation   &&   导条绝缘，线棒绝缘
+bar-wound armature   &&   条绕电枢，杆式绕组电枢
+barb   &&   ①鳞片②钩，倒钩，倒刺，毛刺③去毛刺
+barb bolt   &&   棘螺栓，地脚螺栓，基础螺栓，双端螺栓
+barbed filament   &&   毛刺(长)丝，裂丝
+barbed wire   &&   刺钢丝，刺网钢丝
+barbed wire entanglement   &&   有刺铁丝网
+barberite   &&   铜-镍-锡-硅合金(Cu 88.5％，Ni 5％，Sn 5％，Si l.5％)
+barcode   &&   条形码，条码
+barcode scanner   &&   条码扫描器
+barcode technique   &&   条码技术
+bard top   &&   ①硬顶跑车②硬顶轿车③顶盖总成
+bare   &&   ①裸的②空的③无反射层的，无屏蔽的
+bare cable   &&   裸电缆
+bare cell   &&   裸电池
+bare conductor   &&   裸线
+bare copper wire   &&   裸铜线
+bare core   &&   裸堆心，无反射层堆心
+bare electrode   &&   ①裸焊条，无药焊条，光熔接条②裸(电)极
+bare fibre   &&   原(玻璃)纤维
+bare fuel element   &&   裸燃料组件，无包壳燃料组件
+bare glass   &&   原玻璃
+bare glass fibre   &&   原玻璃纤维
+bare homogeneous reactor   &&   均匀裸反应堆，无反射层均匀反应堆
+bare lattice   &&   裸栅格，无反射层栅格
+bare metal   &&   裸金属
+bare nucleus   &&   裸核
+bare particle   &&   裸粒子
+bare pole   &&   裸磁极
+bare reactor   &&   裸反应堆，无反射层反应堆
+bare source   &&   裸源，无屏蔽源
+bare state   &&   裸态
+bare wire   &&   裸线
+bare wire arc welding   &&   光焊丝电弧焊
+bare wire electrode   &&   光焊丝
+bare-metal-arc weld   &&   裸焊条电弧焊
+bare-strap coil   &&   无绝缘的带绕线圈，裸扁线线圈
+barffing   &&   过热蒸气法氧化，蒸气发蓝，蒸片处理
+barge   &&   舸，驳船
+baria-alumina-silica fibre   &&   氧化钡-氧化铝-氧化硅纤维
+bariam titanate porcelain   &&   钛酸钡瓷器
+barion   &&   重子，激子
+barite   &&   ①重晶石②硫酸钡
+barite mortar   &&   重晶石砂浆
+barium   &&   钡Ba(56)
+barium concrete   &&   钡混凝土
+barium crown glass   &&   钡冕玻璃
+barium feldspar   &&   钡长石
+barium ferrite   &&   钡铁氧体
+barium flint glass   &&   钡火石玻璃
+barium getter   &&   钡吸气剂
+barium glass   &&   钡玻璃
+barium ion   &&   钡离子
+barium lead metaniobate piezoelectric ceramics   &&   偏铌酸铅钡压电陶瓷
+barium oxide   &&   氧化钡
+barium silicate cement   &&   硅酸钡水泥
+barium tetrathionate ceramics   &&   四钛酸钡陶瓷
+barium titanate ceramics   &&   钛酸钡陶瓷
+barium titanate-lanthanum titanate-strontium titanate system cera mics barium titanate piezoelectric ceramics   &&   钛酸钡压电陶瓷
+barium-Portland cement   &&   钡-波特兰水泥
+barium-base grease   &&   钡基润滑油
+barium-cadmium complex stabilizer   &&   钡镉复合稳定剂
+barium-chloride test   &&   氯化钡测硫试验
+barium-coated cathode   &&   钡阴极
+barium-oxide-coated cathode   &&   涂氧化钡阴极
+bark   &&   ①脱碳层②茎皮，树皮
+bark-stripping machine   &&   剥皮机
+barn   &&   靶(恩)(核截面单位，=10^－28m^2)
+barnbardtite   &&   块黄铜矿
+baro   &&   ①气压表②气压(计)的
+baro thermograph   &&   气压温度计，气压温度记录器
+barobeter condenser   &&   气压式冷凝器
+barobeter pressure   &&   表压力
+barobetric correction factor   &&   气压校正系数
+barobetric fluctuation   &&   气压变动
+barobetric switch   &&   气压开关
+baroceptor   &&   气压传感器，气压敏感组件
+barodynamics   &&   重结构力学，重型建筑动力学
+barograph   &&   气压计，气压计录器，气压表
+barometer   &&   气压计，气压表
+barometer cistern   &&   气压表水银槽
+barometer guager   &&   气压计
+barometric   &&   大气压力
+barometric altimeter   &&   气压高度表
+barometric correction   &&   气压表器差修正
+barometric fuel control   &&   按气压变化的燃料调节
+barometric pressure   &&   大气压，大气压力，气压
+barometric pressure sensor   &&   大气压力传感器 [BAROS]
+barometrograph   &&   空盒气压计
+barometry   &&   气压测定法
+baromil   &&   气压毫巴
+barostat   &&   ①恒压器②气压调节器
+baroswitch   &&   气压开关
+barothermograph   &&   气压温度计
+barothermohygrograph   &&   气压温度湿度记录器
+barotropic gas   &&   正压气体
+barrage jamming   &&   阻塞干扰，全波段干扰，抑制干扰
+barralling   &&   辊身做出凸度，滚筒抛光
+barratron   &&   非稳定波型磁控管
+barred spiral galaxy   &&   棒旋星系
+barrel   &&   ①桶，卷筒，滚筒，圆筒②炉腰，套筒③辊身①化油器主气道②桶
+barrel burnishing   &&   滚磨抛光
+barrel cleaning   &&   滚筒清理
+barrel converter   &&   卧式吹炉
+barrel core   &&   筒状心
+barrel cranking motor   &&   惯性齿轮起动机
+barrel cylindric cam   &&   圆柱式凸轮步进运动机构
+barrel distortion   &&   ①桶形畸变②负畸变
+barrel finishing   &&   滚磨，滚筒清理
+barrel furnace   &&   回转炉
+barrel mixer   &&   滚筒式混砂机
+barrel plating   &&   桶式电镀，筒滚镀，滚镀
+barrel polishing   &&   滚筒抛光barrel tappet   &&   筒形挺柱
+barrel tumbling   &&   滚筒打光
+barrel valve lifter   &&   筒形挺柱
+barrel winding   &&   桶形绕组，桶形绕法
+barrel-bulk   &&   桶(容积单位，=0.142m^3)
+barrelling   &&   ①滚筒法涂底漆，辊身做出凸变，滚磨，转桶清砂法，装桶②滚磨清理③成桶形)④齿面修整
+barretter   &&   热线检流器
+barricade   &&   ①隔板②屏蔽墙③阻塞
+barrier   &&   ①势垒，障垒②屏，栅，屏蔽，栅栏，屏障绝缘③阻挡层④障碍，妨碍因素
+barrier cream   &&   封(泥)箱
+barrier diffusion   &&   穿过(多孔)隔板的扩散
+barrier effect   &&   势垒效应
+barrier factor   &&   势垒穿透因素
+barrier frequency   &&   截止频率，阻挡频率，封闭频率
+barrier function   &&   障碍函数
+barrier grid   &&   阻挡栅极，障栅，制动栅
+barrier height   &&   势垒高度
+barrier injection transit time diode   &&   势越二极管
+barrier layer   &&   势垒层，阻挡层
+barrier layer capacitor   &&   阻挡层电容器
+barrier layer capacity   &&   势垒层电容
+barrier material   &&   防潮材料
+barrier method   &&   碰壁法，障碍法
+barrier of sintered alumina   &&   烧结铝膜
+barrier penetration   &&   势垒穿透
+barrier potential   &&   位垒，势垒
+barrier region   &&   势垒区
+barrier resistance   &&   阻挡层电阻
+barrier shape   &&   势垒形状
+barrier-film rectifier   &&   阻挡膜整流器
+barrier-layer cell   &&   阻挡层光电池
+barrier-layer photo-effect   &&   阻挡层光电效应
+barrier-layer rectifier   &&   阻挡层整流器
+barrier-plane photocell   &&   阻挡层光电管
+barring engine   &&   盘车引擎，盘车发动机
+barring gear   &&   盘车装置
+barrings   &&   清炉渣块
+barrow   &&   ①手(推)车②放线车
+bas network   &&   总线式网络
+basal   &&   基层，基础，基部
+basal crack   &&   ①根部裂缝②基部裂缝
+basal dislocation   &&   基本位错
+basal face   &&   基础面(晶体的)
+basal layer   &&   基础层
+basal plane   &&   基面
+basal principle   &&   基本原理
+base   &&   ①底子，底座，底端，底部②基区，基片，基本，基地，基体，基极，基底③基面，基础，基部④基，基数，基点 基准
+base address   &&   基(始)地址，基本地址，基数地址
+base address field   &&   基地址字段
+base address register   &&   基地址寄存器
+base address relocation   &&   基地址再定位
+base adjuster   &&   底座调整装置，基值整定器
+base alternating voltage   &&   基础交流电压
+base ambient temperature   &&   基础环境温度
+base bias   &&   基极偏压
+base blend   &&   基本燃料   已加添加剂的燃料
+base circle   &&   基圆，基本额定寿命
+base cluster   &&   基本组
+base cone   &&   基圆锥，基圆柱，底锥，基锥
+base current   &&   基极电流，基流，基部电流
+base curve   &&   基线
+base cylinder   &&   基圆柱
+base data   &&   基本资料，基本数据
+base diameter   &&   基圆直径
+base diffusion layer   &&   基极扩散层
+base dimension   &&   基准标注 基线式标注
+base doping   &&   基区掺杂
+base earth   &&   基极接地
+base electrode   &&   基电极，基极
+base electrolyte   &&   基底电解质
+base face   &&   基准面
+base field   &&   基域
+base flow   &&   基流base frame   &&   底座
+base glass   &&   基础玻璃
+base grips   &&   基夹点 基准掣点
+base group   &&   基本组
+base intercept   &&   基线截断
+base item   &&   基本项
+base key   &&   基本键
+base level   &&   基层，基准面
+base line   &&   底线，基线
+base load   &&   基本负载，基极负载，基荷，基底负载，基区负载
+base load unit   &&   基荷机组(指年运行4000小时以上的机组)
+base material   &&   基本(原)材料，基质，基底材料
+base measurement   &&   基线测量
+base metal   &&   基底金属
+base mole   &&   基本摩尔
+base notation   &&   基本记号，基本符号，基数记数法
+base number   &&   底数，基数
+base oil   &&   基础油
+base oil interchanger   &&   基础油互换 [BOI]
+base peak   &&   基峰
+base pitch   &&   基节，基圆齿距
+base plate   &&   底座，垫板
+base point   &&   基点 基准点
+base radius   &&   基圆半径
+base region   &&   基区
+base resin   &&   基本树脂
+base resistance   &&   基区电阻
+base resistivity   &&   基区电阻率，基体电阻率
+base spiral angle   &&   基圆螺旋角
+base spreading resistance   &&   基极扩展电阻
+base stock   &&   基本润滑油
+base symbol   &&   基本符号
+base transit time   &&   基区渡越时间
+base translation   &&   基面移动
+base unit of measurement   &&   基本测量单位
+base unit weight   &&   基量，基本单位重量
+base value   &&   ①基值②基准数
+base vector   &&   基向量，基矢量
+base width modulation   &&   基区宽度调制
+base-centred   &&   底心
+base-centred lattice   &&   底心点阵，底心晶格
+base-centred monoclinic structure   &&   底心单斜结构
+base-centred orthorhombic lattice   &&   底心正交点阵，底心正交晶格
+base-collector   &&   基极-集电极
+base-emitter   &&   基极-发射极
+base-load hydro-plant   &&   基荷水电站
+base-load operation   &&   基荷运行
+base-load powerstation   &&   基荷发电厂，基荷电站
+base-load supply   &&   基荷电源
+baseband   &&   基(本频)带
+baseband LAM   &&   基带局域网
+baseband LAN   &&   基带网
+baseband frequency characteristics evaluation equipment   &&   基频传输特性检测器
+baseband modem   &&   基(本频)带调制解调器
+baseband signaling   &&   基(本频)带信号传输
+baseband transmission   &&   基(本频)带传输
+based drawing   &&   底图
+baseline   &&   基线 基准线 基线式
+baseline adjustment   &&   基线调整
+baseline correction   &&   基线校正
+baseline dimension   &&   基线标注 基线式标注
+baseline drift   &&   基线漂移
+baseline fluctuation   &&   基线波动
+baseline initiation   &&   基线引发
+baseline noise   &&   基线噪声
+baseline potential   &&   空白电位
+baseline shift   &&   基线位移
+baseline value   &&   空白值
+baseline wander   &&   基线漂移
+basement   &&   基底
+basic   &&   基，基本
+basic NMR frequency   &&   基本核磁共振频率
+basic amplitude   &&   基本振幅
+basic apparent power   &&   基准表观功率，基准视在功率
+basic bore system of fits   &&   基孔制配合方式
+basic category   &&   基本类型
+basic circuit   &&   基本线路
+basic coding   &&   基本编码
+basic color   &&   基本色 基本颜色
+basic components of CIMS   &&   计算机集成制造系统的基本组成
+basic decision model   &&   基本决策模型
+basic domain   &&   基畴
+basic dynamic axial load rating   &&   轴向基本额定动载荷
+basic dynamic radial load rating   &&   径向基本额定动载荷
+basic element   &&   基本元素
+basic equation   &&   基底方程
+basic equations of fluid mechanics   &&   流体力学基本方程组
+basic equipment list   &&   基本设备表
+basic external function   &&   基本外部函数
+basic failure rate   &&   基本失效率
+basic field   &&   基域
+basic frequency   &&   主频率，基本频率
+basic gravitational point   &&   基本重力点
+basic harmonic   &&   基本谐波，基波
+basic impulse insulation level   &&   基准冲击绝缘水平
+basic impulse level   &&   基本冲击水平，基本脉冲电平
+basic inequality   &&   基本不等式
+basic level   &&   基层
+basic linkage   &&   基量连接
+basic load   &&   基本负载
+basic material   &&   基本材料
+basic matrix   &&   基阵
+basic model   &&   基本模型
+basic operation system   &&   基本操作系统
+basic parameter   &&   基本参数
+basic point   &&   基点，基础点
+basic power capacity   &&   基本功率
+basic power source   &&   基本能源
+basic principle   &&   基本原理
+basic productivity   &&   基本生产率
+basic pulse generator   &&   基准脉冲发生器
+basic quantity   &&   基量basic radiating element   &&   基本辐射单元
+basic rack   &&   基本齿条
+basic rating life   &&   基本额定寿命
+basic shaft system of fits   &&   基轴制配合方式
+basic size   &&   基准尺寸
+basic skill   &&   基本功
+basic software   &&   基本软件
+basic solution   &&   基本解
+basic spline   &&   基本样条
+basic standard   &&   基础标准
+basic statement   &&   基本语句
+basic static axial load rating   &&   轴向基本额定动载荷
+basic static radial load rating   &&   径向基本额定动载荷
+basic storage organization   &&   基本存储机构
+basic structure   &&   基本结构
+basic telecommunication  access  method   &&   基本远程通信存取法[BTAM]
+basic time   &&   基本时间
+basic tolerance   &&   基本公差
+basic training   &&   基本功
+basic unit   &&   基本单位
+basic value   &&   基值，基数
+basic variable   &&   基本变量，基变量
+basic vibration mode   &&   基本振型
+basic-shaft system   &&   基轴制
+basin   &&   ①水池，水盆②炉缸
+basis brass   &&   基准黄铜
+basis matrix   &&   基矩阵
+basket   &&   吊筐，吊篮
+basket charging   &&   吊篮装料
+bassetite   &&   铁铀云母
+bat-handle switch   &&   手柄开关
+batch   &&   ①一批②曲面片
+batch control   &&   批量控制
+batch control station   &&   批量控制站
+batch inlet   &&   分批进样
+batch mill   &&   混砂机
+batch of strain gauge   &&   应变计(片)批
+batch plotting   &&   批处理打印 批次出图
+batch processing   &&   成批处理
+batch processing simulation   &&   批处理仿真
+batching-off   &&   分批出料
+bath analysis   &&   炉中分析，炉前分析，熔池分析
+bath carburizing   &&   液体渗碳
+bath composition   &&   电解液成分，熔体成分
+bath nitriding   &&   液体渗氮，液体氮化
+bath ratio   &&   电解质比
+bath tub   &&   盆形燃烧室
+bath voltage   &&   电解槽电压
+batter   &&   倾斜度，混合
+battery   &&   电池，电瓶，蓄电池 [BAT]
+battery box   &&   电池槽
+battery car   &&   电池车
+battery case   &&   电池槽
+battery charger   &&   蓄电池充电机
+battery coking   &&   炉组炼焦
+battery container   &&   电池槽
+battery cutout   &&   电池电路自动断路器，电池断流器
+battery drive   &&   电池驱动
+battery eliminator   &&   代电池器件，电池代用器，电瓶代用器
+battery ignition   &&   蓄电池点火系
+battery jar   &&   电池瓶，蓄电池容器
+battery life   &&   电池寿命
+battery locomotive   &&   电池机车，电瓶机车
+battery meter   &&   电池安时计
+battery of furnace   &&   炉组
+battery operating temperature   &&   电池工作温度
+battery overcharge   &&   电池过量充电
+battery polarity   &&   电池端子极性
+battery positive voltage   &&   蓄电池正极 [B+]
+battery resistance   &&   电池电阻
+battery reverse switch   &&   电池反向开关，电池换向开关
+battery shedding   &&   蓄电池极板脱落
+battery solution   &&   电池溶液
+battery state indicator   &&   蓄电池状态指示(发光二极管)[LED]
+battery terminal   &&   电池端子，电池端钮
+battery tester   &&   电池检验器
+battery truck   &&   电瓶车
+battery-powered   &&   电池供电
+battery-saver   &&   电池保护组件
+battery-supply relay   &&   电池供电继电器
+battle line   &&   火线
+baud   &&   波特
+baulk ring   &&   摩擦环
+bauxite   &&   铁铝氧石bay   &&   机架
+bay bolt   &&   基础螺栓
+baylanizing   &&   钢丝连续电镀法
+bayonet   &&   卡口
+bazooka   &&   火箭筒
+be put in storage   &&   入库
+beach marks   &&   海滩波纹
+beacon   &&   ①信标②岸标，立标③舰标④航空灯塔，信号塔，指向标⑤警示灯，警示灯
+beacon antenna   &&   信标天线
+beacon course   &&   标程，信标航向
+beacon light   &&   ①航标灯②岸标灯，立标灯③探照灯
+beacon light characteristic   &&   航标灯光特征，航标灯灯质
+beacon magnetron   &&   信标磁控管
+beacon receiver   &&   信标接收机
+beacon satellite   &&   航标卫星
+beacon transmitter   &&   信标发射机
+bead   &&   ①珠②卷边，轮缘③焊缝，焊珠，颗粒，焊蚕④绝缘珠⑤凹半球型腔，胎圈
+bead base   &&   胎圈底部  紧靠在轮辋胎圈座上的胎圈部分.
+bead bundle   &&   胎圈芯
+bead catalyst   &&   颗粒催化剂
+bead coil   &&   胎圈芯
+bead cord   &&   胎圈芯
+bead core   &&   胎圈芯
+bead crack   &&   焊缝裂纹
+bead filler   &&   胎圈包布
+bead flange   &&   挡圈
+bead flipper   &&   外护圈包布，钢圈外包布
+bead heel   &&   胎踵
+bead joint   &&   ①填角焊缝，凸焊缝②圆凸勾缝
+bead lightening   &&   珠状闪电
+bead machine   &&   压片机，压锭机
+bead polymer   &&   粒状聚合物，珠状聚合物
+bead polymerization   &&   成珠聚合，珠状聚合
+bead reaction   &&   熔珠反应
+bead seat   &&   胎圈座
+bead test   &&   熔珠试验
+bead thermistor   &&   珠状热敏电阻
+bead toe   &&   胎趾
+bead transistor   &&   熔珠晶体管，珠状晶体管
+bead welding   &&   堆焊，珠焊
+bead wires   &&   钢丝圈
+bead-on-plate weld   &&   堆焊焊缝
+beaded edge   &&   边缘
+beaded pearlite   &&   球状珠光体
+beaded screen   &&   粒状荧光屏
+beading   &&   ①玻璃熔接②起泡③作成细粒，作成玻璃珠④弯边
+beading stress   &&   弯曲应力
+beaker   &&   烧杯
+beam   &&   ①道，束，粒②梁，横梁③粒子注，电子束，波束，声束，光束④射线
+beam angle   &&   射束孔径角，光束孔径角
+beam angle of scattering   &&   散射(波)束锥(形)角
+beam angles of spotlights   &&   聚光灯光束角度
+beam antenna   &&   定向天线
+beam aperture   &&   ①束流孔径②梁口
+beam area   &&   射束(横截面)区
+beam array   &&   定向天线阵
+beam axle   &&   车轴
+beam balance   &&   杠杆式天平
+beam bending   &&   束流偏转
+beam blanker   &&   电子束熄灭装置
+beam blowup   &&   束散
+beam bombardment   &&   电子束轰击
+beam boundary   &&   束边界
+beam brightness   &&   束亮度，光束亮度
+beam bunching   &&   聚束
+beam burst   &&   束流脉冲
+beam catcher   &&   射线收集栅，电子束收集极
+beam centrifugal instability   &&   束离心不稳定性
+beam channel   &&   槽形钢，槽钢
+beam chemistry   &&   束化学
+beam communication   &&   定向通信
+beam control   &&   射束控制，电子束控制，波束控制
+beam convergence   &&   射束会聚，聚束，电子束会聚
+beam crossing angle   &&   束交叉角
+beam current   &&   电子束电流，射束电流
+beam cyclotron instability   &&   束回旋不稳定性
+beam deflection   &&   电子束偏转
+beam deflector   &&   电子束偏转器
+beam deflector switch   &&   近光开关
+beam defocusing effect   &&   束散焦效应
+beam direction factor   &&   束定向因子
+beam displacement   &&   束位移
+beam divergence   &&   电子束发散
+beam divergence angle   &&   束发射角
+beam dynamics   &&   束流动力学
+beam ellipse   &&   束流椭圆
+beam energy   &&   束能量
+beam energy spread   &&   束能展宽
+beam envelop   &&   射束包线
+beam extraction   &&   束引出
+beam fall off   &&   电子束强度降低
+beam flux   &&   束通量
+beam focusing   &&   电子束聚焦，射线束聚焦
+beam focusing capability   &&   束聚焦能力，束聚焦本领
+beam geometry   &&   束几何
+beam heating   &&   束加热
+beam hole   &&   束孔
+beam hole shielding   &&   孔道屏蔽
+beam homing   &&   波束导引，波束制导
+beam homogeneity   &&   束均匀性
+beam impedance   &&   电子束阻抗
+beam indicator lamp   &&   运光指示灯
+beam injection   &&   束流注入
+beam instability   &&   束不稳定性
+beam intensity   &&   ①束强②射线强度，电子束强度
+beam jitter   &&   束起伏，束晃动
+beam landing   &&   射束沉陷，电子束沉陷
+beam lead integrated circuit   &&   梁式引线集成电路
+beam lead technique   &&   梁式引线法
+beam lead transistor   &&   梁式引线晶体管
+beam loading   &&   束负载，射束加载，电子束加载
+beam magnetron   &&   电子束磁控管
+beam matching   &&   束匹配
+beam method of rolling   &&   梁形材轧制法
+beam modulation   &&   电子束调制
+beam momentum spread   &&   束动量分散
+beam monitor   &&   束流监测器
+beam monitoring   &&   束流监测
+beam of light   &&   ①光束②光柱
+beam of rays   &&   射线束
+beam optics   &&   束流光学
+beam orifice   &&   射线孔
+beam particle distribution   &&   束粒子分布
+beam path distance   &&   声程
+beam phase measurement   &&   束相位测量
+beam phase space   &&   束相空间
+beam plasma amplifier   &&   电子束等离子体放大器
+beam positioning system   &&   束定位系统
+beam power tetrode   &&   束射四极管
+beam probe   &&   束探针beam production   &&   束流产生
+beam profile   &&   束剖面，束轮廓，束流图形，束流外形
+beam profile scanner   &&   束轮廓扫描器
+beam pulse   &&   束脉冲
+beam pulser   &&   束流脉冲器
+beam radio communication   &&   定向无线电通信
+beam ratio   &&   声束比
+beam reaction   &&   中子束反应
+beam reflection   &&   射束反射
+beam reflector aerial system   &&   定向反射天线系统
+beam relaxor   &&   锯齿波发生器
+beam relay   &&   平衡继电器，旋转式衔铁继电器
+beam retrace time   &&   电子束回扫时间
+beam roughing method   &&   平轧法
+beam scanner   &&   束流扫描器
+beam scanning   &&   束扫描
+beam search   &&   定向搜索
+beam sharpness   &&   射束锐度，波束锐度
+beam splitter   &&   电子束分裂设备，分光器，分束器
+beam splitter prism   &&   分光棱镜，分束棱镜
+beam spot diameter   &&   束斑直径
+beam spot size   &&   束斑大小
+beam spreading   &&   ①束发散②光束范围，束斑大小
+beam steering   &&   光束控制
+beam stop   &&   射束阑
+beam storage   &&   电子存储器
+beam suppression   &&   束抑止
+beam switching tube   &&   射束开关管，电子束开关管，射线开关管
+beam tester   &&   电子束探测器
+beam tetrode   &&   束射四极管，电子束四极管
+beam trace   &&   电子束轨迹，束径迹
+beam transmitter   &&   定向发射机
+beam trap   &&   ①电子束阱②射束收集器，射线收注栅
+beam tube   &&   束射管，集射管
+beam waveguide   &&   光束波导
+beam width   &&   束流宽度，束流轮廓
+beam-bending magnet   &&   束偏转磁铁
+beam-deflection ultrasonic flowmeter   &&   声速偏转式超声流量计
+beam-deflection valve   &&   电子束偏转管
+beam-entry hole   &&   束入射孔
+beam-foil spectroscopy   &&   束箔光谱学
+beam-forming electrode   &&   聚束极，电子束形成电极
+beam-indexing color picture tube   &&   束指引式彩色显像管
+beam-indexing tube   &&   (束)引出管
+beam-limiting aperture   &&   限束孔径
+beam-loading thermobalance   &&   水平式热天平
+beam-of-light transistor   &&   光束晶体管
+beam-out current   &&   射束电流
+beam-out energy   &&   出射束能量
+beam-plasma instability   &&   束-等离子体不稳定性
+beam-plasma system   &&   束-等离子体系统
+beam-positioning magnet   &&   电子束位置调整磁铁，电子束调位磁铁
+beam-power valve   &&   电子束功率管
+beam-pumping unit   &&   抽油机
+beam-scanning method   &&   电子束扫描法
+beam-splitting optical system   &&   分光光学系统
+beam-target model   &&   束-靶模型
+beam-utilization factor   &&   束利用因数
+beamed radiation   &&   成束辐射
+beamed radio   &&   定向无线电通信
+beaming   &&   成束，聚束
+bear   &&   ①结块②炉瘤
+bearable load   &&   可(支)承荷载
+bearer   &&   ①托架②支座③承木，垫块④载体
+bearer arch   &&   支撑拱架
+bearing   &&   ①轴承，刀承②方位，象限，象限角③承座，支撑，支座
+bearing accuracy   &&   ①定位精度②轴承精度
+bearing alloy   &&   轴承合金
+bearing angle   &&   方位角
+bearing area   &&   支撑面积，承压面积
+bearing arrangement   &&   轴承布置
+bearing axis   &&   轴承中心线
+bearing backing   &&   轴承衬
+bearing ball   &&   轴承钢珠
+bearing block   &&   轴承座
+bearing bore diameter   &&   轴承内径
+bearing bracket   &&   轴承座，轴承架，轴承支架，负荷机架
+bearing brass   &&   轴承巴氏合金，轴承黄铜，轴承铜衬(Cu 60％，Al 1.5％，Fe 1％，Zn 36.5％)
+bearing bridge   &&   轴承支架
+bearing bronze   &&   轴承青铜
+bearing bush   &&   轴瓦衬，轴承衬
+bearing cap   &&   轴承盖
+bearing capacity   &&   承载能力
+bearing capacity factor   &&   承载量系数
+bearing carrier   &&   轴承座壳体
+bearing cast iron   &&   轴承铸铁
+bearing clearance   &&   轴承间隙
+bearing cup   &&   轴承盖
+bearing current   &&   轴承电流
+bearing diagram   &&   方位图
+bearing distance computer   &&   方位距离计算机
+bearing element   &&   支撑组件
+bearing end-shield   &&   端盖
+bearing face   &&   轴承支撑面，支撑面
+bearing fittings   &&   轴承配件
+bearing flange   &&   轴承法兰，轴承凸缘
+bearing flange, limiting stopper   &&   限位器支承环
+bearing force   &&   支撑力，负载能力
+bearing frame   &&   轴承架
+bearing friction   &&   轴承摩擦
+bearing height   &&   轴承高度
+bearing horsing   &&   ①端罩，端盖②轴承箱，轴承座，轴承套
+bearing insulation   &&   轴承绝缘
+bearing journal   &&   轴颈
+bearing life   &&   轴承寿命
+bearing liner   &&   轴瓦，轴衬
+bearing load   &&   轴承负载，轴承载荷
+bearing metal   &&   轴承合金，轴承金属
+bearing metal alloy   &&   轴承合金
+bearing noise   &&   轴承噪音
+bearing oil   &&   轴承油
+bearing oil pressure   &&   轴承油压
+bearing outside diameter   &&   轴承外径
+bearing pad   &&   轴瓦，支座承垫
+bearing pedestal   &&   轴承座
+bearing plate   &&   垫板，底垫，承重板
+bearing preload   &&   轴承预负荷
+bearing pressure   &&   承压力，轴承压力
+bearing processing equipment   &&   轴承加工机
+bearing race   &&   滚珠轴承座圈
+bearing reaction   &&   轴承反力，支撑反力
+bearing resistance   &&   ①支撑强度，抗压力②轴承阻力
+bearing ring   &&   轴承套圈
+bearing shell   &&   轴承壳套，轴瓦
+bearing shim   &&   轴承垫片
+bearing shoe   &&   轴瓦
+bearing sleeve   &&   轴套
+bearing spacing   &&   轴承间距
+bearing spread   &&   轴承间距
+bearing stand   &&   轴承座，轴承架
+bearing steel   &&   轴承钢
+bearing strain   &&   ①挤压变形，支撑应变②承压变形
+bearing strength   &&   承压强度，承受强度，支撑强度
+bearing strength test   &&   承(载)力试验，承受强度试验
+bearing stress   &&   负荷应力，支撑应力，承压应力
+bearing structure   &&   支撑结构
+bearing support   &&   轴承座
+bearing surface   &&   支撑面，承受表面，轴承表面
+bearing temperature relay   &&   轴承温度继电器
+bearing test   &&   承载试验
+bearing tester   &&   轴承检查仪
+bearing thrust   &&   轴承推力
+bearing unit   &&   轴承座
+bearing vibration   &&   轴承振动
+bearing wear   &&   轴承磨损
+bearing white metal   &&   轴承白合金
+bearing width   &&   轴承宽度
+bearing yield strength   &&   支撑屈服点，承受屈服强度
+bearings   &&   轴承
+bearings with seal   &&   密封轴承
+beat   &&   ①差拍，拍，节拍②取字时间③跳动，敲打
+beat counter   &&   差频式计数器
+beat cycle   &&   差拍周期
+beat effect   &&   拍效应，差频效应
+beat frequency   &&   差频，拍频，拍频率
+beat frequency oscillator   &&   拍频振荡器
+beat interference   &&   拍频于扰，交调干扰
+beat method of measurement   &&   差拍测量法
+beat note   &&   拍音
+beat oscillator   &&   拍频振荡器
+beat receiver   &&   外差接收机，外差式收音机，拍频接收机
+beat tone   &&   拍音
+beaten aluminium   &&   铝板，铝箔
+beaten gold   &&   金箔
+beater   &&   ①夯实机②打浆机，打手③锤，捣棒，夯具④搅拌器
+beating   &&   打浆，拍打，节拍，拍频
+beating in   &&   合拍，进入同步
+beaver   &&   干扰雷达电台
+beaver back   &&   滑背
+beaver tail   &&   可倾斜货台挂车
+beccarite   &&   绿锆石，酚醛琥珀
+bed   &&   ①床②座，垫③底盘④路基⑤层，床层，地层⑥炉床，机座，床身
+bed charge   &&   ①底料②底焦
+bed coke   &&   ①底焦②焦床
+bed density   &&   床密度
+bed joint   &&   平缝，平层节理
+bed plate   &&   ①底板，地脚板，台板，基础板②轨座，底座③炉底
+bed ways   &&   床身导轨
+bed-frame   &&   基架，机床底架
+bed-in   &&   卧模(地坑造型)
+bedding   &&   卧模，底层，埋藏
+bedding coke   &&   底焦
+bedding of wire   &&   埋入线，压入线
+bedding plate   &&   底板
+bedding sand   &&   ①垫心砂②垫箱砂
+bedding stone   &&   研磨石
+bedstand   &&   试验台，基石
+bedstead   &&   ①试验台，试验装置②骨架，壳体
+bedstone   &&   座石
+bee line   &&   最短距离，空中距离，捷径，直线
+beechnut   &&   地空通信系统
+beehive coke   &&   蜂巢炉焦，蜂窝状焦，蜂房式焦
+beehive coke oven   &&   蜂巢式煤焦炉
+beehive cooler   &&   蜂房式冷却器
+beehive kiln   &&   蜂窝式窑
+beep on error   &&   出错报警
+beetle   &&   ①脲醛树脂(类)②搅打机，夯具，槌布机
+before top dead center   &&   上止点前 [BTDC]
+before-and-after test   &&   前后试验
+befouling environment   &&   污染环境
+bega   &&   千兆倍(10^10倍)
+begin block   &&   开始分程序
+begin column   &&   开始行
+beginning character   &&   起始字符
+beginning of contact   &&   起始啮合点
+beginning symbol   &&   开始符号begohm   &&   千兆欧
+behavior   &&   性能
+behaviour   &&   ①行为，动作②品质，状态③特性，性能，特点
+behaviour decision making   &&   行为决策制定
+behaviour equation   &&   行为方程式
+behaviour in service   &&   运转性能，使用性能
+behaviour modification   &&   行为修正，行为改变
+behaviour of system   &&   系统行为
+behaviour pattern   &&   行为模型，行为模式
+behavioural and randomized rule   &&   行为与随机化规则
+behavioural decision function   &&   行为决策函数
+behavioural decision theory   &&   行为决策理论
+behavioural model   &&   行为模式
+behavioural motive   &&   行为动机
+behavioural pattern   &&   行为模型
+behavioural science   &&   行为科学
+behavioural strategy   &&   行为策略
+behavioural system   &&   行为系统
+behaviourally equivalent strategy   &&   行为等价策略
+beidellite   &&   拜来石，贝得石
+bel   &&   贝(尔)(声音强度单位)[B]
+bell   &&   ①钟，铃②钟罩，钟盖(高炉)③锥体④漏斗
+bell batch-type furnace   &&   周期作业罩式炉
+bell brass   &&   钟黄铜
+bell bronze   &&   钟青铜
+bell character   &&   报警符号
+bell crank   &&   ①双臂曲柄，钟形曲柄②直角形杠杆
+bell curve   &&   钟形曲线
+bell furnace   &&   钟式炉
+bell housing   &&   离合器壳
+bell insulator   &&   钟形绝缘子，单裙绝缘子
+bell jar   &&   钟罩
+bell manometer   &&   浮钟压力计，钟罩压力计
+bell metal   &&   钟铜，青铜
+bell mouth   &&   ①测流喷嘴②喇叭口，漏斗口，锥形底
+bell prover   &&   钟罩校准器
+bell push-button   &&   电铃按钮
+bell wire   &&   电铃线
+bell-and-hopper arrangement   &&   斜斗式装料装置
+bell-shaped curve   &&   铃形曲线
+bell-shaped insulator   &&   钟式绝缘子
+bell-shaped suspension insulator   &&   钟形悬挂绝缘子
+bell-type furnace   &&   罩式炉，钟形炉
+belleville spring   &&   碟形弹簧
+bellows   &&   ①风箱②真空管③波纹管，皱纹管，伸缩软管
+bellows flowmeter   &&   膜盒式流量计
+bellows pressure gauge   &&   波纹管压力表
+bellows seal bonnet   &&   波纹管密封型上阀盖
+bellows type manometer   &&   波纹管式压力计
+bellows-type mechanical seal   &&   波纹管式机械密封，风箱型机械密封
+belly   &&   炉腰
+belly of blast furnace   &&   高炉炉腰
+below bearing type generator   &&   伞式发电机
+below critical   &&   ①次临界的②低于临界的
+belt   &&   ①皮带，带，缓冲层②传动带②安全带③带束层
+belt bias tire   &&   束带斜交轮胎
+belt brake   &&   带式制动器，皮带制动器，皮带刹车
+belt conveyer   &&   传送带，带式输送机，带式运输机
+belt conveyer hoisting   &&   皮带机提升
+belt conveyor   &&   传送带，带式输送机，带式运输机
+belt drier   &&   ①皮带传动，带传动②带式干燥机
+belt drive   &&   带传动
+belt driving   &&   带传动
+belt driving device   &&   皮带传动装置
+belt filter   &&   带式过滤机
+belt grinding   &&   砂布带磨法
+belt lace   &&   皮带接头，皮带扣
+belt line   &&   腰线
+belt line region   &&   束带区，最大幅照区
+belt polishing machine   &&   皮带抛光机
+belt production   &&   流水作业，皮带传送生产作业
+belt pulley   &&   皮带盘，皮带轮，带轮
+belt sander   &&   带式打磨机，砂帯磨机
+belt sheave   &&   皮带轮
+belt slip   &&   胶带打滑
+belt tension   &&   皮带张力
+belt tire   &&   束带斜交
+belt transmission   &&   皮带驱动，皮带传动
+belt-saw   &&   带锯机
+belted cable   &&   铠装电缆
+belting   &&   传动带装置，包扎带
+bench   &&   ①工作台②拉拔机，拉丝机，拉床③光具座，光学台
+bench comparator   &&   比长仪
+bench drilling machine   &&   台钻
+bench grinding machine   &&   台式磨床，台式刃磨机
+bench insulator   &&   绝缘座
+bench lathe   &&   台上车床，台式车床
+bench mark   &&   水准点，基准点，基准标记，标线
+bench microscope   &&   台式显微镜
+bench milling machine   &&   台式铣床
+bench seat   &&   长条座椅
+bench test   &&   小型试验，台架试验
+bench vice   &&   台式虎钳，台钳
+bench work   &&   钳工工作
+bench-scale experiment   &&   实验室试验，小型试验
+bench-work   &&   钳工工作
+benchmark   &&   基准测试
+benchmark study   &&   基准研究
+benchmark test program   &&   ①基准程序②试验程序
+bend   &&   ①弯曲②弯头③弯管③河曲，河湾
+bend bar   &&   挠钢
+bend contours   &&   等倾消光条纹
+bend crystal   &&   弯晶
+bend ductility   &&   弯曲延性，弯曲形变，弯曲应变
+bend metal   &&   易熔合金，弯管合金
+bend pipe   &&   挠管，弯管
+bend plane   &&   弯曲面
+bend property   &&   弯曲性
+bend radius   &&   弯曲半径
+bend test   &&   弯曲试验
+bendability   &&   钾弯曲性
+bendable permanent magnet   &&   可挠性永磁
+bendalloy   &&   易熔合金，弯管合金
+benderising   &&   磷酸盐皮膜处理，涂磷处理
+bending   &&   ①弯曲，挠曲②弯曲度③波束曲折④卷刃
+bending and straightening machine   &&   弯曲矫直两用机
+bending and unbending test   &&   曲折试验，反复挠曲试验，反复弯曲试验
+bending angle   &&   挠曲角，弯曲角
+bending block   &&   折刀
+bending coefficient   &&   挠曲系数，弯曲系数
+bending creep test   &&   弯曲蠕变试验
+bending deflection   &&   弯曲挠度，弯曲，弯曲变位
+bending elasticity   &&   挠曲弹性
+bending endurance test   &&   耐弯曲试验
+bending failure   &&   弯曲疲劳，弯曲破裂，弯曲断裂，弯曲破坏
+bending fatigue   &&   弯曲疲劳
+bending fatigue test   &&   弯曲疲劳试验
+bending flexure   &&   挠曲，弯曲
+bending force   &&   弯(曲)力
+bending iron   &&   弯铁，弯钢筋工具，弯钢筋搬头
+bending load   &&   弯曲载荷
+bending machine   &&   弯曲机，弯筋机
+bending machines   &&   弯曲机
+bending magnet   &&   偏转磁铁
+bending method   &&   蝶形孔型轧制法
+bending modulus   &&   弯曲模数，弯曲模量
+bending moment   &&   弯矩，挠矩，弯矩，外形尺寸
+bending moment coefficient   &&   挠曲系数
+bending moment diagram   &&   挠曲图，弯矩图
+bending property   &&   弯曲性能
+bending relaxation rigidity   &&   弯曲松弛刚性
+bending resistance   &&   抗弯性能
+bending rigidity   &&   抗弯刚性，抗弯刚度
+bending roll   &&   弯曲辊，弯曲机
+bending schedule   &&   弯钢筋表
+bending stiffness   &&   弯曲刚度，抗弯劲度
+bending strain   &&   弯曲应变，挠应变
+bending strength   &&   抗弯强度，抗挠强度，弯曲强度
+bending stress   &&   弯曲应力，挠应力
+bending stress fatigue limit   &&   弯曲疲劳强度，弯曲应力疲劳极限
+bending system   &&   偏转系统
+bending test   &&   弯曲试验，挠曲试验
+bending vibration   &&   弯曲振动
+bending with combined axial and lateral load   &&   纵横弯曲
+bending yield point   &&   抗弯屈服点
+bending-up method   &&   蝶形孔型轧制法(轧制角钢)
+beneath   &&   在...下
+benefication   &&   ①富集②选矿③精选
+benefication combined methods   &&   联合选矿
+benefication flowsheet   &&   选矿流程
+benefication machinery   &&   选矿机
+benefication method   &&   选矿方法
+benefication plant   &&   选矿厂
+benefication reagent   &&   选矿药剂，浮选药剂
+bent   &&   ①排架②横向构架③V型凿④弯曲⑤弯头⑥倾向⑦曲轴
+bent bar   &&   弯曲钢筋
+bent crystal   &&   弯晶
+bent crystal monochromator   &&   弯晶单色器
+bent pipe   &&   挠管，弯管
+bent shank tapper tap   &&   弯柄螺母丝锥
+bent steel   &&   弯(曲钢)筋
+bent stem earth thermometer   &&   曲管地温表
+benzamine   &&   苯胺
+benzine   &&   轻油精，汽油油，石脑油
+benzine blow lamp   &&   汽油喷灯
+benzolized oil   &&   苯化油，含苯油挥发
+bergmeal   &&   硅藻土
+berkelium   &&   锫Bk(97)
+berkelium complex   &&   锫络合物
+berkelium compound   &&   锫化合物
+beryl   &&   绿柱玉
+beryllia ceramics   &&   氧化铍陶瓷
+beryllia foam   &&   氧化铍泡沫塑料
+beryllia porcelain   &&   氧化铍瓷
+beryllia-containing high-modulus glass   &&   含氧化铍高模数玻璃纤维
+beryllium   &&   铍 (Be)
+beryllium bronze   &&   铍青铜(Be 2％～2.5％，余为Cu)
+beryllium complex   &&   铍络合物
+beryllium compound   &&   铍化合物
+beryllium copper   &&   铍钢，铍铜(Be 2.25％)
+beryllium glass   &&   铍玻璃
+beryllium gold   &&   铍金
+beryllium moderator   &&   铍慢化剂
+beryllium monel   &&   铍蒙乃尔合金(含铍镍铜合金)
+beryllium oxide   &&   氧化铍
+beryllium oxide fibre   &&   氧化铍纤维
+beryllium reactor   &&   铍反应堆
+beryllium reflector   &&   铍反射层
+beryllium silver   &&   铍银
+beryllium-copper alloy   &&   铍铜合金
+beryllium-copper-clad laminate   &&   包铜铍合金层板
+beryllium-glass composite fibre   &&   铍基玻璃复合纤维
+beryllium-moderated reactor   &&   铍慢化堆
+beryllium-nickel   &&   铍镍合金(含2.5％的时效硬化合金)
+beryllium-nickel alloy   &&   铍镍合金
+beryllium-oxide ceramics   &&   氧化铍陶瓷
+beryllium-reflected reactor   &&   铍反射层反应堆
+besel   &&   监视孔，监视窗
+best approximation   &&   最佳逼近
+best bar plate iron   &&   最高质量钢板钢
+best best iron   &&   三次加工熟铁(BBiron)
+best bound rule   &&   最好界法则
+best compromise   &&   最佳折衷
+best decision function   &&   最佳决策函数
+best efficiency   &&   最佳效率
+best estimate   &&   最好估计值，最佳估计值
+best estimator   &&   最佳估计量
+best fit   &&   最佳配合
+best iron   &&   二次加工熟铁
+best load   &&   最大效率时的负荷
+best patented steel wire   &&   优等索氏体处理钢丝
+best performance curve   &&   最佳特性曲线
+best plough steel wire   &&   优等制绳钢丝
+best policy   &&   最佳方案，最佳策略
+best product mixes   &&   最优产品组合
+best quality   &&   优质的
+best strategy   &&   最佳策略
+best value   &&   最佳值
+beta   &&   ①贝塔(β)②晶体管的共发射极短路电流放大系数
+beta absorber   &&   β射线吸收器，β射线吸收体
+beta brass   &&   β-黄铜
+beta cellulose   &&   β-纤维素
+beta decay   &&   β-衰变
+beta disintegration   &&   β-蜕变
+beta distribution   &&   贝塔分布
+beta function   &&   β-函数(数)
+beta gauge   &&   β-测量计
+beta iron   &&   β-铁(β-iron)
+beta rubber   &&   β-橡胶，凝橡胶
+beta thickness gauge   &&   β-射线测厚仪
+beta titanium cold-rolled alloy   &&   β-型钛冷轧合金
+beta wave   &&   β-波(15～60赫，为人脑所产生的电波)
+beta-amylose starch   &&   淀粉中的不溶性部分，支链淀粉(化)
+beta-ell   &&   β-埃尔，线路总衰减
+beta-graphite   &&   β-石墨(β-graphite)
+beta-martensite   &&   β-马氏体(β-martensite)
+beta-particle   &&   β-粒子(β-particle)
+beta-phase   &&   β-相(β-phase)
+beta-quenched uranium   &&   β-相淬火铀
+beta-ray gauge   &&   β-射线测厚仪
+beta-rays   &&   β-射线，β-辐射(β-rays)
+beta-structure   &&   β-组织(β-structure)
+betatopic   &&   失电子的，差电子的
+betatron   &&   电子回旋加速器，电子感应加速器
+bethanized wire   &&   电镀锌钢丝
+bethanizing   &&   电镀，镀锌
+between centers   &&   中心间距，中心距，轴间距，轴心距
+between product   &&   中间产品
+between-coil connection   &&   线圈间连接
+between-pass annealing   &&   轧制中间退火
+bevatron   &&   高能质子加速器
+bevel   &&   ①锯齿轮，伞齿轮②斜角规，万能角尺 ③斜面，斜削，倾斜，斜角，倒角④斜边⑤倾斜的，圆锥的⑥斜切
+bevel differential   &&   锥齿轮差速器
+bevel drive   &&   伞齿轮传动
+bevel edge   &&   ①斜边，斜缘②倒角边
+bevel gear   &&   锥形齿轮
+bevel gears   &&   锥齿轮，圆锥齿轮机构
+bevel pulley   &&   锥轮
+bevel wheel   &&   锥轮
+beveling objects   &&   斜角对象，斜切物件
+bezel   &&   斜视规
+bezel panel   &&   面板
+bezel ring   &&   盖环
+bi-directional vane   &&   双向风向标，双风信标
+bi-metal sheet   &&   双金属板
+bi-nonlinear function   &&   双重非线性函数
+bi-pass   &&   双通，双行车路
+bi-rotation   &&   双异旋光
+bi-telephone   &&   双耳受话机，电话耳机
+biafocal headlamp   &&   双焦距前照灯
+bias   &&   对角接触
+bias belted tire   &&   束带斜交轮胎
+bias in   &&   内对角接触
+bias out   &&   外对角接触
+bias ply   &&   斜交帘布层
+bias ply tire   &&   斜交带轮胎
+bias tire   &&   斜交轮胎
+bias voltage   &&   偏压
+biasing   &&   可变转矩分配
+big end bearing   &&   连杆大头轴承
+big font   &&   大字体 大字体
+big interlock pin   &&   大互锁销
+big size nuts   &&   大尺寸螺帽
+big-end   &&   大头
+big-end bearing   &&   杆大头轴承
+bilateral current stabilizer   &&   双向稳流器
+bill name   &&   单据名称
+bill of capacity   &&   能力清单
+bill of material   &&   物料清单
+billet   &&   方钢，钢方坯
+bimatrix game   &&   双矩阵对策
+bimetal   &&   双金属
+bimetal casting   &&   双金属铸造，双金属铸件
+bimetal contact   &&   双金属(接)触点
+bimetal for high temperature   &&   高温用双金属
+bimetallic conductor   &&   双金属线
+bimetallic corrosion   &&   双金属侵蚀，电镀腐蚀
+bimetallic element   &&   双金属组件
+bimetallic instrument   &&   双金属式仪表
+bimetallic material   &&   双金属材料
+bimetallic strip   &&   双金属板，双金属带
+bimetallic strip relay   &&   双金属片继电器
+bimetallic temperature sensor   &&   双金属热敏组件，双金属温度传感器
+bimetallic temperature transducer   &&   双金属温度传感器
+bimetallic thermograph   &&   双金属温度记录仪
+bimetallic thermometer   &&   双金属温度计
+bimetallic thermostat   &&   双金属恒温器
+bimirror   &&   双镜
+bimodal   &&   双峰的
+bimodal deformation   &&   双态形变
+bimolecular   &&   双分子
+bimolecular disproportionation   &&   双分子歧化
+bimolecular reaction   &&   双分子反应
+bimolecular reaction of cracking   &&   双分子裂化反应
+bimorph   &&   双压电芯片，双晶bin   &&   ①仓，箱，料架②磁带存储器
+binant electrometer   &&   双限静电计，双象限静电计
+binary   &&   ①二进制，二进位数②二进位的，二元制③二元的
+binary adder   &&   二进加法器
+binary alloy   &&   双元合金，二元合金binary amplitude   &&   二元调幅
+binary arithmetic   &&   二进制运算，二进制算符
+binary asymmetric channel   &&   二进制不对称信道
+binary automatic computer   &&   二进制自动计算机
+binary bit   &&   二进位
+binary cell   &&   二进(制)组件，二进(位)单元，二种状态的器件
+binary channel   &&   二进制信道
+binary character   &&   二进制编码符号
+binary code   &&   二进制代码
+binary coded decimal   &&   二-十进制编码[BCD]
+binary collision   &&   二体碰撞
+binary compound semiconductor   &&   二元化合物半导体
+binary computer   &&   二进制计算机
+binary control   &&   二进制控制
+binary copolymerization   &&   二元共聚
+binary counter   &&   二进制计数器
+binary counting   &&   二进制计数
+binary cycle   &&   二元循环
+binary damp program   &&   二进制打印程序
+binary date   &&   二元数据
+binary decision   &&   二元判定
+binary digit   &&   二进制数字，二进制数位(bit)
+binary digital   &&   二进制数字
+binary elastic scattering event   &&   双弹性散射过程
+binary elastic scattering peak   &&   双弹性散射峰
+binary electrometer   &&   双极静电计
+binary element   &&   ①双态组件②二进制单元
+binary equivalent   &&   等效二进制位数
+binary erasure channel   &&   二进删除信道
+binary eutectic   &&   二元共晶
+binary fission   &&   二分裂
+binary flip-flop   &&   二进制触发器，二进双稳态触发器
+binary fluid   &&   二元流体
+binary fuel   &&   二元燃料
+binary game   &&   二元对策
+binary gas separation   &&   二元气体分离
+binary glass   &&   二组分玻璃，二元玻璃
+binary incremental representation   &&   二进制增量表示法
+binary insertion sorting   &&   折半插入排序
+binary isothermal system   &&   二元等温系
+binary loader   &&   二进制装入程序
+binary logic   &&   二元逻辑
+binary matrix   &&   二位数矩阵
+binary merge sorting   &&   二路归并排序
+binary mixture   &&   二元混合物
+binary multiplication rule   &&   二进制乘法规则
+binary notation   &&   二进制记数法
+binary number   &&   二进制数字
+binary number system   &&   二进制数，二进数制
+binary octal   &&   二-八进制
+binary one   &&   二进制的“1”
+binary operation   &&   二元运算，二进制运算
+binary orthogonal codes   &&   二元正交码
+binary phase diagram   &&   二元相图
+binary point   &&   二进制小数点
+binary product generator   &&   二进制乘积发生器
+binary random process   &&   二元随机过程
+binary refrigerating system   &&   二元制冷系统
+binary relation   &&   二元关系
+binary representation   &&   二元表示
+binary row   &&   二进制行
+binary scale   &&   二进制记数法
+binary search tree   &&   二叉排序树
+binary semiconductor   &&   二元半导体
+binary signal   &&   二进制信号
+binary solution   &&   二元溶液
+binary steel   &&   二元合金钢
+binary synchronous communication   &&   双同步通信，二进制同步通信[BSC]
+binary system   &&   ①二进制②二元系，二元制
+binary system ceramics   &&   二元系陶瓷
+binary system phase diagram   &&   二元相图
+binary system piezoelectric ceramics   &&   二元系压电陶瓷
+binary tree   &&   二叉树，二元树
+binary trigger   &&   二进制触发器
+binary vector   &&   二位数向量
+binary-coded decimal   &&   二进制编码的十进制，二-十进制[BCD]
+binary-coded octal   &&   二—八进制，二进制编码的八进制
+binary-decimal conversion   &&   二—十进制转换
+binary-logic element   &&   二进制逻辑组件
+binary-logic system   &&   二进制逻辑系统
+binary-state variable   &&   双态变量，双位变量，二值变量，二进制状态变量
+binary-to-decimal conversion   &&   二-十进制转换
+binaural effect   &&   两耳效应，双耳作用
+binaural localization   &&   双耳定位
+bind   &&   ①黏合②扎，绑③使坚固④绑定，并入
+bind agent   &&   ①黏合剂，接合剂②载色剂
+bind material   &&   黏合料(剂)
+bindability   &&   黏合性
+binder   &&   ①接合剂，胶合剂，黏合剂，黏结剂②包扎物③夹子④割捆机(农机)
+binder for electrical purposes   &&   电工胶黏剂
+binder material   &&   黏结材料
+binder percentage   &&   黏结剂百分率
+binder plate   &&   压板
+binder-free silica sand   &&   无黏结剂石英砂
+binderless sand   &&   无黏结剂型砂
+binding agent   &&   黏合剂，接合剂，载色剂
+binding band   &&   绑带，绑箍
+binding bolt   &&   紧固螺栓
+binding clip   &&   ①接线夹，线箍②钳夹
+binding coal   &&   黏结煤，结块煤
+binding constraint   &&   紧约束
+binding energy   &&   结合能，束缚能
+binding force   &&   结合力
+binding force of contract   &&   合同约束力
+binding material   &&   ①胶合剂，黏合剂②胶凝材料，胶结料
+binding post   &&   ①接线柱②缚杆
+binding power   &&   结合能力，黏合(能)力
+binding strength   &&   连结强度，连结力
+binding tape   &&   扎带，绑带
+binding thread   &&   绑线
+binding time   &&   汇集时间
+binding wire   &&   捆扎用钢丝
+bineutron   &&   双中子
+binistor   &&   四层半导体开关器件，pnpn可控硅开关
+binocular   &&   ①双目(的)，双筒(的)②双目镜
+binocular eyepiece   &&   双目目镜
+binocular magnifier   &&   双目放大镜
+binocular microscope   &&   双目显微镜，双筒显微镜
+binocular microscopes   &&   单接物镜双眼显微镜
+binode   &&   ①双阳极(的)，双结(点)②双阳极电子管
+binomial   &&   二项式
+binomial array   &&   双向天线阵
+binomial coefficient   &&   二项式系数
+binomial distribution   &&   二项分布
+binomial formula   &&   二项式公式
+binomial function   &&   二项函数
+binomial law   &&   二项定律
+binomial probability distribution   &&   二项概率分布
+binomial test   &&   二项检验
+binomial theorem   &&   二项定理，二项展开式
+binomial trials   &&   二项试验
+binomial trials model   &&   二项试验模型
+binomially distributed random numbers   &&   二项分布随机数
+binormal   &&   次法线，副法线，仲法线
+biobattery   &&   生物电池
+biochemical fuel cell   &&   生物化学燃料电池
+biochemical oxygen demand   &&   生化需氧量[BOD]
+biochemical oxygen demand meter for seawater   &&   海水生化需氧量测定仪
+biochemical oxygen demand microbial sensor   &&   微生物BOD传感器
+biochemical oxygen demand microbial transducer   &&   微生物BOD传感器
+biochemical quantity sensor   &&   生化量传感器
+biochemical quantity transducer   &&   生化量传感器
+biodiesel   &&   生物柴油
+biomedical analyzer   &&   生物医学分析仪
+biosensor   &&   生物传感器
+bipartite graph   &&   偶图
+bipartite network   &&   对分网络
+bipartition   &&   对分，分为两部分
+biphase   &&   二相
+biphase equilibrium   &&   二相平衡
+biphase motor   &&   两相电动机
+biphase rectifier   &&   全波整流器，双相整流器
+biphone   &&   双耳受话器，耳机
+bipolar   &&   双极的，双极性的
+bipolar HVDC system   &&   双极高压直流输电系统
+bipolar armature winding   &&   双极电枢绕组
+bipolar battery   &&   双极性电池
+bipolar code   &&   双极性码
+bipolar dynamo   &&   双极电机
+bipolar electrode   &&   双极电极
+bipolar field   &&   双极磁场(电机的)
+bipolar integrated circuit   &&   双极集成电路
+bipolar memory   &&   双极存储器
+bipolar sunspot   &&   双极黑子
+bipolar transistor   &&   双极晶体管
+bipolarity   &&   双极性
+bipolymer   &&   二聚物，二元共聚物
+biprism   &&   ①双棱镜②双棱柱体
+biprisms   &&   双棱镜
+bipropellant   &&   双组元推进器
+bipropellant fuel   &&   二元燃料，双组元燃料
+biquadratic   &&   双二次的，四次的，四次方程，四次幂
+biquaternion   &&   复四元数，八元数
+biquinary   &&   二元五进制的，二元五进位的
+biquinary notation   &&   二五混合进制记数法
+biquinary-coded decimal number   &&   二五混合码十进制数
+biradical initiation   &&   二元基引发
+bird receiving system   &&   吊舱接收系统
+birdcall   &&   单边带长途通信设备
+birefringence   &&   双(光)折射，二次光折射，重折率
+birefringent   &&   双折射的，二次折射的
+birefringent and polarizing crystals   &&   双折射偏光晶体
+birefringent crystal   &&   双折射晶体
+biregular   &&   双正则的
+birotor   &&   双转子
+birotor pump   &&   双转子泵
+biscuit   &&   ①胶块②余料③心饼④本色陶器
+biscuit block   &&   镶块
+bisect   &&   二等分，平分，对开
+bisection method   &&   对分法
+bisection theorem   &&   电路中分定理，二等分定理
+bisector   &&   二等分线，平分线
+bismanal   &&   铋锰磁性合金
+bismanol   &&   铋锰磁性合金
+bismothic gold   &&   黑铋合金
+bismuth   &&   铋B1(83)
+bismuth alloy   &&   铋合金
+bismuth amalgam   &&   铋汞齐，铋汞合金
+bismuth bronze   &&   铋青铜合金
+bismuth gold   &&   铋金矿
+bismuth silver   &&   银铋矿
+bismuth spiral   &&   铋螺线
+bismuth-base alloy   &&   铋基合金
+bismuth-graphite reactor   &&   铋石墨反应堆
+bismuth-uranium alloy   &&   铋-铀合金
+bismuthic silver   &&   软铋银矿
+bistability   &&   双稳定性
+bistable   &&   双稳态
+bistable amplifier   &&   双稳放大器
+bistable circuit   &&   双稳态电路
+bistable element   &&   双稳态组件
+bistable magnetic core   &&   双稳态磁心
+bistable multivibrator   &&   双稳多谐振荡器
+bistable operation   &&   双稳运行
+bistable polarized relay   &&   双稳极化继电器
+bistable transistor circuit   &&   双稳态晶体管电路
+bistable trigger circuit   &&   双稳(态)触发器电路
+bistatic sonar   &&   收发分置声纳
+bisymmetric   &&   双对称的
+bit   &&   ①位，存储单位，二进制位，二进制数，比特②钻，刀片，锥
+bit address   &&   位地址
+bit addressing   &&   位寻址
+bit architecture   &&   位体系结构
+bit array   &&   位数组，位阵列
+bit attribute   &&   位属性
+bit brace   &&   钻孔器，手摇钻
+bit cell   &&   位单元
+bit clock   &&   位时钟
+bit combination   &&   位组合
+bit density   &&   位密度
+bit encoding   &&   位编码
+bit error rate   &&   误码率，比特误码率[BER]
+bit function   &&   位函数
+bit interlacing   &&   比特交错
+bit level   &&   位级
+bit location   &&   数位位置，位单元
+bit matrix   &&   比特矩阵
+bit memory organization   &&   位存储结构
+bit of information   &&   信息单位，信息量子
+bit pattern   &&   位的形式，位的组合格式，位模式
+bit rate   &&   位速率
+bit sense line   &&   位读出线
+bit serial   &&   位串行
+bit stream transmission   &&   位流传输
+bit string   &&   位串
+bit strip   &&   位带
+bit symbol   &&   位符号
+bit synchronization   &&   比特同步
+bit-by-bit   &&   逐位，按位，逐个比特
+bit-by-bit control   &&   按位控制
+bit-by-bit execution   &&   逐位执行
+bit-by-bit memory   &&   打点式光存储器，按位光存储器
+bit-serial highway   &&   位串行信息公路
+bite   &&   ①吃刀，切入量，咬入②夹住，夹紧，卡住，咬紧③腐蚀④酸洗
+bitmap   &&   位图，点阵图
+bitmaps   &&   位映像
+bitter spar   &&   白云石
+bitumastic   &&   沥青砂胶，沥青的
+bitumastic solution   &&   水柏油
+bitumen   &&   沥青，地沥青
+bitumen cable   &&   沥青绝缘电缆
+bitumen compound filled joint   &&   沥青胶填充接头
+bitumen content   &&   沥青含量
+bitumen mica flake tape   &&   沥青片云母带
+bitumen winding   &&   沥青浸渍绕组，浸胶绕组
+bitumen-impregnated   &&   沥青浸渍的
+bituminic   &&   沥青质
+bituminite   &&   烟煤
+bituminization   &&   沥青化，沥青处理
+bituminous clay   &&   烟煤泥
+bituminous coal   &&   烟煤
+bituminous coal dust   &&   煤粉(砂型中)
+bituminous coating   &&   沥青涂层
+bituminous coating material   &&   涂盖材料，面油，涂油
+bituminous material   &&   沥青材料
+bituminous matter   &&   沥青质
+bituminous mixture   &&   沥青拌和料
+bituminous mortar   &&   沥青砂浆
+bituminous paint   &&   沥青涂料，沥青漆
+bituminous penetration   &&   沥青灌注
+bituminous sand   &&   沥青砂
+bituminous saturant   &&   浸渍材料
+bituminous shale   &&   沥青页岩，油田页岩
+bituminous varnish   &&   沥青(清)漆
+bituminous water-proof coating   &&   沥青防水层
+bitumite   &&   烟煤
+bitumization   &&   沥青化
+bitumize   &&   ①沥青(固)化②沥青处理
+bitwise operation   &&   逐位运算
+bivacancy   &&   (在原子外壳中的)双空位
+bivalence   &&   二价
+bivalent   &&   二价的
+bivalent segmer   &&   二价链节
+bivane   &&   双向风向标，双风信标
+bivariant   &&   双变的
+bivariant system   &&   双变系
+bivariate   &&   双变量
+bivariate Poisson distribution   &&   二元泊松分布
+bivariate distribution   &&   二元分布，二维分布
+bivariate normal distribution   &&   二元正态分布
+bivariate normal target distribution   &&   二维规范目标分布
+bivariate polynomial   &&   双变量多项式
+bivariate stochastic process   &&   二元随机过程
+bivectorial   &&   双矢的
+bivinyl rubber   &&   丁烯橡胶
+black   &&   ①黑色②煤③黑染料，黑颜料④黑色物⑤致黑⑥变黑
+black and white developing solution   &&   黑白显影液
+black and white pattern   &&   黑白图形
+black and white picture tube   &&   黑白显像管
+black annealed wire   &&   退火钢丝
+black annealing   &&   (黑)退火，初退火
+black anodising   &&   黑色阳极处理
+black body   &&   黑体
+black body radiation   &&   黑体辐射
+black box   &&   ①黑箱，未知②密封组件③未知框
+black box theory   &&   黑箱理论
+black cell   &&   黑电池
+black copper   &&   黑铜，粗铜
+black core   &&   黑心
+black diamond   &&   ①黑金刚石，黑钻石②煤
+black discharge   &&   无光放电
+black drawn wire   &&   黑)线材，黑钢丝
+black dust   &&   煤粉
+black fibre   &&   碳纤维
+black fracture   &&   黑色断口
+black furnace   &&   不加热炉
+black glass   &&   ①中性滤光镜②黑玻璃
+black gold   &&   黑铋金矿
+black heart   &&   黑心
+black insulating tape   &&   黑胶布带，黑绝缘带
+black iron   &&   黑钢皮，黑钢板，平铁
+black lead   &&   石墨，黑铅粉，石墨粉
+black lead crucible   &&   石墨坩埚
+black lead wash   &&   石墨浆
+black light   &&   ①不可见光②黑光
+black light filter   &&   透过紫外线的滤光片
+black light lamp   &&   紫外线照射装置
+black lightning   &&   暗(电)闪
+black matrix tube   &&   黑底管
+black mica   &&   黑云母
+black mineral oil   &&   重油，燃料油
+black nickel plating   &&   黑色镍镀层
+black oil   &&   黑油，润滑重油，重油
+black organic fibre   &&   有机碳纤维
+black out   &&   ①熄灭，消隐②关闭，闭塞③灯火管制④断电，停电
+black oxide coating   &&   发黑
+black oxide finish   &&   钢表面涂黑法
+black patches   &&   黑斑点
+black peak   &&   电视图像最大黑色信号电平，最黑点的信号电平
+black pickling   &&   初酸洗，黑酸洗，粗酸洗
+black pipe   &&   ①非镀锌管，无锌层管②黑管
+black plate   &&   黑钢皮，黑钢板
+black red heat   &&   暗红热
+black region   &&   黑(信号)区
+black sand   &&   黑砂
+black scope   &&   暗底显示管
+black sheet   &&   黑钢皮
+black sheet iron   &&   黑钢皮，黑薄板，黑铁皮
+black silver   &&   黑银矿
+black skin   &&   铸皮，黑皮
+black slag   &&   黑渣，冷渣
+black softened   &&   初退火的，黑退火的
+black speck   &&   黑斑
+black spot   &&   黑点，黑斑，斑点
+black spot interference   &&   黑点失真，黑点干扰
+black streak   &&   黑条线
+black tin steel   &&   黑钢板
+black vacuum   &&   粗真空
+black-and-white television   &&   黑白电视
+black-band   &&   黑带，无火花换向区
+black-box model   &&   黑箱模型
+black-edged plate   &&   黑边铁皮
+black-heart malleable cast iron   &&   黑心可锻铸铁
+black-out effect   &&   ①关闭效应②遮闭效应③放射能力瞬时效应④灵敏度瞬时降低
+black-out lamp   &&   灯火管制灯
+black-out voltage   &&   熄灭电压，截止电压
+black-short   &&   黑色裂口，冷脆
+black-shortness   &&   冷脆
+black-surround tube   &&   黑底管
+blackbody   &&   黑体
+blackbody chamber   &&   黑体腔
+blackbody furnace   &&   黑体炉
+blackbody lamp   &&   黑体灯
+blackening   &&   ①发黑处理，染黑法②涂碳粉③底片变黑④黑度⑤密度
+blackheart process   &&   黑心可锻化处理
+blacking hole   &&   涂料孔
+blacking scab   &&   涂料疤，黑痂
+blackness   &&   黑度
+blackout pulse   &&   消隐脉冲
+blacksmith   &&   锻工
+blacksmith welding   &&   锻焊
+blackwork   &&   软钢锻件，软锻件
+blade   &&   ①刀片②叶片，刀口
+blade angle   &&   叶片角，刀齿齿廓角
+blade axial clearance protection device   &&   动静间隙保护装置
+blade clearance   &&   叶片间隙
+blade connector   &&   舌形电气接头
+blade edge radius   &&   刀尖圆角半径
+blade force   &&   叶片力
+blade geometry   &&   叶片几何
+blade incidence   &&   叶片倾角
+blade latch   &&   (隔离)开关保险销，闸刀保险销
+blade letter   &&   刀尖凸角代号
+blade life   &&   刀尖寿命
+blade loss   &&   叶片损失
+blade pitch   &&   叶片间距
+blade point width   &&   刀顶宽
+blade profile   &&   叶型
+blade row   &&   叶列，叶栅
+blade setting   &&   装定叶片角，叶片位置调定
+blade shape construction   &&   叶片造型
+blade type connector   &&   刀形接头
+blade vibration   &&   叶片振动
+bladed structure   &&   叶状组织
+blades   &&   刀片
+blades saw   &&   锯片
+blanch   &&   ①漂白，变白②镀锡
+blanching   &&   ①镀锡，漂白②使白
+bland position   &&   毛坯位置
+bland test   &&   空白试验
+blank   &&   ①毛坯，坯料，坯锭，半成品②下料，落料③假，伪，空白④轮坯，齿轮轮坯，轮坯冲裁
+blank and waste sheet NO.   &&   空白与作废单号
+blank assay   &&   空白试验
+blank carburizing   &&   伪渗碳
+blank card   &&   空白卡片，空插件
+blank character   &&   空白字符，间隔符号
+blank common   &&   空白公用区
+blank common data block   &&   空白公用数据块
+blank determination   &&   空白试验
+blank dimension   &&   毛坯尺寸
+blank field descriptor   &&   空白字段说明符
+blank flange   &&   盲法兰，无孔凸缘
+blank form   &&   空白表格，空白格式
+blank groove   &&   哑槽，哑纹，未调纹
+blank holder   &&   防皱压板
+blank instruction   &&   空指令，转移指令
+blank label   &&   空白标号
+blank line   &&   空白行
+blank matrix element   &&   空白矩阵元素
+blank medium   &&   空白媒体
+blank nitriding   &&   伪渗氮
+blank offset   &&   毛坯偏置距
+blank out   &&   使熄灭，使无效，作废
+blank paper tape coil   &&   空白纸带卷
+blank plug   &&   暗栓、暗塞
+blank signal   &&   间隔信号，空白信号，空白电码
+blank symbol   &&   空白符号
+blank test   &&   空白试验，空试车
+blank through dies   &&   漏件式落料模
+blank-off   &&   ①熄灭，断开，空白②盖上，遮盖
+blanker   &&   消隐装置，熄灭装置
+blanket   &&   ①覆盖层②毯子③壳层，外壳，套④再生区
+blanket assembly   &&   再生区组件
+blanket experiment   &&   “空转”试验，检验试验
+blanket gas   &&   保护气体
+blanket of uranium   &&   铀再生区
+blanket power   &&   再生区功率
+blanket thermal insulation   &&   绝热镀层，绝热涂层
+blanket-material exposure   &&   再生区材料照射
+blanketing effect   &&   覆盖效应
+blanketing frequency   &&   抑止频率
+blanking   &&   ①切断，冲割②下料，落料模③断路，断开，熄灭，淬熄
+blanking clearance   &&   下料间隙，冲裁间隙
+blanking die   &&   冲裁模，落料凹模，下料模，落料冲头
+blanking level   &&   熄灭电平
+blanking tube   &&   截止管，匿影管
+blanking voltage   &&   截止电压，匿影电压
+blast   &&   ①鼓风，送风②喷净法③爆炸④一阵(风)
+blast air   &&   鼓风，鼓入空气
+blast blower   &&   鼓风机
+blast box   &&   风箱
+blast burner   &&   喷灯
+blast capacity   &&   鼓风能力
+blast cement   &&   高炉渣水泥
+blast chamber   &&   鼓风室，燃烧室
+blast cleaning   &&   喷砂清洗，喷吹清洗
+blast compaction   &&   爆炸加固
+blast consumption   &&   耗风量
+blast conveyer   &&   气流式输送机
+blast cupola   &&   化铁炉，冲天炉
+blast cupola furnace   &&   鼓风化铁炉
+blast damper   &&   爆炸减震器
+blast draft   &&   压力通风
+blast drilling   &&   爆炸钻进
+blast engine   &&   鼓风机
+blast fan   &&   风扇，鼓风机，通风机
+blast furnace   &&   高炉，鼓风炉
+blast furnace coke   &&   冶金焦
+blast furnace ironmaking   &&   高炉炼铁
+blast furnace mixer   &&   混铁炉
+blast furnace process   &&   高炉冶炼
+blast gun   &&   ①吹嘴②喷枪
+blast injury   &&   爆炸伤
+blast intensity   &&   鼓风强度
+blast main   &&   总风管
+blast nozzle   &&   风嘴，喷砂嘴
+blast orifice   &&   鼓风口
+blast pressure   &&   (鼓)风压，爆炸压力
+blast quenching   &&   吹风淬火
+blast roasting   &&   鼓风焙烧
+blast tuyere   &&   风口
+blast wave   &&   冲击波
+blast-cool   &&   吹冷，鼓风冷却
+blast-furnace air   &&   鼓风炉鼓风，高炉鼓风
+blast-furnace cast iron   &&   高炉铸造生铁
+blast-furnace casting   &&   高炉出铁
+blast-furnace foamed slag   &&   鼓风炉泡沫渣
+blast-furnace gas   &&   鼓风炉炉气，高炉煤气
+blast-furnace hot blast stove   &&   高炉热风炉
+blast-furnace melting operation   &&   鼓风炉熔炼操作
+blast-furnace slag   &&   鼓风炉炉渣，高炉炉渣
+blast-furnace slag cement   &&   高炉炉渣水泥，矿渣硅酸盐水泥
+blast-furnace smelting   &&   高炉熔炼，鼓风炉熔炼
+blast-furnace tapping   &&   高炉出铁
+blast-furnace treatment   &&   鼓风炉熔炼
+blast-heating cupola   &&   热风冲天炉
+blast-proof   &&   防爆的
+blastability   &&   可爆性
+blaster   &&   ①爆破装置，起爆器②喷砂装置，喷丸装置
+blasting   &&   ①喷砂法，喷吹②鼓风③爆炸
+blasting accident   &&   爆破事故
+blasting agent   &&   爆炸剂，炸药
+blasting cap   &&   雷管
+blasting detonator   &&   爆破雷管
+blasting oil   &&   硝化甘油
+blasting process   &&   喷丸处理
+blasting shot   &&   喷丸
+blasting technique   &&   爆破技术
+blattnerphone   &&   磁带录音机，钢丝录音机
+blaze   &&   ①火烟②燃发③激发
+blazed grating   &&   闪耀光栅，定向光栅
+blazed pig iron   &&   闪光生铁
+blazing off   &&   回火
+bleaching machine   &&   漂白机
+bleb   &&   ①削弱的，减轻的②减薄的③气泡，泡
+bleb ingot   &&   有泡钢锭
+bleed   &&   ①放气，放水②放水阀③渗出，流出④冒油，泛油
+bleed screw   &&   放泄螺钉
+bleed valve cam housing   &&   凸轮室通气阀
+bleed valve crankcase   &&   曲轴箱通气阀
+bleeder   &&   ①抬箱跑火，缺肉②泄放器③输气管放水阀
+bleeder circuit   &&   ①分压电路②泄放电路
+bleeder cock   &&   放水龙头
+bleeder gas   &&   放气
+bleeder hole   &&   通风孔，气孔
+bleeder plug   &&   放泄塞，放油塞
+bleeder resistor   &&   泄漏电阻器，分泄电阻器
+bleeder turbine   &&   抽汽式汽轮机
+bleeder valve   &&   吸出阀，排泄阀，抽气阀
+bleeder with dust cap   &&   排气塞(带防尘帽)
+bleeding   &&   ①分级加热法②放出，渗出，漏出③回涨，色料扩散
+bleeding hose   &&   排汽管
+bleeding off   &&   放出
+bleeding slush casting   &&   凝壳铸造
+blemish   &&   ①缺陷，斑点，疵点，缺点，污点②次品
+blend   &&   ①混合物，混合料②混合，调合，配料，共混③混合晶，混纺产品
+blendability   &&   可混合性，可搀和性
+blende   &&   闪锌矿
+blended fuel   &&   混合燃料
+blended moulding sand   &&   搀和型砂
+blended oil   &&   复合油
+blended stock   &&   混合原料，混合料
+blender   &&   混合器，搅拌器，搀和器
+blending   &&   搀和，混合，共混
+blending machine   &&   搅拌机．拌和机
+blind coal   &&   ①无烟煤②天然焦
+blind end   &&   封闭端
+blind hole   &&   盲孔
+blind landing radar   &&   盲目着陆雷达
+blind riser   &&   暗冒口
+blind roaster   &&   马福炉，套炉
+blind scab   &&   起痂
+blind shaft   &&   暗井
+blind spot   &&   静区，盲点
+blind zone   &&   盲点
+blinding   &&   堵塞，挡住
+blink   &&   缩陷
+blink comparator   &&   闪视比较仪
+blinker lamp   &&   闪光信号灯
+blinking signal   &&   闪光信号
+blip   &&   标志，记号，尖头信号
+blip mode   &&   点标记模式 点记模式
+blister   &&   ①气泡②泡痂，发泡，起泡，使…起泡③砂眼
+blister annealing test   &&   起泡退火试验
+blister bar   &&   泡钢条
+blister by air   &&   气泡
+blister copoer   &&   粗铜
+blister corrosion   &&   起泡腐蚀
+blister steel   &&   泡沫钢，泡钢，浸碳钢
+blister test   &&   起泡试验
+blistered casting   &&   多孔铸件
+blistering   &&   ①起泡，发泡②形成铸孔
+blistering attack   &&   起泡型侵蚀
+blistery glass   &&   有气泡的玻璃
+bloat   &&   ①发眼，鼓出②熏制③肿胀
+bloated brick   &&   面包砖
+bloating   &&   起泡，发胀，鼓出
+block   &&   ①块，块体②字块，图块，字组③均温块
+block access   &&   成组存取，程序块访问，块存取
+block address   &&   程序块地址
+block adjustment   &&   区域网平差测量法
+block and tackle   &&   滑轮组，滑车组
+block angular systems   &&   方块角系统
+block assembly   &&   ①分组装配作业②分段汇编
+block board   &&   胶合夹心板
+block cancel character   &&   信号组作废符号
+block capacitor   &&   隔直流电容器，阻塞电容器
+block chain   &&   块环链
+block chaining   &&   分组连接，块链接
+block check   &&   块检验
+block cipher   &&   分组密码
+block code   &&   分组码，信息组代码，块码
+block coefficient   &&   填充系数
+block condenser   &&   隔直流电容器，阻塞电容器
+block constant   &&   字组特性常数
+block construction   &&   大型块构造，大板结构
+block contact   &&   闭塞触点，联锁触点
+block control   &&   成批控制
+block copolymer   &&   嵌段共聚物，成块共聚物
+block copolymerization   &&   镶嵌共聚合
+block curve   &&   实线曲线，连续曲线
+block data   &&   数据块，块数据
+block data subprogram   &&   数据块子程序
+block definition   &&   块定义 图块定义
+block design   &&   区组设计
+block diagonal matrix   &&   分块对角矩阵
+block diagram   &&   ①框图，方块图，方框图②原理图③示意流程图
+block diagram of system   &&   系统组成框图
+block diode   &&   阻塞二极管
+block encoding   &&   分组编码
+block equipment   &&   闭塞设备
+block error rate   &&   信息组差错率，块错误率
+block factor   &&   分组因子
+block ferrite   &&   不均质铁素体，破碎状铁素体
+block gauge   &&   量块，块规
+block glass   &&   玻璃块
+block graph   &&   块图，框图
+block graphite   &&   块状石墨
+block grease   &&   块状润滑油
+block head   &&   分程序部首，程序块首部
+block header   &&   块头
+block ignore character   &&   信号组作废符号
+block interlacing   &&   分组交错
+block iterative methods   &&   块迭代方法，成组迭代法
+block journal   &&   止推轴颈，有环轴颈
+block length   &&   分组长，字长，组长，分程序的长度，块长，字块长度
+block mica   &&   块云母，云母块
+block mould   &&   整体铸型
+block mould process   &&   整体熔模铸造
+block multiplexer channel   &&   数组多路通道
+block multiplication of matrices   &&   矩阵分块乘法
+block number   &&   成线传达号，区组数
+block polymer   &&   嵌段聚合物
+block polymerization   &&   嵌段聚合
+block power plant   &&   河床式水电站
+block reference   &&   块参照 图块参考
+block scheme   &&   方框图
+block search   &&   分批搜索，分块查找，分块检索
+block search technique   &&   分批搜索法
+block separation of system   &&   系统分片，系统分组
+block signal   &&   闭塞信号
+block structure   &&   块式结构，结构块
+block supply   &&   区域供电
+block system   &&   框图系统
+block table   &&   块表 图块表格
+block terminal   &&   分线盒，配电盒，配电箱，端子排
+block thermal insulation   &&   绝热板
+block tin   &&   锡块，锡锭
+block transfer   &&   信息组传送，整块转移，块传递
+block triangular   &&   区三角
+block-diagram language   &&   框图语言
+block-diagram system   &&   框图系统
+block-signal system   &&   闭锁信号系统，阻塞信号系统
+block-tridiagonal matrix   &&   块三角阵
+blockade and embargo   &&   封锁及禁运
+blockage   &&   阻塞
+blockage correction   &&   阻塞修正
+blocked   &&   ①闭锁的，闭塞的，阻碍不通的②用型模成型
+blocked byte   &&   分组字节
+blocked elastic deformation   &&   受阻弹性形变
+blocked file   &&   成块文件
+blocked heat   &&   止碳，中止氧化
+blocked job   &&   分块作业
+blocked level access   &&   分块级存取
+blocked particle   &&   闭锁粒子
+blocked record   &&   成块记录，快式记录
+blocked rotor test   &&   转子止转试验，堵转子试验
+blocked voltage   &&   闭锁电压
+blocker synchronizer   &&   带摩擦环的同步器
+blockette   &&   小程序块，分区块，数字组，子群，子块
+blocking   &&   ①开坯，粗孔②止碳③粗型锻，粗锻模④结块⑤闭塞⑥堵口⑦保护，封端
+blocking capacitor   &&   ①隔直流电容器②级间耦合电容器
+blocking condenser   &&   ①隔直流电容器②过渡冷凝器
+blocking device   &&   闭锁装置
+blocking effect   &&   阻塞效应，封闭效应
+blocking element   &&   闭锁组件
+blocking group   &&   保护基团
+blocking interval   &&   闭锁期间，关断期间
+blocking layer   &&   阻挡层，闭锁层
+blocking layer rectifier   &&   阻挡层整流器
+blocking level   &&   阻塞电平
+blocking mechanism   &&   闭锁机件
+blocking nut   &&   防松螺母，锁紧螺母
+blocking of files   &&   文件分块
+blocking oscillator   &&   间歇振荡器，阻塞振荡器
+blocking period   &&   闭锁期，阻塞周期
+blocking process   &&   分块过程
+blocking relay   &&   闭锁继电器，联锁继电器
+blocking state   &&   闭锁状态，关断状态，阻断状态
+blocking switch   &&   阻断开关
+blocking time   &&   阻塞时间，截止时间
+blocking tube oscillator   &&   电子管间歇振荡管
+blocking voltage   &&   阻塞电压
+blockmark   &&   块标志
+blood PH sensor   &&   血液PH传感器
+blood PH transducer   &&   血液PH传感器
+blood calcium ion sensor   &&   血钙传感器
+blood calcium ion transducer   &&   血钙传感器
+blood carbon dioxide sensor   &&   血液二氧化碳传感器
+blood carbon dioxide transducer   &&   血液二氧化碳传感器
+blood chlorin ion sensor   &&   血氯传感器
+blood chlorin ion transducer   &&   血氯传感器
+blood electrolyte sensor   &&   血液电解质传感器
+blood electrolyte transducer   &&   血液电解质传感器
+blood flow sensor   &&   血流传感器
+blood flow transducer   &&   血流传感器
+blood gas sensor   &&   血气传感器
+blood gas transducer   &&   血气传感器
+blood oxygen sensor   &&   血氧传感器
+blood oxygen transducer   &&   血氧传感器
+blood potassium ion sensor   &&   血钾传感器
+blood potassium ion transducer   &&   血钾传感器
+blood sodium ion sensor   &&   血钠传感器
+blood sodium ion transducer   &&   血钠传感器
+blood-group immune sensor   &&   免疫血型传感器
+blood-group immune transducer   &&   免疫血型传感器
+blood-pressure sensor   &&   血压传感器
+blood-pressure transducer   &&   血压传感器
+blood-volume sensor   &&   血容量传感器
+blood-volume transducer   &&   血容量传感器
+bloom   &&   ①光圈，晕②图像发晕，图像浮散③喷霜，喷出
+bloom iron   &&   铁锭
+bloom slab   &&   扁钢坯
+bloom-heating furnace   &&   初轧坯加热炉
+bloomery iron   &&   熟铁块
+blooming   &&   ①初轧，开坯②敷霜③起霜，白化⑤模糊现象
+blooming lens   &&   敷霜透镜
+blooming machine   &&   初轧机，开坯机
+blooming mill   &&   初轧机，钢坯延压机，开坯机
+blow   &&   ①吹风，鼓风②吹炼③爆发
+blow cold   &&   鼓风，冷吹
+blow down   &&   风倒，熔化，扰动，泄料，放空，排污
+blow engine   &&   鼓风机
+blow gun   &&   ①吹嘴②喷枪
+blow hole   &&   破孔
+blow hole segregation   &&   气泡偏析
+blow lamp   &&   喷灯
+blow molder   &&   吹塑机
+blow molding   &&   吹塑
+blow moulding   &&   吹塑(法)，吹胀模型
+blow nozzle   &&   空气喷嘴
+blow off nozzle   &&   断火吹嘴
+blow stress   &&   冲应力
+blow through   &&   鼓风，吹炼
+blow torch   &&   喷灯
+blow-back   &&   回流
+blow-by   &&   漏气
+blow-cock   &&   排气栓，泄放旋塞
+blow-die operation   &&   吹模法
+blow-down   &&   ①排气，去压，放空②停炉
+blow-down valve   &&   放泄阀
+blow-hot press shell moulding machine   &&   吹热压壳型机
+blow-off   &&   ①吹熄，吹出，喷射，放气②排量，排污
+blow-off limit   &&   吹熄极限
+blow-off pipe   &&   排出管，废气管，排气管
+blow-off valve   &&   排汽阀，吹排阀，排污阀
+blow-off velocity   &&   吹熄速度
+blow-out   &&   ①漏壳，跑火②停风③爆裂④吹出⑤爆胎
+blow-through passage   &&   直吹风道
+blow-through turbocharger   &&   直吹增压器
+blow-up   &&   鼓涨，发泡，爆破
+blowability   &&   吹成性
+blowdown   &&   排放
+blower   &&   ①鼓风机，吹风机②增压器③吹心机④喷射机
+blower AC system   &&   空调用鼓风机
+blower device   &&   鼓风装置
+blower fan   &&   ①离心式鼓风机②通风机
+blower heating system   &&   暖风用鼓风机
+blower housing   &&   鼓风机护罩
+blower pressure   &&   鼓风机风压
+blowhole   &&   缩孔，气泡，气孔，气眼
+blowing   &&   ①吹炼②吹③吹心
+blowing agent   &&   发泡剂，生气剂，起泡剂
+blowing blister   &&   起泡
+blowing in   &&   开炉
+blowing machine   &&   吹制机，鼓风机
+blowing method   &&   吹制法
+blowing mould   &&   吹(塑)模
+blowing out   &&   ①熄灭，吹灭，停炉②停风③熔断
+blowing period   &&   吹炼期，吹风期
+blowing rate button   &&   风量旋钮
+blowing-current   &&   熔断电流
+blowing-out of arc   &&   熄弧，电弧吹熄
+blown   &&   ①已增压②故障
+blown casting   &&   气孔铸件
+blown film   &&   吹塑薄膜
+blown flap   &&   吹气襟翼
+blown fuse indicator   &&   保险丝熔断指示器
+blown ingot   &&   气泡钢锭
+blown iron   &&   吹炼过的铁
+blown joint   &&   吹接
+blown metal   &&   吹炼金属
+blown oil   &&   氧化油，吹制油，气吹油
+blown petroleum   &&   氧化残渣油，氧化沥青
+blown sand   &&   吹砂
+blown-out concrete   &&   充气混凝土，多孔混凝土
+blowout   &&   井喷
+blowout coil   &&   消弧线圈，灭弧线圈
+blowout current   &&   熔断电流，遮断电流
+blowout magnet   &&   灭弧磁铁
+blowpipe   &&   ①喷焊器②吹砂管③吹管
+blowpipe analysis   &&   吹管分析
+blowpipe assay   &&   吹管试金
+blue   &&   蓝色
+blue annealed wire   &&   发蓝钢丝
+blue annealing   &&   低温退火，蓝回火
+blue brittle   &&   蓝脆(性)的
+blue-finished   &&   蓝色回火的
+blue brittleness   &&   蓝脆(性)
+blue gas   &&   水煤气
+blue glass   &&   蓝色玻璃
+blue glow   &&   蓝辉光
+blue gold   &&   蓝金，金铁合金(Pe 25％～33.3％)
+blue heat range   &&   热脆温度范围
+blue heat working   &&   低温热加工，温热塑性加工法
+blue heating   &&   温热，蓝热
+blue lead   &&   蓝铅，碱式硫酸铅
+blue lias line   &&   蓝色水泥石灰
+blue magnetism   &&   南极磁性
+blue metal   &&   蓝铜锍(约Cu 62％)
+blue oil   &&   ①蓝油②滤过的石蜡油馏出物
+blue planished steel   &&   发蓝薄钢板
+blue powder   &&   蓝(锌)粉
+blue print   &&   蓝图
+blue print paper   &&   蓝图纸，晒图纸
+blue sheet   &&   蓝钢板，发蓝处理薄钢板
+blue shortness   &&   蓝脆性，青熟脆性
+blue steel   &&   蓝钢
+blue temperature working   &&   低温热加工，温热塑性加工
+blue water gas   &&   蓝水煤气
+blue wavelength   &&   蓝光
+blue-red filter   &&   蓝-红滤光体
+blue-red ratio   &&   蓝-红比(率)
+blue-ribbon program   &&   无错程序，一次通过程序
+blue-sensitive cell   &&   蓝敏电池
+blueing   &&   发蓝处理
+blueing furnace   &&   发蓝炉
+blueing salt   &&   发蓝盐
+blueing treatment   &&   发蓝处理
+bluff body   &&   阻流体，钝体
+bluing   &&   ①蓝化，烧蓝，涂蓝②着色③模温过高引起的绿色氧化膜
+blunder   &&   ①故障，误差②失策
+blunt angle   &&   钝角
+blurring   &&   模糊，混乱，斑点多
+blush   &&   导色
+blushing   &&   ①变红，褪色②混浊膜③混浊化
+bmpout   &&   BMP输出， BMP汇出
+board   &&   ①板，木板，甲板②配电盘，操纵台②转换器，交换台
+board fade   &&   图像逐渐消失
+board thermal insulation   &&   绝热板
+boarded parquetry   &&   木板嵌镶
+boarding   &&   安装木板，起纹
+boart   &&   金钢石砂
+boast charge   &&   快速充电
+boaster amplifier   &&   升压放大器，辅助放大器
+boat   &&   小艇
+boat tail   &&   船尾
+bob   &&   ①测锤②暗冒口③浮子
+bob brass   &&   垂铊黄铜(Cu 54％，Zn 40％，Pb 5％，Al1％)
+bob tail   &&   拖车
+bobbin   &&   ①线圈，绕线架，绕线管，点火线圈②胚体(干电池)
+bobbin core   &&   带绕磁心bobbin oil   &&   锭子油
+bobbin winding   &&   圆筒式绕组
+bobweight   &&   反重，平衡锤，平衡重
+bodied oil   &&   厚质油，聚合油
+body   &&   ①身，体，物体②壳体③稠度，稠化④坯体，罐体，车身
+body assembly   &&   车身总成
+body brick   &&   炉体砖
+body case   &&   壳体，外壳
+body charge   &&   体电荷
+body combination switch   &&   组合开关座体
+body core   &&   主心
+body design   &&   车身设计
+body fluid   &&   体液
+body guidance mechanism   &&   刚体导引机构
+body guides   &&   货箱导槽
+body leakage   &&   ①机壳漏电②管身漏电
+body of rotation   &&   旋转体
+body plan   &&   正面图，横剖型线图
+body scab   &&   气疤
+body shell   &&   车身壳体组装好的壳体
+body stress   &&   内应力，体应力
+body temperature   &&   物体温度
+body temperature transducer   &&   体温传感器
+body weight   &&   体重
+body wrinkle   &&   侧壁皱纹
+body-centred   &&   体心的
+body-centred cell   &&   体心晶胞
+body-centred cube   &&   体心立方(体)
+body-centred cubic   &&   ①体心立方体的②体心立方晶格(的)
+body-centred cubic crystal   &&   体心立方晶体
+body-centred cubic lattice   &&   体心立方点阵，体心立方晶格
+body-centred cubic space lattice   &&   体心立方空间点阵，体心立方空间晶格
+body-centred cubic structure   &&   体心立方结构
+body-centred ferrite   &&   体心铁素体
+body-centred lattice   &&   体心点阵，体心晶格
+body-centred orthogonal structure   &&   体心正交结构
+body-centred rectangular   &&   体心矩形(的)
+body-centred rhombic lattice   &&   体心菱形点阵，体心菱形晶格
+body-centred tetragonal lattice   &&   体心立方点阵，体心立方晶格
+body-centred tetragonal structure   &&   体心正方结构
+body-in-white   &&   白车身
+body-mounted array   &&   壳体方阵
+body-number   &&   车身号码
+bodying of oil   &&   油引(发)聚合，油的聚合
+bodywork   &&   车身结构
+bogey   &&   底架
+boghead   &&   藻煤，深褐色烛煤，烟煤
+boghead coal   &&   藻煤，深褐色烛煤，烟煤
+bogie   &&   底架
+bogie spread   &&   底架轴距
+bogie-hearth furnace   &&   车底式炉，台车式炉，活动炉底炉
+bogie-type drying oven   &&   台车式烘炉
+boil   &&   ①沸腾②隐匿气泡，细气体，起泡，生瘤③煮
+boil-off   &&   ①蒸发，汽化②蒸发损耗
+boiler   &&   锅炉
+boiler alarm   &&   锅炉最低水位报警器，缺水报警器
+boiler blow-off   &&   锅炉排污
+boiler breakdown   &&   锅炉事故
+boiler chemical cleaning   &&   锅炉化学清洗
+boiler clinker removal   &&   锅炉除焦
+boiler combustion   &&   锅炉燃烧
+boiler compound   &&   锅炉防垢剂，锅炉防锈剂，锅炉清洁剂
+boiler explosion accident   &&   锅炉爆炸事故
+boiler feed pump   &&   锅炉给水泵
+boiler feed water   &&   锅炉用水
+boiler horse power   &&   锅炉马力(锅炉蒸发量单位，等于15.61公斤/小时)
+boiler hot start-up   &&   锅炉热态启动
+boiler hydrodynamics   &&   锅炉水动力
+boiler improvement   &&   锅炉改造
+boiler iron plate   &&   锅炉铁板，锅炉钢
+boiler maintenance   &&   锅炉保养
+boiler oil   &&   重油，燃料油
+boiler operation   &&   锅炉运行
+boiler plate   &&   锅炉钢板
+boiler plug alloy   &&   锅炉塞合金，易熔合金
+boiler pressure   &&   锅炉压力
+boiler scale   &&   锅垢
+boiler shut-down   &&   发电停炉
+boiler steel   &&   锅炉钢
+boiler supervision   &&   锅炉监督
+boiler tube   &&   锅炉管
+boiler tube expander   &&   胀管器
+boiler tube expanding   &&   胀管
+boiler up-keep   &&   机炉协调控制
+boiler wall   &&   炉墙
+boiler water   &&   锅炉水
+boiler water conditioning   &&   锅内水处理
+boiler water treatment   &&   炉水处理
+boiler-tube failure   &&   炉管故障
+boiler-turbine automatic start and stop   &&   锅炉涡轮机自动启停
+boiling   &&   ①沸腾②喷渣③喷溅
+boiling and cooling process   &&   热冷槽法
+boiling heavy water cool mode   &&   沸腾重水冷却慢化堆
+boiling nucleate superheater reactor   &&   沸腾核过热堆
+boiling period   &&   沸腾期
+boiling point   &&   沸点
+boiling point elevation   &&   沸点升高
+boiling point-viscosity constant   &&   沸点-黏度常数
+boiling range   &&   沸腾范围，沸程
+boiling reactor   &&   沸腾反应堆，沸水堆
+boiling stage   &&   沸腾期
+boiling steel   &&   沸腾钢
+boiling temperature   &&   沸点
+boiling water cooled and moder   &&   沸水冷却与慢化堆
+boiling water reactor   &&   沸水反应堆
+boiling water test   &&   (耐)沸水试验
+boiling-out   &&   脱浆，脱胶
+bold line   &&   粗线
+bole   &&   黏土，红玄武土
+bologram   &&   测辐射热记录图，红外线谱
+bolograph   &&   ①辐射热测定仪②辐射热测定仪记录
+bolometer   &&   ①辐射热计，热副射仪②测辐射热器，辐射热测量计
+bolometer bridge   &&   辐射计电桥
+bolometer flux meter   &&   辐射热通量测量计
+bolometers   &&   辐射热测定器
+bolometric instrument   &&   辐射热测试器
+bolster   &&   ①软木，垫木，支持物，支承物②上下模板，垫板，模座③横梁
+bolt   &&   ①螺栓②栓③短圆材
+bolt bar   &&   插销，驻栓
+bolt clippers   &&   断线钳
+bolt die   &&   板牙，螺栓镦制模
+bolt fastening   &&   螺栓连接
+bolt flanged shaft   &&   凸缘轴螺栓
+bolt of hexagon scoket head   &&   内六角螺栓
+bolt stock   &&   螺栓料
+bolt wire   &&   螺栓钢条
+bolt with stop   &&   止动螺栓
+bolted flange   &&   螺栓连接法兰
+bolted joint   &&   螺栓结点，螺拴结合
+bolted moulding box   &&   组合砂箱
+bolted three-phase fault   &&   金属性三相短路故障
+bolted-on connection   &&   螺栓连接
+bolter   &&   ①筛②分离筛③筛选机
+bolting steel   &&   螺栓钢
+boltonite refractory   &&   镁橄榄石耐火材料
+bolts   &&   螺栓，轮坯
+bolts screws   &&   螺栓，螺帽及螺丝
+bolus   &&   红玄武土，胶块土，陶土
+bolus material   &&   填垫材料
+bomb   &&   ①还原钢弹②燃烧弹③弹④钢瓶⑤气弹
+bomb calorimeter   &&   弹式量热计
+bomb head tray   &&   弹头托盘
+bombard   &&   轰击，冲击，轰炸
+bombarding beam   &&   轰击束
+bombarding electron beam   &&   电子束轰击，照射电子束
+bombarding particle   &&   冲击粒子
+bombardment   &&   ①轰击，冲击，撞击②照射，辐射，曝光
+bombardment damage   &&   照射损伤，撞击损伤
+bombardment effect   &&   轰击效应
+bombardment energy   &&   轰击能量
+bombardment-induced conductivity   &&   由电子轰击引致的电导
+bomber   &&   轰炸机，投弹手
+bomber aircraft   &&   轰炸机
+bond   &&   ①键②键合，焊接③黏合剂，黏结料④接头⑤黏结强度
+bond angle   &&   键角
+bond bending   &&   键弯曲
+bond cleavage   &&   键断裂
+bond coat   &&   黏合层，打底胶浆，初层
+bond dissociation energy   &&   键离解能
+bond distance   &&   键长
+bond energy   &&   键能，结合能
+bond energy-bond order method   &&   键能-键序法
+bond enthalpy   &&   键焓
+bond failure   &&   结合损坏
+bond fireclay   &&   黏结性耐火黏土
+bond graph   &&   键合图
+bond length   &&   键长
+bond model   &&   键模型
+bond parameter   &&   键参数
+bond rupture   &&   键断裂
+bond strength   &&   ①黏着强度，黏结强度②握筋强度
+bond stress   &&   结合应力，黏着应力
+bond type diode   &&   链型二极管，键合二极管
+bond wire   &&   接续线，接合线，焊线
+bond-contact board   &&   焊接板
+bondability   &&   结合能力
+bondage   &&   束缚，约束
+bondage occurrence   &&   约束出现
+bonded flux   &&   黏结焊剂
+bonded fuel element   &&   结合型燃料组件
+bonded joint   &&   黏接接头，胶接
+bonded refractory   &&   结合耐火材料
+bonded strain gauge   &&   粘贴式应变计
+bonded-type fuel   &&   有黏结层燃料块
+bonder   &&   ①黏合机，接合器②黏合剂，黏着剂
+bonderized steel sheet   &&   邦德防蚀钢板
+bonderizing   &&   磷酸盐皮膜处理，涂磷处理
+bonderizing process   &&   磷化处理，草酸盐处理
+bonding   &&   ①成键②结合③黏合④焊接
+bonding agent   &&   ①黏合剂②键合剂
+bonding agent for electrical purposes   &&   电工胶黏剂
+bonding clay   &&   ①接合黏土②造型黏土
+bonding electron   &&   成键电子
+bonding material   &&   黏结材料
+bonding media   &&   黏结剂
+bonding orbital   &&   成键轨道
+bonding property   &&   黏合性能
+bonding sand   &&   肥砂
+bonding state   &&   键成态
+bonding strength   &&   ①结合强度，黏合强度②亲和力，结合力
+bonding substance   &&   黏结剂
+bonding technology   &&   键合工艺
+bonding temperature   &&   黏接温度
+bonnet   &&   ①阀帽，盖，机罩，枢帽，烟囱罩②加罩③上阀盖④发动机罩
+bonneted   &&   发动机前置的
+bonus loader   &&   车载起重设备
+bony coal   &&   黑灰煤，骨煤
+book condenser   &&   书形微调电容器
+book mica   &&   书状云母
+book mould   &&   ①铰接式铸型②铰接式金属型
+book test   &&   弯合试验
+book-type casting machine   &&   折页式金属型铸造机
+booking   &&   叠箱造型法
+booking time   &&   挂号时间
+boolean   &&   布尔
+boolean OR   &&   逻辑或，布尔或
+boolean add   &&   逻辑加，布尔加
+boolean algebra   &&   布尔代数
+boolean complementation   &&   逻辑求反，布尔求反，“非”
+boolean computer   &&   布尔计算机
+boolean consensus   &&   布尔一致
+boolean constant   &&   布尔常数
+boolean equation   &&   布尔方程
+boolean expression   &&   布尔表达式
+boolean field   &&   布尔域boolean function   &&   布尔函数
+boolean lattice   &&   布尔格
+boolean matrix   &&   布尔矩阵
+boolean method   &&   布尔法
+boolean operation   &&   布尔运算 布尔运算
+boolean ring   &&   布尔环
+boolean variable   &&   布尔变量，布尔向量
+boolean-valued model   &&   布尔值模型
+boom   &&   ①横梁，吊杆，起重杆②转臂，动臂③隆隆声
+boom crane   &&   吊杆起重机
+boomerang grab   &&   自返式取样器
+boomerang gravity corer   &&   自返式深海取样管
+booming   &&   ①横梁，吊杆，起重杆②转臂，动臂③隆隆声
+boost   &&   ①加强，增加②提高，升高③增(加电)压④推进，加速⑤增加的量
+boost brake   &&   辅助制动器
+boost control   &&   增压调节，增压控制
+boost gage   &&   增压压力表
+boost gauge   &&   增压压力表
+boost productivity   &&   提高生产率
+boost start   &&   外电源起动
+boost voltage   &&   ①辅助电压，附加电压②增高电压，升压
+booster   &&   ①增强器，升压机②助促进剂③传爆药，爆管
+booster blower   &&   升压鼓风机
+booster charge   &&   补充电压，再充电
+booster coil   &&   升压线圈提高发动机点火电压的辅助线圈.
+booster compressor   &&   辅助压缩机，循环压缩机，增压压缩机
+booster diode   &&   升压二极管
+booster engine   &&   加速发动机，助推发动机
+booster gas turbine   &&   加速燃汽轮机，加力燃汽轮机
+booster nozzle   &&   助推器嘴管
+booster pump   &&   升压泵
+booster rocket   &&   助推火箭
+booster station   &&   ①辅助电台②接力电台
+booster telephone circuit   &&   电话增音电路
+booster thermocouple   &&   均衡热电偶
+booster transformer   &&   增压变压器，升压变压器
+booster venture components primary barrel   &&   主腔小喉管组件
+booster venture components secondary barrel   &&   副腔小喉管组件
+booster venture nozzle primary barrel   &&   主腔小喉管喷嘴
+booster venture nozzle secondary barrel   &&   副腔小喉管喷嘴
+booster venture primary barrel   &&   主腔小喉管
+booster venture secondary barrel   &&   副腔小喉管
+boosting battery   &&   浮充电池，加压电池
+boot   &&   ①绉纹管套②行李舱③保护罩④接受器⑤进料斗
+boot lamp   &&   行李舱灯
+booth   &&   ①小室，棚②通话室，公用电话亭
+bootstrap circuit   &&   自举电路
+bootstrap input program   &&   引导输入程序
+bootstrap sawtooth generator   &&   仿真线路锯齿波振荡器，自举电路锯齿波发生器
+boracite   &&   方硼石
+boral   &&   硼铝合金，碳化硼铝，硼酒石酸铝
+borated coolant   &&   含硼冷却剂
+borated graphite   &&   含硼石墨
+borazon   &&   氮化硼
+border   &&   边，边界
+border evaluation of matrix   &&   矩阵边缘估值
+bordered determinant   &&   加边行列式
+bordered matrix   &&   加边矩阵
+borderline   &&   ①边界，边缘②分界线，轮廓线
+borderline motor fuel   &&   边界马达燃料
+borderline product   &&   副产品
+borderline science   &&   边缘科学
+borderline type   &&   边界类型
+borders   &&   边框 图框
+bore   &&   ①孔，膛②缸径，内径，缸壁③开孔④扩缸
+bore check   &&   精密小测定器
+bore diameter   &&   ①内径②定子内径③搪孔内径
+bore hole lead insulation   &&   空心轴引线绝缘
+bore of liquid-in-glass thermometer   &&   玻璃温度计的内孔
+bore of stator   &&   ①定子内腔②定子内径
+bore sighting test   &&   瞄准线检验
+bore size   &&   内径
+bore stroke ratio   &&   缸径冲程比，内径行程比
+bore-sight   &&   瞄准线，视轴
+bore-sight error   &&   瞄准误差，校准误差
+bore-stroke ratio   &&   缸径行程比
+borehole acoustic television logger   &&   超声电视测井仪
+borehole compensated sonic logger   &&   补偿声波测井仪
+borehole gravimeter   &&   井中重力仪
+borehole gravimetry   &&   井中重力测量
+borehole thermometer   &&   井温仪
+borer   &&   镗床，镗孔床，镗孔刀具，镗工
+borescope   &&   潜望镜，管道(内孔探测)镜
+boride   &&   硼化物
+boride ceramics   &&   硼化物陶瓷
+boride cermet   &&   硼化物金属陶瓷
+boride refractory   &&   硼化物耐火材料
+boride-based cermet   &&   硼化物基金属陶瓷
+boriding   &&   渗硼
+boring   &&   ①镗，镗孔，穿孔②钻探③切屑，镗削
+boring and milling machine   &&   镗铣床
+boring bar   &&   镗杆
+boring cutter   &&   镗刀
+boring fixture   &&   镗孔夹具
+boring head   &&   镗削头
+boring heads   &&   搪孔头
+boring jig   &&   镗孔夹具
+boring machine   &&   ①镗床，钻探机械②镗床，镗孔机
+boring machine cutter   &&   掘进机刀具
+boring machine guide system   &&   掘进机导向装置
+boring machine reamer   &&   掘进机扩孔器
+boring machines   &&   镗床
+boring mill   &&   镗床
+boring rig   &&   钻车，钻探架，钻探设备
+boring rod   &&   镗杆
+boring test   &&   钻孔试验
+boring tool   &&   镗刀
+boring tower   &&   钻架
+borium   &&   硼B(5)
+born silver   &&   角银
+bornite   &&   斑铜矿
+borocalcite   &&   硼钙石
+borocarbon resistor   &&   硼碳电阻器
+borofil   &&   硼纤维
+borohydride fuel   &&   硼氢化物燃料
+borolon   &&   合成氧化铝，人工氧化铝
+boron   &&   硼B(5)
+boron carbide   &&   碳化硼
+boron carbide ceramics   &&   碳化硼陶瓷
+boron carbide fibre   &&   碳化硼纤维
+boron ceramic   &&   硼陶瓷
+boron charging   &&   加硼
+boron compound   &&   硼化合物
+boron diffusion   &&   硼扩散
+boron fibre   &&   硼纤维
+boron fibre reinforced aluminium   &&   硼纤维增强纤维
+boron fibre reinforced composite   &&   硼纤维增强复合材料
+boron fibre reinforced epoxy resin   &&   硼纤维增强环氧树脂
+boron fibre reinforced plastics   &&   硼纤维增强塑料
+boron filament   &&   硼线，硼长丝
+boron group element   &&   硼族元素
+boron heterocycle   &&   硼杂环化合物
+boron heterocyclic compound   &&   硼杂环化合物
+boron intensified steels   &&   硼强化钢
+boron iron   &&   硼铁，硼铁合金
+boron nitride   &&   氮化硼
+boron steel   &&   硼钢，含硼钢
+boron-bearing aggregate   &&   含硼骨料
+boron-coated electrode   &&   涂硼电极
+boron-containing polymer   &&   含硼聚合物
+boron-doped   &&   掺硼
+boron-doping   &&   掺硼
+boron-fibre reinforced structural composite   &&   硼纤维增强复合结构材料
+boron-filtered neutron   &&   硼滤中子
+boron-free alkali-free glass fibre   &&   无硼无碱玻璃纤维
+boron-free coolant   &&   无硼冷却剂
+boron-in-plastic   &&   含硼塑料
+boron-metal composite   &&   硼俭属复合材料
+boron/epoxy composite   &&   硼/环氧复合材料
+boronization   &&   硼化，渗硼
+boronize   &&   硼化，渗硼
+boronized copper   &&   硼化铜
+boronizing   &&   硼化，渗硼
+borosil   &&   硼-硅-铁合金(B 3％～4％，S 40％～50％)
+borosiliconizing   &&   硼硅共渗
+borrow   &&   借位，借入
+borrow generating device   &&   位错发生器
+bort   &&   ①金刚石粒，下等金刚石②金刚石粉
+bosh   &&   ①炉膛②浸冷水槽③浴，锅，槽，桶
+bosh jacket   &&   炉腹罩
+bosh plate   &&   炉腹冷却板
+boshed-in lining   &&   卡腰炉衬
+boshing   &&   浸水冷却，浸冷
+boss   &&   凸起部，轮壳，凸台
+both sideband   &&   双边带
+both way trunk   &&   双向中继线
+both-way junction   &&   双向连接
+bottle   &&   ①瓶，罐，罩②砂箱，外壳，型箱
+bottle coal   &&   气煤，瓦斯煤
+bottle jack   &&   瓶式起重器，瓶式千斤顶
+bottle method   &&   比重瓶法(测比重)
+bottle neck   &&   瓶颈，影响生产流程的因素，喉道
+bottle-shaped slot   &&   瓶形槽
+bottleneck analysis   &&   瓶颈分析，隘路分析，短线分析
+bottleneck effect   &&   瓶颈作用
+bottleneck problem   &&   瓶口问题
+bottleneck process   &&   瓶口过程
+bottler body   &&   运瓶车厢
+bottletop mould   &&   瓶嘴式钢锭模
+bottom   &&   ①底，炉底.残渣②根本的
+bottom angle   &&   齿夹角，底角
+bottom bar   &&   ①下层线棒②下鼠笼条
+bottom block   &&   底座，下垫脚
+bottom blow   &&   底吹
+bottom board   &&   ①浇注底板，底板②地板
+bottom box   &&   下箱
+bottom bracket   &&   下机架(水轮发电机的)
+bottom brick   &&   炉底砖
+bottom casting   &&   下注，底注
+bottom centred-fired pit   &&   中心燃烧式均热炉
+bottom clearance   &&   顶隙
+bottom coal   &&   底层煤
+bottom dead center   &&   下止点 [BDC]
+bottom die   &&   底模
+bottom discharge bucket   &&   底卸式吊桶，底部卸料斗
+bottom door   &&   炉底门
+bottom echo   &&   底面反射波
+bottom end bearing   &&   连杆大头轴承连杆与曲轴相连处的轴承.
+bottom flange   &&   下阀盖
+bottom flash   &&   底部溢边，底部飞边
+bottom gate   &&   底注式浇口
+bottom gating   &&   底注式浇注系统
+bottom gear   &&   最低挡
+bottom iron   &&   底铁
+bottom land   &&   齿槽底面
+bottom of band   &&   能带底
+bottom oil   &&   残油，油脚
+bottom outlet gate   &&   底部放水闸门
+bottom plate   &&   ①底盘，底板②垫板③下托板，下固定板
+bottom pour ladle   &&   底注包
+bottom pouring   &&   底注
+bottom ram   &&   阴膜，下半膜
+bottom roll   &&   下滚筒，底辊
+bottom running   &&   底注(法)
+bottom slot layer   &&   下层绕组
+bottom splash   &&   溅底
+bottom squeeze moulding machine   &&   下压式造型机
+bottom surface   &&   底面
+bottom tap ladle   &&   底注包
+bottom two-way fired pit   &&   炉底双侧烧嘴均热炉
+bottom up   &&   自下而上，颠倒
+bottom view   &&   仰视图，下视景，底视图
+bottom yoke   &&   下轭，下铁轭
+bottom-blowing converter   &&   底吹转炉
+bottom-dump car   &&   底卸车
+bottom-heating furnace   &&   底部加热炉，底燃式炉
+bottom-loading thermobalance   &&   下皿式热天平
+bottom-pour mould   &&   底注(浇)型
+bottoming   &&   ①悬架变形到接触缓冲块②轮胎压偏③汽车底部蹭地
+bottoming effect   &&   真空效应
+bottoms   &&   ①底沉积物②油脚，下脚料
+boucherizing   &&   用硫酸铜浸渍
+bounce characteristic   &&   跳动特性(触点)
+bounce impact elasticity test   &&   抗冲击试验，回弹试验
+bounce impact force   &&   抗冲击力，回弹力
+bounce test   &&   ① 运输试验②弹跳试验③衰减振动试验
+bounce-back   &&   反跳，回跳
+bounce-proof contact   &&   防颤动触点，防跳接点
+bouncing putty   &&   弹性油泥，弹性油灰
+bound   &&   ①界限，边界，边②束缚的③弹起，使跳
+bound charge   &&   束缚电荷
+bound coherent cross-section   &&   束缚原子相干截面
+bound electron   &&   束缚电子
+bound electronic state   &&   束缚态
+bound energy   &&   约束能量，结合能，束缚能，跳动能
+bound exciton   &&   束缚激子
+bound for objective function   &&   目标函数的约束条件
+bound hole   &&   束缚空穴
+bound hydrogen   &&   束缚氢
+bound level   &&   束缚能级
+bound method   &&   界限法
+bound moisture   &&   结合水
+bound nuclear state   &&   束缚核态
+bound nuclei   &&   束缚核
+bound occurrence   &&   约束出现
+bound of performance   &&   性能指标边界
+bound on error   &&   误差限
+bound particle   &&   束缚粒子
+bound pile   &&   带铁箍的桩
+bound problem   &&   限定问题，问题划界
+bound scattering   &&   束缚散射
+bound scattering cross section   &&   束缚散射截面
+bound state   &&   束缚状态
+bound variable   &&   范围变量
+bound vector   &&   有界向量
+bound water   &&   结合水，束缚水
+bound-bound transition   &&   束缚-束缚跃迁
+bound-free transition   &&   束缚-自由跃迁
+boundary   &&   ①边，边界②边际③晶界，界限，界面
+boundary angle   &&   边界角
+boundary collocation   &&   边界配置
+boundary condition   &&   边界条件
+boundary condition for electromagnetic field   &&   电磁场的边界条件
+boundary contraction method   &&   边界收缩方法
+boundary crack   &&   界面开裂
+boundary curve   &&   边界曲线
+boundary dimension   &&   外形尺寸，轮廓尺寸
+boundary displacement   &&   界壁位移，边界位移
+boundary effect   &&   边界效应
+boundary element method   &&   边界元法
+boundary energy   &&   边界能boundary face   &&   边界面
+boundary friction   &&   边界摩擦
+boundary growth   &&   边界增厚，附面增厚
+boundary growth rate   &&   边界生长速率
+boundary layer   &&   界面层，边界层
+boundary layer capacitor   &&   边界层电容器
+boundary layer combustion   &&   边界层燃烧
+boundary layer control   &&   边界层控制
+boundary layer control cascade   &&   控制边界层叶栅
+boundary layer flow   &&   边界层流动
+boundary layer phenomena   &&   边界层现象
+boundary layer separation   &&   边界层分离
+boundary layer stratification   &&   边界层分层
+boundary layer suction   &&   边界层吸附
+boundary layer theory   &&   边界层理论
+boundary layer transition   &&   边界层转换
+boundary line   &&   界线
+boundary lubrication   &&   界面润滑，边缘润滑
+boundary migration   &&   间界移动
+boundary mobility   &&   晶界活动度
+boundary movement   &&   间界移动
+boundary of a set of points   &&   点集边界
+boundary of grain   &&   晶粒间界
+boundary of safe region   &&   安全区域边界
+boundary of set   &&   集合界限
+boundary of useable part   &&   可用部分边界
+boundary optimal constant control   &&   边界最优常数控制
+boundary penetration   &&   边界渗透
+boundary plane   &&   边界面
+boundary point   &&   边界点
+boundary reflectance   &&   界面反射比
+boundary resistance   &&   ①边界电阻②边界阻力
+boundary rule   &&   边界法则
+boundary separation   &&   边界分离，附面分离
+boundary sets   &&   边界集 边界集
+boundary sliding   &&   界面滑移
+boundary strength   &&   界面强度
+boundary stress   &&   边界应力
+boundary structure   &&   界面结构
+boundary surface   &&   边界面
+boundary tearing   &&   界面撕裂
+boundary value   &&   边界值
+boundary value control   &&   边界值控制
+boundary value observer   &&   边值观测
+boundary wavelength   &&   边界波长
+boundary-layer measurement   &&   边界层测量
+boundary-scattering   &&   边界散射
+boundary-value problem   &&   边值问题
+boundary-variable problem   &&   有界变量问题
+bounded above   &&   有上限的，有上界的
+bounded aggregate   &&   有界集
+bounded below   &&   有下限的，有下界的
+bounded convex polyhedron   &&   有界凸多面体
+bounded convex set   &&   有界凸集
+bounded correspondence   &&   有界对应
+bounded difference   &&   有界差
+bounded function   &&   有界函数
+bounded input-bounded output stability   &&   有界输入-有界输出稳定性
+bounded medium   &&   有界介质
+bounded quantity   &&   有界量
+bounded region   &&   有界区域
+bounded sequence   &&   有界序列
+bounded set   &&   有界集
+bounded sum   &&   有界和
+bounded utility   &&   有界效用
+bounded value measure   &&   有界值测度
+bounded variable   &&   有界变量
+bounded variable algorithm   &&   有界变量算法
+bounded variable technique   &&   有界变量法
+bounded variation   &&   有界变分，有界变差
+boundedness   &&   局限性，限度
+bounding   &&   边框，边界框
+bounding line   &&   界线
+bounding medium   &&   黏合介质
+bounding orbital   &&   束缚轨函数
+bounding surface   &&   边界曲面
+boundless   &&   无边际的，无界限的
+bounds   &&   边界，界限，范围
+bounds of interconnection   &&   关联界限
+bourdon gauge   &&   弹簧管压力表
+bourdon pressure sensor   &&   弹簧管压力检测组件
+bourdon tube   &&   弹簧管，波登管
+bourdon tube pressure gauge   &&   弹簧管压力表
+bow   &&   ①弯曲②挠曲③弓④端包架，凹陷⑤集电弓
+bow collector   &&   集电弓，弓形滑接器
+bow compass   &&   外卡钳，小圆规，鸭嘴笔式小圆规
+bow dividers   &&   弹簧两脚规
+bow drill   &&   弓钻，弓形钻bow girder   &&   弓形大梁
+bow trolley   &&   ①集电弓，弓式集电器②集电弓式电车
+bow-shaped   &&   弓形
+bowel   &&   端包，内肠
+bowing   &&   弓形挠曲
+bowl   &&   ①滚球②杯，碗，碗形物③辊筒
+bowl mill   &&   球磨机
+box   &&   ①箱，盒②砂箱③封闭挂车或半挂车
+box annealed   &&   装箱退火的，密闭退火的
+box annealing   &&   装箱退火，密闭退火，箱型退火
+box bar   &&   箱带，箱档
+box batch-type furnace   &&   周期式装箱热处理炉
+box beam   &&   箱形梁
+box carburizing   &&   封箱渗碳，装箱渗碳，固体渗碳
+box conveyer   &&   箱式输送机
+box diffusion   &&   箱法扩散
+box furnace   &&   箱式炉
+box gauge   &&   箱式验潮仪
+box hardening   &&   装箱渗碳，固体渗碳
+box iron   &&   槽钢
+box jig   &&   箱式夹具，箱式钻模
+box key   &&   套筒扳手
+box kiln   &&   箱式窑
+box loop   &&   环形天线
+box metal   &&   轴承合金，减磨合金
+box moulding   &&   有箱造型
+box section   &&   盒式断面
+box separation device   &&   分箱装置
+box socket wrench   &&   套筒扳手组
+box spanner   &&   套筒扳手，管钳子
+box switch   &&   匣式开关，盒形开关
+box type heater   &&   箱式加热炉
+box van   &&   厢式汽车
+box wrench   &&   套筒扳手
+box-annealed sheet   &&   装箱退火薄钢板，密闭退火钢皮
+box-annealing furnace   &&   装箱退火炉
+box-body   &&   厢式车身  厢式货车的封闭车厢.
+box-hat   &&   钢锭帽
+box-pass method   &&   箱形孔型系统轧制法
+box-sliding feeder   &&   箱式定量器
+box-type furnace   &&   箱(式炉
+box-type rheostat   &&   箱式变阻器
+box-van   &&   驾驶室后面为封闭车厢的汽车
+boxcar   &&   ①闷罐车，有盖货车，棚车②矩形波串
+boxer engine   &&   水平对置发动机
+boxing   &&   ①装箱②绕焊，环焊，端部周边焊接③包装材料，制箔材料
+boxless moulding   &&   无箱造型
+boxless moulding machine   &&   无箱造型机
+braces   &&   大括号
+brachistochrone with bounded curvature   &&   界曲率最速降线
+bracing structure   &&   支撑结构
+bracing wire   &&   拉线
+bracket   &&   ①加强筋②(三角)托架③方括号④支架，托架⑤小磁导
+bracket arm   &&   支架臂
+bracket metal   &&   托架轴承合金
+bracket pole   &&   装有交叉支撑的电杆
+bracket type sand slinger   &&   单轨式抛砂机
+bracketing method   &&   划界法，交叉法
+brad   &&   型钉
+bradawl   &&   锥钻
+braid   &&   辫，编织，编织物
+braided cable   &&   编织电缆
+braided hose   &&   编织软管
+braider   &&   编带机
+braiding   &&   编带
+braiding machine   &&   编织机，编包机
+brain industry   &&   智力工业
+brain machine   &&   自动计算机
+brake   &&   ①制动器②测功器③有后门和侧窗的轿车
+brake action   &&   制动作用
+brake actuator   &&   制动气室
+brake anti-roll   &&   制动防滚动装置
+brake assembly   &&   刹车装置，制动装置
+brake band   &&   制动带
+brake belt   &&   制动带
+brake block   &&   闸瓦
+brake booster   &&   制动增力器
+brake carrier unit   &&   制动底板组件
+brake chamber   &&   制动气室
+brake controller   &&   制动器，闸控制器
+brake current   &&   制动电流
+brake disc   &&   制动盘
+brake drum   &&   制动鼓
+brake dynamometer   &&   测功机
+brake electromagnet   &&   制动电磁铁
+brake engine   &&   制动发动机
+brake fade   &&   ①衰退，衰落，衰减②消失③褪色度 渐层
+brake fluid   &&   制动液
+brake fluid level sensor   &&   制动液液面传感器
+brake fluid reservoir   &&   制动液贮液罐
+brake hop   &&   制动跳动
+brake horse power   &&   制动马力[BHP]
+brake lamp   &&   停车信号灯
+brake lever   &&   制动杆
+brake limiting valve   &&   制动限压阀
+brake lining   &&   ①刹车面，闸衬片②制动衬片，制动面，制动摩擦片
+brake linkage   &&   制动联动装置
+brake magnet   &&   制动磁铁，阻尼磁铁
+brake mean effective pressure   &&   制动平均有效压力
+brake motor   &&   制动电动机
+brake pedal   &&   制动踏板
+brake performance   &&   制动性能
+brake power   &&   ①制动力②制动功率
+brake ratio   &&   ①制动力分配比②制动减速度
+brake retarder   &&   ①减速剂，迟延剂②缓行器
+brake servo   &&   制动伺服装置.
+brake shoe   &&   ①闸瓦②铁鞋③制动瓦，制动蹄
+brake shoe test rack   &&   闸瓦试验台
+brake shoe with wedge seat   &&   带锲形支座的制动蹄
+brake squeal   &&   制动尖叫
+brake system   &&   制动系统
+brake test   &&   制动试验
+brake test rack   &&   制动试验台
+brake valve   &&   ①制动阀 ②脚控制动阀
+brake wheel   &&   制动轮
+brake-block holder   &&   闸瓦托，闸瓦座
+brake-cluth motor   &&   制动-离合器电动机
+braking   &&   制动
+braking assembly   &&   刹车附件
+braking block   &&   刹车片，制动片
+braking distance   &&   制动距离
+braking element   &&   制动组件
+braking force   &&   制动力
+braking jack   &&   制动千斤顶
+braking stress   &&   制动应力
+braking system   &&   刹车系统，制动装置
+braking time   &&   制动时间
+braking torque of an integrating instrument   &&   积分式仪表的制动力矩
+brale   &&   金刚石压头(洛氏硬度试验机上的)
+branch   &&   ①分部，分行，分店②支路，支流③分割法④枝，分枝
+branch and bound method   &&   分支定界法
+branch bound method   &&   分支估界法，分支限界法
+branch bound technique   &&   分支估界技术
+branch box   &&   分线盒
+branch cable   &&   支线电缆
+branch circuit   &&   分流电路
+branch connection   &&   分接
+branch constraint   &&   支路约束
+branch controller   &&   分支控制器，转移控制器
+branch core   &&   支型心
+branch gate   &&   分支浇口
+branch impedance matrix   &&   支路阻抗矩阵
+branch input signal   &&   支路输入信号
+branch instruction   &&   转移指令，分支指令
+branch joint   &&   ①分支连接②三通接头③分支接头，分支套管
+branch line   &&   ①分支线，支线②支路
+branch method   &&   分支法
+branch on non-zero   &&   非零转移
+branch on zero   &&   零转移
+branch operation   &&   分路动作，分路计算
+branch order   &&   分支指令，转移指令
+branch out   &&   分出，分支，分路，分流
+branch output signal   &&   支路输出信号
+branch pipe   &&   岔管，支管
+branch point   &&   分支点
+branch subroutine   &&   转移子程序
+branch switch board   &&   分路配电盘
+branch terminal line   &&   终端支线，支终线
+branch tracer   &&   转移跟踪程序
+branch-admittance matrix   &&   支路导纳矩阵
+branch-off   &&   ①分支，分接，分路②分流，分出
+branch-on switch setting   &&   按预置开关转移
+branched chain   &&   支链
+branched chain compound   &&   支链化合物
+branched chain group   &&   支链基
+branched chain polymer   &&   支链聚合物
+branched chain reaction   &&   支链反应
+branched chain structure   &&   支链结构
+branched decay   &&   分支衰变
+branched disintegration   &&   分支蜕变
+branched high polymer   &&   支化高聚物
+branched optical fibre bundle   &&   多股光学纤维束
+branched polyethylene   &&   支化聚乙烯
+branched polymer   &&   支化聚合物，支链聚合物
+branched structure   &&   枝型结构，分支结构
+branched-chain explosion   &&   分支链锁爆炸
+branched-guide coupler   &&   分支波导耦合器
+branches of digraph   &&   有向图的枝
+branching   &&   ①分支②支化，分支放射
+branching chain reaction   &&   分支链式反应
+branching mechanism   &&   支化机理
+branching point   &&   分支点
+branching process   &&   分支过程
+branded oil   &&   优质油
+brasque   &&   耐火封口材料，耐火堵泥，炉衬，衬料，填料
+brass   &&   ①黄铜②铜锌合金
+brass ball   &&   黄铜球
+brass brazing alloy   &&   黄铜焊接合金
+brass bushing   &&   黄铜衬圈，黄铜衬套
+brass casting   &&   黄铜铸件
+brass foil   &&   黄铜箔
+brass nuts   &&   铜螺帽
+brass plate   &&   黄铜板
+brass plating   &&   镀黄铜
+brass rod   &&   黄铜条
+brass sheet   &&   黄铜薄板
+brass solder   &&   黄铜钎焊料
+brass tube   &&   黄铜管
+brass wire   &&   黄铜丝
+brass wire brush   &&   铜丝刷
+brassile   &&   黄铁矿
+brassing   &&   黄铜铸件
+brastile   &&   压铸黄铜
+braunite   &&   ①布氏体②褐锰矿
+braze   &&   ①钎焊，钎接②铜焊，硬焊
+braze welding   &&   铜钎焊
+brazed all-metal honecomb sandwich   &&   铜焊全金属蜂窝夹层结构
+brazed joint   &&   钎焊结合
+brazeing   &&   渗焊
+brazing   &&   铜焊，钎焊，硬焊
+brazing ability   &&   可钎焊性
+brazing alloy   &&   钎焊合金
+brazing brass   &&   钎焊黄铜
+brazing filler metal   &&   钎料
+brazing flux   &&   钎剂
+brazing joint   &&   钎接
+brazing metal   &&   硬焊合金
+brazing mixture   &&   钎焊粉
+brazing solder   &&   黄铜焊料
+breach   &&   ①破坏，违犯②破口，裂口
+bread board   &&   ①试验(电路)板，模型板②功能试验③实验性的，模型的
+bread board design   &&   模拟板设计
+bread board experiment   &&   模拟板实验
+breadth   &&   宽度
+breadth coefficient   &&   绕组系数
+breadth factor of winding   &&   分布系数
+breadth of tooth   &&   齿宽
+break   &&   ①断裂，破裂，断口，断面，裂缝②游动花纹③打断，切断
+break arc   &&   切断电弧
+break back contact   &&   静触点，开路接点
+break down   &&   破坏
+break line   &&   波浪线
+break point   &&   分割点，断点，折点
+break spark   &&   断路火花
+break up   &&   解散，分散，消散
+break-before-make contact   &&   先断后合触点
+break-break-make contact   &&   断-断-合触点
+break-down strength   &&   破坏强度，断裂强度
+break-in   &&   走合
+break-make-break contact   &&   断-合-断触点
+break-point instruction   &&   断点指令
+break-up energy   &&   分离能
+breakability   &&   易破碎性
+breakage   &&   破裂，断裂，破坏
+breakaway   &&   ①断开力，折断力②脱钩安全器③中断，破裂，剥裂④起步
+breakaway speed   &&   飞逸转速
+breakaway torque   &&   起步转矩，启动转矩
+breakaway type connector   &&   分离连接器
+breakaway valve   &&   脱钩安全阀
+breakdown   &&   ①击穿②失效，故障③断裂，破损，破坏，破裂，抛锚
+breakdown characteristics   &&   击穿特性
+breakdown crane wagon   &&   事故起重机
+breakdown current   &&   击穿电流
+breakdown diode   &&   击穿二极管
+breakdown lorry   &&   救险起重机，抢修工程车
+breakdown maintenance   &&   故障修理，停工检修，事故维修
+breakdown of insulation   &&   绝缘击穿
+breakdown of operations   &&   作业故障
+breakdown potential   &&   击穿电位
+breakdown potential gradient   &&   击穿电位梯度
+breakdown process   &&   击穿过程，崩溃过程，断裂过程
+breakdown slip   &&   极限转差率，停转转差率，临界转差率
+breakdown spot   &&   击穿点
+breakdown strength   &&   击穿强度
+breakdown test   &&   ①击穿试验②破坏试验③断裂试验
+breakdown time   &&   击穿时间
+breakdown torque   &&   失步转矩，停转转矩
+breakdown truck   &&   程抢险车
+breakdown vehicle   &&   救险起重车，抢修工程车
+breakdown voltage   &&   击穿电压
+breakdown voltage rating   &&   绝缘强度
+breakdown-torque speed   &&   停转转速，临界转速
+breaker   &&   ①轧碎机，压断机，破碎机，打碎机②断电器，断路器，隔断器③破乳剂④缓冲层⑤不关闸
+breaker contact   &&   断电器触点
+breaker points   &&   断电器触点
+breaker trip coil   &&   断路器脱扣线圈
+breakerless ignition   &&   电子点火
+breaking   &&   ①打开，分开②破碎，压碎，打碎，轧碎③裂缝，剥层④分割⑤断裂
+breaking capacity   &&   断开能力
+breaking capacity test   &&   断开容量试验
+breaking characteristic   &&   断开特性
+breaking current   &&   断开电流
+breaking diameter   &&   断裂直径
+breaking elongation   &&   断裂伸长，致断伸长
+breaking energy   &&   断裂能
+breaking extension   &&   致断伸长
+breaking length   &&   断裂长度
+breaking load   &&   断裂负载，破坏载荷
+breaking of contact   &&   断接，触点断开
+breaking point   &&   断裂点，破乳点
+breaking resilience   &&   致断回弹
+breaking step   &&   失步，乱步
+breaking strain   &&   断裂应变，抗断应变，破碎应变
+breaking strength   &&   断裂强度，抗断强度，破坏强度，扯断强度
+breaking stress   &&   断裂应力，抗断应力
+breaking tension   &&   断裂张力
+breaking test   &&   断裂试验，破坏试验
+breaking work   &&   断裂功
+breaking zone   &&   断裂区
+breaking-down mill   &&   开坯机，初轧机
+breaking-down test   &&   破坏性试验，断裂性试验，击穿试验
+breaking-in   &&   ①带肉②试车，试运转③冒口带肉
+breakout box   &&   接线盒
+breakover   &&   穿通，导通，转折
+breakpoint   &&   断点
+breaks   &&   断口
+breaks of circuit breakers   &&   断口，断路器
+breakthrough   &&   ①突破②技术革新③重要发明④穿透，漏出
+breakup   &&   崩裂
+breakup model   &&   崩裂模塑，拆散模型
+breakwind   &&   ①挡风②挡风罩
+breast drill   &&   胸压手摇钻，曲柄钻
+breast plate microphone   &&   胸挂传声器，胸挂送话器
+breast roll   &&   中心辊，胸辊
+breast transmitter   &&   胸前送话器
+breather   &&   ①给油箱②吸潮器，呼吸器③通风孔
+breather drier   &&   热板式干燥机
+breathing   &&   呼吸，放气
+breathing action   &&   呼吸作用，换气作用
+breathing hole   &&   通气孔
+breathing property   &&   透气性
+bred   &&   增殖的
+bred material   &&   增殖出来的原料
+breeches pipe   &&   叉管
+breeching   &&   烟道
+breeder blanket   &&   增殖再生区
+breeder reactor   &&   增殖堆
+breeder reactor power plant   &&   增殖堆电厂
+breeding   &&   ①增殖②倍增，再生
+breeding gain   &&   增殖增益
+breeding rate   &&   增殖率
+breeding time   &&   再生反应时间
+breeding-fire   &&   自燃
+breeze   &&   ①微风②煤粉，煤屑，矿粉，煤末
+breeze oven   &&   焦末化铁炉
+bremsstrahlung   &&   韧致辐射
+breunnerite   &&   铁菱镁矿
+brewer's dray   &&   运瓶车厢
+brick mould   &&   砖砌铸型
+bridge   &&   ①桥(梁)②网桥，电桥，桥接器③跨接，桥接
+bridge across   &&   桥接，跨接
+bridge amplifier   &&   桥式放大器
+bridge arm ratio   &&   电桥比
+bridge atom   &&   桥原子
+bridge bond   &&   桥键
+bridge calibration   &&   电桥校准
+bridge circuit   &&   桥式电路，桥式线路
+bridge connection   &&   桥接，桥式接线
+bridge construction plate   &&   桥梁结构钢板
+bridge crane   &&   桥式起重机，行(动吊)车，桥式吊-车
+bridge duplex system   &&   桥接双工系统
+bridge feedback   &&   桥式反馈，桥式回授
+bridge for measuring temperature   &&   测温电桥
+bridge hydrocarbon   &&   桥烃
+bridge limiter   &&   桥式限幅器，桥式限制器
+bridge megger   &&   桥式兆欧表
+bridge method   &&   电桥法，桥路法
+bridge network   &&   桥接网络
+bridge over   &&   跨接，桥接
+bridge rectifier   &&   桥式整流
+bridge resistance   &&   桥路电阻
+bridge span   &&   桥(梁)跨(度)
+bridge steel   &&   桥梁钢
+bridge washer   &&   环圈
+bridge's balance range   &&   电桥平衡范围
+bridged contact pattern   &&   桥型接触斑点
+bridged-T network   &&   桥(接)T(形)网络
+bridging   &&   ①分路，分流②跨接，桥接
+bridging condenser   &&   并联电容器，分接电容器，隔(直)流电容器
+bridging order   &&   连接指令，返回指令
+bridled anemometer   &&   制动风速表
+bright annealed wire   &&   光亮退火钢丝
+bright annealing   &&   光亮退火
+bright bar   &&   银亮钢棒
+bright blue   &&   光蓝色
+bright border   &&   光圈
+bright crystalline fracture   &&   光亮晶体断口
+bright dip   &&   光泽浸渍，电解液浸渍
+bright drawing   &&   光滑拉丝，光亮拉拔，拉光
+bright drawn bar   &&   光亮冷拔钢条
+bright electroplating   &&   辉面电镀
+bright emitter   &&   白炽热发射电子管
+bright fibre   &&   有光纤维
+bright field   &&   明视场，亮场
+bright field contrast technique   &&   明场衍衬术
+bright field electron image   &&   明场电子象
+bright field electron microscopy   &&   亮视野电子显微术
+bright finish   &&   光亮精整
+bright finished   &&   磨光的，镜面抛光的，光洁处理的
+bright finished sheet   &&   光亮精整钢板
+bright finished steel   &&   光亮精整钢
+bright fracture   &&   亮口
+bright ground wire   &&   银亮磨光钢丝
+bright heat treatment   &&   光辉热处理，光亮热处理
+bright lustre sheet   &&   光亮钢板，镜面光亮薄板
+bright normalizing   &&   光亮正火
+bright plating   &&   光亮电镀
+bright quenching   &&   光亮淬火
+bright quenching oil   &&   光亮淬火油
+bright spot   &&   辉点，亮点
+bright steel bar   &&   光亮型钢
+bright tempering   &&   光亮退火
+bright trace   &&   亮迹
+bright wire   &&   光亮钢丝，光面线
+bright-annealing line   &&   光亮退火作业线
+bright-drawn steel   &&   拉光钢，光拔钢，精拔钢
+bright-polished sheet   &&   磨光钢板，镜面抛光薄板
+brightened dot   &&   亮点
+brightened spot   &&   亮点
+brightener   &&   增白剂，增亮剂
+brightening   &&   发亮，拉光
+brightening pulse   &&   辉度脉冲，亮度脉冲，照明脉冲
+brightness   &&   ①亮度，辉度，白度②光，明亮
+brightness contrast   &&   亮度对比
+brightness control   &&   亮度调节，亮度控制
+brightness flicker   &&   亮度闪烁
+brightness fluctuation   &&   亮度波动
+brightness measurement   &&   亮度测量
+brightness meter   &&   亮度计
+brightness pyrometer   &&   亮度高温计
+brightness regulator   &&   亮度调节器，亮度控制器
+brightness scanning   &&   明暗扫描(用光源强度的变化进行)
+brightness signal   &&   黑白信号，亮度信号
+brightness temperature   &&   亮温度
+brightness transfer characteristic   &&   亮度传输特性，亮度转移特性
+brightray   &&   耐热镍铬合金(Ni 80％，Cr 26％)
+brilliance   &&   亮度，明度，鲜艳度
+brilliant polish   &&   抛光剂
+brim   &&   边缘
+brimstone   &&   硫磺
+brimstone acid   &&   硫酸
+brimstone furnace   &&   燃硫炉
+brimstone gas   &&   燃硫炉气
+brindle   &&   斑纹，原斑
+brine   &&   卤水，盐水
+brine lixiviant   &&   盐水溶液
+brine quenching   &&   盐淬，盐水淬火
+bring above object   &&   置于对象之上 置于物件上方
+bring to rest   &&   停车，停止运行
+bring to top   &&   顶置 置于最上方
+brining   &&   盐浸作用
+brinishness   &&   含盐度
+brink   &&   边缘，崤峰，陡崖
+briquet   &&   ①标准试块，块②坯块，压块，团块
+briquetting   &&   制团，制块，压块
+brittle   &&   脆性的，易碎的
+brittle alloy   &&   脆性合金
+brittle break   &&   脆性破坏
+brittle breakage   &&   脆性断裂
+brittle crack   &&   脆裂
+brittle failure   &&   脆性断裂
+brittle fibre   &&   脆纤维
+brittle fibrous reinforcement   &&   脆纤维增强
+brittle fracture   &&   脆性断裂，脆性断口
+brittle fracture process   &&   脆裂过程
+brittle fracture strength   &&   脆断强度
+brittle intergranular failure   &&   脆性晶间破坏
+brittle material   &&   脆性材料
+brittle point   &&   脆折点，脆化点
+brittle rupture   &&   脆性破坏，脆性断裂
+brittle solid   &&   脆性固体
+brittle temperature   &&   脆化温度
+brittle time   &&   脆化时间
+brittle transition temperature   &&   脆性转变温度
+brittle whisker   &&   脆性晶须
+brittle zone   &&   脆性区
+brittle-ductile transition temperature   &&   脆性-延性转变温度
+brittleness   &&   脆性，脆度，易碎性
+brittleness temperature   &&   脆折点，脆化点，脆性温度
+broach grinding machine   &&   拉刀磨床
+broach machine   &&   拉床
+broaches   &&   拉刀，铰刀
+broaching   &&   拉削，拉刀切削
+broaching machine   &&   拉床，铰孔床
+broaching tool   &&   拉刀
+broad   &&   ①概括的，主要的②宽的，宽阔的，宽广的③宽频带响应
+broad band TR   &&   宽频带开关管
+broad band pass filter   &&   宽带滤波器
+broad band spectrum   &&   宽波段
+broad beam   &&   宽束
+broad beam absorption   &&   宽束吸收
+broad beam antenna   &&   宽波束天线
+broad catch   &&   广捕
+broad pulse   &&   宽脉冲
+broad tuning   &&   宽调谐，钝调谐，粗调
+broad-band random vibration   &&   宽带随机振动
+broad-base tower   &&   分腿基础输电线路塔，宽基塔
+broad-flange beam   &&   宽缘工字钢，阔翼梁
+broadband   &&   宽波段，宽频带，宽谱带
+broadband LAN   &&   定带局域网
+broadband amplifier   &&   宽带放大器
+broadband antenna   &&   宽波段天线
+broadband filter   &&   宽带滤波器
+broadband network   &&   宽带网
+broadband video detector   &&   带宽视频检波器
+broadcast   &&   广播
+broadcast administration   &&   广播管理
+broadcast antenna   &&   广播天线
+broadcast band   &&   广播波段
+broadcast channel   &&   广播波道
+broadcast relaying   &&   (广播)转播，广播中继
+broadcast studio   &&   播音室
+broadcast transmitting station   &&   广播电台，广播发射台
+broadcasting equipment   &&   广播设备
+broadcasting program   &&   广播节目
+broadcasting receiver   &&   广播接收机
+broadcasting station   &&   广播电台
+broadcasting system   &&   广播系统
+broadcasting television   &&   广播电视
+broadcasting transmitter   &&   广播发射机
+broaden   &&   放宽，加宽，扩展
+broadening   &&   增宽，加宽
+broadness   &&   宽度，广度
+broadside   &&   宽边，宽面
+broadside array   &&   垂射天线阵，端射天线阵，多列同相天线阵
+broadwise   &&   横向，沿宽度方向
+brocatel marble   &&   彩色大理石
+brocatelle   &&   彩色大理石(黄色带深红条纹)
+brockie oil   &&   陶瓷业用润滑油
+brog   &&   曲柄手摇钻
+broil   &&   ①烧烤，焙②煅烧
+broken   &&   断开的，断路的，破裂的，破坏的
+broken corners   &&   角裂
+broken hardening   &&   分级淬火
+broken line   &&   虚线，折线
+broken line graph   &&   折线图
+broken ore   &&   碎矿石
+broken seed   &&   开口小气泡
+broken-down   &&   临时出故障的，坏了的
+broken-staple metal fibre   &&   金属短纤维
+bromine   &&   溴Br(35)
+bromine compound   &&   溴化合物
+bronze   &&   青铜，青铜铜锡合金
+bronze age   &&   铜器时代
+bronze alloy   &&   青铜合金
+bronze bearing   &&   青铜轴承
+bronze brush   &&   青铜电刷
+bronze casting   &&   青铜铸件
+bronze matrix multifilamentary composite   &&   青铜基质(双金属)复丝状复合材料
+bronze mica   &&   金云母
+bronze pattern   &&   青铜模
+bronze plating   &&   镀青铜
+bronze statue   &&   青铜像
+bronze strip   &&   青铜片，青铜条
+bronze weld   &&   青铜焊焊缝
+bronze welding   &&   青铜焊
+bronze wire   &&   青铜丝
+bronzed-coloured   &&   青铜色(的)
+bronzing   &&   烧蓝，发蓝处理，镀青铜
+bronzite   &&   β相青铜合金，古铜辉石
+bronzy   &&   青铜色的，似青铜的
+bronzy colour   &&   青铜色
+broom   &&   ①刷子②染料木③帚
+broom wire   &&   刷子用钢丝
+broomstick   &&   干扰抑制器
+brotocrystal   &&   融蚀晶体，斑晶
+brower   &&   浏览器 浏览器
+brown coal   &&   褐煤
+brown ore   &&   褐铁矿
+browning   &&   发褐处理
+brownout   &&   节约用电，灯火管制，降低电压
+brownstone   &&   褐砂岩
+browser   &&   浏览器
+bruce antenna   &&   倒V形天线
+bruiachite   &&   萤石
+bruise   &&   ①碰伤，擦伤②伤痕，疵瑕
+bruise mark   &&   碰痕
+brunorizing   &&   特别常化法
+brush   &&   ①电刷，涂刷②刷，擦
+brush angle   &&   电刷倾角
+brush applied coating   &&   电涂
+brush arm   &&   电(握)臂
+brush assembly   &&   电刷装配
+brush backward lead   &&   电刷反向超前
+brush box   &&   刷盒
+brush bracket   &&   (电)刷架
+brush carbon   &&   电刷碳
+brush carrier   &&   刷握，刷架
+brush chattering   &&   电刷振动，电刷震颤
+brush clamp   &&   电刷夹，电刷接线端
+brush coat   &&   刷涂，刷敷涂层
+brush collector   &&   集电刷，集流刷
+brush contact   &&   ①电刷触点，刷形触点②电刷接触
+brush contact resistance   &&   电刷接触电阻
+brush contact surface   &&   电刷接触面
+brush contact voltage   &&   电刷接触电压
+brush cord   &&   刷辫，电刷软绳
+brush corona   &&   刷电晕，电晕放电
+brush covering factor   &&   电刷覆盖系数
+brush displacement   &&   刷位移，刷移角
+brush dust   &&   刷粉，刷尘(电刷磨损)
+brush friction loss   &&   电刷摩擦损失
+brush front   &&   前刷边
+brush glowing   &&   电刷红热，电刷灼热
+brush handle wire   &&   刷用钢丝
+brush inclination   &&   刷握倾角，电刷倾度
+brush interference   &&   刷握干扰
+brush life   &&   电刷寿命
+brush mark   &&   刷痕
+brush method   &&   涂刷法
+brush noise   &&   电刷噪音
+brush plating   &&   涂刷
+brush polish   &&   上光剂，刷光剂
+brush pressure   &&   (电)刷压(力)
+brush resistance   &&   刷电阻
+brush rod   &&   刷杆，刷臂
+brush roll   &&   毛刷滚(辊)
+brush set   &&   电刷组
+brush shoe   &&   刷靴
+brush slot   &&   电刷槽
+brush spark   &&   电刷火花
+brush spindle   &&   电刷柄
+brush sweeper   &&   毛刷
+brush toe   &&   后刷边，刷趾
+brush track   &&   刷迹圈
+brush transient resistance   &&   电刷瞬变电阻
+brush treatment   &&   ①电刷处理②涂刷防腐剂
+brush voltage   &&   刷电压
+brush wear   &&   电刷磨损
+brush wire   &&   刷用钢丝
+brush yoke   &&   刷架，独立刷杆座
+brush-and-spray discharge   &&   刷形放电
+brush-carriage   &&   电刷托架
+brush-carrier ring   &&   刷架环
+brush-holder   &&   刷握
+brush-holder spring   &&   刷握弹簧，电刷弹簧
+brush-shifting motor   &&   移刷式电动机
+brushablitiy   &&   刷涂性
+brushes for hydrogen cooling use   &&   氢冷电刷
+brushgear housing   &&   电刷座brushgear yoke   &&   电刷座，电刷架
+brushing   &&   刷光，刷亮，清洁
+brushing loss   &&   刷损量
+brushing plating   &&   刷镀
+brushing property   &&   刷旋光性，涂刷性
+brushing test   &&   刷损试验，涂刷试验
+brushless   &&   无(电)刷的
+brushless Scherbius control   &&   无刷串级调速，无刷谢尔必斯式调速
+brushless cascade alternator   &&   无刷串级同步发电机
+brushless electric machine   &&   无刷电机
+brushless excitation   &&   无刷励磁
+brushless generator   &&   无刷发电机
+brushless synchronous generator   &&   无刷同步发电机
+brute force filter   &&   ①平滑滤波器②倒L形滤波器③脉冲展平滤波器
+brutonizing   &&   钢丝(热)镀锌法
+bryanizing   &&   钢丝连续电镀法
+bubble   &&   ①泡，气泡，空泡，水泡②膜泡，暗泡，水准泡③隐匿气泡
+bubble chamber   &&   泡室
+bubble dust collector   &&   泡沫除尘器
+bubble dynamics of boiling   &&   气泡动力学
+bubble flow   &&   带泡流动
+bubble method   &&   气泡法
+bubble method detection   &&   气泡检漏法
+bubble point   &&   初始点
+bubble pressure method   &&   气泡压力法
+bubble stabilizer   &&   气泡稳定剂
+bubble storage   &&   气泡存储器
+bubble test   &&   气泡试验
+bubble track   &&   气泡径迹
+bubble tube method   &&   气泡管法
+bubble volume coefficient   &&   气泡反应性体积系数
+bubble-cap tray   &&   泡罩板
+bubble-domain   &&   泡畴，磁泡
+bubble-tube   &&   吹气管
+bubbling   &&   起泡，冒泡，鼓泡
+bubbling bed   &&   沸腾床
+bubbling cap   &&   泡罩
+bubbling hood   &&   泡罩
+bubbling machine   &&   磨革机
+bubbling polymerization   &&   气泡聚合
+bubbling time   &&   发泡倍数
+buck   &&   模型
+buck and boost transformer   &&   “降压-升压”变压器，加减电压变压器
+buck arm   &&   转角横担
+buck-boost control signal   &&   “反-正”控制信号，加减电压控制信号
+bucker   &&   粉碎机
+bucket   &&   铲斗(装载机)，吊桶，动叶片，消力戽
+bucket conveyor   &&   斗式输送机
+bucket dredger   &&   链斗挖泥船
+bucket elevator   &&   斗式提升机
+bucket grab   &&   抓斗
+bucket loader   &&   铲斗式装载机
+bucket scraper   &&   戽斗链式刮土机
+bucket seat   &&   斗式座椅
+bucket tappet   &&   气门挺柱
+bucket thermometer   &&   表层温度表
+bucket wheel   &&   斗轮
+bucket wheel excavator   &&   斗轮式挖掘机
+bucket wheel loader   &&   斗轮装卸机
+bucket wheel trencher   &&   斗轮式挖沟机
+bucket-brigade delay   &&   戽斗链延迟线
+bucking circuit   &&   补偿电路，抵消电路
+bucking effect   &&   反电动势效应，抵消作用
+bucking electrode   &&   屏蔽电极
+bucking of a bar   &&   杆屈曲
+bucking of arch   &&   拱屈曲
+bucking of ring   &&   环屈曲
+bucking voltage   &&   抵消电压，反作用电压
+bucking winding   &&   抵消绕组，补偿绕组，去磁绕组
+buckle   &&   ①严重鼠尾②拳曲
+buckle insulator   &&   茶台绝缘子
+buckle safety belt   &&   安全带锁扣
+buckled plate   &&   凹凸板
+buckled ply   &&   皱层，不平直层
+buckling   &&   ①纵向弯曲，扭曲，屈曲，弯曲隐②起皱，皱纹，皱折③翘曲④失稳
+buckling constant   &&   曲率常数
+buckling factor   &&   曲率因子，曲率因数
+buckling instability   &&   曲率不稳定性
+buckling load   &&   弯曲临界载荷
+buckling stability   &&   抗弯稳定性
+buckling strain   &&   屈曲应变，弯曲应变
+buckling strength   &&   压曲强度，弯曲强度
+buckling stress   &&   屈曲应力，弯曲应力
+buckling vector   &&   屈率矢量
+buddy seat   &&   三轮摩托车的单轮斗
+buff   &&   ①磨光，打磨，抛光②抛光辊，抛光轮，擦光轮③减震④浅黄色
+buff compound   &&   抛光剂
+buffalo   &&   水陆两用拖拉机，水陆两用坦克
+buffer   &&   ①缓冲，挡板②缓冲垫，缓冲器，保险杆，减振器，消震器，阻尼器③缓冲记忆装置，缓冲存储器，备件④去偶组件⑤缓冲剂
+buffer action   &&   缓冲作用
+buffer amplifier   &&   缓冲放大器
+buffer bar   &&   保险杠
+buffer battery   &&   浮充电池，缓冲电池
+buffer capacity   &&   缓冲容量
+buffer case   &&   缓冲筒，减震器
+buffer circuit   &&   缓冲电路，阻尼电路
+buffer condenser   &&   缓冲电容器
+buffer gap   &&   衬垫间隙，缓冲间隙
+buffer gate   &&   “或”门
+buffer gear   &&   ①缓冲机构②减震装置
+buffer index   &&   缓冲指数
+buffer layer   &&   缓冲层，过渡层，中间层
+buffer module   &&   中间转换器，缓冲模件，中间转换
+buffer solution   &&   缓冲剂，缓冲溶液
+buffer spring   &&   缓冲弹簧
+buffer storage   &&   缓冲存储器
+buffer technology   &&   缓冲技术
+buffer test   &&   抖振试验
+buffered etchant   &&   缓冲腐蚀剂
+buffering   &&   ①缓冲，阻尼②缓冲记忆装置
+buffering stopper   &&   缓冲限位块
+buffing   &&   ①抛光，磨光，擦光，打光②布轮抛光
+buffing compound   &&   抛光剂，磨光剂
+buffing machine   &&   抛光机
+buffing mark   &&   磨锉痕，磨薄点
+buffing of sinter metals   &&   烧结金属抛光
+buffing oil   &&   磨光油
+buffing wheel   &&   抛光轮
+bug   &&   ①干扰②故障，缺陷，错误，损坏③窃听器④动标，可移标
+bug hole   &&   晶穴
+bug key   &&   双向报键，快键，半自动发报键
+buhrstone   &&   细砂质磨石
+build   &&   ①构造，建筑，修造，修建②造型
+build up edge   &&   积屑瘤、刀瘤
+build-down   &&   降落，衰减，降低
+build-in   &&   ①装入，装在一起，插入，加入②内部的，固有(的)
+build-in oscillation   &&   固有振荡
+build-up effect   &&   积累效应，增高效应
+build-up method   &&   组合法，建造法
+build-up of voltage   &&   电压建立，电压增长
+build-up product   &&   增长产物
+builder   &&   ①组分②增洁剂
+building   &&   ①房屋②建筑，建造③建造④组合
+building action   &&   增效作用
+building asphalt   &&   建筑石油沥青
+building block   &&   ①标准部件，积木式组件②空心石
+building block system   &&   积木式
+building block technique   &&   模块技术
+building board   &&   人造板
+building component   &&   增效组分
+building iron   &&   建筑钢
+building machine   &&   成型机
+building material   &&   建筑材料
+building of slag   &&   造渣
+building out network   &&   附加(平衡)网络，补偿网络
+building paper   &&   防潮纸，油毛毡
+building up   &&   ①结垢②结渣③组合，装配，建起④升高，增长⑤积累，聚集
+building up process   &&   合成过程
+building up properties   &&   成型工艺性能
+building-block machine   &&   积木式机器
+building-in property   &&   固有特性
+building-out capacitor   &&   附加电容器
+building-up time   &&   建立时间，增长时间
+buildup factor   &&   积累因子
+built-in   &&   ①内装的，内部的，机内的，内置的②固定的，嵌入的③原有的
+built-in Zener protection   &&   内建齐纳管保护
+built-in check   &&   内部校验，自动校验
+built-in command   &&   内部指令
+built-in diagnostic   &&   内部诊断
+built-in edge   &&   固定边缘
+built-in electric field   &&   内建电场
+built-in error correction   &&   内部错误校正
+built-in field   &&   内建场
+built-in function   &&   内部函数，库函数
+built-in galvanometer   &&   内装式检流计
+built-in language   &&   固有语言
+built-in motor   &&   内装电动机，机内电动机
+built-in potential   &&   内建电势
+built-in potential energy   &&   内建场势能
+built-in reaction   &&   合成反应，叠合反应
+built-in reactivity   &&   后备反应性，固有反应性，剩余反应性
+built-in reliability   &&   固有可靠性，内在可靠性，结构可靠性
+built-in storage   &&   内存储器
+built-in system   &&   内部系统
+built-in thermocouple   &&   埋人式热电偶
+built-in voltage   &&   内建电压
+built-in-weights   &&   挂码
+built-up   &&   ①组合的，装配的，合成，拼成②结垢
+built-up broach   &&   组合拉刀
+built-up crank shaft   &&   组合曲柄轴
+built-up crankshaft   &&   组合曲轴
+built-up film   &&   累积膜
+built-up flask   &&   组合砂箱
+built-up frame   &&   组合构架
+built-up magnet   &&   组合磁铁
+built-up mould   &&   组合(塑)模，组合(铸)型
+built-up moulding box   &&   组合砂箱
+built-up pattern   &&   ①组合模(样)②空心模
+built-up plate   &&   ①组合模板②双面模板
+bulb   &&   温包，感温泡
+bulb backup lamp   &&   倒车灯灯泡(12v 21w)
+bulb fog lamp   &&   雾灯灯泡(12v 55w)
+bulb front turn signal lamp   &&   前转向灯灯泡(12v 21w)
+bulb headlamp   &&   大灯灯泡(12v 60w)
+bulb length   &&   感温泡长度
+bulb length of liquid-in-glass thermometer   &&   玻璃温度计的感温泡长度
+bulb of filled system thermometer   &&   压力式温度计的温包
+bulb of liquid-in-glass thermometer   &&   玻璃温度计的感温泡
+bulb parking lamp   &&   驻车灯灯泡(12v 14w)
+bulb rear fog lamp   &&   后雾灯灯泡(12v 21w)
+bulb rear turn signal lamp   &&   后转向灯灯泡(12v 21w)
+bulb socket   &&   灯泡座
+bulb stop lamp   &&   制动灯灯泡(12v 21w)
+bulb tail lamp   &&   尾灯灯泡(12v 5w)
+bulge   &&   凸度 凸度
+bulging   &&   凸肚
+bulk type semiconductor strain gauge   &&   体型半导体应变计
+bulk zinc oxide varistor   &&   体型氧化锌电压敏电阻器
+bulker   &&   散装货
+bulkhead   &&   前围板
+bull bars   &&   护架
+bulldozer   &&   推土机
+bullet connector   &&   插塞接头
+bump   &&   连续冲击
+bump map   &&   凹凸贴图，凸纹贴图
+bump steer   &&   悬架变形转向
+bump stop   &&   缓冲块
+bump test   &&   连续冲击试验，颠簸试验
+bump testing machine   &&   连续冲击台
+bumper   &&   保险杠
+bumper block   &&   缓冲块
+bumper guard   &&   保险杠挡
+buoy   &&   浮标
+buoy array   &&   浮标阵
+buoy float   &&   浮标体
+buoy motion package   &&   浮标运动监测装置
+buoy station   &&   浮标站
+buoyancy correction   &&   浮力修正
+buoyancy level measuring device   &&   浮力液位测量装置
+burden   &&   负载
+burden of a instrument transformer   &&   仪用互感器的负载
+burn mark   &&   糊斑
+burn spot   &&   燃烧点
+burner-heated catalyst   &&   燃烧加热催化器[BHC]
+burning method   &&   燃烧法
+burnishing   &&   挤齿
+burnishing die   &&   挤光模
+burr   &&   毛边
+burst acoustic emission signal   &&   突发传输
+burst pulser   &&   短促脉冲发生器
+burst signal   &&   彩色同步信号，短促脉冲串信号
+bus   &&   ①公共汽车②总线，汇流条，母线
+bus bar   &&   主栅线(电极)，传输线，母线
+bus impedance matrix   &&   母线阻抗矩阵，节点阻抗矩阵
+bus line   &&   ①汇流线，母线，总线②公共汽车线路
+bus master   &&   总线控制，总线主设备
+bus mother board   &&   总线母板
+bus network   &&   总线网
+bus protection   &&   母线保护
+bus reactor   &&   母线电抗器
+bus request   &&   总线请求
+bus section breaker   &&   母线分段断路器
+bus slave   &&   总线从设备
+bus structure   &&   总线结构
+bus tie circuit breaker   &&   母线联络断路器，母联开关
+bus topology   &&   总线拓扑
+bus type current transformer   &&   母线式电流互感器
+bus-ring   &&   集电环
+bus-tie reactor protection   &&   母线联络电抗器保护(装置)
+bus-tie switch   &&   母线联络开关
+busbar insulator   &&   母线绝缘子
+busbar material   &&   母线材料
+busbar protective device   &&   母线保护装置
+bush   &&   轴衬，衬套，套筒
+bush bearing   &&   衬套轴承，滑动轴承
+bushel   &&   蒲式耳 (1蒲式耳=4配克=35.3升)
+bushelled iron   &&   熟铁(搅炼炉铁)
+bushing   &&   ①衬套，轴套，销套②轴衬，轴瓦，套管
+bushing block   &&   衬套
+bushing current transformer   &&   套管式电流互感器
+bushing insulator   &&   绝缘套管，套管绝缘子
+bushing test tap   &&   套管试验抽头
+bushing type current transformer   &&   套管式流互感器
+business office   &&   商务办公室
+business planning   &&   经营计划
+business process reengineering   &&   企业流程改造[BPR]
+business system planning   &&   企业系统规划法[BSP]
+buster   &&   堵口
+bustle pipe   &&   风圈
+busy   &&   忙
+busy back tone   &&   忙音，蜂音，占线音
+busy hour   &&   最忙钟点，繁忙时间
+busy indicator   &&   ①占线指示器②占用指示器
+busy signal   &&   占线信号
+busy state   &&   忙碌状态
+busy tone   &&   忙音，占线音
+busy-buzz   &&   忙蜂音，占线蜂音
+butadiene   &&   丁二烯
+butadiene elastomer   &&   丁二烯弹性体
+butadiene epoxy resin   &&   丁二烯环氧树脂
+butadiene sodium polymer   &&   丁(二烯)钠聚合物
+butadiene vinyl copolymer   &&   丁二烯-乙烯共聚物
+butadiene-acrylonitrile copolymer   &&   丁二烯-丙烯腈共聚物
+butadiene-acrylonitrile-styrene  copolymer   &&   丁二烯-丙烯腈-苯乙烯共聚体
+butadiene-propylene copolymer   &&   丁二烯-丙烯共聚物
+butadiene-styrene copolymer   &&   丁二烯-苯乙烯共聚物
+butadiene-styrene vulcanizate   &&   硫化丁苯橡胶
+butt   &&   ①锭，坯，铁锭②端面③底部，锭尾④平接⑤货车车身
+butt contact   &&   ①对接接点，压接式接点，半圆形接点②对接接触
+butt ingot   &&   钢锭切头
+butt joint   &&   ①对接，对接接头②对焊
+butt joint weld   &&   对接焊
+butt place   &&   突出部分、粗端部分
+butt riveting   &&   对头铆接
+butt seam weld   &&   对线焊
+butt seam welding   &&   对焊
+butt weld   &&   对接焊缝
+butt welding   &&   对接焊，接触对焊，对接焊接
+butt-fusion   &&   熔融对结
+butt-jointed seam   &&   对接缝
+butt-sintering   &&   对接烧结
+butt-type core   &&   对接式铁心
+butt-welded joint   &&   对焊接头
+butt-welded tube   &&   对缝焊管
+butt-welding machine   &&   对焊机
+butterfly   &&   ①蝶形板，蝶形阀，蝶形的②活动目标探测器③节气门，节流门
+butterfly carburetor   &&   蝶阀化油器
+butterfly diagram   &&   蝴蝶图
+butterfly hinge   &&   蝶形铰链
+butterfly insulator   &&   蝶式绝缘子
+butterfly method   &&   蝶形空型轧制法(轧制角钢)
+butterfly nut   &&   蝶形螺母
+butterfly structure   &&   蝶形结构，蝶形组织
+butterfly throttle valve   &&   蝶形节流阀
+butterfly twin   &&   蝶形双晶
+butterfly valve   &&   蝶形阀，风门，混合气门
+buttering technique   &&   堆叠焊法
+butting   &&   扎接，对接
+button   &&   ①按钮②金属小块，金属小珠
+button cell   &&   扣式电池
+button die   &&   镶入式圆形凹模
+button menu   &&   按钮菜单 按钮菜单
+button plate   &&   凸点钢板
+button switch   &&   按钮开关
+button test   &&   熔珠试验法
+button-bead   &&   圆形端头，球头
+button-spot weld   &&   点焊
+buttress brace   &&   支撑刚性梁，加劲梁，横撑
+buttress thread   &&   倒牙螺纹，直三角螺纹，锯齿螺纹，偏梯形螺纹
+buttress thread form   &&   锯齿形螺纹
+buttstrap   &&   对接搭板，肩托，肩托板，平接盖板
+butyl rubber   &&   丁基橡胶
+butyraceous   &&   油的，含油的，多油的
+buyable spare parts   &&   外购备件，可购备件
+buzz-stick method   &&   绝缘棒探测法
+buzzer   &&   蜂鸣器，蜂音器
+by air   &&   ①用无线电②乘飞机
+by far ...   &&   得多，最
+by means of   &&   借助于
+by pass valve   &&   旁通阀
+by-effect   &&   副作用
+by-pass   &&   ①旁路②过渡系统
+by-pass accumulator   &&   浮充蓄电池
+by-pass battery   &&   缓冲电池组，补偿电池组
+by-pass condenser   &&   旁路电容器
+by-pass filter   &&   分流式滤清器
+by-pass injector   &&   旁通进样器
+by-pass manifold   &&   旁路接头
+by-pass switch   &&   旁路开关，旁通开关
+by-pass to ground   &&   旁通到地
+by-pass transformer   &&   连接变压器，分路变压器
+by-pass valve   &&   旁通阀
+by-product   &&   副产品
+by-product reaction   &&   副产品反应
+by-product recovery   &&   副产物回收，副产品回收
+byblock   &&   随块
+bylayer   &&   随层
+bypass   &&   旁路，支路，旁通管，间道bypass capacity   &&   旁路电容
+bypass diode   &&   旁路二极管
+bypass heat treating   &&   马氏体常温形变热处理
+bypass heat treatment   &&   旁路热处理
+bypass regulation   &&   旁路调节
+bypass relief valve   &&   旁通安全阀
+bypass system   &&   旁路系统
+bypath   &&   分流术
+byte   &&   ①二进位组，信息组，字组，住组②字节(二进位制的)
+byte frame   &&   字节帧
+byte serial   &&   字节串行
+byte-interleaved mode   &&   字节交叉方式
+byte-multiplexer channel   &&   字节多路(转换)通道
+byte-oriented operand   &&   按字节的操作数
+byte-serial highway   &&   字节串行住信处公路
+bytownite   &&   倍长石

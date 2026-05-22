@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window >
+	<Font name="Cambria" size="18" bold="true" italic="true" />
+
+<Container name="savepromptxml" float="false" visible="false" >
+	<HorizontalLayout >
+		<Control />
+		<VerticalLayout width="320"  >
+			<Control />
+
+			<VerticalLayout  height="130"  bkimage="file='About_Background_00.png'" >
+				<Control height="1" bkcolor="#FF3AC6D7"/>
+
+				<HorizontalLayout  height="22"  bkimage="file='About_Background_01.png'" >
+					<Control width="5" />
+					<VerticalLayout  width="65" >
+						<Control  />
+						<Control width="63" height="9" bkimage="file='About_00.png'" />
+						<Control />
+					</VerticalLayout>
+					<Control />
+					<VerticalLayout width="22" >
+						<Control />
+						<Button name="savepromptclose" width="22" height="22" bkimage="file='minmaxexit00.png'  dest='5,5,17,17' source='64,2,76,14' fade='125' "  hotimage="file='minmaxexit00.png'  dest='5,5,17,17' source='64,2,76,14' fade='225' " visible="true" />
+						<Control />
+					</VerticalLayout>
+					<Control width="2" />
+				</HorizontalLayout>
+
+				<Control />
+				<HorizontalLayout height="24" >
+					<Control width="30" />
+					<RichEdit name="REdit_saveprompt" width="200" height="24" text="该文件名已存在，是否保存？" inset="6,4,4,0" font="3" bordercolor="196684" bkcolor="0x00000000" textcolor="b0f0f7"  autohscroll="true" multiline="false" rich="false" wantreturn="false" wanttab="false" />
+					<Control />
+					<Button name="Button_saveprompt" width="60" height="24" bkimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='125' " hotimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='225' "  text="保存" font="3" textcolor="b0f0f7"  />	
+					<Control width="30" />
+					
+				</HorizontalLayout>		
+				<Control />
+
+				<Control height="1" bkcolor="#FF3AC6D7" />
+			</VerticalLayout>
+
+			<Control />
+		</VerticalLayout>
+		<Control />
+	</HorizontalLayout>
+</Container>
+
+</Window>

@@ -1,0 +1,146 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">偏心调节机构</span></td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>偏心轮式调节曲柄长机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/543.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动盘上的曲柄AB绕A轴转动，通过连杆BC带动滑块3作往复移动。曲柄AB长度R可用圆盘2内的偏心轮1来调节。调节R时，将偏心轮1绕A转动α角后加以固定，R按下式计算： <br>
+        <img src="images/54_1.gif"><br>
+        式中a--曲柄销B到圆盘2的圆心O 2 的距离； <br>
+        　　 b--圆盘2的圆心O 2 到偏心轮1的圆心O 1 的距离； <br>
+        　　 e--偏心轮1的偏心距，e=AO 1 <br>
+        　　 a--偏心轮1的调节回转角度。 <br>
+        　　 曲柄半径的最大值为Rmax=a+b+e <br>
+        　　 曲柄半径的最小值为Rmin=a+b-e </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>斜轴式偏心调节机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/544.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 凸轮2用滑键安装在轴1的倾斜轴颈上，当轴1在它的轴向移动一定距离时，改变了凸轮2在倾斜轴颈上的相对位置，即改变了凸轮的偏心距，从而改变滚子从动件3的行程。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>偏心轮式调节摇杆长机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/545.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 当曲柄1作主动件回转时，通过摇杆3带动活塞4作往复移动。调节时，将偏心轮2绕固定轴O转动，可改变摇杆3的DC、OB长度及其摆角，达到调节活塞4行程的要求。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

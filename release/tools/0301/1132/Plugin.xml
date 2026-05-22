@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>符号库</name>
+  <classname>二维工具</classname>
+  <classid>2090_2219_2222</classid>
+  <version>1.1.0</version>
+  <softkey>0301</softkey>
+  <username>迈迪设计宝</username>
+  <userid>83193</userid>
+  <startexe>pgrun.exe</startexe>
+  <isMd>False</isMd>
+  <explain><![CDATA[迈迪符号库涵盖多个行业领域，包括：仪器仪表（仪表信号、设备和仪表），建筑（卫生器具及水池，总平面图，暖通空调符号，管道及配件），机械（工位，工装，常用焊接符号，粗糙度），液压气动（单向阀，压力阀，换向]]></explain>
+</plugin>

@@ -1,0 +1,5149 @@
+I iron   &&   工字钢
+I-bar   &&   工字钢
+I-beam   &&   工字钢，工字梁
+I-column   &&   工形截面柱
+I-head engine   &&   I形燃烧室发动机
+I-profile   &&   工字钢
+I-shaped   &&   I字形的
+I/O Control   &&   I/O控制
+I/O channel   &&   输入/输出信道
+IAC   &&   (Idle Air Control) 怠速空气控制
+IBP   &&   Initial Boiling Point) 初馏点
+IC   &&   (Integrated Circuit)  集成电路
+IC Driver IC   &&   显示面板用驱动
+IC Optical   &&   光IC
+IC array   &&   集成电路阵列
+IC block   &&   集成电路块
+IC engine   &&   内燃机(internal combustion engine)
+IC silicon carbide   &&   渗碳碳化硅
+IC technology   &&   集成电路工艺学
+ICAM   &&   (Integrated Computer Aided Manufacturing) 集成计算机辅助制造
+ICAM Definition Method   &&   IDEF方法
+ICC   &&   (Interstate Commerce Commission (US)) (美)州际商业委员会
+ICEI   &&   (Internal Combustion Engine Institute) 内燃机学会
+ICI   &&   (International Electrical Commission)  国际照明委员会
+ICI chromaticity diagram   &&   ICI彩色图
+ICI standard primaries   &&   ICI标准三基色
+IDI   &&   (Indirect Injection (diesel engine))  (柴油机)非直接喷射
+IEC   &&   国际电工技术委员会
+IEEE   &&   美国电气及电子工程学会
+IF amplifier   &&   中频放大器
+IF repeating system   &&   中频接转
+IFP   &&   (Insdtut Francaise du Petrole) 法国石油学会
+IFS   &&   (Independent Front Suspension) 前独立悬架
+IGES   &&   (International Graphics Exchange Specification) 初始图形交换标准，基本图形交换规格
+IGT   &&   (Institute of Gas Technology (US)) (美)煤气技术学会
+IHP   &&   (Indicated Horsepower) 指示马力
+ILEV   &&   (Inherently low emission vehicle (EPA definition)) 固有的低排放车辆(环境保护局定义)
+IMEP   &&   (Indicated Mean Effective Pressure) 指示平均有效压力
+IMI   &&   (Institute of the Motor Industry (UK)) (英)汽车工业学会
+IMSA   &&   (International Motor Sports Association) 国际汽车运动协会
+IMechE   &&   (Institution of Mechanical Engineers (UK))(英)机械工程师学会
+IN steel   &&   IN钢(氮化铝弥散强化钢)
+IO channel   &&   输入输出出信道，IO信道
+IOE   &&   (Intake Over Exhaust (valve configuration))  进气门大于排气门
+IP Address   &&   IP地址
+IPA   &&   (Isopropyl Alcohol异丙基醇
+IPMS   &&   (International Polar Motion Service) 国际极移服务
+IR   &&   ①(Information Retrieval) 信息(情报)检索②(Infrared)  红外
+IR drop   &&   内阻压降
+IRGA   &&   (Infrared Gas Analyser) 红外线气体分析仪
+IRS   &&   (Independent Rear Suspension)　后独立悬架
+IRT   &&   (Institut de Recherche des Transperts (France)) (法)运输研究所
+IRTE   &&   (Institute of Road Transport Engineers (UK)) (英)公路运输工程师学会
+IRU   &&   (International Road Transport Union)  国际公路运输联合会
+ISA   &&   (Industry Standard Architecture) 工业标准结构
+ISA 1932 nozzle   &&   ISA 1932喷嘴
+ISC   &&   (Idle Speed Control) 怠速控制
+ISCA   &&   (International Show Car Association (US))  (美)国际汽车展览协会
+ISFET ion sensor   &&   场效应管(式)离子传感器
+ISFET ion transducer   &&   场效应管(式)离子传感器
+ISO   &&   (International Standards Organization) 国际标准化组织
+ISO viscosity   &&   ISO粘度，国际标准化组织粘度
+ISO/Open system Interconnect-Reference Model   &&   开放系统互连参考模型[ISO/OSI-RM]
+ISOPLANE   &&   等轴测平面，等角平面
+IT   &&   (Isothermal Transformation curve) 等温转变曲线
+ITO   &&   (International Trade Organization) 国际贸易组织
+ITO Glass   &&   (Indium Tin Oxide Glass) 导电玻璃
+ITO Glass Substrate   &&   导电膜玻璃基板
+ITU   &&   (International Telecommunication Union)  国际电信联盟
+Idaho chemical processing plant   &&   爱达荷化学处理厂
+Ihrigizing   &&   固体渗硅
+Illite   &&   伊利石
+Illuminance Meters   &&   照度计
+Immadium   &&   伊马鸠姆高强度耐蚀黄铜(Al 4％～6％，Mn O.5％～3％，Fe 1％～2％，Cu 55％～70％，余为Zn)
+Inalium   &&   伊纳利乌姆铝合金(Cd 1.7%，Mg 1.2％，Si 0.5％，余为Al)
+Inchrome process   &&   固体渗铬法
+Incoloy   &&   因科镍铬不锈钢(Ni 30％，Cr 20％，Mn 1.5％，Si l％，C 0.1％，余为Fe)
+Indalloy   &&   英达洛依焊料(In 90％，Ag l0％)
+India gum   &&   印度树胶，刺槐(树)胶
+Indian rubber   &&   印度橡皮，印度橡胶，天然橡胶
+Indox   &&   英多克斯钡磁铁(永磁材料)
+Industrial Management Techniques Section   &&   (联合国)工业管理技术科[IMTS]
+Information Economics   &&   信息经济学
+Information Flow   &&   信息流
+Information Industry   &&   信息产业
+Information Modeling Technology   &&   信息建模技术
+Information Network   &&   信息网
+Information Resource Management   &&   信息资源管理
+Information Science   &&   信息科学
+Information Service   &&   信息服务
+Information Superhigh Ways   &&   信息高速公路[ISW]
+Information System   &&   信息系统
+Information Systems Engineering   &&   信息系统工程
+Information Theory   &&   信息论
+Integrated Information System   &&   集成化信息系统[IIS]
+Integrated Service Digital Network   &&   综合业务数字网[ISDN]
+Intelsat   &&   (International Telecommunication satellite)  国际通信卫星
+Interactive Video Request System   &&   交互式视频点播系统
+International  Standards  Organization   &&   国际标准组织[ISO]
+International Chamber of Commerce   &&   国际商会[ICC]
+International Electrotechnical Commission   &&   国际电子技术委员会[IEC]
+International Institute for lndustrial Planning   &&   (IIIP)  国际工业规划研究所
+International Organization for Standardization   &&   国际标准化组织
+International Polar Motion Service   &&   国际极移服务
+International Practical Temperature Scale   &&   国际实用温标
+International Practical Temperature Scale-1968   &&   1968年国际实用温标[IPTS-68]
+International Rules for the Interpretation of Trade Terms   &&   国际贸易条件解释通则
+International Standard organization   &&   国际标准化组织[ISO]
+International Temperature Scale   &&   国际温标
+International Temperature Scale-1990   &&   1990年国际温标[ITS-90]
+International Union Of Pure and Applied Physics   &&   国际纯粹物理与应用物理联合会[IUPAP]
+Internet Information Resource   &&   Internet的信息资源
+IronCopper-Nickel thermocouple   &&   铁-铜镍热电偶
+Ironac   &&   埃罗纳克耐蚀高硅铸铁(C 2.7％，Si 13.5％，P O.7％，余为Pe)
+Isa   &&   伊莎钢锰镍精密电阻合金
+Isano oil   &&   伊桑汕
+Isoelastic   &&   艾索埃拉斯梯克高镍等弹性合金  (Ni 36％，Cr 8％，Mo 0.5％，余为Fe)
+Itaconic acid   &&   伊康酸，甲叉丁二酸，亚甲基丁二酸
+Ivanium   &&   伊瓦尼姆铝合金
+Izett steel   &&   无时效钢，承韧钢(用Ai脱氧井含0.5线Ai)
+Izod impact machine   &&   埃左冲击试验机
+Izod impact test   &&   埃左冲击试验
+Izod impact testing machine   &&   埃左冲击试验机
+Izod impact valve   &&   埃左冲击试验值
+Izod number   &&   埃左冲击值
+Izod test   &&   埃左试验
+i.e.   &&   也就是(id est)
+ice   &&   ①冰②冰结③钻石④结冰，冰冻，使成冰
+ice box   &&   冰箱
+ice breaker   &&   破冰船
+ice breaker Lenin reactor   &&   破冰船列宁堆
+ice cellar storage   &&   冰窑储藏，制冷储藏
+ice chute   &&   排冰道
+ice colour   &&   冰染料
+ice condenser   &&   冰冷凝器
+ice dye   &&   冰染染料
+ice erosion   &&   冰蚀
+ice formation   &&   成冰作用
+ice glass   &&   冰(花)状玻璃(表面具有冰花状图案的玻璃)
+ice machine   &&   制冰设备
+ice making equipment   &&   制冰设备
+ice navigation   &&   冰区航行
+ice period   &&   结冰期
+ice point   &&   冰点
+ice pressure   &&   冰压力
+ice prevention   &&   防凌
+ice protection   &&   冰凌防护
+ice regimen   &&   冰摄
+ice sluiceway   &&   泄凌道
+ice trouble   &&   冰害
+ice-flower glass   &&   冰花玻璃
+ice-flower-like structure   &&   冰花状组织，冰花状结枸
+ice-machine oil   &&   制冰机油
+ice-paper   &&   透明纸
+ice-patterned glass   &&   冰花玻璃
+ice-proof   &&   防冰的
+ice-snow physics   &&   冰雪物理
+icing test   &&   结冰试验
+ico   &&   光电析像管，光电摄像管
+icon   &&   图标 图示
+icon oxygen   &&   铁氧系
+icon-clad switch   &&   铁壳开关
+iconic model   &&   ①形象模型②缩比模型③图像模型
+iconoscope   &&   光电析像管，光电摄像管
+icosahedron   &&   正二十面体
+ideal   &&   理想的，标准的，典型的
+ideal black body   &&   理想黑体
+ideal boundary   &&   理想边界
+ideal burning   &&   理想燃烧
+ideal capacitor   &&   理想电容器
+ideal clock   &&   理想钟
+ideal communication channel   &&   理想信道
+ideal conditions   &&   理想条件
+ideal constraint   &&   理想约束
+ideal coordination   &&   理想坐标
+ideal critical diameter   &&   理想临界直径
+ideal crystal   &&   理想晶体，完整晶体
+ideal crystal lattice   &&   理想晶体晶格
+ideal cycle   &&   理想循环
+ideal dielectric   &&   理想电介质
+ideal diode   &&   理想二极管
+ideal element   &&   理想元素
+ideal fluid   &&   理想流体
+ideal format   &&   典型规格
+ideal fuel   &&   理想燃料，标准燃料
+ideal function   &&   理想函数，广义函数
+ideal gas   &&   理想气体
+ideal gas temperature scale   &&   理想气体温标
+ideal gas thermometric scale   &&   理想气体温标
+ideal inherent equal percentage flow characteristic   &&   理想固有等百分比注量特性
+ideal lines   &&   理想直线，伪直线
+ideal liquid   &&   理想液体
+ideal lubricant   &&   理想润滑剂
+ideal network   &&   无损牦网络
+ideal orientation   &&   理想取向
+ideal plastic   &&   理想塑性
+ideal point   &&   理想点，假点，伪点
+ideal product   &&   理想积
+ideal quench   &&   理想淬火
+ideal quenching   &&   理想淬火
+ideal resistance   &&   理想电阻
+ideal semiconductor surface   &&   理想半导体表面
+ideal structure   &&   理想结构
+ideal sum   &&   理想和
+ideal system   &&   理想系统，想象系统
+ideal transformer   &&   理想变压器
+ideal value   &&   理想值
+ideal viscous fluid   &&   理想黏性流体
+idealine   &&   糊状黏结剂
+ideality factor   &&   理想因子
+idealization   &&   理想化
+idealized characteristic   &&   理想化特性
+idealized search service   &&   理想检索服务
+idealized state   &&   理想化状态
+idealized system   &&   理想化系统
+ideally perfect crystal   &&   理想完美晶体
+ideally plastic structure   &&   理想塑性结构
+idele group   &&   伊代尔群
+idemfactor   &&   幂等因子
+idempotence   &&   幂等性
+idempotent   &&   幂等
+idempotent element   &&   幂等元(素)
+idempotent law   &&   幂等定律
+idempotent matrix   &&   幂等矩阵
+idempotent property   &&   幂等性
+idempotent transformation   &&   幂等变换
+identic   &&   恒等的，同一的
+identical   &&   ①恒等式(数)②相同的，同一的，同样的③理想气体温标
+identical distribution   &&   相同分布
+identical element   &&   单位(素)
+identical figures   &&   恒等形
+identical particle   &&   全同粒子
+identical period   &&   等同周期
+identical permutations   &&   恒等排列
+identical quantities   &&   恒等量
+identical relation   &&   恒等式
+identical substitution   &&   恒等贷换
+identically equal   &&   恒等，全等
+identically true formula   &&   恒真式，永真式
+identically vanishing   &&   恒等于零
+identifiability   &&   可辨识性，能辨识性
+identifiable   &&   可识别的
+identifiable target   &&   可识别目标
+identification   &&   ①辨认，识别，证认②标定，鉴定
+identification beacon   &&   识别信标
+identification card   &&   ①鉴定卡②识别卡
+identification chart   &&   证认图
+identification code   &&   识别码
+identification division   &&   标志部分
+identification friend-or-foe radar   &&   敌我识别雷达
+identification instrument   &&   鉴定仪器
+identification lamps   &&   标志灯
+identification mark   &&   识别标记
+identification markings   &&   ①商标②打印标号，认识标记
+identification number   &&   识别数
+identification of dyes   &&   染料鉴定
+identification of fibre   &&   纤维鉴定
+identification of friend or foe   &&   敌我识别
+identification of phase   &&   相鉴定
+identification of product   &&   产品标号
+identification of tool   &&   工具标号
+identification of user   &&   用户标志
+identification signal   &&   识别信号
+identification system   &&   辨识系统
+identification technique   &&   辨识技术
+identifier   &&   标识符 识别字
+identify   &&   ①辨认，识别②标定，鉴定
+identify alternatives   &&   鉴定备选方案，辨识备选方案
+identifying code   &&   参考代码
+identifying sheet list   &&   标示单
+identity   &&   ①恒等，恒等式②同一性，相同③本性
+identity cipher   &&   恒等密码
+identity code   &&   识别码
+identity distance   &&   面(间)距
+identity element   &&   单位元素，恒等元素
+identity function   &&   恒等函数
+identity functor   &&   单位函子
+identity gate   &&   全同门，符合门
+identity group   &&   单位元素群
+identity law   &&   恒等律，同一律
+identity mapping   &&   单位映射恒等的，等量
+identity matrix   &&   单位矩阵
+identity operator   &&   恒等算子
+identity path   &&   幺道路
+identity period   &&   恒等周期，等同周期，自同周期
+identity principle   &&   全同性原理
+identity principle of microparticle   &&   微观粒子全同性原理
+identity relation   &&   恒等关系式
+identity symbol   &&   恒等号
+identity transformation   &&   单位变换
+idiochromatic   &&   本质色(的)
+idiochromatic crystal   &&   本质色晶体，本质光电晶体
+idiochromatism   &&   本质色性
+idioelectric   &&   非导体
+idiomorphic   &&   自形(的)(矿)
+idiomorphic crystal   &&   自形晶体，整形晶体
+idiophanism   &&   自现干涉图
+idiostatic   &&   同电位的，等位差的，同势差的
+idiosyncracy   &&   特质，特性
+idle   &&   ①空转②空载的，空转的，闲置的，无用的，无效的，空闲的
+idle air control   &&   怠速空气控制阀[IAC]
+idle battery   &&   闲置电池，无负荷电池
+idle capacity   &&   ①空闲(生产)能量②备用功率，备用容量
+idle channel   &&   闲线路
+idle character   &&   空转字符
+idle current   &&   无效电流
+idle equipment   &&   闲置设备
+idle fund   &&   闲置资金
+idle gear   &&   空转轮，惰轮
+idle line   &&   空线，闲线
+idle load   &&   空载
+idle motion   &&   空转
+idle speed   &&   怠速
+idle stroke   &&   慢行程，空程
+idle system   &&   怠速系
+idle time   &&   空闲时间
+idle turning regulator   &&   慢车转速调节器
+idle wheel   &&   惰轮
+idle wire   &&   空线
+idler   &&   ①托辊(录音机械部分)②惰轮，过桥轮，空转轮，中间齿轮
+idler arm   &&   ①中间摆臂②惰臂
+idling   &&   ①空载，无载，空转②无效，无功③发动机怠速运转
+idling adjusting screw   &&   怠速调整螺钉
+idling air jet   &&   怠速空气量孔
+idling contact   &&   ①空接点，闭接点②间隔接点
+idling current   &&   空载电流
+idling electromagnetic cut-off valve, carburetor   &&   化油器怠速电磁切断阀
+idling frequency   &&   空载频率(倍增器中之无用差额)，无效频率
+idling jet   &&   低速喷嘴
+idling jet, primary barrel   &&   主腔怠速量孔
+idling loss   &&   闲置损失
+idling nozzle   &&   怠速喷口
+idling shaft   &&   ①变速器中间轴  ②惰性轴
+if and only if   &&   当且仅当
+if clause   &&   条件附句
+if statement   &&   条件语句，如果语句
+iff   &&   当且仅当
+igamide   &&   聚酰胺
+igelite   &&   聚氯乙烯塑料
+igneous concentration   &&   煅烧富集
+igneous drilling   &&   火力凿岩，热力凿岩
+igneous metallurgy   &&   火法冶金学
+ignitability   &&   可燃性，易燃性
+ignited residue   &&   烧余残渣
+igniter   &&   点火器
+igniter current   &&   引燃电流
+ignitibility   &&   可燃性，易燃性
+igniting   &&   点火
+igniting device   &&   点火装置
+igniting powder   &&   点火药
+igniting test   &&   点火试验
+ignition   &&   ①点火，发火②点燃，灼热
+ignition & starting switch   &&   点火与起动开关
+ignition alloy   &&   发火合金，引火合金
+ignition anode   &&   触发(阳)极，点火(阳)极，起弧阳极
+ignition battery   &&   点火蓄电池
+ignition behaviour   &&   着火性能，引燃性能
+ignition cable   &&   点火电缆
+ignition charge   &&   引火药
+ignition coil   &&   点火线圈
+ignition current   &&   点火线路，点火电流
+ignition delay   &&   滞燃期
+ignition inhibitor   &&   着火抑制剂，点火抑制开关
+ignition knock   &&   点火爆震(音)
+ignition lag   &&   滞燃期
+ignition limit   &&   点火极限
+ignition lock   &&   点火开关
+ignition loss   &&   烧失量，灼烧减量，烧损
+ignition loss test   &&   灼减试验
+ignition module   &&   点火控制器
+ignition noise   &&   点火干扰
+ignition order   &&   点火顺序
+ignition plug   &&   火花塞
+ignition point   &&   燃点，着火点，点火温度
+ignition potential   &&   点火电位
+ignition rectifier   &&   引燃管
+ignition scope   &&   点火检查示波器(检查汽车点火系统故障用)
+ignition switch   &&   点火开关
+ignition system   &&   点火系统
+ignition temperature   &&   着火温度
+ignition theory   &&   点火理论
+ignition timing   &&   点火定时
+ignition wire   &&   点火线
+ignitor   &&   ①点火电极，引燃电极，点火器②引燃极(电子管)
+ignitor electrode   &&   ①点火电极②点火塞
+ignitor supply   &&   引燃电源
+ignitron   &&   引燃管，点火管
+ignorable coordinate   &&   可忽视坐标，可遗坐标
+ignore   &&   ①空点，忽略②无作用符号③无作用
+ignore character   &&   无用字符
+ignore specification   &&   忽略规定
+ignored conductor   &&   孤立导体
+ilang-ilang oil   &&   衣兰油
+ilimaussite   &&   硅铈铌钡矿
+ill condition   &&   病态条件
+ill conditioned equation   &&   病态方程
+ill conditioned matrix   &&   病态矩阵
+ill conditioned system of equations   &&   病态方程组
+ill conditioning   &&   ①病态条件②病态的
+ill conditioning problem   &&   病态问题
+ill-posed   &&   不适定的
+ill-riding behaviour   &&   行车不良性状(汽车)
+ill-structured problem   &&   结构不完善问题
+illegal code   &&   非法字符，禁用字符
+illegal command   &&   非法命令
+illegal operation   &&   非法操作
+illinium   &&   铱(元素promethium的旧名)
+illium   &&   镍铬合金，伊利姆(耐腐蚀镍基)合金(Ni 56％～62％，Cr 21％～24％，Cu 3％～8％，Mo 4％～6％，少量Si，Mn，W，Fe)
+illumi yarn   &&   光亮丝，晶光丝
+illuminance   &&   ①(光)照度②照明
+illuminance measurement   &&   光照度测量
+illuminance sensor   &&   照度传感器
+illuminance standard   &&   照度标准器
+illuminance transducer   &&   照度传感器
+illuminant   &&   ①发光体，施照体，光源②发光的③着色染料
+illuminate   &&   照明
+illuminated area   &&   受照面
+illuminated solar cell   &&   受光照的太阳电池
+illuminating adjuster, instrument panel   &&   仪表板照明调节器
+illuminating agent   &&   照明剂
+illuminating aperture angle   &&   照明孔径角
+illuminating brightness   &&   照明亮度
+illuminating configuration   &&   聚光器
+illuminating device   &&   照明设备
+illuminating equipment   &&   照明器材
+illuminating gas   &&   照明气
+illuminating glass   &&   照片玻璃
+illuminating glass ware   &&   光技术玻璃，照明玻璃制品
+illuminating oil   &&   灯油
+illuminating source   &&   光源
+illuminating system   &&   照明系统
+illumination   &&   ①说明，解说②照明，发光③照度，亮度，辉度
+illumination at low powers   &&   低倍照明(显微镜)
+illumination characteristic   &&   照明特性
+illumination curve   &&   照度曲线
+illumination design   &&   照明设计
+illumination engineering   &&   照明工程
+illumination factor   &&   照度系数
+illumination in macrography   &&   宏观照相照明，宏观检验照明
+illumination index   &&   照明指数
+illumination intensity   &&   照度
+illumination level   &&   照度标准，照明标准
+illumination meter   &&   照度计
+illumination of objective   &&   物镜照明度
+illumination photometer   &&   照度计
+illumination profile   &&   照度分布
+illumination sensitivity   &&   光(照)灵敏度
+illuminator   &&   ①照明体，照明器，发光体(器)，光源②反光镜(板)③舷窗(船舶)
+illuminometer   &&   照度计
+illustration   &&   ①例子，实例，例证，例示②举例，说明③图表，插图，图解
+illustrative problem   &&   例题
+illustrative programming example   &&   说明性程序例子
+illuviation   &&   淀积作用，淋积作用
+ilmenite   &&   ①钛铁矿②铌钛矿
+ilmenorutile   &&   铌铁金红石
+iluminite   &&   ①铝电解研磨法②电解抛光氧化铝制品
+image   &&   ①想象，印象②像，像点，图像，影像，映像，物像③成像④镜像，反射信号
+image amplification   &&   图像放大
+image amplifier   &&   图像放大器
+image analysis   &&   影像分析(法)(用电视机和计算机得组合分析)
+image analyzer   &&   图像分析仪
+image analyzers   &&   影像分析仪
+image antenna   &&   镜像天线
+image aspect   &&   像方位
+image brightness   &&   图像亮度
+image by function   &&   函数像
+image by inversion   &&   反演像
+image camera tube   &&   ①移像管②摄像管
+image carrier   &&   图像记录媒质
+image carrying fibre bundle   &&   导像纤维束
+image channel   &&   图像通道
+image channel noise limited sensitivity   &&   图像通道有限灵敏度
+image channel synchronizing sensitivity   &&   图像通道同步灵敏度
+image coding technique   &&   图像编码
+image contrast   &&   像衬比，像反差
+image converter   &&   像变器
+image correlator   &&   图像相关器
+image definition   &&   图像清析度
+image depth   &&   图像深度
+image derogator   &&   像消转器
+image detail   &&   图像细节
+image detection   &&   图像检测，图像检波
+image digitizer   &&   图像数字转换
+image dislocation   &&   像位错
+image dissection   &&   图像分解
+image dissector   &&   析像器
+image dissector tube   &&   析像管
+image distance   &&   像距
+image distortion   &&   像畸变，图像失真
+image disturbance ratio   &&   图像干扰比
+image drift   &&   像移，图像偏移
+image drop out   &&   图像信号失落
+image effect   &&   像效应
+image electro-magnetic shift   &&   象电位移
+image element   &&   像元
+image enhancement   &&   图像增强
+image field   &&   像场
+image file   &&   图像文件
+image force   &&   镜像力
+image formation   &&   成像，图像形成
+image frequency signal   &&   镜频信号
+image geometry   &&   图像几何(形状)
+image glass   &&   成像玻璃，聚焦玻璃
+image height   &&   像高
+image iconoscope   &&   移像式光电像管，图像光电摄像管
+image illumination uniformity   &&   像面照度的均匀性
+image input unit   &&   图像输入装置
+image intensifier   &&   图像增强器
+image interference   &&   图像干涉，镜像干涉
+image inverter   &&   倒像器
+image isocon   &&   分流直像管
+image match   &&   镜像匹配
+image memory   &&   表像记忆
+image method   &&   镜像法
+image model   &&   图像模型
+image of homomorphism   &&   同态像
+image of unknown character   &&   未识别符影像
+image orthiconoscope   &&   超正析(摄)像管
+image pattern   &&   图像图形，图像模式
+image pattern recognition   &&   图像模式识别
+image pick-up tube   &&   摄像管
+image plane   &&   像平面
+image point   &&   象点
+image potential   &&   像势
+image processing   &&   图像处理
+image quality   &&   像质
+image recognition   &&   图象识别
+image reconstruction   &&   图像再现
+image repetition   &&   图像重复，图像重现
+image reproducing   &&   图像重显
+image reproduction   &&   图像再现
+image resolution   &&   解像力
+image response   &&   镜道响应，像频响应
+image restoration   &&   图像复原
+image retrieval   &&   图像检索
+image rotation   &&   象旋转
+image rotator   &&   转像器，像旋转器
+image scanner lenses   &&   影像扫描器镜头
+image scanners   &&   影像扫描器
+image scanning   &&   图像扫描
+image sensor   &&   图象传感器
+image sensor type measurement instruments   &&   影像感测器式量测设备
+image sharpening   &&   图像锐化
+image signal generator   &&   图像信号发生器
+image slicer   &&   图像切分器
+image source   &&   像源
+image space   &&   像(方)空间
+image storage tube   &&   图像存储管
+image symbolization   &&   图像符号化
+image synthesis   &&   图像综合
+image synthesizer   &&   图像合成器
+image theory   &&   镜像原理
+image transcription   &&   图像录制
+image transducer   &&   图象传感器
+image tube   &&   像管
+image type   &&   表像型
+image vericon   &&   移像正析摄像管
+image-forming principle   &&   成像原理
+imageless thinking   &&   无表像思维
+imagery   &&   成像
+imagery type   &&   表像型，意像型
+imaginary   &&   ①虚数的②假像的③想象的
+imaginary accumulator   &&   虚数(运算)累加器
+imaginary axis   &&   虚轴
+imaginary circle   &&   虚圆
+imaginary circle at infinity   &&   无穷远虚圆，虚球圆
+imaginary circle point   &&   虚圆点
+imaginary component   &&   ①虚部②无功分量
+imaginary cone   &&   虚锥，点锥
+imaginary generating gear   &&   假想成形法
+imaginary intersection   &&   虚相交
+imaginary line   &&   虚(直)线，假想线
+imaginary number   &&   虚数
+imaginary part   &&   虚部
+imaginary root   &&   虚根
+imaginary unit   &&   假想单位
+imagination   &&   假想，想象
+imaging   &&   成像
+imaging gas   &&   成像气体
+imaging radar   &&   景像雷达，测绘雷达
+imaging system   &&   成象系统
+imago   &&   无意识意向
+imbalance   &&   不平衡，不稳定性
+imbedded   &&   埋封，嵌入的
+imbedding   &&   嵌入
+imbedment   &&   包埋，埋封
+imbibition   &&   吸液，加水
+imide   &&   亚胺，酰亚胺
+imidocarbonate polymerization   &&   亚胺碳酸酯聚合
+imine   &&   亚胺
+imitate   &&   ①模仿②模拟
+imitation   &&   ①模仿，仿造，模拟②仿造品③虚的③模拟器
+imitation gold   &&   仿金，假金(装饰用铜铝合金)
+imitation leather   &&   人造革，假皮
+imitation linen   &&   人造亚麻布
+imitation marble   &&   人造大理石
+imitation parts   &&   仿制品
+imitation platinum alloy   &&   仿造铂金合金
+imitation porcelain   &&   仿制瓷
+imitation stone   &&   人造石
+imitative pricing   &&   模仿价格
+imitativeness   &&   模仿性
+imitator   &&   模拟器，仿真器
+immalleable   &&   无韧性的
+immaterial   &&   ①非物质的，无形的②不重要的
+immeasurability   &&   不可计量性，不能测量
+immediate access   &&   快速存贮，即时存取，快速存取
+immediate address   &&   直接地址
+immediate addressing   &&   立即寻址，快速寻址
+immediate association   &&   直接联想，即时联想
+immediate correction   &&   直接矫正
+immediate elastic deflection   &&   瞬时弹性形变(在形变荷重除去后立即回复)
+immediate extended addressing   &&   立即扩展寻址
+immediate inference   &&   直接推理
+immediate memory   &&   瞬时记忆
+immediate predecessor   &&   紧接前元
+immediate set   &&   瞬时形变(引起形变的负荷除去后立即测得的形变)
+immediate successor   &&   紧接后元，紧随元
+immediately   &&   正好，恰好
+immersed method   &&   水浸法(探伤)，油浸法，浸渍法
+immersed pump   &&   潜液泵
+immersed tube method   &&   沉埋法施工
+immersed-electrode salt bath   &&   浸极盐浴，埋入式电热盐炉
+immersible pump   &&   潜水泵
+immersion   &&   浸没，浸入，浸渍
+immersion casting   &&   浸没铸造
+immersion coating   &&   浸涂
+immersion conditioning   &&   浸渍处理
+immersion couple   &&   浸入式热电偶
+immersion depth   &&   浸入深度
+immersion error   &&   浸入误差
+immersion heater   &&   浸人式加热器
+immersion lens   &&   油浸透镜，浸没透镜
+immersion line   &&   浸没线
+immersion line of liquid-in-glass thermometer   &&   玻璃温度计的浸没线
+immersion method   &&   浸渍法
+immersion microscope   &&   浸没式显微镜
+immersion objective   &&   油浸物镜，浸没物镜
+immersion objective lens   &&   浸没物镜
+immersion oil   &&   浸油(显微镜用的)
+immersion plating   &&   浸镀
+immersion pyrometer   &&   浸入式高温计
+immersion reflow soldering   &&   浸流焊接
+immersion test   &&   浸没试验，浸液试验，浸水试验，浸渍试验
+immersion testing   &&   液浸法
+immersion thermocouple   &&   浸入式热电偶
+immersion type probe   &&   水浸探头
+immersion ultramicroscope   &&   油浸超显微镜
+immersion ultrasonic testing   &&   浸人式超声检查
+immersion vibrator   &&   插入式振捣器
+immersional wetting   &&   浸润作用
+imminent fatigue damage   &&   急迫疲劳损伤
+immiscibility   &&   不混容性，不混合性
+immiscible   &&   ①不混溶的，不相混合的，不能混合的②非互溶的
+immiscible metal   &&   难混溶金属
+immittance   &&   导抗
+immobile   &&   固定的，不移动的
+immobility   &&   不动性，固定性
+immobilization   &&   ①固定，定位②降低流动性③缩小迁移率
+immovability   &&   不动性，不变
+immovable fitting   &&   紧固配合
+immune set   &&   禁集
+immunity   &&   ①不敏感性②高耐腐蚀状态③抗扰性，免除性
+immunization   &&   免除
+immunizing   &&   ①不敏感处理②高耐腐蚀处理，免疲热处理
+impact   &&   ①碰撞②冲击，冲力③动能④装填，压紧⑤压接
+impact abrasion   &&   冲击磨损
+impact acceleration   &&   撞击加速度
+impact adhesive   &&   冲击黏合剂
+impact allowance   &&   冲击容许量
+impact analysis   &&   影响分析
+impact bending   &&   冲击弯曲
+impact bending test   &&   冲击弯曲试验
+impact brittleness   &&   冲击脆性
+impact cleaning   &&   抛丸清理
+impact crusher   &&   锤式破碎机，冲击式破碎机
+impact current   &&   冲击电源
+impact damper   &&   缓冲器，减震器
+impact detonation   &&   冲击爆震
+impact device   &&   击发机构，发火机构
+impact drilling   &&   冲击钻进
+impact ductility   &&   冲击韧性
+impact elasticity   &&   冲击弹性
+impact endurance test   &&   冲击耐久试验，耐冲试验
+impact energy   &&   冲击能量
+impact energy absorption   &&   冲击能吸收
+impact energy transition curve   &&   冲击能转变曲线
+impact excitation   &&   碰撞激发
+impact extrusion   &&   冲击挤压(成形)，冲挤
+impact failure   &&   冲击破坏
+impact fatigue   &&   冲击疲劳
+impact fatigue testing machine   &&   冲击疲劳试验机
+impact forging   &&   模锻，冲压，造冲击锻
+impact forging machine   &&   冲击锻机
+impact formula   &&   冲击公式
+impact fracture   &&   冲击断口，冲击断裂
+impact frequency   &&   碰撞频率
+impact fuzes   &&   击发引信，发火引信
+impact grinding   &&   冲击粉碎
+impact hammer   &&   冲击锤体
+impact hardness   &&   冲击硬度
+impact hardness test   &&   冲击硬度试验
+impact horn   &&   冲击式喇叭
+impact in axial load   &&   轴向载荷冲击
+impact in bending   &&   弯曲冲击
+impact in torsion   &&   扭转冲击
+impact ionization   &&   碰撞电离
+impact load   &&   突加负载，冲击负载
+impact location system   &&   地下弹着点测量系统
+impact machine   &&   冲击试验机
+impact melt rock   &&   冲击熔岩
+impact modifier   &&   冲击改性剂
+impact of computers   &&   计算机冲击
+impact of performance   &&   性能效果
+impact of recoil   &&   反冲
+impact paper   &&   压敏纸
+impact parameter   &&   碰撞参数，碰撞参量
+impact pendulum   &&   冲击摆锤
+impact plastics   &&   抗冲塑料
+impact pressure   &&   碰撞压力，冲击压力(转炉吹氧)
+impact printer   &&   击打式打印机
+impact probability   &&   碰撞概率
+impact property   &&   冲击性能(材料抵抗高速冲击作用的能力)
+impact pulling test   &&   冲击-拉伸试验
+impact recombination   &&   碰撞复合
+impact resistance   &&   抗冲击性
+impact shear strength   &&   冲击剪切强度
+impact shock   &&   冲击震动
+impact specimen support   &&   冲击试校支架
+impact strength   &&   冲击强度，抗冲击能力，碰撞强度
+impact stress   &&   撞击应力，冲击应力
+impact tearing test   &&   冲击-撕裂试验
+impact tension machine   &&   冲击拉伸(试验)机
+impact test   &&   碰撞试验，冲击试验
+impact test piece   &&   冲击试样
+impact tester   &&   冲击试验机
+impact testing machine   &&   冲击试验机
+impact tolerance   &&   冲击耐力
+impact torsion test   &&   冲击-扭转试验
+impact toughness   &&   冲击韧性
+impact toughness test   &&   冲击韧性试验
+impact value   &&   冲击值
+impact velocity of the pendulum   &&   摆锤的冲击速度
+impact wave   &&   冲击波
+impact wear   &&   冲击磨损
+impact weight   &&   冲击荷重
+impact-resistance plastics   &&   抗冲塑料
+impact-resistant polystyrene plastics   &&   抗冲聚苯乙烯塑料
+impact-testing apparatus   &&   冲击试验机
+impaction   &&   撞击，压紧，碰撞
+impactite   &&   冲击岩
+impairment   &&   损伤，毁损，减损
+impalco alloy   &&   英帕尔科铝基合金
+imparity   &&   不同，不平均，不均衡，差异
+impart   &&   给予
+impaste   &&   用浆糊封，用糊物涂，使成糊状
+impasto   &&   厚涂彩饰(具有立体感)
+impedance   &&   阻抗
+impedance analysis   &&   阻抗分析
+impedance blood volume sensor   &&   阻抗式血容量传感器
+impedance blood volume transducer   &&   阻抗式血容量传感器
+impedance bridge   &&   阻抗电桥
+impedance characteristic   &&   阻抗特性
+impedance converter   &&   阻抗变换器
+impedance head   &&   阻抗头
+impedance match   &&   阻抗匹配
+impedance matching   &&   阻抗匹配
+impedance matching transformer   &&   匹配变压器
+impedance matrix   &&   阻抗矩阵
+impedance measurement   &&   阻抗测量
+impedance meter   &&   阻抗计
+impedance method   &&   阻抗法
+impedance mismatching   &&   阻抗失配
+impedance plane diagram   &&   阻抗平面图
+impedance plethysmography   &&   阻抗式体积描记法
+impedance plotter   &&   阻抗图示仪
+impedance relay   &&   阻抗继电器
+impedance respiratory frequency sensor   &&   阻抗式呼吸频率传感器
+impedance respiratory frequency transducer   &&   阻抗式呼吸频率传感器
+impedance transformer   &&   阻抗变换器
+impediment   &&   阻碍，障碍，障碍物
+impedometer   &&   阻抗计
+impedor   &&   阻抗器
+impellent   &&   ①推进的，推动的②推动力③发动机
+impeller   &&   ①液力变矩器的泵轮②废气涡轮增压器的涡轮③离心式水泵的叶轮
+impeller blade   &&   叶轮片
+impeller rammer   &&   抛砂机
+impenetrability   &&   不可人性，不能贯穿性，不渗透性
+imperative statement   &&   强制语句，命令式语句
+imperceptible given   &&   未感知材料
+imperfect   &&   ①不完全(的)，不完整(的)，不完美(的)②有缺陷的
+imperfect cleavage   &&   不完整解理
+imperfect combustion   &&   不完全燃烧
+imperfect contact   &&   不良触点
+imperfect crystal   &&   不完整晶体，非完美晶体
+imperfect dielectric   &&   不完善电介体
+imperfect dislocation   &&   不完全位错
+imperfect earth   &&   接地不良
+imperfect elastic collision   &&   非完全弹性碰撞
+imperfect elasticity   &&   不完全弹性
+imperfect field   &&   不完全域
+imperfect gas   &&   非理想气体
+imperfect information   &&   不完全信息
+imperfect structure   &&   不完整结构
+imperfect tape   &&   缺陷带
+imperfection   &&   ①缺陷，缺点，毛病，疵病②不完整性，不足，不完全
+imperfection of crystals   &&   晶体缺陷
+imperfectly elastic   &&   非完全弹性的
+imperial gallon   &&   加仑 (1加仑=4.546升)
+imperial standard   &&   英国标准
+imperial yellow   &&   御黄
+impermeability   &&   ①不透性，非渗透性②防水性③气密性
+impermeability test   &&   不渗透试验
+impermeability to gas   &&   不透气性
+impermeable   &&   不渗透的，不渗透性的
+impermeable graphite   &&   不渗透性石墨
+impervious   &&   不渗透的
+impervious barrier   &&   防渗层
+impervious bed   &&   不透水层
+impervious blanket   &&   不透水层
+impervious carbon   &&   不透水碳
+impervious concrete   &&   防渗混凝土
+impervious layer   &&   不透水层
+impervious material   &&   不透水材料
+imperviousness   &&   不透水，不渗透性
+impetus   &&   ①(推)动力②刺激，促进，动量，冲量，冲击，推动，激励
+impingement   &&   ①碰撞，冲击②紧密接触
+impingement angle   &&   入射角
+impingement attack   &&   撞击腐蚀，侵蚀，冲蚀(冶)
+impingement cleaner   &&   碰撞式空气滤清器
+impingement corrosion test   &&   冲击腐蚀试验
+implant   &&   注入
+implant electronics   &&   内植电子装置
+implantable pacemaker   &&   内植式起搏器
+implantation   &&   移植，注入，培植，安放
+implantation range   &&   注入射程
+implanted atom   &&   注入原子
+implanted-channel   &&   注入沟道(半导体)
+implement   &&   ①工具，仪器，机械②家具③实现，实施
+implementation   &&   ①工具，仪器，器具②执行，履行，实现，实施
+implementation of MRPⅡ   &&   MRPⅡ的实施
+implementation planning and control technique   &&   执行计划及控制技术
+implementation step   &&   实施步骤
+implication of material   &&   实质蕴涵
+implicit   &&   ①含蓄的，隐含的，不明显的②绝对的，盲目的，隐式的，固有的
+implicit address   &&   隐式地址
+implicit constraint   &&   隐式约束
+implicit enumeration   &&   隐枚举法，隐数法
+implicit enumeration method   &&   隐枚举法
+implicit function   &&   隐函数
+implicit function theorem   &&   隐函数定理
+implicit integration formulas   &&   隐式积分公式
+implicit method   &&   隐式法
+implicit response   &&   内隐反应
+implicit solution   &&   隐含解
+implicit system   &&   隐式系统
+implied addressing   &&   隐含寻址
+implied and induced output   &&   隐输出和诱导输出
+implied linear constraint   &&   隐式线性约束
+implosion   &&   爆缩，内爆，内破裂
+imply   &&   蕴涵
+imponderability   &&   ①不可量性②无重量，失重
+imponderable   &&   ①不能称的②无重量的，极轻的③不可量的④不可量物(如光)
+imporosity   &&   ①无孔性，不透性的②结构紧密性
+import   &&   输入 汇入
+import of technique   &&   技术输入
+importance sampling   &&   重要性抽样
+importance test   &&   重要检验
+importation   &&   输入
+impossibility   &&   不可能
+impossible event   &&   不可能事件
+impounding reservoir   &&   蓄水池，水库
+impoundment   &&   蓄水
+impoverished fuel   &&   贫化燃料
+impoverished material   &&   贫化(核)材料
+impoverished rubber   &&   失去弹性的橡皮
+impoverishment   &&   ①贫化，缺乏，贫乏②合金成分的损失，合金中的元素消失
+impracticability   &&   不实用性
+impracticable   &&   不能实行的，不现实的，不实用的，行不通的，做不到的，不能使用的
+imprecise information risk   &&   不精确信息风险
+impredicable   &&   不可谓的
+impredicative   &&   非直谓的，非断言的
+impregnability   &&   浸透性
+impregnant   &&   浸渍剂，浸渍液
+impregnate   &&   ①灌注②浸渍，浸透，渗透，浸注
+impregnated and compressed wood   &&   渗树脂(压缩)木材
+impregnated base strain gauge   &&   浸胶基应变计
+impregnated cable   &&   绝缘浸渍电缆
+impregnated catalyst   &&   浸渍催化剂
+impregnated cathode   &&   浸渍式阴极
+impregnated cloth   &&   浸渍布
+impregnated concrete   &&   浸渍混凝土
+impregnated concrete pipe   &&   浸渍混凝土管
+impregnated glass-fiber cloth   &&   浸渍玻璃纤维布
+impregnated graphite   &&   浸渍石墨
+impregnated insulating fabrics   &&   浸渍绝缘织物
+impregnated insulating fiber   &&   浸渍绝缘纤维
+impregnated material   &&   浸渍材料
+impregnated paper   &&   浸渍纸
+impregnated paper capacitor   &&   浸渍纸介电容器
+impregnated plastic-coated  glass  insect screening   &&   玻璃纤维涂塑窗纱
+impregnated pole   &&   防腐电杆
+impregnated with creosote   &&   杂酚油灌注
+impregnated with oil   &&   浸油
+impregnated wood   &&   浸渍木料
+impregnated yarn   &&   浸渍线
+impregnated-carbon silicon carbide   &&   渗碳碳化硅
+impregnated-tape metal-arc weld   &&   浸焊条金属弧焊，旱剂绳金属弧焊
+impregnating   &&   ①浸渍，浸渗②浸染，浸透
+impregnating agent   &&   浸渍剂
+impregnating apparatus   &&   浸渍设备
+impregnating autoclave   &&   浸渍高压釜，浸渍压热器
+impregnating bonding   &&   浸渍黏合法
+impregnating compound   &&   浸渍化合物，浸渍剂
+impregnating crack detector   &&   浸透探伤器
+impregnating insulation process   &&   浸渍绝缘工艺
+impregnating material   &&   浸渍材料
+impregnating method   &&   浸渍法，浸透探伤法
+impregnating varnish   &&   浸渍清漆
+impregnation   &&   ①浸渗，浸透，浸染②浸渍③饱合，充满④注入
+impregnation compound   &&   浸渍(用)化合物
+impregnation equipment   &&   浸渍设备
+impregnation liquid   &&   浸渍液
+impregnation tank   &&   浸渍胶罐
+impregnation technique   &&   浸渍技术
+impregnation-accelerator   &&   助透剂，浸透促进剂
+impregnator   &&   浸渍机
+impress   &&   ①外加，施加，压痕，痕迹②作印记，记号③特征
+impressed power   &&   外加功率
+impressed pressure   &&   外加压力
+impressed voltage   &&   外加电压
+impression   &&   ①压痕，痕迹②印像③影响，效果④压印⑤印刷⑥凹槽，型腔
+impression area   &&   压痕面积
+impression cylinder   &&   印刷滚筒
+impression hardness testing   &&   压痕硬度实验
+impression material   &&   印模材料
+impressionability   &&   ①可印(刷)性②易感性，敏感性
+imprimitive   &&   非本原
+imprimitive matrix   &&   非本原(矩)阵
+imprint   &&   压印，盖印，印痕
+improper   &&   非正常，假
+improper conic   &&   退化二次曲线
+improper convex function   &&   非正常凸函数
+improper eigenfunction   &&   非正常本征函数，非正常特征函数
+improper face   &&   假面
+improper fraction   &&   假分数，可均分数
+improper game   &&   非正常对策
+improper integral   &&   非正常积分，广义积分，异常积分
+improper maximum   &&   非正常极大
+improper minimum   &&   非正常极小
+improper node   &&   非正常结点
+improper orthogonal matrix   &&   非正常正交阵
+improper saddle point   &&   非正常鞍点
+improperly posed   &&   不适定的
+improved bound   &&   改进界
+improved earth road   &&   粗整面土路
+improved polygon method   &&   改进的多边形法
+improved wood   &&   压缩木材
+improvement   &&   改进，改正，改善
+improvement of convergence   &&   收敛性的改善
+improvement threshold   &&   改进限度
+improver   &&   添加剂，改进剂
+improver of viscosity index   &&   黏度指数改进剂
+impulse   &&   ①冲击，冲动，冲量②脉冲③推力，冲力
+impulse analyzer   &&   脉冲分析仪
+impulse bandwidth   &&   脉冲带宽
+impulse breaker   &&   脉冲开关
+impulse capacitor   &&   脉冲电容器
+impulse circuit   &&   脉冲电路
+impulse control   &&   脉冲控制
+impulse counter   &&   脉冲计数器
+impulse current generator   &&   冲击电流发生器
+impulse current shunt   &&   冲击分流器
+impulse distance meter   &&   脉冲式测距仪
+impulse duration   &&   脉冲宽度，脉冲持续时间
+impulse excitation   &&   ①冲击激励，碰撞激励②脉冲激励，脉冲击发
+impulse frequency   &&   脉冲频率
+impulse generator   &&   脉冲发生器
+impulse inertia   &&   冲击惯性
+impulse load   &&   冲击载荷
+impulse magnet   &&   脉冲磁铁
+impulse modulation   &&   脉冲调制
+impulse motor   &&   脉冲马达
+impulse noise   &&   冲击噪声
+impulse of compression   &&   压缩冲量
+impulse of restitution   &&   恢复冲量
+impulse oscillator   &&   脉冲振荡器
+impulse oscilloscope   &&   脉冲示波器
+impulse period   &&   ①脉冲周期②冲击周期
+impulse power   &&   脉冲功率
+impulse precision sound level meter   &&   脉冲精密声级计
+impulse radiation   &&   脉冲辐射
+impulse ratio   &&   脉冲比
+impulse reflection process   &&   脉冲反射法(超声波探伤)
+impulse register   &&   脉冲寄存器
+impulse relay   &&   脉冲继电器
+impulse response   &&   冲激响应，脉冲响应
+impulse response analyzer   &&   脉冲特性分析仪
+impulse sealing   &&   脉冲焊接(热塑性塑料板式薄膜接合的方法)
+impulse signal   &&   脉冲信号
+impulse source   &&   脉冲源
+impulse spring   &&   脉动簧(继电器)
+impulse system   &&   脉冲制
+impulse tachometer   &&   脉冲式转速表
+impulse test   &&   脉冲试验
+impulse testing   &&   冲击波试验
+impulse testing machine   &&   脉冲试验机，脉冲测试机
+impulse train   &&   脉冲群，脉冲序列
+impulse turbine   &&   ①冲击式汽轮机②水戽式水轮机，冲击式水轮机③冲力式涡轮机
+impulse voltage   &&   脉冲电压
+impulse voltage divider   &&   冲击分压器
+impulse voltage generator   &&   冲击电压发生器
+impulse water turbine   &&   冲击式水轮机
+impulse wave   &&   脉冲波，冲击波
+impulse welding   &&   脉冲焊
+impulse width   &&   脉冲宽度
+impulse-method electric finding   &&   脉冲法电波探测
+impulsing   &&   ①发送脉冲②脉冲激发
+impulsing power source   &&   脉冲电源
+impulsion   &&   ①冲量②冲击，冲动③推力④脉冲
+impulsive action   &&   冲动行为
+impulsive burst   &&   脉冲爆发
+impulsive control problem   &&   冲击控制问题
+impulsive discharge   &&   脉冲放电
+impulsive force   &&   冲力
+impulsive load   &&   冲击载荷
+impulsive motion   &&   脉动
+impulsive neurosis   &&   冲动性神经症
+impulsive sound   &&   脉冲声
+impulsiveness   &&   冲动性
+impure   &&   不纯的，不洁的，含杂质的
+impure representation algebra   &&   不纯的表示
+impure semiconductor   &&   不纯半导体
+impurity   &&   杂质，混杂合物
+impurity absorption   &&   杂质吸收
+impurity activation   &&   杂质激活
+impurity activation energy   &&   杂质激活能
+impurity atom   &&   杂质原子
+impurity band   &&   杂质能带
+impurity band conduction   &&   杂质带传导
+impurity center   &&   杂质中心
+impurity compensation   &&   杂质补偿
+impurity concentration   &&   杂质浓度
+impurity conduction   &&   杂质传导
+impurity conductivity   &&   杂质电导率
+impurity content   &&   杂质含量
+impurity density   &&   杂质密(浓)度
+impurity diffusion coefficient   &&   杂质扩散系数
+impurity distribution   &&   杂质分布
+impurity doping   &&   掺杂
+impurity element   &&   杂质元素
+impurity energy level   &&   杂质能带
+impurity gradient   &&   杂质梯度
+impurity interaction   &&   杂质相互作用
+impurity level   &&   不纯度，杂质浓度，杂质能级，杂质量
+impurity masking   &&   杂质屏蔽
+impurity photoconductivity   &&   杂质光电导率
+impurity profile   &&   杂质剖面，杂质分布
+impurity scattering   &&   杂质散射
+impurity segregation   &&   杂质分凝，杂质偏析
+impurity self-diffusion coefficient   &&   杂质自扩散系数
+impurity semiconductor   &&   (含)杂质半导体
+impurity source   &&   杂质源
+impurity state   &&   杂质态
+impurity-band conduction theory   &&   杂质带导电理论
+imputation   &&   分配
+imputed cost vector   &&   归属价值向量
+in accord   &&   契合
+in accuracy   &&   偏差，误差，不精确性，不准确度
+in accurate   &&   不精确的，不正确的
+in action   &&   ①不活动，不活跃②静止
+in activation   &&   钝化，钝化作用
+in active   &&   ①惰性的，不活动的②无放射性的③不旋光的④无功率的
+in branch   &&   入支路
+in circuit emulator   &&   联机仿真器[ICE]
+in contact mask   &&   接触掩膜
+in contact with   &&   接触
+in pro   &&   按比例
+in sequence   &&   顺序
+in situ   &&   原地
+in situ concrete   &&   现场浇注混凝土，就地浇注混凝土
+in situ salinometer   &&   现场盐度计
+in situ test   &&   现场试验
+in slot signaling   &&   时隙内信号方式
+in sync operation   &&   同步操作
+in synchronism   &&   同步
+in terms of   &&   依据
+in-and-out reheating furnace   &&   分批加热炉
+in-and-out type furnace   &&   分批装出料的室式(加热)炉
+in-band   &&   合规频率
+in-bridge   &&   跨接，桥接
+in-car entertainment   &&   车载娱乐设备[ICE]
+in-core   &&   反应堆心内
+in-diffusion   &&   内扩散
+in-flow   &&   流入量
+in-gate   &&   输入门
+in-gate circuit   &&   输入电路
+in-house   &&   内部的，本身的
+in-house facility   &&   内部设备
+in-line   &&   ①直线式，同轴②排齐的，成行的③机内处理
+in-line crank-slider mechanism   &&   对心曲柄滑块机构
+in-line engine   &&   直列式发动机
+in-line fuel injection   &&   直列式燃油喷射
+in-line power steering   &&   整体式动力转向器
+in-line roller follower   &&   对心滚子从动件
+in-line slider-crank mechanism   &&   对心曲柄滑块机构
+in-line translating follower   &&   对心直动从动件
+in-line tube   &&   一列式电子管
+in-line tuning   &&   同频调谐
+in-line-of-draw   &&   直接脱模
+in-mould decorating   &&   模内装饰
+in-mould inoculation   &&   型内孕育(法)
+in-mould process   &&   型内处理法(球铁)
+in-parallel   &&   并联
+in-phase   &&   同相
+in-phase voltage   &&   同相电压
+in-place   &&   在位 现地
+in-series   &&   串联
+in-site testing   &&   现场试验
+in-situ colour meter   &&   现场水色计
+in-situ extraction sampler   &&   现场萃取采水器
+in-situ seawater oxygenometer   &&   海水溶解氧现场测定仪
+in-step condition   &&   同步条件，同相条件
+in-trunk   &&   人中继
+in-warranty failure   &&   保用期内失效
+inaccessibility   &&   难达到性
+inaccessible boundary point   &&   不可达边界点
+inaccessible cardinal   &&   不可达基数
+inaccessible state   &&   不可达状态
+inaccessible stationary point   &&   不可达稳定点
+inaccuracy   &&   不精确度
+inactive file   &&   待用文件
+inactive gas   &&   惰性气体
+inactive mode   &&   被动的，非主动式，被动式
+inactivity   &&   ①不活动性②不放射性③不旋旋光性④无功率
+inactivity cost   &&   停工成本
+inadaptability   &&   不适应性
+inadequacy   &&   不适当，不完全
+inadherent   &&   不黏结的
+inadhesion   &&   缺乏黏性
+inadmissibility   &&   不允许
+inadmissible strategy   &&   不宜取策略
+inalterability   &&   不变性
+inappropriate   &&   不恰当的，不适当的，不相称，不适宜
+inarmoured cable   &&   非铠装电缆
+inaudible   &&   听不见的
+inband signaling   &&   带内信号方式
+inboard brakes   &&   中央制动器
+inboard rotor   &&   内重心转子
+inboard starter   &&   惯性式起动机
+inbuilt   &&   ①埋设的，嵌人的，装入的②固定的
+incandescence   &&   白热，白炽(物质由于高温而发射的光)
+incandescent   &&   白炽的，灼热的
+incandescent cathode   &&   炽热阴极，热阴极
+incandescent lamp   &&   白炽灯
+incandescent lighting   &&   白炽灯照明
+incandescent screen   &&   白炽光屏
+incandescent zone   &&   白热带
+incarbonisation   &&   炭化作用
+incendiary   &&   燃烧，燃烧的
+incenter   &&   内心
+inception   &&   开始，初始位置
+inch   &&   英寸 (1英寸=25.4毫米)
+inch-to-metric conversions   &&   英公制转换
+inching   &&   ①微调整，微动，寸动②延缓闭模，降速闭模
+inching control   &&   ①微动控制②低速点动
+inching valve   &&   微动阀
+inchrome   &&   渗铬法
+incidence   &&   ①倾角②入射角③入射(光线的)④关联(数)⑤匝角
+incidence angle   &&   入射角
+incidence axioms   &&   关联公理
+incidence coefficients   &&   关联系数
+incidence correspondence   &&   关联对应
+incidence matrix   &&   关联(矩)阵
+incidence of light   &&   光线入射
+incident   &&   ①偶然事件，事故②入射的
+incident angle   &&   入射角
+incident beam   &&   入射光束
+incident electron   &&   入射电子
+incident energy   &&   入射能量
+incident face   &&   入射面，辐照面
+incident flux   &&   入射通量
+incident intensity   &&   入射强度
+incident light   &&   入射光
+incident normal   &&   入射法线
+incident photon flux   &&   入射光子流
+incident power   &&   入射功率
+incident radiation   &&   入射辐射
+incident rate   &&   事件率，呼唤率
+incident ray   &&   入射线
+incident sound   &&   人射声
+incident space   &&   关联空间
+incident vector   &&   关联向量
+incident wave   &&   入射波
+incident with one another   &&   互相关联
+incidental error of observation   &&   观察偶误
+incineration   &&   煅烧
+incinerator   &&   焚化装置
+incinerator furnace   &&   焚烧炉(树脂砂再生炉)
+incipient   &&   初期的，开始的，初步的
+incipient crack   &&   初裂
+incipient crystal   &&   晶胚
+incipient failure   &&   初发故障
+incipient fatigue damage   &&   初始疲劳损伤，早期疲劳损伤
+incipient fault   &&   隐患
+incircle   &&   内切圆
+incision   &&   ①刻，切割②刻口，切口，刀痕③切开④雕刻
+inclinable   &&   可倾斜的
+inclination   &&   ①倾斜②倾度③偏差④倾角，斜孔
+inclination angle   &&   倾角
+incline   &&   ①斜面，斜坡②倾斜③倾度，斜度
+incline circular table   &&   倾斜圆盘工作台
+incline hoist   &&   斜井提升机
+incline impact test   &&   斜而冲击试验
+inclined casting   &&   倾斜浇注
+inclined elevator   &&   倾斜升运机
+inclined engine   &&   斜置发动机
+inclined force   &&   斜力
+inclined orbit   &&   (卫星)倾斜轨道
+inclined plane   &&   倾(斜)面
+inclined reaction   &&   斜向反力
+inclined slag   &&   夹渣
+inclined stress   &&   倾斜应力
+inclined weld   &&   斜焊
+inclinometer   &&   ①倾斜仪②磁倾仪
+inclosed   &&   密封的，封闭的
+inclosure   &&   罩，壳
+include   &&   包含
+include list   &&   禁用词表
+included angle   &&   包含角 夹角
+included slag   &&   夹渣
+inclusion   &&   ①包含，包留②包含杂质，夹杂(物)③掺杂，内含物④包体
+inclusion complex   &&   包含络合物
+inclusion compound   &&   包合物，包合化合物，包合配合物
+inclusion contents   &&   夹杂物含量
+inclusion gate   &&   “或”“非”门，蕴含门
+inclusion mapping   &&   包含映射
+inclusion monotonic   &&   “包含关系”
+inclusion principle   &&   包含原理，包容原理
+inclusion relation   &&   包含关系
+inclusion relation for sets   &&   集的包含关系
+inclusive   &&   可兼
+inclusive disjunction   &&   可兼析取
+inclusive segment   &&   相容段
+incoagulable   &&   不凝结的，不凝聚的
+incoalation   &&   煤化作用，成煤作用
+incoercibility   &&   不可压缩性
+incoherence   &&   ①不黏结性，无内聚性，松散②非共格(金相)③不相干性
+incoherent   &&   ①无黏结的，无内聚的，松散的②非共格的(金相)③不相干的
+incoherent grain boundary   &&   非共格晶粒间界
+incoherent imaging   &&   不相干成像
+incoherent interphase boundary   &&   非共格相间边界，不相干相间边界
+incoherent light   &&   非相干光
+incoherent nucleation   &&   非共格生核
+incoherent scattering   &&   不相干散射
+incoherent signal   &&   非相干信号
+incoherent to coherent devices   &&   光影像转换组件[ITC]
+incoherentness   &&   无黏结性，无内聚性，不相干性
+incombustibility   &&   难燃性，不燃性
+incombustible   &&   不能燃烧的
+incombustible construction   &&   不燃结构
+incombustible material   &&   不燃材料，不燃物质
+incoming call   &&   来话呼叫
+incoming level   &&   输入电平
+incoming material to be inspected   &&   进货待验
+incoming solar radiation   &&   日照
+incoming traffic   &&   输入通信量
+incoming trunk   &&   入局中继线，输入干线
+incommensurability   &&   不可比性，不可通约的，无公度的，不能测量的
+incommensurable   &&   不可通约，无公度
+incommensurable line segments   &&   不可通约线段
+incomparability   &&   不可比性
+incomparability of consequences   &&   结果不可比性
+incomparable   &&   不可比较的，无双的
+incomparable aggregates   &&   不可比集
+incomparable sets   &&   不可比集
+incompatibility   &&   不相溶性，不并存性，不协调性
+incompatible   &&   不能共存的，不相容的，不一致的
+incompatible events   &&   不相容事件，互斥事件
+incompetence   &&   无能，不胜任
+incomplete   &&   不完全的
+incomplete block design   &&   不完全区组设计
+incomplete blocks   &&   不完全区组
+incomplete circuit   &&   不闭合电路，开路
+incomplete combustion   &&   不完全燃烧
+incomplete elliptic integral of the first kind   &&   第一类不完全椭圆积分
+incomplete information   &&   不完全信息
+incomplete learning method   &&   不完全学习法
+incomplete picture test   &&   缺图测验
+incomplete quenching   &&   不完全淬火
+incomplete sentence test   &&   缺句测验，不完全句测验
+incompletely annealed   &&   不完全退火的
+incompleteness   &&   不完备性
+incompressibility   &&   不可压缩性，体积稳定
+incompressible flow   &&   不可压缩流体，不可压缩流动
+incompressible liquid   &&   不可压缩液体
+inconductivity   &&   无传导性，不电导性
+inconel   &&   铬镍铁合金，因科镍合金(Ni 80％，Cr l4％，Fe 6％)
+inconformity   &&   不适合
+incongruence   &&   不调合性，非合谐性，不一致性，异旋光性，异元性，不兼容性
+incongruent   &&   不同余
+incongruent melting   &&   异成分熔融
+incongruent melting phase   &&   不相容融化相
+incongruent melting point   &&   不相容熔点，不一致熔点，异成分熔点
+inconsistency   &&   不兼容性，不一致(性)，矛盾
+inconsistency of geometrical construction   &&   几何作图的不兼容性
+inconsistent   &&   ①不成立②不相容③不一致的，矛盾的
+inconsistent equation   &&   不相容方程，矛盾方程
+inconsistent estimator   &&   不相容估计量
+inconsistent order   &&   非一致序
+inconspicuous   &&   不显眼的
+inconvertibility   &&   不可逆性
+incoordination   &&   不协调性
+incoordination load   &&   不匹配负载
+incorporate   &&   ①一体化的②结合，合并，编入
+incorporated scanning   &&   插入扫描
+incorporation   &&   ①结合，搀和，混合②合并，渗入
+incorrect   &&   错误的，不正确的
+incorrect manipulation   &&   误操作
+incorrect operation   &&   误动作
+incorrelate   &&   不相关的
+incorrodibility   &&   耐蚀性，抗蚀性，不腐蚀性
+incorrodible   &&   耐蚀的，不受腐蚀的
+incorruptibility   &&   坚固性，耐用度
+increase   &&   增加，增大，增殖，增量
+increase of area   &&   断面增大率
+increase of power   &&   提高功率
+increase of service life   &&   延长使用寿命
+increase of voltage   &&   升压
+increased output   &&   增长出力
+increased safety electrical apparatus (Ex e)   &&   增安型电气设备(Ex e)
+increasing   &&   增加，增大
+increasing elements   &&   递增元素
+increasing failure rate   &&   耗损故障率，耗损失效率[IFR]
+increasing function   &&   (递)增函数，增加函数
+increasing power   &&   升幂
+increasing process   &&   增过程
+increasing risk aversion   &&   递增厌恶风险
+increasing series   &&   递增级数
+increasing-decreasing function   &&   增-减函数
+increment   &&   ①增加，增大，增长②增量③余差④增殖
+increment dump   &&   增量转储
+increment function   &&   增量函数
+increment or decrement work   &&   盈亏功
+increment rate   &&   增加率
+incremental   &&   ①增量的②逐渐增长的
+incremental control   &&   增量控制
+incremental creep   &&   增加负载蠕变
+incremental index   &&   逐齿分度
+incremental loss   &&   附加损耗，增量损耗
+incremental motion control system   &&   增量运动控制系统
+incremental permeability   &&   微分导磁率，导磁率增量
+incremental range   &&   微调(增量)范围
+incremental regulation   &&   增量调节，增量调整
+incremental testing   &&   增量测试
+incrementally optimal plan   &&   增殖最优方案
+incrementally optimal sequence   &&   增加最优序列
+incrementary ratio   &&   增量比
+incrust   &&   镶嵌
+incrustation   &&   ①镶嵌物②锈，尘垢③表面装饰④结垢，水锈
+incrystallizable   &&   不能结晶的
+incubation   &&   孕育
+incubation period   &&   孕育期，酝酿期
+incubation time   &&   孕育时间
+incuse   &&   印铸，印压
+indecomposability   &&   不可分性
+indecomposable   &&   ①不可分解②不可分的
+indecomposable code   &&   不可分解码
+indecomposable matrix   &&   不可分解矩阵
+indefeasible right of use   &&   不可取消的使用权
+indefinite   &&   ①不定的②无穷的，不明确的，未确定的
+indefinite equation   &&   不定方程
+indefinite form   &&   不定形式，不定型
+indefinite future   &&   无限未来
+indefinite integral   &&   不定积分
+indefinite matrix   &&   不定矩阵
+indefinite metric   &&   不定度量
+indefinitely small   &&   无穷小
+indegree   &&   内次数，入度
+indene   &&   茚
+indene resin   &&   (聚)茚树脂
+indentation   &&   ①压痕，刻痕②低凹
+indentation hardness   &&   压痕硬度，压印硬度
+indentation hardness tester   &&   压痕硬度计
+indentation hardness testing   &&   压痕硬度试验
+indentation load   &&   压痕负载(硬度试验)
+indentation machine   &&   压痕硬度试验机
+indentation shape   &&   压痕形状
+indentation test   &&   压痕试验
+indented bar   &&   刻痕钢筋
+indented steel wire   &&   齿纹钢丝
+indenter   &&   压头
+indentometer   &&   直读式压痕硬度计
+indentor   &&   (硬度计的)压头
+independence   &&   无关(性)，独立(性)
+independence in analysis of variance   &&   方差分析无关性
+independence in relative value   &&   相对值无关性
+independence test   &&   独立(性)检验
+independent   &&   独立的，单独的，无关的，单动的
+independent chuck   &&   四爪卡盘
+independent conformity   &&   独立一致性
+independent control   &&   ①单独控制，单独调节②自律式调节，独立调节③局部控制
+independent criteria   &&   独立准则
+independent day number   &&   独立日数
+independent demand   &&   独立需求
+independent equation   &&   不定方程
+independent event   &&   独立事件
+independent experiment   &&   独立实验
+independent failure   &&   独立失效，独立故障
+independent increment   &&   独立增量，自增量
+independent linear equation   &&   无关线性方程
+independent linearity   &&   独立线性度
+independent periods   &&   独立周期
+independent random variable   &&   独立随机变量
+independent retarder   &&   独立缓速器
+independent space   &&   无关空间
+independent suspension   &&   独立悬挂，个别悬挂，独立悬架
+independent trial   &&   独立试验
+independent variable   &&   自变量，独立变量
+independently   &&   独自地，独立地
+indestructibility   &&   不灭性，不损坏性
+indestructibility of matter   &&   物质不灭
+indeterminacy   &&   测不准，不确定
+indeterminate   &&   ①未定数，未知数，未定元②不定的，不确定的
+index   &&   ①指示器②指数，索引
+index compound   &&   索引化合物，母体化合物
+index dial   &&   刻度盘，指示器
+index error   &&   分度误差
+index file   &&   索引文件
+index gears   &&   分度齿轮
+index head   &&   分度头，分度器
+index interval   &&   分度跳跃齿齿数
+index law   &&   指数律
+index level   &&   竖直度盘指标水准器
+index line   &&   指标线
+index mirror   &&   目标定位镜，标度镜
+index number   &&   ①指数②分度数
+index number of wages   &&   工资指数
+index of a coset   &&   旁系指数
+index of a critical point   &&   临界点指数，判别点指数
+index of a singular point   &&   奇点指数
+index of a subgroup   &&   子群的指数
+index of an indicating device   &&   指示机构的指示器
+index of asymmetry   &&   非对称性指数
+index of basicity   &&   碱度(指数)
+index of cementation   &&   ①渗碳指数②黏结性指数
+index of circuit   &&   线路的指数
+index of class   &&   类的指数
+index of correlation   &&   相关指数，相关指标
+index of crystallographic plane   &&   晶面指数
+index of dispersion   &&   差量指数，离差指数
+index of friction   &&   摩擦指数
+index of fuzziness   &&   模糊性指数
+index of inertia   &&   惯性指数，惰性指数
+index of plastic deformation   &&   塑性变形指数
+index of plasticity   &&   塑性指数
+index of reflection   &&   反射率
+index of refraction   &&   折射率，折射指数，折光指数
+index of stabilization   &&   稳定指数
+index of suboptimality   &&   次优性指数
+index of zone   &&   晶带指数
+index page   &&   索引页
+index plate   &&   分度盘
+index qualifier   &&   变址修改
+index register   &&   变址寄存器
+index set   &&   索引集
+index table   &&   索引表
+index term   &&   索引词
+index tolerance   &&   分度公差
+index tube   &&   引示管
+index variation   &&   分度变化量
+indexed address   &&   已变地址
+indexed addressing   &&   变址寻址
+indexed plan   &&   标高平面
+indexed system   &&   加标系
+indexing   &&   ①指标②分度法③作记号，加索引，索引法③变址数法
+indexing head   &&   分度头，分度器
+indexing language   &&   标引语言
+indexing mechanism   &&   分度机构，转位机构
+indicate   &&   标志符
+indicated electrode   &&   指示电极
+indicated horsepower   &&   ①指示功率 ②气缸发出的功率
+indicated output   &&   指示功率，指示输出量
+indicated power   &&   ①指示功率 ②气缸发出的功率
+indicated strain   &&   指示应变
+indicated thermal efficiency   &&   指示热效率
+indicated value   &&   指示值
+indicating device   &&   指示装置，指示机构
+indicating diagram   &&   指示图
+indicating instrument   &&   指示仪器仪表
+indicating lamp   &&   指示灯，信号灯
+indicating measuring instrument   &&   (测量仪器仪表)的示值
+indicating panel   &&   (仪表)指示板
+indicating scale   &&   指示度盘
+indicating value   &&   示值
+indication   &&   示度，示数，读数，表示，指示，显示
+indication error   &&   读数误差，指示误差，示值误差
+indication lag   &&   指示滞后
+indication point   &&   指示点
+indication range   &&   示值范围
+indicative function   &&   示性函数
+indicative mark   &&   指示标志
+indicator   &&   ①指示仪，指示器，计量表，指针(刻度盘)，指功器②指示剂③指示者④显示器⑤示功⑥转向指示灯
+indicator anchorage   &&   指示表支撑座
+indicator diagram   &&   ①指示器图表②示功图
+indicator function   &&   指示函数，示性函数
+indicator light   &&   信号灯
+indicator-rod   &&   漏箭
+indicators or alarm lights   &&   各种指示灯或警告灯
+indicatrix   &&   指标线，指标图，标形
+indices of performance   &&   性能指标
+indicial equation   &&   指数方程式
+indicial response   &&   指数响应(特性)
+indifference class   &&   无差异类，无差异组
+indifference curve   &&   无差别曲线，无差异曲线，中性曲线
+indifference map   &&   无差别图
+indifference relation   &&   无差别关系，中性关系
+indifference relationship   &&   无差异关系
+indifferent   &&   ①中性的②惰性的③不重要的，不关心的，不感兴趣的，不在乎的
+indifferent equilibrium   &&   随遇平衡
+indigenous graphite   &&   析出石墨(金相)
+indigenous inclusion   &&   内析夹杂物
+indigo   &&   靛蓝，靛青，靛
+indigo blue   &&   ①靛蓝色，深蓝色②靛蓝染料
+indigo copper   &&   铜蓝
+indigo white   &&   靛白
+indigocarmine   &&   靛蓝胭脂红，靛红
+indigoid dye   &&   靛类染料
+indigotin   &&   靛蓝
+indirect absorption process   &&   间接吸收过程
+indirect acting instrument   &&   间接作用仪表
+indirect acting recording instrument   &&   间接作用记录仪
+indirect address   &&   间接地址
+indirect addressing   &&   间接寻址
+indirect analog   &&   间接模拟
+indirect arc heating   &&   间接弧热
+indirect band gap   &&   间接带隙
+indirect benefit   &&   间接利益
+indirect bill   &&   间接汇票
+indirect control   &&   间接控制
+indirect cooling   &&   间接冷却
+indirect correlation   &&   间接相关
+indirect cost   &&   间接费用，间接成本
+indirect cross talk   &&   间接串话
+indirect demonstration   &&   间接证法
+indirect drive   &&   间接传动
+indirect echo   &&   间接回波
+indirect electric arc furnace   &&   间接电弧炉
+indirect emission   &&   间接发射，间接放射
+indirect exchange   &&   间接汇兑
+indirect extrusion   &&   间接挤压，反挤压
+indirect gap   &&   间接能隙
+indirect gap material   &&   间接禁带材料
+indirect gap semiconductor   &&   间接禁带半导体
+indirect glare   &&   间接眩光
+indirect heating   &&   间接加热
+indirect illumination   &&   间接照明
+indirect indexing   &&   间接分度法
+indirect injection   &&   间接喷射，非直接喷射 [IDI]
+indirect liabilities   &&   间接负债
+indirect manufacturing cost   &&   间接制造成本
+indirect measurement   &&   间接测量(法)
+indirect method   &&   间接法
+indirect method of measurement   &&   间接测量(法)
+indirect method of proof   &&   间接证明法
+indirect mounting   &&   间接安装
+indirect probability   &&   间接概率
+indirect proof   &&   间接证明(法)
+indirect radiation   &&   间接辐射
+indirect ray   &&   无方向射线，间接射线
+indirect reading   &&   间接读数
+indirect recombination   &&   间接复合
+indirect resistance heating   &&   间接电阻加热
+indirect spot welding   &&   间接点焊
+indirect stress   &&   间接应力
+indirect stroke   &&   间接雷击
+indirect transcendental singularity   &&   间接超越奇点
+indirect transformation   &&   间接转变
+indirect transition   &&   间接跃迁
+indirect utility   &&   非直接效用
+indirect wave   &&   间接波，天波
+indirect-arc furnace   &&   间接电弧炉
+indirect-arc rocking furnace   &&   摇动式间接电弧炉
+indirect-circular transformation   &&   间接圆变换
+indirect-fired furnace   &&   间接加热热处理炉(金属装在马弗罩内)，单独燃烧室炉
+indirect-heating arc furnace   &&   间接加热电弧炉
+indirected graph   &&   无向图
+indirectly controlled variable   &&   间接被控变量
+indirectly controlled wheel   &&   非直接控制车轮
+indirectly heated cathode   &&   旁热式阴极
+indirectly heated type thermistor   &&   旁热式热敏感电阻器
+indissolubility   &&   不溶解性，不分解性，不均匀性
+indistinct inquire   &&   模糊查询
+indistinguishability   &&   不可分辨性
+indistinguishable processes   &&   无区别过程
+indium   &&   铟In(49)
+indium antimonide   &&   锑化铟
+indium arsenide   &&   砷化铟
+indium dichloride   &&   二氯化铟
+indium foil   &&   铟箔
+indium oxide   &&   氧化铟
+indium phosphide   &&   磷化铟
+indium tin oxide   &&   铟锡氧化物
+indium-base alloy   &&   铟基合金
+indium-containing alloy   &&   含铟合金
+individual   &&   个体
+individual adjustment   &&   分别调整，单独调整
+individual calling   &&   个别呼叫
+individual consumer   &&   个体用户
+individual decision making   &&   个体决策
+individual differences   &&   个别差异
+individual drive   &&   单独拖动(装置)，单独传动(装置)
+individual ergodic   &&   个体各态历经
+individual fibre   &&   单纤维
+individual filament   &&   单纤维，单丝
+individual inactive compound   &&   不可分不旋光化合物
+individual line   &&   专用线路
+individual nominal characteristic   &&   单个名义特性
+individual reaction point   &&   独立反应点
+individual system costing   &&   单系统费用估计
+individual transmission   &&   个别传动，独立传动
+individual variable   &&   ①个体变词②个体变项
+indivisible   &&   除不尽
+indoor   &&   室内
+indoor antenna   &&   室内天线
+indoor illumination   &&   室内照明
+indoor terminal   &&   室内终端
+indoor wiring   &&   室内布线
+indophenol   &&   靛酚
+induce   &&   ①感应②引起，导出，招致，诱发
+induced   &&   感应的，诱导的，诱发的
+induced charge   &&   感应电荷，感生电荷
+induced current   &&   感生电流
+induced current image   &&   感生电流象
+induced current method   &&   感应电流法
+induced decomposition   &&   诱导分解
+induced drag   &&   诱导阻力
+induced electric field   &&   感生电场
+induced electrical dipole   &&   诱生偶极子
+induced electromotive force   &&   感生电动势
+induced failure   &&   诱发故障
+induced flux   &&   感应磁通量
+induced hardness   &&   感应硬度
+induced homomorphism   &&   导出同态
+induced infiltration   &&   诱导渗入
+induced inner content   &&   诱导内容度
+induced insulated test   &&   感应绝缘试验
+induced iterative method   &&   诱导迭代法
+induced junction   &&   感应结
+induced magnet   &&   感应磁铁，感生磁铁
+induced magnetism   &&   感应磁，感生磁性
+induced mapping   &&   导出映射
+induced matrix norm   &&   导出(矩)阵模
+induced measure   &&   诱导测度
+induced norms   &&   导出范数
+induced outer measure   &&   诱导外测度
+induced polarization   &&   感生极化
+induced polarization logger   &&   井中激发极化仪
+induced pulse transient system   &&   感应脉冲瞬变系统
+induced radiation   &&   感应辐射
+induced radioactivity   &&   感生放射性
+induced stress   &&   诱导应力
+induced subgraph   &&   导出子图，诱导子图
+induced surface layer   &&   感应表面层
+induced test   &&   感应试验
+induced utility function   &&   诱导效用函数
+induced voltage   &&   感应电压，感生电压
+induced-draft fan   &&   抽风风扇
+inducer   &&   ①诱导体②电感器③诱发物④导流片
+inducible property   &&   可归纳的性质
+inducing   &&   施感的
+inducing catalyst   &&   诱导催化剂
+inducing current   &&   施感电流
+inducing field   &&   施感电场
+inductance   &&   电感
+inductance bow   &&   电感箱
+inductance bridge   &&   电感电桥
+inductance coefficient   &&   电感系数
+inductance coil   &&   电感线圈
+inductance coupling   &&   电感耦合
+inductance current   &&   感应电流
+inductance pressure transducer   &&   电感式压力传感器
+inductance transducer   &&   感应式传感器
+inductance tuning   &&   电感调谐
+inductance type transducer   &&   电感式传感器
+inductile   &&   低塑性的
+induction   &&   ①感应，感应现像，感应密度②引入，诱导③归纳法，归纳
+induction air   &&   吸入空气
+induction brazing   &&   感应钎焊，高频钎焊
+induction bridge   &&   感应电桥
+induction by simple enumeration   &&   简单枚举法
+induction channel   &&   感应槽
+induction coil   &&   感应(线)圈
+induction current   &&   感应电流
+induction degassing   &&   感应去气(法)
+induction effect   &&   感应效应，诱导效应
+induction electromotive force   &&   感应电动势
+induction field   &&   感应场
+induction force   &&   诱导力，感应力
+induction furnace   &&   感应电炉，感应加热炉
+induction furnace with channel   &&   有心感应(点)炉
+induction hardening   &&   感应加热淬火，高周波硬化
+induction heat treatment   &&   感应热处理
+induction heating   &&   感应加热，高频加热
+induction heating equipment   &&   感应加热装置
+induction hum   &&   感应交流声
+induction instrument   &&   感应系仪表
+induction light   &&   感应光
+induction logger   &&   感应测井仪
+induction loss   &&   感应损耗
+induction machine   &&   感应电机，无感导线
+induction manifold   &&   进气岐管
+induction meter   &&   感应系电度表
+induction motor   &&   感应电动机，异步电动机
+induction period   &&   诱导期
+induction phenomena   &&   感应现像
+induction port   &&   进气口
+induction principle   &&   归纳法原理
+induction quenching   &&   感应加热淬火
+induction salinometer   &&   感应式盐度计
+induction sheath   &&   感应屏蔽
+induction soldering   &&   感应焊接
+induction spark coil   &&   电火花感应线圈
+induction starter   &&   感应启动器
+induction stroke   &&   进气行程
+induction system   &&   进气系统
+induction tempering   &&   感应回火
+induction type   &&   感应式
+induction type instrument   &&   感应式仪表
+induction voltage divider   &&   感应分压器
+induction voltmeter   &&   感应式电压表
+induction welding   &&   感应焊接，感应熔焊
+induction-arc furnace   &&   感应电弧炉
+inductionless conductor   &&   无感导体线
+inductive   &&   ①电感的，感应的②归纳的
+inductive approach   &&   归纳法
+inductive branch   &&   电感性支路
+inductive charge   &&   感应电荷
+inductive choke   &&   电感线圈，扼流圈
+inductive coil   &&   电感线圈，有感线圈
+inductive coupling   &&   电感耦合
+inductive displacement measuring instrument   &&   电感式位移测量仪
+inductive displacement transducer   &&   电感式位移传感器
+inductive disturbance   &&   感应干扰
+inductive effect   &&   感应效应
+inductive force transducer   &&   电感式力传感器
+inductive impedance   &&   电感性阻抗
+inductive inference   &&   归纳推理
+inductive interference   &&   感应干扰
+inductive kick   &&   感应电势
+inductive limit   &&   归纳限
+inductive load   &&   电感负载，感性负载
+inductive logic   &&   归纳逻辑
+inductive method   &&   归纳法
+inductive micrometer   &&   电感测微计
+inductive modeling method   &&   归纳建模法
+inductive proof method   &&   归纳证明法
+inductive reactance   &&   感抗
+inductive sensor   &&   电感式传感器
+inductive statistics   &&   归纳统计学
+inductive tensionmeter   &&   电感式张力计
+inductive theorem of sets   &&   集合归纳定理
+inductive transducer   &&   电感式传感器
+inductive transistor   &&   感应型晶体管
+inductive tuning   &&   电感调谐
+inductive voltage transformer   &&   感应式电压互感器
+inductive-deductive reasoning   &&   归纳-演绎推理
+inductivity   &&   ①介电常数②感应率
+inductor   &&   ①感应器②电感器③感应线圈
+inductor alternator   &&   感应式交流发电机
+inductor dynamotor   &&   感应式电动发电机
+inductor generator   &&   感应电动机
+inductor magneto   &&   感应磁石发电机(电话)
+inductor microphone   &&   感应式传声器
+inductor-type generator   &&   感应式发电机
+inductosyn   &&   感应式传感器
+inductosyn displacement transducer   &&   感应同步式位移传感器
+inductothermy   &&   感应式电热器，感应电热法
+indurated fibre   &&   硬化纤维(似纤维的绝缘材料)
+induration   &&   硬化，变硬，固结
+industrial   &&   工业的
+industrial Development Board   &&   (联合国)工业发展理事会企业
+industrial accident   &&   工厂事故
+industrial administration   &&   工业经营学
+industrial alcohol   &&   工业酒精
+industrial analysis   &&   工业分析
+industrial and mining establishment   &&   工矿企业
+industrial art   &&   工艺，工艺美术
+industrial automation   &&   工业自动化
+industrial capital   &&   工业资本
+industrial ceramics   &&   工业陶瓷
+industrial control   &&   生产过程控制，工业控制
+industrial control computer   &&   工控机[ICC]
+industrial control system   &&   工业控制系统
+industrial cost system   &&   工业成本制度
+industrial data processing   &&   工业数据处理
+industrial dynamics   &&   工业动力学，工业动态学
+industrial economics   &&   工业经济学
+industrial economy   &&   工业经济
+industrial efficiency   &&   工厂效率
+industrial electron tube   &&   工业用电子管
+industrial electronics   &&   工业电子学
+industrial engineering   &&   ①工业工程(学)②工业管理学，企业管理学[IE]
+industrial expansion   &&   工业膨胀
+industrial furnace   &&   工业用电炉，直接弧光式电炉
+industrial glass   &&   工业玻璃
+industrial goods   &&   工业用品
+industrial installation   &&   工业生产设备
+industrial lighting   &&   工业照明
+industrial lubricant   &&   工业润滑油
+industrial management   &&   工业管理
+industrial mental health   &&   工业心理卫生
+industrial noise   &&   工业噪声
+industrial oil   &&   工业用油
+industrial organization   &&   工业企业
+industrial process   &&   工业过程
+industrial processing system   &&   工业加工系统
+industrial products   &&   工业产品
+industrial psychology   &&   企业心理学
+industrial quality control   &&   工业质量管理
+industrial relations research association   &&   工业关系研究委员会
+industrial revolution   &&   工业革命
+industrial robot   &&   工业机器人
+industrial security   &&   工业安全
+industrial sewage   &&   工业污水
+industrial standard   &&   工业标准
+industrial stationary battery   &&   工业固定型蓄电池
+industrial system   &&   工业系统
+industrial television   &&   工业电视
+industrial total radiation pyrometer   &&   工业总体辐射感温器
+industrial tractor   &&   工业拖拉机
+industrial union   &&   工业工会
+industrial waste   &&   工业废水，工业污水
+industrial waste gas   &&   工业废气
+industrial water conditioning   &&   工业水处理
+industrial white oil   &&   工业白油，高度精制油
+industrialization   &&   工业化
+industries process control system   &&   生产过程控制系统，工业过程管理系统
+industry   &&   工业，产业
+inedible oil   &&   非食用油
+ineffective   &&   无效的
+ineffective call   &&   无效呼叫
+ineffective time   &&   无效时间
+ineffectiveness   &&   无效，无结果
+inefficiency   &&   没有效率，无效
+inefficient   &&   无效的，效率差的
+inelastic   &&   非弹性(的)，无弹力的，无伸缩性的
+inelastic action   &&   非弹性作用
+inelastic background   &&   非弹性本底
+inelastic collision   &&   非弹性碰撞
+inelastic deformation   &&   非弹性变形
+inelastic scatter   &&   非弹性散射过程
+inelastic scattering   &&   非弹性散射
+inelastic stress   &&   非弹性应力
+inelasticity   &&   非弹性
+inequal heating   &&   不均匀加热
+inequality   &&   ①不等式②不等(性)
+inequality constraint   &&   不等式约束
+inequigranular   &&   不等粒状
+inequilateral   &&   不等边的
+inert   &&   惰性的，不活动的，不起化学作用的，不活泼的
+inert additive   &&   惰性添加剂
+inert aggregate   &&   惰性骨料
+inert atmosphere   &&   惰性气氛
+inert atmosphere annealing   &&   惰性气体(中)退火
+inert element   &&   惰性元素
+inert filler   &&   惰性填料，呆性填料
+inert gas   &&   惰性气体
+inert gas arc welding   &&   惰性气体电弧焊
+inert gas cover   &&   惰性气体保护层
+inert gas shielded melting   &&   惰性气体保护熔炼(法)
+inert material   &&   惰性物质，惰性材料
+inert medium   &&   惰性介质
+inert metal indicated electrode   &&   惰性金属指示电极
+inert solvent   &&   惰性溶剂
+inert-atmosphere furnace   &&   惰性气氛保护(加热)炉
+inert-gas carbon-arc weld   &&   惰性气体保护炭弧焊
+inert-gas metal-arc weld   &&   惰性气体保护金属极弧焊
+inert-gas spot weld   &&   惰性气体保护点焊
+inertance   &&   ①惯性，惰性②惯量③声质量
+inertance element   &&   惯性组件
+inertia   &&   ①惯性，惰性②惯量
+inertia braking   &&   惯性制动
+inertia compensation   &&   惯性补偿
+inertia constant   &&   惯性常数
+inertia damper   &&   惯性阻尼器
+inertia disc   &&   惯性盘
+inertia drive   &&   惯性驱动装置
+inertia factor   &&   惯量系数
+inertia force   &&   惯性力
+inertia governor   &&   惯性调速器
+inertia law   &&   惯性律
+inertia pinion   &&   惯性驱动装置
+inertia reactance   &&   惯性反作用力
+inertia reel   &&   惯性卷轴
+inertia switch   &&   惯性开关
+inertia tensor   &&   惯量张量
+inertia type pickup   &&   惯性传感器
+inertia-mass   &&   惯性质量
+inertial centrifugal force   &&   惯性离心力
+inertial coefficient   &&   惯性系数
+inertial control   &&   惯性控制，惯性制导
+inertial coordinates   &&   惯性坐标
+inertial damping   &&   惯性阻尼
+inertial force   &&   惯性力，惰性力
+inertial guidance   &&   惯性制导
+inertial load   &&   惯性负载
+inertial mass   &&   惯性质量
+inertial motion   &&   隋走量
+inertial navigation   &&   惯性导航
+inertial polarization   &&   惯性极化
+inertial reference frame   &&   惯性参考系
+inertial reference system   &&   惯性参考系
+inertialess   &&   无惯性的
+inertness   &&   惯性，隋性
+inessential cooperative game   &&   非本质合作对策
+inessential game   &&   非本质对策
+inessential general game   &&   非本质一般对策
+inessential mapping   &&   非本质映射
+inessential singularity   &&   非本质奇点
+inevitable   &&   不可避免的，必然的
+inevitably   &&   不可避免地
+inexact   &&   不精确的，不准确的
+inexact concept   &&   不确切概念
+inexact data   &&   不准确数据
+inexact environment   &&   模糊环境
+inexact function   &&   不确切函数
+inexact regression analysis   &&   不确切回归分析
+inexact statement   &&   不确切命题
+inexactitude   &&   不精确
+inexactness   &&   不确切性
+inexhaustible   &&   无穷无尽的，不衰减性，源源不绝的，用不完的，不知疲倦的
+inexpensive   &&   便宜的
+inextensibility   &&   非延伸性
+inextensional deformation   &&   不可开拓的变形
+inf-complete   &&   下半完备的(infimum complete)
+infallibility   &&   无(失)误性(动作的)，确实的，绝无错误
+infant mortality   &&   早期损坏率
+infeasibility form   &&   不可行性形式
+infeasible   &&   不可行的
+infeasible linear program   &&   不可行线性规划
+infeasible region   &&   不可行区域
+infeasible solution   &&   不可行区解
+infection point   &&   拐点
+infeed   &&   横进给，横切
+infeed accumulator   &&   进料活套塔
+infeed grinding   &&   横磨法，切人磨法，横向磨削
+infer   &&   ①推知②推断
+inference machine   &&   推理机
+inference model   &&   推理模型
+inference of immediate   &&   直接推理
+inference of mediate   &&   间接推理
+inference strategy   &&   推理策略
+inferential flowmeter   &&   推导式流量计
+inferior   &&   低品质的，低下的
+inferior angle   &&   下线角
+inferior arc   &&   劣弧
+inferior coal   &&   劣质煤
+inferior conjunction   &&   下合
+inferior field   &&   无穷域
+inferior figures   &&   下附数字，下角数字
+inferior limit   &&   最小限度，下限
+inferior quality   &&   劣晶
+inferior solution   &&   劣解
+inferiority   &&   低级，低品位，低质，劣等
+infidelity   &&   ①失真(度)②不真实，不精确
+infiltrate   &&   渗透剂
+infiltration   &&   ①渗入，渗透②浸润③渗滤④透入，穿透
+infiltration capacity   &&   渗透能力
+infiltrator   &&   渗入者
+infimum   &&   下确界(可缩写为 inf)
+infinite   &&   ①无限的，无穷的②无穷大，无限大
+infinite aggregate   &&   无穷集，无限集
+infinite antagonistic game   &&   无限对抗对策
+infinite complex   &&   无限复形
+infinite continued fraction   &&   无限连分数
+infinite dam   &&   无限水库
+infinite decimal   &&   无尽小数
+infinite determinant   &&   无穷行列式
+infinite dimensional   &&   无限维
+infinite direct product   &&   无限直积
+infinite discontinuity   &&   无穷不连续点，无穷不连续性，无穷间断点，无穷间断性
+infinite extension   &&   无限扩张
+infinite field   &&   无限域
+infinite game   &&   无限对策
+infinite group   &&   无限群
+infinite integral   &&   无穷积分
+infinite lines   &&   无限长线 无限长直线
+infinite matrix   &&   无限(矩)阵
+infinite memory filter   &&   无限记忆滤波器
+infinite period Markovian decision process   &&   无限周期马尔可夫决策过程
+infinite point   &&   无限远点，无穷远点
+infinite population   &&   无限总体
+infinite product   &&   无限乘积
+infinite program   &&   无限规划
+infinite quantity   &&   无穷量
+infinite range approximation   &&   无穷范围逼近
+infinite rays   &&   平行射线
+infinite series   &&   无穷级数
+infinite set   &&   无穷集，无限集
+infinite stage regulator   &&   无限级调整器
+infinite waiting line model   &&   无限排队模型，无限等待线模型
+infinitely divisible law   &&   无穷可分律
+infinitely great   &&   无穷大，无限大
+infinitely increasing   &&   无穷增加，无限增加
+infinitely logic   &&   无穷逻辑
+infinitely near   &&   无穷近，无限近
+infinitely near points   &&   无限接近点
+infinitely small   &&   无穷小，无限小
+infinitesimal   &&   无穷小，无限小
+infinitesimal analysis   &&   无穷小分析
+infinitesimal calculus   &&   无穷小计算
+infinitesimal circle   &&   无穷小圆
+infinitesimal dislocation   &&   无限小位错
+infinitesimal displacement   &&   微小位移
+infinitesimal disturbance   &&   微扰，微摄动
+infinitesimal element   &&   无穷小元素
+infinitesimal geometry   &&   微分几何(学)
+infinitesimal rotation   &&   无限小转动
+infinitude   &&   无限，无穷，无限量
+infinity   &&   无限，无穷
+infix   &&   插入表示
+infix form   &&   中缀式
+infix operation   &&   中缀操作，插入操作
+inflammability   &&   可燃性，易燃性，燃烧性
+inflammable   &&   可燃的，易燃的
+inflammable material   &&   易燃材料
+inflammableness   &&   易燃性
+inflammation   &&   ①着火，发光，燃烧②点火，点燃
+inflatable structure   &&   充气式结构
+inflation   &&   膨胀，充气
+inflation mapping   &&   提升映射
+inflationary cosmological model   &&   暴胀宇宙模型
+inflection   &&   ①弯曲②曲折③偏差④偏转，偏移，偏斜⑤拐点，屈折点
+inflection point   &&   拐点，回折点
+inflectional asymptote   &&   拐点近线
+inflectional tangent   &&   拐切线
+inflexibility   &&   不可变性，不可挠性
+inflexible   &&   不可挠曲的，不可弯曲的
+inflexion   &&   ①拐折，拐点②(反)挠曲，(反)弯曲
+influence   &&   ①影响②电感应
+influence characteristic   &&   影响特性
+influence coefficient method   &&   影响系数法
+influence coefficient(of an influence quantity)   &&   (影响量的)影响系数
+influence error   &&   影响误差
+influence function   &&   影响函数
+influence line   &&   影响线
+influence of magnetic field   &&   磁场影响
+influence of ship-body   &&   船体影响
+influence of static pressure   &&   静压影响
+influence of vibration   &&   振动影响
+influence quantity   &&   影响量
+influential action   &&   影响作用，感应作用
+influx   &&   ①流人②流人量，注入
+informal axiomatics   &&   非形式公理学
+informal information   &&   非正式情报
+informatics   &&   信息学
+information   &&   ①通知，情报，资料，信息②数据，消息
+information acquisition   &&   信息获取，信息采集
+information analysis   &&   信息分析
+information and communication apparatus   &&   信息通讯设备
+information bit   &&   信息位
+information center   &&   信息中心
+information channel   &&   信息通路
+information content   &&   信息量，信息内容
+information cue   &&   信息提示
+information density   &&   信息密度
+information desk   &&   查询台
+information display   &&   信息显示
+information encoding   &&   信息编码
+information entry   &&   信息人口
+information explosion   &&   信息爆炸
+information factor   &&   情报因素
+information feedback   &&   信息反馈
+information feedback system   &&   信息反馈系统
+information field   &&   信息段，信息域
+information flow chart   &&   信息流程图
+information flow control   &&   信息流控制
+information for decision making   &&   决策资料
+information gain   &&   情报增益
+information generator   &&   信息发生器
+information handling   &&   信息处理
+information industry   &&   信息工业
+information item   &&   信息条款
+information management system   &&   信息(情报)管理系统
+information needs   &&   信息需要
+information network   &&   信息网(络)
+information optics   &&   信息光学
+information packet   &&   信息包
+information parameter   &&   信息参数
+information parameter of an electrical signal   &&   电信号的信息参数
+information pattern   &&   信息模式
+information processing   &&   信息处理
+information processor   &&   信息处理器
+information production process   &&   资料生产程序
+information psychology   &&   信息心理学
+information rate   &&   信息率
+information register   &&   信息寄存器
+information requirement   &&   信息要求
+information retrieval   &&   情报检索，信息恢复
+information retrieval display   &&   情报检索显示器
+information retrieval process   &&   信息检索过程
+information retrieval system   &&   (信息)情报检索系统
+information revolution   &&   信息革命
+information science   &&   信息科学
+information set   &&   信息集，情报集
+information society   &&   信息化社会
+information sources   &&   情报源
+information storage   &&   信息存储
+information structure   &&   信息结构
+information system   &&   信息系统，资料系统
+information system for process control   &&   过程控制信息系统
+information theory   &&   信息论，情报理论
+information to aid in decision   &&   决策辅助信息
+information transmission   &&   信息传输
+information value   &&   信息价值
+information word   &&   信息字
+informational capacity   &&   信息容量
+informational probability   &&   信息概率
+infotainment   &&   信息娱乐服务
+infra focal image   &&   焦内像
+infra-acoustic   &&   亚音频的，亚声频的
+infra-black region   &&   黑外区(视)
+infra-low frequency   &&   亚低频(0.3～3千赫)
+infra-permafrost water   &&   冻结层下水
+infra-ray width gauge   &&   红外线测宽仪
+infra-red frequency   &&   红外频率
+infra-red heating   &&   红外线加热
+infra-red heating furnace   &&   红外线加热炉
+infra-red interference method   &&   红外干涉法
+infra-red lamp   &&   红外线灯
+infra-red photograph   &&   红外(热)像
+infra-red polymerization index   &&   红外线聚合指数
+infra-red ray   &&   红外线
+infra-red ray transmitting glass   &&   透红外线玻璃
+infra-red reflow soldering   &&   红外回流焊接
+infra-red scanning   &&   红外线扫描
+infra-red spectrophotometer   &&   红外线分光光度计
+infra-red spectrophotometry   &&   红外光谱分光光度测定(法)
+infra-red testing   &&   红外检测
+infra-red thermography   &&   红外(热)像法
+infra-red transmitting glass   &&   透红外线玻璃
+infra-red videography   &&   红外视频图
+infra-red-ray absorption glass   &&   红外线吸收玻璃
+infra-refraction   &&   红外折射
+infranics   &&   红外线电子学
+infrared   &&   ①红外的②红外线
+infrared LEDs   &&   红外线二极体(非通信用 not for communication)
+infrared absorbing glass   &&   红外线吸收玻璃
+infrared absorbing reflecting filters   &&   红外吸收反射滤光镜
+infrared absorption   &&   红外吸收
+infrared absorption anisotropy   &&   红外吸收的各向异性
+infrared absorption spectroscopy   &&   红外吸收光谱(法)
+infrared analysis   &&   红外分析
+infrared analyzer   &&   红外线分析器
+infrared astronomical satellite   &&   红外天文卫星
+infrared astronomy   &&   红外天文学
+infrared band   &&   红外波段
+infrared bolometer   &&   红外辐射热测量计
+infrared camera   &&   红外照相机
+infrared cinematography   &&   红外电影摄影术
+infrared crystals   &&   红外线晶体
+infrared detection   &&   红外探测
+infrared detector   &&   红外探测器
+infrared detectors   &&   其它红外线检测器
+infrared diameter gauge   &&   红外线测径仪
+infrared dichroism   &&   红外二色性
+infrared distance meter   &&   红外测距仪
+infrared dryer   &&   红外线烘干炉，红外线烘干器
+infrared drying   &&   红外(线)于燥
+infrared emission   &&   红外发射
+infrared emulsion   &&   红外线乳胶
+infrared excess   &&   红外超
+infrared films and plates   &&   红外线底片及感光板
+infrared filter   &&   红外滤光片
+infrared galaxy   &&   红外星系
+infrared gas analyser   &&   红外气体分析仪[IRGA]
+infrared gas analyzer   &&   红外线气体分析器
+infrared gas density meters   &&   红外线气体浓度感测器
+infrared glass   &&   红外线玻璃
+infrared guidance   &&   红外制导
+infrared hygrometer   &&   红外湿度表
+infrared illumination   &&   红外光照明
+infrared inspection   &&   红外检验，红外探伤
+infrared jamming   &&   红外线干扰
+infrared laser   &&   红外线激光器
+infrared lenses   &&   红外线透镜
+infrared light   &&   红外光，红外线
+infrared light sensor   &&   红外光传感器
+infrared light sources   &&   红外线光源
+infrared light transducer   &&   红外光传感器
+infrared magnitude   &&   红外星等
+infrared material   &&   红外感光材料
+infrared materials   &&   红外线材料
+infrared measurement   &&   红外线测量
+infrared microscope   &&   红外线显微镜
+infrared optics   &&   红外线光学
+infrared photography   &&   红外线照相
+infrared pyrometer   &&   红外线高温计
+infrared radiation   &&   红外辐射，红外线，热辐射
+infrared radiation detection apparatus   &&   红外检测仪
+infrared radiation thermometer   &&   红外辐射温度计
+infrared radiometer   &&   红外辐射计
+infrared radiometry   &&   红外线探伤法
+infrared reflectivity   &&   红外反射率
+infrared region   &&   红外(线)区
+infrared remote sensing   &&   红外遥感
+infrared sensing element   &&   红外线敏感组件
+infrared sensor   &&   红外传感器
+infrared source   &&   红外源
+infrared spectra   &&   红外光谱
+infrared spectrogram   &&   红外光谱图
+infrared spectrometry   &&   红外光谱法
+infrared spectrophotometer   &&   红外分光光度计
+infrared spectroscopy   &&   红外光谱学
+infrared spectrum   &&   红外分光，红外光谱
+infrared stove   &&   红外线烘(干)炉
+infrared telescope   &&   红外望远镜
+infrared thermometers   &&   红外线辐射温度感测器
+infrared thickness gauges   &&   红外线厚度计
+infrared transmission   &&   红外传输
+infrared transmitting filters   &&   红外透过滤光镜
+infrared vidicon   &&   红外光电摄像管
+infrared viewer   &&   红外观察器
+infrared vulcanization   &&   红外线硫化
+infrared wave   &&   红外波
+infrared wave length   &&   红外长波
+infrared window   &&   红外窗口
+infrared-excess object   &&   红外超天体
+infrasizing   &&   (粉末的)粒度分析
+infrasonic   &&   亚声的，次声的
+infrasonic frequency   &&   次声频
+infrasonic wave   &&   次声波
+infrastructure   &&   ①下部结构，下层结构②底层结构
+infuse   &&   ①注入②浸渍，泡制，灌输
+infusibility   &&   不可熔性，难熔性
+infusible   &&   不可熔的，难熔的
+infusion   &&   ①注人②注人物，浸入剂③浸渍，浸入，泡制
+infusorial earth   &&   硅藻土
+ingot   &&   ①锭，块，条②钢锭，铸锭，金属锭③坯料
+ingot bar   &&   铸块，锭块
+ingot copper   &&   锭铜，铜锭
+ingot iron   &&   ①铁锭②工业纯铁(平炉冶炼的纯铁)③低碳钢
+ingot mold   &&   钢锭模
+ingot mould   &&   锭模
+ingot pattern   &&   钢锭低倍组织金相图像
+ingot pit   &&   均热炉，均热坑
+ingot slab   &&   扁钢锭
+ingot slab mould   &&   扁钢锭模
+ingot steel   &&   ①钢锭②低碳钢，铸钢
+ingot structure   &&   钢锭组织
+ingot technology   &&   锭工艺
+ingotism   &&   粗大枝晶(钢锭或铸锭的组织缺陷)
+ingotted   &&   铸成锭的
+ingotting   &&   铸锭
+ingrain   &&   ①纱染(纱先染后织)②生染的，染纱的
+ingrain dye   &&   显色染料
+ingredient   &&   ①成分，组分②拼料
+ingredient of concrete   &&   混凝土成分
+inhabited satellite   &&   载人卫星
+inhabited spacecraft   &&   载人飞船
+inhaler   &&   吸气器，吸人器
+inherent   &&   固有的，原有的，先天的
+inherent diaphragm pressure range   &&   固有膜片压力范围
+inherent efficiency   &&   固有效率
+inherent error   &&   固有误差
+inherent feature   &&   固有特性
+inherent feedback   &&   固有反馈
+inherent filtration   &&   固有滤过当量
+inherent flow characteristic   &&   固有流量特性
+inherent grain size   &&   本质晶粒度
+inherent impurity   &&   原有杂质，固有杂质
+inherent instability   &&   固有不稳定性，特有不稳定性
+inherent interference   &&   内在干扰
+inherent stability   &&   固有稳定性
+inherent strain   &&   内在应力
+inherent stress   &&   初应力，内在应力
+inherent viscosity   &&   特性黏数，比浓对数黏度
+inherent weakness failure   &&   固有弱质失效
+inherently   &&   固有的
+inherit properties   &&   继承特性 继承性质
+inheritance   &&   继承，遗传本质(金属)
+inhesion   &&   内在性，固有性
+inhibit   &&   禁止
+inhibit command   &&   禁止指令
+inhibited admiralty metal   &&   防腐蚀海军金属
+inhibited oil   &&   抑制油，抗氧化剂油
+inhibiting action   &&   阻止作用，抑制作用
+inhibiting agent   &&   ①阻抑剂②缓凝剂
+inhibiting signal   &&   禁止信号
+inhibition   &&   抑制，抑止，阻滞，延迟，缓蚀，禁止
+inhibition of corrosion   &&   腐蚀的阻力
+inhibition period   &&   ①抑制期②诱导期
+inhibitive substance   &&   ①阻聚剂②防老剂③延迟剂
+inhibitor   &&   抑制剂，缓蚀剂，阻化剂，阻聚剂
+inhibitor of polymerization   &&   阻聚剂
+inhibitory   &&   禁止的，抑制的
+inhibitory action   &&   抑制作用
+inhomogeneity   &&   ①不均匀性，多相性②杂色性③不同类，不同质
+inhomogeneous   &&   ①不均匀的②不均值的
+inhomogeneous boundary conditions   &&   非齐次边界条件
+inhomogeneous coordinates   &&   非齐次坐标
+inhomogeneous deformation   &&   不均匀变形
+inhomogeneous equation   &&   非齐次方程
+inhomogeneous fiber   &&   非均匀光纤
+inhomogeneous lattice   &&   非均匀格
+inhomogeneous linear difference equation   &&   非齐次线性差分方程
+inhomogeneous plastic flow   &&   不均匀范性流变
+inhomogeneous pumping   &&   不均匀抽运
+inhomogeneous semiconductor   &&   非均匀半导体
+inimical impurity   &&   有害杂质
+initial   &&   初始的，最初的
+initial actuation time   &&   起始动作时间
+initial address message   &&   起始地址信息[IAM]
+initial appearance   &&   初始状态
+initial bask feasible solution   &&   初次基本可行解
+initial capitalization   &&   最初投资，原始投资
+initial charge   &&   初充电，初电荷，起始充电
+initial column   &&   初次列
+initial condition   &&   初始条件，起始条件，原始条件
+initial condition adjustment   &&   起始条件调整
+initial contact   &&   起始啮合点
+initial continuous motion statement   &&   连续运动开始语句
+initial creep   &&   初始蠕变
+initial current   &&   初电流，起始电流
+initial data   &&   原始数据
+initial design stage   &&   初始设计阶段
+initial deviation   &&   初始偏差
+initial displacement   &&   初位移
+initial disturbance   &&   初始扰动
+initial drift   &&   初始漂移
+initial edge   &&   射出边
+initial environment   &&   初始环境 初始环境
+initial error   &&   初始误差
+initial failure   &&   早期失效
+initial function   &&   初始函数
+initial hardness   &&   初始硬度，原始硬度
+initial input routine   &&   起始输人程序
+initial interval   &&   初始间隔
+initial ion pair   &&   原始离子偶，初离子偶
+initial line   &&   起始行，极轴，始线
+initial load   &&   初负荷
+initial modulus   &&   起始模量，起始模数
+initial moisture   &&   原始水分，原有水分
+initial node   &&   起点
+initial orbit determination   &&   初轨确定
+initial order   &&   起始命令
+initial outcome variable   &&   原始结果变量
+initial permeability   &&   初始磁导率
+initial phase   &&   初相
+initial phase angle   &&   初相角
+initial pitting   &&   初期点蚀
+initial point   &&   起点
+initial position   &&   初(始)位(置)
+initial prestress   &&   初预应力
+initial program loader   &&   初始程序的装入程序[IPL]
+initial pulse   &&   始脉冲
+initial ray   &&   初始射线
+initial reading   &&   初读数
+initial row   &&   初始行
+initial sensibility   &&   初始灵敏度
+initial set   &&   初凝
+initial set strength   &&   初凝强度
+initial setting   &&   初调位置
+initial side of an angle   &&   角的始边
+initial signal unit   &&   起始信号单元[ISU]
+initial solution   &&   初始解
+initial stage of the engineering system   &&   工程系统的开发阶段
+initial state   &&   本征态，初态，基态
+initial state manifold   &&   初态流形
+initial strain   &&   初应变
+initial stress   &&   初应力，起始应力
+initial surplus   &&   期初盈余
+initial tableau   &&   初始表
+initial tangent modulus   &&   原切模数
+initial task index   &&   起始任务指标
+initial temperature   &&   超始温度
+initial tension   &&   初张力
+initial term   &&   初项
+initial tree   &&   起始树
+initial unbalance   &&   初始不平衡量
+initial update   &&   首次更新
+initial upper bound solution   &&   初始上界解
+initial value   &&   初值，始值
+initial value estimator   &&   初值估计器
+initial value method   &&   初值方法
+initial value parameter   &&   初值参数
+initial value problem   &&   初值问题
+initial velocity   &&   初速
+initial vertex   &&   初始顶点
+initial viscosity   &&   初黏度
+initial yield surface   &&   初始屈服面
+initialing constraint   &&   初始约束条件
+initialization   &&   恢复，清除，初始化
+initialize   &&   初始化，起始设定
+initiate   &&   ①开始，创始②起燃，起爆，发动
+initiating   &&   启动
+initiating trigger   &&   启动触发器
+initiation   &&   开始，创始，发生，起燃，起爆
+initiation reaction   &&   引发反应
+initiative   &&   首创精神，主动
+initiator   &&   ①引发剂，起爆剂，起始剂②起始因子，启动器③启动站
+initiator of polymerization   &&   聚合引发剂
+initiator program   &&   启动程序
+injected laser   &&   注入式激光器
+injected plasma   &&   注入等离子体
+injection   &&   ①射人②发射③注射，注入④注射液⑤进入轨道，入轨
+injection blow molding   &&   注射吹塑
+injection blow moulding   &&   注射吹塑
+injection casting   &&   ①压铸②压铸件
+injection circuit   &&   注入电路
+injection compression molding   &&   注射圧塑
+injection cross-section   &&   注入横截面
+injection cross-section station   &&   注入横截面部位
+injection current   &&   注人电流
+injection cylinder   &&   压射缸(压铸)
+injection efficiency   &&   注人效率
+injection fibre   &&   注入光纤
+injection grid   &&   注入栅
+injection laser   &&   注入型激光器
+injection layer   &&   注入层
+injection level   &&   注人水平
+injection locking   &&   注入锁定
+injection luminescence   &&   注入发光
+injection luminescent diode   &&   注入式发光二极管
+injection metallurgy   &&   喷射冶金学
+injection molding   &&   注塑，射出成形
+injection molding cycle   &&   注塑周期
+injection molding die   &&   注塑模具
+injection molding machine   &&   注塑机
+injection molding machine with extension nozzle   &&   延长嘴式注塑机
+injection mould   &&   注塑模
+injection moulding   &&   ①注压(硫化)法②塑料注射模(型)法，塑料注射成型
+injection moulding pressure   &&   注射模制压力
+injection nozzle   &&   注射嘴
+injection of carrier   &&   载流子注入
+injection pipe   &&   喷射管
+injection plunger   &&   注射活柱，注射柱塞
+injection pressure   &&   注塑圧力
+injection process   &&   注射法(脱硫，增碳，孕育等)
+injection pump   &&   喷油泵
+injection ram   &&   压射柱塞
+injection rate   &&   注入率
+injection ratio   &&   注入比
+injection speed   &&   注塑速度
+injection unit   &&   注射装置
+injection-moulding machine   &&   压注机
+injective module   &&   内射模
+injector   &&   ①喷射器②注射器③注射极
+injector nozzle   &&   喷油器喷嘴
+injector pump   &&   注射泵
+injectron   &&   高压转换管
+ink   &&   ①墨水②印色③油墨
+ink jet printer   &&   喷墨印刷机
+inker   &&   墨滚(印刷)
+inkiness   &&   漆黑
+inking   &&   划墨线，着墨，注墨水，墨迹作图
+inkjet plain paper facsimiles   &&   喷墨普通纸传真机
+inkpad   &&   印泥
+inlaid   &&   ①镶嵌，镶嵌的②镶嵌板的
+inlaid linoleum   &&   镶嵌油毡
+inlaid wood   &&   镶嵌木
+inlay   &&   ①镶入，嵌入，镶嵌②插入物
+inlay busher   &&   嵌入衬套
+inlay clad plate   &&   双金属板(单面式双面复层的)
+inlay print   &&   镶人印刷
+inlet   &&   ①入口，进口②引入，注入③插入物，镶嵌物
+inlet & outlet connectors   &&   进出接口
+inlet check valve   &&   进油单向阀
+inlet checker   &&   进口砖格
+inlet filter   &&   (减压器的)过滤器
+inlet port   &&   ①进(气)口②吸油口
+inlet stroke   &&   进气行程
+inlet system   &&   进样系统
+inlet valve   &&   ①进汽阀②进给阀③吸油阀，吸入阀
+inline assembly   &&   顺序组装
+inline processing   &&   直接插入处理
+inline screw type injection molding machine   &&   同轴往复螺杆式注塑机
+inner   &&   内的，内部的
+inner Lagrange point   &&   内拉格朗日点
+inner addendum   &&   小端齿顶高
+inner automorphism   &&   内自同构
+inner capacity   &&   内容度
+inner center   &&   内心
+inner center sets   &&   内部聚集
+inner conductor   &&   内导体
+inner cone distance   &&   小端锥距
+inner content   &&   内容度
+inner control limits   &&   内在管理界限
+inner cooled   &&   内冷式
+inner core   &&   内心
+inner corona   &&   内冕
+inner cover   &&   马弗罩，内套
+inner dead center   &&   内止点
+inner dedendum   &&   小端齿根高
+inner deforming loss   &&   内变形损耗
+inner derivation   &&   内部求导
+inner determination   &&   内在决定力
+inner diameter   &&   内径
+inner electron   &&   内层电子
+inner electronic shell   &&   内电子壳层
+inner element   &&   内部元素
+inner energy   &&   内能
+inner gear   &&   内齿轮
+inner guiding post   &&   内导柱
+inner hexagon screw   &&   内六角螺钉
+inner iteration   &&   内迭代
+inner liner   &&   橡胶密封层，气密层
+inner loop   &&   内环，付环
+inner measure   &&   内测度
+inner measure micrometer   &&   内部测微计
+inner model   &&   内模型
+inner multiplication   &&   内乘法
+inner noise   &&   内部噪声，系内噪声
+inner opposite angle   &&   内对角
+inner outer designs of system   &&   系统内外设计部分
+inner package   &&   内包装
+inner parts inspect   &&   内部检查
+inner photo effect   &&   内光电效应
+inner plunger   &&   内柱塞
+inner point   &&   内点
+inner product   &&   内积，标帜
+inner product of tensor   &&   张量的内积
+inner punch   &&   内冲头
+inner race (RF)   &&   星形套
+inner regular set   &&   内正则集
+inner ring   &&   内圈，内齿轮
+inner slot width   &&   小端槽宽
+inner solar system   &&   内太阳系
+inner spiral angle   &&   小端螺旋角
+inner strain   &&   内应変
+inner stripper   &&   内脱料板
+inner term   &&   内项
+inner tube   &&   内胎
+inner-shell electron   &&   内层电子
+innermost electron   &&   最深层电子
+innovation   &&   ①革新，技术革新②新方法，新发明，创新
+innovation ability   &&   创新能力
+innovation cost   &&   技术革新费用
+innovation creation   &&   创新
+innovation function   &&   革新职能
+innovation spectrum   &&   修正谱
+innovative conception   &&   革新概念
+innumerable   &&   无数的，数不清的
+inoculant   &&   ①孕育剂，球化剂②变质剂
+inoculated cast iron   &&   孕育铸铁，变性铸铁
+inoculating crystal   &&   晶种，籽晶
+inoculating seed   &&   晶种，籽晶
+inoculation   &&   ①孕育(作用)，孕育处理②培养，接种
+inoculation cast iron   &&   孕育铸铁，变性铸铁
+inoculation fade   &&   孕育衰退
+inoculator   &&   ①孕育剂②变质剂
+inoculum   &&   ①接种物②孕育剂
+inodorous   &&   无气味的
+inorganic   &&   无机的
+inorganic acid   &&   无机酸
+inorganic base   &&   无机碱
+inorganic binder   &&   无机黏结剂
+inorganic bond   &&   无机黏结
+inorganic chemistry   &&   无机化学
+inorganic coating   &&   无机涂层
+inorganic compound   &&   无机化合物
+inorganic fibre   &&   无机纤维
+inorganic ion exchanger   &&   ①无机离子交换器②无机离子交换剂
+inorganic man-made fibre   &&   无机人造纤维
+inorganic material   &&   无机材料，无机物质
+inorganic matter   &&   无机物
+inorganic pigment   &&   无机颜料(从天然矿物制成的或由无机物合成的颜料)
+inorganic polymer   &&   无机聚合物
+inorganic-reinforced plastic   &&   无机物增强塑料
+inosilicate   &&   链状硅酸盐
+inosite   &&   肌醇，环己六醇(乳胶成分)
+inositol   &&   肌醇，环己六醇(乳胶成分)
+inoxidability   &&   不可氧化性
+inoxidizability   &&   不可被氧化性，耐腐蚀性
+inpolar   &&   内极点
+inpolar conic   &&   内极二次曲线
+input   &&   输入
+input admittance   &&   输入导纳
+input alphabet   &&   输入字母
+input and output device   &&   输入输出设备[I/O]
+input and output with insulated common point   &&   带有隔离公共点的输入和输出
+input area   &&   输入区(计)
+input axis   &&   输入轴
+input back-off   &&   输入补偿
+input block   &&   输入部件
+input capacitance   &&   输入电容
+input coefficient   &&   投入系数
+input connection matrix   &&   输入联结矩阵
+input data   &&   输人数据
+input design   &&   输入设计
+input device   &&   输入设备
+input element   &&   输入元素
+input error control   &&   输人出错控制
+input field   &&   输入域(计)
+input impedance   &&   输入阻抗
+input impedance of the magnetizing winding   &&   激磁绕组输入阻抗
+input impedance of the measuring winding   &&   测量绕组输入阻抗
+input link   &&   输入构件
+input matrix   &&   输入矩阵
+input mode   &&   输入方法
+input of chinese characters   &&   汉字信息输入
+input output   &&   输入输出
+input output coefficient   &&   投人产出系数
+input output control statement   &&   输入输出控制语句
+input output interface   &&   输入输出接口
+input output method   &&   投入产出法
+input output model   &&   输入－输出模型，投入产出模型
+input output properties   &&   输入－输出特性
+input output reachability   &&   输入－输出可达性
+input output relation   &&   输入-输出关系
+input output relationship   &&   输入－输出关系
+input output section   &&   输入输出节
+input output symbol   &&   输入输出符号
+input output table   &&   投入产出表
+input port   &&   输入端
+input power   &&   输入功率
+input prediction method   &&   输入预估法
+input quantity to frequency conversion type   &&   输入量-频率转换型
+input queue   &&   输人队列
+input reachability   &&   输入可达性
+input reference axis   &&   输入基准轴
+input routine   &&   输入程序
+input shaft   &&   主动轴(含一二档齿轮 with 1st & 2nd speed gears)
+input signal   &&   输入信号
+input source   &&   输入源
+input stream   &&   输入作业流(计)，输人流，输入过程
+input terminal   &&   输入端
+input unit   &&   输入设备
+input variable   &&   输入变量
+input vector   &&   输入向量，输入矢量
+input with isolated common point   &&   公共端隔离输入
+input-centralized system   &&   输入集中系统
+input-decentralized system   &&   输入分散系统
+input-output accounting   &&   投入产出核算
+input-output analysis   &&   投入产出分析
+input-output bound   &&   输入输出界限，投入产出界限
+input-output channel   &&   输入输出通道
+input-output device   &&   输入输出设备
+input-output information   &&   输入－输出信息
+input-output matrix   &&   投入产出矩阵
+input-output model   &&   投入产出稳定性
+input-output operation   &&   输入输出操作
+input-output port   &&   输入输出端口
+input-output queue   &&   输入输出队列
+input-output request   &&   输入输出请求
+input-output statement   &&   输入输出语句
+input-output table   &&   投入产出表
+input-output unit   &&   输入输出设备
+input-transformation-output module   &&   输入-变换-输出模式
+input-truncated condensation   &&   被截输入缩口
+input-truncation digraph   &&   输入截断有向图
+inquiry   &&   查询 查询
+inquiry response   &&   查询，应答
+inquiry station   &&   查询台
+inrush current   &&   涌人电流，浪涌电流
+inscatter   &&   内散射
+inscribed circle   &&   内切圆
+inscribed polygons   &&   内接正多边形 内接多边形
+inscribed stiangle   &&   内接三角形
+inscriber   &&   记录器(计)
+insecurity   &&   不安全感
+insensitive   &&   不敏感的，不灵敏的，迟钝的
+insensitive property   &&   不敏感性能(与显微组织无关的性能)
+insensitiveness   &&   不敏感性，不灵敏性，钝性
+inseparable   &&   不可分
+inseparable field   &&   不可分域
+insert   &&   ①嵌件，嵌入物②嵌入，插入③引入，代入
+insert core   &&   放置入子
+insert gauge   &&   塞规
+insert hole   &&   模槽嵌件孔
+insert length   &&   插入长度
+insert molding   &&   嵌件注塑
+insert object   &&   插入对象 插入物件
+insert pin   &&   嵌件销
+insert ring   &&   可熔镶块
+inserted blade cutter   &&   镶片刀盘
+inserted die   &&   嵌入式凹模
+insertion   &&   插入点 插入点
+insertion class   &&   移去类别
+insertion loss   &&   插入衰耗
+inset dish wheel   &&   辐板式车轮
+inside antenna   &&   室内天线
+inside blade   &&   内切刀齿
+inside caliper   &&   内卡钳
+inside calipers   &&   内卡钳
+inside coil   &&   内插线圈
+inside corner weld   &&   内角焊
+inside dimensions   &&   工作室尺寸
+inside force   &&   内侧力
+inside micrometer   &&   内分毫米卡
+inside point diameter   &&   内切刀尖直径
+inside-out type cell   &&   内锌外炭式干电池
+insignia   &&   符号
+insolation   &&   日照
+insolation level   &&   日照水平
+insolubility   &&   ①不溶解性②不可解性
+insolubilization   &&   不溶解
+insolubilizer   &&   不溶黏料
+insoluble   &&   不溶的
+insoluble anode   &&   不溶阳极
+insoluble azo dye   &&   不溶性偶氮染料
+insoluble impurity   &&   不溶杂质
+insoluble matter   &&   不溶物质
+insonification   &&   声透射，声照射
+inspecting engineer   &&   验收工程师
+inspection   &&   ①检查，检验，探伤，验收②观察，调查③检查，监督④检点
+inspection bed   &&   检查台
+inspection between processes   &&   工序间检验
+inspection by sampling   &&   取样检验，抽查
+inspection glass   &&   窥视孔玻璃
+inspection lot   &&   检查批
+inspection manual   &&   检验手册
+inspection of incoming merchandise   &&   到货验收
+inspection of materials   &&   材料检验
+inspection of merchandise received   &&   到货验收
+inspection on the spot   &&   现场检验
+inspection provisions   &&   检验规定
+inspection register   &&   指令寄存器
+inspection report   &&   检验报告
+inspection routine   &&   例检程序
+inspection sheet   &&   检验单
+inspection standard   &&   检修标准
+inspection ticket   &&   检验单，检查单
+inspection time   &&   检查时间
+inspection tool   &&   检验工具，控制工具
+inspection without testing   &&   无试验检验
+inspector   &&   检查员
+inspiration   &&   进气，吸气
+inspissated oil   &&   风化石油，浓缩石油
+inspissation   &&   蒸浓(法)，浓厚化
+instability   &&   ①失稳，不稳定性，不稳定度②不安全性
+instability condition   &&   不稳定条件
+instability stress   &&   失稳应力
+installation   &&   ①设备，装置，安装②计算站
+installation and debugging   &&   安装与调试
+installation conditions   &&   安装条件
+installation cost   &&   安装费用，设备投资
+installation diagram   &&   装配图，安装图
+installation engineering   &&   安装工程
+installation exercise   &&   安装作业
+installation kit   &&   (成套)装配工具
+installation material   &&   安装材料
+installation of equipment   &&   设备安装
+installation of machine and equipment   &&   机器和设备安装
+installation of oceanographic survey   &&   海洋调查装备
+installation plan   &&   分期付款购货法
+installation precaution   &&   安装注意事项
+installation rate of change   &&   瞬息改变率
+installation site   &&   安装地点
+installation work   &&   安装工作
+installed box with V groove   &&   帯V沟装配箱
+installed capacity   &&   设备容量
+installed diaphragm pressure range   &&   安装流量特性
+installed power   &&   净功率
+installed rangeability   &&   安装可调比
+installing   &&   安装，敷设
+installment   &&   ①分期②分期信贷③分期付款
+instance   &&   引用，实例
+instant   &&   瞬时，瞬间
+instantaneity   &&   瞬时性，即时性
+instantaneons axis   &&   瞬轴
+instantaneons axis of rotation   &&   转动瞬轴
+instantaneons elasticity   &&   瞬时弹性
+instantaneons measurement   &&   瞬时测度
+instantaneons strength   &&   瞬时强度
+instantaneous AGC   &&   瞬时自动增益控制
+instantaneous AVC   &&   瞬时自动音量控制
+instantaneous action   &&   瞬时作用
+instantaneous availability   &&   瞬时有效度，瞬时可用度
+instantaneous break   &&   瞬时切断
+instantaneous capacity   &&   瞬时功率
+instantaneous center   &&   瞬时中心，瞬心
+instantaneous center of rotation   &&   转动瞬心
+instantaneous center of velocity   &&   速度瞬心
+instantaneous compliance   &&   瞬时柔量
+instantaneous contact pattern   &&   瞬时接触斑点
+instantaneous current   &&   瞬时电流
+instantaneous deformation   &&   瞬时形变
+instantaneous description   &&   瞬时描述
+instantaneous discharge   &&   瞬时放电
+instantaneous e.m.f.   &&   瞬时电动势
+instantaneous impact prediction   &&   瞬时弹着点预测
+instantaneous ladle inoculation   &&   瞬时浇包孕育
+instantaneous load   &&   瞬时负载
+instantaneous mixed strategy   &&   瞬间混合策略
+instantaneous piston speed   &&   活塞瞬时速变
+instantaneous plasticity   &&   瞬时塑性
+instantaneous polymerization   &&   瞬时聚合(作用)，暴聚
+instantaneous power   &&   瞬时功率
+instantaneous release   &&   瞬时释放
+instantaneous sampling   &&   瞬时取样
+instantaneous screw axis   &&   瞬时螺旋轴
+instantaneous sound pressure   &&   瞬时声压
+instantaneous strain   &&   瞬时应变
+instantaneous stress   &&   瞬时应力
+instantaneous suspension center   &&   悬架瞬时中心
+instantaneous trip   &&   瞬时跳开
+instantaneous value   &&   瞬时值
+instantaneous velocity   &&   瞬时速度
+instantaneous voltage   &&   瞬时电压
+institute   &&   协会，学院，研究所
+instruction   &&   ①指示，命令，指令②规程，说明，指南③设置④规定
+instruction address   &&   指令地址
+instruction book   &&   说明书
+instruction circuit   &&   指令电路
+instruction code   &&   指令码
+instruction counter   &&   指令计数器
+instruction cycle   &&   指令周期
+instruction format   &&   指令安排，指令格式
+instruction level language   &&   指令级语言
+instruction list   &&   指令表
+instruction processor   &&   指令处理器
+instruction routine   &&   指令常规
+instruction set   &&   指令系统
+instruction sheet   &&   指导说明书
+instruction system   &&   指令系统
+instruction type   &&   指令类型
+instructional management system   &&   教学管理系统[IMS]
+instrument   &&   ①工具，器具②装置
+instrument approach   &&   盲目降落临场，仪表临场
+instrument auto transformer   &&   仪用自耦互感器
+instrument board   &&   仪表板
+instrument constant   &&   仪表常数
+instrument error   &&   仪器误差
+instrument front   &&   仪表面板
+instrument glass   &&   仪表玻璃
+instrument landing   &&   仪表(引导)着陆
+instrument landing system   &&   仪表着落[ILS]
+instrument lead   &&   仪表导线
+instrument leads   &&   仪表接线
+instrument of ground electrochemical prospecting method   &&   地电化学法找矿仪器
+instrument of magneto telluric method   &&   磁大地电流法仪器
+instrument panel   &&   仪表盘，仪表板
+instrument panel, front pillar   &&   仪表板总成
+instrument security factor   &&   仪表的安全因数
+instrument with contacts   &&   带触点仪表
+instrument with locking device   &&   带有锁定装置的仪表
+instrument with optical index   &&   光标式仪表
+instrument with suppressed zero   &&   压缩零位仪表
+instrumental analysis   &&   仪器分析
+instrumental background   &&   仪器本底
+instrumental error   &&   仪器误差
+instrumental matrix   &&   仪器矩阵
+instrumental variable method   &&   仪器变量法
+instrumentation   &&   ①仪器，仪表，安装仪表②测试设备③检测仪器，测量，仪表化
+instrumentation system   &&   ①测量系统，测试系统②测试设备
+insulance   &&   绝缘电阻
+insulant   &&   绝缘物质，绝缘材料，绝热材料
+insulate   &&   ①隔离②绝缘③绝热，隔热
+insulated aluminium wire   &&   绝缘铝线
+insulated body   &&   ①冷藏车厢②隔热翻斗
+insulated cable   &&   绝缘电缆
+insulated clip   &&   绝缘夹
+insulated conductor   &&   绝缘导体
+insulated gate   &&   绝缘栅
+insulated hook   &&   绝缘钩
+insulated isolation   &&   绝缘隔离
+insulated joint   &&   绝缘接头
+insulated plier   &&   绝缘钳
+insulated return   &&   绝缘回流
+insulated runner   &&   绝缘浇道方式
+insulated runner mold   &&   绝热流道式模具
+insulated sleeve   &&   绝缘套管
+insulated system   &&   (中线)不接地制
+insulated tape   &&   绝缘带
+insulated terminal   &&   绝缘接线柱
+insulated wire   &&   绝缘线
+insulating ability   &&   ①绝缘能力②保暖性能
+insulating blanket   &&   绝缘层，绝缘涂层，绝自涂料
+insulating board   &&   绝缘板
+insulating brick   &&   隔热砖
+insulating bushing   &&   绝缘套管(套筒)
+insulating cardboard   &&   绝缘厚纸，绝缘纸板
+insulating cement   &&   绝缘胶
+insulating ceramic   &&   绝缘陶瓷
+insulating ceramic coating   &&   绝缘陶瓷涂层
+insulating coat   &&   绝缘敷层
+insulating coating   &&   ①绝缘涂层②保护涂层
+insulating compound   &&   ①绝缘材料，绝缘化合物，绝缘膏②保护材料
+insulating concrete   &&   绝缘水泥
+insulating fibre-board   &&   隔热防寒纤维板
+insulating film   &&   绝缘膜
+insulating firebrick   &&   隔热耐火砖，隔热火砖
+insulating galoshes   &&   绝缘套鞋
+insulating head   &&   绝缘盖
+insulating joint   &&   绝缘套管
+insulating layer   &&   ①绝缘层②保温层，防寒层
+insulating liquid   &&   绝缘液体
+insulating mat   &&   绝缘垫
+insulating material   &&   ①绝缘材料②保温材料，绝热材料
+insulating medium   &&   绝缘介质
+insulating mould coating   &&   隔热涂料
+insulating oil   &&   绝缘油，变压器袖
+insulating paint   &&   绝缘漆
+insulating paper   &&   绝缘纸
+insulating paste   &&   绝缘胶
+insulating plastics   &&   绝缘塑料
+insulating porcelain   &&   绝缘瓷
+insulating powder   &&   保温粉
+insulating power   &&   ①保温能力②绝缘能力
+insulating property   &&   绝缘性能，绝缘能力
+insulating refractory   &&   隔热耐火材料
+insulating refractory brick   &&   隔热耐火砖
+insulating rod   &&   绝缘棒
+insulating sheet   &&   绝缘板
+insulating sleeve   &&   绝缘套管
+insulating stand   &&   绝缘台，绝缘支柱
+insulating strip   &&   ①绝缘片②绝热片
+insulating tape   &&   绝缘胶带，绝缘带
+insulating test voltage   &&   绝缘试验电压
+insulating transformer   &&   绝缘变压器，隔离变压器
+insulating tube   &&   绝缘管
+insulating varnish   &&   绝缘清漆
+insulating wax   &&   绝缘蜡
+insulation   &&   ①绝缘②绝热③隔离
+insulation and pressure   &&   绝缘和耐压试验
+insulation application   &&   绝缘应用
+insulation blocking   &&   隔离保护
+insulation board   &&   隔音板，隔热板
+insulation breakdown   &&   绝缘击穿
+insulation class   &&   绝缘等级
+insulation defect   &&   绝缘缺陷
+insulation failure   &&   绝镣失效
+insulation fault   &&   绝缘故障
+insulation fault detecting instrument   &&   绝缘损坏检示仪表
+insulation felt   &&   绝缘毡
+insulation lacquer   &&   绝缘漆
+insulation leakage   &&   绝缘泄漏
+insulation level   &&   绝缘水平
+insulation material   &&   绝缘物，绝缘材料
+insulation measurement   &&   绝缘测量
+insulation paper   &&   绝缘纸
+insulation paste   &&   绝缘胶
+insulation plate   &&   绝缘板
+insulation powder   &&   绝缘粉，绝热粉
+insulation resistance   &&   绝缘电阻
+insulation resistance meter   &&   高阻表，兆欧表
+insulation spacer   &&   绝缘垫片
+insulation stool   &&   绝缘座
+insulation strength   &&   绝缘强度
+insulation test   &&   绝缘试验
+insulation thickness   &&   绝缘厚度
+insulation varnish   &&   绝缘漆
+insulativity   &&   ①绝缘度②绝缘性
+insulator   &&   绝缘体，绝缘子，阴电子
+insulator pin   &&   ①绝缘子销钉②绝缘体脚钉
+insulator spacer   &&   绝缘子衬垫
+insulator support   &&   绝缘子支承
+insullac   &&   绝缘漆
+insult   &&   损伤，伤害
+intaglio   &&   凹雕
+intaglio press   &&   凹版印刷机
+intaglio printing   &&   凹版印刷
+intake   &&   ①进气口②进水口，取水口③进气，入口
+intake depression   &&   进气系真空度
+intake duct   &&   进人口，进气道，吸入量，进风量，进水口
+intake hose   &&   进气软管
+intake manifold   &&   进气歧管
+intake opening   &&   进气口
+intake pipe   &&   进水管
+intake port   &&   进气口
+intake rate   &&   人流率
+intake stroke   &&   进气行程
+intake valve   &&   进气门
+intake-exhaust device   &&   进排气装置
+intake-exhaust manifold   &&   进排气歧管
+intangible assets   &&   无形资产
+intangible benefits   &&   无形收益
+intangible resources   &&   无形资源
+intangible standard   &&   无形标准，
+intangible value   &&   无形价值
+integer   &&   ①整数②总体，整体
+integer constant   &&   整常数
+integer part   &&   整数部分
+integer programming   &&   ①整数规划②整体规划③整数程序设计
+integer valued process   &&   整值过程
+integer variable   &&   整变量
+integrability   &&   可积性
+integrability condition   &&   可积条件
+integrable   &&   可积(分)的
+integrable function   &&   可积函数
+integral   &&   ①完整的，整数的②总体，整体③积分的，积分
+integral action   &&   积分作用，I-作用(I-action)
+integral action coefficient   &&   积分作用系数
+integral action limiter   &&   积分作用限幅器
+integral action time   &&   积分作用时间
+integral algebraic   &&   代数整的
+integral algebraic number   &&   代数整数
+integral approach   &&   积分近似
+integral basis   &&   整基
+integral body construction   &&   承载式车身结构
+integral boundary   &&   整边界
+integral calculus   &&   积分学
+integral casting   &&   整体浇铸，组合铸件
+integral closure   &&   整闭包
+integral compensation   &&   积分补偿
+integral constant   &&   积分常数
+integral control   &&   积分控制
+integral controller   &&   积分控制器，I控制器
+integral cooling   &&   总体冷却
+integral cover   &&   整体盖片
+integral curve   &&   积分曲线
+integral detector   &&   积分型检测器
+integral distribution curve   &&   累积分布曲线
+integral divisor   &&   整因子
+integral domain   &&   整环，整区
+integral electric actuator   &&   积分式电动执行机构
+integral equation   &&   积分方程
+integral equation of queue   &&   排队积分方程
+integral exponent   &&   整指数
+integral factor   &&   整因子
+integral feedback   &&   积分反馈
+integral glass cover   &&   整体玻璃盖片
+integral ideal   &&   整理想
+integral inequality   &&   积分不等式
+integral invariant   &&   积分不变式
+integral key   &&   花键
+integral key shaft   &&   花键轴
+integral lattice   &&   整格
+integral logarithm   &&   积分对数
+integral manifold   &&   积分流形
+integral metal   &&   整体轴承，浇铸轴承(即把轴承合金浇铸在轴承座土)
+integral mould   &&   整体模型
+integral number   &&   整数
+integral of generalized energy   &&   广义能量积分
+integral of generalized momentum   &&   广义动量积分
+integral organic cover   &&   整体有机盖片
+integral packaging   &&   集成组装
+integral part   &&   ①整数部分②积分部分③主要部分
+integral plasticization   &&   全增塑(作用)，内增塑(作用)
+integral property   &&   积分性质
+integral quantity   &&   ①整数值②积分值
+integral rational invariant   &&   有理整不变式
+integral ring   &&   整数环
+integral rotor   &&   ①整体转子②整煅转子
+integral scheme   &&   整概形
+integral sensitivity   &&   整体灵敏度
+integral shaft generator   &&   同轴发电机
+integral spectrum   &&   积分谱
+integral theorem   &&   积分定理
+integral type   &&   整体式
+integral unit   &&   ①积分部件②积分部分③联合机组④全套部件
+integral weight distribution calve   &&   积分重量分布曲线
+integralization   &&   整化
+integrally closed   &&   整闭
+integrand   &&   被积函数
+integrant   &&   构成组分，成分
+integraph   &&   积分仪
+integrate   &&   ①积分②累积，累计③综合，集成
+integrated amplifier   &&   积分放大器
+integrated and systematic manner   &&   整体化和系统化方法
+integrated circuit   &&   集成电路
+integrated civil engineering system   &&   综合土木工程系统
+integrated component   &&   集成组件
+integrated console   &&   联控台
+integrated data management   &&   综合数据管理系统
+integrated data processing   &&   综合数据处理，集中数据处理
+integrated database   &&   综合数据库
+integrated demand   &&   平均累积需量
+integrated device   &&   集成器件
+integrated electronics   &&   集成电子学
+integrated industrial system   &&   完整工业体系
+integrated intensity   &&   累积强度
+integrated magnitude   &&   累积星等
+integrated management system   &&   综合管理系统
+integrated manufacturing system   &&   设计制造一体化
+integrated modem   &&   集成调制解调器
+integrated monitor panel   &&   综合监制台
+integrated optical circuit   &&   集成光路[IOC]
+integrated optical device   &&   集成光学器件
+integrated optics   &&   集成光学
+integrated planning   &&   整体规划
+integrated retarder   &&   组合式缓速器
+integrated sensor   &&   集成传感器
+integrated software   &&   集成软件
+integrated structured design philosophy   &&   总体结构设计原理
+integrated system   &&   集成系统
+integrated task index   &&   综合任务指标
+integrated transducer   &&   集成传感器
+integrated-type solar cell module   &&   集成型太阳电池组件
+integrating actinometer   &&   累计光能计
+integrating ahead   &&   向前积分
+integrating circuit   &&   积分电路
+integrating conversion   &&   积分转换
+integrating element   &&   积分组件
+integrating factor   &&   积分因子
+integrating induced type polarization potentiometer   &&   积分式激发电位仪
+integrating instrument   &&   积分(算)测量仪表
+integrating measuring instrument   &&   积分(算)测量仪表
+integrating recording instrument   &&   积分式记录仪
+integrating sphere   &&   积分球
+integrating spheres   &&   积分球
+integrating system   &&   积分制
+integration   &&   ①集成，总合②积分(法)
+integration by partial fraction   &&   部分分数积分法
+integration by parts   &&   部分积分法，分步积分法
+integration by substitution   &&   代换积分法，换元积分法
+integration by successive reductions   &&   递化积分法
+integration constant   &&   积分常数
+integration method   &&   积分方法，积算法
+integration of matrix   &&   矩阵积分
+integration of operation   &&   联合作业，操作联合性
+integration period   &&   积分周期
+integration routine   &&   积分程序
+integration testing   &&   集成测试，综合测试
+integrator   &&   积分仪，积分器
+integrity   &&   整体性
+integrity basis   &&   整基
+integro-differential equation   &&   积分微分方程
+integro-difierence equation   &&   积分差分方程
+integronics   &&   综合电子设备，集成电子学
+intellectual deterioration   &&   智力衰退
+intellectual development   &&   智力发展
+intellectual work   &&   脑力劳动
+intellectualized simulation software   &&   智能化仿真软件
+intelligence   &&   ①信息，信号②情报③智力，理解力
+intelligence age   &&   智力年龄
+intelligence amplifier   &&   智能放大器
+intelligence model   &&   智能模型
+intelligence quotient   &&   智商
+intelligence sample   &&   信息取样
+intelligence science   &&   智能科学
+intelligence signal   &&   信息信号
+intelligence system   &&   智能系统，探测和识别系统
+intelligence test   &&   智力测验
+intelligent   &&   智能的
+intelligent building   &&   智能大厦[IB]
+intelligent computer   &&   智能计算机
+intelligent control   &&   智能控制
+intelligent control system   &&   智能控制系统
+intelligent design   &&   智能化设计[ID]
+intelligent device   &&   智能设备
+intelligent display device   &&   智能显示器件
+intelligent display unit   &&   智能显示单位
+intelligent instrument   &&   智能仪表
+intelligent keyboard system   &&   智能键盘系统
+intelligent machine   &&   智能机器
+intelligent management   &&   智能管理
+intelligent management system   &&   智能管理系统
+intelligent mouse   &&   智能鼠标 智能型鼠标
+intelligent network   &&   智能网络
+intelligent office   &&   智能办公室
+intelligent robot   &&   智能机器人
+intelligent sensor   &&   智能传感器
+intelligent simulation   &&   智能仿真
+intelligent station   &&   智能站
+intelligent system   &&   智能系统
+intelligent system model   &&   智能系统模型
+intelligent telephone   &&   智能电话
+intelligent terminal   &&   智能终端
+intelligent tutoring system   &&   智能辅导系统
+intelligibility   &&   清晰度，可懂性，可懂度，可理解性
+intelligibility threshold   &&   可懂度阈
+intelligible crosstalk   &&   可懂串话
+intense   &&   ①强烈的，剧烈的②处于应力状态的，受力的
+intense colour   &&   浓色，亮色
+intense ultrasonic wave   &&   强超声波
+intensification   &&   ①加强，加固②强化
+intensifier   &&   增强器，增强剂
+intensify   &&   加强，增强，强化
+intensifying screen   &&   增感屏
+intensimeter   &&   X射线辐射量计
+intension   &&   强度，加强
+intensional logic   &&   内涵逻辑
+intensitometer   &&   放射性剂量计
+intensity   &&   ①强度②密度③亮度④厚度(照相底片的)⑤应力
+intensity analysis   &&   强度分析
+intensity distribution   &&   光强分布
+intensity function   &&   强度函数
+intensity in transmission   &&   透射强度
+intensity level   &&   ①强度级②亮度，亮度级
+intensity modulation   &&   ①亮度调制②强度调制
+intensity of activation   &&   活化强度，激活强度
+intensity of compressive stress   &&   压缩应力强度
+intensity of current   &&   电流强度
+intensity of diffraction   &&   衍射强度
+intensity of draught   &&   通风强度
+intensity of electromagnetic wave   &&   电磁波强度
+intensity of field   &&   场强
+intensity of illumination   &&   照度
+intensity of irradiation   &&   ①光渗强度②辐照强度
+intensity of labor   &&   劳动强度
+intensity of light   &&   光强
+intensity of magnetization   &&   磁化强度
+intensity of polarization   &&   极化强度
+intensity of pressure   &&   压力强度
+intensity of radiation   &&   辐射强度
+intensity of refracted beam   &&   折射光束强度
+intensity of scattering   &&   散射强度
+intensity of sound   &&   声强
+intensity of spectral line   &&   谱线强度
+intensity of stress   &&   应力强度
+intensity of vibration   &&   振动强度
+intensity of wave   &&   波的强度
+intensity reflectivity   &&   强度反射率
+intensity transmissivity   &&   强度透射率
+intensive   &&   加强的，强化的，强烈的，密集的，紧张的，深入细致的
+intensive quantity   &&   强度量
+intensively   &&   加强地，集中地
+inter communication   &&   内部通信
+inter cross   &&   交叉
+inter cut   &&   插播(电视)
+inter lamination   &&   层间的
+inter planetary   &&   行星际
+inter planetary matter   &&   行星际物质
+inter planetary navigation   &&   星际导航
+inter system problem   &&   系统内部问题
+inter-axle differential   &&   轴间差速器
+inter-call telephone   &&   内部电话
+inter-cell   &&   注液电池
+inter-departmental income   &&   部分间利益
+inter-departmental profits   &&   部分间利益
+inter-electron scattering   &&   电子间的散射
+inter-industry analysis   &&   产业关联分析
+inter-industry equilibrium   &&   部门间平衡
+inter-ply adhesion   &&   夹层胶合
+inter-process annealing   &&   中间退火
+inter-relation   &&   内在关系
+inter-sync   &&   内同步
+inter-sync transition   &&   谷间跃迁
+interact   &&   相互作用，相互感应
+interactant   &&   相互作用物，反应物
+interacted system   &&   互联系统，关联系统
+interacting galaxy   &&   互扰星系
+interaction   &&   相互作用，相互影响，交互，交互作用，感应
+interaction among individuals   &&   个体间相互关系
+interaction balance   &&   关联平衡
+interaction between creep and fatigue   &&   蠕变疲劳相互作用
+interaction blanace principle   &&   关联平衡原理
+interaction constant   &&   相互作用常数
+interaction cross-section   &&   相互作用截面
+interaction crosstalk   &&   相互串音
+interaction energy   &&   相互作用能
+interaction factor   &&   交互作用因数
+interaction field   &&   互作用场
+interaction force   &&   互作用力
+interaction formula   &&   交接公式
+interaction of dislocation   &&   位错的交互作用
+interaction parameter   &&   相互作用参数
+interaction picture   &&   (相)互作用绘景
+interaction predication approach   &&   关联预测法
+interaction prediction   &&   关联预测
+interaction prediction approach   &&   交互作用预测法
+interaction prediction principle   &&   关联预估原理，交互预估原理
+interaction process   &&   相互作用过程
+interaction region   &&   互作用区
+interaction theory   &&   互作用理论
+interactionism   &&   相互作用论
+interactive   &&   交互的 互动式
+interactive graphics   &&   ①人机对话式图②交互图形学[IG]
+interactive mode   &&   交互方式
+interactive programming   &&   交互规则
+interactive simulation   &&   交互仿真
+interactive simulation language   &&   交互仿真语言[ISL]
+interactive system   &&   交互系统
+interactive terminal   &&   交互式终端
+interannealed wire   &&   中间退火钢丝
+interannealing   &&   中间退火
+interarrival time   &&   到达时隔
+interatomic   &&   离子间的，原子间的
+interatomic bond   &&   原子间键
+interatomic force   &&   原子间力
+interatomic spacing   &&   原子间距
+interband absorption   &&   带间吸收
+interband transition   &&   带间跃迁
+interbedded   &&   夹层的
+interblock gap   &&   块间空隙(计)
+intercalate   &&   插入，添入
+intercalated taps   &&   交迭绝缘带
+intercalation   &&   ①夹层②隔行扫描
+intercarrier   &&   内载波
+intercarrier buzz   &&   载波蜂音
+intercarrier receiving system   &&   内载波接受系统
+intercarrier sound system   &&   内载波伴音制
+intercell spacing   &&   电池间距
+intercept   &&   ①截断，截听，拦截②遮断(光)③窃听④断(水)⑤截距，截段
+intercept form   &&   截距式
+intercept tape   &&   暂录带
+intercept trunk   &&   ①暂用中继线②局内监测线
+interception   &&   ①折射②相交③截听，交叉，拦截，截断，阻隔④窃听⑤跨越⑥相交
+interceptor   &&   ①截听器②拦截站
+interchange   &&   ①交换，对换②交替，互换
+interchange instability   &&   交换不稳定性
+interchange reaction   &&   互换作用
+interchange state   &&   交换(状)态
+interchangeability   &&   可换性，互换性，町交换性
+interchangeability of equilibrium pairs   &&   平衡对间的可变更性
+interchangeability of parts   &&   零件互换性
+interchangeable accessory   &&   可互换附件
+interchangeable gears   &&   互换性齿轮
+interchangeably   &&   可交换的
+interchanger   &&   交换器
+interchannel crosstalk   &&   信道间串音
+interchannel interference   &&   信道间干扰
+intercharacter spacing   &&   字符间空隙(计)
+intercity circuit   &&   城市间通信电路
+intercity network   &&   城市间电网
+interclass   &&   组内
+interclass correlation coefficient   &&   组内相关系数
+interclass variance   &&   组内方差
+intercoagulation   &&   相互凝聚
+intercom   &&   内部通信
+intercommunicating pore   &&   连通孔，互联孔
+intercommunicating poresity   &&   穿通性疏松
+intercommunicating system   &&   内部通信系统
+interconnected network   &&   联网
+interconnected pore   &&   连通孔，互联孔
+interconnecting cable   &&   中继电缆，连接电缆
+interconnecting film   &&   互连膜
+interconnecting main   &&   联络干线
+interconnection   &&   相互连接，互连，内联接
+interconnection constraint   &&   关联约束
+interconnection matrix   &&   关联矩阵
+interconnection rule   &&   互连规则
+interconnection tracks   &&   内引线
+interconnection vector   &&   关联向量
+interconnector   &&   互连条
+interconnector sizing   &&   内连片尺寸
+intercontinental missile   &&   洲际导弹
+intercontinental transmission   &&   洲际传送
+interconversion   &&   互换
+intercooler   &&   ①中间冷却器②中间冷却剂
+intercooling   &&   中间冷却
+intercoordination   &&   ①相互耦合②相互协调
+intercorrelation   &&   组内相关
+intercoupling   &&   相互耦合
+intercrystalline   &&   晶界的，晶(粒)间的，(晶)粒间的，沿晶界的
+intercrystalline attack   &&   晶间侵蚀
+intercrystalline brittleness   &&   晶(粒)间脆性
+intercrystalline corrosion   &&   晶间腐蚀
+intercrystalline crack   &&   晶界裂纹
+intercrystalline failure   &&   晶界断裂，晶界破坏
+intercrystalline fibril   &&   晶间原纤
+intercrystalline fracture   &&   晶界断裂
+intercrystalline rupture   &&   晶间断裂
+intercrystalline segregation   &&   晶间偏析
+intercrystalline shrinkage   &&   晶间缩松
+intercrystalline shrinkage crack   &&   晶间缩裂纹
+intercrystalline swelling   &&   晶间溶胀
+interdendritic   &&   枝晶间的
+interdendritic attack   &&   ①枝晶间侵蚀②电化学腐蚀
+interdendritic graphite   &&   枝晶间石墨
+interdendritic porosity   &&   枝晶间松缩
+interdendritic segregation   &&   枝晶间偏析
+interdendritic shrinkage   &&   枝晶间松缩，枝晶间收缩
+interdependence   &&   相互依赖
+interdependence among commodities   &&   商品
+interdependence coefficient   &&   依存系数，完全消耗系数
+interdependent function   &&   依存函数
+interdialing   &&   局间拔号
+interdiction countermeasure   &&   反干扰措施
+interdiffusion   &&   相互扩散，互扩散，相互弥散
+interdiffusion coefficient   &&   相互扩散系数
+interdiffusion process   &&   相互扩散过程
+interdigital   &&   交叉指型
+interdigital line   &&   交错线路
+interdigitated transistor   &&   交指型晶体管
+interdisciplinary   &&   边缘学科
+interelectrode   &&   极间，电极间的
+interelectrode capacitance   &&   极间电容
+interelectrode transit time   &&   极间渡越时间
+interesterification   &&   相互酯化
+interetherification   &&   相互醚化
+interface   &&   ①界面②接口③接触面
+interface adsorption   &&   层间吸附，界面间的吸附
+interface alloying technique   &&   界表面合金技术
+interface charge   &&   界面电荷
+interface condition   &&   交接条件，交界条件
+interface connection   &&   (印刷电路板)面间连线
+interface design   &&   接口设计
+interface dislocation   &&   界面位错
+interface echo   &&   界面反射波
+interface layer   &&   界面层
+interface message processor   &&   接口通信处理机，接口信息处理机
+interface migration rate   &&   分界面徙动率
+interface plasmon   &&   界面等离子体激元
+interface processor   &&   接口处理器(计)
+interface reaction   &&   界面反应
+interface recombination   &&   界面复合
+interface state   &&   界面(状)态
+interface surface   &&   (交叉)界面
+interfacial activity   &&   界面活性
+interfacial agent   &&   界面活性剂
+interfacial concentration   &&   界面浓度
+interfacial dislocation   &&   面间位错
+interfacial effect   &&   界面效应
+interfacial layer   &&   界面层
+interfacial polarization   &&   层面间极化，界面极化
+interfacial polymerization   &&   界面聚合(发生在两种溶液界面上的一种聚合反应)
+interfacial tension   &&   界面张力
+interfere   &&   ①干扰②干涉，过盈，抵触，冲突
+interference   &&   ①干扰②干涉，过盈，抵触，冲突
+interference absorber   &&   干扰吸收器
+interference action   &&   于涉作用
+interference analyzer   &&   于扰分析器
+interference angle   &&   顶起角
+interference blanker   &&   干扰清除器
+interference channel   &&   互扰信道
+interference colour   &&   干扰色，干涉色
+interference comparator   &&   干涉比长仪
+interference condition   &&   于涉条件
+interference dilatometer   &&   干涉膨胀仪
+interference drag   &&   干涉阻力
+interference elimination   &&   消除干扰
+interference eliminator   &&   干扰消除器
+interference error   &&   干扰误差
+interference fading   &&   干扰衰落
+interference figure   &&   干扰图
+interference filter   &&   干扰(涉)滤光片
+interference filters   &&   干涉滤光镜
+interference fit   &&   ①过盈压配合，过盈配合②静配合
+interference fringe   &&   ①干扰带②(光的)干涉带，干扰边纹，干涉条纹
+interference immunity   &&   抗干扰性
+interference in learning   &&   学习干涉
+interference level   &&   于扰电平
+interference microscope   &&   干涉显微镜
+interference microscopy   &&   干涉显微术
+interference objective   &&   干涉物镜
+interference pattern   &&   干涉特性，干涉图(案)，干涉图样
+interference phenomenon   &&   (光)干涉现像
+interference point   &&   干涉点
+interference refractometer   &&   干扰折射仪
+interference ring   &&   干扰环
+interference spectroscope   &&   干涉分光镜
+interference spectroscopes   &&   干涉分光镜
+interference spectrum   &&   干扰频谱
+interference sphere   &&   干涉球
+interference suppression   &&   干扰抑制
+interference susceptibility   &&   干扰敏感性
+interference term   &&   干涉项
+interference wave   &&   相干波，于涉波
+interference zone   &&   干扰区，干扰范围
+interferences differential interference contrast microscopes   &&   干涉显微镜，微分干涉对比显微镜
+interfering   &&   干扰的
+interfering impulse   &&   干扰脉冲
+interfering singing   &&   于扰啸声
+interferogram   &&   干涉图(光)
+interferometer   &&   干涉仪
+interferometer microscope   &&   干涉显微镜
+interferometric binary   &&   于涉双星
+interferometry   &&   干涉度量学，于扰测量法
+interferoscope   &&   ①干扰显示器②干涉镜
+interferric space   &&   铁心间隙
+interflection   &&   相互反射，复反射
+interflow   &&   合流，混流
+interframe encode   &&   帧间编码
+interframe predictive encode   &&   帧间预测编码
+intergeanalar   &&   (晶)粒间
+intergeanalar corrosion   &&   晶间腐蚀
+intergeanalar fracture   &&   晶界断口
+intergeanalar penetration   &&   (晶)粒间穿透
+intergranalar rupture   &&   晶间断裂
+intergranular attack   &&   晶间腐蚀
+intergranular crack   &&   沿晶界断口
+intergranular failure   &&   晶(粒)间断裂
+intergrowth   &&   交互生长
+interhalogen compound   &&   卤间化合物，卤素互相间形成的化合物
+interindustrial relation analysis   &&   企业关连分析
+interionic distance   &&   离子间距
+interior   &&   内部
+interior angle   &&   内角
+interior angles on the same side   &&   同旁内角
+interior automorphism   &&   内自同构
+interior circuit   &&   内部电路
+interior conduit   &&   室内管道
+interior content   &&   内容度
+interior division   &&   内分
+interior eigenvalue   &&   内部本征值，内部特征值
+interior extrapolation method   &&   划界法，交叉法
+interior handle door lock   &&   门锁内扳手
+interior illumination   &&   室内照明
+interior mapping   &&   开映射
+interior node   &&   内结点
+interior package   &&   内包装
+interior paint   &&   室内漆
+interior penalty function   &&   内罚函数
+interior penalty method   &&   内惩罚法
+interior point   &&   内点
+interior semi-degree   &&   内半次
+interior structure   &&   内部结构
+interior transformation   &&   开变换
+interior trim parts   &&   内饰件
+interior varnish   &&   内皮漆
+interior wiring   &&   室内布线
+interlace   &&   ①交错，交替，交织，隔行②夹层③隔行扫描
+interlace factor   &&   ①交织系数②隔行系数(电视)
+interlace operation   &&   交替操作
+interlaced line   &&   交积线
+interlaced network   &&   多回路电网
+interlaced parabolas   &&   交织抛物线
+interlaced scanning   &&   隔行扫描(电视机的)
+interlaced structure   &&   交织组织
+interlacing   &&   ①交替，交错，交织②隔行扫描，扫描
+interlacing ratio   &&   隔行比(电视)
+interlamellar spacing   &&   层间距
+interlaminar   &&   层间的
+interlaminar core loss   &&   层间铁损
+interlaminar strength   &&   层间强度(层压材料相邻层之间的黏合强度)
+interlaminar stress   &&   层间应力
+interlattice exchange   &&   栅格内的交换
+interlattice ion   &&   晶格间离子，点阵间离子
+interlattice point distance   &&   晶格间距，点阵间距
+interlayer   &&   ①界层，隔层，间层②心层，夹层，中间层，中间膜
+interleaf cushion spring   &&   叶片垫簧
+interleave   &&   ①交替，交错，交叉②隔行，隔行扫描③交叉存取
+interleaved scanning   &&   隔行扫描
+interleaved signal   &&   隔行信号
+interleaved transmission   &&   交错传输
+interleaved winding   &&   ①隔行绕组②交错绕
+interleaving   &&   ①交替，交错②隔行，隔行扫描
+interline flicker   &&   行间闪烁
+interlink   &&   互连，链接
+interlinkage   &&   连接，链接，互连，交链
+interlinked tension   &&   相间电压
+interlock   &&   ①闭锁，联锁②联锁装置，互锁装置③连接，互连，联动
+interlock circuit   &&   联锁电路
+interlock system   &&   联锁系统
+interlocked earthing   &&   联锁接地
+interlocked switch   &&   联锁开关
+interlocker   &&   联锁装置
+interlocking   &&   联锁法
+interlocking apparatus   &&   联锁装置
+interlocking device   &&   联锁装置
+interlocking disc-mill cutters   &&   交错齿盘形铣刀
+interlocking grain   &&   斜交木纹
+interlocking machine   &&   联锁机
+interlocking mechanism   &&   联锁机构
+interlocking milling cutter   &&   交齿铣刀
+interlocking signals   &&   联锁信号
+interlude   &&   辅助子程序，中间程序，插算
+intermediary integral   &&   中间积分
+intermediate   &&   ①居间(的)，中等(的)②中间体，中间产物
+intermediate annealing   &&   中间退火
+intermediate band photometry   &&   中带测光
+intermediate component   &&   中介子系
+intermediate continuous motion statement   &&   连续运动中间语句
+intermediate duty fireclay brick   &&   中等耐火砖
+intermediate exchange   &&   中间电话局
+intermediate frequency   &&   中频
+intermediate frequency furnace   &&   中频(感应电)炉
+intermediate gear   &&   中间齿轮
+intermediate glass   &&   (焊接用)中间玻璃，过渡玻璃
+intermediate glass former   &&   中间体玻璃形成物
+intermediate heating   &&   中刚口热
+intermediate horizon   &&   中间视距
+intermediate image   &&   中间图像
+intermediate inspection   &&   中期检验
+intermediate language   &&   中间语言
+intermediate lens   &&   中间透镜，中间镜
+intermediate management   &&   中间管理者
+intermediate market   &&   中间市场
+intermediate memory   &&   中间存储器
+intermediate metal   &&   中间合金
+intermediate multiple   &&   中间倍数
+intermediate neutron   &&   中速中子
+intermediate oil   &&   中间馏出油
+intermediate orbit   &&   中间轨道
+intermediate oxide   &&   中间体氧化物
+intermediate phase   &&   居间相，中间相
+intermediate plate   &&   双片离合器的中间盘
+intermediate pressure cylinder   &&   中压缸
+intermediate product   &&   牛成品，中间产品
+intermediate range order   &&   居间程序
+intermediate recombination   &&   中间复合
+intermediate relay   &&   中间继电器
+intermediate rod   &&   继动拉杆
+intermediate scale problem   &&   中型问题
+intermediate shaft   &&   中间轴
+intermediate shaft journal   &&   中间轴轴颈
+intermediate solid solution   &&   中间固溶体，次生固溶体
+intermediate state   &&   居间态，中间态
+intermediate strength alloy   &&   中间强度合金
+intermediate structure   &&   中间组织
+intermediate subsystem   &&   中介次系
+intermediate type bond   &&   中间型键
+intermediate users   &&   中间使用者
+intermediate value   &&   介值
+intermediate value theorem   &&   介值定理
+intermediate voltage capacitor   &&   中压电容器
+intermediate voltage capacitor of a capacitor voltage transformer   &&   电容器式电压互感器的中压电容器
+intermediate voltage terminal   &&   中压端
+intermediate voltage terminal of a capacitor voltage transformer   &&   电容器式电压互感器的中压端
+intermediate-viscosity plastisol   &&   中等黏度增塑溶胶
+intermediates   &&   竞赛用薄胎面轮胎
+intermediation   &&   中介作用
+intermedium   &&   中间物，媒介物
+intermetallic   &&   金属间的
+intermetallic alloy   &&   金属间合金
+intermetallic compound   &&   金属互化物，金属间化合物
+intermetallic emiconductor   &&   金属间半导体
+intermetallic inclusion   &&   金属间化合物夹杂
+intermetallic phase   &&   金属间相
+intermetallic semiconductor   &&   金属间半导体
+intermetallics   &&   金属互化物，金属间化合物
+intermicellar reaction   &&   (微)胞间反应，胶束间反应
+intermicellar swelling   &&   (微)胞间溶胀，胶束间溶胀
+intermingling   &&   混合，混合物
+intermiscibility   &&   相互溶混性
+intermit   &&   间断，间歇
+intermittence   &&   中断，间断
+intermittent   &&   间歇的，断续的
+intermittent contact   &&   间歇接触，断续接触
+intermittent control   &&   间歇控制
+intermittent d.c. noncapacitive arc   &&   非电容间歇直流电弧
+intermittent defect   &&   间歇故障，断续故障
+intermittent discharge   &&   间歇放电，断续放电
+intermittent duty   &&   断续工作，间歇运行，断续工作制
+intermittent failure   &&   间歇失效
+intermittent fault   &&   断续故障
+intermittent gearing   &&   不完全齿轮机构
+intermittent illumination   &&   间截照光(法)
+intermittent index   &&   间断分度
+intermittent load   &&   间歇载荷
+intermittent manufacture   &&   间断制造，间歇的制造
+intermittent motion   &&   间歇运动
+intermittent motion mechanism   &&   间歇运动机构
+intermittent operation   &&   间歇运行
+intermittent process industry   &&   间歇程序工业
+intermittent production   &&   中间生产，间歇生产，间段生产
+intermittent production process   &&   间歇性生产过程
+intermittent rating   &&   断续工作额定出力
+intermittent running   &&   间歇运行，断续运行
+intermittent shock load   &&   间歇震动负荷，间歇冲击负荷
+intermittent spray   &&   间断喷雾
+intermittent tapping   &&   间歇出铁(或出钢)
+intermittent weld   &&   ①断续焊②断续焊缝
+intermittent working   &&   间歇工作
+intermix   &&   混合，搀和，搅拌，搅和，交杂
+intermixture   &&   ①混合②混合物，混合剂，混合液
+intermodulation   &&   相互调制
+intermolecular   &&   分子间(的)
+intermolecular attraction   &&   分子间的吸引(作用)
+intermolecular bond   &&   分子间键
+intermolecular bonding energy   &&   分子间键能
+intermolecular cohesion   &&   分子间内聚力
+intermolecular condensation   &&   分子间缩合(作用)
+intermolecular cross-linking   &&   分子间交联
+intermolecular force   &&   分子间力
+intermolecular interaction   &&   分子间相互作用
+intermolecular ordering   &&   分子间有序度
+internal   &&   内部的 内部
+internal ablation   &&   内部烧蚀
+internal absorbance   &&   ①内吸收比(光)②内吸光率
+internal antenna   &&   室内天线
+internal arithmetic   &&   内部运算
+internal bevel gear   &&   内锥齿轮
+internal bias   &&   ①内偏压②内部偏移
+internal bisector   &&   内分角线，(内)角平分线
+internal boundary conditions   &&   内边界条件
+internal break   &&   内裂，内断
+internal bull-nose brick   &&   内凹砖
+internal burden   &&   内负载
+internal burden of a current transformer   &&   电流互感器的内负载
+internal characteristics   &&   固有特性
+internal combustion engine   &&   内燃机[IC]
+internal consumption   &&   内部消耗，自身消耗
+internal control   &&   内部控制
+internal coordination   &&   内部协调
+internal crack   &&   内裂
+internal cylindrical machine   &&   内圆磨床
+internal defect   &&   内部缺陷
+internal description   &&   内部描述
+internal diameter   &&   内径
+internal discontinuities   &&   内部间断
+internal disturbance   &&   内扰
+internal division   &&   内分
+internal double bond   &&   内双链
+internal drop   &&   内部(电)压降
+internal energy   &&   内能
+internal environment   &&   内部环境
+internal experience   &&   内在经验
+internal fault   &&   内部故障
+internal fissure   &&   内部裂纹，内部裂缝
+internal flow   &&   内变形(金属轧制时的)
+internal force   &&   内齿轮
+internal friction   &&   内耗，内摩擦
+internal gear   &&   内齿轮，定子齿轮
+internal grinding machine   &&   内圆磨床
+internal harmonics   &&   内(部)调和函数
+internal haze   &&   内混浊
+internal hydrogen cooling   &&   氢内冷式
+internal information   &&   内部信息
+internal information processing system   &&   内部信息处理系统
+internal label   &&   内标(计)
+internal lead   &&   内引线
+internal leakage   &&   内部泄漏
+internal level   &&   内层
+internal lock signal   &&   内锁信号
+internal lubricant   &&   内润滑剂
+internal memory   &&   内存储器
+internal mixer   &&   密闭式炼胶机，密炼机
+internal mobility   &&   内部动性
+internal model principle   &&   内模原理
+internal optical density   &&   内光密度
+internal organization   &&   内部组织
+internal oxidation   &&   皮下腐蚀(金属材料)
+internal photoeffect   &&   内光电效应
+internal plasticization   &&   (链)内增塑(作用)，全增塑(作用)
+internal plasticizer   &&   内增塑剂(在聚合过程中并合在树脂中的一种药剂)
+internal porosity   &&   内部气孔，内部缩松
+internal premise   &&   内在前提
+internal pressure   &&   内压力
+internal quantum efficiency   &&   内量子效率
+internal radiation   &&   内(部)辐射
+internal ratio   &&   内部比率，内比
+internal redox indicator   &&   液内氧化还原指示
+internal reference electrode   &&   内参比电极
+internal reference sample   &&   内参比试样
+internal reflection   &&   内反射
+internal reflection element   &&   内反射组件
+internal reflection spectrometry   &&   内反射光谱法
+internal regression   &&   内回归
+internal resistance   &&   内电阻，内阻力
+internal response   &&   内部反应
+internal rotation   &&   内旋转
+internal rupture   &&   内部破坏
+internal schema   &&   内部模式
+internal scheme   &&   内模式
+internal screw thread   &&   内螺纹
+internal shake   &&   内裂
+internal shrinkage   &&   内部缩孔
+internal sorting   &&   内分类
+internal spline   &&   内花键
+internal stability   &&   内部稳定性
+internal stability number   &&   内固数
+internal stabilizer   &&   内部稳定剂(在聚合过程中并合在树脂中的一种药剂)
+internal standard   &&   内标物
+internal standard line   &&   内标线
+internal standard method   &&   内标法
+internal stop   &&   内挡块
+internal storage   &&   内部存储器(计)
+internal strain   &&   内应变
+internal surface   &&   内表面
+internal thread   &&   内螺纹
+internal transmission   &&   内透射率
+internal transmittance   &&   内部透射度
+internal transportation system   &&   内部运输系统
+internal transportion   &&   内部运输，内部运送
+internal triggering   &&   内触发
+internal unit   &&   内部设备
+internal validity   &&   固有效力，内在效力
+internal viscosity   &&   内黏度
+internal volume in fibre   &&   纤维孔穴容积
+internal water cooling   &&   水冷式
+internal-convection sensitive element   &&   内对流敏感组件
+internal-conversion coefficient   &&   内转换系数
+internal-expanding brake   &&   内张型制动器
+internal-external locus of control   &&   内外控制点
+internal-stress-induced plastic flow   &&   内应力引起的塑性流动
+internally coherent   &&   内相干的
+internally compensated inactive combo   &&   内消旋(无旋旋光性)化合物
+internally oxidized alloy   &&   内氧化合金
+internally piloted regulator   &&   整体指挥器操作型自力式调节阀
+internally stored program   &&   内装程序
+internally tangent   &&   内切，内切线
+internally tangent circle   &&   内切圆
+international  science organization   &&   国际科学组织
+international Atomic Time   &&   国际原子时
+international Business Machine Corporation   &&   国际商用机器公司[IBM]
+international broadcasting   &&   国际广播
+international business   &&   国际商业，国际企业
+international call   &&   ①国际(通话)呼叫②国际通话
+international call sign   &&   国际呼号
+international cartel   &&   国际同盟产销组织
+international cartelling   &&   国际“同盟”产销
+international communication   &&   国际通信
+international metric system   &&   国际米制
+international monetary fund   &&   国际货币基金
+international number   &&   国际号码
+international operation   &&   国际营运作业，国际经营，国际营业
+international organization for standardization   &&   国际标准化组织
+international practical thermometric scale   &&   国际实用温标
+international prefix   &&   国际字冠，国际前缀号
+international quotation of price   &&   国际报价
+international radio silence   &&   国际无线电寂静时间(每小时未收听500千赫呼救信号的时间)
+international resource   &&   国际资源
+international standard   &&   国际标准(器)
+international standards method   &&   国际标准
+international symbol   &&   国际符号
+international system of units   &&   国际单位制
+international technological cooperation   &&   国际技术合作
+international telecommunication   &&   国际电信
+internationally allocated band   &&   国际分配频段
+internet utilities internet   &&   应用程序，网际网路公用程序
+internuclear   &&   核间(的)
+internuclear double resonance   &&   核间双共振(法)
+internucleon coupling   &&   核子间偶合
+internucleonic   &&   核子间(的)
+interoperable system protocol   &&   可互操作系统协议[ISP]
+interparticle porosity   &&   粒间孔隙
+interpenetrate   &&   ①互相贯通②互相渗透
+interpenetration   &&   互相渗透，互相贯穿，互相穿透
+interpenetration twin   &&   互穿弯晶
+interphase   &&   相间的，界面，际面，间期(细胞分裂)
+interphase boundary   &&   相间边界，相界
+interphase boundary junction   &&   相间边界结，相间边界的连结
+interphase interface   &&   界面
+interphone   &&   ①内部对讲(电话)机②内线自动电话机
+interplanar crystal spacing   &&   晶面距离
+interplanar distance   &&   晶面间隔
+interplanar spacing   &&   晶面间距
+interplanetary space   &&   行星际空间
+interplanetary trajector   &&   星际轨迹
+interplate   &&   双片离合器的中间盘
+interpolate   &&   内插，插入
+interpolating function   &&   插值函数
+interpolating to halves   &&   折半插值
+interpolation   &&   ①插值(法)，内插(法)②插入值，插入法
+interpolation by central difference   &&   中差插值法
+interpolation by continued fractions   &&   用连分式的插值法
+interpolation by proportional parts   &&   比例插值法
+interpolation error   &&   内插误差
+interpolation formula   &&   插值公式
+interpolation method   &&   内插法
+interpolation points   &&   插值点 内插点
+interpolation polynomial   &&   插值多项式
+interpolator   &&   ①(电极)转变器②内插器
+interpole   &&   ①极间极，附加极，辅助极，间极②整流极
+interpole motor   &&   有整流极的电动机
+interpolymer   &&   共聚体
+interpolymerization   &&   相互聚合作用，共聚作用
+interposition   &&   ①插入②插人物③介入，调停，干预
+interpret   &&   ①翻译，译码②解释，说明，口译
+interpretable   &&   可解释的
+interpretation   &&   ①解释，说明②翻译
+interpretation of results   &&   结果分析
+interpreter   &&   ①解释器，翻译器②翻译员③解释程序
+interpretive language   &&   解释语言
+interpretive method   &&   解释法
+interpretive program   &&   解释程序
+interpretive routine   &&   翻译程序
+interpretive structural modeling   &&   解析结构模型[ISM]
+interprogram communication   &&   程序间通信
+interquartile range   &&   四位数间距
+interreaction   &&   相互作用
+interreflection   &&   相互反射
+interrelationship   &&   相互关系
+interrelationship constraint   &&   相互关系约束条件
+interrogation code   &&   询问电码
+interrogation link   &&   询问信道
+interrogation radar   &&   询问雷达
+interrogation reply system   &&   问答方式
+interrogation signal   &&   询问信号
+interrogator   &&   询问器，问答机
+interrogator-responder   &&   问答机
+interrupt   &&   中断
+interrupt control method   &&   中断控制方式
+interrupt logging   &&   ①中断记录②断电记录
+interrupt mask   &&   中断屏蔽
+interrupt mode   &&   中断状态
+interrupt priority   &&   中断优先权
+interrupt priority system   &&   中断优先权系统
+interrupt processing   &&   中断处理
+interrupt request   &&   中断请求
+interrupt source   &&   中断源
+interrupt technology   &&   中断技术
+interrupt the firing   &&   停火
+interrupt the main program   &&   中断主计划
+interrupt vector   &&   中断矢量
+interruptable process industry   &&   中断程序工业
+interrupted   &&   中断的
+interrupted ageing   &&   断续时效，间断时效
+interrupted crack growth   &&   不连续裂纹扩展
+interrupted creep testing   &&   间断蠕变试验
+interrupted fatigue test   &&   间歇疲劳试验
+interrupted hardening   &&   阶段冷却淬火，间断淬火，双液淬火
+interrupted oscillation   &&   间歇振荡
+interrupted polymerization   &&   间断聚合作用
+interrupted pour   &&   间断浇铸
+interrupted quench   &&   阶段淬火，间断淬火，双液淬火
+interrupted quench-hat work   &&   间断淬火热处理
+interrupted quenching   &&   阶段冷却淬火，间断淬火，双液淬火
+interrupted ringing   &&   断续振铃
+interrupter duty   &&   断续工作
+interrupting relay   &&   断续继电器
+interrupting test   &&   断续试验
+interruption   &&   中断
+interruption cable   &&   应急电缆，替换电缆
+interruption duration   &&   断路持续时间
+interruption handling program   &&   中断处理程序
+interruption interval   &&   中断时间
+interruption of circuit   &&   断路
+interruption of power supply   &&   断电
+interruption of service   &&   运行障碍，停电
+interruptor   &&   斩波器，断续器
+interscan   &&   中间扫描
+interscendental curve   &&   半超越曲线
+intersect   &&   ①相交，交叉，交集②横断
+intersecting dislocation   &&   相交位错
+intersecting slip band   &&   相交滑移带
+intersection   &&   ①相交，交线，交点②交③交集
+intersection chart   &&   交织图
+intersection gate   &&   “与”门
+intersection jog   &&   交截割阶
+intersection number   &&   相交数
+intersection of barrier   &&   闸壁交集
+intersection of fuzzy sets   &&   模糊集的交
+intersection of ideals   &&   理想的交
+intersection of sets   &&   集的交
+intersection point   &&   交点
+intersection theorem   &&   相交定理
+intersection theory   &&   相交理论
+intersector curve   &&   横断曲线
+intersector flow   &&   部门间流量
+interside diffusion   &&   座间扩散
+intersolubility   &&   互溶性，互溶度
+interspace   &&   空间，空隙，间距
+intersperse   &&   ①交替，更迭②引入
+intersperse in time   &&   (按)时间散布
+interspersing   &&   (相邻相端线圈的)交替连接
+interspherulite boundary strength   &&   球晶界(面)间强度
+interstage   &&   级间的
+interstage amplifier   &&   中间放大器
+interstage annealing   &&   中间退火
+interstage coupling   &&   级间耦合
+interstage punching   &&   隔行穿孔
+interstage shielding   &&   级间屏蔽
+interstage transformer   &&   级间变压器
+interstation   &&   电台间，站间
+interstation interference   &&   电台间干扰
+interstellar absorption line   &&   星际吸收线
+interstellar communication   &&   星际通信
+interstellar extinction   &&   星际消光
+interstice   &&   空隙，裂缝，间隙
+interstice wire   &&   中介心线
+interstitial   &&   ①填隙原子②中间的③间隙的，结点的
+interstitial alloy   &&   填隙式合金
+interstitial atmosphere   &&   间隙原子气团
+interstitial atom   &&   (晶格)空隙中的原子，填隙原子
+interstitial cation   &&   填隙阳离子
+interstitial compound   &&   间隙化合物
+interstitial configuration   &&   间隙位形
+interstitial defect   &&   填隙缺陷
+interstitial diffusion   &&   填隙式扩散
+interstitial dissolved atom   &&   间隙式固溶原子，形成间隙式固溶体的原子
+interstitial donor   &&   填隙式施主
+interstitial impurity   &&   填隙杂质
+interstitial ion   &&   填隙离子
+interstitial jog   &&   填隙式(位错)割阶
+interstitial lattice   &&   间隙晶格
+interstitial loop   &&   间隙环
+interstitial migration   &&   填隙式迁移
+interstitial phase   &&   间隙相
+interstitial position   &&   晶隙位置
+interstitial site   &&   填隙位置
+interstitial solid solution   &&   插入式固溶体，间充固溶体，填隙式固溶体
+interstitial structure   &&   填隙式结构
+interstitial void   &&   间隙空位
+interstitial-vacancy defect   &&   间隙空位缺陷
+interstitial-vacancy pair   &&   填隙离子-空格点对，填隙-空位偶
+interstitialcy   &&   间隙原子，晶格间原子
+interstrip pulse   &&   行间脉冲
+intersubjective testability   &&   学科间的可试验性
+intersymbol error   &&   符号交错
+intersymbol interference   &&   符号间于扰
+interturn insulation   &&   匝间绝缘
+intertwine   &&   缠绕，编合，交扭
+intertwining   &&   交织
+interval   &&   ①间隔，区间，空隙②间隔时间
+interval analysis   &&   区间分析
+interval estimation   &&   区间估计
+interval halving   &&   区间分半法
+interval integral   &&   区间积分
+interval measure of value   &&   值的区间度
+interval modulation   &&   间隔调制
+interval of convergence   &&   收敛区间
+interval of events   &&   事件间隔
+interval of feasibility   &&   可行性区间
+interval of orthogonality   &&   正交性区间
+interval scale   &&   区间标尺
+interval section   &&   间隔区
+interval temperature   &&   区间愠度
+interval time   &&   间隔时间
+interval timer   &&   区间计时器，间隔时钟
+interval topology   &&   区间拓扑
+intervalley scattering   &&   谷间散射，谷际散射
+intervalometer   &&   定时器
+intervene   &&   ①插入，介入②干预，参与
+intervening button   &&   应急按纽
+intervening plasma   &&   居间等离子体，中间等离子体
+intervening variable   &&   中间变量
+intervention switch   &&   应急开关
+intervention vector   &&   干涉向量
+interword space   &&   字间间隔
+interwork   &&   相互配合
+interwoven insulation   &&   交织绝缘
+intisy rubber   &&   印蒂橡胶
+intonation   &&   声调，语调
+intra-Mercurial planet   &&   水内行星
+intra-nuclear   &&   原子核内的
+intra-plant system   &&   厂内系统
+intraatomic   &&   原子内的
+intraclass correlation   &&   同类相关
+intraclass variance   &&   组合方差
+intracluster gas   &&   星系团内气体
+intraconnection   &&   内连，内引线
+intracranial pressure sensor   &&   颅内压传感器
+intracranial pressure transducer   &&   颅内压传感器
+intracrystalline   &&   晶(粒)内的
+intracrystalline attack   &&   晶内侵蚀
+intracrystalline fracture   &&   晶(粒)内断裂
+intracrystalline rupture   &&   晶(粒)内断裂
+intractability   &&   难解性
+intragranular   &&   晶(粒)内的
+intramicellar reaction   &&   微胞内反应，胶束内反应
+intramicellar swelling   &&   微胞内溶胀，胶束内溶胀
+intramolecular   &&   分子内的
+intramolecular rearrangement   &&   分子内重排现象
+intramolecular stiffness   &&   分子内的僵硬性
+intransitive   &&   ①非可迁的，非可递的②反传递的
+intransitive relation   &&   非可递关系
+intrapearlitic   &&   珠光体内的
+intrasonic   &&   超低频
+intratomic   &&   原子内的
+intree   &&   入树
+intricate cored casting   &&   带有复杂型心铸件
+intrinsic   &&   ①固有的，本征的②内在的，内部的，内蕴的
+intrinsic Fermi lever   &&   本征费米能级
+intrinsic absorption   &&   本征吸收
+intrinsic accuracy   &&   内在精度
+intrinsic admittance   &&   固有导纳
+intrinsic angular momentum   &&   内禀角动量
+intrinsic astigmatism   &&   固有象散
+intrinsic birefringence   &&   特性双折射，内在双折射
+intrinsic breaking energy   &&   特性断裂能
+intrinsic brightness   &&   本征亮度
+intrinsic brilliancy   &&   本征光程度
+intrinsic carrier concentration   &&   本征载流子浓度
+intrinsic charge   &&   本征电荷
+intrinsic coherence length   &&   本征相干长度
+intrinsic concentration   &&   本征浓度
+intrinsic conduction   &&   本征导电
+intrinsic conductivity   &&   内禀传导性导率
+intrinsic coordinates   &&   内蕴坐标
+intrinsic defect conductivity   &&   本征缺陷电导
+intrinsic electron or hole concentration   &&   电子或空穴本征浓度
+intrinsic energy   &&   内(禀)能
+intrinsic equation   &&   内禀方程
+intrinsic error   &&   基本(固有)误差
+intrinsic excitation   &&   本征激发
+intrinsic impedance   &&   特性阻抗，固有阻抗
+intrinsic inductance   &&   内磁感应强度
+intrinsic induction   &&   本征感应，内禀感应
+intrinsic instability   &&   固有不稳定性
+intrinsic material   &&   内禀型材料
+intrinsic meaning   &&   内在意义
+intrinsic motivation   &&   内在动机
+intrinsic noise   &&   固有噪声
+intrinsic permeability   &&   固有磁导率，本征磁导率
+intrinsic precision   &&   内在精度
+intrinsic probability   &&   固有概率
+intrinsic properties   &&   本征性质
+intrinsic redshift   &&   内禀红移
+intrinsic region   &&   本征区(域)
+intrinsic resistivity   &&   本征电阻率
+intrinsic safety barrier   &&   本质安全栅
+intrinsic seed   &&   本征籽晶
+intrinsic semiconductor   &&   本征半导体，纯半导体
+intrinsic strength   &&   内在强度
+intrinsic strength curve   &&   内在强度曲线
+intrinsic transistor   &&   本征晶体管，理想晶体
+intrinsic viscosity   &&   本征黏度，固有黏度，特性黏数
+intrinsic zone   &&   本征导电区
+intrinsically safe circuit   &&   本质安全电路[Exi]
+introduction to management science   &&   管理科学导论
+introduction to the principle of management   &&   管理原理概论
+introfaction   &&   加速浸泡
+introfier   &&   加速浸泡剂
+introscope   &&   内壁检验器，内壁显微镜
+intrusion   &&   浸入，贯人，浸入作用
+intrusion agent   &&   ①添加剂，混合料②灌入剂
+intuition in measuring variables   &&   度量变量中的直观
+intuition in probability   &&   概率直观
+intuitive approach to relative value   &&   相对值的直观观点
+intuitive forecasting   &&   直观预测
+intuitive forecasting technique   &&   直觉预测技术
+intuitive thesis of probability   &&   概率的直观论点
+intumescence   &&   膨胀，泡沸现像
+intumescent   &&   膨胀
+intumescent coating   &&   膨胀涂层
+inulin   &&   旋复花粉，土木香粉，菊粉
+invacuo   &&   在真空中
+invalid   &&   无效(的) 无效
+invalid event   &&   无效事件
+invar   &&   因瓦合金，殷钢，恒弹合金，不胀钢(nickel-iron alloy)
+invar levelling staff   &&   因瓦水准标尺
+invariability   &&   不变性
+invariable linear system   &&   不变的线性系统
+invariable plane   &&   不变平面
+invariance   &&   ①不变性②不变式
+invariance and convex loss   &&   不变性与凸损失
+invariance of decision problem   &&   决策问题不变性
+invariant   &&   不变量，不变的，恒定的
+invariant decision function   &&   不变决策函数
+invariant estimation   &&   不变估计
+invariant factor   &&   不变因子
+invariant imbedding   &&   不变嵌入
+invariant imbedding method   &&   不变量嵌入法
+invariant integral   &&   不变积分
+invariant manifold   &&   不变流形
+invariant measure   &&   不变测度
+invariant parameter   &&   不变参量
+invariant principle   &&   不变原理
+invariant rules and prior information   &&   先验信息与不变量规则
+invariant system   &&   不变系统
+invention   &&   创造，发明
+invention problem   &&   ①虚构问题②创造问题
+inventor   &&   发明人，创始人
+inventory adjustment   &&   库存调整
+inventory analysis   &&   库存分析，存储分析
+inventory and production processes   &&   存货与生产过程
+inventory and stock level   &&   存储与存货水准
+inventory control   &&   库存管理，库存控制
+inventory control model   &&   库存管理模型
+inventory control problem   &&   库存控制问题
+inventory level   &&   存储水准
+inventory management   &&   库存管理
+inventory management program and control technique   &&   库存管理程序与控制技术
+inventory management system   &&   库存管理系统
+inventory model   &&   库存模型
+inventory record   &&   库存记录
+inventory system   &&   存储系统
+inventory theory   &&   库存理论，存储论
+inverse   &&   反，逆
+inverse Compton effect   &&   逆康普顿效应
+inverse Laplace transformation   &&   逆拉普拉斯变换
+inverse analytic function   &&   解析反函数
+inverse annealing   &&   反退火，析出硬化
+inverse back coupling   &&   负反馈
+inverse bainite   &&   反常贝氏体
+inverse cam mechanism   &&   凸轮倒置机构
+inverse channel   &&   逆信道
+inverse chill   &&   反淬火
+inverse circular function   &&   反三角函数
+inverse correlation   &&   逆相关，负相关
+inverse crosstalk   &&   倒置串话
+inverse current   &&   反向电流
+inverse curve   &&   反曲线
+inverse difference operator   &&   反差分算子
+inverse edge   &&   逆棱
+inverse element   &&   逆元(素)
+inverse equation   &&   反方程
+inverse factorial   &&   反阶乘
+inverse ferrite   &&   逆铁素体
+inverse filtering   &&   逆滤波，反向滤波
+inverse form   &&   逆形式
+inverse function   &&   反函数
+inverse gear ratio   &&   反齿数比
+inverse heating rate curves   &&   逆加热速率曲线
+inverse image   &&   逆像，原像
+inverse image by a function   &&   函数逆像
+inverse improvement scheme   &&   反修正格式
+inverse interpolation   &&   逆插法，反插值法
+inverse isomorphic   &&   反同构
+inverse iteration   &&   反迭代，逆迭代
+inverse kinematics   &&   反向运动学
+inverse lattice   &&   倒易晶格
+inverse limit   &&   逆向极限
+inverse linear attenuation of light   &&   线性衰减
+inverse linear optimal control   &&   逆线性最优控制
+inverse logarithm   &&   反对数
+inverse mapping   &&   逆映射
+inverse matrix   &&   逆矩阵
+inverse network   &&   ①反演网络②倒置网络
+inverse number   &&   反数
+inverse of a number   &&   数的倒数，数的逆
+inverse of a square matrix   &&   方阵逆矩阵
+inverse operation   &&   反运算，逆运算
+inverse operator   &&   逆算子
+inverse opticality   &&   光学系数
+inverse path   &&   逆道路
+inverse period   &&   逆周期
+inverse photoelectric effect   &&   反光电效应
+inverse piezoelectric effect   &&   反压电效应
+inverse points   &&   反演点
+inverse power method   &&   逆幂法
+inverse probability   &&   逆概率
+inverse proportion   &&   反比(例)
+inverse proposition   &&   逆命题
+inverse ratio   &&   反比
+inverse segregation   &&   反偏析，逆偏析
+inverse sine   &&   反正弦
+inverse spinel structure   &&   反尖晶石型结构
+inverse square attenuation of light   &&   平方衰减
+inverse system   &&   可逆系统
+inverse theorem   &&   逆定理
+inverse time   &&   逆时
+inverse transformation   &&   逆变换
+inverse transformation method   &&   反变换法
+inverse trigonometric function   &&   反三角函数
+inverse video   &&   反转录像
+inverse voltage   &&   反向电压
+inverse-ratio curve   &&   反率曲线
+inversed circuit   &&   反演电路
+inversed cone radiation pattern   &&   倒锥形辐射图
+inversed direction   &&   反方向
+inversed feed back   &&   负反馈
+inversed gain   &&   反增益
+inversed hyperbolic function   &&   反双曲函数
+inversed interpolation   &&   反插值法
+inversed limiter   &&   反限辐器
+inversely proportional   &&   反比的
+inversible system   &&   可逆系统
+inversion   &&   ①转化，反转，逆变②反演(数)③反型
+inversion axis   &&   反演轴
+inversion casting   &&   ①翻箱铸造②翻炉浇
+inversion constant   &&   反演率
+inversion device   &&   反型器件
+inversion efficiency   &&   转换效率
+inversion formula   &&   反演公式
+inversion layer   &&   反型层
+inversion layer cell   &&   反型层电池
+inversion of a series   &&   级数的反演
+inversion of an integral   &&   积分的反演
+inversion of space   &&   空间反演
+inversion of stress   &&   应力倒向(应力变为相反的方向)
+inversion operation   &&   逆操作，反操作
+inversion point   &&   转化点，转化温度
+inversion region   &&   反转区
+inversion set   &&   逆转装置，反转装置
+inversion symmetry   &&   反对称性
+inversion temperature   &&   反转温度，转化温度
+inversional curve   &&   反演曲线
+inversive geometry   &&   反演几何
+inversive property   &&   反演性质
+invert   &&   ①转化②翻转，颠倒，倒转，反问
+inverted arc   &&   倒弧
+inverted chill   &&   反白口
+inverted connection   &&   反向连接
+inverted converter   &&   反向变换器，反向变流器
+inverted difference   &&   翻转差分
+inverted extrusion   &&   间接挤压，反挤压
+inverted file   &&   倒排文件(计)
+inverted hour   &&   反时针的
+inverted image   &&   倒像
+inverted input   &&   反输入
+inverted machine   &&   反接电机(转子接电源)
+inverted metallurgical microscope   &&   试样倒放式金相显微镜
+inverted output   &&   反相输出
+inverted pulse   &&   倒脉冲
+inverted rectifier   &&   逆整流器
+inverted sequence   &&   逆序，反序
+inverted siphon   &&   反向虹吸，倒虹管
+inverted triode   &&   倒置三极管
+inverted tube   &&   倒相管
+inverted weld   &&   凹面焊缝
+inverted welding   &&   仰焊
+inverted-pyramid antenna   &&   漏斗状天线，倒角锥天线
+inverted-ram press   &&   下压式压机
+inverter   &&   变换器，倒换器，反相器
+inverter circuit   &&   反演电路，倒相电路
+inverter gate   &&   反相门，非门
+inverter loop   &&   反相回路
+inverter stage   &&   倒相级
+inverter transistor   &&   倒相晶体管
+invertibility   &&   可逆性
+invertible   &&   可逆的
+invertible law   &&   可逆律
+invertible matrix   &&   可逆矩阵
+inverting element   &&   变换组件
+inverting input   &&   倒相输入
+inverting prism   &&   倒像棱镜
+inverting telescope   &&   倒像望远镜
+invest material   &&   覆盖材料
+invest shell casting method   &&   熔模壳型铸造法
+invested mould   &&   型壳
+investigation   &&   研究，调查，调查研究
+investing   &&   ①涂层，敷层(法)②灌浆
+investment   &&   ①上涂层料(溶损)②(灌)浆料(陶瓷型)③投资
+investment [lost wax] casting   &&   熔模铸造，熔蜡铸造
+investment burn out furnace   &&   燃烧脱蜡炉
+investment casting   &&   精密铸造
+investment casting wax   &&   熔模铸造用蜡
+investment compound   &&   (在蜡型上套制铸模用的)耐火材料
+investment decision   &&   投资决策
+investment moulding   &&   熔模铸造(造型)
+investment moulding pattern   &&   ①熔模②蜡模
+investment precoat   &&   面(层涂)料(熔模铸造)
+investment-mould casting   &&   熔模铸造
+inviscosity gas   &&   无黏性气体
+invisible   &&   不可见 不可见
+invisible green   &&   浓绿
+invisible light   &&   不可见光
+invisible loss   &&   无形损失
+invisible matter   &&   不可见物质
+invisible radiation   &&   不可见辐射
+invisible rays   &&   不可见射线
+invoke   &&   调用 呼叫
+involuntary error   &&   偶然误差
+involute   &&   ①渐开线，切展线，渐伸线②内旋的，内卷的
+involute equation   &&   渐开线方程
+involute function   &&   渐开线函数
+involute gear   &&   渐开线，渐开线齿轮
+involute helicoid   &&   渐开螺旋面
+involute interference point   &&   渐开线干涉点
+involute of the circle   &&   圆的渐伸线
+involute profile   &&   渐开线齿廓
+involute spiral angle   &&   渐开线螺旋角
+involute spline   &&   渐开线花键
+involute teeth   &&   渐开线齿
+involute winding   &&   渐伸线型绕组
+involute worm   &&   渐开线蜗杆
+involution   &&   ①乘方②对合③冻融变形
+involution system   &&   对合系
+involutive distribution   &&   对合分配
+involutorial algebras   &&   对合代数
+involutorial crossed product   &&   对合交叉乘积
+involutorial rational algebra   &&   对合有理代数
+involutory   &&   对合的
+involutory collineation   &&   对合直射
+involutory matrix   &&   对合矩阵
+involve   &&   ①自乘，乘方②包含，涉及③卷入，陷入④促成，需要，包括
+inwall brick   &&   炉衬耐火砖
+inward correspondence   &&   内向对应
+inward documentary bills   &&   进口押汇
+inward freight and cartage   &&   运人运费
+inward normal   &&   内向法线
+inward-bound light   &&   内向光
+inward-outward dialing system   &&   内外拔号
+iodide   &&   碘化物
+iodine   &&   碘 I(53)
+iodine etchant   &&   碘腐蚀剂，碘浸蚀剂
+iodine number   &&   碘价
+iodine value   &&   碘值，碘价
+iodized oil   &&   碘化油
+iodoeosin test   &&   碘曙红试验
+ion   &&   离子
+ion accelerating voltage   &&   离子加速电压
+ion accelerator   &&   离子加速器
+ion acceptor   &&   离子接受体，离子受体，离子接受器
+ion avalanche   &&   离子雪崩
+ion beam   &&   离子束，离子注
+ion beam machining   &&   离子束加工
+ion beam thinner   &&   离子减薄机
+ion bombardment   &&   离子轰击
+ion bombardment etching   &&   离子轰击浸蚀
+ion bombardment secondary electron image   &&   离子轰击二次电子象
+ion burn   &&   离子斑伤
+ion carbonitriding   &&   离子渗碳氮化
+ion carburizing   &&   离子渗碳处理
+ion catalyst   &&   离子催化剂
+ion chromatography   &&   离子色谱法
+ion cluster   &&   离子堆，离子群
+ion complex   &&   离子络合物，离子配合物
+ion concentration   &&   离子浓度
+ion content   &&   离子含量
+ion counter   &&   离子计数器
+ion cyclotron resonance mass spectrometer   &&   离子回旋共振质谱计(ICR mass spectrometer)
+ion deficiency   &&   离子短缺
+ion density   &&   离子密度
+ion detector   &&   离子检测器
+ion diffusion model   &&   离子扩散模型
+ion emission   &&   离子发射
+ion exchange   &&   离子交换
+ion exchange chromatography   &&   离子交换色层法，离子交换色谱法
+ion exchange clay   &&   离子交换树脂黏土
+ion exchange resin   &&   离子交换树脂
+ion exchange strengthening of glass   &&   玻璃的离子交换钢化法
+ion exchanger   &&   离子交换剂
+ion feed back   &&   离子反馈
+ion flow   &&   离子流
+ion focusing   &&   离子聚焦
+ion gauge   &&   电离压力计，电离规(真空规)
+ion gun   &&   离子枪
+ion implantation   &&   离子注入技术，离子移植技术，离子种人(法)
+ion kinetic energy spectra   &&   离子动能谱(IKE spectra)
+ion laser   &&   离子激光器
+ion lattice   &&   离子晶格，离子点阵
+ion lens   &&   郭子透镜
+ion microanalysis   &&   离子显微分析法
+ion microanalyzer   &&   离于微量分析仪
+ion microprobe analysis   &&   离子微探针分析
+ion microprobe mass analysis   &&   离子显微探针质量分析
+ion migration   &&   离子徙动，离子迁移
+ion mobility   &&   离子流动度，离子淌度
+ion model   &&   离子模型
+ion monitor   &&   离子监控器
+ion neutralization   &&   离子中和
+ion neutralization spectrometer   &&   离子中和谱仪
+ion neutralizing spectroscopy   &&   离子中和谱法[INS]
+ion nitriding   &&   电离化、氮化
+ion optics   &&   离子光学
+ion orbit   &&   离子轨道
+ion plasma   &&   等离子区
+ion plating   &&   离子电镀
+ion polymerization   &&   离子聚合
+ion probe   &&   离子探针，离子探头
+ion probe microanalyzer   &&   离子探针微量分析器
+ion pump   &&   离子泵
+ion repeller   &&   离子排斥极
+ion scattering spectrometer   &&   离子散射谱仪
+ion sensor   &&   离子传感器
+ion source   &&   离子源
+ion spectra   &&   离子光谱
+ion spot   &&   离子斑点(阴极射线管及显像管的荧光屏由于离子轰击而损坏的点)
+ion strength   &&   离子强度
+ion temperature   &&   离子温度
+ion trajectory   &&   离于轨道
+ion transducer   &&   离子传感器
+ion transmission efficiency   &&   离子传输率
+ion transmission metallography   &&   离子透射金相学
+ion transmission technique   &&   离于透射(法)
+ion trap   &&   离子阱
+ion trap gun   &&   离子陷阱枪
+ion trap magnet   &&   离子陷阱磁铁
+ion-activity meter   &&   离子计
+ion-beam scanning   &&   离子束扫描
+ion-bombardment experiment   &&   离子轰击试
+ion-exchange adsorption   &&   离子交换(树脂)吸附作用
+ion-exchange chromatography   &&   离子排斥色谱法
+ion-exchange fibre   &&   离子交换纤维
+ion-exchange membrane   &&   离子交换隔膜
+ion-exchange property   &&   离子交换性能
+ion-ion interaction   &&   离子-离子相互作用
+ion-nitriding device   &&   离子渗氨装置
+ion-pair   &&   离子对
+ion-scattering spectroscopy   &&   离子散射谱法[ISS]
+ion-scattering spectrum   &&   离子散射谱
+ion-selective electrode   &&   离子选择电极
+ion-selective electrode analysis   &&   离子选择电极分析(法)
+ion-selective electrode gas sensor   &&   离子选择电极(式)气体传感器
+ion-selective electrode gas transducer   &&   离子选择电极(式)气体传感器
+ion-transit-time measurement   &&   离子飞越时间测量
+ionflow anemometer   &&   离子流风速表
+ionic   &&   离子的
+ionic activity   &&   离子活度
+ionic bombardment   &&   离子轰击
+ionic bond   &&   离子键，离子键合
+ionic bonding   &&   离子结合，离子键合
+ionic catalyst   &&   离子催化剂
+ionic charge   &&   离子电荷
+ionic cloud   &&   离子云
+ionic compound   &&   离子化合物
+ionic concentration cell   &&   电子浓度电池
+ionic conduction   &&   离子传导，离子导电
+ionic conductor   &&   离子导电体
+ionic crystal   &&   离子晶体
+ionic current   &&   离子电流
+ionic diffusion   &&   离子扩散
+ionic dispersion   &&   离子分散
+ionic dissociation   &&   电离离解
+ionic initiator   &&   离子引发剂
+ionic jet   &&   离子束，离子注
+ionic lattice   &&   离子晶格
+ionic material   &&   离子材料
+ionic micelle   &&   离子胶束
+ionic microscope   &&   离子显微镜
+ionic mobility   &&   离子迁移率
+ionic photoconductive dye   &&   离子光导性染料
+ionic polarization   &&   离子极化
+ionic polymerization   &&   离子(引发)聚合
+ionic propulsion   &&   离子喷射
+ionic radius   &&   离子半径
+ionic reaction   &&   离子反应
+ionic refraction   &&   离子折射
+ionic semiconductor   &&   离子半导体
+ionic space lattice   &&   离子空间晶格
+ionic speaker   &&   离子喇叭
+ionic speed   &&   离子速度
+ionic strength   &&   离子强度
+ionic surface active agent   &&   离子性表面活性剂
+ionic surfactant   &&   离子性表面活性剂
+ionic-heated cathode   &&   离子加热阴极
+ionicity   &&   离子性，电离度
+ionitriding   &&   电子渗氮，电离氮化法
+ionium   &&   锾(钍的同位素Th230)
+ionizability   &&   电离度
+ionization   &&   电离(作用)，离子化作用
+ionization by light   &&   光致电离
+ionization by sputtering   &&   溅射电离
+ionization chamber   &&   电离室，电离槽
+ionization coefficient   &&   电离系数
+ionization constant   &&   电寓常数
+ionization current   &&   电离电流
+ionization curve   &&   电离曲线
+ionization degree   &&   电离度
+ionization efficiency   &&   电离效率
+ionization efficiency curve   &&   电离效率曲线
+ionization energy   &&   电离能
+ionization equilibrium   &&   电寓平衡
+ionization foaming   &&   离子化发泡(聚乙烯发泡的方法)
+ionization gauge   &&   电离压力计，电寓规
+ionization lose spectroscopy   &&   离化损失谱法[ILS]
+ionization path   &&   电离轨道
+ionization phenomena   &&   电离现像
+ionization potential   &&   电离电势，电离电位
+ionization probability   &&   电离几率
+ionization probe   &&   电离探头
+ionization puncture   &&   电离击穿
+ionization rate   &&   电离率
+ionization series   &&   离子系(列)，电离序
+ionization solution   &&   电离溶液
+ionization temperature   &&   电离温度
+ionization tendency   &&   离子化倾向
+ionization time   &&   电离时间
+ionization vacuum gauge   &&   电离真空计
+ionization voltage   &&   电离电压
+ionize   &&   电离，离子化
+ionized acceptor   &&   离子化受主
+ionized atom   &&   游离化原子，离子化原子
+ionized casesium plasma   &&   离子化铯等离子体
+ionized donor   &&   离子化施主
+ionized gas   &&   电离化气体
+ionized impurity   &&   电离杂质
+ionized layer   &&   电离层
+ionized stratum   &&   电离层
+ionizer   &&   电离剂，电离源
+ionizing particle   &&   致电离粒子
+ionizing radiation   &&   电离辐射
+ionizing sensor   &&   电离式传感器
+ionizing solvent   &&   离子化溶剂
+ionizing transducer   &&   电离式传感器
+ionizing voltage   &&   电离电压
+ionizor   &&   电离器
+ionodialysis   &&   离子渗析
+ionogen   &&   ①电解质，电解物②离子化低聚物③可离子化的基团
+ionogram   &&   电离图
+ionomer   &&   离聚物，离子交联聚合物的聚合物
+ionometer   &&   ①离子计②射线力汁
+ionosonde   &&   电离层探测装置
+ionosphere   &&   电离层
+ionospheric cloud   &&   电离层云
+ionospheric propagation   &&   电离层传播
+ionospheric recorder   &&   电离层记录器
+ionospheric scatterlng   &&   电离层散射
+ionospheric transmission   &&   电离层传输
+ionotron   &&   静电消除器
+ionotropy   &&   离子移变(作用)
+iraser   &&   红外激光器
+iraurita   &&   铱金，铱金矿
+iridescence   &&   彩虹光(材料表面透明薄膜)
+iridescent glass   &&   虹彩玻璃
+iridic   &&   铱的(四价)，铱化的
+iridic gold   &&   铱金
+iridioplatinum   &&   铂铱合金
+iridium   &&   铱，Ir(77)
+iridium bearing metal   &&   锌锡铜系轴承合金
+iridium-base alloy   &&   铱基合金
+iridium-containing alloy   &&   含铱合金
+iridoplatinum   &&   铱铂合金
+iridosmine   &&   铱饿笔尖合金，铱饿矿
+iris   &&   ①可变光阑②晕彩③膜片④窗孔⑤(锁)光圈，可变光圈⑥虹膜，虹彩(眼睛)，虹状
+iris action   &&   可变光阑作用
+iris diaphragm   &&   ①虹彩器(显微镜零件)②可变光阑③膜片
+iris in   &&   囤入(影像由中间一点渐现光亮而至显出全景)
+iris out   &&   圈出(影像由周围渐暗而达到全部消失)
+iris photometer   &&   光瞳光度计
+iris ring   &&   可变光圈
+iris setting   &&   光阑调整
+iris stop   &&   ①可变光阑②膜片(波导中)
+iriscorder   &&   红外线电子瞳孔仪
+iron   &&   ①铁，Fe(26)②烙铁，熨斗③铁器
+iron alloy   &&   含铁合金
+iron band   &&   钢带
+iron bar   &&   铁条
+iron base super-strength alloy   &&   铁基超强度合金
+iron blue   &&   铁蓝色
+iron boride   &&   硼化铁，FeB
+iron bound   &&   包铁的
+iron briquette   &&   铁屑团块
+iron bronze   &&   铁青铜
+iron buff   &&   铁，铁炭(矿物)染料，黄色颜料
+iron carbide   &&   渗碳体
+iron carbonyl   &&   羧基铁
+iron casting   &&   生铁铸造
+iron cement   &&   ①含铁水泥②铁质胶合剂
+iron channel   &&   槽钢
+iron charge   &&   铁料
+iron choke coil   &&   铁心扼流圈
+iron cobalt alloy   &&   铁钻合金
+iron constantan   &&   铁康铜
+iron construction   &&   铁结构
+iron cordierite   &&   铁堇青石
+iron core   &&   铁心
+iron crucible   &&   铁坩埚
+iron down   &&   矫直，压平
+iron dust   &&   铁屑，铁(粉)抹
+iron earth   &&   菱铁矿
+iron fillings   &&   铁屑
+iron foil   &&   铁箔
+iron foundry   &&   铸铁厂
+iron garnet   &&   铁榴石
+iron glance   &&   镜铁矿
+iron grey   &&   铁灰色
+iron loss   &&   金属烧损，铁损
+iron man   &&   钢铁工人
+iron melt   &&   铁水
+iron melting furnace   &&   化铁炉
+iron mica   &&   黑云母
+iron mordant   &&   铁媒染剂
+iron mould   &&   铁模
+iron ocher   &&   ①铁赭石②赭石
+iron ore   &&   铁矿石(铁质校正原料之一，其铁含量一般不低于40％)
+iron out   &&   平整，矫平(带钢厚度差)，均整
+iron oxide   &&   氧化铁
+iron oxide pigments   &&   氧化铁颜料
+iron pentacarbonyl   &&   五羰(铬)铁
+iron phosphide   &&   磷化铁共晶(低共熔棍合物)
+iron plate   &&   厚钢板
+iron portland cement   &&   铁硅酸盐水泥
+iron powder   &&   铁粉
+iron putty   &&   铁油灰
+iron pyrites   &&   黄铁矿
+iron red   &&   红颜料(含氧化铁的)
+iron rod   &&   钢条
+iron rust   &&   铁锈
+iron scale   &&   铁鳞，铁屑，铁锈皮
+iron scrap   &&   废铁
+iron sheet   &&   铁皮
+iron shot   &&   ①铁珠，钢珠②铁豆，冷珠(缺陷)
+iron silicon alloy   &&   铁硅合金
+iron smith   &&   铁工，锻工
+iron spot   &&   铁(斑)点(耐火材料及陶瓷的缺陷)
+iron stain   &&   铁斑，铁锈
+iron stained   &&   生锈的，锈蚀的
+iron vitriol   &&   铁绿矾，青矾，绿矾
+iron ware   &&   铁器
+iron wire   &&   低碳钢丝，铁丝
+iron wood   &&   硬木，坚硬木料
+iron work   &&   铁制品，铁制部分
+iron worker   &&   钢铁工人
+iron works   &&   炼铁厂，铁工厂
+iron-base alloy   &&   铁基合金
+iron-bearing aggregate   &&   含铁集
+iron-carbide alloy   &&   碳化铁合金
+iron-carbon alloy   &&   铁碳合金
+iron-carbon diagram   &&   铁碳相图
+iron-carbon equilibrium diagram   &&   铁炭平衡图
+iron-carbon phase diagram   &&   铁碳相图
+iron-cementite diagram   &&   铁渗碳体平衡图
+iron-clad   &&   ①包敷的金属，金属敷层②铠装的，装甲的
+iron-cobalt-nickel alloy   &&   铁钴镍合金
+iron-colored glass   &&   铁着色玻璃
+iron-containing alloy   &&   含铁合金
+iron-copper   &&   铁铜合金
+iron-core loss   &&   铁心损耗
+iron-core material   &&   铁心材料
+iron-cored coil   &&   铁心线圈
+iron-dust core   &&   铁粉心
+iron-filled epoxy pattern   &&   铁粉填料环氧树脂膜
+iron-graphite diagram   &&   铁-石墨平衡图
+iron-iron carbide diagram   &&   铁-碳化铁状态图(压稳定的)
+iron-iron carbide equilibrium diagram   &&   铁-碳化铁平衡图
+iron-iron carbide system   &&   铁－炭化铁系
+iron-manganese colored glass   &&   铁锰着色玻璃
+iron-nickel accumulator   &&   铁镍蓄电池
+iron-nickel-chromium   &&   铁镍铬合金
+iron-ore cement   &&   铁矿冰泥，矿渣水泥
+iron-oxidizer   &&   铁氧化剂
+iron-stone   &&   铁矿，含铁矿石，菱铁矿， 铁岩
+ironing   &&   ①[风口)灌渣铁，(风口)挂渣铁②压面，减厚深冲，碾平
+ironmaking   &&   炼铁
+irradiance   &&   辐(射)照(射)度
+irradiate   &&   辐照，照射
+irradiated fuel   &&   辐照燃料
+irradiated polyethylene   &&   辐照聚乙烯，交联聚乙烯
+irradiation   &&   ①辐照，辐射，光渗②发光
+irradiation creep   &&   辐照蠕变
+irradiation damage   &&   辐照损坏(由于中子辐射而造成金属性能的降低)
+irradiation effect   &&   辐照效应
+irradiation hardening   &&   辐照硬化
+irrational   &&   无理数，无理的
+irrational equation   &&   无理方程
+irrational exponent   &&   无理指数
+irrational expression   &&   无理式
+irrational function   &&   无理函数
+irrational number   &&   无理数
+irrecoverable compliance   &&   不可复柔量
+irrecoverable creep   &&   不可变蠕变
+irreducibility   &&   不可约性
+irreducibility test   &&   不可约判别法
+irreducible   &&   不可约的，不能简化的，难化的，不能分解的，难回复的
+irreducible Markov chain   &&   不可约马尔可夫链
+irreducible character   &&   不可约特征标
+irreducible correspondence   &&   不可约刘应
+irreducible matrix   &&   不可约(矩)阵
+irreducible number   &&   不可约数
+irreducible oil   &&   残油
+irreducible polynomial   &&   不可约多项式
+irreducible representation   &&   不可约表示
+irreducible set   &&   不可约集
+irreducible tensor operator   &&   不可约张量算
+irredundant   &&   不可压缩的，无赘的
+irredundant intersection   &&   无赘交
+irreflexive   &&   反自由
+irreflexive relation   &&   非自反关系
+irregular   &&   不规则的，无规律的
+irregular birational transformation   &&   非正则双有理变换
+irregular break   &&   不平整断口
+irregular chattering   &&   不规则反跳
+irregular close packing   &&   不规密排
+irregular collective   &&   无规则集合，无规则集体
+irregular crystal   &&   不规则晶体
+irregular dislocation   &&   不规则位错
+irregular edge dislocation   &&   不规则内型位错
+irregular folding   &&   不规则折叠
+irregular galaxy   &&   不规则星系
+irregular node   &&   不规则结点
+irregular point   &&   非正则点
+irregular reflection   &&   乱反射
+irregular region   &&   非正则域
+irregular surface   &&   非正则曲面
+irregular variable   &&   不规则变星
+irregular variation   &&   不规则偏差
+irregularity   &&   ①紊乱②不规则性，不一致性③不匀度，不均匀性，不平整度④非直管性(段)
+irregularity orientation   &&   (晶体)无规则取向，杂乱取向
+irregularity screw dislocation   &&   不规则螺型位错
+irrelevant variable   &&   无关变量
+irrespective   &&   不顾的，不考虑的
+irrespective of   &&   不论，不管
+irreversibility   &&   不可逆性
+irreversibility for a production set   &&   生产集的不可逆性
+irreversible   &&   不可逆的
+irreversible cell   &&   不可逆电池
+irreversible change   &&   不可逆变化
+irreversible colloid   &&   不可逆胶(质)体
+irreversible magnetic aging   &&   不可逆磁时效
+irreversible permeability   &&   不可逆磁导率
+irreversible process   &&   不可逆过程
+irreversible reaction   &&   不可逆反应
+irreversible resistance   &&   不可逆阻力
+irreversible state   &&   不可逆状态
+irreversible swelling   &&   不可逆溶胀
+irreversible thermodynamics   &&   不可逆(过程)热力学
+irreversible worm   &&   自锁蜗杆，止回蜗杆
+irrotational deformation   &&   无旋形变，无旋变形
+irrotational field   &&   无旋场
+irrotational motion   &&   无旋运动
+irrotational vector   &&   无旋向量
+irrotational vibration   &&   无旋振动
+irrotationality   &&   无旋性
+isabellin   &&   锰系电阻材料(Cu 84％，Mn 13％，Al3％)
+isallotherm   &&   等变温线
+isatin   &&   靛红
+isenthalpic   &&   等焓线，等热焓线
+isentropic   &&   ①等熵线②等熵的
+isentropic exponent   &&   等熵指数
+isentropic flow   &&   等熵流
+isentropity   &&   等熵性
+isinglass   &&   ①鱼胶②云母③白云母薄片
+island   &&   孤岛 孤立物件
+island detection   &&   孤岛检测
+island effect   &&   小岛效应(半导体)
+iso-butane   &&   异丁烷
+iso-component   &&   异构化组分
+iso-compound   &&   异构化合物
+iso-hardness diagram   &&   等硬度图
+iso-octane   &&   标准异辛烷
+iso-surface   &&   等面的
+isoabsorptive point   &&   等吸收点
+isoamyl acetate   &&   醋酸异戊酯
+isoamyl butyrate   &&   丁酸异戊酯(可用作醋酸纤维素的溶剂和增塑剂)
+isoamyl nitrite   &&   亚硝酸异戊酯
+isoamyl salicylate   &&   水杨酸异戊酯(可用作增塑剂的无色液体)
+isobar   &&   ①等压线②同量异位素
+isobar polynomial   &&   等权多项式
+isobaric   &&   ①等压的②同量异位(素)的
+isobaric atom   &&   同量异位原子
+isobaric covariant   &&   等权共变式，等权共变量
+isobaric line   &&   等压线
+isobaric mass-change determination   &&   等压质量变化测定
+isobaric nucleus   &&   同量异位核
+isobaric process   &&   等压过程
+isobaric section   &&   等压截面
+isobaric space   &&   同量异位素空间
+isobaric spin   &&   同位旋
+isobaric weight-change curve   &&   等压重量变化曲线
+isobaric weight-change determination   &&   等压重量变化测定
+isobutanol   &&   异丁醇
+isobutene   &&   异丁烯
+isobutene polymer   &&   聚异丁烯
+isobutyl acetate   &&   醋酸异丁酯(用作纤维素塑料和漆的溶剂)
+isobutyl isobutyrate   &&   异丁酸异丁酯
+isobutyl mustard oil   &&   异丁芥子油，异硫氰酸
+isobutylene   &&   异丁烯
+isobutylene-isoprene copolymer   &&   异丁烯-甲基丁乙烯共聚物，异丁橡胶
+isobutylene-isoprene rubber   &&   异丁烯-异戊二烯橡胶
+isocandela diagram   &&   等光强图
+isocatalysis   &&   异构催化(作用)
+isochore   &&   等容线，等体(积)线
+isochoric process   &&   等体[积]过程
+isochromatic   &&   等色线，等色的
+isochrone   &&   同时线，等时线
+isochrone line   &&   等龄线
+isochronism   &&   ①等时性②同步
+isochronograph   &&   等时计
+isochronous   &&   等时的，同步的
+isochronous circuit   &&   等时电路
+isochronous creep curve   &&   等时蠕变曲线
+isochronous modulation   &&   同步调制
+isochronous oscillation   &&   同步振荡
+isochronous pendulum   &&   等时摆
+isocline   &&   ①等斜线，等倾线②等向线
+isocline method   &&   等倾法
+isoclinic   &&   等倾的
+isoclinic line   &&   等倾线(磁)
+isocolloid   &&   异胶质，同质异性胶体
+isocompound   &&   异构化合物
+isoconcentration   &&   同浓度，等浓度
+isoconcentration diffusion   &&   等浓度扩散
+isocost line   &&   等费用线
+isocyanate   &&   异氰酸盐，异氰酸酯
+isocyanate acid   &&   异氰酸
+isocyanate adhesive   &&   异氰酸酯黏合剂
+isocyanate foams   &&   异氰酸酯泡沫体
+isocyanate generator   &&   异氰酸酯发生物
+isocyanate plastics   &&   异氰酸酯塑料
+isocyanate resin   &&   异氰酸酯树脂
+isocyanate varnish   &&   异氰酸酯漆
+isocyanide   &&   胩，异氰化物
+isocyanine   &&   异腈化物，异化青
+isocyclic   &&   ①等节环(状)的②同素的③碳环的
+isocyclic compound   &&   ①碳环化合物，纯环化合物②等(原子数)环化合物
+isocyclic stem nucleus   &&   等环母核
+isodynamic line   &&   等磁力线
+isoelastic   &&   等弹性的
+isoelastic temperature   &&   等弹性温度
+isoelectric point   &&   等电点
+isoelectronic   &&   等电子的
+isoelectronic center   &&   等电子中心
+isoelectronic compound   &&   等电子化合物
+isoelectronic sequence   &&   等电子序
+isoenthalpic   &&   等焓线
+isoentropic   &&   等熵线
+isogel   &&   等凝胶，同构异量质凝胶
+isogoal   &&   等角的
+isogonal affine transformation   &&   等角仿射变换
+isogonal conjugate lines   &&   等角共轭线
+isogonal conjugate points   &&   等角共轭点
+isogonal figures   &&   等角图形
+isogonal line   &&   等角线
+isogonality   &&   等角变换
+isogonic line   &&   等磁偶线
+isogonism   &&   等角现象
+isograph   &&   求根仪(解微分方程)
+isohydric solution   &&   等氢离子溶液
+isol   &&   孤点元
+isolant   &&   绝缘材料
+isolate   &&   ①隔离，孤立②绝缘
+isolated   &&   孤立
+isolated amplifier   &&   隔离放大器
+isolated analogue input   &&   隔离的模拟输入
+isolated atom   &&   孤立原子
+isolated busbar   &&   隔离母线
+isolated conductor   &&   孤立导体
+isolated dement   &&   孤立元(素)
+isolated essential singularity   &&   孤立本性奇点
+isolated fault   &&   孤立故障
+isolated gate field effect transistor   &&   隔离栅场效应晶体管
+isolated island   &&   隔离岛
+isolated junction   &&   绝缘端
+isolated junction type sheathed thermocouple   &&   绝缘型铠装热电偶
+isolated layer   &&   隔离层
+isolated location   &&   隔离区
+isolated network   &&   独立网络
+isolated node   &&   孤立结点，孤立结
+isolated output   &&   隔离输出
+isolated pitting   &&   孤立麻点，孤立锈坑
+isolated point   &&   孤立点
+isolated primary component   &&   孤立准素分支
+isolated subsystem   &&   孤立子系统
+isolated system   &&   ①非接地制②孤立系③孤立系统
+isolated value   &&   孤值
+isolated vertex   &&   孤立点
+isolated-neutral system   &&   中性点不接地系统
+isolated-phase bus   &&   分相母线
+isolating capacitor   &&   隔直流电容器
+isolating integral   &&   孤立积分
+isolating switch   &&   隔离开关，切断开关，断路器
+isolating valve   &&   隔断阀
+isolation   &&   ①分离，隔离②离析③绝缘
+isolation diode   &&   隔离二极管
+isolation junction   &&   隔离结
+isolation levels   &&   隔离级别，隔离层次
+isolation masking   &&   隔离掩体
+isolation network   &&   隔离网络
+isolation region   &&   隔离区
+isolation structure   &&   隔离结构
+isolator   &&   ①隔离器，绝缘体②单向器
+isoleucine   &&   异白氨酸，异亮氨酸
+isoline   &&   素线，等角线，等价线，等值线
+isolit   &&   低绝缘材料，绝缘胶纸带
+isologal curve   &&   对望曲线
+isologic curve   &&   对望曲线
+isologue   &&   对望变换,同构异素体
+isolux   &&   等照度
+isolux curve   &&   等照度曲线
+isolux diagram   &&   照度分配图
+isolux line   &&   等照度线
+isomagnetic   &&   等磁的
+isomagnetic line   &&   等磁线
+isomer   &&   同分异构物，同质异能素
+isomeric catalysis   &&   异构催化
+isomeric compound   &&   异构化合物
+isomeric nucleus   &&   同质异能核
+isomeric polymer   &&   异构聚合物
+isomeric transition   &&   同质异能跃迁
+isomeride   &&   同分异构体，异构物
+isomerism   &&   ①同分异构现象②同质异能性
+isomerization   &&   异构化作用
+isomerized rubber   &&   异构化橡胶
+isomerizing agent   &&   异构化剂
+isometric   &&   ①等轴(的)，立方(的)，等角(的)，等比例，等距离的，等容积的②等轴测 等角
+isometric chart   &&   等距图
+isometric circle   &&   等距圆
+isometric correspondence   &&   等距对应
+isometric drawing   &&   等角图．等距画法
+isometric mapping   &&   等距映射
+isometric parameter   &&   等距参数
+isometric process   &&   等容过程，定容过程
+isometric projection   &&   等角投影，等距射影
+isometric snap style   &&   等轴测捕捉样式 等角锁点型式
+isometric space   &&   等距空间
+isometric surface   &&   等距曲面
+isometric system   &&   立方(晶)系
+isometric transformation   &&   等度量变换
+isometric view   &&   ①立体图②等轴测视图，等角视景
+isometry   &&   等距
+isomorph   &&   同构，同形体
+isomorphic cooperative game   &&   同构合作对策
+isomorphic crystal   &&   同形晶体
+isomorphic equivalent   &&   同构等价
+isomorphic graph   &&   同构图
+isomorphic mapping   &&   同构映射
+isomorphic matrices   &&   同构(矩)阵
+isomorphism   &&   同晶型，同形性，同构
+isomorphism of group   &&   群的同构
+isomorphous   &&   同晶(型)的，同形的
+isomorphous crystal   &&   同形晶体
+isomorphous system   &&   同晶系
+isomorphy   &&   同晶型
+isonitrile   &&   异腈
+isooctane   &&   异辛烷
+isooctyl adipate   &&   己二酸异辛酯
+isooctyl palmitate   &&   棕榈酸异辛酯(聚和纤维素塑料增塑剂)
+isopanchromatic   &&   等全色的
+isoparaffin   &&   异(链)烷泾
+isoparametric constant   &&   等周常数
+isoparametric element   &&   等参数元素
+isoparametric inequality   &&   等周不等式
+isopentane   &&   异戊烷
+isoperimetric problem   &&   均匀周围度量问题
+isoperm   &&   恒导磁率铁镍钴合金
+isophase   &&   等相线
+isophonic contour   &&   等声强曲线，等音感曲线
+isophorone   &&   异佛儿酮(乙烯基树脂和纤维素树脂的有效溶剂)
+isophote   &&   ①等环母核②等照明曲线
+isophotometry   &&   等光度测量
+isophthaloyl chloride   &&   间苯
+isopiestic   &&   ①等压②等压的
+isopiestic method   &&   等压法
+isopiestics   &&   等压线
+isoplanar   &&   等平面的，同平面的
+isopleth   &&   等值线
+isopleth radiation   &&   辐射等值线
+isoplethic curves   &&   等值曲线
+isopotential   &&   等位势线
+isopotential point   &&   等电位点
+isopotential surface   &&   等电位面
+isopreference curves   &&   均匀偏好曲线，等优曲线
+isoprene   &&   异戊二烯，2-甲基丁二烯
+isoprene rubber   &&   异戊二烯橡胶
+isoprenoid   &&   类异戊二烯
+isoprofit line   &&   等利润线
+isopropyl acetate   &&   醋酸异丙酯
+isopropyl alcohol   &&   异丙醇
+isopropyl benzene   &&   异丙基苯
+isopropyl myristate   &&   肉豆蔻酸异丙酯
+isopropyl oleate   &&   油酸异丙酯(可用作硝酸纤维素，乙基纤维素和聚苯乙烯的增塑剂)
+isopropyl palmitate   &&   棕榈酸异丙酯(可用作硝酸纤维素，乙基纤维素的增塑剂)
+isoptic curve   &&   切角曲线
+isopulse   &&   恒定脉冲
+isopulse system   &&   恒定脉冲制
+isoquinoline   &&   异奎啉
+isorheic   &&   ①黏度液②等黏的
+isorotation   &&   等旋光度
+isosceles quadrilateral   &&   等腰四边形
+isosceles spherical triangle   &&   等腰弧三角形，等腰球面三角形
+isosceles trapezoid   &&   等腰梯形
+isosceles triangle   &&   等腰三角形
+isoscope   &&   同位素缺陷探伤仪
+isoseismal   &&   等震线
+isoseisms   &&   等震线
+isosol   &&   等溶胶，同构异量质溶胶
+isostatic   &&   等压的，均衡的
+isostatic pressing   &&   均匀压制法
+isostatics   &&   ①(主应力)倾度线②等压线
+isostere   &&   同电子排列体，等排物
+isosterism   &&   同电子排列性，电子等配性
+isostructural   &&   同(结)构(的)
+isostructuralism   &&   同结构性，等结构性
+isostructure   &&   同构造，同结构，等结构
+isotactic   &&   ①等规立构的②全规的，全同立构的
+isotactic configuration   &&   等规立构构型
+isotactic polymer   &&   等规聚合物，全同立构聚合物
+isotactic polymerization   &&   等规立构聚合，全同立构聚合(作用)
+isotactic polypropylene oxide   &&   全同立构聚氧化丙烯
+isotactic polystyrene   &&   全同立构聚苯乙烯，等规立构聚苯乙烯
+isotactic pressing   &&   全规加压
+isotactic synthetic polypeptides   &&   全同立构合成多肽
+isotaxy   &&   全同聚合，等规聚合
+isotherm   &&   等温线，恒温线
+isothermal   &&   等温线，等温的
+isothermal TMT   &&   等温形变热处理
+isothermal adsorption   &&   等温吸附(作用)
+isothermal annealing   &&   等温退火，全退火
+isothermal change   &&   等温变化
+isothermal compression   &&   等温压缩
+isothermal condition   &&   等温条件
+isothermal conjugate net   &&   等温共轭网
+isothermal cooling   &&   等温冷却
+isothermal cooling transformation diagram   &&   等温冷却转变图
+isothermal coordinates   &&   等温坐标
+isothermal crack arrest test   &&   等温止裂试验
+isothermal creep   &&   等温蠕变
+isothermal crystallization   &&   等温结晶(作用)
+isothermal curve   &&   等温曲线
+isothermal curves   &&   等温线
+isothermal diagram   &&   等温图
+isothermal expansion   &&   等温膨胀
+isothermal forging   &&   等温锻造
+isothermal gas chromatography   &&   等温层跟踪仪
+isothermal hardening   &&   等温淬火
+isothermal load-controlled test   &&   等温控制载荷试验
+isothermal martensite   &&   等温马氏体
+isothermal parameter   &&   等温参数
+isothermal parameters   &&   等温参数
+isothermal point   &&   恒温式热量计
+isothermal process   &&   等温过程
+isothermal quenching   &&   等温淬火
+isothermal quenching bath   &&   等温淬火熔炉，专用于等温淬火的低温熔炉
+isothermal region   &&   等温区
+isothermal repeated-tension loading test   &&   等温重复拉伸加载试验
+isothermal section   &&   等温截面
+isothermal sintering   &&   等温烧结
+isothermal spheroidizing   &&   等温球化退火
+isothermal strain   &&   等温应变
+isothermal stress and strain cycling test   &&   等温应力应变循环试验
+isothermal tempering   &&   等温回火
+isothermal thermomechanical treatment   &&   等温形变热处理
+isothermal transformation   &&   等温转变
+isothermal transformation diagram   &&   等温转变图
+isothermal treatment   &&   等温处理
+isothermal weight-change curve   &&   等温重量变化曲线
+isothermal weight-change determination   &&   等温重量变化测定
+isothermally   &&   等温(的)
+isothermic   &&   等温(的)
+isothermic dyeing   &&   等温染色
+isothermic net   &&   等温网
+isothermic surface   &&   等温曲面
+isotone   &&   等中子异核素，等中子素
+isotone mapping   &&   保序映射
+isotonic solution   &&   等渗(压)溶液
+isotonicity   &&   等压性
+isotope   &&   同位素
+isotope dilution mass spectrometry   &&   同位素稀释质谱法
+isotope dilution method   &&   同位素稀释法
+isotope doping   &&   同位素掺杂
+isotope effect   &&   同位素效应
+isotope mass spectrometer   &&   同位素质谱计
+isotope peak   &&   同位素峰
+isotope ratio measurement   &&   同位素丰度测定
+isotope shift   &&   同位素移位
+isotope tracer   &&   同位素示踪物
+isotopic   &&   合痕的
+isotopic thickness gauge   &&   同位素测厚仪
+isotopy   &&   ①同位素学，同位素性质②合伦(拓扑学)③合痕
+isotron   &&   同位素分析器各向同性(物体的各个方向都具有相同性质的现象)
+isotropic   &&   各向同性的
+isotropic body   &&   各向同性体
+isotropic carbon fibre   &&   各向同性碳纤维
+isotropic cell   &&   (各向)同性型电池
+isotropic congruence   &&   迷向线汇
+isotropic coordinate   &&   迷向坐标
+isotropic dielectric   &&   各向同性电介质
+isotropic elasticity   &&   各向同性弹性，各向同性
+isotropic fiber   &&   各向同性纤维
+isotropic laminate   &&   各向同性层压制件
+isotropic line   &&   迷向(直)线，极小(直)线
+isotropic liquid phase   &&   各向同性液相
+isotropic liquids   &&   各向同性液体
+isotropic material   &&   各向同性材料
+isotropic medium   &&   各向同性介质
+isotropic point   &&   各向同性点
+isotropic radiation   &&   各向等强辐射
+isotropic radiator   &&   各向同性辐射体
+isotropic scattering   &&   各向同性散射
+isotropic solution   &&   各向同性溶液
+isotropic substance   &&   各向同性物质
+isotropism   &&   各向同性
+isotropy   &&   各向同性(现象)
+isovalent colour   &&   等价色
+isovelocity   &&   等风速线
+isoversion   &&   催化异构化
+issue   &&   发布，发出
+isthmus armature   &&   细颈形衔铁
+italic   &&   斜体字，斜体
+item   &&   ①项(计)②条款③项(目)， 类别
+item advance   &&   按项目进行
+item by item sequential inspection   &&   逐项顺序检验，逐次序贯检查，逐个顺序检验
+item design   &&   项目设计
+item master file   &&   库存主档
+item obtainmen time   &&   领料时间
+item of information   &&   信息项
+item transfer   &&   偏目转换
+iterate   &&   迭代
+iterated algorithm   &&   迭代算法
+iterated code   &&   迭代码
+iterated contraction   &&   多重收缩
+iterated electrical filter   &&   多节滤波器
+iterated function   &&   迭函数
+iterated game   &&   迭代对策
+iterated integral   &&   叠积分
+iterated interpolation method   &&   迭加插值法
+iterated kernel   &&   叠核
+iterated logarithm   &&   迭对数
+iterated network   &&   链形(滤波)网络
+iterated series   &&   叠级数
+iteration   &&   ①迭代(法)②重复
+iteration array   &&   迭代阵列
+iteration chromatography   &&   核对色谱法
+iterative   &&   ①迭代②迭代的
+iterative addition   &&   迭代加法
+iterative analysis   &&   迭代分析
+iterative attenuation   &&   累积衰减
+iterative computations   &&   迭代计算
+iterative control algorithm   &&   迭代控制算法
+iterative division   &&   迭代除法
+iterative dominance   &&   迭代优势法
+iterative loop   &&   迭代循环
+iterative matching   &&   累积匹配
+iterative method   &&   迭代法，迭代渐近法
+iterative method optimization   &&   迭代法最优化
+iterative nature of decision analysis   &&   决策分析的迭代特性
+iterative operation   &&   迭代操作
+iterative optimizing technique   &&   迭代最优法
+iterative process   &&   迭代过程
+iterative routine   &&   迭代顺序
+iterative search method   &&   迭代搜索法
+iterative solution   &&   迭代解
+iteratively faster   &&   快速迭代
+iterator   &&   迭代器，迭代程序
+itinerary lever   &&   电锁闭控制杆
+ivory opalescent glass   &&   象牙色乳白玻璃
+ivory point   &&   象牙针尖
+ivory porcelain   &&   象牙瓷
+ivory yellow   &&   象牙黄
+izod notch   &&   V型缺口，V型切口

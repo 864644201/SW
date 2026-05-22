@@ -1,0 +1,157 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">棘轮调节机构</span></td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>T形固定板棘轮调节机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/533.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 摇杆1在驱动杆7作用下摆动，当其顺时针摆动时，通过棘爪2推动棘轮5同向转动。当棘爪上的滚轮3和T形固定板4接触时，滚子沿其斜面抬起棘爪，使爪与棘轮脱离啮合。T形固定板位置用该板上的沟槽中紧固螺钉来调节，当把固定板逆棘爪工作转向移动时将减少棘轮转动角度，顺棘爪工作转向移动则增加棘轮转角。 <br>
+        摇杆的摆角由推杆7和摇杆1间的可调连接销6予以调整，可伸长或缩短驱动摇杆的工作半径。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>螺钉限位棘轮调节机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/534.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动圆盘9转动时圆盘上可调节的凸块2顶起杠杆1和拉杆4。拉杆4与装有棘爪6的摇杆7铰接，棘爪6被弹簧压紧在棘轮8上。螺钉3限制杠杆1的下降量，螺钉5可使棘爪6由棘轮中退出啮合，故此用这两个螺钉调节拉杆4的行程，也同时调了棘轮的转角。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>牙板式棘轮调节机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/541.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动曲柄1以滑块3带动复导极2绕固定轴摆动，再通过滑块4带动长度可调的拉杆5和装有棘爪7的摇杆6，驱使棘轮8作定向间歇转动。 <br>
+        　　 当改变弹力插销11在固定的扇形牙板9上的位置，可调整摆杆10的固定铰链位置，从而改变滑块4 在导槽中的位置。即改变滑块4相对复导板2的固定支点的转动半径，借以实现调节拉杆5的行程；另外，还可旋转5杆上的调整螺母可改变拉杆长度。以上两 种方法均可调节棘轮的间歇转角，但11可在运动中调节，而杆5上的螺母只在运动停止后方可调节。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>定位销式棘轮调节机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/542.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动曲柄1通过连杆2带动杆3、5。杆3铰接定滑块6，6由定位销4固定在所需位置上。杆5通过齿条7使啮合齿轮8往复转动一定角度。摆杆10与齿轮8固联，齿轮8往复转动时通过固联杆10带动棘爪11，用11推 动空套在A轴上的棘轮9作定向间歇转动。这种机构可在运行中调节定位销4，从而改变定滑块6的位置，使棘轮9的转角获得调节，以此来控制机床的进给运动。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

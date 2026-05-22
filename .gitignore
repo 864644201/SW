@@ -2,7 +2,16 @@
 [Bb]in/
 [Oo]bj/
 [Dd]ebug/
-[Rr]elease/
+[Rr]elease/*
+![Rr]elease/data/
+![Rr]elease/tools/
+![Rr]elease/tables/
+![Rr]elease/books/
+![Rr]elease/2008/
+[Rr]elease/*.exe
+[Rr]elease/*.dll
+[Rr]elease/*.config
+*.pdb
 
 ## Visual Studio
 .vs/

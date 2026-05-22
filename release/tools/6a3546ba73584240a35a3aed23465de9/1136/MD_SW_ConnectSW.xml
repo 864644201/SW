@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MD_SW_ConnectSW</name>
+    </assembly>
+    <members>
+        <member name="T:MD_SW_ConnectSW.ConnectSW">
+            <summary>
+            连接SolidWorks
+            </summary>
+        </member>
+        <member name="F:MD_SW_ConnectSW.ConnectSW.iswapp">
+            <summary>
+            SW总接口：iswapp
+            </summary>
+        </member>
+        <member name="P:MD_SW_ConnectSW.ConnectSW.iSwApp">
+            <summary>
+            ConnectSW.iSwApp
+            </summary>
+        </member>
+        <member name="M:MD_SW_ConnectSW.ConnectSW.GetActiveSldWorks">
+            <summary>
+            获取当前打开的SolidWorks进程
+            </summary>
+        </member>
+        <member name="M:MD_SW_ConnectSW.ConnectSW.GetSwVersionInfoByRegistry">
+            <summary>
+            获取当前计算机sw版本信息（从2011版本开始）
+            </summary>
+        </member>
+        <member name="M:MD_SW_ConnectSW.ConnectSW.GetSwVersionInfoByProcess(System.Diagnostics.Process[])">
+            <summary>
+             获取当前计算机sw版本信息(从当前进程)
+            </summary>
+            <param name="processArr"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MD_SW_ConnectSW.ConnectSW.GetProgID(System.String)">
+            <summary>
+            获取ProgID（正则表达式）
+            </summary>
+            <param name="swWindowTitle"></param>
+            <returns></returns>
+        </member>
+        <member name="P:MD_SW_ConnectSW.ConnectSW.iSWVersion">
+            <summary>
+            版本号：15－2007，16－2008，17－2009，18－2010，19－2011
+            </summary>
+        </member>
+        <member name="P:MD_SW_ConnectSW.ConnectSW.iSWLanguage">
+            <summary>
+            SolidWorks语言（简体中文1--chinese-simplified）， （英文2-english）， （繁体中文3--chinese）
+            </summary>
+        </member>
+        <member name="T:MD_SW_ConnectSW.SWException">
+            <summary>
+            sw异常
+            </summary>
+        </member>
+        <member name="M:MD_SW_ConnectSW.SWException.#ctor(System.String)">
+            <summary>
+            sw异常
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="T:MD_SW_ConnectSW.FrmConnectSw">
+            <summary>
+            自动创建sw窗体
+            </summary>
+        </member>
+        <member name="M:MD_SW_ConnectSW.FrmConnectSw.SetForegroundWindow(System.IntPtr)">
+            <summary>
+            窗口置顶
+            </summary>
+            <param name="hWnd"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MD_SW_ConnectSW.FrmConnectSw.ShowWindow(System.IntPtr,System.Int16)">
+            <summary>
+            设置活动窗体
+            </summary>
+            <param name="hWnd"></param>
+            <param name="State"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MD_SW_ConnectSW.FrmConnectSw.#ctor(System.Collections.Generic.List{MD_SW_ConnectSW.SwVersionInfo},System.Boolean)">
+            <summary>
+            对接sw窗体构造函数
+            </summary>
+            <param name="swVersionInfo"></param>
+            <param name="connection">true(连接)，false(打开)</param>
+        </member>
+        <member name="F:MD_SW_ConnectSW.FrmConnectSw.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MD_SW_ConnectSW.FrmConnectSw.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MD_SW_ConnectSW.FrmConnectSw.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:MD_SW_ConnectSW.SwVersionInfo">
+            <summary>
+            sw版本信息
+            </summary>
+        </member>
+        <member name="M:MD_SW_ConnectSW.SwVersionInfo.#ctor(System.String,System.String)">
+            <summary>
+            sw版本信息构造器
+            </summary>
+            <param name="name"></param>
+            <param name="progID"></param>
+        </member>
+        <member name="M:MD_SW_ConnectSW.SwVersionInfo.#ctor(System.String,System.String,System.IntPtr)">
+            <summary>
+            sw版本信息构造器
+            </summary>
+            <param name="name"></param>
+            <param name="progID"></param>
+        </member>
+        <member name="P:MD_SW_ConnectSW.SwVersionInfo.DisPalyName">
+            <summary>
+            显示名称
+            </summary>
+        </member>
+        <member name="P:MD_SW_ConnectSW.SwVersionInfo.ProgID">
+            <summary>
+            ProgID用于创建SolidWorks。
+            </summary>
+        </member>
+        <member name="P:MD_SW_ConnectSW.SwVersionInfo.HWnd">
+            <summary>
+            进程窗体句柄
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>异形钣金</name>
+  <classname>设计工具</classname>
+  <classid>2090_2219_2221</classid>
+  <version>1.1.0</version>
+  <softkey>0208</softkey>
+  <username>迈迪设计宝</username>
+  <userid>83193</userid>
+  <startexe>pgrun.exe</startexe>
+  <isMd>False</isMd>
+  <explain><![CDATA[2016版本迈迪设计宝异形的钣金工具汇集了圆管、圆锥体、球面以及方圆连接管等各种常用的异形钣金构件。使用者只须根据个人设计需求输入相关数据参数，可以立即得到所需的三维模型和二位展图。可自动标注相关尺寸]]></explain>
+</plugin>

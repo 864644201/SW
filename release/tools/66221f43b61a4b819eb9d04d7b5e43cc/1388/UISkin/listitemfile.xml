@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window >
+  <?Font id="100" name="宋体" size="18" underline="true" shared="true"/?>
+  <ListContainerElement height="24" >
+
+      <VerticalLayout >
+
+        <Control height="1" bkimage="file='framwline_01.png' fade='20' " />
+
+        <HorizontalLayout >
+
+            <Control width="1" />
+            <HorizontalLayout width="56" bordersize="1" bkimage="file='framwline_01.png' fade='10' " >
+    				    <Label name="select" text="" align="center" float="false" font="3"  pos="22,0,0,0" textcolor="#c0c0c0" enabled="false" />
+            </HorizontalLayout>
+            <Control width="1" />
+            <VerticalLayout width="228" bordersize="1" bkimage="file='framwline_01.png' fade='10' " >
+                <Control height="5"  />
+                <Text name="filename" text="" align="left" float="false" font="3"  textcolor="#c0c0c0" enabled="false" />
+                <Control height="5" />
+            </VerticalLayout>
+            <Control width="1" />
+
+        </HorizontalLayout>
+
+      </VerticalLayout>
+
+  </ListContainerElement>
+</Window>

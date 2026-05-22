@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <name>整合计算表</name>
+  <explain>打开整合计算表工作簿</explain>
+  <classid>2090_2219_2224</classid>
+  <startexe>TableWorkbookLauncher.exe</startexe>
+  <version>1.0</version>
+</Plugin>

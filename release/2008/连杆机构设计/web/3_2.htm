@@ -1,0 +1,171 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">双摇杆往复运动机构</span></td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>汽车前轮转向机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/463.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 等腰梯形 ABCD是双摇杆机构，也称作汽车前轮转向梯形机构。在摇杆CD上连接拉臂EF。当汽车的转向操纵机构控制EF前后运动时，带动双摇杆机构使摇杆CD 与AB同向摆动，实现汽车前轮的转向。汽车转弯时要求两前轮的转角α和β产按规定比值变化，使两前轮轴线与后轮轴线交于P点，从而保证两前轮的轮胎在路面上纯滚，避免因滑动使轮胎过早磨损或消耗动力。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>飞机起落架机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/464.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 图中的实线位置是飞机着陆时轮子的位置，它利用双摇杆机构ABCD的 死点位置，即摇杆AB与连杆BC在同一直线上的位置来保证飞机着陆的安全。飞机起飞后，以AB为主动件带动双摇杆机构运动到点划线AB'C'D位置，将轮子等收藏在机舱内减少飞行中的空气阻力。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>炉门开闭机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/465.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 炉门固结在双摇杆机构ABCD的连杆BC上，由手柄AE控制开闭。实线位置为开启，双点划线为关闭。固定铰链A、D 位置的选取应保证炉门开闭时不与炉壁碰撞，并且不影响操作或妨碍通行。开启后炉门放置在水平位置上，使热面朝下。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>电风扇摇头机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/471.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 风扇4、电机 1固联在双摇杆机构ABCD的摇杆AB上，连杆BC与蜗轮2固联，AD作机架。当风扇在电动机驱动下旋转时，电动机轴端的蜗杆带动蜗轮2和与其固联的连杆BC一同转动，使风扇在旋转的同时随着摇杆AB 一起绕A点往复摆动。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>可逆坐席机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/472.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 可逆坐席是一对摇杆机构，席底座AD固定不动，坐席靠背BC可根据需要改变位置和方向，移到B'C'位置。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

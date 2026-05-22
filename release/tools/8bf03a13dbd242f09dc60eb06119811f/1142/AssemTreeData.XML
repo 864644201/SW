@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AssemTreeData</name>
+    </assembly>
+    <members>
+        <member name="T:AssemTreeData.Entity.ComData">
+            <summary>
+            装配体实体数据
+            </summary>
+        </member>
+        <member name="T:AssemTreeData.Entity.ComData.cdAssemBar">
+            <summary>
+            进度条委托
+            </summary>
+            <param name="imaxCnt"></param>
+            <param name="iStep"></param>
+        </member>
+        <member name="F:AssemTreeData.Entity.ComData.AssemBar">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:AssemTreeData.Entity.ComData.currentID">
+            <summary>
+            当前节点
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Entity.ComData.MaxCount">
+            <summary>
+            装配体个数
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Entity.ComData.Step">
+            <summary>
+            单步
+            </summary>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.GetFileByDir(System.String,System.String)">
+            <summary>
+            获取文件夹下包含指定字符串的所有文件路径
+            </summary>
+            <param name="directory">文件夹路径</param>
+            <param name="extension">后缀名字符串</param>
+            <returns></returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.GetComponentInfo(AssemTreeData.Interface.ComponentInfo@,System.String,AssemTreeData.Interface.partType,System.Nullable{System.Int32})">
+            <summary>
+            获取单个零部件的参数
+            </summary>
+            <param name="comp">定义的零部件参数数组</param>
+            <param name="sFullPath">零部件绝对路径</param>
+            <param name="ptType">零部件类型</param>
+             <param name="parentId">父节点</param>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.ModifyAssembly(AssemTreeData.Interface.ComponentInfo[])">
+            <summary>
+            修改文件名
+            </summary>
+            <param name="comp">组件参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.SpritNameAndPath(AssemTreeData.Interface.ComponentInfo@)">
+            <summary>
+            修改路径和新文件名
+            </summary>
+            <param name="comp"></param>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.IsExistSprit(AssemTreeData.Interface.ComponentInfo@)">
+            <summary>
+            判断是否有斜杠
+            </summary>
+            <param name="comp">装配体零部件</param>
+            <returns>如果斜杠的位置在新名字末尾，则代表正常</returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.ModifyRefrencePicture(AssemTreeData.Interface.ComponentInfo,System.Collections.Generic.List{System.String},System.String,System.String)">
+            <summary>
+            修改图纸引用关系和文件名
+            </summary>
+            <param name="comp">装配体零部件</param>
+            <param name="lsOldName">旧名称集合</param>
+            <param name="spathOld">旧路径</param>
+            <param name="spathNew">新路径</param>
+            <returns></returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.ModifyFileName(System.String,System.String)">
+            <summary>
+            修改文件名方法
+            </summary>
+            <param name="oldName">旧路径名称</param>
+            <param name="newName">新路径名称</param>
+            <returns></returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.CreatDirectory(System.String)">
+            <summary>
+            创建子目录
+            </summary>
+            <param name="destDicPath">子目录完整路径</param>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.GetParentPath(System.Int32,AssemTreeData.Interface.ComponentInfo[])">
+            <summary>
+            获取父节点路径
+            </summary>
+            <param name="iD">父节点值</param>
+            <param name="comInfos"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.SubLastString(System.String,System.String)">
+             <summary>
+            截取到最后一位字符 C:\programfile\1.txt   
+             </summary>
+             <param name="sSubStr">原字符串路径</param>
+             <param name="sSplitStr">分隔的字符</param>
+             <returns>C:\programfile\</returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.assemblyProperty(System.String,AssemTreeData.Interface.PropertyType)">
+            <summary>
+            获取装配体属性名
+            </summary>
+            <param name="path">装配体路径</param>
+            <param name="ppType">自定义还是配置特性枚举</param>
+            <returns></returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.assemblyProperty(AssemTreeData.Interface.ComponentInfo,AssemTreeData.Interface.PropertyType)">
+            <summary>
+            获取零部件属性名
+            </summary>
+            <param name="comp">零部件信息</param>
+            <param name="ppType">自定义还是配置特性枚举</param>
+            <returns></returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.GetProperty(System.String,AssemTreeData.Interface.PropertyType,AssemTreeData.Interface.partType,System.Collections.Generic.List{System.String})">
+            <summary>
+            取属性名方法
+            </summary>
+            <param name="Compath">零部件路径</param>
+            <param name="propType">属性类型</param>
+            <param name="compType">零部件类型</param>
+            <param name="lsProperty">属性名集合</param>
+        </member>
+        <member name="P:AssemTreeData.Entity.ComData.FileQueue">
+            <summary>
+            文件队列
+            </summary>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.GetPropertyValue(AssemTreeData.Interface.ComponentInfo,System.Collections.Generic.List{System.String},AssemTreeData.Interface.PropertyType)">
+            <summary>
+            根据给定的属性名找到对应的属性值
+            </summary>
+            <param name="comp">零部件信息</param>
+            <param name="lsProperty">属性名集合</param>
+            <param name="ppType">属性类型</param>
+            <returns></returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.CheckSWDocVersion(SolidWorks.Interop.sldworks.SldWorks,System.String)">
+            <summary>
+            判断文件版本 2019-10-11 添加
+            </summary>
+            <param name="swApp"></param>
+            <param name="docPath">文件路径</param>
+            <returns></returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.PackageDataCompFile(System.String,System.Boolean)">
+            <summary>
+            进行数据封装 文件
+            </summary>
+            <param name="filePath">文件夹名称</param>
+            <param name="chkProtection">是否进行文件保护</param>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.PackageDataCompFolder(System.String,System.Boolean)">
+            <summary>
+            进行数据封装 文件夹
+            </summary>
+            <param name="folderPath">文件夹名称</param>
+            <param name="chkProtection">是否进行文件保护</param>
+            <returns></returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.GetAllFiles(System.String)">
+            <summary>
+            获取文件夹中的所有文件
+            </summary>
+            <param name="folderName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.GetNotRefFile(System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String})">
+            <summary>
+            获取所有未被引用的文件
+            </summary>
+            <param name="listAllFiles">所有零件集合</param>
+            <param name="listRefFiles">所有被引用零件集合</param>
+            <returns></returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.ReturnAssemFiles(System.Collections.Generic.List{System.String})">
+            <summary>
+            返回文件集合中的装配体集合
+            </summary>
+            <param name="listFiles">引用文件集合</param>
+            <returns>装配体文件集合</returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.ReturnPartFiles(System.Collections.Generic.List{System.String})">
+            <summary>
+            返回文件集合中的零件集合
+            </summary>
+            <param name="listFiles">引用文件集合</param>
+            <returns>零件文件集合</returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.GetAllAssemblyFiles(System.String)">
+            <summary>
+            获取文件夹中的所有装配体
+            </summary>
+            <param name="folderName">文件夹名称</param>
+            <returns>装配体文件集合</returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.SetTheParentNode(System.String,System.Nullable{System.Int32})">
+            <summary>
+            遍历组件，并设置对应的父节点id
+            </summary>
+            <param name="parentPath">文件名称</param>
+            <param name="parentID">父节点</param>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.AddOpenFile">
+            <summary>
+            获取已打开装配体
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AssemTreeData.Entity.ComData.CheckFileVersion(SolidWorks.Interop.sldworks.SldWorks,System.String)">
+            <summary>
+            检查当前文件版本
+            </summary>
+            <param name="swApp"></param>
+            <param name="filePath"></param>
+        </member>
+        <member name="M:AssemTreeData.Interface.iComData.ModifyAssembly(AssemTreeData.Interface.ComponentInfo[])">
+            <summary>
+            修改装配体信息
+            </summary>
+            <param name="comp">装配体信息</param>
+            <returns></returns>
+        </member>
+        <member name="M:AssemTreeData.Interface.iComData.assemblyProperty(System.String,AssemTreeData.Interface.PropertyType)">
+            <summary>
+            获取装配体的属性
+            </summary>
+            <param name="path">装配体路径</param>
+            <returns>一系列属性值</returns>
+        </member>
+        <member name="M:AssemTreeData.Interface.iComData.assemblyProperty(AssemTreeData.Interface.ComponentInfo,AssemTreeData.Interface.PropertyType)">
+            <summary>
+            获取单个零部件的属性
+            </summary>
+            <param name="comp">零部件属性</param>
+            <returns>一系列属性值</returns>
+        </member>
+        <member name="M:AssemTreeData.Interface.iComData.GetPropertyValue(AssemTreeData.Interface.ComponentInfo,System.Collections.Generic.List{System.String},AssemTreeData.Interface.PropertyType)">
+            <summary>
+            获取属性及其对应值   属性  对应的值
+            </summary>
+            <param name="comp">单个装配体</param>
+            <param name="lsProperty">属性集合</param>
+            <returns>属性及其对应值</returns>
+        </member>
+        <member name="T:AssemTreeData.Interface.partStatus">
+            <summary>
+            装配零件的状态 
+            </summary>
+        </member>
+        <member name="F:AssemTreeData.Interface.partStatus.UnAction">
+            <summary>
+            没有操作
+            </summary>
+        </member>
+        <member name="F:AssemTreeData.Interface.partStatus.Modify">
+            <summary>
+            修改
+            </summary>
+        </member>
+        <member name="F:AssemTreeData.Interface.partType.Component">
+            <summary>
+            装配体
+            </summary>
+        </member>
+        <member name="F:AssemTreeData.Interface.partType.Part">
+            <summary>
+            零件
+            </summary>
+        </member>
+        <member name="F:AssemTreeData.Interface.PropertyType.Define">
+            <summary>
+            自定义
+            </summary>
+        </member>
+        <member name="F:AssemTreeData.Interface.PropertyType.Configure">
+            <summary>
+            配置选项
+            </summary>
+        </member>
+        <member name="T:AssemTreeData.Interface.ComponentInfo">
+            <summary>
+            装配体信息
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ComponentInfo.FilePath">
+            <summary>
+            文件绝对路径
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ComponentInfo.FileIsPresence">
+            <summary>
+            判断文件是否存在
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ComponentInfo.ListRefFilePath">
+            <summary>
+            用来存储所有引用该文件的对象
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ComponentInfo.ComPath">
+            <summary>
+            装配体路径
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ComponentInfo.PicturePath">
+            <summary>
+            图纸路径
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ComponentInfo.ParentID">
+            <summary>
+            父节点（0，1，2，3，4）表示 没有就使用null
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ComponentInfo.CurrentID">
+            <summary>
+            当前节点
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ComponentInfo.psStaus">
+            <summary>
+            是否修改的状态，如果有修改，则需要修改新名字
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ComponentInfo.ptType">
+            <summary>
+            装配体类型（零件还是装配体）
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ComponentInfo.IsPicture">
+            <summary>
+            是否有工程图
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ComponentInfo.OldName">
+            <summary>
+            原来的名字
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ComponentInfo.NewName">
+            <summary>
+            新的名字
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ComponentInfo.Remark">
+            <summary>
+            备注
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ComponentInfo.bModPic">
+            <summary>
+            是否需要修改对应的图纸
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ComponentInfo.IsModify">
+            <summary>
+            是否能够修改
+            </summary>
+        </member>
+        <member name="T:AssemTreeData.Interface.modifyStatus">
+            <summary>
+            修改状态
+            </summary>
+        </member>
+        <member name="F:AssemTreeData.Interface.modifyStatus.succ">
+            <summary>
+            修改成功
+            </summary>
+        </member>
+        <member name="F:AssemTreeData.Interface.modifyStatus.fail">
+            <summary>
+            修改失败
+            </summary>
+        </member>
+        <member name="F:AssemTreeData.Interface.modifyStatus.partFail">
+            <summary>
+            零件修改失败
+            </summary>
+        </member>
+        <member name="F:AssemTreeData.Interface.modifyStatus.pictureFail">
+            <summary>
+            图纸修改失败
+            </summary>
+        </member>
+        <member name="T:AssemTreeData.Interface.ModifyInfo">
+            <summary>
+            修改信息
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ModifyInfo.ModifyName">
+            <summary>
+            修改的节点
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ModifyInfo.MStatus">
+            <summary>
+            修改状态（成功或失败）
+            </summary>
+        </member>
+        <member name="P:AssemTreeData.Interface.ModifyInfo.MErrorInfo">
+            <summary>
+            修改失败原因
+            </summary>
+        </member>
+    </members>
+</doc>

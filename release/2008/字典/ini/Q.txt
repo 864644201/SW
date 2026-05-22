@@ -1,0 +1,143 @@
+Q factor   &&   Q值因数
+Q-percentile life   &&   可靠寿命
+QC   &&   (Quality Control) 品管，质量控制
+QC Section   &&   品管科
+QDIM   &&   快速标注
+QFD   &&   (Quality Function Development) 品质功能改进
+QMS   &&   (Quality Monitoring System) 品质监控系统
+qsave   &&   快存，快速存档(quick save)
+qtext   &&   快速文字，快速文字(quick text)
+quad array   &&   方阵
+quadrant   &&   ①齿扇②排档限位板③扇形构件④象限
+quadrant electrometer   &&   象限静电计
+quadrant-edge orifice plate   &&   1/4圆周边缘孔板
+quadratic   &&   二次
+quadrupole field   &&   四极场
+quadrupole ion trap   &&   四极离子阱
+quadrupole mass filter   &&   四极滤质器
+quadrupole mass spectrometer   &&   四极质谱计
+quadrupole probe   &&   四极探头
+quadrupole residual gas analyzer   &&   四极残余气体分析器
+quadrupole rods   &&   四极杆
+qualification   &&   鉴定
+qualification standard   &&   鉴定标准
+qualification test   &&   鉴定试验
+qualifying   &&   赛车轮胎
+qualitative analysis   &&   定性分析
+qualitative physical model   &&   定性物理模型
+quality   &&   质量，品质
+quality assurance   &&   质量保证
+quality assurance for information system development   &&   信息系统开发的质量保证
+quality assurance system   &&   质量保证系统
+quality control   &&   质量控制[QC]
+quality factors of software   &&   软件质量因素
+quality inspection   &&   质量检验
+quality management   &&   质量管理
+quality measurement system   &&   质量检测系统
+quality of service   &&   服务质量协调
+quality supervision   &&   质量监督
+quantitative analysis   &&   定量分析
+quantitative differential thermal analysis   &&   定量差热分析，定量差热(分析)仪[QDTA]
+quantity   &&   量，数量
+quantity of customs count   &&   会计师盘，点数量
+quantity of heat   &&   热量
+quantity of illumination   &&   光照量
+quantity of radiant energy   &&   辐射能量
+quantity of radiation   &&   幅射能量
+quantity on hand   &&   现有库存量
+quantity to be measured   &&   被测量
+quantization   &&   量化
+quantization error   &&   量化误差
+quantized error   &&   量化误差
+quantized noise   &&   量化噪声
+quantized signal   &&   量化信号
+quart   &&   夸脱 (1夸脱=2 pints 品脱=1.101升)
+quarter   &&   ①四分之一，一刻钟②方向，地区，方面③季，季度
+quarter circle orifice plate   &&   1/4圆孔板
+quarter elliptic   &&   四分之一椭圆弹簧
+quarter light   &&   后侧窗
+quarter wavelength resonator   &&   四分之一波长谐振器
+quartet   &&   四重布置，四重检测
+quartz crystal unit humidity sensor   &&   晶体振子式湿度传感器
+quartz crystal unit humidity transducer   &&   晶体振子式湿度传感器
+quartz halogen lamp   &&   石英卤素灯
+quartz iodine lamp   &&   石英碘灯
+quartz module   &&   石英组件
+quartz spring gravimeter   &&   石英弹簧重力仪
+quartz thermometer   &&   石英温度计
+quartz-Bourdon tube pressure gauge   &&   石英弹簧管压力计
+quasi-equilibrium theory   &&   准平衡理论
+quasi-linear characteristics   &&   准线性特性
+quasi-molecular ion   &&   准分子离子
+quasi-periodic vibration   &&   准周期振动
+quasi-rigid rotor   &&   准刚性转子
+quasi-sinusoidal quantity   &&   准正弦量
+quasi-static unbalance   &&   准静不平衡
+quench   &&   激冷
+quench ageing   &&   淬火老化
+quench and tempering   &&   调质
+quench hardening   &&   淬火
+quench motor   &&   激冷型发动机
+quenching   &&   ①淬火②阻塞③骤冷
+quenching and tempering   &&   调质处理
+quenching crack   &&   淬裂，淬火裂痕
+quenching cracks   &&   淬火裂纹
+quenching die   &&   淬火压模
+quenching distortion   &&   淬火变形
+quenching press   &&   淬火压床
+quenching stress   &&   淬火应力
+query by example system   &&   QBE系统
+query optimization   &&   查询优化
+question and answer mode   &&   问答式
+queue   &&   队
+queuing theory   &&   排队论
+quick ageing   &&   快速陈化
+quick anneal oven   &&   快速退火炉
+quick bath   &&   快冷槽
+quick break   &&   快速断路
+quick charge   &&   快速充电
+quick charger   &&   快速充电机
+quick connector   &&   快速联接器
+quick cure   &&   快速硫化法，快速熟化法
+quick de-excitation   &&   快速灭磁
+quick die change systems   &&   速换模系统
+quick mold change systems   &&   快速换模系统
+quick release valve   &&   ①快放阀②快放控制器
+quick sorting   &&   快速排序
+quick thermophysical property measuring apparatus   &&   热物性快速测定仪
+quick tour   &&   快速指南 快速导览
+quick-break cut-out   &&   快动断路器
+quick-break fuse   &&   速断熔断器
+quick-break knife-switch   &&   速断闸刀开关
+quick-break switch   &&   快断开关
+quick-change gearbox   &&   快速变换齿轮箱
+quick-closing valve   &&   速关闸
+quick-connect terminal   &&   快接端子，速接端子
+quick-cutting steel   &&   高速钢，快削钢
+quick-detachable coupling   &&   快卸式接头
+quick-return characteristics   &&   急回特性，急回机构
+quick-return mechanism   &&   急回机构
+quick-return motion   &&   急回机构
+quiescent chamber   &&   静态燃烧室
+quiescent combustion   &&   静态燃烧
+quietening cant   &&   消声斜面
+quill drive   &&   套管传动
+quinhydrone electrode   &&   醌氢醌电极
+quinhydrone half-cell   &&   醌氢醌半电池
+quinoid   &&   醌型
+quinoid by-products   &&   醌类副产品
+quinoid compound   &&   醌型化合物
+quinoid structure   &&   醌型结构
+quinol   &&   醌醇，氢醌
+quinoline dye   &&   喹咻染料，氮萘染料
+quinoneimine   &&   醌亚胺
+quinoneimine dye   &&   醌亚胺染料
+quinquevalence   &&   五价
+quintet   &&   五重布置，五重检测
+quintode   &&   五极管
+quintuple   &&   ①五倍的，五重的②五倍压器③五倍频器
+quintupling   &&   (成)五倍
+quire   &&   刀(纸张数量单位，24或25张)
+quotient relay   &&   商数继电器
+quotient-meter   &&   商值表
+quotient-multiplier register   &&   乘数商数寄存器

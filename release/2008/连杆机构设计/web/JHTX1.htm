@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML><HEAD><TITLE>曲柄滑块机构的设计</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=gb2312">
+<META content="MSHTML 6.00.2900.2722" name=GENERATOR>
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</HEAD>
+<BODY>
+<P><STRONG>曲柄滑块机构的设计 </STRONG></P>
+<P>已知滑块的冲程 H 、偏距 e 及行程速比系数 K ， 设计一曲柄滑块机构的步骤如下 
+：由下图中的两个三角形△AC<SUB>1</SUB>C<SUB>2</SUB>、 △ DBC ，应用余弦定理可得 </P>
+<P><IMG height=91 src="images/JHTX/clip_image004_0003.gif" width=211></P>
+<P><IMG height=164 src="images/JHTX/clip_image006.jpg" width=357></P>
+<P>若 H 、 <IMG height=19 src="images/JHTX/clip_image008_0001.gif" width=13>( 
+或 K) 、 <IMG height=19 src="images/JHTX/clip_image010_0007.gif" width=15>( 即 
+<IMG height=41 src="images/JHTX/clip_image012_0004.gif" width=16>) 及 <IMG 
+height=23 src="images/JHTX/clip_image014_0003.gif" width=29>已知时，由上述 方程组可解出 a 
+、 b 、 e 。 </P></BODY></HTML>

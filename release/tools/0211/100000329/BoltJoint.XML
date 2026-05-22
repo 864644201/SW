@@ -1,0 +1,3709 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BoltJoint</name>
+    </assembly>
+    <members>
+        <member name="F:Interop.Office.Core.ComboBoxEx.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ComboBoxEx.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.ComboBoxEx.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要修改
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.About.AssemblyVersion">
+            <summary>
+            程序的版本
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.About.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.About.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.About.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.fntAlert.#ctor">
+            <summary>
+            如果网站配置有在线图片日期，就读取，然后保存，保存时保存成在线日期，下次检测如果本机图片是在线日期的，就不下载，如果本机图片老了，就重新下载。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.fntAlert.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.fntAlert.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.fntAlert.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.strWorkPath">
+            <summary>
+            启用配置模式时, 指定工作路径，每次打开SolidWorks都要重新指定
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.MD3DParts">
+            <summary>
+            指定模型库的路径,全局性的,后面有\\ ,如果数据库中没有,就返回"....\\MD3DParts所在的目录"
+            在单独的EXE程序MDPKGS.exe中也用到这个
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.fntWeb_UsingType">
+            <summary>
+            作为单机版使用StandAlone，作为客户端使用Client，作为服务器使用Server
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.bUsingType_Client">
+            <summary>
+            是否作为内网客户端使用
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.fntWeb_ServerIP">
+            <summary>
+            与服务器通信的Ip地址,这里必需写入注册表,和UpdateLAN.exe共享
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.fntWeb_ServerPort">
+            <summary>
+            与服务器通信的端口号,默认是3548
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.bIsMD">
+            <summary>
+            是否是迈迪
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.bIsManager">
+            <summary>
+            是否是管理员,可以存储多个管理员注册码，中间用“，”隔开
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.bCanParts1">
+            <summary>
+            是否可以使用本机库,默认是
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.bCanParts2">
+            <summary>
+            是否可以使用内网库
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.bCanParts3">
+            <summary>
+            是否可以使用在线库
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.FirstColName">
+            <summary>
+            配件库中的表,第一列是代号还是规格，默认是代号
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.WebProxy">
+            <summary>
+            是否使用浏览器代理上网，建议不使用
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.bIsBig5Encoding">
+            <summary>
+            是否使用繁体中文版本
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.iDecimals">
+            <summary>
+            标准件重量单位显示几位小数,默认3
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.bIsKg">
+            <summary>
+            重量单位默认是千克,默认true
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.bSetUniteIsKG">
+            <summary>
+            生成零件后设置文件的重量单位为KG,默认True
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.ReWriteAttType">
+            <summary>
+            是否重写属性,默认全部重写，1:全部重写，2只重写非空属性 ，3重写非空且非默认值的属性 4全部不重写
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.bUseGBPath">
+            <summary>
+            是否使用标准件统一存放目录,默认为False
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.MDGBParts">
+            <summary>
+            生成标准件后存入指定目录（已有标准件不再生成），若MDGBParts.Lengh>0,就是
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.bMassPPTIsAuto">
+            <summary>
+            重量属性始终为读取系统重量,材料属性始终为获取系统材质,默认是
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.WeightStyle">
+            <summary>
+            重量信息:auto:自动计算,text:文本,sw:和SolidWorks的统一起来
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.MaterialStyle">
+            <summary>
+            材质特性,auto:自动计算,text:文本,sw:和SolidWorks的统一起来
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.bHiddenDims">
+            <summary>
+            生成企业配件后不隐藏所有线段，尺寸等等。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.PSetUp.strNameReplace">
+            <summary>
+            标准件保存时要替换掉的字符
+            1:去掉空格,2去掉反斜杠,3去掉点,4去掉下划线,5去掉中划线,6替换反斜杠为中文,7替换点为中文
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.strNameStyle">
+            <summary>
+            命名规则,或名称,或标准，这是标准件的
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.strNameStyleWeb">
+            <summary>
+            命名规则,或名称,或标准,这是配件库的
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.PSetUp.getName(System.String,System.String,System.String,System.String,System.String,System.Boolean)">
+            <summary>
+            根据命名规则,输入[名称],[标准],[规格],[材料],[级别],返回零件的保存名称
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.PSetUp.SetUseMDTemplate">
+            <summary>
+            在SolidWorks中设置使用迈迪模板库。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.PSetUp.SetUseMDMaterial">
+            <summary>
+            设置使用迈迪材料库
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.PSetUp.SetUseMDWeldmentProfile">
+            <summary>
+            设置使用迈迪焊件轮廓库
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.ExcelExtension">
+            <summary>
+            Excel文件的扩展名是多少,返回小写,没有设置之前返回“.xls”
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.PSetUp.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.PSetUp.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Interop.Office.Core.PSetUp.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.PSetUp_Ref.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.PSetUp_Ref.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.PSetUp_Ref.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Setting_Excel.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Setting_Excel.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Interop.Office.Core.Setting_Excel.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.ftnBoltNut.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ftnBoltNut.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.ftnBoltNut.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.FrmMgrWindow.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.FrmMgrWindow.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Interop.Office.Core.FrmMgrWindow.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.StrReplace.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StrReplace.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Interop.Office.Core.StrReplace.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Program.Main">
+            <summary>
+            应用程序的主入口点。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.AllData.SwEventPtr">
+            <summary>
+            带事件的
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.AllData.iSWVersion">
+            <summary>
+            版本号：15－2007，16－2008，17－2009，18－2010，19－2011
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.AllData.iSWLanguage">
+            <summary>
+            SolidWorks语言（简体中文1--chinese-simplified）， （英文2-english）， （繁体中文3--chinese）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AllData.CopyPrtdotFile(System.String)">
+            <summary>
+            本地copy一份.prtdot模板文件
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AllData.NewDoc(System.Boolean,System.Boolean,System.String)">
+            <summary>
+            在SolidWorks中新建一个零件，并返回
+            </summary>
+            <param name="bCheckRefPlaneChineseName">是否判断特征的名称是中文 如:前视基准面</param>
+            <param name="bAlertForm">模板不是中文时是否提醒</param>
+            <param name="templatePath">指定模板路径或空</param>
+        </member>
+        <member name="P:Interop.Office.Core.AllData.StartUpPath">
+            <summary>
+            程序的运行目录最后没有"\"
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.AllData.WYXPath">
+            <summary>
+            王逸心程序专用路径,StartUpPath + "\\WYX\\";
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.AllData.strHelpFile">
+            <summary>
+            帮助文件的路径
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.AllData.CurDrog">
+            <summary>
+            用于拖放过程中的图标
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AllData.setPartMaterial(SolidWorks.Interop.sldworks.IModelDoc2,SolidWorks.Interop.sldworks.PartDoc,System.String,System.String,System.String)">
+            <summary>
+            设置零件的材质,成功返回True（swModel和swPart二者指定其一）
+            </summary>
+            <param name="DBFullName">材料库路径，可以不指定</param>
+            <param name="cfgName">零件配置名称</param>
+            <param name="strValue">材质名称</param>
+        </member>
+        <member name="P:Interop.Office.Core.AllData.AllMaterialDBs">
+            <summary>
+            得到所有的材料文件全名称
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AllData.getDBMethod(Interop.Office.Core.dbnames)">
+            <summary>
+            得到新的数据库链接对象DBMethod
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.backMethod.ChangeTBToString(System.Data.DataTable)">
+            <summary>
+            把表转换成文本文件//不加密
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.backMethod.ChangeDGVToString(System.Windows.Forms.DataGridView)">
+            <summary>
+            把dgv转换成文本文件//不加密
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.backMethod.readDatFileToTB(System.String,System.Boolean@)">
+            <summary>
+            根据文件路径,把文本文件还原成表 ,以UTF8读取//有解密过程,(ref 是不是正版用户专用 false) 
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.backMethod.ReadTextFile(System.String,System.Text.Encoding,System.Boolean)">
+            <summary>
+            读取文本文件//编码方式//要解密吗//注意这里连换行符也一块读出来了，\r\n
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.backMethod.WriteTextFileCreate(System.String,System.String,System.Text.Encoding)">
+            <summary>
+            写入文本文件--创建
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.SetupNames">
+            <summary>
+            所有的配置名称都从这里头获取
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.cfgInfo">
+            <summary>
+            读写配置信息的类
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.checkCfgFileName(System.String)">
+            <summary>
+            检测cfgFileName 是文件名，还是全名称，并自动转换成全名称
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.getValue(System.String)">
+            <summary>
+            读取一个设置项(属性名称,配置文件全称或仅名称如"app.cfg","C:\\printer.cfg");
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.getValue(System.String,System.String)">
+            <summary>
+            读取一个设置项(属性名称,配置文件全称或仅名称如"app.cfg","C:\\printer.cfg");
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.getAllValue(System.String)">
+            <summary>
+            读取所有的属性,返回一个哈希表[属性名称--属性值](配置文件全称或仅名称如"app.cfg","C:\\printer.cfg");
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.setValue(System.String,System.String)">
+            <summary>
+            设置一个属性的新值
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.setValue(System.String,System.String,System.String)">
+            <summary>
+            设置一个属性的新值(属性名，属性值，配置文件全称或仅名称如"app.cfg","C:\\printer.cfg");
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.setAllValue(System.Collections.Hashtable,System.String)">
+            <summary>
+            设置多个属性的值,这个函数性能不高,也是一个一个的设
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.addValue(System.String,System.String)">
+            <summary>
+            向多个值中添加一个值，如“11,22,33”中添加“44”，变成“11,22,33,44”
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.addValue(System.String,System.String,System.String)">
+            <summary>
+            向多个值中添加一个值，如“11,22,33”中添加“44”，变成“11,22,33,44”
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.addOneValueToList(System.String,System.String)">
+            <summary>
+            向多个值中添加一个值，如“11,22,33”中添加“44”，变成“11,22,33,44”
+            </summary>
+            <param name="oldValue">长值</param>
+            <param name="newValue">要添加的值</param>
+            <returns>新的值</returns>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.removeValue(System.String,System.String)">
+            <summary>
+            清空一个值，保存值的名称
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.DBMethod">
+            <summary>
+            统一Sql和Access 操作的接口
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DBMethod.checkSql(System.String)">
+            <summary>
+            检查Sql语句
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DBMethod.GetAllTableNames">
+            <summary>
+            得到数据库中所有的表
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DBMethod.CreateTable(System.Data.DataTable,System.String)">
+            <summary>
+            根据Datatable在数据库中创建一个表
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DBMethod.ReadFile(System.String,System.String)">
+            <summary>
+            根据查询语句从数据库中读取一个文件，并保存到指定的目录下,返回是否成功
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DBMethod.WriteFile(System.String,System.String,System.String,System.Boolean)">
+            <summary>
+             把一个文件存入数据库，（文件路径，sql语句，文件参数名@file ,要加密吗 ),返回受影响的行数
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.Dbtool">
+            <summary>
+            Database.OperateDB 的摘要说明。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Dbtool.ConnectionString">
+            <summary>
+            数据库的连接字符串
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Dbtool.Connstr">
+            <summary>
+            接口
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Dbtool.TimeOut">
+            <summary>
+            连接超时最长时间
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Dbtool.cn">
+            <summary>
+            数据库的连接对象
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.FirstValue(System.String)">
+            <summary>
+            得到第一行第一列的值
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.DBTable(System.String)">
+            <summary>
+            执行Sql命令,返回一个数据表
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.DBReader(System.String)">
+            <summary>
+            执行Sql命令,返回数据流
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.DBDataSet(System.String)">
+            <summary>
+            执行Sql命令返回数据集
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.Excute(System.String)">
+            <summary>
+             执行Sql命令,返回受影响的行数
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.Excute(System.String[])">
+            <summary>
+            执行多个SQL语句,
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.GetAllTableNames">
+            <summary>
+             得到一个数据库中的所有表名称
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.CreateTable(System.Data.DataTable,System.String)">
+            <summary>
+            把一个DataTable写入到数据库中(新建),返回插入行数，并添加新的标识列【ID20】因为ID列有可能和其它表关联，这个ID20是一个无关联的自动编号列，如果原先有ID20这一列，会删去这一列。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.checkSql(System.String)">
+            <summary>
+            把Access的习惯改成Sql
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.ReadFile(System.String,System.String)">
+            <summary>
+            根据查询语句从数据库中读取一个文件，并保存到指定的目录下,返回是否成功
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.WriteFile(System.String,System.String,System.String,System.Boolean)">
+            <summary>
+            把一个文件存入数据库
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.ReadFileToString(System.String)">
+            <summary>
+            根据查询语句从数据库中读取一个文件流，并返回String
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.ReadFileToString(System.String,System.Text.Encoding)">
+            <summary>
+            根据查询语句从数据库中读取一个文件流，并返回String
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.ReadFileToByte(System.String)">
+            <summary>
+            根据查询语句从数据库中读取一个文件流，并返回byte[],出错返回null
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.Dbtool1">
+            <summary>
+            Database.OperateDB 的摘要说明。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Dbtool1.ConnectionString">
+            <summary>
+            数据库的连接字符串
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Dbtool1.TimeOut">
+            <summary>
+            连接超时最长时间
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Dbtool1.cn">
+            <summary>
+            数据库的连接对象
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.Open">
+            <summary>
+            打开数据库操作
+            </summary>
+            <returns>成功返回空,否则返回错误信息</returns>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.Close">
+            <summary>
+            关闭数据库操作
+            </summary>
+            <returns>成功返回空,否则返回错误信息</returns>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.FirstValue(System.String)">
+            <summary>
+            得到第一行第一列的值
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.DBTable(System.String)">
+            <summary>
+            执行Sql命令,返回一个数据表
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.DBReader(System.String)">
+            <summary>
+            执行Sql命令,返回数据流
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.Excute(System.String)">
+            <summary>
+            执行Sql命令
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.Excute(System.String,System.String,System.String)">
+            <summary>
+            执行Sql命令//有Param，如@aaa,则ParamName=aaa;
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.Excute2(System.String)">
+            <summary>
+            返回受影响的行数
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.DBDataSet(System.String)">
+            <summary>
+            执行Sql命令返回数据集
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Dbtool2.ConnectionString">
+            <summary>
+            数据库的连接字符串
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Dbtool2.TimeOut">
+            <summary>
+            连接超时最长时间
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool2.Open">
+            <summary>
+            打开数据库操作
+            </summary>
+            <returns>成功返回空,否则返回错误信息</returns>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool2.Close">
+            <summary>
+            关闭数据库操作
+            </summary>
+            <returns>成功返回空,否则返回错误信息</returns>
+        </member>
+        <member name="T:Interop.Office.Core.DbtoolSP">
+            <summary>
+            执行与存储过程有关的SQL命令
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.DbtoolSP.ConnectionString">
+            <summary>
+            数据库的连接字符串
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.DbtoolSP.TimeOut">
+            <summary>
+            连接超时最长时间
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.DbtoolSP._DataSource">
+            <summary>
+            获得数据库名称
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.DbtoolSP.cn">
+            <summary>
+            数据库的连接对象
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.Open">
+            <summary>
+            打开数据库操作
+            </summary>
+            <returns>成功返回空,否则返回错误信息</returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.Close">
+            <summary>
+            关闭数据库操作
+            </summary>
+            <returns>成功返回空,否则返回错误信息</returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.DBTable(System.String,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程,返回一个数据表
+            </summary>
+            <param name="myProc">存储过程名称</param>
+            <param name="myParam">存储过程参数</param>
+            <returns>数据集</returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.DBTable(System.String,System.Data.CommandType,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程或Sql命令,返回数据表
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.DBReader(System.String,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程,返回数据流
+            </summary>
+            <param name="myProc">存储过程名称</param>
+            <param name="myParam">存储过程参数</param>
+            <returns>数据流</returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.DBReader(System.String,System.Data.CommandType,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程或Sql命令,返回数据流
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.ReturnValue(System.String,System.Int32,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程,返回存储过程的返回值
+            </summary>
+            <param name="myProc">存储过程名称</param>
+            <param name="index">存储过程返回值的索引</param>
+            <param name="myParam">存储过程参数</param>
+            <returns>返回值</returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.ReturnValue(System.String,System.String,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程,返回存储过程的返回值
+            </summary>
+            <param name="myProc">存储过程名称</param>
+            <param name="index">存储过程返回值的名称</param>
+            <param name="myParam">存储过程参数</param>
+            <returns>返回值</returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.Excute(System.String,System.Data.CommandType,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行带占位符的Sql命令或存储过程,通过CommandType来判断
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.Excute(System.String,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程
+            </summary>
+            <param name="myProc"></param>
+            <param name="myParam"></param>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.DBDataSet(System.String,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程返回数据集
+            </summary>
+            <param name="myProc"></param>
+            <param name="myParam"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.DBDataSet(System.String,System.Data.CommandType,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程或Sql命令返回记录集
+            </summary>
+            <param name="SqlString"></param>
+            <param name="CmdType"></param>
+            <param name="myParam"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.FirstValue(System.String,System.Boolean,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程或Sql命令,返回OBJECT类型的FirstValeu
+            </summary>
+            <param name="SqlString"></param>
+            <param name="IsProc"></param>
+            <param name="myParam"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Interop.Office.Core.DbtoolTrans">
+            <summary>
+            执行与事务有关的操作
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.DbtoolTrans.ConnectionString">
+            <summary>
+            数据库的连接字符串
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.DbtoolTrans.TimeOut">
+            <summary>
+            连接超时最长时间
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.DbtoolTrans._DataSource">
+            <summary>
+            获得数据库名称
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.DbtoolTrans.cn">
+            <summary>
+            数据库的连接对象
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.Open">
+            <summary>
+            打开数据库操作
+            </summary>
+            <returns>成功返回空,否则返回错误信息</returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.Close">
+            <summary>
+            关闭数据库操作
+            </summary>
+            <returns>成功返回空,否则返回错误信息</returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.BeginTran">
+            <summary>
+            开始事务
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.CommitTran">
+            <summary>
+            保存事务
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.RollbackTran">
+            <summary>
+            回滚事务
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.ExcuteTran(System.String)">
+            <summary>
+            执行带有事务的数据库操作
+            </summary>
+            <param name="sql"></param>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.ExcuteTran(System.String,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行带有事务的数据库操作
+            </summary>
+            <param name="sqlString"></param>
+            <param name="myParam"></param>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.DBTableTran(System.String)">
+            <summary>
+            执行带有事务的操作，且返回一个数据表
+            </summary>
+            <param name="sqlString"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.DBTableTran(System.String,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行带有事务的操作，且返回一个数据表
+            </summary>
+            <param name="sqlString"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.DBDataSetTran(System.String)">
+            <summary>
+            执行带有事务的操作, 且返回一个DataSet
+            </summary>
+            <param name="sqlString"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Interop.Office.Core.DisplayTable">
+            <summary>
+            执行Sql时，如果单行执行，Sql文件的扩展名为.txt , 如果一次执行多行，sql文件的扩展名为.sql
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.DisplayTable.bCanEditRow">
+            <summary>
+            是否允许添加删除行
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.DisplayTable.bCanEditColumn">
+            <summary>
+            是否允许添加删除列
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.DisplayTable.Title">
+            <summary>
+            可以指定窗口的标题,如果不指定,就显示表的名称
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.DisplayTable.htColumnNames">
+            <summary>
+            可以指定列的别名,如果别名为"",就不显示这一列, [列名称]---[显示的文本]
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.DisplayTable.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DisplayTable.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.DisplayTable.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.KillExcelProcess(System.DateTime,Microsoft.Office.Interop.Excel.Application)">
+            <summary>
+            清理Excel进程(最好不要有打开的Excel,要是有清除不彻底)时间一定是创建Excel之前的时间,在这个时间之后的Excel进程被杀掉 
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.KillExcelProcess">
+            <summary>
+            清理Excel进程
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.NAR(System.Object)">
+            <summary>
+            //清除Excel对象//常规方法,不一定有效
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.GetExcelRowCount(System.String)">
+            <summary>
+            得到Excel文件的第一个表的行数
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.bHasSetUpExcel">
+            <summary>
+            判断是否安装了Excel
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.bHasSetUpExcel2">
+            <summary>
+            是否安装了Excel，要有读取注册表的权限，0：没安装，3:Excel2003,7：Excel2007 ,10:Excel2010
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:Interop.Office.Core.ExcelOperate.ExcelOpt">
+            <summary>
+            空
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.OpenOneExcelFile(System.String)">
+            <summary>
+            根据路径打开一个Excel文档
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.OpenAndNewBooks">
+            <summary>
+            打开Excel，并新建一个Excel工作薄，然后返回这个工作薄，出错会抛出异常。参数（是否保存，若保存指定保存全路径）
+            若需要Excel对象，根据工作薄得到(workbook.Application)
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.GetTableFromExcelBySQL2(System.String)">
+            <summary>
+            打开一个Excel文件,返回一个数据表,这里包含选择文件框,返回Excel的第一个表(调用下面的方法）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.GetTableFromExcelBySQL(System.String,System.Int32)">
+            <summary>
+            从Excel读取内容,返回一个表,采用Sql的方式操作,不一定得到所有的数据,一列数据格式不一样时出错
+            </summary>
+            <param name="ExcelFile">Excel文件的全名,Excel中第几个表,一般是第一个为:0</param>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.GetTableNamesFromExcelBySql(System.String)">
+            <summary>
+            得到一个Excel中所有的表名称
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.GetTableFromExcelbyCOM">
+            <summary>
+            打开一个Excel文件,返回一个数据表,这里包含选择文件框,返回Excel的第一个表,
+            列全是String类型,但正确,Com方式,Excel第一行为表的列名
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.GetTableFromExcelbyCOM(System.String,System.Int32)">
+            <summary>
+            tableindex从一开始,默认为一,没找到文件时返回null
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.GetTableFromExcelbyCOM(System.String,System.String)">
+            <summary>
+            根据Sheet的名称获取Sheet
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.SetExcelFromTableCOM(System.Data.DataTable,System.Int32,System.Int32,System.String,System.Collections.ArrayList)">
+            <summary>
+            由一个DataTable和Range的开始,和Excel文件的路径,和特殊的单元格的值列表 设置Excel数据
+            (输出数据表,Range开始行,Range开始列,Excel模版复制后的路径,特殊单元格的值列表)
+            </summary>
+            <param name="dt">数据表</param>
+            <param name="RangeStartCell">开始写数的行,默认为1</param>
+            <param name="RangeEndCell">开始写数的列,默认为1</param>
+            <param name="arSpecialCells" >单元格坐标ぺ数值(用来写入特殊的固定的单元格的值)</param>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.SetExcelFromTableCOM(System.Object[0:,0:],System.Int32,System.Int32,System.String,System.Collections.ArrayList)">
+            <summary>
+            由一个object[,]的数据 和Range的开始,和Excel文件的路径,和特殊的单元格的值列表 设置Excel数据
+            (输出数据表,Range开始行,Range开始列,Excel模版复制后的路径,特殊单元格的值列表)
+            </summary>
+            <param name="dt">数据表</param>
+            <param name="RangeStartCell">开始写数的行,默认为1</param>
+            <param name="RangeEndCell">开始写数的列,默认为1</param>
+            <param name="arSpecialCells" >单元格坐标ぺ数值(用来写入特殊的固定的单元格的值)</param>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.SetExcelFromTableCOM(System.Data.DataTable,System.String,System.Collections.ArrayList,System.Boolean,System.Boolean)">
+            <summary>
+            这一个把Table写入Excel从第一个格开始写，也可写待写单元格的内容
+            还有参数：是否显示Excel,最后是否退出Excel
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.SetExcelFromTableCOMBom2(System.Object[0:,0:],System.Int32,System.Int32,System.String,System.Collections.ArrayList)">
+            <summary>
+            由一个object[,]的数据 和Range的开始,和Excel文件的路径,和特殊的单元格的值列表 设置Excel数据
+            分页显示，每页35行
+            </summary>
+            <param name="dt">数据表</param>
+            <param name="RangeStartCell">开始写数的行,默认为1</param>
+            <param name="RangeEndCell">开始写数的列,默认为1</param>
+            <param name="arSpecialCells" >单元格坐标ぺ数值(用来写入特殊的固定的单元格的值)</param>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.SetExcelFromTableCOMBom3(System.Object[0:,0:],System.Int32,System.Int32,System.String,System.Collections.ArrayList)">
+            <summary>
+            由一个object[,]的数据 和Range的开始,和Excel文件的路径,和特殊的单元格的值列表 设置Excel数据
+            分页显示，每页35行
+            </summary>
+            <param name="dt">数据表</param>
+            <param name="RangeStartCell">开始写数的行,默认为1</param>
+            <param name="RangeEndCell">开始写数的列,默认为1</param>
+            <param name="arSpecialCells" >单元格坐标ぺ数值(用来写入特殊的固定的单元格的值)</param>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.OutExcelFromDGV(System.Windows.Forms.DataGridView)">
+            <summary>
+            把Datagridview中的数据导出到一个普通的Excel文件中
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.OutExcelFromDataTableVisible(System.Data.DataTable)">
+            <summary>
+            把Datagridview中的数据导出到一个普通的Excel文件中
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.OutExcelFromDataArray(System.Object[0:,0:])">
+            <summary>
+            把Datagridview中的数据导出到一个普通的Excel文件中
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.OutExcelFromDGVSelectedRow(System.Windows.Forms.DataGridView)">
+            <summary>
+            把Datagridview中选中的数据导出到一个普通的Excel文件中
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.OutExcelFromDGVSelectedRow(System.Windows.Forms.DataGridView,System.Int32)">
+            <summary>
+            把Datagridview中选中的数据导出到一个普通的Excel文件中,最后n列不显示，临时措施，不能通用
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.ChangeExcelCellValue(System.String)">
+            <summary>
+            赛迪专用，修改设计表单元格的值
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.AutoMergerExcelRows">
+            <summary>
+            获取当前Excel进程
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.OutExcelFromDataTableTemp(System.Data.DataTable,System.String)">
+            <summary>
+            把Datagridview中的数据导出到一个普通的Excel文件中
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OneSldPPt.name">
+            <summary>
+            属性名
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OneSldPPt.value">
+            <summary>
+            属性值
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OneSldPPt.solValue">
+            <summary>
+            解析值
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OneSldPPt.iType">
+            <summary>
+            数据类型：1 文字 2:日期 3数字 4是否
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.OnePPt">
+            <summary>
+            记录一个属性的信息,保存在Combox的Tag中
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.OnePPt.#ctor(System.Data.DataRow)">
+            <summary>
+            属性表中的一行，生成一个属性信息
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.AttValue">
+            <summary>
+            有可能是表达式 //如: "\"SW-Mass@@" + cfgname2 + "@" + swModel.GetTitle() + "\"";
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.AttSolveValue">
+            <summary>
+            实际值
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.pMDName">
+            <summary>
+            迈迪固定的属性名称
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.pName">
+            <summary>
+            用户可改的属性名称
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.pName2">
+            <summary>
+            别名,V5.0新添加的,但是还没有用到
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.DefaultVal">
+            <summary>
+            默认值,数量的默认值是1,材料的默认值是SW-Material,质量的默认值是SW-Mass
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.bSaveLastVal">
+            <summary>
+            是否记录上一个输入的值，并默认选中这个值
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.iType">
+            <summary>
+            数据类型
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.strRef">
+            <summary>
+            关联数据
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.bHas">
+            <summary>
+            是否原先就有这个属性
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.bHas2">
+            <summary>
+            是否原先就有这个属性的别名,如果有pName1这个属性, bHas2=false
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.bGeneralPPT">
+            <summary>
+            是自定义属性吗，默认否
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.ShowMyDialog.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ShowMyDialog.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.ShowMyDialog.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.SetAtrByCompAndAtrName(SolidWorks.Interop.sldworks.Component2,System.String,System.Object)">
+            <summary>
+            根据Comp和属性名称得到零件的属性,并保存(返回是否成功）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.SetAtrByWeldmentFeature(SolidWorks.Interop.sldworks.Feature,System.String,System.Object)">
+            <summary>
+            设置切割清单特征的用户定义属性(不保存）(返回是否成功）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.SetAtrByModel(System.String,System.String,SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            设置零件的属性(当前配置)
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.SetAtrByModel(System.String,System.String,SolidWorks.Interop.sldworks.IModelDoc2)">
+            <summary>
+            设置零件的属性(自定义属性,齿轮专用)
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.SetAtrByModel(System.String,System.String,SolidWorks.Interop.sldworks.ModelDoc2,System.String)">
+            <summary>
+            设置零件的属性(配置为空时写入到自定义属性中)
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAtrByCompAndAtrName(System.String[],SolidWorks.Interop.sldworks.Component2)">
+            <summary>
+            根据Component得到零件的属性,一次可以得到多个属性
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAttValueByName(System.String,SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            根据ModelDoc得到零件的属性
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAttValueByName(System.String,SolidWorks.Interop.sldworks.ModelDoc2,System.String)">
+            <summary>
+            根据ModelDoc得到零件的属性
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAttValueByName(System.String,SolidWorks.Interop.sldworks.Feature)">
+            <summary>
+            根据weldmentFeature得到焊件的属性
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllCustomPropertyName(SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            得到当前配置下所有自定义属性的名称
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllCustomPropertyInfo(SolidWorks.Interop.sldworks.ModelDoc2,SolidWorks.Interop.sldworks.Component2,System.Boolean,System.Boolean,SolidWorks.Interop.sldworks.Feature)">
+            <summary>
+            得到一个Component的所有属性，未指定的值为"",是否包括配置属性默认是，是否包括全局的属性，如果包括全局属性在最后
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllCustomPropertyInfo(SolidWorks.Interop.sldworks.ModelDoc2,System.String,System.Collections.ArrayList,SolidWorks.Interop.sldworks.Feature)">
+            <summary>
+            得到一个配置下所有的属性名和值，如果是全局属性cfgname="",当前配置的属性cfgname="ActiveCfg" ，未指定的值为"" 
+            </summary>
+            <param name="swModel">swModel和weldmentFeature二者要指定其一</param>
+            <param name="cfgname">配置名称，读取焊件清单属性时不用指定</param>
+            <param name="arAttNames"></param>
+            <param name="weldmentFeature">焊件清单特征</param>
+            <returns></returns>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllCfgCustomPropertyInfo(SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            得到所有的配置，每个配置所有的属性信息
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.CreateDesignTableFromModelDoc(SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            自动根据每个配置的属性生成一个表，包括所有component和配置，所有的属性，但是不包括尺寸。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.CreateDesignTableFromPart(SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            自动根据每个配置的属性生成一个表，包括所有的属性，但是不包括尺寸
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.getGolbalVariablesValue(System.String,SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            获取方程式中全局变量的值，Golbal Variables
+            </summary>
+            <param name="VariableName">全局变量的名称</param>
+            <param name="Part">模型</param>
+            <returns>如果没有找到这个全局变量，返回-1</returns>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllDimensions(SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            得到一个零件下的所有尺寸信息。，并返回ArrayList组
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllDimensions(SolidWorks.Interop.sldworks.ModelDoc2,SolidWorks.Interop.sldworks.Feature)">
+            <summary>
+            得到一个特征下的所有尺寸信息,可以是特征，也可以是草图等等，如果Feature为空，自动获取当前选中的Feature
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetRefPlaneNames(SolidWorks.Interop.sldworks.IModelDoc2)">
+            <summary>
+            得到三个基准面的名称:1:前视基准面,2上视基准面,3右视基准面
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.SolidWorksMethod.swRefPlaneNames">
+            <summary>
+            前视，上视，右视，三个基准面的名称。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SolidWorksMethod.swRefPlaneNames.FrontPlaneName">
+            <summary>
+            前视基准面
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SolidWorksMethod.swRefPlaneNames.TopPlaneName">
+            <summary>
+            上视基准面
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SolidWorksMethod.swRefPlaneNames.RightPlaneName">
+            <summary>
+            右视基准面
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.getAxisName(SolidWorks.Interop.sldworks.IModelDoc2)">
+            <summary>
+            得到第一个基准轴的名称,如果没有基准轴，返回“”
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAssemblyTotalWeight(SolidWorks.Interop.sldworks.ModelDoc2,System.Boolean,System.String)">
+            <summary>
+            自动计算装配体的重量, 出错就返回0 WeightAttName=重量，单重等等。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetDwgSize(SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            得到图纸的大小
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetDwgSizeNameByDwgSizeID(System.Int32)">
+            <summary>
+            由swDwgPaperSizes_e得到图纸名称
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetTwoPointDistinct(System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            由两点坐标得到距离
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.CheckTwoLineCross(System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            知道两条线段的四个点(线一点一,线一点二,线二点一,线二点二)判断两条线段是否相交,
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.getPointInLineX(System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            知道一条线段上的两点，和第三点的Y坐标，求第三点的X坐标
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.getPointInLineY(System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            知道一条线段上的两点，和第三点的X坐标，求第三点的Y坐标
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetModelDoc2FromOpenDocs(System.String)">
+            <summary>
+            在SW打开的文件中，根据提供的路径返回，
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllOpenDocuments(System.Boolean)">
+            <summary>
+            得到所有打开的文件，可以设置 参数（是否只显示装配）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllOpenDocsPath(System.Boolean)">
+            <summary>
+            得到所有打开的文件，可以设置 参数（是否只显示装配）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllAssemblyDocs(SolidWorks.Interop.sldworks.AssemblyDoc)">
+            <summary>
+            得到一个装配体下所有的文件路径
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllAssemblyComponents(SolidWorks.Interop.sldworks.AssemblyDoc)">
+            <summary>
+            得到一个装配体下所有的零件Component
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetPartVolumn(SolidWorks.Interop.sldworks.ModelDoc2,System.Int32)">
+            <summary>
+            得到零件的体积
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetPartWeight(SolidWorks.Interop.sldworks.ModelDoc2,System.Int32)">
+            <summary>
+            得到质量， 小数位数
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetPartSurfaceArea(SolidWorks.Interop.sldworks.ModelDoc2,System.Int32)">
+            <summary>
+            得到零件的表面积
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetPartBoxXYZ_ref(SolidWorks.Interop.sldworks.ModelDoc2,SolidWorks.Interop.sldworks.Body2,System.Boolean,System.Double@)">
+            <summary>
+            得到弯管，工字钢的表示方式，没有返回""
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetPartDwgSize(SolidWorks.Interop.sldworks.ModelDoc2,SolidWorks.Interop.sldworks.Component2)">
+            <summary>
+            得到模型对应的工程图的纸张大小, 返回如A0，A1
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.bIsWeldment(SolidWorks.Interop.sldworks.IModelDoc2,SolidWorks.Interop.sldworks.Component2)">
+            <summary>
+            判断一下是不是焊件零件
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.getAllWeldmentFeature(SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            得到所有的切割清单特征
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetDistanceByTwoVertex(System.Double[],System.Double[])">
+            <summary>
+            由两个点得到两点之间的距离,注意这里是三坐标（x,y,z)
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.SolidWorksMethod2">
+            <summary>
+            修改了材料,单重也变化
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod2.CheckConfigName(SolidWorks.Interop.sldworks.ModelDoc2,System.String)">
+            <summary>
+            验证配置名称是否正确
+            如果不正确，返回一个正确的,即在名称后加-2,-3,-4....
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod2.getFeatureByFeatureTypeName(SolidWorks.Interop.sldworks.ModelDoc2,System.String,System.Boolean)">
+            <summary>
+            根据特征类别名称，在特征树中得到一个特征( 特征类别名称，是否查找子特征）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod2.getFeatureByFeatureTypeName_ref(SolidWorks.Interop.sldworks.Feature,System.String,System.Boolean)">
+            <summary>
+            根据特征类别名查找子特征
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.StringOperate">
+            <summary>
+            字符串处理函数，文本文件读写，Bype[]转换
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.WriteFileByByte(System.String,System.Byte[])">
+            <summary>
+            根据byte[]创建文件并写入指定的目录WritePath(包含文件名)下//false表示出错
+            </summary>
+            <param name="WritePath">要写入文件到什么地方//包含路径全名//文件名</param>
+            <param name="byt">byte[];一个序列化的文件//要满的,即没有空的内容</param>
+            <returns>是否成功</returns>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.WriteFileByByte(System.String,System.Byte[],System.Int32)">
+            <summary>
+            根据byte[]创建文件并写入指定的目录WritePath(包含文件名)下//false表示出错
+            这个方法可以指定byte[]数组的写入长度,如byt.length=1000,但是我要写入前800
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.GetByteByFilePath(System.String)">
+            <summary>
+            由文件全名序列化后得到byte[]//出错时返回1长度的byte,//文件不存在返回null,文件正在使用时无法读取
+            </summary>
+            <param name="fileFullName">文件的路径和名称</param>
+            <returns>序列化后得到的byte</returns>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.ConvertCode(System.String,System.Text.Encoding,System.Text.Encoding)">
+            <summary>
+            把一个字符串编码为另一种编码的字符串
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.ReadTextFile(System.String)">
+            <summary>
+            读取文本文件
+            </summary>
+            <param name="FullPath"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.ReadTextFile(System.String,System.Text.Encoding)">
+            <summary>
+            指定编码读取文件
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.ReadTextFileByByte(System.String)">
+            <summary>
+            读取文本文件,注意是读取的byte然后转换的,Encoding.UTF8，注意这里连换行符也一块读出来了，\r\n
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.ReadTextFile(System.String,System.Text.Encoding,System.Boolean)">
+            <summary>
+            指定编码读取文件的每一行，返回一个数组，第三个参数是否包括空行，编码默认是GB2312,可以是null
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.WriteTextFileCreate(System.String,System.String)">
+            <summary>
+            写入文本文件--创建//不需要编码信息
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.WriteTextFileCreate(System.String,System.String,System.Text.Encoding)">
+            <summary>
+            写入文本文件--创建
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.WriteTextFileAppend(System.String,System.String)">
+            <summary>
+            写入文本文件--追加
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.GetStringLength(System.String)">
+            <summary>
+            得到一个字符串的绝对长度,中文的长度为2
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.BackStringByDouble(System.Double,System.Int32)">
+            <summary>
+            字符串处理，保留多少位小数//关键是不足这些位数的化后面要加0
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.BackStringByDouble(System.String,System.Int32)">
+            <summary>
+            返回小数位数为count 的字符串,等同于Math.Round()
+            </summary>
+            <param name="doubleValue">要处理的数</param>
+            <param name="count">小数位数</param>
+            <returns>处理完的字符串</returns>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.CutUnicodeString(System.String,System.Int32)">
+            <summary>
+            处理文本，把一个长字符串剪切成固定长度的数组
+            其中，中文占两个长度，英文占一个长度
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.RemoveNumber(System.String)">
+            <summary>
+            正则表达式 去掉字符串中的数字
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.RemoveNotNumber(System.String)">
+            <summary>
+            正则表达式 去掉字符串中的非数字
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.RemoveNotGB2312(System.String)">
+            <summary>
+            正则表达式 去掉所有非汉字，只返回汉字
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.RemoveGB2312(System.String)">
+            <summary>
+            正则表达式 去掉所有汉字
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.bIsChinese(System.String)">
+            <summary>
+            正则表达式判断是否为中文
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.bHasChinese(System.String)">
+            <summary>
+            判断是否为ASCII编码为255以下的字符组成的
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.isInterger(System.String)">
+            <summary>
+            判断是不是全数字
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.IsIP(System.String)">
+            <summary>
+            判断是否为ip
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.StringOperate.LOCALE_SYSTEM_DEFAULT">
+            <summary>
+            中文字符工具类
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.ToSimplified(System.String)">
+            <summary>
+            将字符转换成简体中文
+            </summary>
+            <param name="s">输入要转换的字符串</param>
+            <returns>转换完成后的字符串</returns>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.ToTraditional(System.String)">
+            <summary>
+            讲字符转换为繁体中文
+            </summary>
+            <param name="s">输入要转换的字符串</param>
+            <returns>转换完成后的字符串</returns>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.Big5Convert(System.String)">
+            <summary>
+            将字符串转换成繁体，（带判断是否需要转换）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.Big5Convert(System.Windows.Forms.Form)">
+            <summary>
+            如果设置为繁体，把窗体的所有字符转换为繁体
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.Big5Convert(System.Windows.Forms.Control)">
+            <summary>
+            如果设置为繁体，把控件的所有字体转换为繁体,如果Tag为NoReEncoding就不转换，如果Tag为CanReEncoding就一定要转换，除此之外只转换Label等基本控件
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.Big5Convert(System.Data.DataTable)">
+            <summary>
+            把一个表格转换为繁体
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.Big5Convert(System.Windows.Forms.DataGridView)">
+            <summary>
+            把一个表格转换为繁体
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.Big5Convert(System.Windows.Forms.TreeNodeCollection)">
+            <summary>
+            把一个表格转换为繁体
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.CEN(System.String)">
+            <summary>
+            把中文特征名称转换成英文，或转换成繁体中文。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.Alert(System.String)">
+            <summary>
+            提示框，如果是繁体自动转换
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.AlertDebug(System.String)">
+            <summary>
+            迈迪专用错误提示，如果是迈迪自己就会提示，否则不提示，写入到日志中
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.Alert(System.String,System.String,System.Windows.Forms.MessageBoxButtons,System.Windows.Forms.MessageBoxIcon)">
+            <summary>
+            提示框，如果是繁体自动转换
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Sys.Is64BitOPSystem">
+            <summary>
+            得到系统是64为还是32位,需添加引用System.Management
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.TransWeb">
+            <summary>
+            在启动程序时会自动检测一次是否联网,并读取在线配置。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.TransWeb.AddCookiesToWebBrowser(System.Windows.Forms.WebBrowser,System.Net.CookieContainer,System.String)">
+            <summary>
+            把Cookie添加到Webbrowser中
+            </summary>
+            <param name="webb">控件</param>
+            <param name="cookies">Cookies集合</param>
+            <param name="url">如【http://www.my3dparts.com】,为空时采用默认url</param>
+            <returns>“”</returns>
+        </member>
+        <member name="M:Interop.Office.Core.TransWeb.GetCookiesByWebBrowser(System.Windows.Forms.WebBrowser)">
+            <summary>
+            把WebBrowser中的Cookie 保存在一个CookieContainer中。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.TransWeb.GetCookiesString(System.Net.CookieContainer,System.String)">
+            <summary>
+            得到字符串类型的cookie,[cook1=val1;cook2=val2;cook3=val3....]
+            <param name="url">如【http://www.my3dparts.com】,为空时采用默认url</param>
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.TransWeb.htWebParams">
+            <summary>
+            外部程序调用时传递来的参数，如打开配件库中的某一个零件并生成
+            Mdt:买提通号
+            LoginID:用户ID号
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.TransWeb.LoginID">
+            <summary>
+            用户登录ID,没有登录饭后0
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.TransWeb.bOnline">
+            <summary>
+            判断是否在线，注意这个方法有延迟，有可能不会立即得到结果
+            用Set刷新判断，而不会赋值。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.TransWeb.iOnline">
+            <summary>
+            -1还没有查是否在线，0：不在线，1：在线
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.TransWeb.htWebCfg">
+            <summary>
+            从网站上读取的配置信息，包括是否显示广告窗体等。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.TransWeb.checkOnline">
+            <summary>
+            刷新检测电脑是不是联网了,将结果写到iOnline中，0：不在线，1：在线
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.TransWeb.openOnlineHelpPage(System.String,System.String,System.String)">
+            <summary>
+            打开各个功能的在线帮助页面(功能简称，关键字）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.TransWeb.WebReadString(System.String)">
+            <summary>
+            把Url指定的网页的文本全读出来,以GB2312编码//读不出来返回 "Error:" + ea.Message;,通过这里读取的每个页都要有字符“≮”否则就会以新的编码方式读取
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.TransWeb.WebDownFile(System.String,System.String)">
+            <summary>
+            读取网站的图片,成功返回"",否则返回错误提示, 如果文件已经存在,改名为.temp,下载成功后删除已经存在的文件并改名
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.TransWeb.bStopDown">
+            <summary>
+            是否中途停止下载
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.TransWeb.WebDownFile(System.String,System.String,System.Windows.Forms.ToolStripProgressBar,System.Int64)">
+            <summary>
+            读取网站的图片,成功返回"",否则返回错误提示, 如果文件已经存在,改名为.temp,下载成功后删除已经存在的文件并改名,文件长度设为0时先读取文件长度
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.TransWeb.WebDownFile(System.String,System.String,System.Windows.Forms.ProgressBar,System.Int64)">
+            <summary>
+            读取网站的图片,成功返回"",否则返回错误提示, 如果文件已经存在,改名为.temp,下载成功后删除已经存在的文件并改名,文件长度设为0时先读取文件长度
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.TransWeb.getDownLength(System.String)">
+            <summary> 
+            获取下载文件大小 
+            </summary> 
+            <param   name= "url "> 连接 </param> 
+            <returns> 文件长度 </returns> 
+        </member>
+        <member name="M:Interop.Office.Core.TransWeb.WebFileInfo(System.String)">
+            <summary>
+            检查服务器上的某个文件的信息 fi.LastWriteTime + "♂" + fi.Length + "♂"; 如果没有文件返回"Error:none" ,出错返回"Error:+e.message"
+            参数是以MD3DParts\\目录开头,然后加上"MD\\根目录\\"
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.TransWeb.WebReadFileFolderNames(System.String)">
+            <summary>
+            读取一个目录下的文件,文件夹名称,要是目录以:结尾
+            参数是以MD3DParts\\目录开头,然后加上"MD\\"
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.TransWeb.ChEncodeUrl(System.String)">
+            <summary>
+            转换成URL编码
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.WinFormMethod">
+            <summary>
+            有关控件操作的函数
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.RemoveListItemBetweenListBox(System.Windows.Forms.ListBox,System.Windows.Forms.ListBox)">
+            <summary>
+            在两个ListBox之间移动选项,即把一个ListBox中的选中项移动到另一个ListBox中
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.RemoveListItemBetweenListBox(System.Windows.Forms.ListBox,System.Windows.Forms.ListBox,System.Boolean,System.Boolean)">
+            <summary>
+            把ListA中的选中项复制一份,移动到ListB中,移动前先检查ListB中是否有了,
+            如果CanRepeat=true,则可以重复
+            如果DeleteRemoveItem=true,则移动后删除ListA中的项
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.AddListItem(System.Windows.Forms.ListBox,System.String,System.Boolean,System.Int32)">
+            <summary>
+            向listA中添加一个新项( CanRepeat =是否允许重复, index=插入的位置,-1标识最后)
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.DeleteListItem(System.Windows.Forms.ListBox,System.String)">
+            <summary>
+            删除一项
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.RemoveListItemUpOrDown(System.Windows.Forms.ListBox,System.Boolean)">
+            <summary>
+            移动ListItem项往上或者往下
+            </summary>
+            <param name="isRemoveUP"></param>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.RemoveListItemUpOrDown2(System.Windows.Forms.ListBox,System.Boolean)">
+            <summary>
+            移动ListItem项往上或者往下//并返回当前选中的Index
+            </summary>
+            <param name="isRemoveUP"></param>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.getNearValue(System.Windows.Forms.ComboBox,System.String)">
+            <summary>
+            得到Combox中和strVal最接近的index,这里如果转换不成数字就有可能出错
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.getDGVDataAreaWidth(System.Windows.Forms.DataGridView,System.Int32,System.Int32)">
+            <summary>
+            获取datagridveiw数据区域的尺寸宽度，就是所有的列的宽度之和( dgv, 最大宽度-为0时不管，最小宽度-为0时不管）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.getDGVDataAreaHeight(System.Windows.Forms.DataGridView,System.Int32,System.Int32)">
+            <summary>
+            获取datagridveiw数据区域的尺寸高度，就是行数* 行高( dgv, 最大高度-为0时不管，最小高度-为0时不管）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.SetDGVCellValue(System.Windows.Forms.DataGridViewCell,System.Object)">
+            <summary>
+            设置一个DataGridViewCell的值，自动转换类型,若成功，返回“”，否则返回错误提示
+            </summary>
+            <param name="cell"></param>
+            <param name="objValue"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Interop.Office.Core.AddToolTips">
+            <summary>
+            向任何控件添加一个ToolTip
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AddToolTips.AddToolTipTxt(System.Windows.Forms.Control,System.String)">
+            <summary>
+            为控件添加ToolTipText
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.TreeViewMethod">
+            <summary>
+            操作树视图的类
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.TreeViewMethod.getAllTreeNodes(System.Windows.Forms.TreeView)">
+            <summary>
+            得到一个树的所有节点，不分级别
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.TreeViewMethod.getAllTreeNodes(System.Windows.Forms.TreeNode)">
+            <summary>
+            得到一个树的所有节点，不分级别,tn自身也加进去
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.TreeViewMethod.GetNodeByName(System.String,System.Windows.Forms.TreeView)">
+            <summary>
+            得到一个树的指定名称的节点,没有返回null
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.XMLOperate.LoadXmlToTreeView(System.Windows.Forms.TreeView,System.String)">
+            <summary>
+            读取一个XML文档到一个Treeview中,(根据AttributeName)
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.XMLOperate.SeavTreeViewToXml(System.Windows.Forms.TreeNodeCollection,System.String,System.String)">
+            <summary>
+            把一个树视图保存成XML文件，Tag属性只能保存String,其它格式不保存
+            Nm;  //name
+            T;   //Text
+            Idx; //imageIndex
+            sIdx;//selectedImageIndex
+            C;   //checked   （1:选中）
+            Ep;  //Expaneded (1:展开）
+            Tg;  //只保存String类型的，Object类型的忽略
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.AllMethod">
+            <summary>
+            在ＯＣＸ控件上加载树节点
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.AddPartToAssembly">
+            <summary>
+            在OCXControl中,拖动一个零件到装配中
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AddPartToAssembly.AddPartToAssem(SolidWorks.Interop.sldworks.ModelDoc2@,SolidWorks.Interop.sldworks.ModelDoc2@,System.Windows.Forms.Control,System.Double[],SolidWorks.Interop.sldworks.Entity)">
+            <summary>
+            把一个零件添加到装配中，（如果自动装配,需要指定dbArr,ent1这两个参数，否侧可以为空）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AddPartToAssembly.AddPartToAssem(SolidWorks.Interop.sldworks.ModelDoc2@,SolidWorks.Interop.sldworks.ModelDoc2@)">
+            <summary>
+            把一个零件添加到装配中，//////////////////旧函数
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AddPartToAssembly.GetTopLeftPointModelSpace(SolidWorks.Interop.sldworks.ModelDoc2)">
+             <summary>
+            旧函数
+            根据矩形对角线上的两点坐标得出8个点的坐标,然后进行坐标转换,转换为屏幕坐标,得到靠近屏幕左上交最近的点
+            注意:返回的应是Model Space的点
+             </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AddPartToAssembly.ModelToScreenSpace(SolidWorks.Interop.sldworks.ModelDoc2,System.Double[])">
+            <summary>
+            //把Model Space 转换到Screen space
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.BNInfo">
+            <summary>
+            螺栓副的相关信息，每一个按钮对应一个
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.BNInfo.btn">
+            <summary>
+            相关联的Button
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.BNInfo.dbRadius">
+            <summary>
+            孔的半径,单位米
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.BNInfo.SavePath">
+            <summary>
+            模型的保存路径,所有实例共享，以“\\”结尾
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.BNInfo.tnFullPath">
+            <summary>
+            选择的树节点的全路径
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.BNInfo.ConfigName">
+            <summary>
+            使用配置模式时的名称,ListBox中选的是哪一个,M5
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.BNInfo.OnlyName">
+            <summary>
+            只有名称，没有路径,没有扩展名
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.BNInfo.FullName">
+            <summary>
+            只读全名，SavePath+ OnlyName + ".SLDPRT"
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.BNInfo.jiedianlei">
+            <summary>
+            当前根节点名称
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.BNInfo.AtttibuetStr">
+            <summary>
+            属性列表(属性名↑属性值↑属性名↑属性值)
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.BNInfo.bAutoLength">
+            <summary>
+            当为螺栓时是否自动匹配长度,只有螺栓在生成之前有可能为True ，其它的实例都为False 
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.BNInfo.dgvLength">
+            <summary>
+            螺栓长度，垫圈厚度，螺母为空
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.BNInfo.dbThinkness">
+            <summary>
+            只读，垫圈专用－－厚度，单位为米,出错返回0
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.BNInfo.ListBoxSelectedIndex(System.Windows.Forms.DataGridView,System.Double)">
+            <summary>
+            根据孔的直径选择,螺栓选小的，、、垫圈选大的
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.frmAll">
+            <summary>
+            树节点ImageIndex: 
+                  顶级节点[标准件分类]---1
+                  下一级节点[一个父类的标准件,如六角头螺栓]--2
+                  下一级节点[最后的节点,一个标准件]--3
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmAll.SetDGVValue(System.String,System.String)">
+            查找属性的名称,找到后设置属性的值,返回是否成功,[Optional]　int　x
+        </member>
+        <member name="M:Interop.Office.Core.frmAll.GetDGVValue(System.String)">
+            从DataGridView中获取指定名称的属性值，如：“标准”“名称”
+        </member>
+        <member name="M:Interop.Office.Core.frmAll.GetDGVValueCell(System.String)">
+            返回属性对应的DataGridViewCell,或者是下拉列表
+        </member>
+        <member name="M:Interop.Office.Core.frmAll.GetDGVValueCell(System.Int32)">
+            返回属性对应的DataGridViewCell,或者是下拉列表
+        </member>
+        <member name="F:Interop.Office.Core.frmAll.BMAttName">
+            <summary>
+            编码的属性名称,徐锻用的是"物料代码",现在用"编码",原先为“”，可以用任何名称,加载DGV时获取.
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmAll.bAtLoadingDGV">
+            <summary>
+            是否正在加载
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmAll.saveFullName">
+            <summary>
+            文件的保存全名，带扩展名，这个函数必须在调用this.updatePartAndCfgName()后才能使用。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmAll.bHasOldFile">
+            <summary>
+            标准件生成库中是否已经有当前参数的标准件，如果不启动这个功能或不存在，为False
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmAll.CopyPrtdotFile(System.String)">
+            <summary>
+            本地copy一份.prtdot模板文件
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmAll.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmAll.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Interop.Office.Core.frmAll.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmAll_Import.#ctor(Interop.Office.Core.DBMethod,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            参数(要操作的数据库, 页码0大类,1子类,2零件 , 其它数据1 ,其它数据2 ,模型库路径 )
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmAll_Import.bNeedRefresh">
+            <summary>
+            操作成功后是否需要刷新
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmAll_Import.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmAll_Import.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.frmAll_Import.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.BeltT_XX.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.BeltT_XX.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.BeltT_XX.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.AddPPageData.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AddPPageData.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.AddPPageData.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.AddPPageType.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AddPPageType.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.AddPPageType.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.AddPPageType_Material.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AddPPageType_Material.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.AddPPageType_Material.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.AddPPageType_ref.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AddPPageType_ref.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.AddPPageType_ref.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.AddPProperty.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AddPProperty.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.AddPProperty.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.MDTool">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.#ctor">
+            <remarks/>
+        </member>
+        <member name="E:Interop.Office.Core.my3dparts.MDTool.getLoginCompleted">
+            <remarks/>
+        </member>
+        <member name="E:Interop.Office.Core.my3dparts.MDTool.getMD5PwdCompleted">
+            <remarks/>
+        </member>
+        <member name="E:Interop.Office.Core.my3dparts.MDTool.getDESPwdCompleted">
+            <remarks/>
+        </member>
+        <member name="E:Interop.Office.Core.my3dparts.MDTool.getLoginIDByMdtCompleted">
+            <remarks/>
+        </member>
+        <member name="E:Interop.Office.Core.my3dparts.MDTool.getMdtByLoginIDCompleted">
+            <remarks/>
+        </member>
+        <member name="E:Interop.Office.Core.my3dparts.MDTool.getLogOutCompleted">
+            <remarks/>
+        </member>
+        <member name="E:Interop.Office.Core.my3dparts.MDTool.getCompanyMgrIDCompleted">
+            <remarks/>
+        </member>
+        <member name="E:Interop.Office.Core.my3dparts.MDTool.getHasLoginedCompleted">
+            <remarks/>
+        </member>
+        <member name="E:Interop.Office.Core.my3dparts.MDTool.getLoginIDCompleted">
+            <remarks/>
+        </member>
+        <member name="E:Interop.Office.Core.my3dparts.MDTool.addFriendCompleted">
+            <remarks/>
+        </member>
+        <member name="E:Interop.Office.Core.my3dparts.MDTool.getFriendListCompleted">
+            <remarks/>
+        </member>
+        <member name="E:Interop.Office.Core.my3dparts.MDTool.getCollectedCompanyListCompleted">
+            <remarks/>
+        </member>
+        <member name="E:Interop.Office.Core.my3dparts.MDTool.addCollectCompCompleted">
+            <remarks/>
+        </member>
+        <member name="E:Interop.Office.Core.my3dparts.MDTool.deleteCollectCompCompleted">
+            <remarks/>
+        </member>
+        <member name="E:Interop.Office.Core.my3dparts.MDTool.getLocationByGuiGeCompleted">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getLogin(System.String,System.String,System.String)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getLoginAsync(System.String,System.String,System.String)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getLoginAsync(System.String,System.String,System.String,System.Object)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getMD5Pwd(System.String)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getMD5PwdAsync(System.String)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getMD5PwdAsync(System.String,System.Object)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getDESPwd(System.String)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getDESPwdAsync(System.String)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getDESPwdAsync(System.String,System.Object)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getLoginIDByMdt(System.String)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getLoginIDByMdtAsync(System.String)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getLoginIDByMdtAsync(System.String,System.Object)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getMdtByLoginID(System.String)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getMdtByLoginIDAsync(System.String)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getMdtByLoginIDAsync(System.String,System.Object)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getLogOut">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getLogOutAsync">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getLogOutAsync(System.Object)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getCompanyMgrID(System.Int32)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getCompanyMgrIDAsync(System.Int32)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getCompanyMgrIDAsync(System.Int32,System.Object)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getHasLogined">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getHasLoginedAsync">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getHasLoginedAsync(System.Object)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getLoginID">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getLoginIDAsync">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getLoginIDAsync(System.Object)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.addFriend(System.Int32)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.addFriendAsync(System.Int32)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.addFriendAsync(System.Int32,System.Object)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getFriendList">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getFriendListAsync">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getFriendListAsync(System.Object)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getCollectedCompanyList(System.Int32)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getCollectedCompanyListAsync(System.Int32)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getCollectedCompanyListAsync(System.Int32,System.Object)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.addCollectComp(System.Int32,System.Int32,System.String,System.Int32)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.addCollectCompAsync(System.Int32,System.Int32,System.String,System.Int32)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.addCollectCompAsync(System.Int32,System.Int32,System.String,System.Int32,System.Object)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.deleteCollectComp(System.Int32,System.Int32)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.deleteCollectCompAsync(System.Int32,System.Int32)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.deleteCollectCompAsync(System.Int32,System.Int32,System.Object)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getLocationByGuiGe(System.String,System.String)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getLocationByGuiGeAsync(System.String,System.String)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.getLocationByGuiGeAsync(System.String,System.String,System.Object)">
+            <remarks/>
+        </member>
+        <member name="M:Interop.Office.Core.my3dparts.MDTool.CancelAsync(System.Object)">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getLoginCompletedEventHandler">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getLoginCompletedEventArgs">
+            <remarks/>
+        </member>
+        <member name="P:Interop.Office.Core.my3dparts.getLoginCompletedEventArgs.Result">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getMD5PwdCompletedEventHandler">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getMD5PwdCompletedEventArgs">
+            <remarks/>
+        </member>
+        <member name="P:Interop.Office.Core.my3dparts.getMD5PwdCompletedEventArgs.Result">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getDESPwdCompletedEventHandler">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getDESPwdCompletedEventArgs">
+            <remarks/>
+        </member>
+        <member name="P:Interop.Office.Core.my3dparts.getDESPwdCompletedEventArgs.Result">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getLoginIDByMdtCompletedEventHandler">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getLoginIDByMdtCompletedEventArgs">
+            <remarks/>
+        </member>
+        <member name="P:Interop.Office.Core.my3dparts.getLoginIDByMdtCompletedEventArgs.Result">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getMdtByLoginIDCompletedEventHandler">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getMdtByLoginIDCompletedEventArgs">
+            <remarks/>
+        </member>
+        <member name="P:Interop.Office.Core.my3dparts.getMdtByLoginIDCompletedEventArgs.Result">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getLogOutCompletedEventHandler">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getLogOutCompletedEventArgs">
+            <remarks/>
+        </member>
+        <member name="P:Interop.Office.Core.my3dparts.getLogOutCompletedEventArgs.Result">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getCompanyMgrIDCompletedEventHandler">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getCompanyMgrIDCompletedEventArgs">
+            <remarks/>
+        </member>
+        <member name="P:Interop.Office.Core.my3dparts.getCompanyMgrIDCompletedEventArgs.Result">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getHasLoginedCompletedEventHandler">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getHasLoginedCompletedEventArgs">
+            <remarks/>
+        </member>
+        <member name="P:Interop.Office.Core.my3dparts.getHasLoginedCompletedEventArgs.Result">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getLoginIDCompletedEventHandler">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getLoginIDCompletedEventArgs">
+            <remarks/>
+        </member>
+        <member name="P:Interop.Office.Core.my3dparts.getLoginIDCompletedEventArgs.Result">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.addFriendCompletedEventHandler">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.addFriendCompletedEventArgs">
+            <remarks/>
+        </member>
+        <member name="P:Interop.Office.Core.my3dparts.addFriendCompletedEventArgs.Result">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getFriendListCompletedEventHandler">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getFriendListCompletedEventArgs">
+            <remarks/>
+        </member>
+        <member name="P:Interop.Office.Core.my3dparts.getFriendListCompletedEventArgs.Result">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getCollectedCompanyListCompletedEventHandler">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getCollectedCompanyListCompletedEventArgs">
+            <remarks/>
+        </member>
+        <member name="P:Interop.Office.Core.my3dparts.getCollectedCompanyListCompletedEventArgs.Result">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.addCollectCompCompletedEventHandler">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.addCollectCompCompletedEventArgs">
+            <remarks/>
+        </member>
+        <member name="P:Interop.Office.Core.my3dparts.addCollectCompCompletedEventArgs.Result">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.deleteCollectCompCompletedEventHandler">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.deleteCollectCompCompletedEventArgs">
+            <remarks/>
+        </member>
+        <member name="P:Interop.Office.Core.my3dparts.deleteCollectCompCompletedEventArgs.Result">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getLocationByGuiGeCompletedEventHandler">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.my3dparts.getLocationByGuiGeCompletedEventArgs">
+            <remarks/>
+        </member>
+        <member name="P:Interop.Office.Core.my3dparts.getLocationByGuiGeCompletedEventArgs.Result">
+            <remarks/>
+        </member>
+        <member name="T:Interop.Office.Core.Properties.Resources">
+            <summary>
+              一个强类型的资源类，用于查找本地化的字符串等。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.ResourceManager">
+            <summary>
+              返回此类使用的缓存的 ResourceManager 实例。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Culture">
+            <summary>
+              重写当前线程的 CurrentUICulture 属性，对
+              使用此强类型资源类的所有资源查找执行重写。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources._02">
+            <summary>
+              查找类似于 (图标) 的 System.Drawing.Icon 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.A012">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.A013">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.A04">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.A05">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.add">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.app">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.asmbly2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.backup_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.banjinxialiao">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.banjinxialiao1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Bend">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.bg">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.BoltCheck">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Calcurate">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.caolun">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.chain1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.chain2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.CharDot">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.CharMore">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.chongmu">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Computer">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Copy">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Cursor0">
+            <summary>
+              查找 System.Byte[] 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Cursor1">
+            <summary>
+              查找 System.Byte[] 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Cursor2">
+            <summary>
+              查找 System.Byte[] 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Cursor3">
+            <summary>
+              查找 System.Byte[] 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Cursor4">
+            <summary>
+              查找 System.Byte[] 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Cursor5">
+            <summary>
+              查找 System.Byte[] 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Cursor6">
+            <summary>
+              查找 System.Byte[] 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Cursor7">
+            <summary>
+              查找 System.Byte[] 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Cursor8">
+            <summary>
+              查找 System.Byte[] 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.database_form_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.database_table_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.delete">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.delete2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.diankg3">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.dianKongGui">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Dimension">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.down_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.editmenu">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Excel">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Favorite">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.file">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.file_add">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.flance2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.folder_edit">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.folder_open">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.fx">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.g2_3">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.gangjiegou">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.gear1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.gear2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.gear4">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.guanjian">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.help_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.HuaDong">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.ie">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Info">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Information">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Key">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.LAN">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.left">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.loading">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Lock">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.lock_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.LSF">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.md16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.mdico">
+            <summary>
+              查找类似于 (图标) 的 System.Drawing.Icon 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.mdpkgs">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.MDSolid">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.NoteAdd">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.ok_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.PartNumber">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Paste">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.PDFfile">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.pen_im">
+            <summary>
+              查找 System.Byte[] 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.PEN04">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.pipe">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.PlayerStop">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Printer">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.property">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.redo1_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.refresh">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.refresh_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.registration1_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.restore_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.reverse_direction">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.right_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.save_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.search">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Search_Add">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Search_Del">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Search2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.settings">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.settings2_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.sigang">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.sketch">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.sldcancel">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.slddrw">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.sldhole">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.sldok">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.sldPart">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.sldStalk">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.sort">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Standed">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.symbol">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.text">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.tooltip">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.tree">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Tulun">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.undo1_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.up_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.up_16x161">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.update">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.user3_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.Video_32px">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.WebDownload">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.xingwei2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Resources.zuhejj">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Settings.MDEXE_UseXuanGua">
+            <summary>
+            是否点击图标显示工具条
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Settings.frmAll_bDelFormula">
+            <summary>
+            生成标准件后删除方程式（全局设置）
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Settings.fntWeb_mdpgksfilter">
+            <summary>
+            打开模型包默认选择的扩展名
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Properties.Settings.MDExe_Times">
+            <summary>
+            记录每个功能的使用次数
+            </summary>
+        </member>
+        <member name="T:DbClient">
+            <summary>
+            Database.OperateDB 的摘要说明。
+            </summary>
+        </member>
+        <member name="P:DbClient.Connstr">
+            <summary>
+            接口
+            </summary>
+        </member>
+        <member name="M:DbClient.FirstValue(System.String)">
+            <summary>
+            得到第一行第一列的值,返回String结果
+            </summary>
+        </member>
+        <member name="M:DbClient.Excute(System.String)">
+            <summary>
+             执行Sql命令,返回受影响的行数
+            </summary>
+        </member>
+        <member name="M:DbClient.Excute(System.String[])">
+            <summary>
+            执行多个SQL语句,,成功返回“”，出错返回ErrorServer:
+            </summary>
+        </member>
+        <member name="M:DbClient.DBTable(System.String)">
+            <summary>
+            执行Sql命令,返回一个数据表
+            </summary>
+        </member>
+        <member name="M:DbClient.GetAllTableNames">
+            <summary>
+             得到一个数据库中的所有表名称
+            </summary>
+        </member>
+        <member name="M:DbClient.CreateTable(System.Data.DataTable,System.String)">
+            <summary>
+            把一个DataTable写入到数据库中(新建),返回插入行数，并添加新的标识列【ID20】因为ID列有可能和其它表关联，这个ID20是一个无关联的自动编号列，如果原先有ID20这一列，会删去这一列。
+            </summary>
+        </member>
+        <member name="M:DbClient.checkSql(System.String)">
+            <summary>
+            把Access的习惯改成Sql
+            </summary>
+        </member>
+        <member name="M:DbClient.ReadFile(System.String,System.String)">
+            <summary>
+            根据查询语句从数据库中读取一个文件，并保存到指定的目录下,返回是否成功
+            </summary>
+        </member>
+        <member name="M:DbClient.WriteFile(System.String,System.String,System.String,System.Boolean)">
+            <summary>
+            把一个文件存入数据库，（文件路径，sql语句，文件参数名@file ,要加密吗 ),返回受影响的行数
+            </summary>
+        </member>
+        <member name="M:DbClient.ReadFileToImage(System.String)">
+            <summary>
+            根据查询语句从数据库中读取一个文件流，并返回一张图片,出错返回null
+            </summary>
+        </member>
+        <member name="M:DbClient.ReadFileToImageArr(System.String)">
+            <summary>
+            根据查询语句从数据库中读取多个文件流，并返回一个图片数组,出错返回null
+            </summary>
+        </member>
+        <member name="M:DbClient.ReadFileToString(System.String)">
+            <summary>
+            根据查询语句从数据库中读取一个文件流，并返回String
+            </summary>
+        </member>
+        <member name="M:DbClient.ReadFileToString(System.String,System.Text.Encoding)">
+            <summary>
+            根据查询语句从数据库中读取一个文件流，并返回String
+            </summary>
+        </member>
+        <member name="M:DbClient.ReadFileToByte(System.String)">
+            <summary>
+            根据查询语句从数据库中读取一个文件流，并返回byte[],出错返回null
+            </summary>
+        </member>
+        <member name="M:DbClient.ReduceByteArr(System.Byte[])">
+            <summary>
+            文件的解密
+            </summary>
+        </member>
+        <member name="M:IMGOperate.ReadImageFromFile(System.String,System.Drawing.ImageConverter)">
+            <summary>
+            读取一个图片文件，并返回IMG，释放文件句柄,文件不存在时返回null,第二个参数可以为null
+            </summary>
+        </member>
+        <member name="M:IMGOperate.CaptureImage(System.String,System.String,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            截取图片的一部分生成新图片
+            </summary>
+            <param name="sFromFilePath">原始图片</param>
+            <param name="saveFilePath">生成新图</param>
+            <param name="width">截取图片宽度</param>
+            <param name="height">截取图片高度</param>
+            <param name="spaceX">截图图片X坐标</param>
+            <param name="spaceY">截取图片Y坐标</param>
+        </member>
+        <member name="M:IMGOperate.CaptureImage(System.String,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            截取图片的一部分生成新图片，并返回
+            </summary>
+            <param name="sFromFilePath">原始图片</param>
+            <param name="width">截取图片宽度</param>
+            <param name="height">截取图片高度</param>
+            <param name="spaceX">截图图片X坐标</param>
+            <param name="spaceY">截取图片Y坐标</param>
+        </member>
+        <member name="M:IMGOperate.CaptureImage(System.Drawing.Image,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            截取图片的一部分生成新图片，并返回
+            </summary>
+            <param name="sFromFilePath">原始图片</param>
+            <param name="width">截取图片宽度</param>
+            <param name="height">截取图片高度</param>
+            <param name="spaceX">截图图片X坐标</param>
+            <param name="spaceY">截取图片Y坐标</param>
+        </member>
+        <member name="M:IMGOperate.SmallPic(System.String,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            缩放图片--在原图上缩放
+            </summary>
+            <param name="strOldPic">源图文件名(包括路径)</param>
+            <param name="strNewPic">缩放后保存为文件名(包括路径)</param>
+            <param name="intWidth">缩放至宽度</param>
+            <param name="intHeight">缩放至高度</param>
+            <param name="intHeight">如果是.jpg或.jpeg时的品质，默认为100</param>
+        </member>
+        <member name="M:IMGOperate.SmallPic(System.String,System.String,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            缩放图片
+            </summary>
+            <param name="strOldPic">源图文件名(包括路径)</param>
+            <param name="strNewPic">缩放后保存为文件名(包括路径)</param>
+            <param name="intWidth">缩放至宽度</param>
+            <param name="intHeight">缩放至高度</param>
+            <param name="intHeight">如果是.jpg或.jpeg时的品质，默认为100</param>
+        </member>
+        <member name="M:IMGOperate.KiSaveAsJPEG(System.Drawing.Image,System.String,System.Int32)">
+            <summary>
+            保存为JPEG格式，支持压缩质量选项
+            </summary>
+        </member>
+        <member name="M:IMGOperate.KiSaveAsJPEG(System.Drawing.Bitmap,System.String,System.Int32)">
+            <summary>
+            保存为JPEG格式，支持压缩质量选项
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:IMGOperate.GetCodecInfo(System.String)" -->
+        <member name="M:IMGOperate.MakeWaterMark(System.String,System.Int32,System.Int32)">
+            <summary>
+            生成带版权水印的图片
+            </summary>
+            <param name="IconImg">要生成水印图片的文件地址</param>
+        </member>
+        <member name="M:IMGOperate.CreateAAAPicture_jpg(System.String,System.Boolean)">
+            <summary>
+            在配件库AAA目录下面生成一张Picture.jpg，这个图片是由他下面的图片组合而成的。
+            </summary>
+        </member>
+        <member name="M:MDTV.TVS.GetNodeByFullPath(System.String,System.Windows.Forms.TreeNodeCollection)">
+            <summary>
+            遍历查找一个树节点
+            </summary>
+        </member>
+        <member name="M:MDTV.TVS.GetNodeByFullPath(System.String,System.Windows.Forms.TreeView)">
+            <summary>
+            根据全路径（key）得到树节点(效率高，没有返回空）(注意树节点都是小写）
+            </summary>
+        </member>
+        <member name="M:MDTV.TVS.GetFileAndFolderNames(System.String,System.Windows.Forms.TreeView)">
+            <summary>
+            得到一个树节点的所有子节点数组（还有子节点的以“：”结尾），若这个树节点没有子节点返回null
+            </summary>
+        </member>
+        <member name="T:MDTV.TVS.TND">
+            <summary>
+            TreeViewData
+            </summary>
+        </member>
+        <member name="T:MDTV.TVS.TVD">
+            <summary>
+            TreeViewData
+            </summary>
+        </member>
+        <member name="T:SerializeInfo">
+            <summary>
+            类型转换类
+            </summary>
+        </member>
+        <member name="M:SerializeInfo.Serialize(System.Object)">
+            <summary>
+            序列化object对象//无法序列SqlParameter[]
+            </summary>
+            <param name="ds">object类型的参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:SerializeInfo.deSerialize(System.Byte[])">
+            <summary>
+            反序列化为object
+            </summary>
+            <param name="binaryData">byte[]参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:SerializeInfo.ArrayListToArr(System.Collections.ArrayList)">
+            <summary>
+            把ArrayList类型的参数转换成string[]
+            </summary>
+        </member>
+        <member name="M:SerializeInfo.ArrayListToObj(System.Collections.ArrayList)">
+            <summary>
+            把ArrayList类型的参数转换成string[]
+            </summary>
+        </member>
+        <member name="M:SerializeInfo.ChangeType(System.Type)">
+            <summary>
+            类型转换,返回"varchar (100)","int",等等字符串
+            </summary>
+        </member>
+        <member name="M:SerializeInfo.ToType(System.Type,System.String)">
+            <summary>
+            将字符串转换成指定类型的Object数据
+            </summary>
+            <param name="type"></param>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="F:ShowMyDialogOK.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:ShowMyDialogOK.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:ShowMyDialogOK.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="M:TransAccess.#ctor(System.String,System.Int32)">
+            <summary>
+            ErrorClient:客户端错误提示
+            ErrorServer:服务器端错误提示
+            </summary>
+        </member>
+        <member name="M:TransAccess.TCPString(System.String)">
+            <summary>
+            去String命令，返回string处理结果，没有具体缓存长度 (如果出错，以 ErrorServer：ErrorClient:  开头)
+            </summary>
+        </member>
+        <member name="M:TransAccess.TCPDataTable(System.String,System.String@)">
+            <summary>
+            读取一个数据表,出错返回ErrorClient：或ErrorServer：
+            </summary>
+        </member>
+        <member name="M:TransAccess.TCPUpTable(System.String,System.Byte[])">
+            <summary>
+            插入一个表，返回插入的行数，出错返回ErrorClient：或ErrorServer：
+            </summary>
+        </member>
+        <member name="M:Transport.#ctor">
+            <summary>
+            从配置文件中读取IP 和 端口
+            </summary>
+        </member>
+        <member name="M:Transport.TCPString(System.String)">
+            <summary>
+            去String命令，返回string处理结果 (如果出错，以 ErrorServer：ErrorClient:  开头)
+            这些命令都是以2开头的：
+            2ConnStr:all
+            </summary>
+        </member>
+        <member name="M:Transport.TCPDownFile(System.String,System.String)">
+            <summary>
+            从服务器下载文件,成功了返回空“”，否则返回错误原因 "路径中不能有: 如:C:\\要改成:C.\\"
+            FilePath默认是【根目录】下面的目录开始的，如“MD3DParts\\文件说明.txt”
+            </summary>
+        </member>
+        <member name="M:Transport.TCPUpFile(System.String,System.String)">
+            <summary>
+            上传文件到服务器，成功了返回空“”，否则返回错误原因
+            </summary>
+        </member>
+        <member name="P:Transport.CanLinkServer">
+            <summary>
+            是否可以联通到服务器,成功返回“”,失败返回错误原因
+            </summary>
+        </member>
+        <member name="M:Transport.CreateFolder(System.String)">
+            <summary>
+            创建目录,,目录前没有\\,目录已经存在也OK
+            </summary>
+        </member>
+        <member name="M:Transport.FolderExists(System.String)">
+            <summary>
+            检查服务器上的某个文件夹是否存在,（还需要完善，通信不成功按文件不存在处理）
+            </summary>
+        </member>
+        <member name="M:Transport.FileExists(System.String)">
+            <summary>
+            检查服务器上的某个文件是否存在
+            </summary>
+        </member>
+        <member name="M:Transport.FileInfo(System.String)">
+            <summary>
+            检查服务器上的某个文件的信息 fi.LastWriteTime + "♂" + fi.Length + "♂"; 如果没有文件返回"Error:none" ,出错返回"Error:+e.message",客户端出错：ErrorClient:
+            </summary>
+        </member>
+        <member name="M:Transport.DeleteFileAndFolder(System.String)">
+            <summary>
+            删除文件夹//和里面的文件//或删除文件//参数是服务器路径，如果是服务器全路径，以C.//开头
+            </summary>
+        </member>
+        <member name="M:Transport.RenameFileOrFolder(System.String,System.String)">
+            <summary>
+            重命名服务器上的文件(或文件夹)成功返回"OK"否则返回错误信息
+            </summary>
+        </member>
+        <member name="M:Transport.ReadFileAndFolderName(System.String)">
+            <summary>
+            读取一个目录下的文件,文件夹名称,要是目录以:结尾
+            </summary>
+        </member>
+        <member name="M:Transport.GetExeIconFromServer(System.String,System.Boolean)">
+            <summary>
+            根据Exe文件的名称,从服务器读取这个文件的图标,失败返回null;
+            </summary>
+        </member>
+        <member name="M:Transport.saveFolderToServer2(System.String,System.String,System.Int32@)">
+            <summary>
+            保存文件夹到服务器(如：C:\\ab\\cc, MD3Dtools\\ab\\dd,将[cc]里的所有文件复制到[dd]中),成功返回“”，否则返回错误提示
+            </summary>
+        </member>
+        <member name="M:Transport.saveFolderToServer(System.String,System.String,System.Int32@)">
+            <summary>
+            保存文件夹到服务器(如：C:\\ab\\cc, MD3Dtools\\dd, 将[cc]复制到[dd]中),成功返回“”，否则返回错误提示
+            </summary>
+        </member>
+        <member name="M:Transport.CheckAndDownFile(System.String)">
+            <summary>
+            检查一个文件是否需要更新，如果需要就更新,更新成功“”，更新失败返回错误提示，不需要更新返回noneed
+            </summary>
+        </member>
+        <member name="M:Transport.CheckAndUPFile(System.String)">
+            <summary>
+            检查一个文件是否比服务器上的新，如果新就上传,更新成功“”，更新失败返回错误提示，不需要更新返回noneed
+            </summary>
+        </member>
+        <member name="M:Transport.ReadFileFromServer(System.String,System.Int32)">
+            <summary>
+            文件浏览器使用,浏览指定用户ID的项目,从服务器读取一个文件,保存到"TempFile"目录下
+            </summary>
+        </member>
+        <member name="M:Transport.ReadFolderFromServer(System.String,System.String,System.Int32)">
+            <summary>
+            从服务器读取一个文件夹下的所有文件，保存到制定的目录下
+            </summary>
+        </member>
+        <member name="F:Transport.bHasGetServerIP">
+            <summary>
+            是否已经查到服务器
+            </summary>
+        </member>
+        <member name="F:Transport.iActiveThreadCount">
+            <summary>
+            当前有多少个线程正在运行
+            </summary>
+        </member>
+        <member name="M:Transport.GetServerIPByScreen">
+            <summary>
+            扫描整个网络，检测哪台电脑的3548端口开放，若开放就返回此服务器的IP地址,否侧返回""
+            </summary>
+        </member>
+        <member name="F:MDClient.SelIPAddress.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:MDClient.SelIPAddress.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:MDClient.SelIPAddress.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="M:DGVRowInfo.setInfoByRow(System.Data.DataRow)">
+            <summary>
+            根据一行更新这个属性的信息
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.ReWriteAtt">
+            <summary>
+            如果企业配件已有属性，是否重写, 默认否不起作用，如果指定True，不管全局设置怎样怎样都会重写进去
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.AttName">
+             <summary>
+            【属性】，如“名称”
+             </summary>
+        </member>
+        <member name="F:DGVRowInfo.AttUserName">
+            <summary>
+            客户定义的属性名称,默认和属性名称相同
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.AttValue">
+            <summary>
+            【数值】，不是默认值，
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.DefValue">
+            <summary>
+            默认值，不是实际的数值
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.SWAtt">
+            <summary>
+            SW默认值，如SW-mass
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.strZD">
+            <summary>
+            【字段】，如“D2”，“#6”，以#开头的是要从_Updata表中查找[表格]的值,对应的[属性值]的列名的值, (如#3:找_Updata中[表格]=3的行的[属性值],得到"H", 然后从长度表或 样式表中查找"H"列的值
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.strBG">
+            <summary>
+            【表格】，就相当于这一行的Id ，生成零件时在[_Updata]中的尺寸，如果表格＝0，从数据库中查找，如果表格>0从DGV中读取
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.GroupName">
+            <summary>
+            组名称,全局的用All,再下一级用All_Bear，树节点级随便
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.strJB">
+            <summary>
+            DGV：生成DataGridView时的属性如企业列表, TreeNode树节点的属性 , Style: 下拉列表中每一项的属性,Last:最底层的,不管什么变化,它总是要跟着更新,Input：手工输入的属性，除非重新输入，否则不会改变
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.strLB">
+            <summary>
+            是否有下拉列表,(关联列名#默认值#默认选项#更新属性列表,,,,) 和【字段】联合使用 如：（d##5#名称,单重,螺纹长度）
+            (以$开头的,表示要读取property表中的用户定义数据，是【字段】指定的数据)如：（【字段】＝客户公司名称 【列表】＝$##0#)
+            (以@开头的，表示在style对应的行中，有用逗号分割的值做下拉列表，始于夹具标准件）如：@#1##规格，读取style行的【@@List1】的单元格生成下拉列表
+            (以↑开头的，列表的内容来自当前树节点行中的一个单元格中的内容，列表项用,隔开，如材料，强度等级）
+            </summary>
+        </member>
+        <member name="P:DGVRowInfo.arrLB">
+            <summary>
+            用#分割的列表字符数组，d##5#名称,单重 $##0# @@List1
+            </summary>
+        </member>
+        <member name="P:DGVRowInfo.bLBisPPTData">
+            <summary>
+            列表是不是从用户数据库中读取的下拉列表,以"$"开头就是
+            </summary>
+        </member>
+        <member name="P:DGVRowInfo.bLBisTreeNode">
+            <summary>
+            列表的内容来自当前树节点行中的一个单元格中的内容，列表项用,隔开，如材料，强度等级
+            </summary>
+        </member>
+        <member name="P:DGVRowInfo.bLBisStyle">
+            <summary>
+            列表的内容来自当前Style行中的一个单元格中的内容，列表项用,隔开
+            </summary>
+        </member>
+        <member name="P:DGVRowInfo.arLBUpdatePPts">
+            <summary>
+            如果有列表，列表选项改变后要更新的属性，没有返回null
+            </summary>
+        </member>
+        <member name="P:DGVRowInfo.DefLBVal">
+            <summary>
+            列表信息里的默认值,没有返回“”
+            </summary>
+        </member>
+        <member name="P:DGVRowInfo.DefLBIndex">
+            <summary>
+            列表信息里的默认选项,没有返回-1
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.LinkName">
+            <summary>
+            全局的,名称后面的连接符,S表示空格,null表示不需要后面的规格信息
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.LinkStand">
+            <summary>
+             全局的,标准后面的连接符,S表示空格,null表示不需要后面的规格信息
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.LinkStyle">
+            <summary>
+            全局的,规格后面的连接符,S表示空格,null表示不需要后面的规格信息
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.InName">
+            <summary>
+            是否是名称的组成部分，如“×”,也有可能是" "
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.InStand">
+            <summary>
+            是否是标准的组成部分，如“×”,也有可能是" "
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.InStyle">
+            <summary>
+            是否是规格的组成部分，如“×”,也有可能是" "
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.InPPt">
+            <summary>
+            是否写入到文件的属性中
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.InPPtGeneral">
+            <summary>
+            是否将属性写入到自定义中，默认是配置特定
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.bHidden">
+            <summary>
+            是否隐藏，默认不隐藏，列值为1时隐藏
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.BMCodeCol">
+            <summary>
+            在物料代码对照表中的名称
+            </summary>
+        </member>
+        <member name="F:DGVRowInfo.TempData1">
+            <summary>
+            存储临时值
+            </summary>
+        </member>
+    </members>
+</doc>

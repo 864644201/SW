@@ -1,0 +1,709 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, ExtCtrls, StdCtrls, ComCtrls, DataUnit,DB, Buttons;
+
+type
+  TForm1 = class(TForm)
+    Label1: TLabel;
+    Edit1: TEdit;
+    GroupBox1: TGroupBox;
+    GroupBox2: TGroupBox;
+    RadioButton1: TRadioButton;
+    RadioButton2: TRadioButton;
+    GroupBox3: TGroupBox;
+    GroupBox4: TGroupBox;
+    Label2: TLabel;
+    Label3: TLabel;
+    Label4: TLabel;
+    Label5: TLabel;
+    Label9: TLabel;
+    Label6: TLabel;
+    Label7: TLabel;
+    Label8: TLabel;
+    StatusBar1: TStatusBar;
+    Label10: TLabel;
+    Label11: TLabel;
+    Label12: TLabel;
+    Label13: TLabel;
+    RadioButton3: TRadioButton;
+    RadioButton4: TRadioButton;
+    RadioButton5: TRadioButton;
+    ComboBox1: TComboBox;
+    ComboBox2: TComboBox;
+    ComboBox3: TComboBox;
+    ComboBox4: TComboBox;
+    Label14: TLabel;
+    BitBtn1: TBitBtn;
+    procedure Edit1Change(Sender: TObject);
+    procedure RadioButton1Click(Sender: TObject);
+    procedure RadioButton2Click(Sender: TObject);
+    procedure FormCreate(Sender: TObject);
+    procedure BitBtn1Click(Sender: TObject);
+    procedure ComboBox1Change(Sender: TObject);
+    procedure ComboBox3Change(Sender: TObject);
+    procedure ComboBox2Change(Sender: TObject);
+    procedure ComboBox4Change(Sender: TObject);
+
+    
+  private
+    { Private declarations }
+  public
+    BasicSize: Single;
+    BasicSize1: Single;
+    BasicSize2: Single;
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.Edit1Change(Sender: TObject);
+begin
+  if (Edit1.Text >='a') and (Edit1.Text <='z') or
+     (Edit1.Text >='A') and (Edit1.Text <='Z') then
+  begin
+    BasicSize :=0;
+    MessageBox (
+    HWND (0),
+    LPCTSTR ('本查询只限于0到3150之间的基本尺寸'),	// address of text in message box
+    LPCTSTR ('提示'),	// address of title of message box
+    UINT (MB_OK)
+    );
+    Edit1.Text :='20';
+    Edit1.SetFocus;
+    Edit1.SelectAll;
+  end
+
+  else if (Edit1.Text = '') or (StrToFloat(Edit1.Text)<0) or (StrToFloat(Edit1.Text)>3150) then
+  begin
+  BasicSize :=0;
+  MessageBox (
+    HWND (0),
+    LPCTSTR ('本查询只限于0到3150之间的基本尺寸'),	// address of text in message box
+    LPCTSTR ('提示'),	// address of title of message box
+    UINT (MB_OK)
+    );
+    Edit1.SetFocus;
+    Edit1.SelectAll;
+    Label2.Caption :='';
+    Label3.Caption :='';
+    Label4.Caption :='';
+    Label5.Caption :='';
+    Label6.Caption :='';
+    Label7.Caption :='';
+    Label8.Caption :='';
+    RadioButton1.Checked :=False;
+    RadioButton2.Checked :=False;
+    RadioButton3.Checked :=False;
+  end;
+end;
+
+procedure TForm1.RadioButton1Click(Sender: TObject);
+begin
+  if RadioButton1.Checked then
+  begin
+    if (Edit1.Text ='') or (Edit1.Text =FloatToStr(0)) then
+    begin
+      MessageBox (
+      HWND (0),
+      LPCTSTR ('请输入0到3150之间的整数作为基本尺寸'),
+      LPCTSTR ('提示'),
+      UINT (MB_OK)
+      );
+      Edit1.Text := FloatToStr(0);
+      Edit1.SetFocus;
+      Edit1.SelectAll;
+      Label2.Caption :='';
+      Label3.Caption :='';
+      Label4.Caption :='';
+      Label5.Caption :='';
+      Label6.Caption :='';
+      Label7.Caption :='';
+      Label8.Caption :='';
+      RadioButton1.Checked :=False;
+      RadioButton2.Checked :=False;
+    end
+    else
+    begin
+      ComboBox1.Text :='H';
+      ComboBox2.SetFocus;
+      ComboBox3.Text :='';
+      RadioButton3.Checked :=False;
+      RadioButton4.Checked :=False;
+      RadioButton5.Checked :=False;
+      Label3.Caption :='';
+      Label4.Caption :='';
+      Label5.Caption :='';
+      Label6.Caption :='';
+      Label7.Caption :='';
+      Label8.Caption :='';
+    end;
+  end;
+end;
+
+procedure TForm1.RadioButton2Click(Sender: TObject);
+begin
+  if RadioButton2.Checked then
+  begin
+    ComboBox3.Text :='h';
+    ComboBox1.Text :='';
+    ComboBox1.SetFocus;
+    RadioButton3.Checked :=False;
+    RadioButton4.Checked :=False;
+    RadioButton5.Checked :=False;
+    Label3.Caption :='';
+    Label4.Caption :='';
+    Label5.Caption :='';
+    Label6.Caption :='';
+    Label7.Caption :='';
+    Label8.Caption :='';
+  end;
+end;
+
+procedure TForm1.FormCreate(Sender: TObject);
+begin
+  Edit1.TabOrder :=0;
+  RadioButton1.TabOrder :=1;
+  ComboBox1.TabOrder :=2;
+  ComboBox2.TabOrder :=3;
+  ComboBox3.TabOrder :=4;
+  ComboBox4.TabOrder :=5;
+end;
+
+procedure TForm1.BitBtn1Click(Sender: TObject);
+var
+KongGCD:String;       //孔公差带
+KongGCDJ:Integer;     //孔公差等级
+ZhouGCD:String;       //轴公差带
+ZhouGCDJ:Integer;     //轴公差等级
+
+ESK:Double;           //孔上偏差
+EIK:Double;           //孔下偏差
+esz:Double;           //轴上偏差
+eiz:Double;           //轴下偏差
+
+GCDJ:String;          //公差等级
+ITN:Double;           //标准公差数值
+JianXiMin:Double;     //最小间隙
+
+  //定义一个函数，以确定公差等级GCDJ，并返回其值
+  function ConfirmGCDJ(a :Single) :String;
+  begin
+    GCDJ :='IT'+FloatToStr(a);
+  end;
+
+  //定义一个函数，以确定标准公差数值ITN，并返回其值
+  function ConfirmITN(b :String) :Double;
+  begin
+    //确定Tabel1中的BasicSize的值，赋给BasicSize1，用于查询ITN
+    Data.ADOTable1.First;
+    while not Data.ADOTable1.Eof do
+    begin
+      if  BasicSize <=Data.ADOTable1.FieldByName('基本尺寸').AsFloat then
+      begin
+        //Data.ADOTable1.Prior;
+        BasicSize1 := Data.ADOTable1.FieldByName('基本尺寸').AsFloat;
+        Break;
+      end;
+      Data.ADOTable1.Next;
+    end;
+
+    //根据选出的BasicSize的值查出标准公差数值ITN
+    Data.ADOTable1.First;
+    if Data.ADOTable1.Locate('基本尺寸',BasicSize1,[loPartialKey]) then
+      begin
+        ITN := Data.ADOTable1.FieldByName(b).AsFloat/1000;
+      end;
+  end;
+
+  //定义一个过程，用来确定Label4和Label5中数值的符号
+  procedure ConfirmPlusSign(a :Double; b :Double);
+  begin
+  if (Edit1.Text = '') or (StrToFloat(Edit1.Text)<=0) or (StrToFloat(Edit1.Text)>3150) then
+    begin
+    Label4.Caption :='';
+    Label5.Caption :='';
+    end
+  else
+    begin
+    if a>0 then
+      Label4.Caption:='+'+FloatToStr(a)
+    else
+      Label4.Caption:=FloatToStr(a);
+    if b>0 then
+      Label5.Caption:='+'+FloatToStr(b)
+    else
+      Label5.Caption:=FloatToStr(b);
+    end;
+  end;
+
+  //定义一个过程，用来确定Label7和Label8中数值的符号
+  procedure ConfirmPlusSign2(a :Double; b :Double);
+  begin
+  if (Edit1.Text = '') or (StrToFloat(Edit1.Text)<=0) or (StrToFloat(Edit1.Text)>3150) then
+    begin
+    Label7.Caption :='';
+    Label8.Caption :='';
+    end
+  else
+    begin
+    if a>0 then
+      Label7.Caption :='+'+FloatToStr(a)
+    else
+      Label7.Caption :=FloatToStr(a);
+    if b>0 then
+      Label8.Caption :='+'+FloatToStr(b)
+    else
+      Label8.Caption :=FloatToStr(b);
+    end;
+  end;
+
+  //由输入的BasicSize的值确定在Tabel2和Tabel3中的BasicSize的数值
+  function ConfirmBasicSize2(a :Single) :Integer;
+  begin
+    Data.ADOTable2.First;
+    while not Data.ADOTable1.Eof do
+    begin
+      if BasicSize <= Data.ADOTable2.FieldByName('基本尺寸').AsFloat then
+      begin
+        //Data.ADOTable2.prior;
+        BasicSize2 := Data.ADOTable2.FieldByName('基本尺寸').AsFloat;
+        Break;
+      end;
+      Data.ADOTable2.Next;
+    end;
+  end;
+
+  //定义一个查询过程SearchRule1,适用于孔的第一条通用规则
+  procedure SearchRule1(a :string);
+  begin
+    ConfirmGCDJ(KongGCDJ);
+    ConfirmITN(GCDJ);
+    ConfirmBasicSize2(BasicSize);
+    Data.ADOTable2.First;
+    if Data.ADOTable2.Locate('基本尺寸',BasicSize2,[loPartialKey]) then
+      begin
+        EIK := Data.ADOTable2.FieldByName(a).AsFloat/1000;
+      end;
+    ESK:=EIK+ITN;
+    ConfirmPlusSign(ESK,EIK);
+  end;
+
+  //定义一个查询过程SearchRule2,适用于孔的第二条通用规则
+  procedure SearchRule2(a :string);
+  begin
+    ConfirmGCDJ(KongGCDJ);
+    ConfirmITN(GCDJ);
+    ConfirmBasicSize2(BasicSize);
+    Data.ADOTable2.First;
+    if Data.ADOTable2.Locate('基本尺寸',BasicSize2,[loPartialKey]) then
+      begin
+        ESK := Data.ADOTable2.FieldByName(a).AsFloat/1000;
+      end;
+    EIK:=ESK-ITN;
+    ConfirmPlusSign(ESK,EIK);
+  end;
+
+  //定义一个查询过程SearchRule3,适用于公差等级为a~h的轴的偏差计算
+  procedure SearchRule3(a :string);
+  begin
+      ConfirmGCDJ(ZhouGCDJ);
+      ConfirmITN(GCDJ);
+      ConfirmBasicSize2(BasicSize);
+      Data.ADOTable3.First;
+      if Data.ADOTable3.Locate('基本尺寸',BasicSize2,[loPartialKey]) then
+        begin
+          esz := Data.ADOTable3.FieldByName(a).AsFloat/1000;
+        end;
+      eiz :=esz-ITN;
+      ConfirmPlusSign2(esz,eiz);
+  end;
+
+  //定义一个查询过程SearchRule4,适用于公差等级为j~z的轴的偏差计算
+  procedure SearchRule4(a :string);
+  begin
+      ConfirmGCDJ(ZhouGCDJ);
+      ConfirmITN(GCDJ);
+      ConfirmBasicSize2(BasicSize);
+      Data.ADOTable3.First;
+      if Data.ADOTable3.Locate('基本尺寸',BasicSize2,[loPartialKey]) then
+        begin
+          eiz := Data.ADOTable3.FieldByName(a).AsFloat/1000;
+        end;
+      esz :=eiz+ITN;
+      ConfirmPlusSign2(esz,eiz);
+  end; 
+
+  //定义一个确定各个CheckBox是否被选中的过程
+  procedure ConfirmCheck(a :Double);
+  begin
+    if  a>=0 then
+      begin
+        RadioButton3.Checked :=true;
+        RadioButton4.Checked :=false;
+        RadioButton5.Checked :=false;
+      end
+    else
+      begin
+        RadioButton5.Checked :=true;
+        RadioButton3.Checked :=false;
+        RadioButton4.Checked :=false;
+      end;
+  end;
+
+begin
+  if (Edit1.Text = '') or (StrToFloat(Edit1.Text)<=0) or (StrToFloat(Edit1.Text)>3150) then
+  begin
+    BasicSize :=0;
+    MessageBox (
+      HWND (0),
+      LPCTSTR ('本查询只限于0到3150之间的基本尺寸'),	// address of text in message box
+      LPCTSTR ('提示'),	// address of title of message box
+      UINT (MB_OK)
+      );
+    Edit1.SetFocus;
+    Edit1.SelectAll;
+    Label2.Caption :='';
+  end
+  
+  else if (StrToFloat(Edit1.Text)>0) and (StrToFloat(Edit1.Text)<3150) then
+  begin
+  BasicSize := StrToFloat(Edit1.Text);
+  Label2.Caption :=Edit1.Text;
+  end
+
+  else if (RadioButton1.Checked=False)  and (RadioButton2.Checked=False) then
+    MessageBox (
+      HWND (0),
+      LPCTSTR ('请选择基准制'),
+      LPCTSTR ('提示'),
+      UINT (MB_OK)
+    )
+
+  else if (ComboBox1.Text='') then
+  begin
+    MessageBox (
+      HWND (0),
+      LPCTSTR ('请输入孔公差带'),
+      LPCTSTR ('提示'),
+      UINT (MB_OK)
+    );
+    ComboBox1.SetFocus;
+  end
+
+  else if (ComboBox3.Text='') then
+  begin
+    MessageBox (
+      HWND (0),
+      LPCTSTR ('请输入轴公差带'),
+      LPCTSTR ('提示'),
+      UINT (MB_OK)
+    );
+    ComboBox3.SetFocus;
+  end;
+
+  Label3.Caption:=ComboBox1.Text+ComboBox2.Text;  //Label3显示上偏差的公差带和公差等级
+  Label6.Caption:=ComboBox3.Text+ComboBox4.Text;  //Label6显示下偏差的公差带和公差等级
+  KongGCD:=ComboBox1.Text;
+  KongGCDJ:=StrtoInt(ComboBox2.Text);
+  ZhouGCD:=ComboBox3.Text;
+  ZhouGCDJ:=StrtoInt(ComboBox4.Text);
+
+//孔的极限偏差的计算
+  //通用规则中的第一种情况
+  if (KongGCD>='A') and (KongGCD<='H') then    //孔公差带在A到H之间的情况
+    SearchRule1(KongGCD)
+
+  else if (KongGCD='Js') then                  //孔公差带为Js的情况
+  begin
+    ConfirmGCDJ(KongGCDJ);
+    ConfirmITN(GCDJ);
+    if ITN>=0 then
+    begin
+      ESK :=ITN/2;
+      EIK :=-ITN/2;
+    end
+    else
+    begin
+      ESK :=-ITN/2;
+      EIK :=ITN/2;
+    end;
+    ConfirmPlusSign(ESK,EIK);
+  end
+
+  //通用规则中的第二种情况
+  else if (KongGCD='J') and (KongGCDJ<=6) then      //孔公差带为J的情况
+    SearchRule2('J6')
+  else if (KongGCD='J') and (KongGCDJ=7) then
+    SearchRule2('J7')
+  else if (KongGCD='J') and (KongGCDJ>=8) then
+    SearchRule2('J8')
+
+  else if (KongGCD>='K') and (KongGCD<='N') then    //孔公差带为K~N的情况
+  begin
+    if (KongGCDJ<=3) then
+      SearchRule2(KongGCD+IntToStr(3))
+    else if (KongGCDJ>=4) and (KongGCDJ<=8) then
+      SearchRule2(KongGCD+IntToStr(KongGCDJ))
+    else if (KongGCDJ>=9) then
+      SearchRule2(KongGCD+IntToStr(9))
+  end
+
+  else if (KongGCD>='P') and (KongGCD<='Z') then    //孔公差带为P~Z的情况
+  begin
+    if (KongGCDJ<=3) then
+      SearchRule2(KongGCD+IntToStr(3))
+    else if (KongGCDJ>=4) and (KongGCDJ<=7) then
+      SearchRule2(KongGCD+IntToStr(KongGCDJ))
+    else if (KongGCDJ>=8) then
+      SearchRule2(KongGCD+IntToStr(8))
+  end  
+
+  //通用规则中的第三种情况
+  else if (KongGCD='N') and (BasicSize>3) and (KongGCDJ>8) then
+  begin
+    ESK :=0;
+    ConfirmGCDJ(KongGCDJ);
+    EIK :=-ConfirmITN(GCDJ);;
+  end;
+
+//轴的极限偏差的计算
+  if (ZhouGCD>='a') and (ZhouGCD<='h') then         //轴公差带为a~h的情况
+    SearchRule3(ZhouGCD)
+
+  else if (ZhouGCD='js') then                       //轴公差带为js的情况
+  begin
+    ConfirmGCDJ(ZhouGCDJ);
+    ConfirmITN(GCDJ);
+    if ITN>=0 then
+    begin
+      esz :=ITN/2;
+      eiz :=-ITN/2;
+    end
+    else
+    begin
+      esz :=-ITN/2;
+      eiz :=ITN/2;
+    end;
+    ConfirmPlusSign2(esz,eiz);
+  end
+
+  else if (ZhouGCD='j') and (ZhouGCDJ<=6) then      //轴公差带为j的情况
+    SearchRule4('j6')
+  else if (ZhouGCD='j') and (ZhouGCDJ=7) then
+    SearchRule4('j7')
+  else if (ZhouGCD='j') and (ZhouGCDJ>8) then
+    SearchRule4('j8')
+
+  else if (ZhouGCD='k') and (ZhouGCDJ>=4) and (ZhouGCDJ<=7) then   //轴公差带为k的情况
+    SearchRule4('k47')
+  else if (ZhouGCD='k') and (ZhouGCDJ<=3) and (ZhouGCDJ>=8) then
+    SearchRule4('k38')
+
+  else if (ZhouGCD>='m') and (ZhouGCD<='z') then    //轴公差带为m~z的情况
+    SearchRule4(ZhouGCD);
+
+//配合方式的确定
+  if (KongGCD>='A') and (KongGCD<='H') then         //孔公差带在A~H之间的情况
+  begin
+    if (ZhouGCD>='a') and (ZhouGCD<='h') then
+    begin
+      JianXiMin :=EIK-esz;
+      ConfirmCheck(JianXiMin);
+    end
+    else if (ZhouGCD>='k') and (ZhouGCD<='z') then
+    begin
+      JianXiMin :=EIK-eiz;
+      ConfirmCheck(JianXiMin);
+    end
+    else if (ZhouGCD='j') or (ZhouGCD='js') then
+    begin
+      RadioButton4.Checked :=true;
+      RadioButton3.Checked :=false;
+      RadioButton5.Checked :=false;
+    end;
+  end
+
+  else if (KongGCD='Js') then                            //孔公差带为Js的情况
+  begin
+    RadioButton4.Checked :=true;
+    RadioButton3.Checked :=false;
+    RadioButton5.Checked :=false;
+  end
+  
+  else if (KongGCD='J') then                            //孔公差带为J的情况
+  begin
+    if (EIK>=0) then
+    begin
+      if (ZhouGCD>='a') and (ZhouGCD<='h') then
+      begin
+        JianXiMin :=EIK-esz;
+        ConfirmCheck(JianXiMin);
+      end
+      else if (ZhouGCD>='k') and (ZhouGCD<='z') then
+      begin
+        JianXiMin :=EIK-eiz;
+        ConfirmCheck(JianXiMin);
+      end
+      else if (ZhouGCD='j') then
+      begin
+        {if esz<0 then
+          JianXiMin :=EIK-esz
+        else if eiz>0 then
+          JianXiMin :=EIK-eiz}
+        RadioButton4.Checked :=true;
+        RadioButton3.Checked :=false;
+        RadioButton5.Checked :=false;
+      end;
+    end
+    else if (ESK<0) then
+    begin
+      if (ZhouGCD>='a') and (ZhouGCD<='h') then
+      begin
+        JianXiMin :=ESK-esz;
+        ConfirmCheck(JianXiMin);
+      end
+      else if (ZhouGCD>='k') and (ZhouGCD<='z') then
+      begin
+        JianXiMin :=ESK-eiz;
+        ConfirmCheck(JianXiMin);
+      end
+      else if (ZhouGCD='j') then
+      begin
+        {if esz<0 then
+          JianXiMin :=ESK-esz
+        else if eiz>0 then
+          JianXiMin :=ESK-eiz}
+        RadioButton4.Checked :=true;
+        RadioButton3.Checked :=false;
+        RadioButton5.Checked :=false;
+      end;
+    end;
+  end
+
+  else if (KongGCD>='K') and (KongGCD<='Z') then         //孔公差带在K~Z之间的情况
+  begin
+    if (ZhouGCD>='a') and (ZhouGCD<='h') then
+    begin
+      JianXiMin :=ESK-esz;
+      ConfirmCheck(JianXiMin);
+    end
+    else if (ZhouGCD>='k') and (ZhouGCD<='z') then
+    begin
+      JianXiMin :=ESK-eiz;
+      ConfirmCheck(JianXiMin);
+    end
+    else if (ZhouGCD='j') then
+    begin
+      RadioButton4.Checked :=true;
+      RadioButton3.Checked :=false;
+      RadioButton5.Checked :=false;
+    end;
+  end;
+end;
+
+procedure TForm1.ComboBox1Change(Sender: TObject);
+begin
+  if ComboBox1.Text = 'H' then
+    RadioButton1.Checked :=true;
+
+  if (ComboBox1.Text <>'A') and (ComboBox1.Text <>'B') and (ComboBox1.Text <>'C') and
+     (ComboBox1.Text <>'D') and (ComboBox1.Text <>'E') and (ComboBox1.Text <>'F') and
+     (ComboBox1.Text <>'G') and (ComboBox1.Text <>'H') and (ComboBox1.Text <>'Js') and
+     (ComboBox1.Text <>'J') and (ComboBox1.Text <>'K') and (ComboBox1.Text <>'M') and
+     (ComboBox1.Text <>'N') and (ComboBox1.Text <>'P') and (ComboBox1.Text <>'R') and
+     (ComboBox1.Text <>'S') and (ComboBox1.Text <>'T') and (ComboBox1.Text <>'U') and
+     (ComboBox1.Text <>'V') and (ComboBox1.Text <>'X') and (ComboBox1.Text <>'Y') and
+     (ComboBox1.Text <>'Z') then
+  begin
+    MessageBox (
+    HWND (0),
+    LPCTSTR ('请输入A到Z之间的字母作为孔公差带'),	// address of text in message box
+    LPCTSTR ('提示'),	// address of title of message box
+    UINT (MB_OK)
+    );
+    ComboBox1.Text :='H';
+    ComboBox1.SetFocus;
+    ComboBox1.SelectAll;
+  end;
+
+end;
+
+procedure TForm1.ComboBox3Change(Sender: TObject);
+begin
+  if ComboBox3.Text = 'h' then
+    RadioButton2.Checked :=true;
+
+  if (ComboBox3.Text <>'a') and (ComboBox3.Text <>'b') and (ComboBox3.Text <>'c') and
+     (ComboBox3.Text <>'d') and (ComboBox3.Text <>'e') and (ComboBox3.Text <>'f') and
+     (ComboBox3.Text <>'g') and (ComboBox3.Text <>'h') and (ComboBox3.Text <>'js') and
+     (ComboBox3.Text <>'j') and (ComboBox3.Text <>'k') and (ComboBox3.Text <>'m') and
+     (ComboBox3.Text <>'n') and (ComboBox3.Text <>'p') and (ComboBox3.Text <>'r') and
+     (ComboBox3.Text <>'s') and (ComboBox3.Text <>'t') and (ComboBox3.Text <>'u') and
+     (ComboBox3.Text <>'v') and (ComboBox3.Text <>'x') and (ComboBox3.Text <>'y') and
+     (ComboBox3.Text <>'z') then
+  begin
+    MessageBox (
+    HWND (0),
+    LPCTSTR ('请输入a到z之间的字母作为轴公差带'),	// address of text in message box
+    LPCTSTR ('提示'),	// address of title of message box
+    UINT (MB_OK)
+    );
+    ComboBox3.Text :='f';
+    ComboBox3.SetFocus;
+    ComboBox3.SelectAll;
+  end;
+end;
+
+procedure TForm1.ComboBox2Change(Sender: TObject);
+begin
+  if (ComboBox2.Text <>'1') and (ComboBox2.Text <>'2') and (ComboBox2.Text <>'3') and
+      (ComboBox2.Text <>'4') and (ComboBox2.Text <>'5') and (ComboBox2.Text <>'6') and
+      (ComboBox2.Text <>'7') and (ComboBox2.Text <>'8') and (ComboBox2.Text <>'9') and
+      (ComboBox2.Text <>'10') and (ComboBox2.Text <>'11') and (ComboBox2.Text <>'12') and
+      (ComboBox2.Text <>'13') and (ComboBox2.Text <>'14') and (ComboBox2.Text <>'15') and
+      (ComboBox2.Text <>'16') and (ComboBox2.Text <>'17') and (ComboBox2.Text <>'18') then
+  begin
+    MessageBox (
+    HWND (0),
+    LPCTSTR ('请输入1到18之间的整数'),	// address of text in message box
+    LPCTSTR ('提示'),	// address of title of message box
+    UINT (MB_OK)
+    );
+    ComboBox2.Text :='6';
+    ComboBox2.SetFocus;
+    ComboBox2.SelectAll;
+  end;
+end;
+
+procedure TForm1.ComboBox4Change(Sender: TObject);
+begin
+  if (ComboBox4.Text <>'1') and (ComboBox4.Text <>'2') and (ComboBox4.Text <>'3') and
+      (ComboBox4.Text <>'4') and (ComboBox4.Text <>'5') and (ComboBox4.Text <>'6') and
+      (ComboBox4.Text <>'7') and (ComboBox4.Text <>'8') and (ComboBox4.Text <>'9') and
+      (ComboBox4.Text <>'10') and (ComboBox4.Text <>'11') and (ComboBox4.Text <>'12') and
+      (ComboBox4.Text <>'13') and (ComboBox4.Text <>'14') and (ComboBox4.Text <>'15') and
+      (ComboBox4.Text <>'16') and (ComboBox4.Text <>'17') and (ComboBox4.Text <>'18') then
+  begin
+    MessageBox (
+    HWND (0),
+    LPCTSTR ('请输入1到18之间的整数'),	// address of text in message box
+    LPCTSTR ('提示'),	// address of title of message box
+    UINT (MB_OK)
+    );
+    ComboBox4.Text :='5';
+    ComboBox4.SetFocus;
+    ComboBox4.SelectAll;
+  end;
+end;
+
+end.
+

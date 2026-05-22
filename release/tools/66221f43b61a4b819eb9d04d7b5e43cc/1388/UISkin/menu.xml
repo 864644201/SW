@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window bktrans="true" size="100,90">
+ <Font name="宋体" size="13" bold="false"/>
+ <Font name="宋体" size="12"/>
+<VerticalLayout bkcolor="#FF82abba" hole="false">
+	<List header="hidden" inset="8,8,8,8"  itemhotbkcolor="#20000000" itemdisabledbkcolor="#FF82abba">
+		<ListContainerElement name="menu_insert" height="25" inset="0,0,0,0">
+			<VerticalLayout >
+				<Control />
+				<Label text="插入行" textcolor="FF063040" align="center" mouse="false"/>
+				<Control />
+				<Control height="1" bkcolor="#FF063040" />
+			</VerticalLayout>
+		</ListContainerElement>
+
+		<ListContainerElement name="menu_Delete" height="24" inset="0,0,0,0">		
+			<VerticalLayout >	
+				<Control />
+				<Label text="删除行" textcolor="FF063040" align="center" mouse="false"/>
+				<Control />
+			</VerticalLayout>
+		</ListContainerElement>
+
+		<ListContainerElement name="menu_clear" height="25" inset="0,0,0,0">		
+			<VerticalLayout >	
+				<Control height="1" bkcolor="#FF063040" />
+				<Control />
+				<Label text="清除行" textcolor="FF063040" align="center" mouse="false"/>
+				<Control />
+			</VerticalLayout>
+		</ListContainerElement>
+	</List>
+</VerticalLayout>
+</Window>

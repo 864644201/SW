@@ -1,0 +1,136 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<title>曲柄滑块机构的设计</title>
+
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Times New Roman";}
+ /* Page Definitions */
+ @page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	layout-grid:15.6pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+
+</head>
+
+<body lang=ZH-CN style='text-justify-trim:punctuation'>
+
+<div class=Section1 style='layout-grid:15.6pt'>
+
+<p class=MsoNormal align=center style='text-align:center'><img width=220
+height=158 src="images/DYWZ/image2001.gif" align=right><b><span
+style='font-size:15.0pt;font-family:宋体'>曲柄滑块机构的设计</span></b></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span style='font-family:宋体'>在图</span><span
+lang=EN-US>1</span><span style='font-family:宋体'>所示曲柄滑块机构中，应用几何关系可推导出曲柄与滑块对应位置间的关系式</span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><sub><img
+width=183 height=25 src="images/DYWZ/image2002.gif"></sub></span></p>
+
+<p class=MsoNormal><span style='font-family:宋体'>式中</span> <span lang=EN-US><sub><img
+width=247 height=25 src="images/DYWZ/image2003.gif"></sub></span><span
+style='font-family:宋体'>，</span><span lang=EN-US><br>
+</span><span style='font-family:宋体'>将三组对应位置</span><span lang=EN-US><sub><img
+width=164 height=24 src="images/DYWZ/image2004.gif"></sub></span><span
+style='font-family:宋体'>代入上式得：</span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US><sub><img
+width=210 height=87 src="images/DYWZ/image2005.gif"></sub></span></p>
+
+<p class=MsoNormal><span style='font-family:宋体'>由此可解得</span><span lang=EN-US><sub><img
+width=216 height=38 src="images/DYWZ/image2006.gif"></sub></span></p>
+
+</div>
+
+</body>
+
+</html>

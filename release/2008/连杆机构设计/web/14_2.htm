@@ -1,0 +1,202 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="4"><span class="Title">单移动副四杆机构</span></td>
+  </tr>
+  <tr>
+    <td colspan="2"><p align="center" class="thth">机构名称及尺寸条件 </p></td>
+    <td><p align="center" class="thth">机构特性 </p></td>
+    <td><p align="center" class="thth">机构传动函数及应用 </p></td>
+  </tr>
+  <tr>
+    <td><p>曲柄滑块机构 </p></td>
+    <td valign="top"><p><img height="152" alt="qbhk_1_a.gif (7787                        bytes)" src="images/qbhk_1_a.gif" width="201"></p>
+        <p><img height="227" alt="qbhk_1_b.gif (7390 bytes)" src="images/qbhk_1_b.gif" width="225"></p>
+        <p>(1)曲柄1、连杆2的杆长分别为a和b,偏距为e </p>
+        <p> (2)曲柄1整周转动的条件为b≥a+e </p>
+        <p> (3)杆长比λ=a/b和ε=e/b </p>
+        <p> (4)e≠0和ε=0时的曲柄滑块机构分别称为偏置和对心曲柄没块机构 </p>
+        <p> (5)机构尺寸a=b或λ=1时称为等腰曲柄滑块机构 </p>
+        <p align="justify">摆杆滑块机构 </p>
+        <p align="justify"><img height="150" alt="qbhk_1_e.gif (7560 bytes)" src="images/qbhk_1_e.gif" width="232"></p>
+    <p>偏距e=0或e≠0 </p></td>
+    <td valign="top"><p> (1)曲柄1等速转动时,滑块3沿导路dd作往复变速移动 </p>
+        <p align="left"> (2)滑块行程为 </p>
+        <p align="left"><img height="29" src="images/Image1.gif" width="253"></p>
+        <p align="left">(λ≠1,e=0或e≠0,图a) </p>
+        <p align="justify">s o =4a </p>
+        <p>(λ=1,图b,K′为渡过运动不定位置的拨销) </p>
+        <p> (3)滑块3急回行程平均速度增大系数 </p>
+        <p align="justify">k=ψ2/ψ1=(180°+θ)/(180°-θ)式中极位夹角 </p>
+        <p>θ=arccos[ε/(1+λ)]- arccos[ε/(1-λ)] </p>
+        <p> (4)当曲柄1为主动时,机构无死点,当曲柄转至与滑块导路相垂直时,机构传动角λ 23min =arccos(λ+ε) </p>
+        <p> (5)当滑块3为主动,且连杆与从动曲柄共线时,机构处于死点位置 </p>
+        <p> (6)在图e摆杆滑块机构中,摆杆1往复摆动时,滑块3往复移动.当连杆2垂直于滑块导路dd时,机构处理死点位置,摆杆极限摆角 </p>
+        <p align="justify">φ o =2arccos[(e-b)/a] </p>
+        <p align="justify">滑块行程 </p>
+    <p align="justify"><img height="29" src="images/Image2.gif" width="137"></p></td>
+    <td valign="top"><p align="justify"><img height="180" alt="qbhk_1_c.gif (1682                        bytes)" src="images/qbhk_1_c.gif" width="167"></p>
+        <p align="justify">c)曲柄滑块机构 </p>
+        <p align="justify"><img height="152" alt="qbhk_1_d.gif (5051 bytes)" src="images/qbhk_1_d.gif" width="178"></p>
+        <p align="justify">d)摆杆滑块机构 </p>
+        <p align="justify">通常摆杆滑块机构只能实现一段函数或轨迹 </p>
+        <p align="justify">(2)机构应用 </p>
+        <ol>
+          <li>
+            <p>用于将曲柄1的等速转动转换为滑块3具有急回运动特性的往复移动,如各种曲柄压力机的空压机等 </p>
+          <li>
+            <p>用于将滑块3的往复移动转换从动曲柄1的连续转动或摆动,如内燃机和仪表机构等 </p>
+          <li>
+            <p>利用连杆2上点K的轨迹κκ来满足点位导引要求 </p>
+          <li>
+            <p>与其他机构组合成各种用途的多杆机构 </p>
+          </li>
+    </ol></td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>导杆机构 </p></td>
+    <td valign="top"><p>曲柄转动导杆机构 </p>
+        <p><img height="267" alt="dg_1_a.gif (9371 bytes)" src="images/dg_1_a.gif" width="225">
+        <p>a.e≠0,a&gt;d+e <img height="193" alt="dg_1_b.gif (6898 bytes)" src="images/dg_1_b.gif" width="229">
+      <p> b.e=0,a&gt;d(一般取a&gt;2d) </p>
+        <p><img height="234" alt="dg_1_c.gif (9196 bytes)" src="images/dg_1_c.gif" width="221"></p>
+    <p> c.e=0,a=d </p></td>
+    <td valign="top"><p> (1)依据机构的尺寸关系,导杆机构分为偏置转动导杆机构(图a)和对心转动导杆机构(图b)以及等腰曲柄转动导杆机构(图c) </p>
+        <p> (2)当曲柄1匀速转动时,导杆3作非匀速转动(图a和b)和匀速转动(图c) </p>
+        <p> (3)机构平均传动化i 13 =n 1 /n 3 =1(图a和b): i 13 =n 1 /n 3 =2(图c) </p>
+        <p> (4)机构的尺寸比d/a愈小,从动导杆3的角速度ω 3 波动愈大;而当d=a时,则ω 3 =1/2ω 1 =常数 </p>
+        <p> (5)当滑块2导路垂直机架(图b即在CB 1 和CB 2 位置)时, ω 1 =ω 3 即i 13 =1 </p>
+        <p> (6)当曲柄1为主动时,机构无死点,肯定γ 23 =90°(图b、c)和γ 23 </p>
+        <p><img height="49" src="images/Image3.gif" width="236"></p>
+    <p>图(a) </p></td>
+    <td valign="top"><p> (1)机构传动函数为 </p>
+        <p align="justify"><img height="167" alt="dg_1_d.gif (4934 bytes)" src="images/dg_1_d.gif" width="154"></p>
+        <p>对心与偏置转动导杆机构 </p>
+        <p><img height="109" alt="dg_1_e.gif (3828 bytes)" src="images/dg_1_e.gif" width="161">
+        <ol>
+        </ol>
+        <p>等腰曲柄转动导杆机构 </p>
+        <p align="justify">(2)机构应用 </p>
+        <ol>
+          <li>
+            <p>应用从动导杆变速运动特性和其他机构组合,以获得具有强烈急回运动特性的机构 </p>
+          <li>
+            <p>应用机构传动比特性,作成各处减速机构(如取a/d=1, i 13 =2) </p>
+          <li>
+            <p>应用机构的机架长d在工作过程中变化时仅响传动特性而传动并不中断的特点,用作联轴器 </p>
+          <li>
+            <p>应用导杆3变速运动特性作旋转式发动机或水泵等的主体机构 </p>
+          </li>
+    </ol></td>
+  </tr>
+  <tr>
+    <td valign="top"><p align="justify">曲柄摆动导杆机构 </p>
+        <p align="justify"><img height="148" alt="dg_2_a.gif (7735 bytes)" src="images/dg_2_a.gif" width="233"></p>
+        <p align="justify">a.e≠0,a+e&lt;d </p>        
+        <p><img height="117" alt="dg_2_b.gif (5275 bytes)" src="images/dg_2_b.gif" width="234"></p>
+    <p> b.e=0,a&lt;d </p></td>
+    <td valign="top"><p> (1)依据机构尺寸的不同,曲摆动导杆机构分为偏置摆动导杆机构(图a)和对心摆动导杆机构(图b) </p>
+        <p> (2)曲柄1等速转动时,从动导杆3作往复变速摆动 </p>
+        <p> (3)导杆3的摆角为ψ o, 且ψ o =arcsin[(a+e)/d]+ arcsin[(a-e)/d] </p>
+        <p> (4)导杆3急回行程速度增大系数 </p>
+        <p align="justify">k=φ o /(360°- φ o )=(180°+θ)/ (180°-θ) </p>
+        <p align="justify">式中θ=ψ o </p>
+        <p>通常k=2.5~3.5 </p>
+    <p> (5)曲柄1主动时,机构无死点,而当导杆3为主动且从动曲柄与导杆导路中心线垂直时,如图示曲柄处于AB 1 和AB 2 位置时,为机构的死点位置 </p></td>
+    <td valign="top"><p align="justify"> (1)机构传动函数为 </p>
+        <p align="justify"><img height="155" alt="dg_2.gif (6833 bytes)" src="images/dg_2.gif" width="167"></p>
+        <p align="justify"> (2)机构应用 </p>
+        <ol>
+          <li>
+            <p>用于将曲柄1的等速转动转换为从动导杆3具有急回运动特性的往复摆动 </p>
+          <li>
+            <p>利用导杆3与连杆(滑块)2之间的相对运动或连杆2本身复杂的平面运动实现生产要求. </p>
+          <li>
+            <p>用于实现从动杆具有大摆角要求的场合,如气液摆缸机构 </p>
+          <li>
+            <p>与其他机构组合成多种用途的多杆机构 </p>
+          </li>
+    </ol></td>
+  </tr>
+</table>
+</body>
+</html>

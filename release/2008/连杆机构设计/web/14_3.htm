@@ -1,0 +1,198 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="4"><span class="Title">双移动副四杆机构</span></td>
+  </tr>
+  <tr>
+    <td colspan="2"><p align="center" class="thth">机构名称及尺寸条件 </p></td>
+    <td width="50%"><p align="center" class="thth">机构特性 </p></td>
+    <td width="22%"><p align="center" class="thth">机构传动函数及应用 </p></td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2">移动导杆机构 </td>
+    <td width="25%" valign="top"><p align="justify">曲柄移动导杆机构 </p>
+        <p align="justify"><img height="155" alt="yddg_1.gif (6732 bytes)" src="images/yddg_1.gif" width="232"></p>
+        <p> (1)曲柄1杆长为a </p>
+    <p> (2)滑块2导路中心线与导杆导路中心线间夹角为γ </p></td>
+    <td valign="top"><p> (1)当曲柄1等速转动时,导杆3作往复变速移动;位移s=a(1-cosψ)+asinψ/tanγ;导杆行程S0 =2a </p>
+        <p> (2)曲柄主动时,机构无死点,且各位置的传动角γ 23 =γ=常数 </p>
+    <p> (3)γ=90°时的曲柄移动导杆机构常称为正弦机构.</p></td>
+    <td valign="top"><p> (1)机构传动函数为 </p>
+        <p><img height="150" alt="yddg_4.gif (5612 bytes)" src="images/yddg_4.gif" width="182">
+        <ol>
+        </ol>
+        <p> (2)机构应用
+      <ol>
+                            <li>
+                              <p>用于将主动曲柄1的等速转动转换为从动导杆3的往复移动 </p>
+                            <li>
+                              <p>大多用于解算装置、传动和操纵装置以及振动台等。 </p>
+                            </li>
+    </ol></td>
+  </tr>
+  <tr>
+    <td valign="top"><p align="justify">摆杆移动导杆机构 </p>
+        <p align="justify"><img height="257" alt="yddg_2.gif (8110 bytes)" src="images/yddg_2.gif" width="206"></p>
+        <p> (1)摆杆1杆长为a </p>
+        <p> (2)移动导杆3的导路中心线dd不通过摆杆1的摆动中心A,偏距为e </p>
+        <p> (3)尺寸h1 =h2 </p></td>
+    <td valign="top"><p> (1)当摆杆1往复摆动时,导杆3在固定导路dd中往复移动 </p>
+        <p> (2)当摆杆如图示摆过角ψ0 时,导杆3移动距离(行程)为
+        <p> S0 =2asin(ψ0/2)
+        <p> 摆杆任一角位移ψ时,摆杆的位移为
+      <p> s=S0/2-asin(ψ0/2-ψ)
+      <p> (3)摆杆1主动时,机构传动角γ23 =90° </p>
+                          <p> (4)机构尺寸 </p>
+    <p>e=a/2*(1+cos(ψ0/2)) </p></td>
+    <td valign="top"><p> (1)机构传动函数为 </p>
+        <p><img height="190" alt="yddg_5.gif (6685 bytes)" src="images/yddg_5.gif" width="201">
+        <ol>
+        </ol>
+        <p> (2)机构应用
+      <ol>
+                            <li>
+                              <p>常用于将主动摆杆的摆动转换为移动导杆3的往复移动或反之 </p>
+                            <li>
+                              <p>为避免机构在运动始末位置时出现刚性冲击，常采用其他机构（如凸轮机构）驱动摆杆1 </p>
+                            <li>
+                              <p>大多用于仪表和操纵机构 </p>
+                            </li>
+    </ol></td>
+  </tr>
+  <tr>
+    <td><p>双转动导杆机构 </p></td>
+    <td valign="top"><p align="justify"><img height="172" alt="yddg_3.gif (9128 bytes)" src="images/yddg_3.gif" width="194"></p>
+        <p>导杆1和2的固定转动中心A和B间距离为偏距e </p></td>
+    <td valign="top"><p> (1)分别与机架3组成转动副A和B的导杆1和2均能作整周转动,且两者角速度相等,即
+                                          <p align="center">ω1=ω2 且转向相同
+                                          <p> (2)当两导杆的轴偏距e改变时,机构传动并不中断,且两导杆的角速度仍然相等. 
+                                          <p> (3)当偏距e增大时,滑块4相对导杆1和2的滑动速度也增大,且 </p>
+    <p align="justify">υA 1 A 4 =ωecosφ, υB 1 B 4 =ωesinφ </p></td>
+    <td valign="top"><p>(1)机构传动函数为 </p>
+        <p><img height="160" alt="yddg_6.gif (1023 bytes)" src="images/yddg_6.gif" width="167"></p>
+        <p> (2)机构应用 </p>
+        <p> 1.常用于连接两轴以满足定传动比且两轴距经常发生变化的传动机构，如十字沟槽联轴器 </p>
+    <p> 2.用作车椭圆体的夹具 </p></td>
+  </tr>
+  <tr>
+    <td><p>双滑块机构 </p></td>
+    <td valign="top"><p align="justify"><img height="188" alt="shk_7.gif (8292 bytes)" src="images/shk_7.gif" width="212"></p>
+        <p>连杆点K′为AB中点,故机构尺寸AK′=BK′ </p></td>
+    <td valign="top"><p> (1)分别与滑块1和2组成移动副的导杆4为机架 </p>
+        <p> (2)机构运动时,连杆3上AB线段中点K′的轨迹为一以点O为圆心,OK′为半径的圆kk′ </p>
+        <p> (3)连杆3上除点A、B、和K′外，其余点的连杆曲线为中心于点O的椭圆kk，因此常将此机构称为椭圆仪机构。 </p>
+    <p> (4)当添加附加杆OK′后，可去除滑块2或3，此时连杆点A或B的轨迹为直线，且过点O </p></td>
+    <td valign="top"><p> (1)机构传动函数为 </p>
+        <p><img height="188" alt="shk_9.gif (6514 bytes)" src="images/shk_9.gif" width="202">
+        <ol>
+        </ol>
+        <p> (2)机构应用 </p>
+    <p>常用于绘制椭圆以及用作解算装置和夹具等。 </p></td>
+  </tr>
+  <tr>
+    <td><p>滑块导杆机构 </p></td>
+    <td valign="top"><p align="justify"><img height="148" alt="hkdg_8_a.gif (5182 bytes)" src="images/hkdg_8_a.gif" width="228"></p>
+      <p align="justify">a.偏距为e 1 和e 2 </p>      
+      <p align="justify">单偏置滑块导杆机构 </p>
+        <p align="justify"><img height="147" alt="hkdg_8_b.gif (5456 bytes)" src="images/hkdg_8_b.gif" width="230"></p>
+        <p align="justify"> b. 偏距为e 1 </p></td>
+    <td valign="top"><p> (1)根据机构结构的不同，可将滑块导杆机构分为双偏置滑块导杆机构（图a）和单偏置滑块导杆机构（图b） </p>
+        <p> (2)若采用导杆3为主动件，可利用其他机构（如凸轮机构）驱动导杆，从而使滑块1实现给定的运动规律。 </p>
+    <p> (3)在仪表机构中常高副（滚子与导槽）代替移动副。 </p></td>
+    <td valign="top"><p> (1)机构传却函数为 </p>
+        <p><img height="189" alt="shk_10.gif (4971 bytes)" src="images/shk_10.gif" width="127">
+        <ol>
+        </ol>
+        <p> (2)机构应用
+      <ol>
+                            <li>
+                              <p>可将滑块1的移动转换为导杆3的摆动或反之 </p>
+                            <li>
+                              <p>用作导引机构，使作一般平面运动的滑块2通过给定的位置 </p>
+                            <li>
+                              <p>用作操纵机构、机械手夹持机构和仪表机构等。 </p>
+                            </li>
+    </ol></td>
+  </tr>
+</table>
+</body>
+</html>

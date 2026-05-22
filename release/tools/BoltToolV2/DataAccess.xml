@@ -1,0 +1,662 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DataAccess</name>
+    </assembly>
+    <members>
+        <member name="T:DataAccess.DbUtility.SqlBuilder">
+            <summary>
+            sql语句创建类
+            </summary>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlBuilder.GetDbParameter">
+            <summary>
+            获得参数（DbParameter）
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlBuilder.GetDbParameter(System.String,System.Object)">
+            <summary>
+            获得参数
+            </summary>
+            <param name="name"></param>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlBuilder.GetDbParameter(System.String,System.Object,System.Data.ParameterDirection)">
+            <summary>
+            获得参数
+            </summary>
+            <param name="name">名</param>
+            <param name="value">值</param>
+            <param name="direction">输入或输出</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlBuilder.DbParameterToString(System.Data.Common.DbParameter[],System.String)">
+            <summary>
+            拼接参数
+            </summary>
+            <param name="dbParams"></param>
+            <param name="join">分隔符</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlBuilder.ExtendedTableSql``1(System.Collections.Generic.List{System.String})">
+            <summary>
+            获取扩展表sql
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="columnNames">已有列民</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlHelper.ConnectionTest">
+            <summary>
+            连接测试
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlHelper.ExecuteNonQuery(System.String)">
+            <summary>
+            执行非查询
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlHelper.GetSingleResult(System.String)">
+            <summary>
+            获得简单查询
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlHelper.GetReader(System.String)">
+            <summary>
+            获得查询结果集
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlHelper.GetDataTable(System.String)">
+            <summary>
+            获得查询DataTable
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlHelper.ExecuteNonQuery(System.String,System.Data.Common.DbParameter[])">
+            <summary>
+            增删改操作
+            </summary>
+            <param name="sql"></param>
+            <param name="param"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlHelper.GetSingleResult(System.String,System.Data.Common.DbParameter[])">
+            <summary>
+            获得简单查询
+            </summary>
+            <param name="sql"></param>
+            <param name="param"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlHelper.GetReader(System.String,System.Data.Common.DbParameter[])">
+            <summary>
+            获得查询结果集
+            </summary>
+            <param name="sql"></param>
+            <param name="param"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlHelper.GetDataTable(System.String,System.Data.Common.DbParameter[])">
+            <summary>
+            获得DataTable
+            </summary>
+            <param name="sql"></param>
+            <param name="param"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlHelper.ExecuteNonQueryByTran(System.Collections.Generic.List{System.String})">
+            <summary>
+            启用事务提交多条带参数的sql语句
+            </summary>
+            <param name="listSql"></param>
+            <returns></returns>;
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlHelper.ExecuteNonQueryByTran(System.String,System.Collections.Generic.List{System.Data.Common.DbParameter[]})">
+            <summary>
+            启用事务提交多条带参数的sql语句
+            </summary>
+            <param name="sql"></param>
+            <param name="listParam"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlHelper.ExecuteNonQueryByTran(System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.Data.Common.DbParameter[]})">
+            <summary>
+            启用事务提交多条带参数的sql语句
+            </summary>
+            <param name="sqlList"></param>
+            <param name="listParam"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlHelper.ExecuteNonQueryByProcedure(System.String,System.Data.Common.DbParameter[])">
+            <summary>
+            增删改操作（使用存储过程）
+            </summary>
+            <param name="spName"></param>
+            <param name="param"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlHelper.GetDataTableByProcedure(System.String,System.Data.Common.DbParameter[])">
+            <summary>
+            GetDataTable（使用存储过程）
+            </summary>
+            <param name="spName"></param>
+            <param name="param"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlHelper.GetSingleResultByProcedure(System.String,System.Data.Common.DbParameter[])">
+            <summary>
+            简单查询（使用存储过程）
+            </summary>
+            <param name="spName"></param>
+            <param name="param"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlHelper.GetReaderByProcedure(System.String,System.Data.Common.DbParameter[])">
+            <summary>
+            获得查询结果集（使用存储过程）
+            </summary>
+            <param name="spName"></param>
+            <param name="param"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlTran.#ctor(System.String,DataAccess.Interface.DbType_e)">
+            <summary>
+            构造方法
+            </summary>
+            <param name="connstring">连接字符串</param>
+            <param name="dbType">数据库类型</param>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlTran.BeginTran">
+            <summary>
+            开始事务
+            </summary>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlTran.CommitTran">
+            <summary>
+            执行事务
+            </summary>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlTran.RollbackTran">
+            <summary>
+            回滚事务
+            </summary>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlTran.ExecuteNonQuery(System.String)">
+            <summary>
+            执行非查询
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlTran.ExecuteNonQuery(System.String,System.Data.Common.DbParameter[])">
+            <summary>
+            执行非查询（带参数）
+            </summary>
+            <param name="sql"></param>
+            <param name="param"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.DbUtility.SqlTran.ExecuteNonQuery(System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.Data.Common.DbParameter[]})">
+            <summary>
+            批量执行非查询（带参数）
+            </summary>
+            <param name="sqlList"></param>
+            <param name="listParam"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DataAccess.Interface.SqlTableAttribute">
+            <summary>
+            数据表特性
+            </summary>
+        </member>
+        <member name="M:DataAccess.Interface.SqlTableAttribute.#ctor(System.String)">
+            <summary>
+            数据表特性
+            </summary>
+            <param name="tableName"></param>
+        </member>
+        <member name="P:DataAccess.Interface.SqlTableAttribute.TableName">
+            <summary>
+            表名称
+            </summary>
+        </member>
+        <member name="T:DataAccess.Interface.SqlColumnAttribute">
+            <summary>
+            数据列特性
+            </summary>
+        </member>
+        <member name="P:DataAccess.Interface.SqlColumnAttribute.ColumnName">
+            <summary>
+            列名称
+            </summary>
+        </member>
+        <member name="P:DataAccess.Interface.SqlColumnAttribute.IsPrimaryKey">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:DataAccess.Interface.SqlColumnAttribute.IsIgnore">
+            <summary>
+            是否忽略
+            </summary>
+        </member>
+        <member name="P:DataAccess.Interface.SqlColumnAttribute.IsInsert">
+            <summary>
+            是否参与 Insert sql语句拼接
+            </summary>
+        </member>
+        <member name="P:DataAccess.Interface.SqlColumnAttribute.IsUpdate">
+            <summary>
+            是否参与 Update sql语句拼接
+            </summary>
+        </member>
+        <member name="P:DataAccess.Interface.SqlColumnAttribute.IsSelect">
+            <summary>
+            是否参与 Select sql语句拼接
+            </summary>
+        </member>
+        <member name="P:DataAccess.Interface.SqlColumnAttribute.IsNullable">
+            <summary>
+            可空
+            </summary>
+        </member>
+        <member name="P:DataAccess.Interface.SqlColumnAttribute.ColumnType">
+            <summary>
+            自定义类型
+            </summary>
+        </member>
+        <member name="P:DataAccess.Interface.SqlColumnAttribute.IsAdd">
+            <summary>
+            新增标记（后期补充列）
+            </summary>
+        </member>
+        <member name="T:DataAccess.Interface.DAFactory">
+            <summary>
+            简单工厂方法
+            </summary>
+        </member>
+        <member name="M:DataAccess.Interface.DAFactory.GetDAService(System.String,DataAccess.Interface.DbType_e)">
+            <summary>
+            获得数据访问接口实例
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:DataAccess.Interface.IDataAccess">
+            <summary>
+            通用数据库访问接口
+            </summary>
+        </member>
+        <member name="P:DataAccess.Interface.IDataAccess.EventSuccessExecute">
+            <summary>
+            sql事件委托
+            </summary>
+        </member>
+        <member name="P:DataAccess.Interface.IDataAccess.EventException">
+            <summary>
+            sql异常委托
+            </summary>
+        </member>
+        <member name="P:DataAccess.Interface.IDataAccess.Ado">
+            <summary>
+            Ado数据访问
+            </summary>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.BeginTran">
+            <summary>
+            开始事务
+            </summary>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.CommitTran">
+            <summary>
+            执行事务
+            </summary>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.RollbackTran">
+            <summary>
+            回滚事务
+            </summary>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.Insert(System.Dynamic.ExpandoObject,System.String)">
+            <summary>
+            使用动态绑定创建插入sql
+            </summary>
+            <param name="model">动态绑定model</param>
+            <param name="tableName">表名</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.Insert``1(``0,System.String)">
+            <summary>
+            插入数据库
+            </summary>
+            <typeparam name="T">实体类</typeparam>
+            <param name="model">实体类实例</param>
+            <param name="tableName">数据表名称</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.Insert``1(System.Collections.Generic.List{``0},System.String)">
+            <summary>
+            批量插入数据库(基于事务)
+            </summary>
+            <typeparam name="T">实体类</typeparam>
+            <param name="modelList">实体类实例列表</param>
+            <param name="tableName">数据表名称</param>
+            <returns>插入数据数量</returns>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.InsertBatch(System.Data.DataTable)">
+            <summary>
+            大批量插入数据（ dt.TableName=数据表名）
+            </summary>
+            <param name="dt"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.DeleteByKey``1(``0,System.String)">
+            <summary>
+            更新数据（根据主键）
+            </summary>
+            <typeparam name="T">实体类</typeparam>
+            <param name="model">实体类实例</param>
+            <param name="tableName">数据表名称</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.DeleteByKey``1(System.Collections.Generic.List{``0},System.String)">
+            <summary>
+            批量更新数据（根据主键）
+            </summary>
+            <typeparam name="T">实体类</typeparam>
+            <param name="modelList">实体类实例列表</param>
+            <param name="tableName">数据表名称</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.UpdateByWhere(System.Dynamic.ExpandoObject,System.String,System.String)">
+            <summary>
+            更新数据（条件）
+            </summary>
+            <param name="model"></param>
+            <param name="tableName">数据表名</param>
+            <param name="where">条件</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.UpdateByWhere``1(``0,System.String,System.String)">
+            <summary>
+            更新数据（条件）
+            </summary>
+            <typeparam name="T">实体类</typeparam>
+            <param name="model">实体类实例</param>
+            <param name="tableName">数据表名</param>
+            <param name="where">条件</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.UpdateByKey``1(``0,System.String)">
+            <summary>
+            更新数据（根据主键）
+            </summary>
+            <typeparam name="T">实体类</typeparam>
+            <param name="model">实体类实例</param>
+            <param name="tableName">数据表名称</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.UpdateByKey``1(System.Collections.Generic.List{``0},System.String)">
+            <summary>
+            批量更新数据（根据主键）
+            </summary>
+            <typeparam name="T">实体类</typeparam>
+            <param name="modelList">实体类实例列表</param>
+            <param name="tableName">数据表名称</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.ExistByKey``1(``0,System.String)">
+            <summary>
+            查是否存在
+            </summary>
+            <typeparam name="T">实体类</typeparam>
+            <param name="model">实体类对象</param>
+            <param name="tableName">数据表名</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.SelectByKey``1(``0,System.String)">
+            <summary>
+            查询（根据主键）
+            </summary>
+            <typeparam name="T">实体类</typeparam>
+            <param name="model">实体类对象</param>
+            <param name="tableName">数据表名</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.SelectAll``1(System.String)">
+            <summary>
+            单表查询（整个表）
+            </summary>
+            <typeparam name="T">实体类</typeparam>
+            <param name="tableName">数据库表名</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.SelectByWhere``1(System.String,System.String)">
+            <summary>
+            条件查询（单表）
+            </summary>
+            <typeparam name="T">实体类</typeparam>
+            <param name="where">条件（如 [User]='admin' 或者 count>10）</param>
+            <param name="tableName">数据表名</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.CreateTable``1">
+            <summary>
+            创建表
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:DataAccess.Interface.IDataAccess.ExtendedTable``1">
+            <summary>
+            扩展表字段
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="T:DataAccess.Interface.IAdo">
+            <summary>
+            ADO.NET接口
+            </summary>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.ConnectionTest">
+            <summary>
+            连接测试
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.GetDbParameter">
+            <summary>
+            获得参数（DbParameter）
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.GetDbParameter(System.String,System.Object)">
+            <summary>
+            获得参数
+            </summary>
+            <param name="name"></param>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.GetDbParameter(System.String,System.Object,System.Data.ParameterDirection)">
+            <summary>
+            获得参数
+            </summary>
+            <param name="name">名</param>
+            <param name="value">值</param>
+            <param name="direction">输入或输出</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.DbParameterToString(System.Data.Common.DbParameter[],System.String)">
+            <summary>
+            拼接参数
+            </summary>
+            <param name="dbParams"></param>
+            <param name="join">分隔符</param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.ExecuteNonQuery(System.String)">
+            <summary>
+            执行非查询
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.GetSingleResult(System.String)">
+            <summary>
+            获得简单查询
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.GetReader(System.String)">
+            <summary>
+            获得查询结果集
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.GetDataTable(System.String)">
+            <summary>
+            获得查询DataTable
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.ExecuteNonQuery(System.String,System.Data.Common.DbParameter[])">
+            <summary>
+            增删改操作
+            </summary>
+            <param name="sql"></param>
+            <param name="param"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.GetSingleResult(System.String,System.Data.Common.DbParameter[])">
+            <summary>
+            获得简单查询
+            </summary>
+            <param name="sql"></param>
+            <param name="param"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.GetReader(System.String,System.Data.Common.DbParameter[])">
+            <summary>
+            获得查询结果集
+            </summary>
+            <param name="sql"></param>
+            <param name="param"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.GetDataTable(System.String,System.Data.Common.DbParameter[])">
+            <summary>
+            获得DataTable
+            </summary>
+            <param name="sql"></param>
+            <param name="param"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.ExecuteNonQueryByTran(System.Collections.Generic.List{System.String})">
+            <summary>
+            启用事务提交多条带参数的sql语句
+            </summary>
+            <param name="listSql"></param>
+            <returns></returns>;
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.ExecuteNonQueryByTran(System.String,System.Collections.Generic.List{System.Data.Common.DbParameter[]})">
+            <summary>
+            启用事务提交多条带参数的sql语句
+            </summary>
+            <param name="sql"></param>
+            <param name="listParam"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.ExecuteNonQueryByTran(System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.Data.Common.DbParameter[]})">
+            <summary>
+            启用事务提交多条带参数的sql语句
+            </summary>
+            <param name="sqlList"></param>
+            <param name="listParam"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.ExecuteNonQueryByProcedure(System.String,System.Data.Common.DbParameter[])">
+            <summary>
+            增删改操作（使用存储过程）
+            </summary>
+            <param name="spName"></param>
+            <param name="param"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.GetDataTableByProcedure(System.String,System.Data.Common.DbParameter[])">
+            <summary>
+            GetDataTable（使用存储过程）
+            </summary>
+            <param name="spName"></param>
+            <param name="param"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.GetSingleResultByProcedure(System.String,System.Data.Common.DbParameter[])">
+            <summary>
+            简单查询（使用存储过程）
+            </summary>
+            <param name="spName"></param>
+            <param name="param"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DataAccess.Interface.IAdo.GetReaderByProcedure(System.String,System.Data.Common.DbParameter[])">
+            <summary>
+            获得查询结果集（使用存储过程）
+            </summary>
+            <param name="spName"></param>
+            <param name="param"></param>
+            <returns></returns>
+        </member>
+        <member name="T:DataAccess.Interface.DbType_e">
+            <summary>
+            数据库类型
+            </summary>
+        </member>
+        <member name="T:DataAccess.Interface.SqlConst">
+            <summary>
+            sql语句常量
+            </summary>
+        </member>
+        <member name="F:DataAccess.Interface.SqlConst.SQL_CREATETABLE">
+            <summary>
+            创建
+            </summary>
+        </member>
+        <member name="F:DataAccess.Interface.SqlConst.SQL_SELECT">
+            <summary>
+            查询
+            </summary>
+        </member>
+        <member name="F:DataAccess.Interface.SqlConst.SQL_SELECT2">
+             <summary>
+            条件查询
+             </summary>
+        </member>
+        <member name="F:DataAccess.Interface.SqlConst.SQL_INSERT">
+            <summary>
+            插入
+            </summary>
+        </member>
+        <member name="F:DataAccess.Interface.SqlConst.SQL_DELETE">
+            <summary>
+            删除
+            </summary>
+        </member>
+        <member name="F:DataAccess.Interface.SqlConst.SQL_UPDATE">
+            <summary>
+            更新
+            </summary>
+        </member>
+    </members>
+</doc>

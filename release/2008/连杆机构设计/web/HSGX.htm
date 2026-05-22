@@ -1,0 +1,100 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML><HEAD><TITLE>按两连架杆对应位置呈连续函数关系设计铰链四杆机构</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=gb2312">
+<META content="MSHTML 6.00.2900.2722" name=GENERATOR>
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</HEAD>
+<BODY>
+<P><STRONG>按两连架杆对应位置呈连续函数关系设计铰链四杆机构 </STRONG><STRONG></STRONG></P>
+<P>利用铰链四杆机构的两连架杆转角 <IMG height=21 
+src="images/HSGX/clip_image002_0003.gif" width=65>来模拟给定的函数关系 
+y=f(x) 。 x 的变化区间 ( <IMG height=20 
+src="images/HSGX/clip_image004_0001.gif" height=30 width=50>),y 的变化区间 ( 
+<IMG height=19 src="images/HSGX/clip_image006_0003.gif"  width=50 height=30>), 见下图 </P>
+<P><IMG height=181 src="images/HSGX/clip_image008_0001.jpg" 
+width=344></P>
+<P> </P>
+<P>根据具体条件可以选定比例系数 </P>
+<P><IMG height=23 src="images/HSGX/clip_image010_0004.gif" 
+width=12><IMG height=45 
+src="images/HSGX/clip_image012_0002.gif" width=12><IMG 
+height=96 src="images/HSGX/clip_image014_0001.gif" 
+width=100></P>
+<P>式中φ m 为 x 变化区间内对应转角；ψ m 为 y 变化区间内对应的转角。 </P>
+<P>由于平面四杆机构待定的尺寸参数是有限的，所以一般只能近似实现预期函数。常用的近似设计采用插值逼近法，其插值结点的横坐标民下式确定： </P>
+<P><IMG height=23 src="images/HSGX/clip_image010_0005.gif" 
+width=12><IMG height=43 
+src="images/HSGX/clip_image016_0002.gif" width=241></P>
+<P>式中 i=1,2,...m 为插值结点数。<br>如果取m=3,  则得三个插值结点，那么这三组对应角位置可以利用设计方法“按两连架杆预定的对应位置设计”中的<A href="DYWZ0.htm">式(1-3)</A> 
+求出机构的尺度参数。 </P>
+<P>如果取m=5, 则得五个插值结点，那么这五组对应角位置可以利用设计方法“按两连架杆预定的对应位置设计”中的<A href="DYWZ0.htm">式(1-1)</A> 
+求出机构尺度参数。 </P>
+<p>相关链接：<br>    <a href="DYWZ0.htm">按两连架杆预定的对应位置设计</a></p></BODY></HTML>

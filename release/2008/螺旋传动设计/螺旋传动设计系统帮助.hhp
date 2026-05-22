@@ -1,0 +1,29 @@
+[OPTIONS]
+Compatibility=1.1 Or later
+Default Window=Main
+Default topic=E:\2006.5.4-程序说明书\NewTopic.htm
+Default font=宋体,9,1
+Contents file=螺旋传动设计系统帮助.hhc
+Index file=螺旋传动设计系统帮助.hhk
+Display compile progress=Yes
+Full-text search=Yes
+Language=0x804 中文(中国)
+
+[WINDOWS]
+Main="","螺旋传动设计系统帮助.hhc","螺旋传动设计系统帮助.hhk","E:\2006.5.4-程序说明书\NewTopic.htm","E:\2006.5.4-程序说明书\NewTopic.htm",,,,,0x20,180,0x104E,[80,60,720,540],0x0,0x0,,,,,0
+
+[FILES]
+NewTopic.htm
+NewTopic.htm
+NewTopic.htm
+NewTopic.htm
+查询简介.htm
+公式查询.htm
+功能简介.htm
+功能简介.htm
+滚动螺旋传动设计.htm
+滑动螺旋传动设计.htm
+设计简介.htm
+数据库查询.htm
+系统菜单与功能按钮.htm
+系统简介.htm

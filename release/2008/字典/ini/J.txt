@@ -1,0 +1,364 @@
+J display   &&   J型显示
+J-K flip-flop   &&   J-K触发器
+J-carry system   &&   J载波系统
+J-head engine   &&   顶置气门
+J-integral   &&   J积分(在断裂力学中围绕裂缝顶端的一个围线积分)
+JAMA   &&   (Japanese Automobile Manufacturers Association)  日本汽车制造商协会
+JCB   &&   (JC Banford construction vehicle (mainly European use))    (主要在欧洲使用的)班福特建筑车辆
+JIC   &&   (Joint Industry Committee(US)) (美)合营工业委员会
+JPI   &&   Japanese Petroleum Institute日本石油学会
+JV type, 4 cylinders in-line, petrol engine   &&   JV型直列4缸汽油发动机
+Jack star   &&   星铁
+Jackson alloy   &&   铜锌锡合金(Zn 30％ Sn 5% 余为Cu)
+Jacob alloy   &&   铜硅锰合金(Cu 94.9％ Mn l。1％)
+Jacobi alloy   &&   雅可比合金(Sn 85％，Sb 10％， Ca 5％；或Pb 85％，Sn 5％，Sb 10％；或Pb 63％，Sn 27％，Sb lO％)
+Jacobi matrix   &&   雅可比矩阵，牙嵌式联轴器
+Jacobi's integral   &&   雅可比积分
+Jacobi's polynomials   &&   雅可比多项式
+Jacobi's theorem   &&   雅可比定理
+Jacobian matrices   &&   雅可比矩阵，导数矩阵
+Jacobsite   &&   锰铁尖晶石
+Jacquard loom   &&   提花织机
+Jacquets method   &&   雅克特电解抛光法
+Jae metal   &&   铜镍合金(Ca 30％，Ni 70％)
+Jaeger blower   &&   耶格鼓风机
+Jahn-Teller effect   &&   扬-特勒效应(晶体结构中形成长短键)
+Jake brake   &&   发动机制动
+Jalten   &&   锰铜低合金钢(C 0.25％，Mn 1.5％，Si 0.25％，Cu 0.4％)
+Janning method   &&   贾宁磨损检测法
+Janus   &&   双向天线
+Japanese Industrial Standard   &&   日本工业标准
+Japanese blue gold   &&   日本兰金(Ca 90％～99％，Au 1％～10％)
+Japanese tung oil   &&   日本桐油
+Japanese wood oil   &&   日本桐油
+Jaray car   &&   贾雷型汽车
+Jeantaud steering   &&   简托德转向
+Jeep dolly   &&   带牵引座的牵引台车
+Jena glass   &&   耶拿玻璃(一种抗热，抗震玻璃)
+Jensen's inequality   &&   约翰逊不等式
+Jersey fireclay brick   &&   杰尔西耐火砖(美国硅质耐火材料)
+Jersey stone   &&   杰尔西石(一种瓷石)
+Johnson gauge block   &&   ①约翰逊规块②块规，量规
+Johnson noise   &&   约翰逊噪声，热噪声
+Johnson's bronze   &&   约翰逊青铜(一种轴承合金，Cu 90％，Zn 9.5％，Sn O.5％)
+Joint Photographic Expert Group   &&   联合图像专家组[JPEG]
+Jominy curve   &&   顶端淬火曲线
+Jominy test   &&   顶端淬火试验(测试淬透性)
+Jordan canonical form   &&   约尔丹标准型
+Jordan canonical matrix   &&   约尔丹标准形矩阵
+Jordan decomposition   &&   约尔丹分解
+Jordan form   &&   约尔丹(形)式
+Jordan sunshine recorder   &&   暗筒日照计，乔唐日照计
+Jorminy distance   &&   顶端淬火距离
+Josephson effect   &&   约瑟夫森效应
+Josephson effect device   &&   约瑟夫森效应器件
+Josephson tunnel effect   &&   约瑟夫森隧道效应
+Josephson tunneling   &&   约瑟夫逊隧道效应
+Joule   &&   焦耳
+Joule effect   &&   焦耳效应
+Joule equivalent   &&   焦耳当量
+Joule heat   &&   焦耳热
+Just-In-Time   &&   适时制[JIT]
+end-quench test   &&   顶端淬火试验(测试淬透性)
+jack   &&   ①千斤顶②起重机③传导装置④插口，塞孔，插座
+jack hammer drill   &&   手持式风钻
+jack lamp   &&   安全灯
+jack rabbit start   &&   滑转起步
+jack switch   &&   插座开关
+jack-up   &&   举起
+jacket   &&   ①套，护套②保护层(屯缆)③水色布(胶管)④被覆，外壳
+jacket heating   &&   夹套加热
+jacketing   &&   ①套式加热②套式冷却
+jacking   &&   举起
+jacking bracket   &&   顶车点
+jacking point   &&   顶车点
+jacking stress   &&   张拉控制应力，张拉应力
+jackknife   &&   折叠现象
+jackmanizing   &&   深渗碳处理，深层渗碳
+jackscrew   &&   螺旋千斤顶
+jackshaft   &&   ①转轴 ②套轴
+jacquard   &&   提花机
+jam   &&   ①压紧②抑制，阻塞③停止，咬住，卡住，挤位④干扰⑤堵塞，故障
+jam nut   &&   保险螺母，防松螺母，锁紧螺母，安全螺母，锁定螺母
+jam switch   &&   门控灯开关
+jam to signal   &&   噪声信号比
+jam weld   &&   对头焊，塞焊
+jamb switch   &&   门控灯开关
+jammer   &&   干扰机(雷达的)
+jammer adapter   &&   干扰附加器
+jamming   &&   人为干扰
+jamming transmitter   &&   干扰发射机
+jamproof   &&   抗干扰的
+jar   &&   ①瓶，电瓶③缸④震动，冲击
+jar mill   &&   罐磨机，小球磨
+jar ramming machine   &&   震实造型机
+jargons   &&   黄锆石
+jarlite   &&   黄钾铁矾
+jarring   &&   震动
+jarring machine   &&   冲击机，震动机
+jaw   &&   ①爪②虎钳，钳口③滑块，凸轮④销，键
+jaw clutch   &&   爪形离合器，颚式离合器
+jaw crusher   &&   颚式破碎机
+jaw of spanner   &&   扳手钳口
+jaw of the vice   &&   虎钳口
+jaw positive-contact coupling   &&   牙嵌式联轴器
+jaw vice   &&   虎钳
+jeep   &&   吉普车，越野汽车
+jel   &&   凝胶
+jell   &&   ①使凝固，固结②定形③胶囊
+jerk   &&   ①急拉，急推②急扭，急撞③急跳④突条跳动，突振⑤冲击⑥跃度
+jerk diagram   &&   跃度曲线，跃度
+jerk pump   &&   柴油机喷油泵
+jerk sensor   &&   加速度传感器
+jerk transducer   &&   加速度传感器
+jerking table   &&   振摇台
+jet   &&   ①喷口，喷嘴②喷注，喷射，喷流，射流③喷射器④喷气发动机
+jet aeroplane   &&   喷气飞机
+jet aircrafts   &&   喷气式飞机
+jet alloy   &&   火箭合金
+jet amplifier   &&   射流放大器
+jet bit   &&   喷射式钻头
+jet blower   &&   喷气鼓风机，喷射送风机
+jet bomber   &&   喷气式轰炸机
+jet burner   &&   喷射烧嘴，喷射火口
+jet coal   &&   长焰煤
+jet compressor   &&   喷射压气机
+jet condenser   &&   喷射凝汽机
+jet cutting shearer   &&   高压射流采煤机
+jet drier   &&   喷气式干燥机
+jet drilling   &&   喷射钻
+jet dryer   &&   喷射干燥器
+jet dyeing machine   &&   喷射染色机
+jet dynamics   &&   射流动力学
+jet electro-plating   &&   喷射电镀
+jet engine   &&   喷气发动机
+jet engine thrust   &&   喷气发动机推力
+jet enriching valve   &&   加速阀量孔
+jet etch   &&   喷腐蚀
+jet flow   &&   射流流动
+jet fuel   &&   喷气式发动机燃料
+jet gas turbine   &&   喷气式燃气轮机
+jet hardening   &&   喷射淬火，喷水淬硬法
+jet ignition system   &&   喷射点火系统
+jet impact mill   &&   喷射冲击式磨机
+jet lift dredger   &&   喷射式挖泥船
+jet loom   &&   喷射织机
+jet lubrication   &&   喷射润滑
+jet mill   &&   气流磨碎机，喷射磨碎机
+jet motor   &&   喷气发动机，火箭发动机
+jet mould   &&   喷射塑模
+jet moulding   &&   喷射模塑
+jet noise   &&   喷流噪声，空气动力噪声
+jet nozzle   &&   喷射口，喷嘴，尾喷管，喷射管
+jet orifice separator   &&   喷嘴分离器
+jet particle   &&   喷射粒子
+jet plating   &&   喷镀
+jet propelled aeroplane   &&   喷气式飞机
+jet propelled carriage   &&   喷气推进牵引车
+jet propelled carrier   &&   喷气拖车，喷气式运载工具
+jet propeller   &&   喷气推进器
+jet propulsion engine   &&   喷气推进发动器
+jet propulsion fuel   &&   喷气发动机燃料
+jet propulsion laboratory   &&   喷气推进实验室
+jet quenching   &&   喷射淬火，喷射淬硬法
+jet recorder   &&   喷射式记录仪
+jet starter   &&   喷气启动机
+jet stream   &&   喷流，喷管流动
+jet swelling effect   &&   射流膨胀效应，喷口膨胀效应
+jet thrust   &&   喷气推力
+jet transition point   &&   射流转变点
+jet tray   &&   喷射板
+jet vane   &&   燃气舵
+jet-assisted-takeoff engine   &&   起飞助推器
+jet-engine compressor   &&   喷气发动机(的)压气机
+jet-flame mill   &&   火焰钻机
+jet-piece machine   &&   热力穿孔机
+jetting   &&   喷流
+jettisonable cockpit   &&   弹射座舱
+jib   &&   挺杆，臂，吊臂，臂架，吊杆
+jib crane   &&   臂架起重机，悬臂起重机
+jib hoist   &&   臂式起重机
+jib-type ditcher   &&   转臂式挖沟机
+jib-type loader   &&   转臂式装载机
+jig   &&   ①夹具，夹紧②钻模③样板④开幅卷染机
+jig and fixture   &&   机床夹具
+jig and welding fixture   &&   焊接胎夹具
+jig borer   &&   坐标镗床
+jig boring machine   &&   坐标镗床，座标镗床，冶具搪孔机
+jig bush   &&   钻套
+jig dyeing machine   &&   卷染机
+jig grinder   &&   坐标磨床，
+jig grinding machine   &&   坐标磨床，冶具磨床
+jig saw   &&   线锯
+jig welding   &&   ①接触焊②器械焊接，模焊接
+jigger   &&   辘轳车，卷染机
+jiggering  wheel   &&   拉坯盘车，辘轳车
+jigs   &&   钻模
+jitter   &&   图像跳动
+jittered pulse recurrence frequency   &&   跳动的脉冲重复频率
+job   &&   作业
+job control block   &&   作业控制块
+job control language   &&   作业控制语言
+job control macro-order   &&   作业控制宏指令
+job control program   &&   作业控制程序
+job control statement   &&   作业控制语句
+job flow chart   &&   作业流程图
+job library   &&   作业库
+job lot production   &&   单件生产
+job management   &&   作业管理
+job processing control program   &&   作业处理，控制程序
+job shop task type production   &&   车间任务型生产
+job stream   &&   作业流
+job-lot control   &&   分批控制
+job-oriented terminal   &&   面向作业的终端
+job-shop automation   &&   车间自动化
+job-work   &&   单件生产
+jockey   &&   ①导轮②膜，薄膜，振动膜③连接装置
+jockey pot   &&   活动坩埚
+jockey pulley   &&   ①导轮，托轮②张紧轮，支持轮
+jockey roller   &&   支持轮
+jockey wheel   &&   导轮，支持轮(皮带或链条的)
+jog   &&   ①割阶②粗糙面，凹凸部③慢进刀
+jog density   &&   割阶密度
+jogged dislocation   &&   割阶位错
+jogged screw dislocation   &&   割阶螺型位错
+jogging   &&   ①冲动状态(电动机反复启动的状态)②产生割阶，割阶的(材料)
+joggle   &&   榫接，啮合，定缝销钉
+joggled butt joint   &&   啮合对接
+joggled lap joint   &&   啮合搭接
+joggling   &&   摇动加工
+joggling die   &&   镦粗模
+jogs on dislocation   &&   位错上割阶
+join   &&   ①接合，接连②接合处，接缝③连接，并集，合并
+join by fusion   &&   熔接，熔焊
+join operation   &&   联合运算
+joining   &&   连接，接合，接头
+joining-up differentially   &&   差接
+joining-up in parallel   &&   并接
+joining-up in series   &&   串接
+joint   &&   ①接合，连接②关节，联轴节③结点，接头④接缝，焊接⑤节点，结点，节理⑥连接器
+joint access   &&   连接入口
+joint action   &&   接合作用
+joint bar   &&   鱼尾板
+joint binding tape   &&   接缝黏结纸带
+joint buildup sequence   &&   焊道熔敷顺序
+joint cutter   &&   锯缝机
+joint displacement   &&   节点位移
+joint distribution   &&   联合分布
+joint distribution function   &&   联合分布函数
+joint ergodic random process   &&   联合遍历随机过程
+joint estimates   &&   联合估计
+joint gate   &&   分型面浇口
+joint glue   &&   胶接胶，接合胶，装配胶
+joint line   &&   结合线
+joint pin   &&   连接销
+joint point   &&   连接点
+joint preparation   &&   ①接头制备②备料
+joint probability   &&   联合概率
+joint probability density   &&   联合概率密度
+joint probability function   &&   联合概率函数
+joint process   &&   联产过程
+joint product casting   &&   联产品成本计算
+joint products   &&   联产品
+joint random variable   &&   联合随机变数
+joint runner   &&   填缝浇口
+joint sawer   &&   锯缝机
+joint seal   &&   密接，封缝
+joint stationary random process   &&   联合平稳随机过程
+joint trunk exchange   &&   连接长途电话局
+joint weld   &&   焊接接头，焊缝
+joint-welding sequence   &&   接头焊接顺序(指多层焊时焊层或焊道的焊接次序)
+jointed manipulator   &&   关节型操作器
+jointer   &&   ①联结件②电缆焊接工
+jointing   &&   ①填料②接合，连接，接缝，焊接③垫片
+jointless structure   &&   无缝结构
+jointless tracks   &&   无缝线路轨道
+joist   &&   ①工字钢②搁栅③托梁
+joist shears   &&   型钢剪切机
+joist steel   &&   梁钢
+jolleying   &&   辘轳成型，旋压成形
+jolt   &&   震摇，震实
+jolt moulding machine   &&   震动造型机，震实制型机
+jolt rock-over pattern draw machine   &&   翻台震实式造型机
+jolt roll-over draw machine   &&   翻箱震实造型机
+jolt squeeze   &&   震压
+jolt squeeze  moulding machine   &&   震压造型机
+jolt squeeze turnover pattern draw machine   &&   回转震压造型机
+jolt table   &&   震动台
+jolt toughness   &&   震击韧性
+jolt-packing   &&   震动填料
+jolt-ram turnover pattern draw machine   &&   旋转起模震实造型机
+jolt-ramming machine   &&   震动捣打机
+jolter   &&   震实制型机
+jolting mechanism   &&   震击机构
+jounce   &&   动行程
+journal   &&   ①数据通信系统应用记录 ②轴颈
+journal axis   &&   轴颈中心线
+journal bearing   &&   轴颈轴承
+journal box   &&   轴(颈)箱，轴颈轴承
+journal brass   &&   轴颈铜衬
+journal bronze   &&   轴颈青铜，减摩青铜
+journal centre   &&   轴颈中心
+journal friction   &&   轴颈摩擦
+joy stick   &&   操纵杆
+joystick control   &&   操纵杆
+judder   &&   ①抖动②离合器颤振
+juggernaut   &&   重型商用汽车
+jump   &&   跳变，跃迁，转移
+jump address   &&   转移地址
+jump address field   &&   转移地址字段
+jump coupling   &&   万向接头
+jump face   &&   接合面，连接面
+jump frequency   &&   跳变频率，跃迁频率
+jump function   &&   ①跳跃函数，跃变函数②阶跃波形
+jump instruction   &&   跳转指令，转移指令
+jump instruction operand   &&   转移指令操作数
+jump joint   &&   对接
+jump lead   &&   跳线跨接
+jump phenomenon   &&   跳跃现像
+jump routine   &&   跳转程序
+jump start   &&   跳线跨接起动
+jump test   &&   锻粗试验，顶锻试验
+jump weld tube   &&   对缝焊管
+jumper cable   &&   跳线跨接
+jumping trace routine   &&   转移跟踪程序
+jumping-up   &&   镦粗
+junction   &&   ①接头②结合③连接(点)④结⑤焊缝，焊点
+junction battery   &&   结电池
+junction box   &&   ①接线盒，套管②联轴器
+junction breakdown   &&   结击穿
+junction capacitance   &&   结电容
+junction capacitor   &&   结电容器
+junction circuit   &&   连结电路
+junction class   &&   端的类型
+junction class of thermocouple   &&   热电偶的端的类型
+junction current   &&   连接电流，中继电流，结电流
+junction depth   &&   结深
+junction diode   &&   面结型二极管
+junction electroluminescence   &&   (半导体)结场致发光
+junction factor   &&   结的因子
+junction isolation   &&   结绝缘
+junction laser   &&   结型激光器
+junction luminescent device   &&   结构发光器件
+junction perfection factor   &&   结的完美因子
+junction phenomena   &&   结现像
+junction photodiode   &&   结型光电二极管
+junction phototransistor   &&   结型光敏晶体管
+junction point   &&   联结点
+junction pole   &&   分线杆
+junction station   &&   汇结站
+junction style   &&   端的形式
+junction style of thermocouple   &&   热电偶的端的形式
+junction temperature   &&   结温
+junction transistor   &&   结型晶体管
+junction transposition   &&   接线换位
+junction type zinc oxide varstor   &&   结型氧化锌电压敏电阻器
+junction voltage   &&   结电压
+junction-gate field-effect transition   &&   结栅场效应晶体管
+junction-type field effect transistor   &&   结型场效应晶体管
+juncture   &&   ①接缝②连接，接合，焊接③接合点接头
+justification   &&   对正， 对正方式
+justify   &&   对正，调整
+jute insulated cable   &&   黄麻绝缘电缆
+juxtaposition   &&   ①并列，并置②接近，邻近③交叉重叠法
+juxtaposition twin   &&   并置双晶

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>机床夹具</name>
+  <classname>基本工具</classname>
+  <classid>2090_2219_2220</classid>
+  <version>1.1.0</version>
+  <softkey>0102</softkey>
+  <username>迈迪设计宝</username>
+  <userid>83193</userid>
+  <startexe>pgrun.exe</startexe>
+  <isMd>False</isMd>
+  <explain><![CDATA[机床夹具包括导向件、定位件、对刀块、夹紧件、支撑件，和夹具有关的机床附件，在“机床夹具”里所列夹具、常用的零件及部件均参考机械标准、行业标准可以直接调用三维模型]]></explain>
+</plugin>

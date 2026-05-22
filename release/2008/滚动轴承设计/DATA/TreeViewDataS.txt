@@ -1,0 +1,10 @@
+0_, P01, 滚动轴承设计, -
+P01, P02, 滚动轴承承载能力的一般说明, Helps\AS01.mht
+P01, P03, 滚动轴承的寿命计算, Helps\AS02.mht
+P01, P04, 温度系数ft,Helps\AS03.mht
+P01, P05, 当量动载荷, Helps\AS04.mht
+P01, P06, 载荷系数fp, Helps\AS05.mht
+P01, P07, 动载荷系数X、Y, Helps\AS06.mht
+P01, P08, 成对轴承所受轴向力, Helps\AS07.mht
+P01, P09, 成对轴承当量动载荷, Helps\AS08.mht
+P01, P10, 修正额定寿命计算, Helps\AS09.mht

@@ -1,0 +1,181 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">差动棘轮和差动齿轮机构</span></td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>内棘轮差动机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/682.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 割草机轮轴4的两端各设有行走轮1，在转弯时，要求左右轮转速不等，棘轮式差动机构可满足此要求。内棘轮1是行走轮，它空套在轮4上，六槽圆盘3用销5与轮轴固联，并装有棘爪2与内棘轮1啮合。当行走轮逆时针转动时，带动轮轴转动；当行走轮顺时针转动时，轮1在棘爪上滑动，达到差动要求。该机构用于以行走轮为主动的蓄力割草机中。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>锥齿轮差动机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/683.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动锥齿轮1通过从动齿轮2及2上的系杆带动行星轮3，驱使左右半轴齿轮4、5来带动左右驱动车轮7、6。 汽车转弯时，为了保持左右驱动车轮在地面上作纯滚动，要求两轮转速 <br>
+        <img src="images/68_1.gif"><br>
+        式中n6、n7--左右车轮的转速，且n7=n4,n6=n5； <br>
+        　　 r--汽车后轴中心的转弯半径； <br>
+        　　 L--汽车后轮距的一半。 <br>
+        　　 N6=n2（r＋L）／r <br>
+        　　 N7=n2（r－L）／r <br>
+        　　 汽车在直线行驶时，n2=n6=n7，此时由齿轮3、4、 5和2组成的差动轮系不起作用。当车轮6陷入泥泞中，轮7在干硬路面上时，两轮的道路阻力相差甚大时，相当轮7被制动，即n7=0。轮6近似没有阻力， 则n6=2*n2。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>两轴相位角调整机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/684.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 蜗杆1不转动时，齿轮5-2-3-4为定轴轮系。主动轴1通过定轴轮系带动从动轴II转动。如要调整I、II两轴间的相位角时，可转动蜗杆1带动蜗轮6和与6固联的转臂H，使齿轮2、3、4带动轴II转动一定角度，结果改变I、II轴间的相位角。这种机构可在工作过程中调整相位角。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>同步转速仪差动机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/691.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 由构件l－2－2'－3－H组成的差动轮系将两个涡轮机A、B的转动合成一个运动，用以测定两涡轮机的转速差。涡轮机A通过传动带驱动齿轮1，涡轮机B通过传动带驱动系杆H作同向转动。齿轮3的转速为前二者的转速差。若带轮直径民Da=Db=Dc=100mm、 Dd=500mm，各轮齿数分别为：z1=18、z2=24、z2'=21、z3=63， 则齿轮3的转速 <br>
+        <img src="images/69_1.gif"><br>
+        　　 轮3固联指针P，当两涡轮机A，B转速相等（同步)时，n3=O，齿轮3上的指针P不动，而且指在 "0"点；当nB＞nA时，n3＞0，为"＋"，则指针与涡轮机转向相同；当nB＜nA时，n3＜0为"-"，则指针与涡轮转向相反。以此为依据来调整给汽量，实现两涡 轮机同步运转。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>轴线位置偏差补偿机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/692.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 非共线两轴之间的联接除可采用各式联轴器外，还可采用位置偏差补偿机构。在图中，主动轴1的轴心为O，从动轴 2的轴心为O'，两轴线的偏差为OO'=e。主、从动轴与连杆4、5及滑块3、6组成差动机构，并用扇形齿轮啮合封闭。在工作过程中，当轴心O与O'的相对位置 发生变化时，借助此机构可自动得到补偿，而不影响两轴的运动传递。 <br>
+    </p></td>
+  </tr>
+</table>
+</body>
+</html>

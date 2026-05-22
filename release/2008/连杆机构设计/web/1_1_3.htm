@@ -1,0 +1,173 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center" cellpadding="0" cellspacing="2">
+  <tr>
+    <td colspan="2" align="left" valign="top"><span class="Title">平行四杆机构</span></td>
+  </tr>
+  <tr>
+    <td width="45%" align="left" valign="top" class="thth"><div align="center">机构示意图 </div></td>
+    <td valign="top" class="thth"><div align="center">机构特性简介</div></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><table>
+      <tr>
+        <td width="45%" valign="top">
+        <tr>
+            <td>&nbsp; </td>
+        </tr>
+          <tr>
+            <td align="left" >简单平行四杆机构 </td>
+          </tr>
+          <tr>
+            <td>&nbsp; </td>
+          </tr>
+    </table>      <img src="images/2_1_1_3/373.gif" width="289" height="227"></td>
+    <td width="55%" valign="top"><br>
+      在平行四杆机构ABCD中连杆BC作平动，连架杆AB、CD均为曲柄作匀速转动，传动比i13=1，如图所示。当机构位置转至各杆处在同一水平位置时（即AB'C'D 在同一水平线上），从动件C点的运动将出现不确定现象，构件3可能出现与主动件1相同或相反的两种转动方向。 <br>
+      在实用中利用从动件本身导向，或附加质量的惯性导向，或加装辅助曲柄等方法克服反转，使构件3与构件1同向匀速转动。平行四杆机构的类型较多，应用较广。
+      <p></p></td>
+  </tr>
+  <tr>
+    <td valign="top"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+        <tr>
+          <td align="center" >简森平行四杆支座 </td>
+        </tr>
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+      </table>
+    <img src="images/2_1_1_3/373.gif" width="292" height="229"></td>
+    <td width="55%" valign="top"><br>
+      以两个平行四杆组合而成，平行四杆的外侧铰点B1、B2（C1、C2） 与固定铰点B0（C0）成三角形，且绕B0（C0）转动。内侧 铰点B3、B4（C3、C4）与固定轴A0成三角形，两组三角 形全等。当外侧铰点B1、B2（C1、C2）绕B0（C0）转动时， 带动铰接在环上的B3、B4（C3、C4），使环绕A0转动 180&deg;。该机构可代替支撑天线的环形支座，操纵直径为7.93m的大型雷达天线。 </td>
+  </tr>
+  <tr>
+    <td valign="top"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+        <tr>
+          <td align="center" >多头钻机构 </td>
+        </tr>
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+      </table>
+    <img src="images/2_1_1_3/374.gif"></td>
+    <td width="55%" valign="top"><br>
+      多头钻由多个平行四杆机构组成，偏心轴1为主动件，通过圆盘制成的连杆2带动四个具有相同偏心距的多个钻头3等作同 向匀速转动。该机构结构紧凑，用于加工多孔、小孔距的工件，但要求较高的制造精度。如果润滑有保证、机构的平衡较好，可以在较高的转速下工作。 </td>
+  </tr>
+  <tr>
+    <td valign="top"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+        <tr>
+          <td align="center" >可变轴距多平行四杆机构 </td>
+        </tr>
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+      </table>
+    <img src="images/2_1_1_3/381.gif"></td>
+    <td width="55%" valign="top"><br>
+      图中所示主、从动轴距可变的多平行四杆机构，在圆盘构件2、4、6的等圆周上各设三个等间距的轴销，分别与长为L的连杆3、5…相互铰接，形成多个平行四杆机构。主动轴1通过连杆及中间盘带动从动轴7作同向同速转动，主、从动轴的轴距可根据需要改变，最大轴距为2L。 </td>
+  </tr>
+  <tr>
+    <td valign="top"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+        <tr>
+          <td align="center" >砂轮边缘圆磨机构 </td>
+        </tr>
+        <tr>
+          <td>&nbsp; </td>
+        </tr>
+      </table>
+    <img src="images/2_1_1_3/382.gif"></td>
+    <td width="55%" valign="top"><br>
+      图中两三角盘4、5分别绕固定支点A、B转动，当构件6作主动件往复 摆动，通过四杆机构带动从动件1作绕定点的摆动，构件1上的金刚石2作圆弧运动，把砂轮3的边缘磨成圆形。砂轮对称中心线与固定铰点A、B重合，故也称该机构为三支点机构。 </td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,157 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">曲柄摇杆往复运动机构</span></td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>摆动式供矿机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/453.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 曲柄AB作主动件，通过连杆BC控制与闸门3固联的摇杆CD作往复摆动，实现间歇式放矿。曲柄摇杆机构ABCD具有急回特性，摇杆往复摆动的空回行程与工作行程的平均速度之比称作急回系数K，它是极位夹角θ的函数 <br>
+        <img src="images/45_5.gif"><br>
+        　　 急回系数K值愈大，急回效果愈显著，但不宜过大，否则将增大压力角，从而影响传动效率。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>料斗激振机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/454.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 利用带减速器的电动机驱动圆盘回转，通过连杆带动摇臂连续摆动，使物料在料斗内沿出口漏下。设计时为防止过载应装设安全装置。该机构属于曲柄摇杆机构，其摆动角、摆动速度和传动力不能调节。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>翻板机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/461.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 由两个曲柄摇杆机构ABCD和AEFG组成的翻板机构，利用摇杆的延长部分DM、GN将金属板HJ翻转180°。金属板HJ由左侧进入，并放置在DM上面。当DM与NG转到相 互对应的位置时，金属板HJ由DM过渡到摇杆GN上，同时完成翻转180°，被送到另一端在右侧运走。该机构应用于有色金属轧机后部作为金属板翻转机构。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>颚式碎矿机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/462.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 由曲柄摇杆机构OADE加上4、5两杆组成。当曲柄OA作主动件，通过连杆2带动摇杆DE作摆动，同时驱使动颚CF 往复摆动，相对定颚6不断挤压两颚之间的矿料，完成破碎矿料的工艺要求。两颚间的夹角必须进行分析计算，保证两颚挤压碎矿时矿料不被挤跑。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

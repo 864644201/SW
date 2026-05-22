@@ -1,0 +1,82 @@
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+<p align="center"><b><span lang="zh-cn"><font size="5">按从动杆近似停歇要求设计平面四杆机构</font></span></b></p>
+<p><span lang="zh-cn">
+　　在实际生产中，有时要求从动杆在其某一极限位置上有一近似停歇，以配合实现某种工艺动作的要求。用连杆机构来实现这种近似停歇运动，具有运动平稳，加工简便等优点。因此已在不少机器　中得到应用。如在针织机、织布机、包装机等机械中采用曲柄摇杆机构实现某一极限位置上的近似停歇。又如冲床、压床等采用曲柄滑块机构实现某一极限位置上的近似停歇。</span></p>
+<p><b><span lang="zh-cn"><font size="4">曲柄摇杆机构的设计</font></span></b></p>
+<p><span lang="zh-cn">　　在下图中所示的曲柄摇杆机构中，摇杆CD的两个极限位置为C<sub>1</sub>D、C<sub>2</sub>D。C<sub>1</sub>D为前极限位置，C<sub>2</sub>D为后极限位置。从图中可以看出，摇杆在后极限位置附近运动要比在前极限位置附近更加缓慢。当曲柄与连杆的长度比a/b=λ较大时，近似停歇时间可以更长。</span></p>
+<p><span lang="zh-cn">选用两极限位置的两三角形△AC<sub>1</sub>D、△AC<sub>2</sub>D以及在后极限位置附近的四边形AB<sup>'</sup>DC<sup>'</sup>、AB<sup>&quot;</sup>DC<sup>'</sup>得</span></p>
+<p align="center"><img border="0" src="images/JSTX/jstxqb1.gif"></p>
+<p align="center">　</p>
+<p align="left"><span lang="zh-cn">若a、b、c、d已知，由上面的第一个方程可以得到<img border="0" src="images/JSTX/jstxqb2.gif" align="bottom">，由上面第二个方程可以得到<img border="0" src="images/JSTX/jstxqb3.gif" align="bottom">，选择一个合适的<img border="0" src="images/JSTX/jstxqb4.gif">即可由第三个方程求得近似停歇的曲柄转角<img border="0" src="images/JSTX/jstxqb5.gif">。</span></p>
+<p align="left">　</p>
+<p align="left">
+<img border="0" src="images/JSTX/a1.bmp"><img border="0" src="images/JSTX/cdjstype1sp11.bmp"></p>
+<p align="center"><span lang="zh-cn">曲柄摇杆机构实现近似停歇示意图</span></p>

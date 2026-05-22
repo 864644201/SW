@@ -1,0 +1,192 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2" class="Title">滑块往复移动机构</td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle">偏置曲柄滑块机构 </td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/473.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 图中曲柄AB长度为r，作主动件匀速转动，连杆BC长为l、偏距为e。 在工作行程曲柄由B2顺时针转至B1，旋转（π+θ）角， 将滑块由C2推至C1；空行程时曲柄由B1转回B2，旋转（π-θ）角，滑块回到原位。θ角称作极位夹角。滑块在空行程和工作行程的平均速度不等，空行程快一些以便提高工效。急回系数K为 <br>
+        <img src="images/47_1.gif" width="112" height="35"><br>
+        　　 适当增长r或e，可使θ增大，急回作用增强。机构有曲柄的条件为r＋e≤l，滑决行程H＜2r。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle">档车轭机构 </td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/474.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 图中偏心轮l作主动件，通过和它配合的档车轭2带动压头3沿固定导轨 4作上下往复运动。档车轭2是可在压头3上的水平导轨中运动的矩形滑块，而压头3是沿铅垂方向导轨4上下运动。本机构将偏心轮转动的铅垂方向分力直接传给压头实现锻压机的冲压运动。由于不用连杆，可降低设备高度，并提高设备的刚度，节省因构件变形所耗费的能量。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>牛头刨机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/481.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 属于摆动导杆机构，由曲柄AB作主动件，通过滑块B驱动导杆BC作往复摆动。要求杆长r＜L，L为机架长度。导杆上端D 铰链滑块带动EF作往复移动。该机构具有急回特性，极位夹角θ=2arcsin(r/L) ，EF的行程H=2Rsin(θ/2) ，R为导杆DC的长度。 <br>
+        　　 当加大r／L的比值时，机构尺寸减小、导杆摆角增大，急回系数K增大，空行程速度变化剧烈。一般推荐（r／L）＜0.5，导杆摆角θ＜60。该机构在各类机床中应用较多，如插床、刨床等。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>L形板送进与定向机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/482.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 工件L形板由进给槽6连续供给，曲柄9为主动件，通过导杆8的往复摆动带动上送料板7，将工件沿固定平板5 送进，使L形板落入带有V形槽的工件定向块3中，在重力的作用下L形板较重的底边进入走向块底槽， 成直立姿态。这时另一主动曲柄1通过导杆2带动下送料板4将直立工件推入工作区。 <br>
+        　　 主动曲柄1、9转向相同，它们互相联系协调动作。工件送进速率由工作区的工艺要求决定，该机构送进速率可达360件／h。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>双导杆滑块机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/483.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 曲柄AC作主动件带动转动导杆BC，通过滑块E驱使摆动导杆DF带动滑块G作往复移动。转动导杆BC与曲柄AC组合可加强滑块G的急回效果，使急回系数K显著增 大。 <br>
+        　　 要求杆长条件为L AC ﹤L AB ，随着L ac /L ab 的比值减少，机构的动力性能将逐渐变坏。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>六杆急回机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/484.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 六杆急回机构用于重型插床等，由曲柄摇杆机构OABC加上杆DE和沿块E组合而成。杆长AB=BC=BD，曲柄OA作主动件顺时针匀速转动，当A点由A1转至A2时，滑块E（即插刀）由上向下完成工作行程（即切削行程 E1E2）；当由A2转回A1时为空行程。其运动特点是工作行程中插刀可获得近似匀速切削运动，保证良好的切削质量。回程时间短，急回作用较曲柄摇杆机构有明显的增大。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

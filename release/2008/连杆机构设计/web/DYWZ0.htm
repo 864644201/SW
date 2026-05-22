@@ -1,0 +1,95 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<p><strong>铰链四杆机构的设计</strong></p>
+<p><img src="images/DYWZ/image001.gif"><br>
+图1.1解析法设计铰链四杆机构</p>
+<p>在图1.1所示铰链四杆机构中，两连架杆对应角位置为φ<sub>0</sub>、ψ<sub>0</sub>、φ、ψ；各杆的长度分别为a、b、c、d。由图可得两连架杆对应角位置的关系式</p>
+<p><img src="images/DYWZ/image002.gif" align="middle"> （1-1）</p>
+<p>式中：<img src="images/DYWZ/image003.gif" align="middle"></p>
+<p>式（1-1）中包含有P<sub>0</sub>、P<sub>1</sub>、P<sub>2</sub>、φ<sub>0</sub>及ψ<sub>0</sub>五个特定参数，说明此铰链四杆机构所能满足的两连架杆对应角位置最多为五组。若取φ0=ψ0=0度，则上式有可写成</p>
+<p><img src="images/DYWZ/image004.gif" align="middle"> （1-2）</p>
+<p>利用式（1-2）可以设计两两连架杆三组对应角位置的铰链四杆机构，其设计计算步骤如下：</p>
+<p>①将三组对应的角位置φ<sub>1</sub>、ψ<sub>1</sub>；φ<sub>2</sub>、ψ<sub>2</sub>；φ<sub>3</sub>、ψ<sub>3</sub>分别代入式（1-2），得方程组</p>
+<p><img src="images/DYWZ/image005.gif" align="middle"> （1-3）</p>
+<p>②解上述方程组，可得P<sub>0</sub>、P<sub>1</sub>、P<sub>2</sub>值。</p>
+<p>③由<img src="images/DYWZ/image006.gif" align="middle">可求得m、n及l的值。</p>
+<p>④根据实际情况定出曲柄的长度a，从而确定其他三构件的长度b、c、d。</p>
+<p>相关链接：<br>    <a href="HSGX.htm">按两连架杆对应位置呈连续函数关系设计铰链四杆机构</a></p>
+</body>
+</html>

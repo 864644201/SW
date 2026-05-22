@@ -1,0 +1,3 @@
+D:\FlangeBox\FlangeBox\FlangeBox\md_b\004_化工标准法兰【欧洲体系】\007_钢制管法兰用金属环形垫(PN系列)\002_椭圆型\1_PN63.db驱动正确
+D:\FlangeBox\FlangeBox\FlangeBox\md_b\004_化工标准法兰【欧洲体系】\007_钢制管法兰用金属环形垫(PN系列)\002_椭圆型\2_PN100.db驱动正确
+D:\FlangeBox\FlangeBox\FlangeBox\md_b\004_化工标准法兰【欧洲体系】\007_钢制管法兰用金属环形垫(PN系列)\002_椭圆型\3_PN160.db驱动正确

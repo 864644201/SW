@@ -1,0 +1,193 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="１" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">气、液驱动连杆机构 </span></td>
+  </tr>
+  <tr>
+    <td colspan="2">　　以气、液压缸作动力来驱动连杆机构，将活塞的简单直线运动通过连杆机构变为复杂运动，以满足生产工艺对从动件的行程、摆角、速度和复杂动作等多方面要求。 <br>
+气、液驱动在机械传动中广泛应用，其中多数采用一个或几个摆动、直动液压缸作动力。 <br>
+这里介绍几个例子供参考。</td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>铸锭供料机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/762.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动水压缸1通过连杆2驱动双摇杆机构ABCD，将由加热炉出料的铸锭6运送到升降台7上。图所示实线位置为出料铸锭进入盛料器4内，4即是双摇杆的连杆BC，当机构运动到点划线位置时，4翻转180°（C'B'）把铸锭卸放在升降台7上。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>平板式气动闸门机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/763.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 气缸的活塞杆1通过连杆4带动闸门5开或关。实线所示位置为闸门的关闭状态。此时，C点稍超过BD连线， 处于连线上方位置，使其具有自锁作用。即在将关闭时，杆3、4趋近直线，有很大的增力作用，使闸门关紧。2为限位挡块。图中双点划线位置表示闸门开启状态。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>卷筒胀缩机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/764.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 工作卷筒由外筒1和内筒2组成，l与2筒间用若干组平行杆AB、CD联接，形成若干铰链平行四杆机构，平行四杆机构ABCD就是其中之一，它以外筒的BC作连杆，内筒上的A、D作为固定铰链。当活塞杆4向右移动时，用端点F拉动EB使摇杆AB、DC向右摇动，缩小工作卷筒的外径。这时，可将金属带卷装在工作卷筒上。当活塞杆4向左移动时，通过F使AB、DC向左摇动，增大工作卷筒的外径，使装在卷筒上的金属带卷被张紧，以便由金属带卷上拉下带材。为使带材保持一定的拉力，卷筒上装有制动器3施加一定的摩擦阻力。图中没有表示金属带卷的形状和尺寸以及带材拖拉设备等。此机构应用在金属轧材车间的退火电炉等设备上。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>挖掘机机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/771.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 图示为正、反铲挖掘机的动臂屈伸液压机构，分别由大臂1、小臂2和铲头3组成，用三个液压缸驱动，控制大小臂和铲斗的运动，使之完成不同高度的挖掘和卸载。各种装载机的装载机构与挖掘机构类似，不同的是用两个液压拉驱动。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>液压柱塞铰接式步行机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/772.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 图示大型挖掘机步行机构、由推进液压缸1、举升液压缸2和靴座3共同铰接于A组成。步行动作如下：两柱塞杆缩回到液压缸内，并将靴座3悬起（见图a）；推进液压缸1的柱塞杆伸出，使靴座右移并放下（见图b）；举升液压缸2的柱塞杆伸出，使靴座紧压在土壤上，并将 挖掘机的机体升起斜支在土壤上（见图c）；推进液压 缸1将柱塞杆缩回，产生拉力使挖掘机向右移动一步（见图d）。至此，完成一个循环。重复上述循环将使挖掘机向右步行移动。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>凿岩台车液压托架摆动机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/773.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 隧道凿通工程采用凿岩机8打眼时，要求它能在巷道断面的各个方位 上都可工作。图示机构由两个油压缸4、5控制托架摆杆1完成上述要求，如在AK、AK"'、A'K'、 A'K"位置由凿岩机8打眼。 <br>
+        　　 凿岩机8打眼前，先用气压千斤顶顶在坑道顶板上将立柱2固定。当液压缸5的活塞杆伸缩时，可使摇臂6绕E转动，并可停在摆角α内的任一位置。摆臂7上的A、O、B先后处在AOB、A 1 O 1 B 1 、A 2 O 2 B 2 、A'O'B' 等位置，其中B随滑块3在立柱2上作相应移动，O点在摇臂6上绕E转动。当AB位置固定后，油缸4的活塞杆可使托架1绕A点转动，并可在β角范围内的任一位置停住（如AK或AK"'等），使AK上的凿岩机8 随之动作。通过液压缸4、5配合动作，可使凿岩机在坑道横断面内的二向人一方向进行打眼。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

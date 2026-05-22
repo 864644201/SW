@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window >
+	<Font name="Cambria" size="18" bold="true" italic="true" />
+
+<Container name="createxml" float="false" visible="false" >
+	<HorizontalLayout >
+		<Control />
+		
+		<Control />
+	</HorizontalLayout>
+</Container>
+
+</Window>

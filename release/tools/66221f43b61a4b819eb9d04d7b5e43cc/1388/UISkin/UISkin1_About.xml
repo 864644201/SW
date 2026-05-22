@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window >
+	<Font name="Cambria" size="18" bold="true" italic="true" />
+
+<Container name="aboutxml" float="false" visible="false" >
+	<HorizontalLayout >
+		<Control />
+		<VerticalLayout width="400"  >
+			<Control />
+
+			<VerticalLayout  height="186"  name="About_Background" bkcolor="0xff000000" bkimage="file='About_Background_00.png'" >
+				<Control height="1" bkcolor="#FF3AC6D7" />
+
+				<HorizontalLayout  height="26"  bkimage="file='About_Background_01.png'" >
+					<Control width="5" />
+					<VerticalLayout  width="65" >
+						<Control  />
+						<Control width="33" height="20"  />
+						<Control />
+					</VerticalLayout>
+					<Control />
+					<VerticalLayout width="22" >
+						<Control />
+						<Button name="aboutclose" width="22" height="22" bkimage="file='minmaxexit00.png'  dest='5,5,17,17' source='64,2,76,14' fade='125' "  hotimage="file='minmaxexit00.png'  dest='5,5,17,17' source='64,2,76,14' fade='225' " visible="true" />
+						<Control />
+					</VerticalLayout>
+					<Control width="2" />
+				</HorizontalLayout>
+
+				<Control />
+				<HorizontalLayout height="24" >
+					<Control />
+					<HorizontalLayout width="350" bordersize="1" >
+  				    	<Label  width="55" text="机器码："  float="false" font="3"  pos="22,0,0,0" textcolor="#ffb0f0f7" enabled="true" />
+  				    	<Control width="5" />
+  				    	
+  				    	<RichEdit name="MachineCodeREdit" width="280" height="24" text="" align="center" inset="6,4,4,0" font="3" bordersize="1" bordercolor="196684" focusbordercolor="238EB8" bkcolor="0x00000000" textcolor="c0c0c0"  autohscroll="false" multiline="false" rich="false" wantreturn="false" wanttab="false" readonly="true" />
+         			</HorizontalLayout>
+					<Control />
+				</HorizontalLayout>
+				<Control height="20"  />
+				<HorizontalLayout height="24" >
+					<Control />
+					<HorizontalLayout width="350" bordersize="1" >
+  				    	<Label  width="55" text="注册码："  float="false" font="3"  pos="22,0,0,0" textcolor="#ffb0f0f7"  enabled="true" />
+  				    	<Control width="5" />
+  				    	
+  				    	<RichEdit name="SerialNumberREdit" width="280" height="24" align="center" text="联系迈迪客服购买注册码！" inset="6,4,4,0" font="3" bordersize="1" bordercolor="196684" focusbordercolor="238EB8" bkcolor="0x00000000" textcolor="b0f0f7"  autohscroll="false" multiline="false" rich="false" wantreturn="false" wanttab="false" />
+         			</HorizontalLayout>
+					<Control />
+				</HorizontalLayout>
+				<Control height="20" />
+				<HorizontalLayout height="24" >
+					<Control width="50" />
+					<Button name="Button_about" width="80" height="24" bkimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='125' " hotimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='225' "  text="注册" font="3" textcolor="b0f0f7" />	
+					<Control />
+					<Button name="aboutclose" width="80" height="24" bkimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='125' " hotimage="file='ContentLeft_Button00.png' source='0,0,1,1' fade='225' "  text="取消" font="3" textcolor="b0f0f7" />	
+					<Control width="50" />
+				</HorizontalLayout>	
+				<Control />
+
+				<Control height="1" bkcolor="#FF3AC6D7" />
+			</VerticalLayout>
+
+			<Control />
+		</VerticalLayout>
+		<Control />
+	</HorizontalLayout>
+</Container>
+
+</Window>

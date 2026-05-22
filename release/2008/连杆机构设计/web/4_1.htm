@@ -1,0 +1,301 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">行程放大机构</span></td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>曲柄齿轮齿条机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/505.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 曲柄1半径为R作主动件转动，通过连杆2推动齿轮3与上、下齿条4、5啮合传动，上齿条4（或下齿条）固定，下齿条5（或上齿条）作往复移动。齿条移动行程H=4R。 <br>
+        　　 若将齿轮3改用双联齿轮3与3'，半径分别为r 3 、r 3' 。齿轮3与固定齿条5啮合，齿轮3'与移动齿条4 啮合，其行程为 <br>
+        <img src="images/51_1.gif"><br>
+        当r 3' ＞r 3 时，H＞4R。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>齿轮连杆机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/511.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 由双摇杆ABCD、周转轮系和曲柄滑块机构等组合而成，用来增大滑块6的行程。齿轮1、2、3的节圆半径分别为r 1 、r 2 、r 3 ，均与摇杆4（系杆）铰接，其中轮3与连杆5铰接 于F、轮2与摇杆7铰接于C。当齿轮1作主动件顺时针转动时，通过齿轮2、3和系杆4等带动滑块6作往复移动，行程H为 <br>
+        <img src="images/51_2.gif"><br>
+        <img src="images/51_3.gif"><br>
+        式中 a=AB=r 1 +r 2 b=BC c=CD d=AD L=EF <br>
+        　　 为保证E点由E 1 到E 2 时，F点由F 1 到F 2 ，必须满足下列条件，即 <br>
+        <img src="images/51_4.gif"><br>
+        式中 <img src="images/51_5.gif"><br>
+        <img src="images/51_6.gif"><br>
+        <img src="images/51_7.gif"></p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>滑块行程增大机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/512.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 由齿条作为导杆的构件2与扇形齿轮3啮合，2又与构件4的滑块在C点滑动，以保证齿条与齿轮的正常啮合。曲柄长度为r，当曲柄作主动件转动时，通过齿条推动齿轮，使固联在齿轮上的摆杆AB摆动，并由连杆5带动滑块6作往复移动，其行程 <br>
+        <img src="images/51_8.gif"><br>
+        式中R为齿轮节圆半径。如AB较长，r/R值较小时，则 <br>
+        <img src="images/51_9.gif"></p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>摇杆齿轮机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/513.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 一般曲柄摇杆机构的摇杆摆角不超过120°，如图所示，将摇杆3与扇形齿轮 4固联，可用4、5的啮合传动增大从动件的输出摆角。 按图所示比例，从动件5摆角可增大2.5倍。 如果增大图形齿轮的节圆半径、减小输出齿轮的节圆半径，则将增大输出齿轮的摆角。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>轮系行程放大机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/514.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 由齿轮1、2、3和系杆H 组成的行星轮系放大机构。中心轮1固定，系杆H（△ABC）作主动件转动，通过行星轮2、3的啮合传动，使固联在齿轮3上的杆CP随之运动，这时CP上的P点的直线轨迹距离H=4R。机构中杆长AC=CP=R，且z 1 =2z 3 。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>链轮摆动机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/521.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 图中摆杆2的两端各与链轮3和5铰接，链轮5固定不动，从动链轮3是行星轮，两轮间用链条4连接传动。当主动件1带动摇杆2作往复摆动时，其摆角为α，则从动链轮3和与它固联的从动杆6的摆角增大为β，摆角放大的比率取决于两链轮的齿数比： <br>
+        <img src="images/52_1.gif"><br>
+        式中z 2 、z 3 为链轮的齿数 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>叉车门架提升机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/522.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 活塞6的轴端装有链轮4，链条5的一端与叉车架上的A点固联，绕过链轮4其另一端与叉板1上的B连接。当主动活塞6在动力作用下，上升或下降时，链轮4将支承链条拉起或放下叉板1。叉板上装有导向轮2在导槽3中移动，以保证叉板能灵活地上下移动。叉板行程高度为H，它是活塞有效行程的2倍。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>带轮行程放大机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/523.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 图a中曲柄1长度为r，当1作主动件转动时，通过连杆2推动小车前后轮3、5作往复转动。在小车前后轮3、5上各固联一个带轮，分别空套在各自的轴上，以带4环绕拉紧两带轮，带4下方在A点固定。当小车往复运动时，使带4上方的B点作往复移动，其行程为曲柄长的4倍，即行程HB=4r。 <br>
+        　　 图b的小车部分与图a相同，但点A不与机架相联，而与另一连杆3铰接。曲柄1、2 的长度相等均为r，分别装在一对尺寸相同的外啮齿 轮上。当曲柄之一为主动时，两个连杆4、3分别驱动小车和环带，使环带上B点作往复移动，其行程为曲柄长的6倍，即行程为HB=6r。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>复式滑轮组行程放大机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/524.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动气缸2以活塞杆3控制滑轮组4，通过绳索6、定滑轮5等拉动滑块1移动，滑块移动的距离H=6s。式中S为活塞杆3的移动距离。该机构可用作弹射机构。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>双摆杆摆角增大机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/525.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动摇杆1端部的滚子3插入从动摆杆2的滑槽中，当杆1 摆动α角时，杆2的摆角β大于α实现摆角增大。两杆中心距a应小于主动摆杆1的半径β，这样方能实现摆角增大的目的。各参数之间的关系为 <br>
+        <img src="images/52_2.gif"></p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>双面凸轮行程放大机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/531.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动齿轮1与齿轮2啮合，并驱动与轮2为一体的双端面凸轮4。4的上端面与滚子6接触，支承6的轴承是固定在从动件8上；4的下端面与滚子7接触，支承7 的轴承是固定在机架3上。当凸轮公转动时，用上端面通过滚子控制从动件8作往复移动，同时下端面在滚自7 的作用下使凸轮沿轴5往复移动。双面凸轮较单面凸轮的推程增大一倍。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>扇形齿轮齿条凸轮增大行程机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/532.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动凸轮2绕固定轴1转动，通过滚子带动从动杆3作往复移动，移动行程为H1。在从动杆的滚子轴上装有扇形齿轮4，扇形齿轮4与固定在机架上的齿条5啮合，扇形齿轮4的摆杆随从动杆3作往复移动的同时还作摆动，其外端A点运动行程的直线距离为 AA'=H。A点运动行程的直线距离H显然比从动杆3的移动行程H1大。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

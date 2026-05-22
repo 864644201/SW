@@ -1,0 +1,100 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center" cellpadding="0" cellspacing="2">
+  <tr>
+    <td valign="top" align="left"><span class="Title">机构选型说明</span></td>
+  </tr>
+  <tr>
+    <td valign="top" align="left">　　
+      <p>设计机械时要首先依据工艺要求拟定从动件的运动形式、功能范围，正确选择合适的机构类型、动力传递方式，从而进行新机械、新机器的设计，同时分析其运动的精确性、实用性和可靠性等。所谓机构的选型就是选择合理的机构类型实现工艺要求的运动形式、运动规律。 
+        <br>
+      　　机构选型的原则为： <br>
+      　　1）依照生产工艺要求选择恰当的机构型式和运动规律。机构型式包括连杆机构、凸轮机构、齿轮机构、轮系和组合机构等。机构的运动规律包括位移、速度、加速度的变化特点，它与各构件间的相对尺寸有直接关系，选用时应做充分考虑，或按要求进行分析计算。 <br>
+      从生产工艺对从动件的运动特性、功能等方面的具体要求，选取最佳的机构型式，以实现生产中的连续或间歇运动；移动或摆动；等速或变速运动；直线轨迹或圆弧；圆或各种特殊曲线轨迹等。在功能上以完成转位、抓取、旋紧、检测、控制、调节、增力以及定位联锁、安全保险等要求。此外从动件在工作循环中的速度、加速度的变化应符合要求，其功能动作误差应不超过允许限度，以利于保证产品质量，并具有足够的使用寿命。 <br>
+      　　2）结构简单、尺寸适度，在整体布置上占的空间小，达到布局紧凑，又能节约原材料。选择结构时也应考虑逐步实现结构的标准化、系列化，以期降低成本。 <br>
+      　　3）制造加工容易。通过比较简单的机械加工，即可满足构件的加工精度与表面粗糙度的要求。还应考虑机器在维修时拆装方便，在工作时稳定可靠、使用安全，以及各构件在运转中振动轻微、噪声小。 <br>
+      4）局部机构的选型应与动力机的运动方式、功率、转矩及其载荷特性相互匹配协调，与其他相邻机构的衔接正常，传递运动和力时可靠，运动误差应控制在允许范围内，绝对不能发生运动的干涉。 <br>
+      　　5）具有较高的生产效率与机械效率，经济上有竞争能力。<br>
+      　　在机构理论研究中，为了系统的研究各类机构的设计理论和方法，将机构按结构特点进行分类，如分成凸轮机构、齿轮机构、连杆机构等，但是在实际的机械设计中，要求所选用的机构能实现某种动作或有关功能。因此，从机械设计的实际需要出发，可以将各种形式的机构，按运动转换的种类和实现的功能来进行分类。通过如此的分类，便于设计人员选用合适机构或得到某种启示来创造新机构。<br>
+   　　在常规设计中，您可以根据设计要求查询和选用合适的现有机构类型，也可在快速检索表中进行快速检索。</p>      </td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,4 @@
+D:\FlangeBox\FlangeBox\FlangeBox\md_b\004_化工标准法兰【欧洲体系】\01_钢制管法兰（PN系列）\007_平焊环松套法兰(PJ-RJ)\01_凹面（FM）\01_A系列\1_PN10.db驱动正确
+D:\FlangeBox\FlangeBox\FlangeBox\md_b\004_化工标准法兰【欧洲体系】\01_钢制管法兰（PN系列）\007_平焊环松套法兰(PJ-RJ)\01_凹面（FM）\01_A系列\2_PN16.db驱动正确
+D:\FlangeBox\FlangeBox\FlangeBox\md_b\004_化工标准法兰【欧洲体系】\01_钢制管法兰（PN系列）\007_平焊环松套法兰(PJ-RJ)\01_凹面（FM）\02_B系列\1_PN10.db驱动正确
+D:\FlangeBox\FlangeBox\FlangeBox\md_b\004_化工标准法兰【欧洲体系】\01_钢制管法兰（PN系列）\007_平焊环松套法兰(PJ-RJ)\01_凹面（FM）\02_B系列\2_PN16.db驱动正确

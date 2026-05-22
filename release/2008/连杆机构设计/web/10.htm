@@ -1,0 +1,194 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">增力和夹持机构</span></td>
+  </tr>
+  <tr>
+    <td colspan="2">　　在机械制造中加工或传递工件需要可靠地夹紧，选择夹紧机构还要求结构简单、动作迅速或有一定的自锁能力，一般采用机构的死点、摩擦自锁等形式。另外，常用肘杆机构、双角斜楔、杠杆等增力。</td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>斜面杠杆式增力机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/774.gif" width="291" height="118"></td>
+    <td valign="top" width="68%"><p><br>
+        　　 气缸通过与活塞杆4铰接的双角斜模块2控制压紧杠杆1压紧工件。当双角斜楔块2与杠杆1上的滚子3接触，先用大升角α；使杠杆1迅速接近工件，然而用小升角α使杠杆压紧工件，并能保持自锁。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>肘杆式增力冲压机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/781.gif" width="269" height="329"></td>
+    <td valign="top" width="68%"><p><br>
+        图中所示六杆曲柄肘杆机构利用机构接近死点位置所具有的传力特性实现增力。如图所示肘杆3的两极位置EC1和EC2在ED线的两侧，则曲柄1每转一周时，滑块5可上下两次；如果3的两极限位置取在ED线的一侧，则当曲柄转一周时，滑块5上下一次。设滑块产生的压力为Q，杆2、4受力为F、P，两肘杆3、4的长度相等，则曲柄1施加于连杆2的力F为 <br>
+        <img src="images/10_2.gif"><br>
+        式中α--肘杆3、4与ED线的夹角； <br>
+        　　 L1、L2--力F、P的作用线至轴心E的垂直距离。 <br>
+        　　 在加压阶段开始时，角α和线段L2很小，因此曲柄1施加于杆2的力F很小，达到增加效果。在精压机、冲床等锻压设备中，为了获得短行程和高压力常采用这种机构。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>卸载式压砖机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img height="363" src="images/783.gif" width="260"></td>
+    <td valign="top" width="68%"><p><br>
+        　　 为保证砖坯10上下密度一致，需上下压头同时移动，进行双向等量加压。作为上压头的滑块7在与拉杆架8固联的导轨11中滑动。下压头装在8的下部，8的上部与杆5 铰接，5的上端有一滚子4可沿固定凸轮3滚动，凸轮3的轮廓曲线应能满足双向等量加压要求。拉杆架8在固定导轨9中上下移动。此机构可使压砖时的压力不作用在机架上，最高压力可达12MN。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>利用死点自锁的压紧机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/782.gif" width="323" height="265"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 图a中，逆时针方向转动手柄1，使1与连杆2成一条直线处在铅垂位置时，将机构置于死点位置。这时摇杆3带动压头4把工件压紧。压头4的压紧位置和压紧力可由4上的调整螺母调整。图b中，转动手柄1，使 2上的BC与摇杆CD成一直线，机构处于死点位置而自锁，并压紧工件。压头5的压紧力可由5上的调整螺母调整。这种利用死点实现自锁的夹具，虽自锁性差，但结构简单、动作迅速。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>压铸机合模机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/791.gif" width="289" height="122"></td>
+    <td valign="top" width="68%"><p><br>
+        　　 高压油进入液压缸7内推动活塞杆6，驱动两个对称安装的摆杆滑块机构。驱动力P通过连杆5加在摆杆1上的D点处，迫使杆1绕A摆动，并通过连杆2使活动压模3向固定压模4靠近，当活塞移至右端位置时，两压模3和4正好合拢，而摆杆1的AB线刚好与连杆2的BC共线。这时，金属液进入两模空间，因上下两套曲柄滑块机构同时处于死点自锁状态，虽然注入金属液产生几兆牛的压力，压模3也不会移动。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>简单机械手的夹持机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/792.gif" width="303" height="240"></td>
+    <td valign="top" width="68%"><p><br>
+        　　 图a为滑槽杠杆式夹持机构，其结构简单动作灵活，手爪开闭角度大。如果尺寸a、b和拉力F一定时，增大α角可使夹紧力F1增大，但α过大将导致驱动气缸行程过大，一般选取α=30°～40°。图b中连杆式夹持机构可产生较大的夹紧力，各杆的铰链联接处磨损较小，但结 构比较复杂，适用于抓取重量较大的工件。如果b、C和推力F一定时，减小α角可增大夹紧力F1。当α=0 时，利用死点能自锁，这时去掉外力F，重物不会把手爪推开而脱落。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

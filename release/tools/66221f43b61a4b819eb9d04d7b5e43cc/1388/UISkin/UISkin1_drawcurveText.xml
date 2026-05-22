@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window  >
+
+	<Container name="drawcurveText" float="false" visible="true" >
+		<VerticalLayout >
+			<Control />
+			<Label name="drawingText" text="" textcolor="FF063040" height="20" align="right" textcolor="#b0f0f7" />
+			<Label name="infoNameText" text="" textcolor="#c0c0c0" height="20" align="right" textcolor="#c0c0c0" />
+		</VerticalLayout>
+	</Container >
+
+</Window>

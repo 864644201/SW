@@ -1,0 +1,250 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="4"><span class="Title">铰链四杆机构</span></td>
+  </tr>
+  <tr>
+    <td colspan="2"><p align="center" class="thth">机构名称及几何条件 </p></td>
+    <td width="55%"><p align="center" class="thth">机构特性 </p></td>
+    <td width="19%"><p align="center" class="thth">机构传动函数及应用 </p></td>
+  </tr>
+  <tr>
+    <td width="3%"><p>曲柄摇杆机构 </p></td>
+    <td width="23%" valign="top"><p><img height="191" alt="qbyg-1.gif (8868 bytes)" src="images/qbyg-1.gif" width="191"></p>
+        <p> (1)各杆杆长分别为a、b、c和d，设连架杆1的长度a为最短； </p>
+        <p> (2)最短杆杆长a与最长杆长度之和≤其余两杆长之和； </p>
+    <p> (3) 曲柄为最短杆—连架杆1。另一连架杆3为摇杆，摆角0&lt;ψ&lt;180°，摆动的范围要么在机架及其延长线之上，要么在其之下。 </p></td>
+    <td valign="top"><p> (1)曲柄1作匀速转动时，摇杆3作往复变速摆动； </p>
+        <p> (2)主动曲柄与连杆重叠或拉直共线时，从动摇杆3处于极限位置C 1 D或C 2 D，摇杆摆角 </p>
+        <p>ψ o =arccos{[c 2 +d 2 -(a+b) 2 ]/2cd} -arccos{[c 2 +d 2 -(b-a) 2 ]/2cd} </p>
+        <p> (3)与摇杆极限位置对应的曲柄位置为AB 1 和AB 2 ,其间夹角为φ 1 和φ 2 ,分别对应摇杆3左右摆动的两个行程，其中小角的行程一般为急回行程,两极位间夹角θ表示为(0≤θ&lt;180°): <br>
+        θ=|φ 1 -φ 2 |/2 <br>
+        且θ=|arccos{[(b-a) 2 +d 2 -c 2 ]/2d(b-a)}- arccos{[(b+a) 2 +d 2 -c 2 ]/2d(b+a)}| </p>
+        <p> (4)摇杆急回行程与工作行程平均速度之比K称为行程速比系数： <br>
+        κ =(180 ° + θ )/(180°- θ) <br>
+        K≥1。一般取1≤θ≤2。K=1时没有急回运动； </p>
+        <p> (5)摇杆与连杆所夹锐角是传动角γ，γ越大表明机构的传力性能越好。γ min 发生在曲柄与机架共线的两个可能位置上。一般要求γ min ≥30°～45° </p>
+        <p> (6)以摇杆为原动件时，在曲柄与连杆共线的两个位置存在“死点”。在死点附近有一个自锁区，摇杆不能驱动曲柄转动。这时，可利用惯性或其它措施使机构通过死点位置。 </p></td>
+    <td valign="top"><p>1)机构传动函数为 </p>
+        <p><img height="129" alt="qbyg-3.gif (5320          bytes)" src="images/qbyg-3.gif" width="176"></p>
+        <p>当φ 1 =φ 2 时为对心曲柄摇杆机构 , θ=0,κ=1。 </p>
+        <p>(2)机构的应用
+      <ol>
+                            <li>
+                              <p>用于将主动曲柄1的匀速转动转换为从动摇杆3具有急回运动特性的变速摆动； </p>
+                            <li>
+                              <p>利用主动摇杆的往复运动转换为从动曲柄的整周转动(考虑渡过死点位置的措施)； </p>
+                            <li>
+                              <p>用于将曲柄1的转动实现从动摇杆的摆角ψ； </p>
+                            <li>
+                              <p>利用连杆2上点K的轨迹(连杆曲线)来满足机械运动要求； </p>
+                            <li>
+                              <p>与其他机构组合成多种用途的多杆机构； </p>
+                            <li>
+                              <p>利用极限位置与死点位置的特性作夹压机构。 </p>
+                            </li>
+      </ol></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><p>双曲柄机构 </p></td>
+    <td valign="top"><p>一般双曲柄机构 </p>
+        <p><img height="186" alt="sqbjg-7.gif          (6464 bytes)" src="images/sqbjg-7.gif" width="201"></p>
+        <p> (1) 各杆长分别 a、b 、 c和d 表示，机架长度a为最短； </p>
+        <p> (2)最短杆杆长a与最长杆长度之和≤其余两杆长之和； </p>
+        <p> (3)两连架杆 1和3 均可作整周转动而成曲柄。 </p></td>
+    <td valign="top"><p> (1) 当主动曲柄 1 (或3)是匀速转动时,从动曲柄 3 (或1)作变速转动 , 即传动比 <br>
+        i 13 = ω 1 / ω 3 =DP 13 /AP 13 ≠常数 <br>
+        式中 , 点 P 13 为杆 1 和 3的 相对瞬心(连杆或其延长线与机架或其延长线的交点)； </p>
+        <p> (2)平均传动比i 均 = n 1 /n 3 =1 <br>
+        n 1、 n 3 为1和3的平均转速； </p>
+        <p> (3) 当连杆 2 与机架 4 平行时 , i 13 =1, 而当连杆 2 垂直于机架 4 时 , 对某些尺寸组合的机构 , 其i 13 接近极值 : <br>
+        i 13max =1+a/AP 13 <br>
+        i 13min =1-a/AP 13 </p>
+        <p align="justify">(4)当机架长 a 改变时，传动不需中断； </p>
+        <p align="justify"> (5)任一曲柄为主动件时，从动曲柄无极限位置，且机构无死点； </p>
+        <p align="justify"> (6)当某一曲柄主动时，连杆2和从动曲柄间所夹锐角为传动角γ。最小传动角γ min 发生在主动曲柄与机架共线的两个可能位置上。一般要求γ min ≥30°～45°。曲柄1主动时的γ min 取下式最小值： <br>
+    <img height="51" alt="wpeAD.gif (1405 bytes)" src="images/jgxx1_4.gif" width="220"></p></td>
+    <td valign="top"><p> (1)机构传动函数为 </p>
+        <p><img height="135" alt="sqbjg-8.gif          (4727 bytes)" src="images/sqbjg-8.gif" width="154"></p>
+        <p> (2)机构应用
+      <ol>
+                            <li>
+                              <p>利用从动曲柄的变速转动来满足生产要求； </p>
+                            <li>
+                              <p>利用连杆点K的轨迹κκ来实现机械运动要求； </p>
+                            <li>
+                              <p>利用机架长AD变化时传动并不中断的特性而用作联轴器及改变传动比或轨迹特性等； </p>
+                            <li>
+                              <p>与其他机构组合成多种用途的多杆机构. </p>
+                            </li>
+      </ol></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>平行四边形机构 </p>
+        <p><img height="161" alt="sqbjg-1.gif          (6494 bytes)" src="images/sqbjg-1.gif" width="176"></p>
+        <p> (1)机构中的相对杆平行且杆长相等,a=c和b=d,构成平行四边形形状； </p>
+        <p> (2) 两连架杆1和 3 均为曲柄，且转速相等。 </p></td>
+    <td valign="top"><p> (1) 主动曲柄和从动曲柄的运动完全相同，转速总是相等的； </p>
+        <p> (2)连杆2作圆周平行移动，即ω 2 =0； </p>
+        <p> (3) 连杆2上任一点的连杆曲线为圆，图示点K的轨迹为圆κκ , 半径等于曲柄长a,圆心为点 O k , 可按△BKC≌△ AO k D 来确定点 O k 的位置； </p>
+        <p> (4)当连杆与机架共线时机构有两个死点位置，传动角γ=0。同时死点又是运动方向不确定位置。可利用双联平行四边形解决死点问题。 </p></td>
+    <td valign="top"><p>(1)机构传动函数为： <br>
+        ω 1 ≡ ω 3 </p>
+        <p><img height="157" alt="sqbjg-3.gif          (7295 bytes)" src="images/sqbjg-3.gif" width="155"></p>
+        <p> (2)机构应用
+      <ol>
+                            <li>
+                              <p>利用机构传动比i 13 不变的特性,用作传动装置; </p>
+                            <li>
+                              <p>利用连杆作平移的运动特性,常用于天平、仪表和操纵装置等; </p>
+                            <li>
+                              <p>利用连杆点轨迹，作间歇送进和切削装置等。 </p>
+                            </li>
+      </ol></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>反平行四边形机构 </p>
+        <p><img height="211" alt="sqbjg-2(a).gif (7500 bytes)" src="images/sqbjg-2_a.gif" width="200"></p>
+        <p><img height="171" alt="sqbjg-2(b).gif          (8694 bytes)" src="images/sqbjg-2_b.gif" width="184"></p>
+        <p> (1) 机构中相对杆的杆长相等，a=c和 b=d， 但不相互平行; </p>
+        <p> (2)两连架杆均为曲柄； </p>
+        <p> (3)依据固定最短杆(图 a) 或最长杆（图b）的不同情况，可分为两连架杆同向（图a）或反向转动（图 b ）两种情况。可由平行四边形机构转化而来。 </p></td>
+    <td valign="top"><p> (1) 主动曲柄 1 或是等速转动时，从动曲柄3或 1 同向（图a）或反向（图 b ）变速转动； </p>
+        <p> (2)机构传动比为 <br>
+        i 13 = ω 1 / ω 3 <br>
+        = ± [1+2arccos φ/b+(a/b) 2 ]/[1-(a/b) 2 ] <br>
+        式中：± ( 同向为"+",反向为 "-")。 <br>
+        平均速比i 13 =n 1 /n 3 =1 </p>
+        <p> (3) 当φ=0°和φ =180 °时,从动曲柄角速度有极值； </p>
+        <p> (4)由于机构尺寸原因,当从支曲柄与机架共线时 , 传动角γ 23min =0,机构处于死点位置。为保持反平行四边形特性,必须在 B ′、 B ″及相应的M′、 M ″处设置渡过死点的结构 </p></td>
+    <td valign="top"><p>(1)机构传动函数为 </p>
+        <p><img height="153" alt="sqbjg-4-1.gif          (6703 bytes)" src="images/sqbjg-4-1.gif" width="149"></p>
+        <p>a ）同向转动反平行四边形机构 </p>
+        <p><img height="158" alt="sqbjg-4-2.gif          (6959 bytes)" src="images/sqbjg-4-2.gif" width="161"></p>
+        <p>b ）反向转动反平行四边形机构 </p>
+        <p> (2)机构应用
+      <ol>
+                            <li>
+                              <p>用于要求两轴间距较远且具有联动作用的操纵或控制机构; </p>
+                            <li>
+                              <p>用于传递两轴间的反向变速转动场合以代替非圆齿轮机构; </p>
+                            <li>
+                              <p>用于要求从动轴作同向变速转动场合; </p>
+                            <li>
+                              <p>与其他机构相组合. </p>
+                            </li>
+      </ol></td>
+  </tr>
+  <tr>
+    <td><p>双摇杆机构 </p></td>
+    <td valign="top"><p><img height="183" alt="sygjg-1(a).gif (11628 bytes)" src="images/sygjg-1_a.gif" width="197"></p>
+        <p><img height="157" alt="sygjg-1(b).gif          (8971 bytes)" src="images/sygjg-1_b.gif" width="192"></p>
+        <p> (1) 最短杆杆长与最长杆杆长之和小于其余两杆杆长之和，且最短杆的对边杆为机架（图a）；最短杆杆长与最和杆杆长之和大于其余两杆杆长之和（图b） </p>
+        <p> (2)图a)示双摇杆机构中的连杆 2 可相对其余构件作整周转动：图b)示机构中的连杆 2则 不能整周转动 </p></td>
+    <td valign="top"><p> (1)主动摇杆1或3作往复摆动时，从动摇杆3或1也作往复摆动，图a中2为主动时，1和3的极限摆角为φ O 和ψ O </p>
+        <p> (2)杆1和杆 3 的极限 ( 最大)摆角分别为φ O 和ψ O 其值 ( 图 a 和图b)分别为 </p>
+        <p align="justify">φ O =arccos([b 2 +d 2 -(a+c) 2 ]/[2bd])-arccos([b 2 +d 2 -(c-a) 2 ]/[2bd]) </p>
+        <p align="justify">ψ O =arccos([b 2 +c 2 -(a+d) 2 ]/[2bc]) -arccos([b 2 +c 2 -(d-a) 2 ]/[2bc]) </p>
+        <p align="justify">和 </p>
+        <p align="justify">φ O =2arccos([a 2 +d 2 -(b+c) 2 ]/[2bd]) </p>
+        <p align="justify">ψ O =2arccos([b 2 +d 2 -(a+c) 2 ]/[2bd]) </p>
+        <p align="justify"> (3) 任一摇杆为主动且连杆与从动摇杆共线(两次 ) 时 , 机构处于死点,且最小传动角为零 , 所以实际使用时,转角范围应小于此两位置所限的范围 </p></td>
+    <td valign="top"><p>(1)机构传动函数为 </p>
+        <p><img height="139" alt="sygjg-2.gif          (5401 bytes)" src="images/sygjg-2.gif" width="153"></p>
+        <p>c)图a示双摇杆机构 </p>
+        <p><img height="149" alt="sygjg-3.gif          (7816 bytes)" src="images/sygjg-3.gif" width="153"></p>
+        <p>d) 图b示双摇杆机构 </p>
+        <p> 除图a以杆主动外 , 一般只能实现函数或轨迹中的一段 </p>
+        <p> (2)机构应用
+      <ol>
+                            <li>
+                              <p>用于要求两摇杆间转角具有非线性关系的场合,如仪表机构\汽车前轮转向机构等 </p>
+                            <li>
+                              <p>利用两摇杆间的摆角对应关系,如各种机械中的操纵装置 </p>
+                            <li>
+                              <p>利用连杆点K的轨迹κκ实现工艺要求如直线轨迹用于港口起重机 </p>
+                            </li>
+      </ol></td>
+  </tr>
+</table>
+</body>
+</html>

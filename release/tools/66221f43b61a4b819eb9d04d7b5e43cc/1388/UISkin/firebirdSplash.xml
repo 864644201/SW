@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="480,270" bkcolor="#FF003444">
+	<VerticalLayout name="background" bkimage="firebirdSplash.png" >
+	</VerticalLayout>
+</Window>

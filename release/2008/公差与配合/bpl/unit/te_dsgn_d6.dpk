@@ -1,0 +1,84 @@
+package te_dsgn_d6;
+
+{$R *.res}
+{$R 'ksthemereg.dcr'}
+{$ALIGN 8}
+{$ASSERTIONS OFF}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS OFF}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO OFF}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST ON}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION 'ThemeEngine'}
+{$DESIGNONLY}
+{$IMPLICITBUILD ON}
+
+requires
+  vcl,
+  vclx,
+  designide;
+
+contains
+  te_reg in 'te_reg.pas',
+  ksthemereg in 'ksthemereg.pas',
+  te_designer in 'te_designer.pas',
+  te_convert in 'te_convert.pas',
+  ksthemebuttons in 'ksthemebuttons.pas',
+  ksthemecheckboxs in 'ksthemecheckboxs.pas',
+  ksthemecomboboxs in 'ksthemecomboboxs.pas',
+  ksthemecontrolbars in 'ksthemecontrolbars.pas',
+  ksthemeedits in 'ksthemeedits.pas',
+  ksthemeengine in 'ksthemeengine.pas',
+  ksthemeforms in 'ksthemeforms.pas',
+  ksthemegrids in 'ksthemegrids.pas',
+  ksthemegroupboxs in 'ksthemegroupboxs.pas',
+  ksthemeheader in 'ksthemeheader.pas',
+  ksthemehints in 'ksthemehints.pas',
+  ksthemeinplaceedit in 'ksthemeinplaceedit.pas',
+  ksthemeitems in 'ksthemeitems.pas',
+  ksthemelabels in 'ksthemelabels.pas',
+  ksthemelistboxs in 'ksthemelistboxs.pas',
+  ksthememenuform in 'ksthememenuform.pas',
+  ksthememenus in 'ksthememenus.pas',
+  ksthememessages in 'ksthememessages.pas',
+  ksthemepanels in 'ksthemepanels.pas',
+  ksthemeprogress in 'ksthemeprogress.pas',
+  ksthemescrollbars in 'ksthemescrollbars.pas',
+  ksthemespeedbuttons in 'ksthemespeedbuttons.pas',
+  ksthemespinbuttons in 'ksthemespinbuttons.pas',
+  ksthemespinedit in 'ksthemespinedit.pas',
+  ksthemesplitter in 'ksthemesplitter.pas',
+  ksthemestatusbar in 'ksthemestatusbar.pas',
+  ksthemestdcontrol in 'ksthemestdcontrol.pas',
+  ksthemeswitch in 'ksthemeswitch.pas',
+  ksthemetabs in 'ksthemetabs.pas',
+  ksthemethemes in 'ksthemethemes.pas',
+  ksthemetoolbars in 'ksthemetoolbars.pas',
+  ksthemetrackbars in 'ksthemetrackbars.pas',
+  ksthemeversion in 'ksthemeversion.pas',
+  te_const in 'te_const.pas',
+  te_controls in 'te_controls.pas',
+  te_shared in 'te_shared.pas',
+  te_win2k in 'te_win2k.pas',
+  te_winxp in 'te_winxp.pas',
+  tethemeflat in 'tethemeflat.pas',
+  tethemehighlight in 'tethemehighlight.pas',
+  tethemelines in 'tethemelines.pas',
+  tethemeluna in 'TeThemeLuna.pas',
+  tethememetalluna in 'tethememetalluna.pas';
+
+end.

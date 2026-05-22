@@ -1,0 +1,5433 @@
+T head engine   &&   T形燃烧室发动机
+T nuts   &&   T形螺帽
+T slot piston   &&   T形槽活塞
+T-Carrier   &&   T-载波
+T-S diagram curve   &&   温盐曲线
+T-bend   &&   三通
+T-bridge   &&   T形电桥
+T-circuit   &&   T形网络
+T-complete net   &&   T完备化网
+T-connection   &&   T形连接，T形连接线
+T-flip flop   &&   触发式双稳态多谐振荡器
+T-iron   &&   钉字铁，T形铁
+T-nut   &&   钉字形螺母
+T-slot   &&   T形槽
+T-slot milling cutter   &&   T形槽铣刀
+T-type antenna   &&   T形天线
+TAME   &&   (Tertiary Amyl Methyl Ether) 叔戊基甲基醚
+TBA   &&   (Tertiary Butyl Alcohol) 叔丁醇
+TBI   &&   (Throttle Body Injection) 节气门体喷射
+TC   &&   ①(Twin Camshaft) 双腔化油器②(Twin Carburetor) 双化油器，双凸轮轴
+TCAM   &&   (Telecommunication Access Method) 远程通信存取法
+TCP   &&   (Tri-Cresyl Phosphate) 磷酸三甲酚(燃料添加剂 fuel additive)
+TCS   &&   (Traction Control System) 驱动力控制系统，在日本等地称为TRC或TRAC
+TDC   &&   (Top Dead Center of engine stroke)上止点
+TDR   &&   (Total Driving Resistance) 总驱动阻力
+TEL   &&   (Tetra Ethyl Lead) 四乙铅(添加剂 additive)
+TELNET   &&   (TELecommunication NETwork) 远程登录
+TEM   &&   (Transverse Electromagnetic wave) 横向电磁波
+TEM waveguide   &&   横向电磁波波导
+TG-DTA   &&   热天平差示热分析仪
+THC   &&   (Total Hydrocarbon (emissions)) 总碳氢化合物(排放)
+TIR   &&   (Transports Internationaux Routieres (EU))  (欧洲)国际公路运输
+TIS   &&   (Temporary Threshold Shift of hearing acuity) 听觉阈暂短性偏移
+TLEV   &&   (Transitional Low Emission Vehicle) 过渡低排放汽车(CARB排放标准)
+TML   &&   (Tetramethy Lead  (additive)) 四甲基铅(添加剂)
+TOFC   &&   (Trailer On Flat-Car transportation)  (运输用)平台式挂车
+TPV   &&   (Thermoplastic Vulcanizate) 热塑硫化产品
+TRA   &&   (Tire and Rim Association US) (美)轮胎与轮辋协会
+TRC   &&   牵引力控制(即，TCS)
+TRL   &&   (Transport Research Laboratory (UK)) (英)运输研究实验室
+TTC   &&   (Tire Track Circle) 轮胎轨迹圆
+TTL   &&   (Transistor-Transistor Logic) 晶体管-晶体管逻辑
+TTY   &&   电传打字机
+TV Cameras   &&   电视摄影机
+TV-camera system   &&   电视摄像系统
+TVO   &&   (Tractor Vaporizing Oil) 拖拉机汽化油(燃油 fuel)
+TWT   &&   (Travelling Wave Tube) 行波管
+Taylor connection   &&   泰勒接线法(变压器三相转两相)
+Telcuman   &&   泰尔铜镍锰合金<Cu 85％，Mn12％，Ni3％)
+Tetra-elhyl lead   &&   四乙铅[TEL]
+Tetra-methyl lead   &&   四甲铅[TML]
+The Institute of Electrical and Electronics Engineers, Inc   &&   IEEE802委员会(美国电气电子学工程师学会)
+Thermoperm alloy   &&   西莫珀姆铁镍合金(Ni30％，余为Fe)
+Thevenin theorem   &&   戴维南定理
+Thevenin's theorem   &&   等效发生器定理
+Thickness taper   &&   齿厚收缩
+Thomson bridge   &&   汤姆生电桥
+Thomson coefficient   &&   汤姆生系数
+Thomson double bridge   &&   汤姆生双臂电桥
+Thomson effect   &&   汤姆生效应
+Thomson heat   &&   汤姆生热
+Timken Test   &&   泰姆肯试验
+Titanit   &&   蒂坦尼特(钛钨)硬质合金
+Tobin bronze   &&   托宾青铜，海军铜
+Toluene Number   &&   甲苯值
+Tombac alloy   &&   顿巴黄铜(Zn10％～20％，Sn 0～1％，Cu 80％～90％)
+Torsen differential   &&   托森差速器，螺旋斜齿轮自锁差速器
+Tpiplex   &&   特里普莱克斯
+Tri-cresyl phosphate   &&   磷酸三重甲苯
+Tungsten-Rhenium thermocouple series   &&   钨铼系热电偶
+Turam method   &&   土拉姆法
+Tywman Green Interferometers   &&   Tywman Green干涉仪
+tab   &&   附签 标签
+tab gate   &&   辅助浇口，搭接浇口，柄形浇口
+table   &&   ①表，表格，图表②摇床③工作台，台
+table access   &&   表存取，表访问
+table accessing mechanism   &&   表存取机构
+table addressing   &&   表编址，表寻址
+table block   &&   数据表块
+table compression   &&   表压缩
+table crosswise movement   &&   工作台横向运动
+table data   &&   列表数据
+table display   &&   表显示
+table drive motor   &&   工作台驱动电动机
+table driven compiler   &&   表格控制编译程序
+table element   &&   表元素
+table entry   &&   表项目
+table feed   &&   工作台进刀，工作台进给
+table file   &&   表文件
+table for estimating implementation of MRPⅡ   &&   MRPⅡ实施检测表
+table handling   &&   表处理，表格处理
+table lamp   &&   台灯
+table language   &&   表语言
+table lock-up   &&   表封锁，查表
+table locking clamp   &&   工作台锁紧夹头
+table reversing dogs   &&   工作台返向轧头
+table search   &&   表检索
+table segmenting   &&   表分段，表格分段
+table structure   &&   表格结构
+table traverse   &&   工作台横向进给
+table-driven   &&   表格控制的，表驱动的
+table-driven algorithm   &&   表驱动算法
+table-driven code generation   &&   表驱动代码生成
+table-driven parser program   &&   表驱动分析程序
+table-driven parsing   &&   表驱动分析
+table-driven program   &&   表驱动程序，表控制程序
+table-driven simulation   &&   表驱动模拟，表控制模拟
+table-driven technique   &&   表驱动技术，表控制技术
+tableau   &&   表
+tableau format   &&   表的结构，表格结构
+tablet   &&   数字化仪 数位板
+taboo term   &&   禁忌词
+tabour   &&   鼓
+tabsurf   &&   平移曲面，板展曲面
+tabular display   &&   表格显示
+tabular interpolation   &&   表的插值
+tabular interpretive program   &&   译表程序，表解释程序
+tabular language   &&   列表语言
+tabular representation   &&   表格表示法
+tabular value   &&   表列值
+tabulate   &&   制表
+tabulated   &&   表列
+tabulated altitude   &&   表列高度
+tabulated azimuth   &&   表列方位
+tabulated data   &&   列表数据
+tabulated function   &&   列表函数
+tabulated height   &&   表列高度
+tabulated surface   &&   平移曲面 板展曲面
+tabulated value   &&   表列值
+tabulating card   &&   制表卡片
+tabulating system   &&   制表系统
+tabulating-system-oriented language   &&   面向制表系统的语言
+tabulation character   &&   制表字符
+tabulation field   &&   制表字段
+tabulation method   &&   制表法
+tabulation space   &&   制表间隔
+tabulator simulation   &&   制表机模拟程序
+tacho-torquemeter   &&   转矩转速测量仪
+tachograph   &&   速度记录器，行车记录仪
+tachometer   &&   转速表
+tachometer generator   &&   测速发电机
+tacitron   &&   噪声闸流管
+tack welding   &&   平头焊接
+tackle   &&   滑车
+tact system   &&   流水作业
+tactical computer   &&   战术计算机
+tactile   &&   触觉的，有触觉的
+tag   &&   特征，标记，标志符，标志域
+tag axle   &&   支持桥
+tag card   &&   特征卡片
+tag field   &&   标记字段，特征域，标志域
+tag mark   &&   特征记号
+tag sort   &&   按特征分类，按特征排序
+tag system   &&   特征系统
+tag tandem   &&   带支持桥的双后桥
+tag terminal   &&   终端接头(电缆的)
+tag wire   &&   终端线
+tagged memory   &&   标记存储器
+tagged word   &&   特征字，标签字
+tail clipping   &&   后沿削波
+tail fin   &&   ①翅片②尾翅
+tail lamp   &&   尾灯
+tail lift   &&   举升后厢板
+tail of an aircraft   &&   机尾
+tail pipe   &&   ①尾管 ②中间管
+tail pipe emissions   &&   尾管排放
+tail recursion   &&   尾递归
+tail symbol   &&   尾部符号
+tail warning radar set   &&   机尾警戒雷达设备
+tailed aircraft   &&   有尾翼飞机
+tailgate   &&   后门
+tailing peak   &&   拖尾峰
+tailings   &&   残油
+tailless aircraft   &&   无尾翼飞机
+tailless tram   &&   无轨电车
+tailless trolley car   &&   无轨电车
+taillight   &&   后灯(汽车的)
+tailored control system   &&   柔性控制系统
+tailshaft   &&   输出轴
+tailshaft governor   &&   输出轴调速器
+tailstock   &&   尾架
+take a cut   &&   吃刀
+take shape   &&   形成
+take-off   &&   动力输出轴，动力输出装置
+take-off angle   &&   出射角
+take-off circuit   &&   供电分支电路
+take-off device   &&   分接装置，分接器件
+take-up   &&   缩格
+talbot   &&   塔尔波脱(MKS制光能单位，二流明·秒)
+talk   &&   通话
+talk-listen switch   &&   通话转换开关
+talk-ringing key   &&   呼叫通话两用键
+talking book   &&   书刊录音机
+talking circuit   &&   通话电路
+talking current   &&   通话电流
+talking key   &&   通话键
+talking path   &&   通话信道，电话信道
+talking position   &&   通话位置
+talking typewriter   &&   对话打印机
+tally   &&   记数，寄存器，标记
+tally down   &&   减1
+tally up   &&   加1
+tallying   &&   计数，计算
+tamper   &&   夯土机，夯具
+tamping   &&   夯实，捣实
+tamping bar   &&   捣棒
+tamping rod   &&   捣棒
+tamping tool   &&   捣固机
+tan-tru   &&   用在加工-mm的锥齿刀具
+tandem   &&   串联，汇接
+tandem arrangement   &&   纵列装置，串联装置
+tandem axle   &&   平衡悬架轴
+tandem compensator   &&   串联补偿器
+tandem data circuit   &&   级联数据电路
+tandem electrostatic accelerator   &&   串行(式)静电加速器
+tandem engine   &&   串联式发动机
+tandem exchange   &&   汇接局
+tandem generator   &&   串联起电器
+tandem hoisting   &&   串联接力提升
+tandem knife-switch   &&   串联闸刀开关
+tandem master cylinder   &&   串联双腔制动主缸
+tandem mill   &&   串行轧机
+tandem missile   &&   串行式导弹，queue串行队列
+tandem rotor   &&   串联转子
+tandem switch   &&   汇接中继机键
+tandem transistor   &&   双晶体管三极管
+tandem trunk   &&   汇接中继线
+tandem turbine   &&   单轴(多缸)汽轮机，串级式汽轮机
+tandem type   &&   串联式
+tandem-generator   &&   串联发电机
+tangent   &&   相切(的)，切线 切点
+tangent elevation   &&   高角
+tangent line   &&   切线
+tangent mechanism   &&   正切机构，张紧力
+tangent modulus   &&   切向模数
+tangent plane   &&   切平面
+tangential   &&   切向，切线，相切
+tangential acceleration   &&   切向加速度
+tangential admission   &&   切向进汽
+tangential chaser   &&   切向螺纹梳刀
+tangential component   &&   切向分量
+tangential flow   &&   切向流
+tangential force   &&   切向力
+tangential force variation   &&   切向力变化量
+tangential jet   &&   切向射流，切向喷管
+tangential joint   &&   切向接合
+tangential key   &&   切向键
+tangential leaf spring   &&   传动钢带
+tangential load   &&   切向负荷，切向载荷
+tangential motion   &&   切向运动
+tangential nozzle   &&   切向喷管
+tangential resistance   &&   切向阻力
+tangential sensitivity   &&   切向灵敏度
+tangential shaving   &&   切向剃齿
+tangential spiral agitator   &&   切向螺旋搅拌机
+tangential strain   &&   切向应变
+tangential stress   &&   切向应力
+tangential tool   &&   切向车刀，切线车刀
+tangential traction   &&   切向曳引力
+tangential wave   &&   切向波
+tangential-feed worm-hob   &&   切向进给蜗轮滚刀
+tank   &&   ①罐②坦克
+tank body   &&   罐车，罐式汽车
+tank boiler   &&   箱形锅炉
+tank car   &&   水车，油槽车，罐车
+tank rectifier   &&   铁壳(汞弧)整流器
+tank truck   &&   罐车
+tank-type reactor   &&   罐式(反应)堆，水管式(反应)堆
+tanker   &&   水槽汽车，罐车，罐式汽车
+tanker aircraft   &&   空中加油飞机
+tanks-in-series model   &&   多槽串联模型
+tanline   &&   小轮夹具
+tanruf   &&   双联粗切刀
+tantalum   &&   钽Ta(73)
+tantalum capacitor   &&   钽电容器
+tantalum chip capacitor   &&   钽片电容器
+tantalum filament   &&   钽灯丝
+tantalum lining   &&   钽衬
+tantalum nitride resistor   &&   氮化钽电阻器
+tantamount   &&   等价，等值
+tap   &&   ①水龙头，丝锥，旋塞，螺丝攻，螺旋塞②抽头，分接头
+tap borer   &&   螺孔钻，螺纹底孔钻
+tap changing   &&   抽头切换，分接头切换
+tap drill   &&   螺纹底孔钻
+tap hole   &&   塞孔(出钢、铁的)
+tap lead   &&   抽头引线，分接头引线
+tap off   &&   分接
+tap voltage   &&   抽头电压，分接头电压
+tap wire   &&   抽头线，分接头线
+tap-changing device   &&   抽头切换装置
+tap-field motor   &&   分段励磁绕阻电动机
+tape   &&   传送带，带，带子，磁带
+tape alternation   &&   带交替
+tape beginning marker   &&   带始标
+tape bootstrap loader   &&   带引导程序
+tape bootstrap routine   &&   带引导程序
+tape bounded Turing machine   &&   带限制图灵机
+tape braiding   &&   编带
+tape cartridge   &&   盒式磁带，磁带盒
+tape cartridge reader   &&   盒式磁带机
+tape cell   &&   带单元
+tape channel   &&   带通道
+tape character   &&   带字符，带信息位
+tape code   &&   带代码
+tape comparator   &&   带比较器
+tape compiler   &&   带编译程序
+tape compiling routine   &&   带编译程序
+tape complexity   &&   带复杂性
+tape control   &&   带控
+tape controlled machine   &&   程序带控制机床
+tape data processing system   &&   带数据处理系统
+tape deck   &&   磁带运转机械装置，走带机构，磁带录音台
+tape drive controller   &&   带驱动控制器
+tape drive interrupt routine   &&   带驱动中断程序
+tape drum   &&   带鼓
+tape dump   &&   带信息转储
+tape editor   &&   带编辑器
+tape erasure   &&   带清除
+tape error   &&   带错误
+tape feed   &&   导带(磁带机用)
+tape file   &&   带文件
+tape file copying   &&   带文件复制
+tape guide   &&   磁带导轨，磁带导杆(录音机的)
+tape handler   &&   带处理机
+tape identification   &&   带标志，带识别
+tape input   &&   带输入
+tape input-output control   &&   带输入输出控制
+tape inscriber   &&   带写入器
+tape label   &&   带标号，带标签，磁带标记
+tape leader   &&   带首
+tape library   &&   带程序库
+tape machine   &&   自动收报机
+tape memory   &&   带存储器
+tape monitor   &&   磁带监控器
+tape perforator   &&   带穿孔机
+tape phonograph   &&   磁带唱机
+tape plotting system   &&   磁带绘图系统
+tape print-out routine   &&   带打印程序
+tape punch   &&   带穿孔(机)
+tape punch control key   &&   带穿孔控制键
+tape puncher   &&   带穿孔机
+tape reader   &&   带阅读机，读带机
+tape recorder   &&   磁带记录仪，带式记录器
+tape recorder of digital logging   &&   数字测井磁带记录仪
+tape reduction theorem   &&   缩带定理
+tape rerun   &&   带反绕
+tape reservoir   &&   磁带缓冲器，纸带缓冲器
+tape skip   &&   带跳跃
+tape sort and collate program   &&   带分类整理程序
+tape speed   &&   带速
+tape speed variation   &&   带速变化
+tape string   &&   带行
+tape strip   &&   磁带条
+tape symbol   &&   带符号
+tape synchronizer   &&   磁带同步装置，纸带同步装置
+tape test set   &&   带测试装置
+tape trailer   &&   带尾
+tape transmitter-distributor   &&   带发送-分配器
+tape transport mechanism   &&   磁带传送机构，走带机构
+tape type   &&   带式
+tape unit   &&   磁带机
+tape width   &&   带宽
+tape-armouring machine   &&   钢带铠装机
+tape-drive mechanism   &&   带驱动机构
+tape-loop storage   &&   带环存储器
+tape-oriented system   &&   面向磁带系统
+tape-processing unit   &&   带处理装置
+tape-to-card program   &&   带-卡片程序
+tape-to-printer program   &&   带-打印机转换程序
+tape-to-tape converter   &&   带-带转换器
+taped insulation   &&   带绕绝缘
+taper   &&   锥拔
+taper faces   &&   倾斜面 锥形面
+taper file   &&   圆锥锉
+taper flat file   &&   锥形偏锉刀
+taper key   &&   斜键，钩头楔键，推拔键
+taper leaf spring   &&   变截面钢板弹簧
+taper pin   &&   拔锥梢，锥形梢
+taper pipe thread   &&   锥管螺纹
+taper reamer   &&   锥形铰刀
+taper roller bearing   &&   锥形滚柱轴承
+taper roughing   &&   具有刀顶距收缩的大小轮粗切过程
+taper stopper   &&   锥形塞
+taper tap   &&   粗制丝锥
+taper turning   &&   车削锥体，锥度车削
+taperd ball end mill   &&   锥形球头立铣刀
+taperd end mill   &&   锥形立铣刀
+tapered   &&   锥形的
+tapered airfoil   &&   梯形翼
+tapered leaf spring   &&   变截面钢板弹簧
+tapered polyline segments   &&   锥状多段线线段，锥状聚合线段
+tapered roller   &&   圆锥滚子
+tapered roller bearing   &&   圆锥滚子轴承
+tapered search   &&   锥形搜索
+tapering   &&   锥状 锥形
+tapped potentiometer   &&   抽头式电位计
+tapped resistor   &&   抽头式变阻器
+tapped transformer   &&   抽头式变压器
+tappet   &&   ①挺柱亦称②滑块③气门间隙调节螺钉
+tappet body   &&   挺柱体
+tapping   &&   ①攻丝②出铁，出钢③取压口④轻敲
+tapping attachment   &&   攻丝装置
+tapping contactor   &&   分接接触器
+tapping hole   &&   出钢口
+tapping machine   &&   ①开出铁口机②攻丝机
+tapping machines   &&   攻螺丝机
+tapping ratio   &&   抽头匝数比
+tapping spout   &&   出钢槽
+tapping switch   &&   分接头开关，抽头开关
+tapping unit   &&   多头攻丝机，攻丝动力头
+tare weight   &&   干质量
+target   &&   靶，觇标，目标(点、对象)
+target acquisition and identification radar   &&   目标截获和识别雷达
+target aircraft   &&   靶机
+target architecture   &&   目标结构
+target azimuth   &&   目标方位
+target box   &&   靶框 目标框
+target computer   &&   目标程序计算机，特定程序计算机
+target data model   &&   目标数据模型
+target data structure   &&   目标数据结构
+target display   &&   目标显示
+target flow transducer   &&   靶式流量传感器
+target flowmeter   &&   靶式流量计
+target identification technique   &&   目标志别技术
+target image   &&   目标图像
+target indicating   &&   目标指示
+target intercept computer   &&   目标拦截计算机
+target language   &&   目标语言
+target language for automatic programming   &&   自动程序设计目标语言
+target microprocessor   &&   目标微处理机
+target phase   &&   目标阶段，运行阶段
+target processor   &&   目标处理机
+target reflectivity   &&   目标反射率
+target routine   &&   目标例行程序
+target scintillation   &&   目标闪烁
+target seeker   &&   目标搜索，目标搜索装置
+target signal   &&   目标信号
+target size   &&   目标尺寸
+target strength   &&   目标强度
+target system   &&   目标系统
+target track   &&   目标追踪，目标跟踪
+target variable   &&   目标变量
+target word   &&   目标字，目标词
+tarp hook   &&   盖布钩环
+task   &&   任务
+task allocation   &&   任务分配
+task attribute   &&   任务属性
+task call   &&   任务调用
+task code   &&   任务码
+task communication   &&   任务通信
+task control block   &&   任务控制块
+task control card   &&   任务控制卡
+task coordination   &&   任务协调
+task cycle   &&   作业周期
+task descriptor   &&   任务描述符
+task dictionary table   &&   任务词典表
+task dispatcher   &&   任务调度程序
+task identifier   &&   任务标志符
+task information area   &&   任务信息区
+task interrupt control   &&   任务中断控制
+task level language   &&   作业级语言
+task management   &&   任务管理
+task optimization   &&   任务优化
+task program   &&   作业程序
+task queue   &&   任务队列
+task scheduling   &&   作业调度
+taut suspension galvanometer   &&   张丝式检流计
+tautochrone   &&   等时曲线
+tautochronism   &&   等时性
+tautochronous   &&   等时
+taxation weight   &&   征税质量
+taxi   &&   出租汽车
+taxi-channel light   &&   滑行道指示灯
+taxi-phone   &&   硬币式公用电话
+taxicab   &&   出租汽车
+taximeter   &&   出租汽车计价器
+taximeter car   &&   出租汽车
+taxiway center line lights   &&   滑行道中心线指示灯
+taxiway holding-post lights   &&   滑行道停止位置指示灯
+taxiway lights   &&   滑行道指示灯
+taxiway-edge lights   &&   滑行道边缘指示灯，滑行道界灯
+teacherless learning   &&   无教师学习
+teaching machine   &&   教学机
+tear   &&   断裂
+tear propagation   &&   撕裂传播
+teaser winding   &&   辅助绕组
+technetium   &&   锝Tc(43)
+technetron   &&   场效应高能晶体管，场调管
+technical   &&   技术，工艺
+technical and economic evaluation   &&   技术经济评价，技术过程
+technical document   &&   技术文件
+technical evaluation   &&   技术评定，技术评价
+technical flow scheme   &&   工艺流程图
+technical regulation   &&   技术法规
+technical schedule   &&   工艺规程
+technical specification   &&   技术规范
+technical standard   &&   技术标准
+technically pure iron   &&   工业纯铁(平炉冶炼的纯铁)
+technique   &&   技术
+technique process   &&   技术过程
+technique system   &&   技术系统
+techniques for approximating the ITS-90   &&   ITS-90的近似技术
+technological   &&   工艺
+technological design   &&   工艺设计
+technological equipment   &&   工艺装备
+technological lubrication   &&   工艺润滑(金属加工用)
+technological manual   &&   工艺规程
+technological process   &&   工艺过程，流程
+technological property test   &&   工艺性能试验
+technological test   &&   工艺试验
+technology   &&   工艺
+technology Of metal   &&   金属工艺学
+technology testing machine   &&   工艺试验机
+tee   &&   三通
+tee fitting   &&   三通管接头
+tee joint   &&   三通
+tee junction   &&   三通接头
+tee tube   &&   三通(接线)管
+tee-off current   &&   分支电流
+teem   &&   顶浇(钢锭)
+teeming   &&   浇注，浇铸，点冒口，顶注(法)
+teeming arrest   &&   浇注中断
+teeming ladle   &&   底注(式)浇包
+teeming lap   &&   浇注折叠
+teeming nozzle   &&   浇注口
+teflon   &&   聚四氟乙烯，特氟隆
+tegmen top   &&   顶盖
+telautogram   &&   传真电报
+telautograph   &&   传真电报机
+telautography   &&   传真电报学
+tele-action   &&   遥控作用
+teleaction   &&   远距离作用
+teleammeter   &&   远距离安培计
+telearchics   &&   无线电操纵飞行术
+teleautomatics   &&   远距离自动技术，遥控力学
+telebit   &&   二进制遥测系统
+telecamera   &&   电视摄影机
+telecardiophone   &&   远距离心音听诊器
+telecast   &&   电视节目
+telecasting   &&   电视传送，电视广播
+telechirics   &&   远距离操作
+telecinematography   &&   电视传送电影术
+telecommand   &&   遥控，系统调度
+telecommunication   &&   远程通信，电信
+telecommunication access method   &&   远程通信存取法[TCAM]
+telecommunication and information ex-change between systems   &&   系统间远程通信和信息交换
+telecommunication code   &&   远程通信码，电信码
+telecommunication network   &&   远程通信网络，电信网络
+telecommunication system   &&   远程通信系统
+telecommunication time   &&   远程通信时间
+telecompass   &&   远距离罗盘
+telecon   &&   ①硅靶视像管②电报会议(用电传机)，电话会议
+teleconference   &&   电话会议
+telecontrol   &&   远距离控制，远距离操纵，遥控
+telecontrol relay   &&   遥控继电器
+telecontrol system   &&   遥控系统
+telecontrolled airplane   &&   遥控飞机
+telecontrolled substation   &&   遥控变电所
+telecruiser   &&   流动电视台
+telectrograph   &&   传真电报机
+teledata   &&   远程数据
+telediagnosis   &&   电视诊断
+telefacsimile   &&   电话传真
+telefax   &&   电传真
+telefile   &&   远程文件
+telegoniometer   &&   无线电测向仪
+telegram   &&   电，电报
+telegram copy   &&   电报底稿
+telegraph   &&   电报
+telegraph automatic switching system   &&   电报自动转换系统
+telegraph carrier   &&   电报载波
+telegraph code   &&   电报码
+telegraph concentrator   &&   电报集中器
+telegraph control center   &&   电报控制中心
+telegraph distributor   &&   电报分配器
+telegraph exchange   &&   电报交换机
+telegraph form   &&   电报发报纸
+telegraph interference   &&   电报干扰
+telegraph key   &&   电报键
+telegraph money order   &&   电报汇票
+telegraph office   &&   电报局
+telegraph relay   &&   电报继电器
+telegraph remittance   &&   电汇
+telegraph signal   &&   电报信号
+telegraph switching   &&   电报交换
+telegraph switching equipment   &&   电报交换设备
+telegraph switching system   &&   电报转换系统
+telegraph terminal equipment   &&   电报终端设备
+telegraphic address   &&   电报挂号
+telegraphic code   &&   电码
+telegraphic dispatch   &&   电讯
+telegraphoscope   &&   电传照相机
+telegraphy   &&   电报术，电报学
+telelearning knowledge module   &&   远程学习知识模块
+telemanipulator   &&   遥控操纵装置
+telemeasuring equipment   &&   遥测装置
+telemechanics   &&   遥控力学
+telemechanization   &&   远距离机械化
+telemetering STD profiling system   &&   遥测温盐深剖面仪
+telemetering and remote control system   &&   遥测遥控系统
+telemetering communication system   &&   遥测通信系统
+telemetering instrument   &&   遥测仪器仪表
+telemetering system of frequency division type   &&   频分(制)遥测系统
+telemetering system of time division type   &&   时分(制)遥测系统
+telemetering wave buoy   &&   遥测波浪浮标
+telemetry   &&   遥测
+telemetry impact prediction system   &&   弹着点遥测系统[TIPS]
+telemetry strain indicator   &&   遥测应变仪
+telemetry system   &&   遥测系统
+telemitron   &&   电子放电管
+telemonitor   &&   遥控
+telemotor   &&   遥控电动机
+teleological system   &&   目的系统
+teleology   &&   目的论
+teleoperator   &&   遥控操作器
+teleophotometer   &&   遥测光度表
+telepaper   &&   电视传真报纸
+telephone   &&   电话
+telephone area   &&   电话区，通话区
+telephone booth   &&   电话间，电话亭
+telephone box   &&   电话间
+telephone cable   &&   电话电缆
+telephone call   &&   电话呼叫，电话通话
+telephone call processing   &&   电话呼叫处理
+telephone call-box   &&   电话通话室
+telephone central office   &&   电话中心局，电话总局
+telephone channel   &&   话路
+telephone circuit   &&   电话线路
+telephone communication   &&   电话通信
+telephone communication system   &&   电话通信系统
+telephone communication unit   &&   电话通信装置
+telephone dial   &&   电话拨号盘
+telephone dialer circuit   &&   电话拨号电路
+telephone engineering   &&   电话工程(学)
+telephone exchange   &&   电话交换机
+telephone frequency   &&   话频
+telephone hand set   &&   手持电话机，电话听筒
+telephone installation   &&   电话装置
+telephone interference   &&   电话干扰
+telephone jack   &&   电话插孔
+telephone kiosk   &&   电话间
+telephone line   &&   电话线(路)
+telephone line loop   &&   电话回路
+telephone message   &&   电话通知，话传公函
+telephone meter   &&   电话计数器
+telephone network   &&   电话网
+telephone number   &&   电话号码
+telephone numbering   &&   电话编号
+telephone office   &&   电话局
+telephone plug   &&   电话塞子
+telephone primary center   &&   初级电话交换中心
+telephone receiver   &&   电话听筒
+telephone relay   &&   电话继电器
+telephone ringer   &&   电话电铃
+telephone service   &&   电话业务
+telephone set   &&   电话机
+telephone station   &&   电话局，电话站
+telephone subscriber   &&   电话用户
+telephone switch   &&   电话开关，电话键
+telephone switchboard   &&   电话交换台，电话交换机
+telephone switching   &&   电话交换
+telephone switching system   &&   电话交换系统
+telephone system   &&   电话系统
+telephone system construction   &&   电话系统建设
+telephone telegram   &&   话传电报
+telephone traffic   &&   话务
+telephone transmission technique   &&   电话传送技术，电话传送学
+telephone transmitter   &&   传话器，话筒
+telephone-line concentrator   &&   电话线集线器，电话线集中器
+telephone-type relay   &&   电话继电器
+telephonic   &&   电话
+telephonograph   &&   电话录音机，话传电报
+telephonometer   &&   通话计时器
+telephonometry   &&   通话计时
+telephote   &&   传真发送执
+telephoto   &&   传真电报，传真照片
+telephoto lenses   &&   望远镜头
+telephotography   &&   无线电传真，传真电报，传真照相术
+teleplotter   &&   电传绘图仪
+teleprinter   &&   电传打字机
+teleprinter code   &&   电传打印机代码
+teleprinter diagram   &&   电传打印机图
+teleprinter terminal   &&   电传打印机终端
+teleprocessing   &&   遥控处理
+teleprocessing network   &&   远程信息处理网络
+teleprocessing system   &&   远程信息处理系统
+teleprompter   &&   讲词提示器
+telepsychrometer   &&   遥测湿度仪
+telerecording   &&   电视录像
+teleroentgentherapy   &&   远距离X射线疗法
+telesat   &&   通信卫星
+telescope   &&   望远镜
+telescope level   &&   望远镜水准器
+telescope objectives lenses   &&   望远镜对物镜
+telescopic damper   &&   筒式减振器
+telescopic fork   &&   伸缩式前轮叉
+telescopic gauge   &&   伸缩性量规
+telescopic joint   &&   套筒接合
+telescopic shaft   &&   套简轴
+telescopic shock absorber   &&   筒式减振器
+telescopic system   &&   望远镜系统
+telescopical   &&   套筒，套管
+telescreen   &&   电视屏(幕)
+telescribe   &&   电话录音机
+telescriber   &&   传真电报发送机
+teleseme   &&   信号机
+teleset   &&   电视接收机
+teleshopping   &&   电信购物
+telesignalization   &&   遥测信号，远距离信号设备
+telesoftware   &&   电传软件
+telestudio   &&   电视演播室
+teleswitch   &&   遥控开关
+telesymbionts   &&   远程共享程序
+teletext   &&   电函，电视书刊，电传文件，电视数据，用户电视电报
+teletext and videotex   &&   视频数据检索系统
+telethermometer   &&   遥测温度仪
+teletransmission   &&   远程传输
+teletube   &&   电视显像管
+teletype   &&   电传打字，电传打字机
+teletype code   &&   电传打字码
+teletype communication   &&   电传打字通信
+teletype diagnosis   &&   电传打字诊断
+teletype for Chinese characters   &&   汉字电传打字机
+teletype microcomputer interface   &&   电传打字机微型计算机接口
+teletype microcomputer system   &&   电传打字机微型计算机系统
+teletype network   &&   电传打字网络
+teletype serial data format   &&   串行电传打字数据格式
+teletypesetter   &&   电传排字机
+teletypewriter   &&   电传打字机
+television   &&   电视[TV]
+television and radar navigation system   &&   电视雷达导航系统
+television antenna   &&   电视天线
+television aural transmitter   &&   电视伴音发射机
+television broadcasting   &&   电视广播
+television camera   &&   电视摄像机
+television engineering   &&   电视工程(学)
+television equipment   &&   电视设备，电视装置
+television field frame   &&   电视场帧
+television guidance   &&   电视制导
+television image   &&   电视图像
+television microscope   &&   电视显微镜
+television monitor   &&   电视监视器
+television operating center   &&   电视中心
+television program   &&   电视节目
+television radar air navigation   &&   电视雷达(航空)导航[TELERAN]
+television receiver   &&   电视接收机
+television reception   &&   电视接收
+television reconnaissance   &&   电视侦察
+television relay network   &&   电视转播网
+television satellite   &&   电视卫星
+television scanning   &&   电视扫描
+television screen   &&   电视屏(幕)
+television set   &&   电视机
+television sound transmitter   &&   电视伴音发射机
+television station   &&   电视台
+television telewritter   &&   电视电传打字机
+television transmission   &&   电视发射
+television transmitter   &&   电视发射机
+televisor   &&   电视机
+telewriter   &&   电传打字机
+telewriter interface   &&   电传打字机接口
+telex   &&   电传
+telex network   &&   用户电报网
+telex service   &&   用户电报业务，用户电报服务
+telex telegraph exchange   &&   用户电报交换机
+tell-tale switch, hazard alarm   &&   危急报警灯开关
+teller console   &&   用户服务台，用户操作台
+teller system   &&   用户服务系统
+telltale   &&   舵位指示器
+telluric current anomaly   &&   地电流异常
+telpher   &&   电动缆车
+telstar   &&   通讯卫星
+temper   &&   ①回性(铸造时型砂的)②混捏③回火④调质
+temper ageing   &&   回火时效
+temper brittleness   &&   回火脆性
+temper colour   &&   回火颜色
+temper crack   &&   回火裂纹
+temper defect   &&   回火缺陷
+temper embrittlement susceptibility   &&   回火脆性敏感性
+temper graphite   &&   回火石墨
+temper hardening   &&   回火硬化
+temper mill   &&   (钢板)光轧机，平整机
+temper number   &&   回火后硬度读数
+temper parameter   &&   回火参量
+temper point   &&   调质温度
+temper resistance   &&   回火抗力，耐回火性
+temper rolling   &&   回火冷轧
+temper stressing   &&   回火强化
+temper technology   &&   回火工艺
+temperature   &&   温度
+temperature adjustment   &&   温度调节
+temperature alarm   &&   过热报警器
+temperature balance   &&   温度平衡
+temperature coefficient of resistance   &&   电阻温度系数
+temperature compensating device   &&   温度补偿装置
+temperature compensating method of reference junction   &&   参比端温度补偿法
+temperature compensating resistance   &&   温度补偿电阻
+temperature compensation   &&   温度补偿
+temperature conductivity   &&   温度传导性，温度传导率
+temperature constancy   &&   温度恒定性
+temperature constant state   &&   恒温状态
+temperature control   &&   温度控制
+temperature control thermistor   &&   控温热敏电阻器
+temperature controlled salinity bath   &&   控温盐水槽
+temperature correction   &&   温度修正
+temperature cycling   &&   温度循环
+temperature difference   &&   温差
+temperature difference electromotive force   &&   温差电势
+temperature distribution   &&   温度分布
+temperature drift   &&   温度漂移
+temperature drop   &&   温度降
+temperature equilibrium   &&   温度平衡
+temperature error   &&   温度误差
+temperature factor   &&   温度系数
+temperature fall   &&   温度降
+temperature fall period   &&   降温过程(阶段)
+temperature fall time   &&   降温时间
+temperature feeler   &&   温度传感器
+temperature field   &&   温度场
+temperature fluctuation   &&   温度波动度
+temperature gauge   &&   温度计
+temperature grade   &&   温度级
+temperature gradient   &&   温度梯度
+temperature humidity chamber   &&   恒温恒湿箱
+temperature humidity range   &&   温度湿度范围
+temperature jump   &&   温度突变
+temperature measure thermistor   &&   测温热敏电阻器
+temperature measurement   &&   温度测量
+temperature meter   &&   温度计
+temperature of combustion   &&   燃烧温度
+temperature of fusion   &&   熔化温度，熔解温度
+temperature of superheat   &&   过热温度
+temperature of the extrapolated onset   &&   外推起始温度
+temperature of the ocean   &&   海洋水温
+temperature offset   &&   温度偏置
+temperature point for verification   &&   检验温度点
+temperature radiation   &&   温度辐射
+temperature range   &&   温度范围
+temperature recorder   &&   温度记录器
+temperature region   &&   温度范围
+temperature regulation   &&   温度调整
+temperature regulation equipment   &&   温度调节设备(恒温器)
+temperature regulator   &&   温度调节器
+temperature rise time   &&   升温时间
+temperature rising   &&   温升
+temperature run test   &&   发热试验
+temperature saturation   &&   温度饱和
+temperature scale   &&   温(度)标(尺)
+temperature sensor   &&   温度传感器
+temperature shock   &&   热冲击
+temperature stabilization   &&   温度稳定
+temperature standard material for DTA   &&   差热分析温度标准物质
+temperature standard material for TG   &&   热重法温度标准物质
+temperature switch   &&   温度开关
+temperature transducer   &&   温度传感器
+temperature transfer coefficient   &&   导温系数
+temperature transmitter   &&   温度变送器
+temperature uniformity   &&   温度均匀性
+temperature variation   &&   温度变化机，电传打字机
+temperature-compensated overload relay   &&   温度补偿过载继电器
+temperature-conductivity indicator   &&   温度-电导率测量仪
+temperature-dependent resistor   &&   热敏电阻
+temperature-humidity test chamber   &&   湿热试验箱
+temperature-hysteresis effect of standard cell   &&   标准电池温度滞后效应
+temperature-pressure tank   &&   控温压力罐
+temperature-pressure test chamber   &&   温压试验箱
+temperature-resistant   &&   耐热
+temperature-rise period   &&   升温过程(阶段)
+temperature-sensitive paint   &&   热敏涂料
+tempered martensite   &&   回火马氏体
+tempered sorbite   &&   回火索氏体
+tempered steel   &&   回火钢
+tempered structure   &&   回火组织
+tempered troostite   &&   回火屈氏体
+tempered-martensite embrittlement   &&   回火马氏体脆性
+tempering   &&   回火
+tempering alloy tool steel   &&   回火合金工具钢
+tempering colour   &&   回火色
+tempering crack   &&   回火开裂，回火裂痕
+tempering curve   &&   回火曲线
+tempering furnace   &&   回火炉
+tempering hardness   &&   回火硬度
+tempering medium   &&   回火介质
+tempering point   &&   回火温度
+tempering quality   &&   回火质量
+tempering range   &&   回火范围
+tempering sand   &&   回火砂
+tempering stove   &&   回火炉
+tempering temperature   &&   回火温度
+template   &&   ①模框，标准框，样板②属性单元，临时区
+template drawing   &&   样板图 样板图面
+template matching   &&   模板匹配
+template moulding   &&   刮板造型
+temporal interval   &&   时态区间，时态间隔
+temporal logic   &&   时态逻辑，时序逻辑，暂时逻辑
+temporal logic language   &&   时序逻辑语言
+temporary base strain gauge   &&   临时基底应变计
+temporary connection   &&   暂时连结
+temporary error   &&   暂时错误，暂时误差
+temporary failure   &&   暂时失效，暂时故障
+temporary file   &&   暂时文件
+temporary files   &&   临时文件 暂存档
+temporary mould   &&   一次(铸)型
+temporary pictorial display   &&   暂时图像显示
+temporary pointer variable   &&   暂时指示字变量
+temporary realm   &&   暂时领域
+temporary storage   &&   暂时存储、
+temporary suspension   &&   暂停
+temporary switch-off   &&   暂时关机装置
+temporary tabular display   &&   暂时表形显示
+temporary variable   &&   临时变量
+ten point mean roughness   &&   十点平均値粗糙度
+ten's complement   &&   十进制补码
+tenacity   &&   韧性
+tenacity at break   &&   断裂强度
+tenacity test   &&   韧性试验
+tendency   &&   趋向，倾向
+tens digit   &&   十进制数字
+tensile   &&   ①拉力，拉伸②拉力的，可拉伸的
+tensile break   &&   拉伸断裂
+tensile creep test   &&   拉伸蠕变试验
+tensile deformation   &&   拉伸变形
+tensile elasticity   &&   拉伸弹性
+tensile elongation   &&   拉伸长度
+tensile energy   &&   拉伸能
+tensile factor   &&   拉伸因子
+tensile failure   &&   拉伸断裂，拉伸破坏
+tensile fatigue strength   &&   拉伸疲劳强度
+tensile fatigue test   &&   拉伸疲劳试验
+tensile force   &&   拉力，张力
+tensile fracture   &&   拉伸断裂
+tensile impact strength   &&   冲击拉伸强度
+tensile impact test   &&   冲击拉伸试验，张力冲击试验
+tensile load   &&   拉伸载荷
+tensile machine   &&   拉力试验机
+tensile modulus   &&   拉伸模量
+tensile property   &&   拉力特性
+tensile strain   &&   拉伸应变，张应变
+tensile strength   &&   拉力强度，拉伸强度
+tensile strength at break   &&   拉伸断裂强度
+tensile strength test   &&   拉伸强度试验
+tensile stress   &&   拉伸应力，张应力
+tensile test   &&   拉伸试验，张力试验
+tensile test bar   &&   拉伸试棒
+tensile test specimen   &&   拉伸试棒
+tensile tester   &&   拉力试验机
+tensile testing   &&   拉伸试验
+tensile testing machine   &&   拉力试验机
+tensile viscosity   &&   拉伸黏度
+tensile yield point   &&   拉伸屈服点
+tensile yield strength   &&   拉伸屈服强度
+tensiometer   &&   张力计，拉力计
+tension   &&   ①拉力，拉伸，张力，压力，牵引力②拉紧，张紧
+tension analyzer   &&   张力分析器
+tension bar   &&   拉杆
+tension creep   &&   张性蠕变
+tension dynamometer   &&   张力测功计
+tension field   &&   张力场
+tension force   &&   张力
+tension fracture   &&   张性断裂
+tension indicator   &&   张力指示器
+tension insulator   &&   耐张绝缘子
+tension link   &&   拉杆
+tension member   &&   拉杆
+tension meter   &&   拉力计，张力计
+tension modulus   &&   张力模量
+tension pulley   &&   张紧轮，张力轮
+tension regulator   &&   张力调节器
+tension rod   &&   转向横拉杆
+tension shearing test   &&   拉伸剪切试验
+tension spring   &&   拉力弹簧
+tension stiffening   &&   拉伸硬化
+tension strain   &&   拉伸应变
+tension stress   &&   拉伸应力
+tension test   &&   拉伸试验，张力试验
+tension tester   &&   张力试验机
+tension thickening   &&   拉伸稠化
+tension thinning   &&   拉伸稀化
+tension-compression   &&   拉压
+tension-compression fatigue strength   &&   拉压疲劳强度
+tension-compression strength   &&   拉压强度
+tensioner   &&   张紧轮，张紧器
+tensive strain   &&   拉伸应变
+tensometer   &&   张力计，拉力计
+tensor   &&   张量
+tensor algebra   &&   张量代数
+tensor analysis   &&   张量分析
+tensor function   &&   张量函数
+tensor nonlinearity   &&   张量非线性
+tensor of inertia   &&   惯性张量
+tensor of stress   &&   应力张量
+tensor permeability   &&   张量磁导率
+tensor product   &&   张量积
+tensor shear strain   &&   张量剪应变
+tensor susceptibility   &&   张量磁化率
+tensor-value functional   &&   张量值泛函
+tensor-valued function   &&   张量赋值函数
+tentation data   &&   假设数据，预定数据
+terdenary   &&   十三进制的
+term   &&   项，术语，条，检索词
+term compression   &&   检索词压缩
+term frequency   &&   检索词频率
+term rewriting system   &&   检索词重写系统
+term vector   &&   检索词向量
+term-on-item file   &&   记录-检索词文件
+termal paper facsimiles   &&   热感纸传真机
+terminal   &&   ①终端，端点②终结符③终端设备，终端机
+terminal access network   &&   终端访问网络
+terminal address   &&   终端地址
+terminal amplifier   &&   功率放大器，终端放大
+terminal architecture   &&   终端体系结构
+terminal branch line   &&   终端支线
+terminal cable   &&   终端电缆
+terminal code letter   &&   终端字码
+terminal column   &&   末列
+terminal component   &&   终端部件，终端设备成分
+terminal computer   &&   终端计算机
+terminal computer communication   &&   终端计算机通信
+terminal concentrator   &&   终端集中器
+terminal condition   &&   终端条件
+terminal console   &&   终端操作台
+terminal continuous motion statement   &&   连续运动结束语句
+terminal control   &&   终端控制
+terminal control computer   &&   终端控制计算机
+terminal control device   &&   终端控制设备
+terminal control system   &&   终端控制系统
+terminal control unit   &&   终端控制器
+terminal device   &&   终端装置
+terminal device interface   &&   终端设备接口
+terminal driver   &&   终端驱动器
+terminal emulation   &&   终端仿真
+terminal end   &&   终端
+terminal entry   &&   终端入口
+terminal equipment   &&   终端设备
+terminal for exciting current   &&   激磁电流接线柱
+terminal for output   &&   发电机输出接线柱
+terminal for solenoid switch   &&   电磁开关接线柱
+terminal for starting current   &&   起动电流接线柱
+terminal function key   &&   终端功能键
+terminal graphic plotter   &&   终端绘图仪
+terminal hardware   &&   终端硬件
+terminal identifier   &&   终端标志符
+terminal input-outout coordination time-sharing   &&   终端输入输出协调分时
+terminal installation for data transmission   &&   数据传输终端设施
+terminal insulator   &&   终端绝缘子
+terminal interaction   &&   终端人机对话
+terminal interface   &&   终端接口
+terminal interface module   &&   终端接口模块
+terminal interface processor   &&   终端接口处理机[TIP]
+terminal job   &&   终端作业
+terminal key board   &&   终端键盘
+terminal label   &&   终端标号
+terminal limit switch   &&   终端极限开关
+terminal modem interface   &&   终端调制解调器接口
+terminal node   &&   终端节点
+terminal point   &&   终点
+terminal post   &&   接线柱
+terminal processor   &&   终端处理机
+terminal protocol   &&   终端协议
+terminal queue   &&   终端队列
+terminal relation   &&   终端关系
+terminal reliability   &&   终端可靠性
+terminal row   &&   末行
+terminal statement   &&   终结语句
+terminal station   &&   ①终点站②终端局
+terminal string   &&   终结串，终极行
+terminal substring   &&   终结子串，终极子行
+terminal supervisory program   &&   终端管理程序
+terminal switch   &&   终点开关
+terminal symbol   &&   终结符
+terminal toll exchange   &&   终端长途电话局
+terminal transmission interface   &&   终端传输接口
+terminal unit   &&   终端设备
+terminal user   &&   终端用户
+terminal value   &&   终端值
+terminal velocity   &&   终极速度(物体在黏性流体中下落时能达到的极限速度)
+terminal vocabulary   &&   终结符号表
+terminal voltage   &&   终端电压
+terminal word   &&   终端字
+terminal-based conformity   &&   端基一致性
+terminal-based linearity   &&   端基线性度
+terminal-oriented network   &&   面向终端的网络
+terminate   &&   终止 终止
+terminating Markov chain   &&   可终止的马尔可夫链
+terminating agent   &&   终止剂
+terminating character   &&   终结字符
+terminating impedance   &&   终端阻抗
+terminating network   &&   终端网络
+terminating plug   &&   终端插塞
+terminating queue   &&   终结队列
+terminating resistance   &&   终端电阻
+terminating symbol   &&   终止符号
+terminating toll centre   &&   终端长途电话局
+terminating trunk centre   &&   终端长途电话局
+termination   &&   终端
+termination box   &&   终端盒
+termination coefficient   &&   终止系数
+termination job processing   &&   终端作业处理
+termination of function procedure   &&   函数过程终止
+termination step   &&   终止阶段
+terminator   &&   ①终结符，结束符号②终止剂③终端联结器，终端套管
+terminator program   &&   终止程序
+terminator record   &&   终结符纪录
+terminator string   &&   终结字符串
+terminator/initiator   &&   停启程序
+terminology   &&   术语，用辞
+terminology standard   &&   术语标准
+terminus   &&   终点站
+termolecular   &&   三分子
+ternary   &&   三元，三进制的，三重性，三次的，三态的
+ternary addition   &&   三进制加法
+ternary alloy   &&   三元合金
+ternary alloy steel   &&   三元合金钢
+ternary arithmetic   &&   三元运算，三进制运算
+ternary bilinear form   &&   三元双一次型
+ternary code   &&   三进码，三进制代码
+ternary complex   &&   三元络合物
+ternary composition   &&   三元合成
+ternary composition diagram   &&   三元成分图
+ternary compound   &&   三元化合物
+ternary compound semiconductor   &&   三元化合物半导体
+ternary electrolyte   &&   三元电解质
+ternary eutectic   &&   三元共晶
+ternary eutectic alloy   &&   三元共晶合金
+ternary fission   &&   三分(核)裂变
+ternary incremental representation   &&   三进制增量表示法
+ternary liquid-system   &&   三元液体体系
+ternary logic   &&   三进制逻辑
+ternary mixture   &&   三元混合物
+ternary notation   &&   三进制记数法
+ternary number   &&   三进制数
+ternary number system   &&   三进制记数系统
+ternary phase[diagram]   &&   三元相(图)
+ternary quadratic form   &&   三元二次型
+ternary relation   &&   三项关系
+ternary representation   &&   三进制表示法
+ternary semiconductor   &&   三元半导体
+ternary steel   &&   三元钢
+ternary system   &&   ①三元系②三进制
+ternary system ceramics   &&   三元系陶瓷
+ternary system piezoelectric ceramics   &&   三元系压电陶瓷
+ternary tree   &&   三元树
+terotechnology   &&   设备综合管理学
+terpolymer   &&   三元聚合物
+terpolymerization   &&   三元聚合
+terra-cotta   &&   赤陶
+terra-cotta day   &&   赤陶土，混合陶土
+terrace   &&   台
+terrace die   &&   凸模
+terrain echoes   &&   地面反射回波，地面回波
+terrestrial camera   &&   地面摄影机
+terrestrial concentrator array   &&   地面聚光方阵
+terrestrial current   &&   地电流
+terrestrial electrical power plant   &&   地上发电厂
+terrestrial electricity   &&   地电
+terrestrial environment   &&   地面环境
+terrestrial gravitation   &&   地球引力
+terrestrial gravitational perturbation   &&   地球引力摄动
+terrestrial heat   &&   地热
+terrestrial magnetic field   &&   地磁场
+terrestrial magnetism   &&   地磁
+terrestrial photogrammetry   &&   地面摄影测量
+terrestrial photovoltaic system   &&   地面用光伏系统
+terrestrial radiation   &&   地球辐射
+terrestrial solar cell   &&   地面太阳能电池
+terrestrial spectrograph   &&   地面摄谱仪
+terrestrial stereoplotter   &&   地面立体测图仪
+tertiary   &&   三重，第三
+tertiary amyl methyl ether   &&   三戊甲基醚[TAME]
+tertiary cementite   &&   三次渗碳体
+tertiary circuit   &&   第三(级)电路(变压器的)
+tertiary coil   &&   第三(级)线圈
+tertiary creep   &&   三重蠕变
+tertiary recrystallization   &&   三次再结晶
+tessellation lines   &&   素线 镶嵌线
+tesseral system   &&   等轴晶系
+test   &&   试验，测试，检查，校验，检验
+test apparatus   &&   试验仪器
+test bed   &&   测试床，试验床，试验台
+test bench   &&   测试架，测试台，试验床
+test block   &&   试块
+test board   &&   ①测试台，试验盘，试验台②测试仪表板，试验(电路)板
+test box   &&   测试箱
+test cabinet   &&   测试柜，测试室
+test cable   &&   试验电缆
+test call   &&   测试呼叫，测试通话
+test car   &&   测试车，试验车
+test card   &&   测试图表，试验卡片
+test cell   &&   试验间
+test chamber   &&   试验箱
+test circuit   &&   测试电路
+test coil   &&   试验线圈
+test component   &&   测试部件
+test control   &&   测试控制
+test controller system   &&   检验控制程序系统
+test cycle   &&   试验循环
+test data   &&   测试数据，检验数据，试验数据
+test data generation   &&   测试数据生成
+test data generator   &&   测试数据生成程序
+test data selection criterion   &&   检验数据选择准则
+test data synthesizer   &&   检验数据综合器
+test desk   &&   测试台，试验台
+test detect routine   &&   测试检查程序
+test device   &&   试验装置
+test driver   &&   测试驱动程序
+test drum   &&   试验用转鼓
+test duration   &&   试验(持续)时间
+test dynamometer   &&   试验用测功计
+test electrode   &&   测试电板
+test encoder   &&   测试编码器
+test equipment   &&   测试设备，试验设备
+test error   &&   测试误差
+test facilities   &&   试验设施
+test field   &&   试验场
+test figures   &&   试验数字
+test fixture   &&   测试夹具
+test for colour fastness of surface to light   &&   表面色彩耐光试验
+test for dimensional change   &&   尺寸变化试验
+test for nominal samples   &&   标样试验
+test for non-transmission of an internal explosion   &&   隔爆性能试验
+test for resistance of surface to boiling wa-ter   &&   表面耐沸水试验
+test for resistance of surface to wear   &&   表面耐磨性试验
+test for resistance to moisture   &&   耐潮试验
+test for surface abrasion resistance   &&   表面耐磨性试验
+test forming   &&   试模塑
+test frequency   &&   试验次数，试验频率
+test function   &&   测试函数
+test gauge   &&   试验压力计
+test generator   &&   测试生成程序
+test ground   &&   试验场
+test impulse   &&   测试脉冲
+test indexes   &&   试验指标
+test installation   &&   试验装置
+test instruction   &&   测试指令
+test instruction debugging   &&   测试指令调试
+test instrumentation   &&   测试仪器
+test interval   &&   试验间隔(时间)
+test jack   &&   测试塞孔
+test lamp   &&   测试灯
+test language   &&   测试语言
+test line   &&   测试线路
+test load   &&   试验负荷，试验负载
+test loads   &&   试验负荷
+test loop   &&   测试回路，测试循环
+test macro   &&   测试宏指令
+test mass   &&   试验质量
+test meter   &&   测试仪表
+test missile   &&   试验性导弹
+test model   &&   测试模型，试验模型
+test order   &&   试验顺序
+test panel   &&   试验盘
+test pattern   &&   测试码模式，测试图(电视用)
+test pencil   &&   试电笔
+test period   &&   试验期
+test piece   &&   测试件
+test point   &&   测试点
+test procedure   &&   试验程序
+test procedure standard   &&   试验程序标准
+test prod   &&   测试棒
+test program   &&   ①测试程序，试验程序②试验方案，试验计划
+test program package   &&   测试程序包，检验程序包
+test push button   &&   试验用按钮
+test reactor   &&   试验反应堆
+test receiver   &&   测试接收机
+test recording sheet   &&   试验记录单
+test reliability   &&   试验可靠性
+test report   &&   试验报告
+test rig   &&   试验台
+test rod   &&   测试棒
+test room   &&   测试室
+test routine   &&   测试程序，检验程序，试验程序
+test run   &&   试车
+test sampling   &&   试验取样
+test schedule   &&   试验程序，试验计划
+test set   &&   测试装置
+test setup   &&   试验装置
+test signal   &&   测试信号
+test solution   &&   试验溶液
+test space   &&   试验空间
+test specification   &&   试验规范
+test specimen   &&   测试件，试样
+test sprue   &&   炉前试样，三角试块(铸造用)
+test stand   &&   试验台
+test surface   &&   探伤面
+test switch   &&   试验开关
+test system   &&   测试系统
+test table   &&   测试台，试验台，工作台
+test tape   &&   测试磁带
+test translator   &&   检验翻译程序
+test unit   &&   测试装置
+test validity   &&   测试有效性
+test vehicle   &&   试验车
+test voltage   &&   试验电压，测试电压
+test wedge   &&   三角试片(铸造用)
+testability   &&   可测试性，可检验性
+testcraft   &&   试验船，试验艇
+tester   &&   测试器，试验设备，试验机
+testing   &&   试验，测试，检查，校验，检验
+testing apparatus   &&   测试仪器
+testing bench   &&   试台
+testing boat   &&   试验艇
+testing button   &&   测试按钮
+testing cable   &&   测试电缆
+testing campaign   &&   测试循环
+testing equipment   &&   试验设备
+testing facility   &&   试验装置
+testing function   &&   试验函数
+testing generator   &&   试验发电机
+testing generator sets   &&   试验用发电机组
+testing ground   &&   试验场
+testing instrument   &&   测试仪表，试验仪器
+testing level   &&   测试电平
+testing load   &&   试验负荷，试验负载
+testing machine   &&   试验机
+testing method   &&   测试方法，试验方法
+testing period   &&   测试期
+testing program   &&   测试程序
+testing region   &&   测试区
+testing screen   &&   试验筛
+testing sequence   &&   测试顺序
+testing ship   &&   试验船
+testing sieve   &&   试验筛
+testing signal   &&   测试信号
+testing signal generator   &&   测试信号发生器
+testing software   &&   测试软件
+testing station   &&   测试站，试验站
+testing system flexibility   &&   试验系统的柔度
+testing technique   &&   测试技术
+testing tool   &&   测试工具
+testing transformer   &&   试验变压器
+testing voltage   &&   试验电压，测试电压
+tetrachordinate   &&   四配位
+tetrachoric   &&   四项
+tetrachoric correlation   &&   四项相关
+tetracyclic   &&   四环
+tetracyclic compound   &&   四环化合物
+tetrad   &&   ①四元组，四价②四位二进制，四个符号组
+tetragedron   &&   四面体
+tetragon   &&   四边形
+tetragonai   &&   四边形
+tetragonal system   &&   四方晶系
+tetrahedral   &&   四面体
+tetrahedral apparatus   &&   四面体装置
+tetrahedral bond   &&   四面体键
+tetrahedral covalent bond   &&   四面体(型)共价键
+tetrahedral molecule   &&   四面体分子
+tetrahedron   &&   四面体
+tetramolecular reaction   &&   四分子反应
+tetramorphism   &&   四晶现象
+tetranitrated compound   &&   四硝基化合物
+tetranitro-compound   &&   四硝基化合物
+tetranuclear   &&   四核
+tetranucleared   &&   四核
+tetrapolar   &&   四极，四端
+tetravalence   &&   四价
+tetrode   &&   四极管
+tetrode thyratron   &&   四极闸流管
+text   &&   正文，文本，原文，电文
+text analysis package   &&   正文分析程序包
+text analysis program   &&   正文分析程序
+text color   &&   文字色 文字颜色
+text control codes   &&   文字控制代码 文字控制码
+text display editor   &&   正文显示编辑程序
+text editing interface   &&   正文编辑接口
+text editor   &&   文本编辑器 文字编辑器
+text fonts   &&   字体 字体
+text height   &&   字高 文字高度
+text justification   &&   文字对齐 文字对正
+text machinery   &&   纺织机械
+text properties   &&   文字特性 文字性质
+text style   &&   文字样式，字型
+textscr   &&   文本屏，文字萤幕
+textual   &&   文本(的) 文字
+texture   &&   咬花，缩皱
+texture map   &&   纹理贴图 材质贴图
+texturometer   &&   稠度测定仪
+thaw   &&   熔化，解冻 解冻
+the Protect Technology of Computer Software   &&   软件保护技术[PTCS]
+the compiler of pseudocode   &&   伪码编译器
+the first page   &&   第一联
+the law requires you wear a seatbelt   &&   法规要求系安全带
+the reliability engineering of software   &&   软件可靠性工程
+the software for killing virus   &&   杀病毒软件
+thematic mapper   &&   专题制图仪[TM]
+theodolite   &&   经纬仪
+theodolites   &&   经纬仪
+theorem   &&   定理
+theorem of impulse   &&   冲量定理
+theorem of kinetic energy   &&   动能定理
+theorem of moment Of momentum   &&   动量矩定理
+theorem of momentum   &&   动量定理
+theorem on the composition Of velocities   &&   速度合成定理
+theoretical computer science   &&   理论计算机科学
+theoretical intensity of scattered ion   &&   散射离子的理论强度
+theoretical line of action   &&   理论啮合线
+theoretical model   &&   理论模型
+theoretical slope factor   &&   理论斜率因数
+theoretical strength   &&   理论强度
+theoretically   &&   理论地
+theory   &&   理论
+theory of algorithm   &&   算法理论
+theory of automata   &&   自动机理论
+theory of communication   &&   通信理论
+theory of computation   &&   计算理论
+theory of constitution   &&   组成原理
+theory of electromagnetic continua   &&   电磁连续介质理论
+theory of function   &&   函数论
+theory of game   &&   对策论，博奕轮
+theory of limit   &&   极限理论
+theory of limit group   &&   有限群论
+theory of machines and mechanisms   &&   机械原理
+theory of mechanics   &&   机械原理
+theory of mixtures   &&   混合物理论
+theory of queue   &&   排队论
+theory of servo-mechanism   &&   伺服控制理论
+theory of superposition   &&   重叠定理
+theory of wave propagation in continuous media   &&   连续介质波动理论
+thereby   &&   因此，从而
+thermal   &&   热，热力
+thermal accommodation coefficient   &&   热适应系数
+thermal acoustic oscillation   &&   热声振荡
+thermal addition   &&   热力加成作用
+thermal ageing   &&   热老化，热时效
+thermal ageing test   &&   热老化试验
+thermal agitation   &&   热骚动，热扰动
+thermal ammeter   &&   热线式安培计
+thermal analysis   &&   热分析
+thermal analysis curve   &&   热分析曲线
+thermal analysis instrument   &&   热分析仪器
+thermal analysis range   &&   热分析范围
+thermal annealing   &&   热退火
+thermal baffle   &&   隔热板
+thermal balance   &&   热平衡
+thermal battery   &&   热电池
+thermal black   &&   热炭黑
+thermal bounce   &&   热反弹
+thermal boundary layer   &&   热边界层
+thermal breakdown   &&   热击穿，热破坏
+thermal burden rating   &&   热负载额定出力
+thermal calculation   &&   热计算
+thermal capacity   &&   热容(量)
+thermal centre   &&   热中心
+thermal chemical gas analyzer   &&   热化学式气体分析器
+thermal chromatography   &&   热色谱法
+thermal circuit-breaker   &&   热断路器
+thermal coalescence   &&   热聚结
+thermal coefficient of resistance   &&   电阻导热系数
+thermal column   &&   热柱(原子反应堆附属试验设备)
+thermal compensation   &&   热补偿
+thermal conductance   &&   热传导，热传导性
+thermal conduction   &&   导热，热传导
+thermal conductivity   &&   导热率，导热性，热传导率，热传导系数，热传导
+thermal conductivity analyzer   &&   热传导分析器
+thermal conductivity cell   &&   热导池
+thermal conductivity coefficient   &&   热传导系数
+thermal conductivity detector   &&   热传导式检测器，热导检测器[TCD]
+thermal conductivity gas analyzer   &&   热导式气体分析器
+thermal conductivity gas sensor   &&   热导式气体传感器
+thermal conductivity gas transducer   &&   热导式气体传感器
+thermal conductivity gauge   &&   热传导真空规
+thermal conductivity humidity sensor   &&   热导式湿度传感器
+thermal conductivity humidity transducer   &&   热导式湿度传感器
+thermal conductivity measurement   &&   导热系数测量
+thermal conductivity meter   &&   热导率计
+thermal conductivity of mixture gas   &&   混合气体热导率
+thermal conductometer   &&   导热系数测定仪
+thermal conductor   &&   热传导体
+thermal cone   &&   温度锥
+thermal contact   &&   热触点
+thermal contact ionization   &&   热触点电离
+thermal control   &&   热控(制)
+thermal control coating   &&   热控涂层
+thermal control system   &&   热力控制系统
+thermal convection   &&   热对流，热传递
+thermal conversion processes   &&   热转化过程
+thermal conversion type optical power meters   &&   光功率计(热转换型)
+thermal critical point   &&   热临界点
+thermal current rating   &&   热额定电流
+thermal cut-out   &&   热断路器
+thermal cycle   &&   热循环
+thermal damage   &&   热损伤
+thermal decomposition   &&   热分解
+thermal deformation   &&   热变形
+thermal depolymerization   &&   热解聚(作用)
+thermal design   &&   热设计
+thermal detector   &&   热检测器，热探测器
+thermal device   &&   过热保护器
+thermal diffusion   &&   热扩散
+thermal diffusion coefficient   &&   热扩散系数
+thermal diffusion column   &&   热扩散柱
+thermal diffusion fractionation   &&   热扩散分离
+thermal diffusion zone   &&   热扩散区
+thermal diffusivity   &&   热扩散系数
+thermal dilatation   &&   热膨胀
+thermal dilatometer   &&   热膨胀仪
+thermal diode   &&   热二极管
+thermal dissociation   &&   热力离解作用
+thermal drift   &&   热漂移
+thermal effect   &&   热效应
+thermal efficiency   &&   热效率
+thermal electric generation   &&   热力发电
+thermal electron emission   &&   热电子发射
+thermal element   &&   热组件
+thermal emissivity   &&   热发射率，热辐射率
+thermal emittance   &&   热发射
+thermal endurance   &&   耐热性，耐热度
+thermal engineering   &&   热力工程
+thermal environment   &&   热环境
+thermal equilibrium   &&   热平衡
+thermal equilibrium condition   &&   热平衡条件
+thermal equilibrium law   &&   热平衡定律
+thermal equilibrium state   &&   热平衡态
+thermal equivalent   &&   热当量
+thermal equivalent of work   &&   功的热当量
+thermal erosion   &&   热侵蚀
+thermal expansion   &&   热膨胀
+thermal expansion anomaly   &&   热膨胀反常
+thermal expansion coefficient   &&   热膨胀系数
+thermal expansion relay   &&   热膨胀继电器
+thermal expansivity   &&   热膨胀系数
+thermal fatigue   &&   热疲劳
+thermal fatigue testing machine   &&   热疲劳试验机
+thermal feedback   &&   热反馈
+thermal galvanometer   &&   热动式电流计
+thermal gradient   &&   热梯度
+thermal growth   &&   热生长
+thermal hysteresis   &&   热滞后
+thermal imaging meter   &&   热像仪
+thermal inertia   &&   热惯量，热惯性
+thermal infrared range   &&   热红外遥感[TIR]
+thermal infrared range remote sensing   &&   热红外遥感
+thermal infrared remote sensing   &&   热红外遥感
+thermal initiation   &&   热引发(作用)
+thermal instability   &&   热不稳定(性)
+thermal instrument   &&   热系仪表
+thermal insulant   &&   热绝缘材料
+thermal insulation   &&   热绝缘，隔热
+thermal ionization mass spectrometer   &&   热电离质谱计
+thermal jacket   &&   热绝缘外套
+thermal lag   &&   热滞后
+thermal latching   &&   热闭锁，热阻塞
+thermal life   &&   热使用寿命
+thermal limit   &&   发热限制，耐热极限，热限
+thermal limitation   &&   耐热极限，热限
+thermal load   &&   热负荷
+thermal load test   &&   热负荷试验
+thermal loading   &&   热负荷
+thermal locomotive   &&   热力机车
+thermal loss   &&   热损耗，热损失
+thermal magnetic breaker   &&   热磁开关
+thermal magnetic oxygen analyzer   &&   热磁式氧分析器
+thermal mass flowmeter   &&   热式质量流量计
+thermal metamorphic rock   &&   热力变质岩
+thermal microphone   &&   热线式传声器，热送话器
+thermal mismatch   &&   热失配
+thermal output   &&   热输出
+thermal output coefficient   &&   热输出系数
+thermal phonon   &&   热声子，热光子
+thermal plasma   &&   热等离子体
+thermal plasma generation   &&   热等离子体发生
+thermal polymerization   &&   热聚合
+thermal powder treatment   &&   粉末热处理
+thermal power   &&   热功率
+thermal power converter   &&   热功率变换器
+thermal power plant   &&   火力发电厂
+thermal printer   &&   热敏印刷机
+thermal prober   &&   热探测器
+thermal proof test   &&   热稳定试验
+thermal protection   &&   热保护(装置)
+thermal radiation   &&   热辐射
+thermal radiation field   &&   热辐射域
+thermal radiation law   &&   热辐射定律
+thermal radiator   &&   热辐射器，散热器，热辐射体
+thermal radiometer   &&   热辐射仪
+thermal randomness   &&   热混乱度
+thermal rating   &&   热功率额定值，热额定功率
+thermal reactor   &&   热反应器
+thermal recorder   &&   热式记录仪
+thermal refining   &&   调质处理
+thermal reforming   &&   热重整
+thermal relaxation time   &&   热弛豫时间
+thermal relay   &&   热敏继电器
+thermal repulsion   &&   热推斥
+thermal residual voltage   &&   热剩余电压
+thermal resistance   &&   热阻
+thermal resister   &&   热敏电阻
+thermal response time   &&   热响应时间
+thermal runaway   &&   热失控，热逸散
+thermal sensitive ceramics   &&   热敏陶瓷
+thermal sensitive magnetic material   &&   热敏磁性材料
+thermal sensitive material   &&   热敏材料
+thermal sensitivity drift   &&   热灵敏度漂移
+thermal sensor   &&   热传感器
+thermal shield   &&   热屏蔽
+thermal shift   &&   热漂移
+thermal shock   &&   热冲击
+thermal shock resistance   &&   耐热震性
+thermal shock test   &&   热冲击试验
+thermal shock test chamber   &&   热冲击试验箱
+thermal short-time current rating   &&   热短时额定电流
+thermal shrinkage   &&   热缩
+thermal shunt   &&   热分流器
+thermal softening   &&   热软化
+thermal spalling   &&   热剥落
+thermal spike   &&   热峰
+thermal stability   &&   耐热性，热稳定性
+thermal stabilizer   &&   热稳定剂
+thermal strain   &&   热应变
+thermal strength   &&   耐热强度
+thermal stress   &&   热应力
+thermal stress cracking   &&   热应力龟裂，热龟裂[TSC]
+thermal switch   &&   热敏开关，热控开关
+thermal system   &&   热系统
+thermal telephone receiver   &&   热线式受话器，热受话器
+thermal time constant   &&   热时间常数
+thermal titration   &&   热滴定(法)
+thermal transfer   &&   热传递
+thermal transfer fax   &&   热转写传真机
+thermal transition   &&   热跃迁
+thermal transmission   &&   传热，热传递
+thermal transpiration   &&   热流逸
+thermal treatment   &&   热处理
+thermal trip   &&   热跳闸装置
+thermal unbalance   &&   热不平衡
+thermal velocity   &&   热速度
+thermal volatilization analysis   &&   热挥发分析[TVA]
+thermal voltage   &&   热电压
+thermal wave   &&   热波
+thermal wave electron image   &&   热波电子象
+thermal wave electron microscope   &&   热波电子显微镜
+thermal wavelength   &&   热波长
+thermal wear   &&   热磨损
+thermal zero drift   &&   热零点漂移
+thermal-magnetizing material   &&   热磁材料
+thermal-mechanical cycling   &&   热-机械循环
+thermal-switch starter   &&   热控开关启动器
+thermalloy   &&   热合金
+thermally delayed overcurrent trip   &&   热延迟过电流脱扣
+thermally resistant fibre   &&   耐热纤维
+thermally sensitive resistor   &&   热敏电阻器
+thermally stable fibre   &&   耐热纤维
+thermally stable polymer   &&   耐热性聚合物
+thermic   &&   热
+thermionic emission   &&   热电子发射
+thermions   &&   热电子
+thermistor   &&   热敏电阻，热敏电阻器
+thermistor alloy   &&   热敏电阻合金
+thermistor chain   &&   热敏电阻测温链
+thermistor detector   &&   热敏电阻检测器，热敏探测器
+thermistor material   &&   热敏电阻材料
+thermistor sensor   &&   热敏电阻传感器
+thermistor switch   &&   热敏电阻开关
+thermistor thermometer   &&   热敏电阻温度计
+thermistor voltage stabilizer   &&   热敏电阻稳压器
+thermit   &&   高热剂，铝热剂
+thermo contact resistance   &&   接触热阻
+thermo forming   &&   热成形
+thermo reference material   &&   热参比物
+thermo-contact   &&   热接触
+thermo-current   &&   热电流，温差电流
+thermo-diffusion fractionation   &&   热扩散分级
+thermo-diffusion phoresis   &&   热扩散电泳
+thermo-dynamic cutting technology   &&   热力切割法
+thermo-electromotive force   &&   热电动势
+thermo-electronic   &&   热电子
+thermo-fuse   &&   热熔丝
+thermo-gravimetric analysis   &&   热重量分析(法)
+thermo-magneto-electric effect   &&   热磁电效应
+thermo-metamorphism   &&   热同素异形(现象)
+thermo-migration   &&   热徙动
+thermo-motor   &&   热发动机
+thermo-neutrality   &&   热中和(性)
+thermo-quenching   &&   热淬
+thermo-relay   &&   热继电器
+thermo-sensitive element   &&   热敏组件
+thermo-sensor   &&   热敏组件
+thermoacoustics   &&   热声学
+thermoacoustimetry   &&   热(传)声法
+thermoacoustimetry apparatus   &&   热传声仪
+thermobalance   &&   热天平
+thermochromic materials   &&   热色材料
+thermochromism   &&   热致变色
+thermocompensator   &&   温度补偿器件
+thermocompression   &&   热压
+thermocompression bonding   &&   热压焊
+thermocompression evaporation   &&   热压蒸发
+thermocompression joining   &&   热压连接
+thermocompression technique   &&   热压技术
+thermocompressor   &&   热压机
+thermocouple   &&   热电偶、温差电偶
+thermocouple circuit   &&   热电偶电路
+thermocouple detectors   &&   热电偶检测器
+thermocouple element   &&   热电偶组件
+thermocouple instrument   &&   热偶式仪表
+thermocouple style   &&   热电偶的形式
+thermocouple type   &&   热电偶的类型
+thermocutout   &&   热保险装置，热断流器
+thermodiffusion   &&   热扩散
+thermodilatometer   &&   热膨胀仪
+thermodilatometric analysis   &&   热膨胀分析
+thermodilatometry   &&   热膨胀法
+thermoduric   &&   耐热
+thermodynamic   &&   热力
+thermodynamic calculation   &&   热力计算
+thermodynamic cycle   &&   热力循环
+thermodynamic efficiency   &&   热力效率
+thermodynamic medium   &&   热工介质
+thermodynamic quantity sensor   &&   热学量传感器
+thermodynamic quantity transducer   &&   热学量传感器
+thermodynamic solar power plant   &&   热力太阳能发电厂
+thermodynamic system   &&   热力系统
+thermodynamic temperature   &&   热力学温度
+thermodynamic temperature scale   &&   热力学温标
+thermodynamic test   &&   热工试验
+thermodynamics   &&   热力学
+thermodynamics of continua   &&   连续介质热力学
+thermoelectret   &&   热驻极体
+thermoelectric effect   &&   热电影响
+thermoelectric effect error   &&   热电效应误差
+thermoelectric effect of resistance thermometer sensor   &&   热电阻的热电影响
+thermoelectric method   &&   热电势法(测钢的转变点)
+thermoelectric sensor   &&   热电式传感器
+thermoelectric thermometer   &&   热电温度计
+thermoelectric thermometry   &&   热电测温法
+thermoelectric thermostat   &&   半导体致冷恒温槽
+thermoelectric transducer   &&   热电式传感器
+thermoelectrical element   &&   加热组件
+thermoelectrometry   &&   热电法
+thermoelectrometry apparatus   &&   热电(分析)仪
+thermoelectron   &&   热电子
+thermoelectronic effect   &&   热电子效应
+thermoelectronic emission   &&   热电子发射
+thermoelement   &&   热电极
+thermoforming   &&   热成型
+thermograph   &&   温度计，温度记录器
+thermograph technology   &&   热成象技术
+thermography   &&   热图
+thermogravimetric curve   &&   热重曲线
+thermogravimetry   &&   热重量分析(法)，热重法(TG)
+thermogravimetry curve   &&   热重曲线，TG曲线
+thermohydrometer   &&   热比重计
+thermohygrograph   &&   温湿计
+thermoindicator paint   &&   热变涂料
+thermolator method   &&   导热压铸法(用液体导热)
+thermoline   &&   热线
+thermology method   &&   热学方法
+thermoluminescence   &&   热致发光
+thermoluminescence apparatus   &&   热发光仪
+thermoluminescent dosimeter   &&   热释光剂量计
+thermomagnet   &&   热磁
+thermomagnetic alloy   &&   热磁合金
+thermomagnetic analysis   &&   热磁分析[TMA]
+thermomagnetic analysis unit   &&   热磁分析仪
+thermomagnetic conversion   &&   热磁转换
+thermomagnetic converter   &&   热磁换能器
+thermomagnetic generator   &&   热磁发电机
+thermomagnetic motor   &&   热磁电动机
+thermomagnetic oxygen analyzer transducer   &&   热磁式氧分析传感器
+thermomagnetic tempering   &&   热磁回火，磁场回火热处理
+thermomagnetism   &&   热磁学，热磁现象
+thermomagnetization   &&   热磁化
+thermomagnetometrey   &&   热磁(学)法
+thermomagnetometry apparatus   &&   热磁仪
+thermomatic motor   &&   热保护式电动机(商品名)
+thermomechanical analysis   &&   热机械分析[TMA]
+thermomechanical analysis apparatus   &&   热机械分析仪
+thermomechanical analysis unit   &&   热机械分析仪
+thermomechanical magnetic trealment   &&   磁场形变热处理
+thermometallurgy   &&   火法冶金
+thermometer   &&   温度表，温度计
+thermometer screen   &&   百页箱
+thermometer shelter   &&   百页箱
+thermometer well   &&   温度计套管
+thermometric analyzer   &&   热学式分析仪器
+thermometric conductivity   &&   导温
+thermometric gas analysis   &&   热学式气体分析(法)
+thermometric gas analyzer   &&   热学式气体分析器
+thermometrograph   &&   温度记录器
+thermometry   &&   测温学
+thermometry resistance alloy   &&   热敏电阻合金
+thermomicroscopy   &&   热显微镜法
+thermomicroscopy apparatus   &&   热显微仪
+thermonuclear fuel   &&   聚变燃料
+thermonuclear fusion reaction   &&   聚变反应
+thermoparticulate analysis   &&   热微粒分析，热粒子分析
+thermoparticulate analysis apparatus   &&   热微粒分析仪
+thermophone   &&   热线式受话器，热致发声器
+thermophotometry   &&   热光学法，热光度法，热光法
+thermophotometry apparatus   &&   热光仪，热光度仪
+thermophysical property   &&   热物理性质
+thermopile   &&   热电堆
+thermopile detectors   &&   热堆检测器
+thermoplastic   &&   热塑性塑料
+thermoplastic resin   &&   热塑性树脂
+thermoplastication   &&   热塑炼
+thermopneumatic   &&   热气动的
+thermopolymerization   &&   热聚合(作用)
+thermoprene   &&   环化橡胶
+thermorefractometry   &&   热折射法
+thermorefractometry apparatus   &&   热折射仪
+thermoregulation   &&   温度调节
+thermorunaway   &&   热致击穿，热致破坏(晶体管)
+thermosensitive   &&   热敏
+thermosensitive compensator   &&   热敏补偿器件
+thermosensitive element   &&   热敏组件
+thermosensor   &&   热敏组件
+thermoset   &&   热固(性)，热变定
+thermoset polymer   &&   热固聚合物
+thermosets   &&   热固材料
+thermosetting   &&   热固性
+thermosetting adhesive   &&   热固黏合剂
+thermosetting insulation   &&   热固绝缘
+thermosetting laminate   &&   热固层板
+thermosetting laminated sheet   &&   热固层压片材
+thermosetting material   &&   热固材料
+thermosetting plastics   &&   热固塑料
+thermosetting polymer   &&   热固聚合物
+thermosetting resin   &&   热固性树脂，热固树脂
+thermosetting resin binder   &&   热固树脂黏结孙
+thermosetting sand   &&   加热硬化砂
+thermosetting varnish   &&   热固漆
+thermosiphon   &&   热虹吸管
+thermosnap   &&   过热保护自动开关
+thermosonimetry   &&   热发声法
+thermosonimetry apparatus   &&   热发声仪
+thermospectrometry   &&   热光谱法
+thermospectrometry apparatus   &&   热光谱仪
+thermospray interface   &&   热喷雾接口
+thermospray ionization   &&   热喷雾电离
+thermostability   &&   耐热性，热稳定性
+thermostable   &&   耐热，热稳定
+thermostable polymer   &&   耐高温高聚物
+thermostat   &&   恒温器，温度自动调节器，温控器，节温器
+thermostat metal   &&   恒温用双金属
+thermostat relay   &&   恒温(器)继电器
+thermostat switch   &&   温控开关
+thermostat varnish   &&   耐热漆，热稳定漆
+thermostatic bath   &&   恒温槽
+thermostatic control valve   &&   恒温控制阀
+thermostatic oil bath   &&   恒温油槽
+thermostatic oven   &&   恒温(加热)炉
+thermostatic switch   &&   恒温开关
+thermostatic water bath   &&   恒温水槽
+thermostatics   &&   热静力学
+thermoswitch   &&   热敏开关，温度调节器
+thermosyphon   &&   热虹吸
+thermosyphon reboiler   &&   热虹吸式再沸器
+thermotechnical   &&   热工
+thermotechnical design   &&   热工设计
+thermotechnical treatment   &&   加工热处理
+thermotension   &&   热张力
+thermotolerant   &&   耐热，热稳定
+thermotolerant cable   &&   耐热电缆
+thermotropic liquid crystal   &&   热致液晶
+thermounit   &&   热装置
+thermoviscoplasticity   &&   热黏塑性
+thermovision   &&   热象仪
+thermoweld   &&   熔焊
+thermowell   &&   套管
+thermowell of thermometer   &&   温度计套管
+thick film   &&   厚膜
+thick-film capacitor   &&   厚膜电容器
+thick-film circuit   &&   厚膜电路
+thick-film column   &&   厚膜柱
+thick-film hybrid integrated circuit   &&   厚膜混合集成电路
+thick-film integrated circuit   &&   厚膜集成电路
+thick-film lubrication   &&   厚膜润滑
+thick-film material   &&   厚膜材料
+thick-film microelectronics   &&   厚膜微电子学
+thick-film printing   &&   厚膜印刷
+thick-film resistor   &&   厚膜电阻器
+thick-film rust preventive   &&   厚膜防锈
+thick-film technique   &&   厚膜技术
+thick-film technology   &&   厚膜工艺
+thick-section casting   &&   厚壁铸件
+thickened fuel   &&   稠化燃料
+thickened oils   &&   稠化油
+thickening   &&   稠化过程
+thickening agent   &&   稠化剂
+thickness   &&   厚度 厚度
+thickness gauge   &&   塞尺，厚度规，厚薄规
+thickness meter   &&   厚度计
+thickness of mould walls   &&   吃砂量(铸造用语)
+thickness on pitch circle   &&   节圆齿厚
+thickness piece   &&   厚薄规
+thickness sensor   &&   厚度传感器
+thickness standard plate   &&   厚度标准样板
+thickness transducer   &&   厚度传感器
+thin film gas sensor   &&   薄膜式气敏组件
+thin film strain gauge   &&   薄膜式应变计
+thin layer chromatography   &&   薄层色谱法
+thin magnetic film   &&   薄磁膜
+thin orifice plate   &&   薄孔板
+thin ribbed   &&   薄肋板
+thin seam   &&   薄煤层
+thin section   &&   薄片
+thin set   &&   薄集
+thin sheet   &&   薄片
+thin sheet metal   &&   薄片金属
+thin slice   &&   薄片
+thin steel plate   &&   薄钢板
+thin wall bearing   &&   薄壁轴瓦
+thin-sheet mill   &&   薄板轧机
+thin-skinned ingot   &&   薄皮钢锭
+thinler   &&   冲淡剂，冲稀剂
+third   &&   第三，三次
+third angle projection   &&   第三角投影
+third cosmic velocity   &&   第三宇宙速度
+third differential   &&   第三差速器
+third electroviscous effect   &&   第三电黏效应
+third evaporator   &&   第三蒸发器
+third generation   &&   第三代
+third generation computer   &&   第三代计算机
+third generation computer language   &&   第三代计算机语言
+third generation hardware   &&   第三代硬件
+third generation logic organization   &&   第三代逻辑结构
+third generation software   &&   第三代软件
+third harmonic   &&   三次谐波
+third level address   &&   三级地址
+third level of packaging   &&   三级组装
+third level packaging   &&   三级组装
+third octave filter   &&   13倍频程滤波器
+third order   &&   三阶，第三级
+third order aberration   &&   第三级像差，三级像差
+third order goal   &&   三阶目的
+third phase   &&   第三相
+third stare   &&   第三级
+third variation   &&   第三变分
+third wire   &&   第三线(直流三线制中的中性线)
+third-brush generator   &&   三刷发电机
+third-harmonic distortion   &&   三次谐波畸变，三次谐波失真
+third-octave filter set   &&   13倍频程滤波器组
+third-rail electric locomotive   &&   三轨制电机车
+third-rail system   &&   三轨制
+thixotropic   &&   摇溶的
+thixotropy   &&   触变性
+thomsenolite   &&   汤霜晶石
+thoriated cathode   &&   敷钍阴极
+thoriated filament   &&   敷钍灯丝
+thoriated tungsten filament   &&   敷钍钨灯丝
+thoroughfare insulator   &&   穿越绝缘子，穿墙绝缘管，套管绝缘子
+thoroughly   &&   十分地，彻底地
+thrash   &&   猛烈摆动
+thrashing mill   &&   脱粒机，脱谷机
+thread   &&   ①线②螺纹，车螺纹③穿线，穿过④线索，条理
+thread angle   &&   螺纹断面角
+thread bar rolling mill   &&   丝杠轧机
+thread calliper   &&   螺纹卡尺
+thread chaser   &&   螺纹梳刀，螺丝花刀
+thread chasing machine   &&   螺纹车床，螺丝车床
+thread cutter   &&   螺纹刀具
+thread cutting   &&   螺纹切削
+thread cutting tool   &&   螺纹刀具
+thread end reamer   &&   螺纹端铰刀
+thread engagement   &&   螺纹啮合
+thread error   &&   螺纹误差
+thread fit   &&   螺纹配合
+thread form   &&   牙形
+thread forming machine   &&   螺纹成型机
+thread forming tool   &&   螺纹成刀具
+thread gauge   &&   螺纹(量)规
+thread grinder   &&   螺纹磨床
+thread grinding   &&   螺纹磨削
+thread grinding machine   &&   螺纹磨床
+thread groove   &&   螺纹槽
+thread head   &&   螺纹头
+thread hob   &&   螺纹滚铣刀
+thread interval   &&   螺距
+thread machining   &&   螺纹加工
+thread miller   &&   螺纹铣床
+thread milling   &&   铣螺纹
+thread milling attachment   &&   螺纹铣床附件
+thread milling cutter   &&   螺纹铣刀
+thread milling machine   &&   螺纹铣床
+thread model   &&   丝线模型
+thread of a screw   &&   螺纹
+thread parameter measurement   &&   螺纹参数测量
+thread pitch   &&   螺距
+thread plug gauge   &&   螺纹塞规
+thread producing machine   &&   螺纹加工机
+thread profile   &&   螺纹牙形
+thread roller   &&   滚丝机
+thread rolling   &&   螺纹轧制，滚螺纹，滚轧螺纹，滚丝，滚压螺纹
+thread rolling die   &&   滚丝模
+thread rolling feeders   &&   螺纹滚压机
+thread rolling machine   &&   滚丝机，螺丝滚压机床
+thread rolling tool   &&   螺纹滚压工具
+thread sawing machine   &&   螺纹锯床，线锯锯床
+thread turning   &&   螺纹车削，车削螺纹
+thread worm   &&   蜗杆螺纹
+thread-cutting   &&   螺纹切削
+thread-cutting lath   &&   螺丝车床
+thread-cutting machine   &&   螺纹车床，螺丝车床
+thread-cutting mechanism   &&   螺纹切削机构
+thread-cutting oil   &&   螺纹切削油
+thread-cutting screw   &&   攻丝螺钉
+threaded bezel ring   &&   螺纹盖环
+threaded binary tree   &&   线索二叉树
+threaded bolt   &&   螺栓
+threaded connection   &&   螺纹连接
+threaded ends   &&   螺纹连接端
+threaded fasteners   &&   螺纹紧固件
+threaded file   &&   连接文件
+threaded fittings   &&   螺纹管接头
+threaded flange   &&   螺纹法兰
+threaded hole   &&   螺纹孔，螺丝孔(有螺纹的)
+threaded link   &&   穿线连接
+threaded list   &&   线索表
+threaded mandrel   &&   螺纹心轴
+threaded nozzle   &&   螺纹喷管
+threaded pipe   &&   螺纹管
+threaded rod   &&   螺杆
+threaded shaft   &&   螺纹轴，丝杠
+threaded shunt   &&   螺纹式分流器
+threaded spindle nose   &&   螺纹主轴端
+threaded stud   &&   双头螺栓，螺栓
+threaded tree   &&   穿线树，线索树
+threaded tube   &&   螺纹管
+threaded valve stem   &&   螺栓阀杆
+threaded window   &&   螺纹观察窗
+threaded-in winding   &&   旋人绕组
+threaded-plunger syringe   &&   螺纹柱塞注射器
+threader   &&   螺丝车床，螺纹铣床，螺丝磨床，螺纹磨床
+threading   &&   ①切丝②穿线
+threading dial   &&   螺纹指示盘(车螺纹用)
+threading die   &&   螺纹板牙
+threading lathe   &&   螺纹车床
+threading machine   &&   攻丝机
+threading roll   &&   螺纹滚花辊
+threading speed   &&   穿引速度
+threading tool   &&   螺纹刀具，攻丝刀具，螺纹车刀，挑扣刀
+threading tool chaser   &&   ①螺纹刀具，螺纹板牙②整修螺孔用丝锥
+threading unit   &&   螺纹车床
+three angular array   &&   三角阵
+three axle   &&   三轴
+three axle bogie car   &&   三轴台车
+three axle car   &&   三轴车
+three axle rigid   &&   三桥商用汽车
+three beam colour picture lube   &&   三束彩色显像管
+three bearing crankshaft   &&   三桥承曲轴
+three brush dynamo   &&   三刷发电机
+three component balance   &&   三分力天平
+three core   &&   三心
+three dimension measuring machine   &&   三座标测量仪
+three dimension milling   &&   三元加工，立体加工
+three dimensional analysis   &&   三维分析
+three dimensional array   &&   三维阵列，三维数组
+three dimensional compaction   &&   三向压制
+three dimensional concentrator   &&   三维聚光器
+three dimensional diffraction   &&   三维衍射
+three dimensional display   &&   三维显示
+three dimensional dynamic spectrum aha-lyzer   &&   三维动态频谱分析仪
+three dimensional equation   &&   三维方程
+three dimensional graph   &&   三维图形
+three dimensional grating   &&   三维光栅
+three dimensional magnetic field   &&   三维磁场
+three dimensional operating system soft-wale   &&   三维操作系统软件
+three dimensional system   &&   三维系统
+three dimensional tree   &&   三维树
+three elements design   &&   三因素设计
+three junction transistor   &&   三结晶体管
+three moment   &&   三弯矩
+three phase watt-hour meter   &&   三相电度表
+three plate   &&   三极式模具
+three plate molding die   &&   三板式模具
+three plates mold   &&   三片式模具
+three point bending test   &&   三点弯曲试验
+three series theorem   &&   三级数定理
+three shaft   &&   三轴
+three start screw   &&   三条螺纹
+three wheeler   &&   三轮汽车
+three-address   &&   三地址
+three-address code   &&   三地址码
+three-address computer   &&   三地址计算机
+three-address format   &&   三地址指令格式
+three-address instruction   &&   三地址指令
+three-address machine   &&   三地址计算机
+three-address system   &&   三地址制
+three-ammeter method   &&   三安培计法
+three-arm unloader   &&   三臂卸卷机
+three-axis autopilot   &&   三轴自动驾驶仪，三自由度自动驾驶仪，三通道自动驾驶仪
+three-axis coordinate system   &&   三轴坐标系
+three-axis gyropilot   &&   三轴稳定自动驾驶仪
+three-axis reference system   &&   三轴参考系
+three-axis simulator   &&   三轴模拟器
+three-axis stabilizing system   &&   三轴稳定系统
+three-axle gear   &&   三轴传动装置
+three-axle roller   &&   三轴串联式压路机，串联式 三轮压路机
+three-bank cylinders   &&   三组汽缸
+three-bearing crank shaft   &&   三轴承曲柄轴
+three-bearing electricity machine   &&   三轴承式电机
+three-blade propeller   &&   三叶螺旋桨
+three-blade propeller agitator   &&   三叶螺旋浆搅拌器
+three-bladed propeller wind machine   &&   三叶螺旋桨风力发电机
+three-brush generator   &&   三刷发电机
+three-circuit receiver   &&   三调谐电路接收机
+three-circuit transformer   &&   三绕组变压器
+three-coil   &&   三绕组
+three-coil dynamo   &&   三绕组发电机
+three-column core   &&   三柱型铁心
+three-column transformer   &&   三心柱变压器
+three-component   &&   三组分
+three-component alloy   &&   三元合金
+three-component system   &&   三组分系
+three-constraint fit   &&   三约束条件拟合
+three-contact plug   &&   三接点插塞，三心插塞
+three-coordinate   &&   三坐标
+three-coordinate measuring machine   &&   三坐标测量机
+three-core cable   &&   三心电缆
+three-cornered scraper   &&   三角刮刀
+three-cylinder compound locomotive   &&   三缸复式机车
+three-cylinder locomotive   &&   三缸机车
+three-cylinder locomotive valve gear   &&   三气缸式机车阀动装置
+three-cylinder washer   &&   三筒洗机
+three-cylindrical-die thread rolling   &&   三圆柱模滚轧螺纹法
+three-dimensional   &&   三向的，三维的，立体的，三度的
+three-dimensional algebraic variety   &&   三维代数簇
+three-dimensional analog computer   &&   三维模拟计算机
+three-dimensional boundary layer   &&   三维边界层
+three-dimensional cam   &&   三维凸轮
+three-dimensional coil crimp   &&   三维螺旋卷曲
+three-dimensional consolidation theory   &&   三维固结理论
+three-dimensional crystalline structure   &&   三维晶体结构
+three-dimensional crystallinity   &&   三维结晶度
+three-dimensional flow   &&   三维流动
+three-dimensional lattice   &&   三维点阵，三维晶格
+three-dimensional mapping program   &&   三维绘图程序
+three-dimensional microscopic defect   &&   三维微观缺陷
+three-dimensional milling   &&   立体铣削
+three-dimensional packing   &&   三维堆垛
+three-dimensional pantograph engraving   &&   三维雕刻
+three-dimensional pattern   &&   三维图形
+three-dimensional polymer   &&   三维聚合物
+three-dimensional profiling machine   &&   三向靠模铣床，成型面靠模铣床
+three-dimensional radar   &&   三坐标雷达
+three-dimensional ring molecule   &&   三维环状分子
+three-dimensional space   &&   三维空间
+three-dimensional stress   &&   三向应力
+three-dimensional structure   &&   三维结构，立体结构
+three-dimensional technique   &&   三维造型技术
+three-dimensions heat treatment   &&   三维热处理
+three-draft wire   &&   三次拉拔钢丝
+three-electrode tube   &&   三极管
+three-electrode valve   &&   三极管
+three-element   &&   三元
+three-element filter   &&   三组件滤波器
+three-element servo system   &&   三组件伺服系统
+three-figure decimal fraction   &&   三位十进制小数
+three-fluted drill   &&   三槽钻头
+three-fold representation   &&   三重表达，三重表示
+three-groove chucking reamer   &&   三槽机用铰刀
+three-grooved drill   &&   三槽钻头
+three-gun colour picture tube   &&   三电子枪彩色显像管
+three-head milling machine   &&   三轴铣床
+three-high billet mill   &&   三辊钢坯轧机
+three-high bloomer   &&   三辊开坯机
+three-high blooming mill   &&   三辊式初轧机
+three-high cogging mill   &&   三辊式开坯机
+three-high jobbing mill   &&   三辊式型钢轧机
+three-high mill   &&   三辊轧钢机
+three-high plate mill   &&   三辊式钢板轧机
+three-high rolling mill   &&   三辊钢式轧机
+three-high shape mill   &&   三辊式型钢轧机
+three-high universal mill   &&   三辊万能式轧机
+three-jaw   &&   三爪
+three-jaw chuck   &&   三爪卡盘，三瓜夹盘
+three-jaw cocentric chuck   &&   三爪同心卡盘
+three-jaw hand operated chuck   &&   三爪手动夹盘
+three-jaw independent chuck   &&   三爪分动卡盘
+three-jaw independent lathe chuck   &&   三爪分动车床夹盘
+three-jaw self-centering chuck   &&   三爪万能卡盘
+three-jaw universal chuck   &&   三爪万能卡盘
+three-level   &&   三能级，三级
+three-level addressing   &&   三级寻址，三级寻址，三级编址
+three-level jumbo   &&   三层钻车
+three-level laser   &&   三能级激光器
+three-level maser   &&   三能级微波激射器
+three-level recording   &&   三级纪录
+three-level return system   &&   三级返回系统，三级恢复系统
+three-lip core drill   &&   三缘空心钻头
+three-lip keyway cutter   &&   三面刃键槽铣刀
+three-lipped drill   &&   三缘钻头
+three-moment equations   &&   三弯矩方程组
+three-motor tape-transport mechanism   &&   三马达纸带传动机构
+three-operating crane   &&   三用起重机
+three-part   &&   三开
+three-part alloy   &&   三元合金
+three-part flask   &&   三开砂箱
+three-part pattern   &&   三开模
+three-phase   &&   三相
+three-phase alternating current   &&   三相交流电
+three-phase arc welding   &&   三相电弧焊
+three-phase cable   &&   三相电缆
+three-phase circuit   &&   三相电路
+three-phase current   &&   三相电流
+three-phase electric machine   &&   三相电机
+three-phase electric-arc furnace   &&   三相电弧炉
+three-phase electromotive force   &&   三相电动势
+three-phase equilibrium   &&   三相平衡
+three-phase furnace   &&   三相电炉
+three-piece   &&   三开
+three-piece construction   &&   三件式结构
+three-piece core box   &&   三开心盒
+three-piece pattern   &&   三开模
+three-pin plug   &&   三脚插头
+three-plug-one address   &&   三加一地址
+three-plus-one address instruction   &&   三加一地址指令
+three-plus-one instruction   &&   三加一指令，三加一地址指令
+three-point   &&   三点
+three-point bending   &&   三点弯曲
+three-point circuit   &&   三点电路
+three-point cross   &&   三点交叉
+three-point landing   &&   三点着陆
+three-point plug   &&   三脚插头
+three-point probe   &&   三探针测量
+three-point starter   &&   三点启动器，三端启动器
+three-point-contact bearing   &&   三点接触轴承
+three-pole   &&   三极
+three-pole breaker   &&   三极断路器
+three-pole double-throw knife switch   &&   三刀双掷闸刀开关
+three-pole knife switch   &&   三极闸刀开关
+three-pole single-throw switch   &&   三刀单掷开关
+three-pole switch   &&   三刀开关，三极开关
+three-port valve   &&   三通阀
+three-position   &&   三位置
+three-position relay   &&   三位置继电器
+three-position switch   &&   三位置开关
+three-pressure stage turbine   &&   三级压力式汽轮机
+three-prong socket   &&   三脚插座
+three-quarter floating axle   &&   四分之三浮式半轴
+three-ram specimen   &&   舂三下试样，三春试样(铸造的)
+three-ring   &&   三元环
+three-roid node   &&   三重节
+three-roll   &&   三辊
+three-roll bending chine   &&   三辊弯板机
+three-roll grinder   &&   三辊磨料机
+three-roll mill   &&   三辊滚轧机
+three-roll piercer   &&   三辊穿孔机
+three-roll plate bending machine   &&   三辊卷板机
+three-roll unbender   &&   三辊校直机
+three-roll-type coiler   &&   三辊式卷取机
+three-row bearing   &&   三列轴承
+three-screen sand   &&   三筛砂
+three-segment rotor   &&   三整流片式转子
+three-speed gear   &&   三速齿轮，三档齿轮
+three-speed gear box   &&   三速齿轮箱
+three-stable state device   &&   三稳态设备
+three-stage   &&   三级
+three-stage compressor   &&   三级压缩机
+three-stage distillation   &&   三级蒸馏
+three-stage rocket   &&   三级火箭
+three-start screw   &&   三头螺纹
+three-start thread   &&   三头螺纹
+three-stator winding synchro   &&   三定子绕组自动同步机
+three-step control   &&   三位控制
+three-step controller   &&   三位控制器
+three-step feed box   &&   三级进给箱
+three-step switch   &&   三级开关
+three-strand conductor   &&   三股式导线
+three-term recurrence   &&   三项递归
+three-terminal measuring   &&   三端测量
+three-terminal network   &&   三端网络
+three-terminal standard resistor   &&   三端(钮)标准电阻器
+three-throw crank   &&   三连曲柄
+three-throw crank shaft   &&   三连曲柄
+three-throw pump   &&   三冲程泵
+three-time estimate   &&   三种时间估计法
+three-voltmeter method   &&   三伏特计法
+three-way bit   &&   三翼钻头
+three-way catalyst   &&   三元转换器
+three-way cock   &&   三通活栓
+three-way converter   &&   三元转换器[TWC]
+three-way dump truck   &&   三向倾斜车
+three-way fuse plug   &&   三线熔丝塞，
+three-way fuse socket   &&   三线熔丝插口
+three-way pipe   &&   三通(接线)管
+three-way radio   &&   三用接收机
+three-way switch   &&   三路开关
+three-way tipper   &&   三面倾卸式自卸汽车
+three-way tipping gear   &&   三向倾斜装置
+three-way tipping trailer   &&   三向倾斜拖车
+three-way union   &&   三通管接头
+three-way valve   &&   三通阀
+three-wheel landing gear   &&   三轮起落架
+three-wheeler   &&   三轮车，三轮摩托车
+three-winding   &&   三绕组
+three-winding transformer   &&   三绕组变压器
+three-wing bit   &&   三翼钻头，三刃钻头
+three-wire   &&   三线
+three-wire connection   &&   三线接法
+three-wire control   &&   三线控制
+three-wire generator   &&   三线发电机
+three-wire meter   &&   三线式仪表
+three-wire method   &&   三线法(测量螺纹用)
+three-wire rotary converter   &&   三线式转动变流机
+three-wire system   &&   三线制
+three-wire system generator   &&   三线式发电机
+three-wire transformer   &&   三线制变压器
+three-wire watt-hour meter   &&   三线式电度表
+threefold   &&   三重，三倍
+threefold axis   &&   三重轴
+threephase   &&   三相
+threephase alternator   &&   三相交流发电机
+threephase armature   &&   三相电枢
+threephase asynchronous motor   &&   三相异步电动机，三相感应电动机
+threephase autotransformer   &&   三相自耦变压器
+threephase bank   &&   三相组
+threephase bridge rectifier   &&   三相桥式整流器
+threephase commutator motor   &&   三相整流子电动机
+threephase current transformer   &&   三相电流互感器
+threephase exciter   &&   三相励磁机
+threephase fault   &&   三相故障
+threephase four core cable   &&   三相四心电缆
+threephase four-wire system   &&   三相四线制
+threephase full wave constant voltage recti-tier   &&   三相全波恒压整流装置
+threephase generator   &&   三相发电机
+threephase half wave rectifying circuit   &&   三相半波整流电路
+threephase hoist motor   &&   三相起重电动机
+threephase induction motor   &&   三相感应电动机
+threephase inverter   &&   三相反向变流机
+threephase kilowatthour meter   &&   三相千瓦时计，三相电度表
+threephase line   &&   三相线路
+threephase load   &&   三相负载
+threephase machine   &&   三相电机
+threephase motor   &&   三相电动机
+threephase network   &&   三相电力网
+threephase oil immersed transformer   &&   三相油浸式变压器
+threephase peak load   &&   三相尖峰负荷，三相巅值负载
+threephase potential transformer   &&   三相电压互感器
+threephase power transmission   &&   三相电力输送
+threephase rectifier   &&   三相整流器
+threephase rheostat   &&   三相变阻器
+threephase series commutator motor   &&   三相串励整流子电动机
+threephase series motor   &&   三相串励电动机
+threephase seven-wire system   &&   三相七线系统
+threephase short-circuit   &&   三相短路
+threephase shunt commutator motor   &&   三相并励整流子电动机
+threephase shunt motor   &&   三相并励电动机
+threephase slip-ring motor   &&   三相滑环式电动机
+threephase squirrel-cage motor   &&   三相鼠笼式电动机
+threephase starter   &&   三相启动器
+threephase stator   &&   三相定子
+threephase switch   &&   三相开关
+threephase synchronous generator   &&   三相同步发电机
+threephase synchronous motor   &&   三相同步电动机
+threephase system   &&   三相制
+threephase three wire system   &&   三相三线制
+threephase transformer   &&   三相变压器
+threephase voltage   &&   三相电压
+threephase winding   &&   三相绕组
+threshold   &&   ①阈值②界限，限度，临界值③门槛
+threshold element   &&   阈组件
+threshold logic   &&   阈值逻辑
+threshold of audibility   &&   可听阈
+threshold of pain   &&   痛阈
+threshold of response   &&   响应阈
+threshold signal-to-noise ratio   &&   阈值信号噪声比
+threshold speed   &&   起始流速
+threshold unit   &&   门槛单元
+threshold voltage   &&   阈值电压，临界电压
+threshold-triggered flip-flop   &&   触发器
+thribble   &&   三联管
+throat   &&   喉部
+throat thickness   &&   焊喉厚度
+throttle   &&   ①节气门②喉管③加速踏板
+throttle  body injection   &&   节气门体喷射
+throttle body injection system   &&   节气门体喷射系统
+throttle cable   &&   节气门钢绳
+throttle lever   &&   节气门控制杆
+throttle primary barrel   &&   主腔节气门
+throttle secondary barrel   &&   副腔节气门
+throttle stop   &&   节气门关闭限位
+throttle valve   &&   节气门
+throttling   &&   节流
+throttling device   &&   节流装置
+throttling element   &&   节流件
+throttling valve disc   &&   节流阀片
+through fault   &&   穿越故障(变压器的)
+through hardening   &&   穿透淬火，穿透硬化
+through hole   &&   贯穿孔道
+through insulator   &&   穿越绝缘子
+through quenching   &&   穿透淬火
+through transfer function   &&   穿透传递函数
+through tube   &&   贯穿孔道
+through-flow process   &&   冲溢浇注法(复合轧辊的)
+through-flow turbine   &&   贯流式水轮机
+through-hole form   &&   通孔形式
+through-put capacity   &&   额定容量(变压器的)
+through-put power   &&   额定功率(变压器的)
+through-type current transformer   &&   贯通式电流互感器
+through-type pyrometer   &&   贯通式高温计
+through-type transformer   &&   单心变压器，贯通式变压器
+throw   &&   ①行程②投掷③连杆大头轴承④曲柄半径
+throw crank   &&   推动曲柄
+throw feed   &&   贯穿进给
+throw into gear   &&   啮合
+throw of crank   &&   曲柄行程
+throw of crankshaft   &&   曲轴弯头，曲柄半径
+throw of eccentric   &&   偏心轮行程，偏心轮偏心度
+throw of piston   &&   活塞行程
+throw of pump   &&   泵的行程
+throw over   &&   切换
+throw-away character   &&   废弃字符
+throw-away compiling   &&   废弃编译
+throw-in   &&   接通
+throw-it-away prototype   &&   丢弃型原型
+throw-off   &&   断路
+throw-out   &&   断路
+throw-out lever   &&   止推杆，推杆，解脱子，分离杆，停车杆
+throw-out of gear   &&   脱离啮合
+throw-out of mesh   &&   脱离啮合
+throw-over catch   &&   回转档
+throw-over gear   &&   ①跨轮架②换向机构③转动率测定器
+throw-over relay   &&   固定双位继电器
+throw-over switch   &&   投掷(式转换)开关
+throw-over wheel   &&   交替式操纵轮
+throwaway chip   &&   不磨刃刀片
+thrower belt conveyer   &&   离心皮带运输机
+throwing wheel   &&   抛丸叶轮，抛头
+thrown up   &&   推上
+throwout fork   &&   分离拨叉
+throwout sleeve   &&   分离套简
+thrust   &&   ①推力，牵引力②轴向压力③反应力 ④推，冲，刺
+thrust axle   &&   推力轴
+thrust ball bearing   &&   推力球轴承，推力滚珠轴承，止推滚珠轴承
+thrust ball bearing with band   &&   有外罩的推力球轴承
+thrust ball bearing with flat seat   &&   平面推力球轴承
+thrust ball bearing without cage   &&   无保持架的推力球轴承
+thrust bar   &&   推(力)杆，止推杆
+thrust bearing   &&   止推轴承，推力轴承
+thrust bearing actuating lever   &&   推力轴承作用杠杆
+thrust bearing shoe   &&   止推轴承瓦
+thrust block   &&   推力撑座
+thrust bolt   &&   夹紧螺栓
+thrust borer   &&   冲击式钎子，冲击式钻机
+thrust box   &&   止推轴承箱
+thrust center   &&   推力中心
+thrust clutch bearing   &&   离合器止推轴承
+thrust collar bearing   &&   推力环轴承
+thrust cone   &&   推力锥
+thrust horsepower   &&   止推马力
+thrust journal   &&   止推轴颈
+thrust load   &&   推力荷载
+thrust motor   &&   喷气发动机，火箭发动机
+thrust nozzle   &&   推力喷管
+thrust nut   &&   推力螺母
+thrust pin   &&   推力销
+thrust race   &&   推力轴承
+thrust ring   &&   止推环
+thrust rolling bearing   &&   推力滚柱轴承，止推滚柱轴承
+thrust screw   &&   推力螺钉
+thrust shaft   &&   止推轴
+thrust springs   &&   离合器弹簧
+thrust taper rolling bearing   &&   锥形滚柱止推轴承
+thrust-lift nozzle   &&   推力升力喷管
+thrust-reversing mechanism   &&   推力逆转机构
+thulium   &&   铥Tu(69)
+thumb fit   &&   轻推配合
+thumb nut   &&   蝶形螺母，翼形螺母
+thumb screw   &&   蝶形螺钉，大头螺丝
+thumber   &&   制动器
+thumbnail   &&   略图
+thumbnail preview image   &&   略图预览图像，缩图预览影像
+thump   &&   周期振动，低沉噪声
+thunderstorm   &&   雷暴
+thyristor   &&   硅可控整流器，可控硅
+thyrode   &&   硅可控整流器，可控硅
+tiana   &&   天那水
+tic-tac-toe   &&   井字游戏
+tick   &&   信号(无线电的)，标记，短斜线
+tick over   &&   怠速运转
+tick-mark farside   &&   反面压印
+tick-mark nearside   &&   正面压印
+ticker   &&   蜂音器
+ticket printing machine   &&   印票机
+ticket punch   &&   轧票机
+ticket stamping machine   &&   轧票机
+ticket vendor   &&   自动售票机
+tickler   &&   注油泵
+tickler coil   &&   回授线圈
+tidal energy   &&   潮汐能
+tidal energy resource   &&   潮汐能资源
+tidal force   &&   潮汐力
+tidal friction   &&   潮汐摩擦
+tidal generator   &&   潮汐发电机
+tidal height   &&   潮高
+tidal height datum plane of the station   &&   测站潮高基准面
+tidal observatory   &&   验潮站
+tidal power   &&   潮汐功率
+tidal power generation   &&   潮汐发电，潮汐能发电
+tidal power station   &&   潮汐电站
+tidal range   &&   潮差
+tidal wave   &&   潮汐波
+tide   &&   潮汐
+tide gauge   &&   验潮仪
+tide gauge well   &&   验潮井
+tide power plant   &&   潮汐发电厂
+tide staff   &&   验潮杆，水尺
+tie   &&   ①带，条，绳，扣②连接，连结，连结件③系杆，拉杆连结杆，拉杆
+tie bar   &&   拉扛，拉杆
+tie beam   &&   连系梁
+tie bolt   &&   拉杆，拉紧螺栓，系紧螺栓
+tie cable   &&   连接电缆
+tie circuit   &&   连接电路
+tie line   &&   ①专用线路，数据通信线路②连线
+tie member   &&   连结件，拉杆
+tie point   &&   约束点
+tie scoring machine   &&   轨枕锯面机
+tie switch   &&   连结开关
+tie trunk   &&   对讲电话总线
+tie-bar   &&   ①推杆，系杆，拉杆，转向横拉杆②拉缸③连结件
+tie-rod   &&   ①推杆，转向横拉杆，拉杆②拉缸③长螺栓
+tie-rod arm   &&   系杆臂，转向臂
+tie-rod stator frame   &&   拉杆式定子框架
+tie-rod-ball nut   &&   横联杆球头螺母
+tie-rod-ball stud   &&   系杆球头螺母
+tiebar strok   &&   柆杆间距
+tier   &&   行
+tier array   &&   堆叠天线阵
+tight   &&   紧密，坚固
+tight and loose pulley   &&   固定轮和滑动轮
+tight coupling   &&   强耦合
+tight ion source   &&   封闭式离子源
+tight nut   &&   紧固螺母
+tight pack rolling   &&   紧叠轧制
+tight pulley   &&   固定轮，死轮，紧轮，固定皮带轮
+tight reveting   &&   防漏铆接，紧密铆接
+tight seam   &&   紧密焊缝
+tight weld   &&   密封焊接，致密焊缝
+tight-fitting screw   &&   紧合螺钉
+tight-side   &&   紧边
+tight-strong seam   &&   密固接缝
+tight-up V belt   &&   联组V 带
+tightener   &&   张紧装置，紧轮，紧线器
+tightener pulley   &&   紧轮
+tightener sheave   &&   皮带张紧轮，张紧滚轮
+tightener sprocket   &&   张紧链轮
+tightening bolt   &&   拉紧螺栓
+tightening nut   &&   拉紧螺母
+tightening pulley   &&   张力轮
+tightening screw   &&   夹紧螺钉，紧固螺钉
+tightly-coupled interprocessor   &&   紧密结合的处理机
+tightly-coupled multiprocessing   &&   紧密结合多重处理，紧密结合多道处理
+tightly-coupled system   &&   紧密结合系统
+tightness   &&   紧固性，紧密度
+tikker   &&   ①自动收报机②载波传声器
+tilde   &&   波浪号，波浪符号
+tile horizontal   &&   水平平铺，非重叠水平式
+tile layer   &&   瓦管敷设机
+tile laying machine   &&   瓦管敷设机
+tile trenching machine   &&   瓦管管道挖掘机
+tile vertical   &&   垂直平铺
+tiled viewports   &&   平铺视口 非重叠视埠
+tilemode   &&   平铺模式，非重叠模式
+tillage machinery   &&   耕作机械
+tiller   &&   翻转装置，翻钢机
+tilt   &&   倾斜，翘起，刀倾
+tilt angle   &&   倾斜角，刀倾角
+tilt cab   &&   翻转式驾驶室
+tilt casting   &&   倾斜浇注
+tilt control   &&   倾斜控制(彩色电视)
+tilt cylinder   &&   摆缸
+tilt deck   &&   翻转式货台
+tilt deck trailer   &&   可倾斜台拖车，倾倒台拖车
+tilt error   &&   倾斜误差
+tilt pouring   &&   倾斜浇注
+tilt-bed quenching car   &&   倾翻式熄焦车，倾翻式消火车
+tilt-bed trailer   &&   可倾斜货台挂车
+tiltable   &&   倾斜
+tilted gold-leaf electrometer   &&   倾斜金箔静电计
+tilted rootline taper   &&   倾斜齿根收缩
+tilted steel   &&   锻钢
+tilted turret   &&   倾斜转动架，倾斜六角转头，倾斜旋转台，倾斜转塔
+tilter   &&   ①倾斜体②翻转装置，倾斜机构，倾倒机构
+tilting axis   &&   斜轴
+tilting bearing   &&   斜垫轴承，自调轴承，自位轴承
+tilting car   &&   翻斗车，倾斜车
+tilting chair   &&   翻转台
+tilting converter   &&   转炉
+tilting drum mixer   &&   斜鼓形搅拌机
+tilting engine   &&   可倾斜发动机
+tilting manometer   &&   回转压力计
+tilting milling head   &&   斜铣头，翻倒铣头
+tilting milling shaft   &&   斜铣轴
+tilting propeller   &&   倾斜式螺旋桨
+tiltmeter   &&   倾斜仪
+tiltometer   &&   倾斜计
+timber crane   &&   木材起重机
+timber puller   &&   回柱机
+timber working machine   &&   木工机床
+time   &&   时间，计时，流光
+time analysis of program   &&   程序的时间分析
+time and motion study   &&   工时与动作研究
+time base   &&   时间轴，时基
+time bomb   &&   定时炸弹
+time cell   &&   时间单元
+time clock   &&   定时时钟
+time constant   &&   时间常数
+time constant index   &&   时间常数指数
+time constant of strain instruments   &&   应变仪时间常数
+time controller   &&   定时器
+time cut-off relay   &&   定时断路继电器
+time cut-out   &&   定时断路器
+time delay   &&   时延
+time delay network   &&   时延网络
+time delay system   &&   时滞系统
+time delay system control   &&   时延系统控制
+time division channel   &&   时分信道
+time division control access   &&   时间分隔控制存取
+time division multiplexing   &&   时分多路复用[TDM]
+time domain   &&   时域
+time domain analysis   &&   时域分析
+time domain decoder   &&   时域译码器
+time domain equalizer   &&   时域均衡器
+time domain induced polarization instrument   &&   时间域激电仪
+time domain matrix   &&   时域矩阵
+time domain matrix method   &&   时域矩阵法
+time domain method   &&   时域法
+time domain model reduction method   &&   时域模型降价法
+time encoding   &&   时间编码
+time fences   &&   时间栏
+time flow mechanism   &&   时间流机构
+time fuse   &&   定时引信
+time fuze   &&   定时引信
+time gate   &&   定时门，定时开启门电路
+time of passage of tracer cloud   &&   示踪云通过时间
+time of recovery   &&   恢复时间
+time of recovery temperature   &&   温度回复时间
+time optimal control   &&   时间最优控制
+time per point   &&   每点时间
+time period   &&   时间周期
+time program   &&   时间程序
+time program control method   &&   时限过程控制
+time proportioning control   &&   时间比例控制
+time pulse generator   &&   时钟脉冲发生器
+time quantum   &&   时间段
+time quenching   &&   分级淬火，时间淬火
+time rating   &&   额定时间
+time redundancy   &&   时间冗余
+time response   &&   时间响应
+time scale   &&   时标，时间量程
+time scale factor   &&   时间比例尺
+time schedule   &&   时间表
+time schedule controller   &&   时序控制器
+time sequence   &&   时间顺序，时序
+time sequencing   &&   时间分序，时序
+time series analysis   &&   时间序列分析
+time series package   &&   时序软件包
+time shared control   &&   分时控制
+time slice   &&   时间片
+time slice time-sharing   &&   时间片分时
+time slip   &&   吨  时间分片，时间分段
+time space problem   &&   时间空间问题
+time step   &&   时间步
+time study   &&   时间分析
+time switch   &&   定时开关
+time unit   &&   时间单位
+time varying parameter   &&   时间变换参数
+time window   &&   时间窗口
+time-base pressing circuit   &&   时基压缩电路
+time-basis sampling   &&   定时取样，时基取样
+time-bounded Turingmachine   &&   时间界限图灵机
+time-constrained communication   &&   限制时间通信
+time-delay switch   &&   缓动开关
+time-derived channel   &&   时分通道，时分信道
+time-digital converter   &&   时间—数字变换器
+time-division multiplex   &&   时分多路转换
+time-division multiplexer   &&   时分多路转换器
+time-division multiplexing   &&   时分多路复用，时分多路转换
+time-division multiplexing scheme   &&   时分多路复用方案，时分多路转换方案
+time-driven system   &&   时间驱动系统
+time-invariant system   &&   定常系统
+time-lag action   &&   延时动作，延时作用
+time-limit relay   &&   缓动继电器
+time-mapping asynchronous simulation   &&   时间映象异步模拟
+time-multiplexed mode   &&   时分多路复用方式
+time-multiplexed system   &&   时分多路复用系统
+time-multiplexing dual-microprocessor sys-tem   &&   时分多路复用双微处理机系统
+time-of-day clock   &&   日历钟
+time-of-flight mass spectrometer   &&   飞行时间质谱计
+time-of-flight ultrasonic flowmeter   &&   传播时间式超声流量计
+time-on in per cent   &&   合闸率
+time-oriented sequential control   &&   时间定序顺序控制
+time-out   &&   超时
+time-out printing   &&   暂停打印，打印超时
+time-quantized control   &&   时间量化控制
+time-share system   &&   分时系统
+time-shared computer programming   &&   分时计算机程序设计
+time-shared control   &&   分时控制
+time-shared conversation   &&   分时对话
+time-shared macroassembler   &&   分时宏汇编程序
+time-shared monitor system   &&   分时监督系统
+time-sharing   &&   分时
+time-sharing accounting   &&   分时统计，分时记账
+time-sharing allocation   &&   分时分配
+time-sharing allocator   &&   分时分配程序
+time-sharing assembler   &&   分时汇编程序
+time-sharing base register   &&   分时基寄存器
+time-sharing computer   &&   分时计算机
+time-sharing computer network   &&   分时计算机网
+time-sharing console   &&   分时操作控制台
+time-sharing control   &&   分时控制
+time-sharing design system   &&   分时设计系统
+time-sharing display terminal session manager   &&   分时显示终端绘画管理程序
+time-sharing executive   &&   分时执行
+time-sharing format   &&   分时方式
+time-sharing incremental compiler   &&   分时可增编译程序
+time-sharing interface program   &&   分时接口程序
+time-sharing interface terminal   &&   分时接口终端
+time-sharing interrupt   &&   分时中断
+time-sharing monitor   &&   分时监督程序
+time-sharing monitor system   &&   分时监督系统
+time-sharing network   &&   分时网络
+time-sharing operation   &&   分时操作
+time-sharing polling   &&   分时轮询
+time-sharing processing   &&   分时处理
+time-sharing ready   &&   分时就绪
+time-sharing software   &&   分时软件
+time-sharing supervisor   &&   分时管理程序
+time-sharing system   &&   分时系统，分时制
+time-sharing system simulator   &&   分时系统模拟程序
+time-sharing terminal   &&   分时终端
+time-signal set   &&   计时信号装置
+time-to-break   &&   断裂时间
+time-to-digit conversion   &&   时间数字转换
+time-varying parameter   &&   时变参数
+time-varying system   &&   时变系统
+time-write interval   &&   写时间间隔
+timed acceleration   &&   定时加速
+timed deceleration   &&   定时减速
+timed pulse   &&   同步脉冲
+timed spark system   &&   定时火花放电装置
+timeout   &&   超时，逾时
+timer   &&   计时器，定时器，计时程序
+timer error   &&   时标误差
+timer lever stud   &&   定时杆柱螺栓
+timer shaft   &&   定时器轴，时间轴
+times symbol   &&   乘符号
+times-ten-to-the-power symbol   &&   乘幂符号
+times-ten-to-the-power-choice   &&   选用十的幂符
+times-three register   &&   乘三寄存器
+timid   &&   虚
+timing   &&   ①计时，定时②同步
+timing adjusting shaft   &&   定时调整轴
+timing algorithm   &&   定时算法
+timing analyzer   &&   计时分析程序
+timing belt   &&   正时皮带
+timing chain   &&   正时链
+timing channel   &&   计时通道
+timing circuit   &&   定时电路
+timing code   &&   时间码，时间信号
+timing contactor   &&   定时开关，定时接触器
+timing control   &&   定时控制
+timing cycle   &&   定时循环
+timing device   &&   定时装置
+timing diagram   &&   计时图
+timing factor   &&   标定系数
+timing gear   &&   ①正时齿轮， 定时齿轮，分配齿轮②正时机构
+timing generator   &&   定时信号发生器
+timing mark   &&   正时标记
+timing network   &&   定时网络
+timing of memory data transfer   &&   存储器数据转换计时
+timing pulse   &&   定时脉冲
+timing recovery   &&   定时恢复
+timing register   &&   通话计时器
+timing relay   &&   定时继电器
+timing sampling   &&   定时取样(二时基取样)
+timing scatter   &&   正时偏离
+timing sequence   &&   定时程序
+timing shaft   &&   正时轴
+timing signal   &&   定时信号，同步信号
+timing system   &&   定时装置
+timing toothed belt   &&   正时齿形带
+timing toothed belt shield   &&   正时齿形带护罩
+timing toothed pulley   &&   正时齿带轮
+timing toothed pulley camshaft   &&   凸轮轴正时齿形带轮
+timing toothed pulley crankshaft   &&   曲轴正时齿形带轮
+timing toothed pulley intermediate shaft   &&   中间轴齿形带轮
+timing track   &&   同步磁道
+timing unit   &&   定时装置
+timing wave   &&   定时波，定时信号
+timing wave amplifier   &&   计时信号放大器，计时波放大器
+timing wave generator   &&   定时信号发生器
+timing-chain   &&   定时链
+timing-chain case   &&   链传动箱
+timing-gear box   &&   定时齿轮箱
+timing-gear case   &&   定时齿轮箱
+timing-gear train   &&   定时齿轮系
+timing-pulse generator   &&   定时脉冲发生器
+tin   &&   ①锡Sn (50)②镀锡，包锡③罐
+tin bar   &&   锡条，锡棒
+tin brass   &&   锡青铜
+tin bronze   &&   锡黄铜
+tin family element   &&   锡族元素
+tin ingot   &&   锡锭
+tin machine   &&   镀锡机
+tin oxide series gas sensor   &&   系气敏组件
+tin plated steel sheet   &&   镀锡铁板
+tin sealer   &&   封罐机
+tin solder   &&   锡焊料
+tin soldering   &&   锡焊
+tin soldering paste   &&   焊锡膏
+tin-base alloy   &&   锡基合金
+tin-base bearing alloy   &&   锡基轴承合金
+tin-containing   &&   含锡量
+tin-copper bearing alloy   &&   锡铜轴承合金
+tin-copper-graphite bearing   &&   锡铜石墨轴承
+tin-foil condenser   &&   锚箔电容器
+tin-foil electrode   &&   锡箔电极
+tin-free bearingalloy   &&   无锡轴承合金，无锡巴比合金
+tin-free bronze   &&   无锚青铜(铜铅轴承合金)
+tin-free lead bronze   &&   无锡铅青铜(Cu 82％，Pbl8％)
+tine   &&   ①齿②尖端，尖③刀口
+tine angle   &&   齿倾角
+tined loader   &&   抓爪式装载机
+tined wheel   &&   齿销轮，钉齿轮
+tinfoil   &&   锡箔，锡纸
+tinkering   &&   熔补
+tinless bronze   &&   无锡青铜
+tinned plate   &&   马口铁，镀锡铁皮
+tinny   &&   含锡
+tinplate   &&   马口铁，镀锡铁皮，镀锡钢皮
+tiny engine   &&   微型发动机
+tiny lamp   &&   小型电子管
+tip   &&   ①尖头，管尖(电子管的)②倾斜③触点(继电器的)
+tip angle   &&   顶锥角
+tip brazing   &&   刀片铜焊
+tip car   &&   自卸车
+tip circle   &&   顶圆
+tip clearance   &&   ①齿顶间隙②顶部空隙，外径间隙
+tip cone   &&   顶锥
+tip jack   &&   尖头塞孔，尖尖插孔，尖头插座
+tip of a drill   &&   钻尖
+tip off   &&   ①焊开②分接头③熔下(电子管抽气后)
+tip radius   &&   齿顶圆角半径
+tip shaft   &&   倾倒车身转轴
+tip truck   &&   自卸卡车
+tip turbine   &&   叶尖涡轮
+tip-wire   &&   塞尖引线(电话插塞的)
+tipped drill   &&   焊接钻头
+tipped milling cutter   &&   盯焊齿铣刀
+tipped tool   &&   ①镶片刀具，镶刃刀具②焊接车刀
+tipper   &&   自动倾卸车，翻斗车，倾卸装置，自卸车
+tipper car   &&   翻斗车
+tipping   &&   ①崩刃，卷刃，伤刃②翻转，翻印，倾卸
+tipping bin   &&   翻斗
+tipping body   &&   自卸货箱
+tipping car   &&   翻斗车
+tipping gear   &&   倾翻机构
+tipping mixer   &&   可倾式搅拌机
+tipping vehicle   &&   倾卸车
+tipping wagon   &&   翻斗车
+tipping-bucket rain gauge   &&   翻斗式雨量计
+tipping-bucket rain recorder   &&   翻斗式雨量计
+tipple   &&   ①翻笼，翻车机②自动倾卸装置
+tire   &&   轮胎，轮箍，装轮胎
+tire bender   &&   弯轮机
+tire bending machine   &&   轮胎弯机
+tire bolt   &&   轮箍螺栓
+tire boring and turning mill   &&   轮箍镗车辆用车床
+tire casing   &&   胎面，胎体
+tire crane   &&   轮胎车起重机
+tire load   &&   轮胎负荷
+tire load rating   &&   轮胎额定负荷
+tire power loss   &&   轮胎功率损失
+tire press   &&   轮胎压机
+tire pull force   &&   轮胎偏驶趋势
+tire radial run-out   &&   轮胎径向跳动
+tire rolling   &&   轮箍轧机
+tire steel   &&   轮箍钢
+titan   &&   钛
+titan bronze   &&   钛青铜
+titan crane   &&   巨型起重机
+titanic cast iron   &&   含钛铸铁
+titaniferous   &&   含钛
+titaniferous ferro-manganese   &&   含钛锰铁
+titanium   &&   钛Ti (22)
+titanium carbon   &&   碳化钛
+titanium carbon-base alloy   &&   碳化钛基硬质合金
+titanium cast-iron   &&   钛铸铁
+titanium copper   &&   钛铜
+titanium silicon   &&   钛硅合金
+titanium-aluminium alloy   &&   钛铝合金(Al6％，V4％，余为Ti)
+titanium-zirconium-molebdenum alloy   &&   耐热钼合金
+title   &&   标题
+title block   &&   标题栏 标题栏
+title format   &&   标题格式
+titration   &&   滴定
+titration curve   &&   滴定曲线
+titrator   &&   滴定仪
+titunioferrite   &&   钛铁矿
+to and for motion   &&   往复运动
+to apply oil   &&   擦油
+to assemble   &&   安装
+to be inspected or reworked   &&   待验或重工
+to carry   &&   搬运
+to connect material   &&   接料
+to disassemble   &&   拆卸
+to file burr   &&   锉毛刺
+to handle   &&   搬运
+to load material   &&   上料
+to move   &&   搬运
+to put file in order   &&   整理资料
+to return material stock to   &&   退料
+to reverse material   &&   翻料
+to unload material   &&   卸料
+tobacco combine   &&   烟草联合收割机
+toe   &&   ①焊趾，焊边②斜钉③齿顶高，轮齿小端
+toe bearing   &&   立式止推轴承
+toe brake   &&   脚踏闸
+toe crack   &&   焊趾裂缝
+toe of weld   &&   焊边
+toe pattern   &&   小端接触
+toe pin   &&   心轴
+toe-in   &&   ①前束②前束量
+toe-out   &&   后束
+toggle   &&   ①紧线钳②紧线套环，紧线鬼爪③肘节，套环④反复电路，触发器⑤曲肘，曲柄⑥开关，切换
+toggle circuit   &&   触发电路，触发器
+toggle drawing press   &&   肘杆式拉伸压力机
+toggle joint   &&   ①弯头结合，肘接②肘节关节③肘节④曲柄杠杆装置
+toggle mechanism   &&   ①弯头结合，肘接②肘节关节，肘形机构③肘节④曲柄杠杆装置
+toggle nut   &&   肘节螺母
+toggle press   &&   肘杆式冲床，肘杆式压力机
+toggle puncher   &&   手动冲床
+toggle switch   &&   扳钮开关，跳动式小开关，可逆式接头拨动式小开关，肘节开关
+toggle type mold clamping system   &&   肘节式合模装置
+toggle-joint riveting machine   &&   肘节铆机
+toggle-lever arm   &&   曲杆臂
+toggle-type tablet machine   &&   肘杆压片机
+token   &&   令牌，权标，标记，记号
+token bus   &&   令牌总线
+token bus network   &&   令牌总线网
+token passing procedure   &&   令牌传递规程
+token ring network   &&   令牌环网
+token value   &&   标记值，权标值
+token-bus   &&   权标路线，令牌总线
+token-passing   &&   通行标志，令牌传送
+token-passing network   &&   权标传送网，令牌传送网
+token-ring   &&   权标环，令牌环
+token-ring local area network   &&   权标环局部网，令牌环局部网
+token-ring network   &&   权标环网，令牌环网
+tolerance   &&   ①公差，容限，容许，允差，容错②耐受，耐性，耐力
+tolerance and fit   &&   公差及配合
+tolerance between forward and backward in indicating value   &&   示值进回程差
+tolerance frequency   &&   允许频率
+tolerance grade   &&   公差等级
+tolerance in form   &&   形状公差
+tolerance in position   &&   位置公差
+tolerance interval   &&   容许极限
+tolerance of dimension   &&   尺寸公差
+tolerance range   &&   公差带，公差范围
+tolerance specification   &&   公差规格说明
+tolerance standard   &&   公差标准
+tolerance system   &&   公差制
+tolerance zone   &&   公差带
+toll   &&   长途电话
+toll board   &&   长途台
+toluene   &&   甲苯
+tommy bar nut   &&   带孔螺母
+tommy gun   &&   冲锋枪
+tommy screw   &&   虎钳丝杠，贯头螺丝
+tomography   &&   X射线层析照相术
+ton   &&   吨
+tonality   &&   ①声谱②音调③噪声
+tone   &&   单音
+tone arm   &&   唱臂
+tone burst method   &&   纯音脉冲法
+tone circuit   &&   音调调节电路，调制电路，音频电路
+tone frequency   &&   声频，音频
+tone generator   &&   音频发生器，音频振荡器
+tone-modulated wave   &&   音频调制波
+tonearm   &&   唱臂
+tong   &&   火钳
+tong oil   &&   桐油
+tongs   &&   ①钳，夹钳，火钳②夹具
+tongue   &&   ①舌键，火舌，舌片②尖③销④舌簧⑤榫
+tongue piece   &&   舌片
+tongue roll   &&   凸舌轧辊
+tongue tool   &&   舌形旋压工具
+tongue-and-groove   &&   ①榫槽②槽榫接合，企口接合
+tongue-and-groove method   &&   闭口式孔型轧制法，闭口孔直轧法
+tongue-and-groove rolling   &&   闭口孔型轧制
+tongued-and-grooved joint   &&   槽榫接合，雌雄榫接合
+tonguing cutter   &&   槽榫铣刀
+tonguing-and-grooving plane   &&   舌刨和槽刨
+tonnage   &&   吨位，总吨数
+tonneau   &&   乘员舱
+tonneau cover   &&   车厢盖布
+tonneau panel   &&   后翼子板
+tonotron   &&   雷达显示管
+tool   &&   刀具，工具
+tool adjustment   &&   刀具调整
+tool advance   &&   刀具进刀
+tool and cutter   &&   工具磨床
+tool arbor   &&   刀轴
+tool arm   &&   刀臂
+tool bag   &&   工具袋
+tool bit   &&   刀片，刀头
+tool bogie   &&   工具车
+tool box on cross silde   &&   横向滑板刀箱
+tool car   &&   工具车
+tool carriage   &&   刀架滑座，刀架溜板
+tool carrier   &&   刀架滑座，刀架溜板
+tool changer   &&   换刀装置
+tool changing   &&   换刀
+tool changing device   &&   换刀装置
+tool clamp   &&   刀夹
+tool design   &&   工具设计
+tool diameter compensation   &&   刀具直径补偿
+tool edge   &&   刀口
+tool edge radius   &&   刀刃圆角半径
+tool electrode   &&   工具电极
+tool equipment   &&   工具设备
+tool face   &&   刀面
+tool finish   &&   机械加工
+tool for lathe   &&   车刀
+tool geometry   &&   刀具几何形状
+tool grinder   &&   刀具磨床，工具砂轮机，工具磨床
+tool grinding   &&   工具磨削
+tool grinding machine   &&   工具磨床
+tool head   &&   刀架，刀夹
+tool hold   &&   工具安装
+tool include angle   &&   刀尖角
+tool kit   &&   工具箱
+tool lathe   &&   工具车床
+tool length compensation   &&   刀具长度补偿
+tool life   &&   工具寿命
+tool lorry   &&   工具车
+tool magazine   &&   刀具库，多刀刀座
+tool management system   &&   工具管理系统
+tool marks   &&   刀痕
+tool materials   &&   工具材料
+tool microscope   &&   工具显微镜
+tool milling machine   &&   工具铣床
+tool nose   &&   刀尖
+tool of production   &&   生产工具
+tool pan   &&   刀盘
+tool point   &&   刀锋
+tool point angle   &&   刀刃角
+tool point width   &&   刀顶距
+tool post   &&   刀架，刀座
+tool rack   &&   工具架
+tool resharpening   &&   刀具重磨
+tool rest   &&   刀架
+tool room   &&   工具车间
+tool saddle   &&   刀架鞍板
+tool set   &&   成套工具，工具箱
+tool set-up   &&   机床调整，工艺装置
+tool setting   &&   对刀，刀具调整，刀具安装
+tool setting device   &&   对刀装置
+tool sharpener   &&   磨刀机，刀具磨床
+tool sharpening   &&   刃磨
+tool sharpening machine   &&   刀具刃磨机
+tool shop   &&   工具车间
+tool shrink   &&   刀柄，刀杆，刀具柄
+tool slide   &&   刀架滑座，刀架溜板
+tool spindle   &&   刀轴
+tool spindle mechanism   &&   刀具旋转轴机构
+tool stand   &&   工具台
+tool steel   &&   工具钢
+tool steel for hot working   &&   热加工工具钢
+tool storage room   &&   工具库
+tool table   &&   工具台
+tool tear   &&   刀具损裂
+tool tester   &&   工具试验机
+tool tip   &&   刀头
+tool van   &&   工具车
+tool vehicle   &&   工具车
+tool wagon   &&   工具车
+tool withdrawal groove   &&   退刀槽
+tool-based programming environment   &&   基于工具的程序设计环境
+tool-box   &&   工具箱
+tool-carrying device   &&   刀架
+tool-grinding installation   &&   工具磨削装置
+tool-head feed screw   &&   刀架进给螺杆，刀架进给丝杠
+tool-head traversing screw   &&   刀架进给螺杆，刀架进给丝杠
+tool-making lathe   &&   工具车床
+tool-post screw   &&   刀架螺旋
+tool-post wrench   &&   刀架扳手
+tool-rotary type multiple spindle automatic chucking machine   &&   转刀式多轴自动卡盘机床
+tool-setting diagram   &&   刀具安装图
+toolbar   &&   刀柄，刀具柄，刀杆，镗杆，工具栏，工具列
+toolholder   &&   刀夹，刀具柄，刀杆，工具柄
+toolholding   &&   刀具夹紧
+toolholding device   &&   刀夹具
+tooling   &&   ①准备刀具，调整工具，调整机床②用刀具切削加工③工具准备、工具布置
+tooling chart   &&   机床调整卡片，机械加工供需卡片
+tooling point   &&   基准点(模样及铸件加工用)
+toolmaker   &&   模具制造者
+toolmaker lathe   &&   工具车床
+toolmaker's microscope   &&   工具显微镜
+toolmaking   &&   工具制造
+toolpost   &&   刀架
+toolpost grinder   &&   工具磨床
+toolroom   &&   工具车间，工具间，工具室
+toolroom engine lathe   &&   普通工具车床
+toolroom lathe   &&   (万能)工具车床
+toolroom machine   &&   工具机
+toolroom microscope   &&   工具显微镜
+toolroom milling machine   &&   工具铣床
+tools for machine tools   &&   机床用刀具
+tooth   &&   齿，齿状物
+tooth addendum   &&   齿顶高
+tooth alignment error   &&   齿向误差
+tooth angle   &&   齿角
+tooth bearing   &&   齿支撑面，轮齿接触面
+tooth chamfering machine   &&   齿轮倒角机
+tooth contact analysis   &&   轮齿接触分析
+tooth contact pattern   &&   轮齿接触斑点
+tooth curve   &&   齿廓曲线
+tooth depth   &&   齿高
+tooth form   &&   齿形
+tooth height   &&   齿顶高，齿高，齿高
+tooth horizontal   &&   齿水平面
+tooth layout   &&   轮齿剖面图
+tooth number   &&   齿数
+tooth pitch   &&   齿节
+tooth point   &&   齿尖
+tooth profile   &&   齿形，齿廓
+tooth profile angle   &&   齿形角
+tooth profile error   &&   齿形误差
+tooth rake   &&   齿耙
+tooth ratchet mechanism   &&   齿式棘轮机构
+tooth ripple   &&   齿波纹
+tooth root   &&   齿根
+tooth runout   &&   齿圈跳动
+tooth shape   &&   齿形
+tooth space   &&   齿槽，齿间
+tooth spacing   &&   齿间距，齿间
+tooth spacing angle   &&   齿间角
+tooth spacing error   &&   齿间距误差
+tooth spacing testing   &&   齿距检查仪
+tooth spiral   &&   齿螺旋线
+tooth strength   &&   齿轮强度
+tooth surface   &&   轮齿表面，齿(侧表)面
+tooth taper   &&   轮齿收缩
+tooth thickness   &&   齿厚
+tooth thickness error   &&   齿厚误差
+tooth tip   &&   齿顶，齿尖(电机的)
+tooth tip leakage   &&   齿尖漏磁
+tooth top   &&   齿顶
+tooth trace   &&   齿线
+tooth vertical   &&   齿垂直面
+tooth width   &&   齿宽
+tooth-angle device   &&   搂齿倾角调节装置
+tooth-angling mechanism   &&   搂齿倾斜机构
+tooth-mesh frequency   &&   齿啮合频率
+tooth-to-tooth composite tolerance   &&   一齿度量中心距公差
+tooth-to-tooth composite variation   &&   一齿度量中心距变量
+toothed belt   &&   有齿传动带
+toothed wheel   &&   齿轮，带齿轮子
+top   &&   ①陀螺②顶，头，顶部，齿顶
+top and bottom fired furnace   &&   双面加热炉
+top and bottom guiding   &&   顶底导向
+top assembly drawing   &&   顶部装配图
+top blade   &&   上刀片
+top blast   &&   顶吹
+top block   &&   上垫脚
+top blowing   &&   顶吹塑
+top blowing technique   &&   顶吹炼钢工艺
+top blown oxygen converter   &&   顶吹氧转炉
+top board   &&   上压板(振压造型机的)
+top box   &&   上箱，盖箱
+top cap   &&   ①顶盖②顶帽(电子管)
+top carriage trunnion hearing   &&   上架耳轴轴承
+top casting   &&   上铸法，顶浇，顶流
+top center   &&   上死点，上静点
+top charge   &&   炉顶装料
+top charging   &&   顶装料
+top circle   &&   齿顶圆，顶圆(齿轮的)
+top clearance   &&   顶部间隙(齿轮的)
+top compression ring   &&   第一道气环
+top cover   &&   顶盖
+top dead center   &&   上止点[TDC]
+top die   &&   上压模，上压型
+top digit   &&   高位数
+top discharge   &&   上出料
+top document   &&   顶层文件，顶层文档资料
+top feeder head   &&   顶冒口
+top feeding   &&   顶装料
+top filling   &&   顶装料
+top flash   &&   顶部飞边
+top gate   &&   顶浇浇口
+top gating   &&   顶浇式浇注系统，顶浇法
+top guiding   &&   顶导向
+top loading   &&   顶装料
+top of stack control word   &&   栈顶控制字
+top operand   &&   栈顶运算对象，栈顶操作数，栈顶运算数
+top operator   &&   栈顶算符，栈顶运算符
+top plate   &&   上托板(顶板)
+top pouring   &&   顶注(法)，顶浇
+top pressure   &&   上压力
+top region   &&   表面区
+top relief angle   &&   顶刃后角
+top riser   &&   顶冒口
+top roll   &&   上轧辊
+top row   &&   顶行
+top running   &&   顶浇
+top seal   &&   顶盖密封
+top sleeper   &&   吊舱卧铺
+top slope angle   &&   刀齿顶刃倾角
+top speed   &&   最高车速，最高速度
+top squeeze moulding machine   &&   上压式造型机
+top stack element   &&   栈顶元素
+top stack location   &&   栈顶单元
+top stack operand   &&   栈顶运算对象，栈顶操作数
+top stack symbol   &&   栈顶符号
+top suspended centrifuge   &&   上悬式离心机
+top suspension   &&   上悬式
+top suspension centrifuge   &&   上悬式离心机
+top symbol on left convention   &&   顶符号在左边的约定
+top symbol on right convention   &&   顶符号在右边的约定
+top view   &&   俯顶视图 上视景
+top yoke   &&   顶轭，顶架，上轭
+top-blown   &&   顶吹
+top-blown oxygen converter steel   &&   顶吹氧转炉钢
+top-blown oxygen steelmaking process   &&   顶吹氧炼钢法
+top-center indicator   &&   上死点指示器
+top-center piston position   &&   上死点活塞位置
+top-contact rail   &&   顶部接触轨
+top-down   &&   自顶向下，顺序
+top-down analysis   &&   自顶向下分析
+top-down analyzer   &&   自顶向下分析程序
+top-down development   &&   自上而下开发
+top-down error recovery   &&   自顶向下校正错误
+top-down fast-back parser   &&   自顶向下快速分析程序
+top-down parser   &&   自顶向下分析程序
+top-down parsing algorithm   &&   自顶向下分析算法
+top-down partitioning rule   &&   自顶向下划分规则
+top-down programming   &&   自顶向下程序设计
+top-down recognizer   &&   自顶向下识别程序，自顶向下识别算法
+top-down stepwise refinement   &&   自顶向下逐步求精法
+top-down testing   &&   自上而下测试
+top-end computer   &&   高档计算机
+top-half bearing   &&   上半部分轴承
+top-loading balance   &&   上皿天平
+top-loading thermobalance   &&   上皿式热天平
+top-of-the-line computer   &&   最高级计算机
+top-rank retrieval   &&   顶端排队检索
+topland   &&   齿顶面
+topland width   &&   齿顶面宽度
+topography   &&   外形，构形
+topological analysis   &&   布局分析
+topological design   &&   布局设计
+topological diagram   &&   拓扑图
+topological optimization   &&   布局优化
+topological order   &&   拓扑有序
+topological sort program   &&   拓扑分类程序
+topological sorting   &&   拓扑排序，拓扑分类
+topological sorting algorithm   &&   拓扑排序算法，拓扑分类算法
+topological sorting arrangement   &&   拓扑分类编排
+topological structure   &&   拓朴结构
+topologically closed system   &&   拓扑闭系统
+topology   &&   拓扑学，布局技术，拓扑结构 拓朴
+topology structure   &&   拓扑结构
+topping   &&   修顶
+toprem   &&   修根刀片
+toprem angle   &&   刀齿突角角度
+torch   &&   吹管，电筒，火炬，焊炬
+torch braze welding   &&   焊炬钎焊
+torch brazing   &&   火焰钎焊，吹管硬(钎)焊
+torch hardening   &&   火焰淬火
+torch igniter   &&   火炬式点火器
+torch light   &&   手电筒
+torch soldering   &&   火焰钎焊
+torch welding   &&   吹管焊接
+torch-flame cut   &&   火焰切割
+toric lens   &&   复曲面透镜
+toric transmission   &&   无级传动
+tornadotron   &&   旋风管，微波-亚毫米波转换电子谐振器
+toroid   &&   环
+toroid helicoids worm   &&   环面蜗杆
+toroid winder   &&   环心线圈绕线机
+toroidal   &&   环形 圆环形
+toroidal coil   &&   环形线圈
+toroidal core   &&   环心
+toroidal current-transformer   &&   环形电流互感器
+toroidal iron core   &&   环形铁心
+toroidal magnetic circuit   &&   环形磁路
+toroidal magnetic field   &&   环向磁场
+toroidal memory core   &&   环形磁心
+toroidal solenoid   &&   环形螺线管
+toroidal throat Venturi nozzle   &&   喇叭口喉部文丘里喷嘴
+toroidal transformer   &&   环心变压器
+toroidal winding   &&   环形绕组
+torpedo   &&   鱼雷
+torpedo boat   &&   鱼雷(快)艇
+torpedo bomber   &&   鱼雷攻击机
+torpedo exploder mechanism   &&   鱼雷引爆装置
+torpedo plane   &&   鱼雷快艇驱逐舰
+torpedo spreader   &&   水雷形扩张器
+torpedo tube   &&   鱼雷发射管
+torpedo-boat destroyer   &&   鱼雷快艇驱逐舰
+torque   &&   ①扭矩，扭力矩，力矩，扭转力矩，转矩②扭转
+torque  sensor   &&   力矩传感器，转矩传感器
+torque amplifier   &&   转矩放大器
+torque arm   &&   ①扭力臂，转矩臂②扭力杆
+torque balance   &&   扭力天平，扭矩天平
+torque ball   &&   万向节球形壳体
+torque breakdown test   &&   扭矩破裂试验
+torque converter   &&   ①转矩变换器，液力变矩器②偶合器
+torque converter pump   &&   变矩器泵轮
+torque cushion spring   &&   减振弹簧
+torque fluid   &&   变矩器油
+torque force   &&   扭力
+torque indicator   &&   扭矩计
+torque limit switch   &&   力矩开关
+torque magnetometer   &&   转矩磁强计
+torque motor   &&   转矩电动机
+torque ratio   &&   变矩比
+torque reserve   &&   扭矩储备
+torque rod   &&   半径杆
+torque sensor   &&   扭矩传感器
+torque spanner   &&   扭矩扳手
+torque transducer   &&   扭矩传感器
+torque tube   &&   扭力套管
+torque tube translation   &&   扭力套管传动
+torque variator   &&   力矩变换器
+torque wrench   &&   扭矩扳手
+torquemeter   &&   转矩测量仪
+torsion   &&   扭力，扭曲
+torsion balance   &&   扭力天平，扭秤
+torsion bar   &&   扭杆
+torsion bar suspension   &&   扭杆悬架
+torsion impact test   &&   扭力冲击试验，扭转冲击试验
+torsion meter   &&   扭力计
+torsion modulus   &&   扭转模量
+torsion moment   &&   扭矩
+torsion pendulum   &&   扭摆
+torsion spring   &&   扭力弹簧，扭转簧
+torsion stress   &&   扭转应力
+torsion test   &&   扭力试验
+torsion testing machine   &&   扭转试验机
+torsion viscosimeter   &&   扭力黏度计
+torsion-string galvanometer   &&   扭丝式电流计
+torsional   &&   扭转的
+torsional angle   &&   扭转角
+torsional braid analysis   &&   扭辫分析
+torsional braid analysis apparatus   &&   扭辫分析仪
+torsional centre   &&   扭心
+torsional couple   &&   扭力偶
+torsional critical speed   &&   扭转临界速度(电机的)
+torsional damper   &&   ①扭振减振器②摇臂式减振器
+torsional damping spring   &&   减振弹簧
+torsional deflection   &&   扭转变形
+torsional deformation   &&   扭转形变
+torsional elasticity   &&   扭转弹性
+torsional endurance limit   &&   扭转持久极限，扭转疲劳限(度)
+torsional fatigue   &&   扭转疲劳
+torsional fatigue strength   &&   扭转疲劳强度
+torsional fatigue test   &&   扭转疲劳试验
+torsional flexibility   &&   扭转挠性
+torsional force   &&   扭力
+torsional laminar displacement   &&   扭转层状位移
+torsional load   &&   扭力负载
+torsional moment   &&   扭力矩
+torsional oscillation   &&   扭转振动
+torsional relaxation   &&   扭力松弛，扭转松弛
+torsional resistance   &&   扭转抗力
+torsional rigidity   &&   扭转刚性
+torsional shear strain   &&   扭应变
+torsional shear test   &&   扭转剪切试验
+torsional strain   &&   扭应变
+torsional strength   &&   扭转强度
+torsional stress   &&   扭应力
+torsional test   &&   扭转试验
+torsional vibration   &&   扭转振动
+torsional vibration damper   &&   ①扭振减振器②摇臂式减振器
+torsional wave   &&   扭转波
+torsionally oscillating rheometer   &&   扭转振荡流变仪
+torso line   &&   躯干线
+torus   &&   ①环形线圈②椭圆环，圆环
+tosecan   &&   划针、划线盘
+total   &&   全，全部
+total absorption   &&   全吸收，总吸收
+total acid number   &&   总酸值 [TAN]
+total amount of production   &&   全部产量
+total analysis   &&   全分析
+total base number   &&   总碱值 [TBN]
+total binding energy   &&   总结合能
+total boiler efficiency   &&   锅炉总效率
+total break time   &&   总断开时间
+total carbon   &&   总碳量
+total case depth   &&   硬化总深度
+total characteristic   &&   总特性(曲线)
+total charge   &&   总电荷
+total check   &&   累加校验，总计校验
+total clear   &&   全部清除
+total cloud cover   &&   总云量
+total composite error   &&   总合成误差
+total composite tolerance   &&   总综合公差
+total composite variation   &&   总度量中心距变动量
+total condenser   &&   全凝器
+total contact ratio   &&   总重合度
+total conversion error   &&   总转换误差
+total conversion time   &&   总转换时间，全部转换时间
+total counts of acoustic emission   &&   声发射总数
+total creep   &&   总蠕变
+total current   &&   总电流
+total curvature   &&   全曲率
+total deformation   &&   总变形
+total departure   &&   总偏离
+total derivative   &&   全导数，全微商
+total deviation   &&   总偏差
+total dislocation   &&   总位错
+total distortion   &&   总畸变
+total distributed control system   &&   综合分散型控制系统
+total driving resistance   &&   行驶阻力[TDR]
+total dump   &&   全部转储
+total efficiency   &&   总效率
+total emissivity   &&   总发射率，总辐射率
+total energy   &&   总能量
+total flow   &&   总流量
+total harmonic distortion   &&   总谐波失真
+total head   &&   总水头
+total heat energy   &&   总热能
+total heating surface   &&   总受热面(锅炉的)
+total height   &&   总高度
+total immersion test   &&   全浸试验
+total immersion thermometer   &&   全浸温度计
+total index tolerance   &&   总分度公差
+total index variation   &&   总分度变动量
+total intensity   &&   总强度
+total ion chromatogram   &&   总离子色谱图
+total leakage flux   &&   总漏磁通
+total leakage reactance   &&   总漏(电)抗
+total length closing error of traverse   &&   导线全长闭合差
+total light flux   &&   总光通量
+total load   &&   总负载
+total losses   &&   总损耗
+total luminous flux   &&   总光通量
+total magnetic flux   &&   全磁通
+total magnetic flux linkage   &&   全磁链
+total maintenance time   &&   总维护时间
+total management   &&   全盘管理
+total management system   &&   全面管理系统
+total mass authorized   &&   许用总质量
+total number of divisions   &&   分格数
+total number of turns   &&   总匝数
+total operating time   &&   总工作时间
+total organic carbon   &&   总有机碳
+total organic carbon analyzer for seawater   &&   海水总有机碳测定仪
+total organic matter   &&   总有机物
+total output   &&   全部产量
+total oxygen demand   &&   总需氧量
+total porosity   &&   总孔隙度
+total pressure   &&   总压力，总压强
+total pressure Pitor tube   &&   总压皮托管
+total pressure tapping   &&   总压取压孔
+total pressure tube   &&   全压管
+total print   &&   全部打印
+total probability formula   &&   全概率公式
+total program package   &&   总程序包
+total quality control   &&   全面质量管理[TQC]
+total quality-control   &&   全面质量控制[TQC]
+total radiation   &&   全辐射
+total radiation power   &&   全辐射功率
+total radiation pyrometer   &&   全辐射高温计
+total radiation thermometry   &&   全辐射测温法
+total reaction   &&   全部反应
+total recovery   &&   总回收率
+total recursive function   &&   全递归函数
+total reflection   &&   全反射
+total reflux operation   &&   全回流操作
+total regression curve   &&   总回归曲线
+total regulation   &&   总调整
+total reserve   &&   总储量
+total resistance   &&   ①总电阻②总阻力
+total response time   &&   全响应时间
+total sag   &&   总垂度
+total sensitivity   &&   总灵敏度
+total sewage discharge control   &&   总排污量控制
+total shunt-field circuit resistance   &&   并励磁场电路总电阻，并激磁场电路总电阻
+total space   &&   全空间
+total strength   &&   总强度
+total stress   &&   全应力，总应力
+total stretch   &&   总拉伸
+total sum of squares   &&   总平方和
+total switching time   &&   总切换时间
+total synthesis   &&   全部合成
+total testing time   &&   总试验时间
+total time lag   &&   总延时(继电器的)
+total variation   &&   全变差
+total voltage   &&   总电压
+total weight   &&   累计称量，总重量
+total-reflection prism   &&   全反射棱镜
+total-reversal solidification   &&   倒向凝固(铸造的)
+totalizer   &&   总加器
+totalizing instrument   &&   总计仪器仪表
+totalizing snowmeter   &&   累计雪量计
+totally enclosed substation   &&   全封闭变电所
+totally real field   &&   全实域
+totally unimodular matrix   &&   全单位模矩阵
+totally-enclosed   &&   全封闭
+totally-enclosed cartridge free   &&   全封闭式熔丝管
+totally-enclosed fan-cooled type machine   &&   全封闭风扇冷却电机
+totally-enclosed machine   &&   全封闭式电机
+totally-enclosed motor   &&   全封闭式电动机
+totally-enclosed non-ventilated electric machine   &&   全封闭非通风式电机
+totally-enclosed pipe-ventilated electric machine   &&   全封闭管子通风式电机
+totally-enclosed water-cooled   &&   全封闭水冷式
+touch call   &&   按钮拨号，接触呼叫(电话的)
+touch control   &&   接触控制
+touch off   &&   触发
+touch screen   &&   触摸屏
+touch spark   &&   接触火花
+touch switch   &&   按钮开关
+touch voltage   &&   接触电压
+touch-sensitive display   &&   摸感显示器
+touch-tone data service   &&   按键数据服务
+touch-tone dialing   &&   按钮拨号
+touch-tone telephone   &&   按键式电话机
+touchdown   &&   接地
+touching   &&   开缝隙(内)浇口
+tough   &&   强硬，硬，韧性
+tough break   &&   韧性断口
+tough hardening steel   &&   韧性淬火钢
+tough pitch copper   &&   韧铜
+tough steel   &&   韧性钢
+tough-rubber sheathed cable   &&   韧向皮包电缆
+toughness   &&   ①韧性，韧度②刚性，刚度
+toughness test   &&   韧性试验
+tour-component system   &&   四元系
+tourmaline   &&   电气石
+tourmaline gauge   &&   电气石计
+tourmalinite   &&   电气石
+tow   &&   牵引
+tow bar   &&   牵引杆
+tow car   &&   牵引车
+tow shell injection molding   &&   二売注塑
+tow-handled knife   &&   双柄刮皮刀
+towed STD system   &&   拖曳式温盐深剖面仪
+towed artillery   &&   牵引炮
+towed underwater TV-camera system   &&   拖曳式水下电视摄像系统
+tower   &&   塔
+tower antenna   &&   塔式天线
+tower buggy   &&   塔车
+tower crane   &&   塔吊，塔式起重机
+tower dryer   &&   塔式干燥器
+tower evaporator   &&   塔式蒸发器
+tower filling   &&   塔填料
+tower hoist   &&   塔吊
+tower mill   &&   塔式粉碎机
+tower packing   &&   塔填料
+tower power plant   &&   塔式发电厂
+tower still   &&   塔式蒸馏釜
+tower tray   &&   塔板
+tower type   &&   塔式
+tower washer   &&   塔式洗涤器
+towing aircraft   &&   牵引飞机
+towing depth distance recorder   &&   曳航深度距离记录仪
+towing fork   &&   牵引叉头
+towing hook   &&   牵引钩
+towing jaws   &&   牵引叉头
+towing vehicle   &&   牵引车
+toy   &&   玩具
+toy computer   &&   玩具计算机
+trace   &&   ①扫描②痕量③踪迹，追踪④宽线，等宽线
+trace analysis   &&   痕量分析
+trace checker   &&   跟踪检验程序
+trace command   &&   跟踪命令，追踪命令
+trace contamination   &&   痕量污染
+trace elements   &&   痕量元素
+trace identification device   &&   迹线分辨装置
+trace implementation   &&   追踪实现
+trace interval   &&   ①跟踪区间，追踪区间②扫描时间间距
+trace metal   &&   痕量金属
+trace program   &&   跟踪程序，追踪程序
+trace routine   &&   跟踪程序，追踪例行程序
+trace schedule   &&   跟踪调度
+trace trap   &&   跟踪捕捉，追踪捕获
+trace-through state   &&   跟踪过程状态，追踪过程状态
+traceability   &&   溯源性
+tracer   &&   ①仿形器，仿形板②追踪程序，跟踪程序③仿形触头
+tracer methods   &&   示踪法
+tracer milling machine   &&   仿形铣床
+tracer-controlled lathe   &&   仿形车床
+tracer-controlled milling machine   &&   仿形铣床
+tracing   &&   跟踪，追踪，跟踪法，故障寻找
+tracing program   &&   跟踪程序，追踪程序
+track   &&   ①轨，轨迹，轨道②磁道③径迹④轮距
+track arm   &&   横摆臂，横杆
+track ball   &&   跟踪球
+track chain   &&   履带(链)
+track control arm   &&   横杆
+track crane   &&   轨道起重机
+track gage   &&   履带距
+track gauge   &&   轨距
+track pin   &&   履带板销
+track pitch   &&   履带节距
+track relay   &&   轨道继电器
+track rod   &&   横拉杆
+track rod end   &&   横拉杆接头
+track rod lever   &&   梯形臂
+track rollers   &&   履带滚轮
+track scanner   &&   径迹扫描仪
+track thrash   &&   履带振跳
+track transformer   &&   轨道变压器
+track while scan   &&   扫描跟踪
+track width   &&   轮距
+track-laying vehicle   &&   履带车辆
+track-mounted drilling jumbo   &&   轨道式凿岩台车
+track-shoe   &&   履带板
+tracked vehicle   &&   履带车辆
+tracker   &&   跟踪系统
+tracking   &&   ①漏电痕迹②调整
+tracking and data relay satellite system   &&   跟踪和数据中继卫星系统[TDRSS]
+tracking antenna   &&   跟踪(目标)天线
+tracking control   &&   跟踪控制
+tracking error   &&   跟踪误差，转向轮定位误差
+tracking flitter   &&   跟踪滤波器
+tracking network   &&   跟踪网
+tracking optical pumping magnetometer   &&   跟踪式光泵磁力仪
+tracking radar   &&   跟踪雷达
+tracking station of satellite   &&   卫星跟踪站
+tracking system   &&   跟踪系统
+traction   &&   牵引，吸引，驱动力
+traction avant   &&   前轮驱动(法语使用)
+traction bar   &&   推力杆
+traction control   &&   牵引控制
+traction differential   &&   抗滑差速器
+traction electric machine   &&   牵引电机
+traction electrical apparatus   &&   牵引电器
+traction engine   &&   重载车
+traction equipment   &&   牵引装置
+traction generator   &&   牵引发电机
+traction grade   &&   牵引级
+traction motor   &&   牵引电动机
+traction power source   &&   牵引电源
+traction substation   &&   牵引变电所
+traction test   &&   牵引试验
+tractive ability   &&   牵引能力
+tractive chain   &&   牵引链
+tractive effort   &&   牵引力
+tractive effort torque   &&   牵引力扭矩
+tractive electromagnet   &&   吸引电磁铁
+tractive force   &&   牵引力
+tractive power   &&   牵引功率
+tractive resistance   &&   牵引阻力
+tractive transformer   &&   牵引变压器
+tractive unit   &&   牵引车
+tractor   &&   ①拖拉机②牵引车
+tractor aircraft   &&   拉进式螺旋桨飞机
+tractor truck   &&   牵引车
+tractor unit   &&   牵引车
+trade effluent   &&   工业污水
+trade sewage   &&   工业污水
+traditional ceramics   &&   传统陶瓷
+traditional debugging   &&   传统调试(法)
+traditional program   &&   传统程序
+traffic   &&   信息量，通信量
+traffic concentration   &&   信息量集中，通信量集中
+traffic congestion   &&   信息量拥挤，通信量拥挤
+traffic control computer   &&   交通管理计算机
+traffic control system   &&   交通管理系统
+traffic data   &&   信息量数据，通信量数据
+traffic diagram   &&   通信图
+traffic environment   &&   通信环境
+traffic flow   &&   通信流
+traffic indicator   &&   转向信号灯
+traffic intensity factor   &&   服务强度因素
+traffic load   &&   通信负载
+traffic pilot   &&   多路转换器
+traffic rate   &&   信息量速率，通信量速率
+traffic signal   &&   交通信号
+traffic utilization   &&   信息量利用，通信量利用
+traffic utilization parameter   &&   信息量利用参数，通信量利用参数
+trafficator   &&   转向指示器
+trail   &&   主销后倾拖距
+trailer   &&   ①拖车，挂车②尾部，报文尾
+trailer car   &&   拖车
+trailer hitch   &&   牵引叉头
+trailer label   &&   尾部标志
+trailer record   &&   尾部纪录
+trailer sway   &&   挂车摆动
+trailer swing   &&   挂车摆动
+trailer wagon   &&   牵引小车
+trailing   &&   后续 结尾
+trailing arm   &&   纵向推力杆
+trailing axle   &&   支持轴
+trailing blank   &&   结尾空白，尾随空白
+trailing contact   &&   辅助触点
+trailing end   &&   结尾，尾部，后端
+trailing flag   &&   结束标志
+trailing pole horn   &&   后极尖
+trailing pole tip   &&   后极尖
+trailing rink   &&   纵向推力杆
+trailing shoe   &&   从蹄
+trailing thermister   &&   电测表层温度计
+trailing-edge pulse time   &&   后沿脉冲时间
+train   &&   ①火车，列车②列，系列，链
+train carrier   &&   火车轮渡
+train ferry   &&   火车轮渡
+train noise   &&   火车噪声
+trainer aircraft   &&   教练机
+training   &&   锻炼(超导)
+training effect   &&   锻炼效应
+training missile   &&   教练导弹
+training pattern classifier system   &&   训练模式分类器系统
+tram   &&   有轨电车
+tramcar   &&   有轨电车
+tramp   &&   ①踏步②左右车轮一上一下的跳动
+tramway   &&   电车轨道
+trans-information   &&   转移信息
+transaction   &&   事务处理
+transaction file   &&   细目文卷
+transaction time   &&   事务处理时间
+transaxle   &&   ①变速后驱动桥总成②变速前驱动桥总成③差速传动
+transbuoy   &&   浮标自动气象站(automatic weather station)
+transceiver   &&   收发器
+transducer   &&   传感器，探头
+transducer class   &&   传感器等级
+transduction membrane   &&   传感膜
+transfer balancing line   &&   平衡自动线
+transfer box   &&   分动器
+transfer case   &&   分动器
+transfer drive   &&   角传动装置
+transfer function   &&   传递函数
+transfer function matrix   &&   传递函数矩阵
+transfer gear   &&   ①分动器②输出轴低的变速器
+transfer gearbox   &&   分动器
+transfer molding   &&   转送成形，传递塑
+transfer port   &&   扫气孔
+transfer ratio   &&   传送比率
+transfer ratio error   &&   传送比率误差
+transfer table   &&   转移表
+transfer table vector   &&   转移表向量
+transfer test   &&   传送检验
+transfer time   &&   转移时间
+transfer tube   &&   输液管
+transfer unit   &&   传递单位
+transfer vector   &&   转移向量
+transform   &&   ①变换，变化，转化，转变，转移②变换式
+transform diagram   &&   变换图
+transformat   &&   传送格式
+transformation   &&   ①变换，变化，变形，转化，转变②换算③蜕变，还变
+transformation annealing   &&   转变退火
+transformation brittleness   &&   转变脆性
+transformation encoding   &&   变换编码
+transformation of energy   &&   能量转换
+transformation of program fragment   &&   程序分段变换
+transformation point   &&   转变点，相変点
+transformation range   &&   转变范围
+transformation rules   &&   变换规则，转换规则
+transformation stage   &&   转变阶段
+transformation strain   &&   转变应变
+transformation temperature   &&   转变温度
+transformation text   &&   抟换文本
+transformational  software  development methodology   &&   变换软件开发方法学
+transformational equation   &&   变换方程
+transformational grammar   &&   变换文法
+transformational matrix   &&   变换矩阵
+transformational programming   &&   转换程序设计
+transformed value   &&   变换值
+transformed value of a measurand   &&   被测量的变换值
+transformer   &&   变压器
+transformer action   &&   变压器效应，变压器作用
+transformer analog computer   &&   变压器模拟计算机
+transformer bank   &&   变压器组
+transformer bracket   &&   变压器支架
+transformer bridge   &&   变压器电桥
+transformer bushing   &&   变压器套管
+transformer capacity   &&   变压器容量
+transformer casing   &&   变压器外壳
+transformer center tap   &&   变压器中心抽头
+transformer coil   &&   变压器线圈
+transformer core   &&   变压器铁心
+transformer drying method   &&   变压器干燥法
+transformer equivalent circuit   &&   变压器等效电路
+transformer fault   &&   变压器故障
+transformer grounding switch   &&   变压器接地开关
+transformer load loss   &&   变压器有载损耗
+transformer losses   &&   变压器损耗
+transformer no-load loss   &&   变压器空载损耗
+transformer noise   &&   变压器噪声
+transformer oil   &&   变压器油
+transformer over current trip   &&   变压器过电流脱扣
+transformer regulation   &&   变压器(变压比)调整
+transformer relay   &&   变压器继电器
+transformer shell   &&   变压器外壳
+transformer stampings   &&   变压器冲片
+transformer station   &&   变电所，变电站
+transformer steel sheet   &&   变压器硅钢片
+transformer substation   &&   变电所，变电站
+transformer tank   &&   变压器油箱
+transformer tapping   &&   变压器抽头
+transformer utilization factor   &&   变压器利用系数
+transformer voltage   &&   变压器电压
+transformer winding   &&   变压器绕组
+transformer-coupled amplifier   &&   变压器耦合放大器
+transgranular   &&   穿晶
+transgranular crack   &&   穿晶裂缝
+transgranular ductile fracture   &&   穿晶塑性断裂
+transgranular failure   &&   穿晶破断
+transgranular fracture   &&   穿晶断裂
+transient   &&   瞬态
+transient area   &&   暂存区，暂驻存储区
+transient armature current   &&   电枢瞬变电流
+transient current   &&   过渡电流
+transient deviation   &&   瞬态偏差
+transient error   &&   瞬态过载
+transient failure   &&   瞬时失效
+transient fault   &&   瞬时故障
+transient foam tube secondary barrel   &&   副腔过度泡沫管
+transient jet secondary barrel   &&   副腔过渡量孔
+transient nozzle primary barrel   &&   主腔过渡喷口
+transient nozzle secondary barrel   &&   副腔过渡喷口
+transient overload   &&   瞬时过冲
+transient power disturbances   &&   瞬时电源扰动
+transient process   &&   过渡过程
+transient process characteristic curve   &&   暂态特性曲线
+transient response   &&   瞬时响应
+transient rotative speed   &&   瞬态转速
+transient routine   &&   暂用例行程序
+transient state   &&   过渡状态
+transient tachometer   &&   瞬态转速仪
+transient time   &&   过渡过程时间
+transient vibration   &&   瞬态振动
+transient voltage   &&   过渡电压
+transient weight   &&   瞬时称量
+transient welding stress   &&   焊接瞬时应力
+transistor   &&   晶体管，半导体管
+transistor Gaussiun-pulse power rating   &&   晶体管高斯脉冲额定功率
+transistor ageing   &&   晶体管老化
+transistor amplifier   &&   晶体管放大器
+transistor chopper   &&   晶体管斩波器，半导体三极管断路器
+transistor computer   &&   晶体管计算机
+transistor digital computer   &&   晶体管数字计算机
+transistor encapsulation welder   &&   晶体管封焊机
+transistor frequency response   &&   晶体管频率响应
+transistor inverter   &&   晶体管倒相器
+transistor locator   &&   晶体管测位器
+transistor meter   &&   晶体管测试器
+transistor oscillator   &&   晶体管振荡器
+transistor output characteristics   &&   晶体管输出特性
+transistor relay   &&   晶体管继电器
+transistor short-pulse power rating   &&   晶体管短脉冲额定功率
+transistor storage time   &&   晶体管存储时间
+transistor switch   &&   晶体管换接器
+transistor temperature sensor   &&   晶体管温度传感器
+transistor temperature transducer   &&   晶体管温度传感器
+transistor transmitter   &&   晶体管发射机
+transistor trigger   &&   晶体管触发器
+transistor unit   &&   半导体组件
+transistor video amplifier   &&   晶体管视频放大器
+transistored counter   &&   晶体三极管计数器，半导体计数器
+transistorization   &&   晶体管化
+transistorized bridge   &&   晶体管电桥
+transistorized electric digital computer   &&   晶体管数字电子计算机
+transistorized gauge   &&   半导体式测量仪
+transistorized ignition   &&   ①半导体辅助点火系②无触点点火系
+transistorized memory   &&   晶体管存储器
+transistorized pulse generator   &&   晶体管脉冲发生器
+transistorized television camera   &&   晶体管电视摄像机
+transistorized television set   &&   晶体管电视设备
+transit   &&   ①经过，通行，搬运，运输，运输线，转变②横越，通过，经过③经纬仪
+transit phase angle   &&   行程相角
+transit time   &&   渡越时间
+transit time method   &&   渡越时间法
+transit time ultrasonic flowmeter   &&   渡越时间式超声流量计
+transit-time microwave diode   &&   渡越时间微波二极管
+transition   &&   ①换接过程②飞跃，跃迁③过渡，转变，转换
+transition apparatus   &&   换接组合开关，换接装置
+transition card   &&   转换卡片
+transition creep   &&   过渡蠕变
+transition curve   &&   转变曲线
+transition diagram   &&   转换图
+transition element   &&   过渡组件
+transition energy   &&   转变能
+transition fit   &&   过渡配合
+transition flow   &&   转变流
+transition function   &&   转移函数
+transition graph   &&   转移图
+transition heat   &&   转变热
+transition intensity   &&   转移强度
+transition interval   &&   转变间隔
+transition lattice   &&   过渡晶格
+transition law   &&   转变定律
+transition layer   &&   过渡层
+transition matrix   &&   转换矩阵，转移矩阵
+transition matrix element   &&   转移矩阵元
+transition metal   &&   过渡金属
+transition metal alloy   &&   过渡族金属合金
+transition network   &&   转移网
+transition order   &&   转变次序
+transition phase   &&   过渡相
+transition point   &&   转变点，过渡点
+transition potential   &&   转变点电位
+transition probability   &&   转移概率
+transition radiation   &&   穿越辐射
+transition radiation detector   &&   穿越辐射探测器
+transition region   &&   转变区
+transition surface   &&   转移曲面
+transition symbol   &&   转移符号
+transition system   &&   转换系统，转移系统，过渡系统
+transition table   &&   传递表，转换表
+transition temperature   &&   转变温度
+transition tree   &&   转换树
+transition zone   &&   转变区
+transitional flow-rate   &&   分界流量
+transitional information   &&   传递信息，转换信息
+transitional low emission vehicle   &&   过渡性低排放车辆 [TLEV]
+transitive closure   &&   传递闭包
+transitive dependency   &&   传递相关性
+transitive digraph   &&   可迁有相图
+transitive graph   &&   可迁图
+transitive relation   &&   传递关系
+transitive triple   &&   可递三元组
+transitivity   &&   传递性
+transitrol   &&   自动调频管，自动频率微调管
+transitron   &&   负跨导管
+transitron oscillator   &&   负跨导管振荡器
+translate   &&   ①转换，变换，移动，平移②翻译
+translate phase   &&   翻译阶段
+translater   &&   翻译程序，翻译机
+translating machine   &&   翻译机
+translating program   &&   翻译程序
+translation   &&   ①转换，变换，移动，平移②翻译
+translation algorithm   &&   翻译算法
+translation description language   &&   翻译描述语言
+translation field   &&   传送区，转接区
+translation grammar   &&   翻译文法
+translation language   &&   翻译语言
+translation lattice   &&   过渡晶格
+translation memory   &&   翻译存储器
+translation mode bit   &&   翻译方式位，翻译模式位
+translation model   &&   翻译模型
+translation of electrons   &&   电子平移
+translation process   &&   翻译过程
+translation program   &&   翻译程序
+translation routine   &&   翻译(例行)程序
+translator   &&   翻译机，翻译程序
+translator device   &&   翻译机
+translator of language program   &&   语言程序的翻译程序
+translator program   &&   翻译程序
+translator routine   &&   翻译(例行)程序
+translator writing system   &&   翻译程序书写系统
+translator writing tool   &&   翻译程序书写工具
+transliterate   &&   直译
+transliterator   &&   直译程序，直译器
+translucence   &&   半透澈度，半透澈性
+translucency   &&   半透澈度，半透澈性
+transmissibility   &&   可传性，传递率，传输率
+transmission   &&   ①发射，传动②传导，传递，传输③透射④变速器⑤传动系
+transmission able   &&   传输表
+transmission angle   &&   传动比
+transmission array   &&   传输阵
+transmission attenuation   &&   传输衰减(量)
+transmission band   &&   传递频带
+transmission belt   &&   传动带
+transmission brake   &&   中央制动器
+transmission case   &&   传动箱
+transmission chain   &&   传动链
+transmission channel   &&   传输通道
+transmission characteristic   &&   传输特性
+transmission code   &&   传输码
+transmission coefficient   &&   传输系数
+transmission constant   &&   传递常数，传输常数
+transmission control   &&   传输控制
+transmission control character   &&   传输控制符
+transmission control protocol/internet protocol   &&   TCP/IP体系结构
+transmission delay   &&   传输延迟
+transmission distance   &&   传输距离
+transmission dynamometer   &&   传动式测力计
+transmission efficiency   &&   传动效率，传输效率
+transmission electron microscope   &&   透射电子显微镜[TEM]
+transmission equipment   &&   传输设备
+transmission error control   &&   传输差错控制
+transmission facilities   &&   传输设备
+transmission frequency   &&   传输频率
+transmission gain   &&   传输增益
+transmission gear   &&   传动齿轮，变速箱
+transmission grating   &&   透射光栅
+transmission grease   &&   传动装置润滑脂
+transmission housing   &&   变速器壳体
+transmission input shaft   &&   变速器输入轴
+transmission interruption   &&   传输中断
+transmission lag   &&   传递滞后
+transmission limit   &&   传输极限
+transmission line   &&   传输线
+transmission line of information   &&   信息传输线
+transmission line theory   &&   传输线理论
+transmission loss   &&   传动损失
+transmission lubricant   &&   传动装置润滑剂
+transmission measuring transducer   &&   传动测量传感器
+transmission mechanism   &&   传动机构
+transmission medium   &&   传输媒体
+transmission method   &&   穿透法
+transmission mode   &&   传输模式
+transmission network   &&   传输网络
+transmission of electrical energy   &&   电能输送
+transmission of energy   &&   能的输送
+transmission of heat   &&   传热，热传送，热的传递
+transmission of heat by conduction   &&   传热传导，对流传热
+transmission of heat by contact   &&   接触传热
+transmission of light   &&   光的透射
+transmission of power   &&   动力传送
+transmission of television program   &&   电视节目传送
+transmission parameter   &&   传输参数
+transmission path   &&   传输通路
+transmission polynomial   &&   传输多项式
+transmission power   &&   传输功率
+transmission quality   &&   传输品质
+transmission quantity   &&   传输量
+transmission rate   &&   传输速度传输率
+transmission ratio   &&   传动比，传输比
+transmission ratio, speed ratio   &&   传动比
+transmission screw   &&   传动螺杆
+transmission shaft   &&   传动轴，传动比
+transmission speed   &&   传输速度
+transmission subsystem   &&   传输子系统
+transmission system   &&   传递系统，传输系统
+transmission technique   &&   空透法
+transmission terminal card   &&   传输终端卡片
+transmission time   &&   传输时间
+transmission tower   &&   铁塔
+transmission tunnel   &&   传动轴通道
+transmission turbidimeter   &&   透射光浊度计
+transmission type star optical couplers   &&   星状光纤耦合器(穿透形)
+transmission unit   &&   传输单位，通话单位
+transmission-line calculation   &&   传输线计算
+transmission-line capacity   &&   传输线容量
+transmission-line constant   &&   传输线常数
+transmission-line efficiency   &&   传输线效率
+transmission-line loss   &&   传输线损耗
+transmission-line model   &&   传输线模型
+transmission-line parameter   &&   传输线参数
+transmission-line power   &&   传输线功率
+transmissionelectron image   &&   透射电子象
+transmissive optic tachometric transducer   &&   透光式转速传感器
+transmissometer   &&   透射表
+transmit   &&   ①发射，传动②传导，传送，传递③透射
+transmit direction   &&   传输方向
+transmit flow control   &&   发送流控制
+transmit heat   &&   传热
+transmit joint   &&   过渡接头
+transmit mode   &&   发送方式
+transmit operation   &&   发送操作
+transmittability   &&   传输能力
+transmittance   &&   透射比，透射率，透射系数
+transmittance grating   &&   透射光栅
+transmittancy   &&   透射比，透射率
+transmitted chains   &&   传动链
+transmitted light   &&   透射光
+transmitted power   &&   传输功率
+transmitted pulse   &&   发射脉冲
+transmitted-carrier operation   &&   载波发送制
+transmitted-carrier system   &&   发送载波体制
+transmitted-shock test   &&   传振法，传震法
+transmitter   &&   发射机
+transmitter start code   &&   发送开始码
+transmitter-distributor   &&   发报分配器
+transmitter-responder   &&   发送—应答机
+transmitting antenna   &&   发射天线
+transmitting arm   &&   传动臂
+transmitting capacity   &&   传输能力
+transmitting core   &&   传输铁心
+transmitting element   &&   发射组件
+transmitting loop loss   &&   传输回路损耗
+transmitting mode   &&   传送方式
+transmitting ratio   &&   传递比
+transmitting rod accelerating pump   &&   加速泵传动杆
+transmitting selsyn   &&   自动同步发送机，自动同步传递机
+transmitting sound power   &&   发射声功率
+transmitting station   &&   发射台
+transmitting transducer   &&   发射换能器
+transmitting tube   &&   功率管
+transmitting valve   &&   发射管
+transmittivity   &&   透射系数，透射率，穿透率
+transmityper   &&   导航(光电)信号发送机
+transmutation   &&   嬗变
+transoceanic communication   &&   海外通信
+transolver   &&   控制同步机
+transonic aircraft   &&   跨音速飞机
+transonic flight   &&   跨音速飞行
+transonic flow   &&   跨音速流
+transonic speed   &&   跨音速
+transparency   &&   透明度，超然性
+transparent   &&   图像透明度 透通式
+transparent command   &&   透明命令 透通指令
+transparent mode of operation   &&   透明运行方式
+transparent text   &&   简明电文
+transparent text mode   &&   透明电文方式
+transpiration   &&   蒸发作用
+transpiration cooling   &&   蒸发冷却
+transplutonium element   &&   超钚元素
+transponder   &&   发射机，应答器，询问机
+transponder dead time   &&   应答器寂静时间
+transponder set   &&   发射机应答器设备
+transponder suppressed time delay   &&   发射机应答器的抑制时间延迟
+transport   &&   传送，传输，运输，输送，迁移
+transport belt   &&   运输带
+transport car   &&   运输车
+transport control   &&   传送控制
+transport delay   &&   传输延迟
+transport delay unit   &&   传输延迟器
+transport equation   &&   迁移方程
+transport facilities   &&   交通工具
+transport facility   &&   运输设施
+transport fuel   &&   运输用燃料
+transport layer   &&   传送层
+transport machinery   &&   运输机械
+transport network   &&   运输网络
+transport package   &&   运输包装
+transport plane   &&   运输机
+transport protocol   &&   传送协议，传输协议
+transport protocol data unit   &&   传输协议数据
+transport protocol standard   &&   传输协议标准
+transport service   &&   传送服务
+transport ship   &&   运输船
+transport unit   &&   传送装置
+transportability   &&   ①可移植性②可运输性
+transportable approach   &&   可移植方法
+transportable boiler   &&   轻便锅炉
+transportable control language   &&   可移植的控制语言
+transportable high level language   &&   可移植的高级语言
+transportable reactor   &&   可运输(反应)堆
+transportation   &&   传送
+transportation and storage condition   &&   运输和贮存条件
+transportation network   &&   传输网络
+transporter   &&   运输机，运输车
+transpose   &&   换位，转置
+transpose instruction   &&   转置指令
+transposed cable   &&   换位电缆
+transposed file   &&   转置文件
+transposition   &&   换位，转置
+transposition insulator   &&   交叉绝缘子
+transposition method of measurement   &&   交换测量法
+transposition tower   &&   交叉塔
+transradar   &&   变换雷达
+transreceiver   &&   发射接收机
+transrectification   &&   检波
+transshipment crane   &&   装卸机
+transtat   &&   自耦变压器
+transvar   &&   可调定向耦合器
+transverse flux machine   &&   横向磁通电机
+transversal anisotropy   &&   横向各向异性
+transversal control   &&   横向控制
+transversal excitation   &&   横向激发
+transversal filter   &&   横向滤波器
+transversal wave   &&   横波
+transverse   &&   ①导线②横切③遍历④通路⑤换能器，传感器，换流器
+transverse acceleration   &&   横向加速度
+transverse bending   &&   横向弯曲
+transverse bending strength   &&   横向弯曲强度
+transverse blast   &&   横吹
+transverse circular pitch   &&   端面齿距，端面周节
+transverse circular thickness   &&   端面弧齿厚
+transverse compressive modulus   &&   横向抗压模量
+transverse conduction   &&   横向导电性
+transverse contact ratio   &&   端面重合度
+transverse contraction   &&   横向收缩
+transverse crack   &&   横裂
+transverse crosstalk   &&   横向串话
+transverse current   &&   横向电流
+transverse cutting   &&   横向切削
+transverse deformation   &&   横向变形
+transverse diametral pitch   &&   端面径节
+transverse dielectric constant   &&   横向介电常数
+transverse differential protection   &&   横联差动保护装置
+transverse effect   &&   横向效应
+transverse elasticity   &&   横向弹性
+transverse electric mode   &&   横向电模式
+transverse electric wave   &&   横向电波
+transverse electromagnetic  wave   &&   横向电磁波[TEM wave]
+transverse electromagnetic field   &&   横向电磁场
+transverse electrooptic effect   &&   横向光电效
+transverse engine   &&   横置发动机
+transverse field   &&   横向(电)场
+transverse flux linear induction motor   &&   横向磁通直线感应电动机
+transverse focussing electric field   &&   横向聚焦电场
+transverse instabilty   &&   横向不稳定性
+transverse interference   &&   横向干扰
+transverse link   &&   横向推杆
+transverse magnetization   &&   横向磁化
+transverse mode   &&   横模
+transverse module   &&   端面模数
+transverse momentum   &&   横向动量
+transverse motion of test table   &&   工作台横向运动
+transverse of tree   &&   树的遍历
+transverse oscillation   &&   横向振荡
+transverse parameters   &&   端面参数
+transverse piezoelectric effect   &&   横向压电效应
+transverse plane   &&   端平面
+transverse pressure angle   &&   端面压力角
+transverse projection   &&   横射影
+transverse reinforcement   &&   横向钢筋
+transverse resolution   &&   横向分辨力
+transverse rupture strength   &&   横向断裂强度
+transverse scan   &&   横向扫描
+transverse section   &&   横剖面，横断面
+transverse sensitivity   &&   横向灵敏度
+transverse shear   &&   横切力
+transverse shielding   &&   横向屏蔽
+transverse space-width taper   &&   端面槽宽收缩
+transverse springs   &&   横置弹簧
+transverse stabilizer bar   &&   横向稳定杆
+transverse stiffness   &&   横向刚度
+transverse strain   &&   横向应变
+transverse strength   &&   横向强度
+transverse stress   &&   横向应力
+transverse submerged arc welding   &&   横列双丝并联埋弧焊
+transverse thickness taper   &&   端面齿厚收缩
+transverse tooth profile   &&   端面齿廓
+transverse tooth thickness   &&   横向齿厚
+transverse vibration   &&   横向振动
+transverse wave   &&   横波
+transverse weld   &&   横向焊缝
+transversely isotropic material   &&   横向各向异性材料
+trap   &&   ①中断②转移③捕捉，俘获，设陷，陷阱④收集,收集器
+trap address   &&   捕获地址，陷阱地址
+trap bit   &&   捕获位，陷阱位
+trap door   &&   陷阱门，天窗
+trap tag   &&   陷阱标志
+trap vector   &&   陷阱向量
+trapezoid   &&   梯形
+trapezoidal distortion   &&   梯形失真，梯形畸变
+trapezoidal generator   &&   梯形波发生器
+trapezoidal pulse   &&   梯形脉冲
+trapezoidal pulse generator   &&   梯形脉冲发生器
+trapezoidal voltage   &&   梯形电压
+trapezoidal wave   &&   梯形波
+trapezoidal wing   &&   梯形翼
+trapped electron centre   &&   俘获电子中心
+trapped hole centre   &&   俘获空穴中心
+trapped instruction   &&   设陷指令
+trapped magnetic field   &&   俘获磁场
+trapped program interrupt   &&   捕捉程序中断
+trapped-line pressure valve   &&   气压调节阀
+trapping centre   &&   俘获中心
+trapping cross-section   &&   俘获截面
+trapping machine   &&   标准打击机
+trapping mechanism   &&   设陷机构
+trapping theory   &&   俘获理论
+travel   &&   冲程，行程
+travel field speed   &&   行波场速度
+travel limit switch   &&   行程限位开关
+travel trailer   &&   旅行挂车
+traveling grate   &&   活动炉排
+traveller   &&   活动起重架
+travelling contact   &&   活动接触
+travelling crane   &&   桥式起重机，移动式起重机
+travelling rest   &&   跟刀架
+travelling wave   &&   行波
+travelling-wave klystron   &&   行波速调管
+travelling-wave magnetron   &&   行波磁控管
+travelling-wave maser   &&   行波量子放大器，行波微波激射器
+travelling-wave modulators   &&   行波形调变器
+travelling-wave multiple-beam klystron   &&   多束行波速调管，多注行波速调管
+travelling-wave phototube   &&   行波光电管
+travelling-wave tube   &&   行波管
+traversal   &&   穿程
+traverse   &&   ①导线②横切
+traverse angle   &&   导线折角
+traverse feed   &&   横向进刀
+traverse leg   &&   导线边
+traverse network   &&   导线网
+traverse point   &&   导线点
+traverse survey   &&   导线测量
+traversing of probe   &&   前后扫查
+tray   &&   垫，盘，盘子，蝶
+tray dumper quench conveyer   &&   料盘式淬火传送带
+tread   &&   ①胎面②胎面花纹③轮距④履带距
+tread arc width   &&   胎面弧宽
+tread contact length   &&   轮胎接地长度
+tread contact width   &&   轮胎接地宽度
+tread contour   &&   胎面轮廓
+tread depth   &&   花纹深度
+tread noise   &&   轮胎噪声
+tread pattern   &&   胎面花纹
+tread profile   &&   胎面外形
+tread radius   &&   胎面半径
+tread separation   &&   胎面剥落
+tread shoulder   &&   胎肩
+tread wear grade   &&   胎面磨损级
+treadle   &&   轨道接触器
+treated pole   &&   处理过的电线杆
+treater   &&   ①处理设备，处理装置②处理器，精制器
+treatment   &&   处理
+treatment effect   &&   处理效应
+treatment ladle   &&   处理浇包(铸造用)
+treatment tank   &&   处理罐
+treble   &&   三重，三倍
+treble bond   &&   三键
+treble link   &&   三键
+treble linkage   &&   三键
+treble loudspeaker   &&   高音扬声器
+treble riveted joint   &&   三行铆钉接合
+trebler   &&   三倍倍频器
+tree   &&   树，树形，树形网络，语法树
+tree algorithm   &&   树算法
+tree application   &&   树应用
+tree automata   &&   树状自动机
+tree binary form   &&   树的二元形
+tree circuit   &&   分支电路
+tree code   &&   树代码
+tree compaction algorithm   &&   树紧致算法
+tree convolution algorithm   &&   树旋转算法
+tree degree   &&   树的阶
+tree deletion   &&   树删除
+tree deletion program   &&   树删除程序
+tree depth   &&   树的深度
+tree domain   &&   树域
+tree form   &&   树形
+tree insertion   &&   树插入
+tree language   &&   树语言
+tree network   &&   树形网络
+tree node   &&   树节点
+tree of phrases   &&   短语树
+tree optimization   &&   树优化
+tree ordering   &&   树形排序
+tree pointer   &&   树指示字，树指针
+tree processing   &&   树处理
+tree schema   &&   树模式
+tree search   &&   树检索
+tree search and insertion program   &&   树检索与插入程序
+tree sorting   &&   树排序
+tree storage representation   &&   树存储表示(法)
+tree structure   &&   树形结构
+tree structure symbol table   &&   树结构符号表
+tree system   &&   ①树形系统②分支配电方式
+tree topology   &&   树形布局
+tree traversal   &&   树的遍历
+tree traversal program   &&   树遍历程序
+tree type transition   &&   树形变换
+tree view   &&   树状图
+tree-branch current   &&   分支电流
+tree-form data structure   &&   树形数据结构
+tree-like transition table   &&   树状转移表
+tree-structured network   &&   树结构网
+tree-walk collecting information   &&   攀树式信息收集
+treestat   &&   树状结构，树构状态
+trembler   &&   ①电铃②断续器
+trembler bell   &&   电铃
+trembler coil   &&   振动点火线圈
+tremendous   &&   惊人的，巨大的
+trench bomb   &&   手榴弹
+trench excavator   &&   挖沟机
+trencher   &&   挖沟机，挖沟车
+trend   &&   趋势
+trend analysis   &&   趋势分析
+trend method   &&   趋势法
+trend recorder   &&   趋势记录仪
+trepanning tool   &&   切端面槽刀具
+tri-axle   &&   三轴半挂车
+tri-axle pipe processing machine   &&   三轴式制管机
+tri-camera   &&   三倍照相机
+tri-colour thermometry   &&   三色测温法
+tri-component borehole magnetometer   &&   井中三分量磁测井仪
+tri-flux motor   &&   三向磁通电动机
+tri-pole   &&   三极
+tri-pot joint   &&   三脚滚轮式万向节
+tri-tet   &&   三极-四极管
+tri-tet oscillator   &&   三极-四极管振荡器
+triad   &&   三元组，三单元组
+triad axis   &&   三重轴
+trial   &&   试验
+trial and error   &&   试探法
+trial balance   &&   试算表
+trial casting   &&   试验(用)铸件
+trial function   &&   测试函数
+trial run   &&   试车
+trial test   &&   预试验
+trial transmission   &&   试输电
+trial weld   &&   试验焊缝
+trial welding   &&   试验焊接
+trial-and-error   &&   试错法，试凑法，试错过程
+trial-and-error bottom up   &&   自底向上试错法
+trial-and-error top-down   &&   自顶向下试错法
+triangle   &&   ①三角，三角形②三角板，三角铁
+triangle area   &&   三角形面积
+triangle file   &&   三角锉
+triangle inequality   &&   三角不等式
+triangle law of distance   &&   距离三角定律
+triangle table   &&   三角形表
+triangular   &&   三角形
+triangular array   &&   三角形数组
+triangular belt   &&   三角皮带
+triangular cam   &&   三角形凸轮
+triangular decomposition   &&   三角形分解
+triangular diagram   &&   三角形图解
+triangular distribution   &&   三角分布，三角形分布
+triangular file   &&   三角锉，三边锉
+triangular guide   &&   三角导轨，三角形导轨
+triangular impulse   &&   三角形脉冲
+triangular knife   &&   三角刮刀
+triangular matrix   &&   三角(矩)阵，三角形矩阵
+triangular network   &&   三角形网络
+triangular number   &&   三角形数
+triangular phase diagram   &&   三角形相图
+triangular profile   &&   三角形截面
+triangular pyramid   &&   三棱锥
+triangular rule   &&   三棱尺
+triangular scale   &&   三棱尺
+triangular scraper   &&   三角刮刀
+triangular square   &&   三角板
+triangular thread   &&   三角螺纹
+triangular wave   &&   三角波
+triangular waveform   &&   三角形波
+triangularization   &&   三角形化
+triangulation   &&   三角剖分，三角测量
+triangulation distance meters   &&   三角测量法距离感测器
+triangulation method   &&   三角形法
+triangulation point   &&   三角点，三角形点
+triatomic   &&   三原子
+triatomic molecule   &&   三原子分子
+triatomics   &&   三原子物
+triaxial   &&   三轴，三轴向
+triaxial cable   &&   三同轴电缆
+triaxial loading   &&   三轴负载
+triaxial stress   &&   三向应力，三轴应力
+triaxial tension   &&   三轴向张力，三向张力
+triaxial test   &&   三轴向试验
+triaxiality   &&   三轴性
+tribo-chemistry   &&   摩擦化学
+tribo-luminescence   &&   摩擦发光(物)
+triboelectricity   &&   摩擦电
+triboelectrification   &&   摩擦起电
+tribology   &&   摩擦学，润滑与磨损学
+tribology design   &&   摩擦学设计[TD]
+tribometer   &&   摩擦计
+tribophysics   &&   摩擦物理学
+tricar   &&   三轮摩托车
+trichroism   &&   三色现象
+triclinic   &&   三斜
+triclinic lattice   &&   三斜晶格
+triclinic system   &&   三斜晶系
+triconnected   &&   三连通
+tricycle   &&   三轮车
+tridiagonal matrix   &&   三对角线矩阵
+tridimensional   &&   三维，三维的
+trigatron   &&   触发管，引燃管
+trigger   &&   触发，触发器
+trigger action   &&   触发作用
+trigger characteristic   &&   触发特性
+trigger circuit   &&   触发电路
+trigger delay   &&   触发延迟
+trigger gap   &&   触发间隙
+trigger gate   &&   触发门
+trigger generator   &&   触发脉冲发生器
+trigger lockout   &&   触发中断，触发闭锁
+trigger mechanism   &&   触发机构
+trigger pickoff   &&   触发(信号)拾取
+trigger pulse   &&   触发脉冲
+trigger rod   &&   棘爪操纵杆
+trigger stop   &&   始用挡料销
+trigger switch   &&   触发开关
+trigger tube   &&   触发管
+trigger-action relay   &&   触发继电器
+triggered flip-flop   &&   触发式双稳态多谐振荡器
+triggered sweep   &&   触发扫描
+triggered vacuum gap   &&   触发式真空放电器
+triggering   &&   触发
+triggering signal   &&   触发信号
+triggering voltage   &&   触发电压
+trigonal bipyramid   &&   三角双锥
+trigonal crystal   &&   三角系晶体
+trigonal crystal systern   &&   三角晶系
+trigonal lattice   &&   三角系晶格
+trigonometric function   &&   三角函数
+trigonometric interpolation   &&   三角插值
+trigonometric series   &&   三角级数
+trigonometric structure   &&   三次掩蔽结构
+trigonometric sum   &&   三角和
+trigonometric survey   &&   三角测量
+trigonometry   &&   三角，三角学
+trigram   &&   三字母组
+trihedral angle   &&   三面角
+trihedron   &&   三面体
+trilinear   &&   三线
+trilinear coordinates   &&   三线坐标
+trim   &&   ①修剪，剪外边，切边②阀内件
+trim panel central pillar   &&   中柱内饰板
+trim panel front door   &&   前车门内饰板
+trim panel front pillar   &&   前柱内饰板
+trim panel rear corner window   &&   后三角窗内饰板
+trim panel rear door   &&   后车门内饰板
+trimmed sheet   &&   精整薄板
+trimmer   &&   切书机
+trimming   &&   切边，去毛边
+trimming die   &&   切边模
+trimming punch   &&   切边冲子
+trimolecular   &&   三分子
+trimorphism   &&   三晶现象
+trinitro-toluol   &&   三硝基甲苯
+trinitron   &&   单枪三束彩色显像管
+trinitrotoluene   &&   三硝基甲苯，黄色炸药[TNT]
+trinol   &&   黄色炸药
+trinomial   &&   三项，三项式
+trinomial distribution   &&   三项分布
+triode   &&   三极管
+triode ac switch   &&   三极管交流开关
+triode clipping circuit   &&   三极管削波电路
+triode-heptode   &&   三极-七极管
+triode-pentode   &&   三极-五极管
+triode-tetrode   &&   三极-四极管
+trip   &&   跳闸
+trip computer   &&   行程计算机
+trip odometer   &&   速度纪录仪
+trip push button   &&   跳闸按钮
+trip recloser   &&   跳闸自动重合装置
+trip recorder   &&   行程记录器
+trip switch   &&   跳闸开关，控制开关
+trip-free relay   &&   自由脱扣继电器，自由释放继电器
+trip-free release   &&   自由脱扣，自由释放
+trip-off control signal   &&   短路控制信号
+triphenyl   &&   三苯(基)
+triple   &&   三，三次，三重，三倍
+triple access   &&   三重访问
+triple annealing   &&   三重退火
+triple belt   &&   三层皮带
+triple bond   &&   三键
+triple coil spring   &&   三次线圈弹簧
+triple control cable system   &&   三次控制电缆系统
+triple cotton-covered   &&   三层纱包的
+triple effect   &&   三次作用，三效(式)
+triple form   &&   三元组形式
+triple helix   &&   三股螺旋
+triple integral   &&   三重积分
+triple length register   &&   三倍字长寄存器
+triple length working   &&   三倍长工作
+triple link   &&   三键
+triple linkage   &&   三键
+triple modular redundancy   &&   三重模块冗余
+triple motor   &&   横联三电枢电动机
+triple of numbers   &&   三重数组
+triple point   &&   三相点，三重点
+triple precision   &&   三倍精度，三倍字长
+triple product   &&   三重积
+triple reflection   &&   三次反射
+triple root   &&   三重根
+triple scalar product   &&   三重内积
+triple seal   &&   三重密封
+triple table   &&   三元组表
+triple tandem quadrupole instrument   &&   三级串联四极质谱计
+triple turbine   &&   三级涡轮机
+triple valve   &&   三通阀
+triple-address   &&   三地址
+triple-component screen   &&   三色荧光屏
+triple-concentric cable   &&   三心同轴电缆
+triple-conversion receiver   &&   三重变频接收机
+triple-core wire   &&   三心电线
+triple-effect evaporator   &&   三效蒸发器
+triple-error correcting code   &&   三重错误校正码
+triple-expansion engine   &&   三级膨胀复式蒸汽机
+triple-fired reheating furnace   &&   三段式连续加热炉
+triple-frequency coreless furnace   &&   三倍工频无心感应炉
+triple-layer   &&   三层
+triple-layer winding   &&   三层绕组
+triple-point   &&   三相点
+triple-pole   &&   三刀(闸刀开关的)，三极
+triple-pole switch   &&   三极开关
+triple-reduction axle   &&   三级减速桥
+triple-shed insulator   &&   三裙绝缘子
+triple-squirrel-cage rotor   &&   三鼠笼转子
+triplen   &&   三次谐波序列
+tripler frequency   &&   三倍电频器
+tripler voltage   &&   三倍倍压器
+triplet   &&   三电台组，三重布置，三重检测
+triplet excited state   &&   三重激发态
+triplet exciting   &&   三重激子
+triplet state   &&   三重线态
+triplex   &&   三重，三倍,三面刃圆盘端铣刀
+triplex cable   &&   三线电缆
+triplex melting   &&   三联法熔炼
+triplex process   &&   三联法(炼钢)
+triplex silk covered wire   &&   三层丝包线
+triplex winding   &&   三重绕组
+triply periodic function   &&   三周期函数
+tripod   &&   三轴架 三向轴
+tripolar coordinates   &&   三极坐标
+tripolymer   &&   三元聚合物
+tripper   &&   短路装置
+tripping car   &&   自卸汽车
+tripping device for plankton net   &&   浮游生物网闭锁器
+tripping mechanism   &&   短路机构
+tripping off   &&   断路，跳开
+tripping operation   &&   跳闸
+tripping relay   &&   跳闸继电器
+trirectangular   &&   三直角
+trirectangular quadrilateral   &&   三直角四边形
+trisection   &&   三等分
+trisectrix   &&   三等分角线
+trisistor   &&   三极半导体开关管
+trisonic   &&   三声速的
+tristimulus filter   &&   三色激励滤色片
+trit   &&   三进制数
+triton   &&   三硝基甲苯(商品名)
+trivacancy   &&   三空位
+trochoidal rotor   &&   余摆线转子
+trochotron   &&   电子转换器，磁旋管
+trolley   &&   电车，台车，触轮(电车用)
+trolley bus   &&   无轨电车
+trolley car   &&   无轨电车，(触轮式)电车，吊运车
+trolley harp   &&   触轮架
+trolley head   &&   触轮滑触靴
+trolley ladle   &&   单轨吊包
+trolley locomotive   &&   触轮式电气机车
+trolley-frog   &&   触轮线交叉
+trolley-wire hanger   &&   接触线吊架
+trolleybus   &&   电车
+troostite   &&   吐粒散铁
+troporelay station   &&   对流层中继站
+troposcatter communication   &&   对流层散射通信
+tropospheric propagation   &&   对流层传播
+tropospheric refraction correction   &&   对流层折射校正
+tropospherical  refraction   &&   对流层折射
+trotyl   &&   三硝基甲苯
+trouble   &&   故障
+trouble shooting   &&   故障寻找
+trouble shooting functional module   &&   故障查找功能模块
+trouble signal   &&   故障信号
+trouble-location problem   &&   故障定位问题
+trouble-shooting   &&   故障搜寻
+trough method   &&   幅度均值法
+truck   &&   货车，载货汽车
+truck cab   &&   货车驾驶室
+truck chassis   &&   货车底盘
+truck crane   &&   汽车式起重机
+truck-tpe switchgear   &&   车架式开关装置
+truck-tractor   &&   牵引车
+truck-trailer   &&   挂车
+true address   &&   真地址
+true carry   &&   真进位
+true code   &&   实代码
+true complement   &&   补码
+true form   &&   原码形式
+true input symbol   &&   实输入符号
+true joint angle   &&   万向节两轴交角
+true output   &&   实输出
+true random search   &&   真随机搜索
+true symbol   &&   真符号
+true time   &&   实时
+true time operation   &&   实时操作，实时运算
+true time system   &&   实时系统
+true value   &&   真值
+true value of a quantity   &&   量的真值
+true-motion radar presentation   &&   真运动雷达显示
+truncate   &&   截断，截尾，舍位
+truncated Venturi tube   &&   截尾文丘里管
+truncated packet   &&   截尾包
+truncation   &&   截断
+truncation error   &&   截断误差，不舍人误差
+trundle   &&   滚动
+trunk   &&   信息通路，中继线，总线，行李舱
+trunk cable   &&   干线电缆
+trunk call   &&   长途电话
+trunk call service   &&   长途台
+trunk dialing   &&   长途电话拨号
+trunk distribution frame   &&   中继线配线架
+trunk exchange   &&   长途电话局
+trunk feeder   &&   主馈电路
+trunk frame terminal assembly   &&   中继线架接头排
+trunk group   &&   中继线群
+trunk junction circuit   &&   长途中继电路
+trunk position   &&   长途台
+trunk-offering final selector   &&   长途插入终接器
+trunk-offering selector   &&   长途接人选择器
+trunk-record circuit   &&   长途记录电路
+trunk-record position   &&   长途记录台
+trunking   &&   中继
+trunking diagram   &&   中继系统图
+trunnion   &&   耳轴
+trunnion axle   &&   枢轴
+trusted program   &&   受托程序
+truth table   &&   真值表
+truth table computer   &&   真值表计算机
+try machine   &&   试模机
+trysquare   &&   曲尺，检验角尺，验方直尺，矩尺
+tube   &&   管，电子管，管子，圆管
+tube bending machines   &&   弯管机
+tube bubble   &&   管状水准泡
+tube bundle   &&   管束
+tube column   &&   管式蒸馏炉
+tube conveyer   &&   管式气动传送器
+tube electrometer amplifier   &&   管式静电计放大器
+tube end piece   &&   管端块
+tube end tip   &&   管端头
+tube extruder   &&   管材挤压机
+tube furnace   &&   管式炉
+tube fuse   &&   管形保险丝，管形熔丝管
+tube generator   &&   电子管振荡器，振荡管
+tube joint   &&   管接(头)
+tube making machines   &&   管筒制造机
+tube mill   &&   管式磨，管磨机(选矿用)，管材轧机，轧管机
+tube mould   &&   吹管模(吹制橡胶内胎用)
+tube of electric force   &&   电力线管
+tube of flux   &&   通量管
+tube of magnetic flux   &&   磁通管
+tube plug   &&   管塞
+tube railroad   &&   地下铁道
+tube railway   &&   地下铁道
+tube rolling   &&   管材轧制
+tube rolling mill   &&   钢管轧机
+tube socket   &&   电子管座
+tube still   &&   管式蒸馏炉
+tube stopper   &&   管塞
+tube union   &&   管接(头)
+tube voltage drop   &&   管压降
+tube voltmeter   &&   电子管电压计，电子管电压表
+tube well   &&   管井
+tube-rolling mill   &&   管材轧机
+tube-type motor   &&   管形壳电动机
+tubeless tire   &&   无内胎轮胎
+tubes and pipes   &&   管材
+tubing   &&   管子形材料
+tubular   &&   管形
+tubular boiler   &&   水管锅炉，管式锅炉
+tubular bulb   &&   行李箱灯泡
+tubular carburizing furnace   &&   管式渗碳炉
+tubular coil   &&   ①盘管，蛇管②管形线圈
+tubular condenser   &&   管式冷凝器
+tubular cooler   &&   管式冷却器
+tubular cracking furnace   &&   管式裂解炉
+tubular electric furnace   &&   管式电炉
+tubular feed heater   &&   管式给水加热器
+tubular furnace   &&   管式炉
+tubular heat exchanger   &&   管式换热器
+tubular heater   &&   管式加热器
+tubular lamp   &&   管形灯泡
+tubular level   &&   管状水准器
+tubular magnet   &&   管形磁铁
+tubular materials   &&   管材
+tubular motor   &&   管状电动机
+tubular oven   &&   管式加热器，管式炉
+tubular powder   &&   管状火药
+tubular radiator   &&   管式散热器，管式辐射器
+tubular retort furnace   &&   管式马弗炉
+tubular rheostat   &&   管状电阻
+tubular spanner   &&   管扳手
+tubular switch   &&   管形开关
+tubular thermocouple   &&   管式热电偶
+tubular trimmer   &&   管状微调电容器
+tubular turbine   &&   贯流式水轮机
+tubular waveguide   &&   管状波导
+tubular well   &&   管井
+tubular-bowl centrifuge   &&   管式离心机
+tubular-type tank   &&   散热管式冷却箱
+tufftride process   &&   软氮化处理，扩散渗氮法
+tumble enamelling   &&   转鼓涂漆
+tumble polishing   &&   转鼓抛光
+tumblehome   &&   侧璧内倾
+tumbler   &&   滚筒，转鼓
+tumbler gear   &&   摆动换向齿轮
+tumbler switch   &&   倒扳开关
+tumbler test   &&   转鼓试验
+tumbler-type washing machine   &&   转鼓式洗涤机
+tumbling   &&   ①滚筒清理，转鼓抛光②滚翻，滚光
+tumbling barrel   &&   研磨滚筒，转鼓
+tumbling barrel process   &&   转涂法
+tumbling impact test   &&   转鼓冲击法
+tumbling mill   &&   滚筒式磨矿机，滚磨机
+tundish casting   &&   中间罐浇注
+tune   &&   ①调整②按调整好参数的发动机运行状况
+tune in   &&   调谐
+tuned absorber   &&   调谐吸声器
+tuned antenna   &&   调谐天线
+tuned cell   &&   调谐组件
+tuned circuit   &&   调谐电路
+tuned emitter oscillator   &&   发射极调谐振荡器
+tuned filter   &&   调谐滤波器
+tuned high frequency   &&   已调谐的高频
+tuned induction engine   &&   谐波进气发动机
+tuned intake pressure charging   &&   谐波进气
+tuned intake tube charging   &&   谐波进气发动机
+tuned relay   &&   谐振继电器
+tuned transformer   &&   调谐变压器
+tuned-reed relay   &&   调谐舌簧继电器
+tuner   &&   调谐器
+tungalloy   &&   钨系硬质合金
+tungstate bronze structure   &&   钨青铜结构
+tungsten   &&   钨W(74)
+tungsten alloy   &&   钨合金
+tungsten arc   &&   钨电弧
+tungsten arc cut   &&   钨电弧切割
+tungsten bronze   &&   钨青铜(Cu 90％～95％，Sn 0～3％，W2％～10％)
+tungsten cathode   &&   钨丝阴极
+tungsten chrome steel   &&   钨铬钢
+tungsten filament   &&   钨丝
+tungsten halogen lamp   &&   卤钨灯，石英碘灯
+tungsten high speed steel   &&   钨高速的
+tungsten inert gas arc welding   &&   钨极惰性气体保护电弧焊
+tungsten inert gas process   &&   气体保护钨极电弧焊
+tungsten inert-gas welding machine   &&   钨极惰性气体保护弧焊机
+tungsten iron   &&   钨铁(W75％～85％)
+tungsten serial high speed tool steel   &&   钨系高速工具钢
+tungsten steel   &&   钨钢
+tungsten strip lamp   &&   钨带灯
+tungsten wire   &&   钨丝
+tungsten-chromium tool steel   &&   钨铬工具钢
+tungsten-chromium-vanadium tool steel   &&   钨铬钒工具钢
+tungsten-filament lamp   &&   钨丝灯
+tungsten-graphite thermocouple   &&   钨-石墨热电偶
+tungsten-iodide lamp film projector   &&   碘钨灯放映机
+tungsten-iridium thermocouple   &&   钨-铱热电偶
+tungsten-molybdenum thermocouple   &&   钨钼热电偶
+tungsten-rhenium alloy   &&   钨铼合金
+tuning   &&   调音，调谐
+tuning capacitor   &&   调谐电容器
+tuning characteristic   &&   调谐特性(曲线)
+tuning circuit   &&   调谐电路
+tuning coil   &&   调谐线圈
+tuning condenser   &&   调谐电容器
+tuning core   &&   调谐铁心，调谐磁心
+tuning curve   &&   调谐曲线
+tuning dial   &&   调谐用标度，调谐度盘
+tuning element   &&   调谐组件
+tuning eye   &&   调谐指示器，电眼
+tuning fork   &&   调音音叉
+tuning hysteresis   &&   调谐滞后现象
+tuning indicator   &&   调谐指示器
+tuning knob   &&   调谐旋钮
+tuning lamp   &&   调谐指示灯
+tuning note   &&   调谐音
+tuning oscillator   &&   调谐振荡器
+tuning plunger   &&   调谐活塞
+tuning probe   &&   调谐探头
+tuning range   &&   调谐范围
+tuning resonating cavity   &&   调谐共振空腔
+tuning screw   &&   调谐螺钉
+tuning sensitivity   &&   调谐灵敏度
+tuning stub   &&   调谐短(截)线
+tuning switch   &&   调谐开关
+tuning wand   &&   调谐棒
+tunnel   &&   ①隧道，隧洞②烟囱，风洞
+tunnel diode   &&   隧道二极管
+tunnel effect   &&   隧道效应
+tunnel gate   &&   隧道式浇口
+tunnel junction   &&   隧道结
+tunnel triode   &&   隧道三极管
+tunnelling   &&   隧道效应，隧道现象
+tunnelling current   &&   隧道电流
+tunnelling machine   &&   巷道掘进机
+tunoscope   &&   调谐指示器，电眼
+tuple   &&   元组
+turbidimeter   &&   浊度计
+turbidity   &&   浑浊度，浊度
+turbidity sensor   &&   浊度传感器
+turbidity transducer   &&   浊度传感器
+turbine   &&   涡轮机，透平，叶轮机，汽轮机
+turbine alternator assembly   &&   涡轮交流发电机组
+turbine ball bearing cover   &&   涡轮滚珠轴承盖，透平滚珠轴承盖
+turbine bearing   &&   涡轮轴承
+turbine blade   &&   涡轮叶片
+turbine blade cooling   &&   涡轮叶片冷却
+turbine casing   &&   涡轮外壳
+turbine control servomotor   &&   涡轮机控制伺服电动机
+turbine cooling   &&   涡轮机冷却
+turbine efficiency   &&   涡轮效率
+turbine exhaust pipe   &&   涡轮排气管
+turbine flow sensor   &&   涡轮流量传感器
+turbine flow transducer   &&   涡轮流量传感器
+turbine flowmeter   &&   涡轮流量计
+turbine following control   &&   涡轮机随动控制
+turbine generator   &&   涡轮发电机
+turbine generator unit   &&   涡轮发电机组
+turbine installation   &&   涡轮机
+turbine locomotive   &&   汽轮机车
+turbine motor   &&   涡轮马达
+turbine nozzle   &&   涡轮喷嘴，涡轮导向装置
+turbine nozzle control system   &&   涡轮喷嘴控制系统
+turbine nozzle exit velocity   &&   涡轮导向器气体流出速度
+turbine nozzle vane   &&   涡轮导向器叶片
+turbine power plant   &&   涡轮动力装置
+turbine pump   &&   涡轮泵，水轮泵
+turbine regulation   &&   涡轮调节
+turbine type mixer   &&   涡轮式混合器
+turbine vane   &&   涡轮叶片
+turbine wheel   &&   涡轮叶轮
+turbine-boiler parallel control   &&   涡轮机锅炉并行控制
+turbine-driven alternator   &&   涡轮交流发电机
+turbine-driven compressor   &&   涡轮压缩机
+turbine-driven generator   &&   涡轮发电机
+turbine-propeller combination   &&   涡轮螺桨组合，涡轮螺桨发动机
+turbine-pump station   &&   水轮泵站
+turbine-room crane   &&   水电站机房安装用起重机
+turbo molecular pump   &&   涡轮分子泵
+turbo propeller engine   &&   涡轮螺旋桨发动机
+turbo wheel   &&   涡轮叶轮
+turbo-alternator plant   &&   汽轮交流发电厂
+turbo-alternator set   &&   汽轮交流发电机组
+turbo-blower   &&   涡轮鼓风机
+turbo-compound engine   &&   涡轮-复合发动机
+turbo-compressor   &&   涡轮压缩机
+turbo-drive   &&   涡轮机传动
+turbo-dynamo   &&   涡轮发电机
+turbo-electric drive   &&   涡轮电气传动
+turbo-electric locomotive   &&   涡轮电气机车
+turbo-electric propulsion   &&   涡轮发电动力装置
+turbo-exhauster   &&   涡轮排气机
+turbo-expander   &&   涡轮膨胀器
+turbo-mill   &&   涡轮研磨机
+turbo-mixer   &&   涡轮式混合器
+turbo-molecular pump   &&   涡轮分子泵
+turbo-regulator   &&   涡轮调节器
+turbo-unit   &&   涡轮机组
+turbocharged engine   &&   涡轮增压发动机
+turbocharger   &&   涡轮增压器
+turbochargers   &&   涡轮增压器
+turbofan   &&   涡轮风扇发动机
+turbofan-engined aircraft   &&   涡轮风扇式飞机，涡轮喷气式飞机
+turbogenerator   &&   涡轮发电机
+turbojet   &&   涡轮喷气发动机
+turbojet cycle   &&   涡轮喷气发动机循环
+turbojet power   &&   涡轮喷气发动机装置，涡轮喷气发动机推力
+turbojet test vehicle   &&   涡轮喷气发动机试验飞行器
+turbomachinery compressor   &&   涡轮机压气机
+turboprop   &&   涡轮螺旋桨发动机，涡轮螺桨飞机
+turboprop aircraft   &&   涡轮螺旋桨飞机
+turboprop boat   &&   涡轮螺桨发动机船
+turbopump   &&   涡轮泵
+turboram jet   &&   涡轮冲压式喷气发动机
+turboset   &&   涡轮机组
+turboshaft   &&   涡轮机轴
+turbosupercharger   &&   涡轮增压器
+turbulence   &&   湍流，紊流，扰动，乱流
+turbulent flow   &&   湍流
+turing   &&   图灵机
+turing computability   &&   图灵机可计算性
+turing computable function   &&   图灵机可计算函数
+turing machine   &&   图灵机
+turing machine construction   &&   图灵机构造
+turing machine formalization   &&   图灵机形式化
+turing type computer   &&   图灵式计算机
+turn   &&   ①转动，回转，转向②(线)匝③绕线
+turn insulation detector   &&   匝间绝缘测试仪
+turn key system   &&   监视系统
+turn off   &&   关断
+turn positioner   &&   转向定位销
+turn ratio   &&   匝比(变压器的)
+turn round   &&   扭，扭转，回转
+turn separator   &&   匝间绝缘
+turn signal indicator   &&   转向指示(发光二极管)[LED]
+turn signal lamp   &&   转向指示灯，转向信号灯
+turn signal lamp switch unit   &&   转向灯开关组件
+turn switch   &&   旋转开关
+turn table   &&   唱片转盘，唱盘
+turn-around document   &&   周转文件，周转文档资料
+turn-around time   &&   周转时间，转向周期，解题周期
+turn-key   &&   集中控制，总控键
+turn-key system   &&   成套系统
+turn-off delay time   &&   关断延迟时间
+turn-off overshoot   &&   断开过冲
+turn-off time   &&   关断时间
+turn-on   &&   接通，开启
+turn-on overshoot   &&   接通过冲
+turn-on time   &&   接通时间
+turn-out   &&   切断
+turn-screw   &&   旋凿，螺丝起子，传动丝杠
+turn-to-turn   &&   匝间
+turn-to-turn capacitance   &&   匝间电容
+turn-to-turn fault   &&   匝间故障
+turn-to-turn insulation   &&   匝间绝缘
+turn-to-turn short circuit   &&   匝间短路
+turn-to-turn shunt capacity   &&   匝间旁路电容
+turn-to-turn voltage   &&   匝间电压
+turnable filter   &&   可调式滤光镜
+turnable stator   &&   可转动定子
+turnery   &&   车床工艺，车工工艺
+turning   &&   车削，车削加工
+turning center   &&   转向中心
+turning circle   &&   ①转向圆②最小转向圆
+turning circle diameter   &&   转弯直径
+turning crane   &&   旋臂起重机
+turning cutter   &&   车刀
+turning gear   &&   旋转装置，回转装置
+turning lath   &&   车床
+turning machine   &&   车床
+turning operation   &&   车床操作
+turning out   &&   断路，跳开
+turning pair   &&   转动副
+turning power   &&   回转力
+turning radius   &&   转弯半径
+turning tool   &&   车刀
+turning track   &&   转向轨迹距
+turning vane   &&   导向叶片
+turning-and-boring lath   &&   旋转车床，立式车床
+turns correction compensation   &&   匝数更正(补偿)值
+turntable   &&   ①鞍式牵引座②旋转云梯
+turntable moulding machine   &&   转台造型机
+turntable press   &&   转台压砖机
+turret   &&   ①转台，转动架，回转头，六角转头，转塔刀架②六角刀架，六角车床
+turret control crank   &&   转塔控制曲柄
+turret index   &&   六角刀架转位
+turret lath   &&   六角车床，转塔车床
+turret lathe   &&   转塔车床
+turret miller   &&   带六角头回转铣床，转塔式铣床
+turret press   &&   转塔式压力机
+turret punch press   &&   转塔式六角孔冲床，六角零件压力机
+turret tunner   &&   回转式调谐器(turret 转塔)
+tutorials   &&   教程 导览
+tuyere   &&   风口
+tuyere coyer   &&   风口盖
+tuyere gate   &&   风口，风眼
+tuyere hole   &&   风口
+tuyere notch   &&   风口
+tuyere nozzle   &&   风口
+tuyere ratio   &&   风口比
+tuyere valve   &&   风口阀
+tuyere zone   &&   风口区
+tweeter   &&   高频喇叭，高频扬声器
+twelve punch   &&   十二行穿孔
+twelve-ordinate scheme   &&   十二纵表格式
+twin   &&   ①双晶，孪晶②成双，成对③双发动机飞机
+twin band   &&   孪晶带
+twin boundary   &&   孪晶间界
+twin cam   &&   双凸轮轴
+twin camshaft   &&   双凸轮轴
+twin carburetor   &&   双化油器
+twin cathode   &&   双阴极(复合管)
+twin choke   &&   双重喉管式化油器
+twin contact   &&   双触点
+twin core   &&   双心
+twin crystal   &&   孪晶
+twin deformation   &&   孪晶变形，双晶变形
+twin diode   &&   双二极管
+twin elbow   &&   双肘管
+twin electrode   &&   双心焊条
+twin feeding   &&   双线馈电
+twin flue   &&   双管道
+twin gliding plane   &&   孪晶滑移面
+twin insulator   &&   双联绝缘子串
+twin insulator strings   &&   双联绝缘子串
+twin leading shoe brake   &&   双领蹄鼓式制动器
+twin overhead camshaft   &&   双顶置凸轮轴
+twin pipe line   &&   双管线
+twin plane   &&   孪晶面
+twin polishing   &&   双面抛光
+twin power station   &&   双岸式水电站
+twin pump   &&   双缸泵
+twin rolling mill   &&   二辊轧机
+twin screw   &&   双螺杆，双驱动桥
+twin screw extruder   &&   双螺杆挤出机
+twin shaft paddle-type mixer   &&   双轴叶片式混砂机
+twin shear   &&   双剪
+twin shear cap model   &&   双剪帽子模型
+twin shear slip field theory   &&   双剪滑移线场理论
+twin shear strength theory   &&   双剪强度理论
+twin shear theory   &&   双剪理论
+twin shear yield criterion   &&   双剪屈服准则
+twin simplex pump   &&   双单动泵
+twin spot welding   &&   双极性点焊，双点焊
+twin tandem   &&   双串联式
+twin tetrode   &&   双四极管
+twin travelling crane   &&   双轮移动起重机
+twin triode   &&   双三极管
+twin turbofan aircraft   &&   双涡轮风扇式飞机
+twin type cable   &&   对绞电缆
+twin wave   &&   孪生波
+twin wheel twin nozzle type turbine   &&   双轮双喷嘴式水轮机
+twin-chambered   &&   双室
+twin-chambered furnace   &&   双室炉
+twin-circuit tuner   &&   双回路调谐器
+twin-concentric cable   &&   双心同轴电缆
+twin-core cable   &&   双心电缆
+twin-core current transformer   &&   双心电流互感器
+twin-detector scanner   &&   双探头扫描机
+twin-drum sorting   &&   双磁鼓分类法
+twin-engined plane   &&   双发动机飞机
+twin-flight screw   &&   双螺纹螺杆
+twin-motor   &&   双电动机
+twin-motor drive   &&   双电动机传动
+twin-roil drier   &&   双辊干燥机
+twin-roll   &&   双辊
+twin-roll drier   &&   双辊干燥机
+twin-rotor condenser   &&   双动片电容器
+twin-screw plodder   &&   双螺旋挤压机
+twin-shaft   &&   双轴
+twin-shell dry blender   &&   双壁干式搅拌机
+twin-spiral water turbine   &&   双流螺旋式水轮机
+twin-sturt screw   &&   双螺纹螺杆
+twin-tube   &&   双联管，孪生管
+twin-turbine   &&   双流型汽轮机
+twin-worm plodder   &&   双螺旋挤压机
+twinkle   &&   闪烁，闪光
+twinned acicular martensite   &&   孪晶针状马氏体
+twinned crystal   &&   孪晶晶体
+twinned martensite   &&   孪晶马氏体
+twinned plate martensite   &&   孪晶化片状马氏体
+twinning   &&   孪晶作用
+twinning axis   &&   孪晶轴
+twinning dislocation   &&   孪生位错
+twist   &&   扭，扭绞，扭转，扭曲，搓，纹合
+twist amplifier   &&   扭转放大器
+twist boundary   &&   扭曲边界，扭曲型间界
+twist grip   &&   扭转把手
+twist lock   &&   锁扣
+twist magnetostriction   &&   扭转磁致伸缩
+twist trough   &&   扭转导槽
+twisted bevel gear   &&   螺旋伞齿轮
+twisted line   &&   扭绞线
+twisted molecular layer   &&   扭曲分子层
+twisted pair   &&   双纹线，双扭线
+twisted pair transmission line   &&   双扭传输线，扭绞双线传输线，扭绞双线输电线
+twisted wave guide   &&   扭曲波导管
+twisted-coil comparator   &&   扭簧比较仪
+twisted-pair network   &&   双扭线网络
+twister   &&   扭绞器
+twisting   &&   绞合，扭转
+twisting couple   &&   扭力耦
+twisting force   &&   扭力
+twisting moment   &&   扭矩
+twisting resistance   &&   扭转抗力
+twisting strain   &&   扭应变，扭转应变
+twisting strength   &&   扭转强度
+twisting stress   &&   扭应力
+twisting test   &&   扭转试验
+twistor   &&   磁扭线
+two axes oriented array   &&   双轴定向方阵
+two axes sun sensor   &&   双(两)轴阳光传感器
+two axle rigid   &&   两轴货车
+two blade end mill   &&   双刃立铣刀
+two cell discrete-time Markovian motion   &&   双室离散时间马尔可夫运动
+two chamber vacuum furnace   &&   双室真空炉
+two chip microprocessor   &&   二片式微处理机
+two component adhesive   &&   双组分黏合剂
+two core   &&   双心
+two counter machine   &&   二计数器计算机
+two cycle   &&   二冲程,双冲程
+two dimension detector arrays   &&   面型检光组件
+two dimensional Turing machine   &&   二维图灵机
+two dimensional analysis   &&   二维分析
+two dimensional array   &&   二维数组
+two dimensional array grammar   &&   二维阵列文法
+two dimensional body   &&   二维物体
+two dimensional boundary layer   &&   二维边界层
+two dimensional display   &&   二维显示
+two dimensional graph model   &&   二维图模型
+two dimensional grating   &&   二维光栅
+two dimensional linear processing   &&   二维线性处理
+two dimensional network   &&   二维网
+two dimensional selection system   &&   二维选择系统
+two dimensional space group   &&   二维空间群
+two dimensional table   &&   二维表
+two dimensional transposition   &&   二维转置
+two element field   &&   二元域
+two factor theory   &&   双因素理论
+two fluid model   &&   二流体模型
+two level molding die   &&   双层模具
+two level system   &&   双能级系统
+two miler mill   &&   双辊磨
+two particlet unneling   &&   双粒子隧道
+two pass assembler   &&   二遍扫描汇编程序
+two pass assembler process   &&   二遍汇编过程，两遍汇编进程
+two pass microassembler   &&   二遍扫描宏汇编程序
+two pen recorder   &&   双笔记录仪
+two phase emf-titration technique   &&   双相电动势滴定法
+two plate   &&   两极式(模具)
+two plate molding die   &&   二板式模具
+two port network   &&   双口网络，双端口网络，四端网络
+two pushdown tape machine   &&   双下推带机器
+two step ejection   &&   二工位顶出
+two step read   &&   两步读出
+two stroke   &&   二冲程,双冲程
+two tailed test   &&   双尾检验
+two tape Turing machine   &&   双带图灵机
+two way alternate communication   &&   两向交替通信
+two way alternate interaction   &&   两相交替交互作用
+two way array   &&   二向数组
+two way coupling   &&   双向耦合
+two way finite automaton   &&   二向有限自动机，双向有限自动机
+two way infinite tape   &&   双相无穷带
+two way input head   &&   双向输入读头
+two way interleaved access   &&   二路交叉存取
+two way linkage   &&   双向链接
+two way pushdown automaton   &&   二向下推自动机，双向下推自动机
+two way simultaneous communication   &&   两向同时通信
+two way simultaneous interaction   &&   两向同时交互作用
+two way simultaneous operation   &&   两向同时工作
+two's complement   &&   二进制补码
+two-Iip ladle   &&   双嘴浇包
+two-address   &&   二地址
+two-address code   &&   二地址码
+two-address computer   &&   二地址计算机
+two-address instruction   &&   二地址指令
+two-address machine   &&   二地址机器
+two-arm   &&   双臂
+two-arm kneader   &&   双臂捏和机
+two-armature generator   &&   双电枢发电机
+two-bin system   &&   二库法
+two-bladed propeller wind machine   &&   双叶片螺旋桨风力发电机
+two-boiling system   &&   双沸系统
+two-cell heater   &&   双室炉
+two-channel   &&   双道
+two-channel recorder   &&   双道记录器
+two-circuit   &&   双路
+two-circuit winding   &&   双路绕组
+two-coil relay   &&   双线圈继电器
+two-colour radiation thermometer   &&   比色温度计
+two-colour temperature   &&   比色温度
+two-colour thermometry   &&   比色测温法
+two-column   &&   双柱
+two-column core   &&   双柱型铁心
+two-component   &&   双组分，二分量
+two-component alloy   &&   二元合金
+two-component coating   &&   双组分涂料
+two-component copolymerization reaction   &&   双组分共聚反应
+two-component eutectic   &&   二元共晶，二元低共熔混合物
+two-component neutrino theory   &&   二分量中微子理论
+two-component spraying   &&   双组分喷涂
+two-component system   &&   双组分(物)系
+two-conductor armoured cable   &&   双线铠装电缆
+two-conductor insulated wiring system   &&   对地绝缘双线制
+two-conductor shielded cable   &&   双线屏蔽电缆
+two-conductor wiring   &&   双线布线
+two-constant of polymerization   &&   聚合二常数(理论)
+two-constraints fit   &&   二约束条件拟合
+two-core cable   &&   双心电缆
+two-core switch   &&   双铁心开关
+two-cylinder steam engine   &&   双汽缸蒸汽机
+two-digital group   &&   二位组
+two-dimension   &&   二维
+two-dimension Fourier transform   &&   二维傅里叶变换
+two-dimension run encoding   &&   二维行程编码
+two-dimensional   &&   二维
+two-dimensional Bravais lattice   &&   二维布拉韦格子
+two-dimensional cam   &&   两维凸轮
+two-dimensional communication   &&   双向通信
+two-dimensional condensation   &&   二维凝结
+two-dimensional diffraction pattern   &&   二维衍射花样
+two-dimensional ensemble   &&   二维总体
+two-dimensional flow   &&   二维流动
+two-dimensional lattice   &&   二维晶格
+two-dimensional location   &&   平面定位，二维空间定位
+two-dimensional nucleation   &&   二维成核(作用)
+two-dimensional paper chromatography   &&   双向纸色谱法
+two-dimensional phase   &&   二维相
+two-dimensional pointgroup   &&   二维点群
+two-dimensional pressure   &&   二维压力
+two-dimensional scanning   &&   两维扫描
+two-dimensional scanning technique   &&   二维扫描技术
+two-dimensional solid order   &&   二维固态有序
+two-dimensional structure   &&   二维结构
+two-dimensional superconductor   &&   二维超导体
+two-dimensional swelling   &&   二维膨胀
+two-dimensional turbulence   &&   二维湍流
+two-dimensional-layer molecule   &&   二维层状分子
+two-direction linear stepping motor   &&   双向直线步进电动机
+two-drum bent-tube boiler   &&   双锅筒弯管锅炉
+two-electrode system   &&   双电极系统
+two-element   &&   二元
+two-element relay   &&   二元继电器
+two-ended   &&   双端
+two-ended living polymer   &&   双端活性聚合物
+two-film theory   &&   双膜理论
+two-fluid   &&   双流体
+two-fluid model   &&   双流体模型
+two-fluid power plant   &&   双流体发电厂
+two-fold yarn   &&   双股线
+two-gap magnetic head   &&   双隙磁头
+two-handled knife   &&   双柄刮皮刀
+two-height mill   &&   二辊轧机
+two-high mill   &&   二辊式轧机
+two-jaw grab   &&   双瓣式抓斗
+two-layer   &&   双层
+two-layer winding   &&   双层绕组
+two-legged singlephase transformer   &&   双柱单相变压器
+two-level address   &&   二级地址
+two-level addressing   &&   二级编址，二级寻址
+two-level control facilities   &&   二级控制设备
+two-level encoding microinstruction   &&   二级编码微指令
+two-level logic   &&   二级逻辑
+two-level microprogram control   &&   二级微过程控制
+two-level network architecture   &&   两级网络体系结构
+two-level recording   &&   二级记录
+two-level store   &&   二级存储
+two-level structure   &&   二级结构
+two-level subroutine   &&   二级子程序
+two-line   &&   双线
+two-order   &&   二阶
+two-out-of-five code   &&   五中选二码
+two-paint jack   &&   二簧片插孔
+two-particle correlation   &&   二粒子关联
+two-phase   &&   二相，双相
+two-phase additive   &&   双相添加剂
+two-phase current   &&   双相电流
+two-phase debugging   &&   二相调试
+two-phase electric machine   &&   二相电机
+two-phase equilibrium   &&   二相平衡
+two-phase flow   &&   二相流
+two-phase ion-exchange column   &&   双相离子交换柱
+two-phase locking   &&   二段封锁法
+two-phase system   &&   二相制
+two-phase titration   &&   双相滴定法
+two-photon absorption   &&   双光子吸收
+two-piece bearing   &&   对开轴承
+two-piece construction   &&   双件结构
+two-piece core box   &&   对分(式)盒
+two-piece pattern   &&   对分模
+two-piece wheel   &&   双件式车轮
+two-plane balancing   &&   双面平衡
+two-plane balancing machine   &&   双面平衡机
+two-plate mould   &&   双板式注射模
+two-plate press   &&   双板压榨机
+two-plus-one address   &&   二加一地址
+two-plus-one address instruction   &&   二加一地址指令
+two-ply   &&   双股
+two-ply yarn   &&   双股线
+two-position   &&   双位
+two-position control   &&   双位控制
+two-position relay   &&   双位继电器，二位置继电器
+two-position signal   &&   双位信号机
+two-reaction theory   &&   双反应理论
+two-roll   &&   双辊
+two-roll crusher   &&   双辊压碎机
+two-sample test   &&   双样本检验
+two-scale   &&   二进制(计数法)
+two-scale notation   &&   二进制(计数法)
+two-screw oil pump   &&   双螺杆油泵
+two-seater   &&   双座
+two-seater aircraft   &&   双座飞机
+two-section method   &&   双段法
+two-share plough   &&   双铧犁
+two-sided diskette   &&   双面软磁盘
+two-sided double-density diskette   &&   双面倍密度软磁盘
+two-sided system   &&   双侧系统
+two-speed   &&   双速
+two-speed alternating current control   &&   双速交流控制
+two-speed axle   &&   双速车轿
+two-speed gearbox   &&   双速齿轮箱
+two-speed motor   &&   双速电动机
+two-spring non-reactive suspension   &&   双弹簧双后轴悬架
+two-stage   &&   二级，双级
+two-stage amplifier   &&   双级放大器
+two-stage annealing   &&   双液退火，二级退火
+two-stage missile   &&   多级导弹
+two-stage polymerization   &&   两步聚合
+two-stage quenching   &&   双液淬火，二级淬火
+two-stage rocket   &&   二级火箭
+two-step action   &&   两位作用
+two-step control   &&   两位控制
+two-step controller   &&   两位控制器
+two-stepped annealing   &&   双液退火，二级退火
+two-stepped normalizing   &&   二级正火
+two-stepped quenching   &&   双液淬火，二级淬火
+two-strand   &&   双股
+two-strand anneal and pickle line   &&   双线退火酸洗作业线
+two-stranded helical structure   &&   二股螺形结构
+two-stroke   &&   二冲程
+two-stroke cycle   &&   二冲程循环
+two-stroke engine   &&   双冲程发动机，二冲程发动机
+two-stroke internal combustion engine   &&   二冲程内燃机
+two-stub transformer   &&   双柱变压器
+two-terminal   &&   双端
+two-terminal network   &&   二端网络
+two-terminal standard resistor   &&   二端(钮)标准电阻器
+two-throw crankshaft   &&   双拐曲轴
+two-to-one frequency divider   &&   对分分频器
+two-tone horn   &&   双音喇叭
+two-tool generator   &&   双刀展成加工机床
+two-track recording   &&   双声道录音
+two-track tape   &&   双道带
+two-valley scattering   &&   双能谷散射
+two-value   &&   二值
+two-value capacitor motor   &&   双值电容器式电动机
+two-value logic   &&   二值逻辑
+two-value variable   &&   二值变量
+two-valued logic   &&   双值逻辑
+two-variable   &&   双变量
+two-variable computer   &&   双变量计算机
+two-variable data entry   &&   双变量数据输入
+two-variable matrix   &&   双变量矩阵
+two-wattmeter method   &&   双瓦特计法
+two-way   &&   双路，双通，双向
+two-way alternate communication   &&   双向交替通信
+two-way analysis of variance   &&   双向方差分析
+two-way channel   &&   双向信道
+two-way cock   &&   二路栓
+two-way communication   &&   双向通信
+two-way contact   &&   双向触点
+two-way converter   &&   二元催化转换器
+two-way drive   &&   双向传动
+two-way reversing switch   &&   双向转换开关
+two-way ribbed slab   &&   双向肋板
+two-way simultaneous communication   &&   双向同时通信
+two-way slab   &&   双向板
+two-way sort merge   &&   二向分类合并
+two-way stack   &&   二向栈自动机，双向栈自动机
+two-way switch   &&   双向开关，双路开关
+two-way tap   &&   二路栓
+two-way telephone   &&   双向电话
+two-way television   &&   双向电视
+two-way traffic   &&   双向交通
+two-way transmission   &&   双向传输，双路传输
+two-way tumbler switch   &&   双向拨动开关
+two-way valve   &&   双通阀
+two-wheeled   &&   双轮
+two-wheeled double-shared plough   &&   双轮双铧犁
+two-wire   &&   双线
+two-wire temperature transmitter   &&   两线制温度变送器
+two-word bead   &&   二字珠
+two-word list element   &&   二字链表元，二字表元素
+two-zone continuous furnace   &&   双段连续加热炉
+twofold axis   &&   二重轴
+twystron   &&   行波速调管
+type   &&   ①打印，键入②类型③形态
+type I phase matching   &&   第一类位相匹配
+type I superconductor   &&   第一类超导体
+type approval   &&   产品定型，形式批准，车型鉴定
+type drum   &&   打印鼓
+type front   &&   字体
+type identifier   &&   类型标志符
+type of action of an element or system   &&   组件或系统的作用方式
+type of data   &&   数据类型
+type of input   &&   输入类型
+type of machine   &&   机型
+type of output   &&   输出类型
+type of protection of an instrument for explosive atmosphere   &&   仪表防爆形式
+type of strain gauge   &&   应变计(片)型式
+type parameterization   &&   类型参数化
+type polymorphism   &&   类型多种组合形式
+type selection   &&   选型
+type test   &&   形式检验，形式试验
+type-armoured cable   &&   钢带铠装电缆
+type-printing telegraphy   &&   电传打字电报
+typebar   &&   打印杆
+typesetter   &&   排字机
+typesetting   &&   排字
+typewriter   &&   打字机
+typewriter output routine   &&   打字机输出程序
+typewriter signal distortion   &&   打字机信号畸变
+typical element   &&   典型元素，典型组件
+typing reperforator   &&   打字自动纸带穿孔机，电传打字收报凿孔机
+tyre   &&   ①带②车胎
+tyre builder   &&   车胎成型机
+tyre building machine   &&   车胎成型机
+tyre heater   &&   车胎压热器
+tyre mill   &&   轮胎轧机
+tyre mould   &&   车胎压模
+tyre reclaim   &&   车胎再生胶
+tyre size   &&   轮胎尺寸
+tyre stock   &&   车胎胶料
+tyre welder   &&   车胎热补器

@@ -1,0 +1,207 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">差动螺旋机构</span></td>
+  </tr>
+  <tr>
+    <td width="41%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="57%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="41%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td  align="middle"><p>典型差动螺旋机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/665.gif"></p></td>
+    <td valign="top" width="57%"><p><br>
+        　　 由主动螺杆1、螺母滑块2和带螺孔的机架3组成。螺杆1由导程分别为l2、13的两段螺旋制成，与螺母2、机架3组成螺旋副。当螺杆1转动时，螺母2的移动距离 <br>
+        <img src="images/66_1.gif"><br>
+        式中φ一螺杆1的转角； <br>
+        　　 ±--两螺旋旋向相同时取"－"；相反时取"＋"。 <br>
+        　　 差动螺旋机构常用于测微计、分度机构、调节机构和夹具等，如镗刀进刀量调节机构、反向螺旋的车辆联接拉紧器等。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="41%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td  align="middle"><p>铣刀心轴紧固机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/671.gif"></p></td>
+    <td valign="top" width="57%"><p><br>
+        　　 铣床主轴3上的螺旋和铣刀心轴2上的螺旋分别与螺母1配合，二螺旋均为左螺旋，其导程不等（l 3 ＞l 2 ）。当按图示方向转动1，则使心轴2移向3的锥孔并在孔内固紧，反向转动1则松开拔出心轴。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="41%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td  align="middle"><p>镗刀进刀量调节机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/672.gif"></p></td>
+    <td valign="top" width="57%"><p><br>
+        　　 镗床主轴1上安装镗刀3，其进刀量的调节由转动同向双螺杆2完成。螺杆2上端与主轴l的螺孔配合，是右螺旋，其导程为L1=1.25mm。螺杆2下端与镗刀3的螺孔配合，也是右螺旋，其导程为L3=lmm，当用2尾部的六角孔a调节镗刀时，按图示箭头方向旋转2，每转10°镗刀沿刀杆方向进刀距离为 s=0.069mm. </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="41%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td  align="middle"><p>同心螺旋差动机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/673.gif"></p></td>
+    <td valign="top" width="57%"><p><br>
+        　　 主动螺杆1的外螺旋与机架上的螺孔2配合，l的内螺旋与阀门的螺杆3配合，组成同心同向螺距不等的差动螺旋机构。该机构可用于煤气罐气阀开关上，可缓慢开闭和微调。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="41%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td  align="middle"><p>变转动为低速直动的差动机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/674.gif"></p></td>
+    <td valign="top" width="57%"><p><br>
+        　　 图中在主动轴7上固联齿轮8和右螺旋3，8、3分别和空套在从动轴6上的宽齿轮4、左螺旋2相互配合，4与2固联为一体，其两端有轴肩定位可与轴6同时作轴向移动。右旋螺距l3=2.540mm、左旋螺距l2=2.527mm，当主动轴7按图示方向每转一圈，从动轴6在滑动键1、5的限制下向右作轴向移动，移动距离为s=0.013mm。这样就将高速转动转换为低速直线移动，当主动轴7改变转向，从动轴6也将改变移动方向。该机构可用于机床的刀具进给机构上。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="41%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td  align="middle"><p>螺旋运动误差补偿机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/675.gif"></p></td>
+    <td valign="top" width="57%"><p><br>
+        　　 主动螺杆1通过螺母2带动拖板3作匀速移动。由于配合的误差，拖板不能实现预期的匀速运动，用附加固定导板5进行校正。根据螺杆实际运动误差制成导板上 的曲线沟槽，并在螺母2上加装柱销4，4插入导板5 的曲线槽内。当螺杆1带动螺母2和拖板3移动时，曲线沟槽通过柱销4迫使螺母产生附加运动，借以补偿误差。为提高补偿精度，通常将螺杆与螺母的运动误差放大若干倍后制作导板曲线槽，再用杠杆系统缩小若干倍传递给螺母以产生附加运动。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="41%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td  align="middle"><p>快慢速进退的差动螺旋机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/681.gif"></p></td>
+    <td valign="top" width="57%"><p><br>
+        　　 图中主动带轮1用传动带驱动从动轮2、3同向转动。齿轮5固联丝杠8、齿轮6和螺母7用滑键9相连，二者可同时转动又作相对移动，齿轮6空套在轮5的轴上。当离合器K2断开、制动器T2制动、T1松开、离合器K1 接通时，即齿轮10、6不动，4带动5、8转动，则丝杠8推动7作快速送给（7不转）；若制动器T1、T2同时松开且离合器K1、K2同时接通，即轮4、5和6、10 同时转动，则螺母7除与丝杠8同向转动外，还相对丝杠作轴向移动，即得到慢速进给；然后保持T2开、K2通，而使T1制动、K1开，则丝杆8不动，螺母7转动并快速退回。若使电动机反转，T2制动、T1开、K2开、K1通，则螺母7不转而得到快速退回。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

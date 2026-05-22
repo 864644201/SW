@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<node name="迈迪钢结构专用树">
+  <node Nm="22" T="型材" Idx="1" Ep="1" Tg="Sharp">
+    <node Nm="61" T="GB-型材" Idx="2" Ep="1">
+      <node Nm="291" T="等边角钢" Idx="3" />
+      <node Nm="292" T="不等边角钢" Idx="3" />
+      <node Nm="294" T="槽钢" Idx="3" />
+      <node Nm="298" T="冷弯方形空心型钢" Idx="3" />
+      <node Nm="299" T="冷弯矩形空心型钢" Idx="3" />
+    </node>
+    <node Nm="58" T="GB-H型钢" Idx="2" Ep="1">
+      <node Nm="300" T="HW型钢" Idx="3" />
+      <node Nm="301" T="HM型钢" Idx="3" />
+      <node Nm="302" T="HN型钢" Idx="3" />
+      <node Nm="303" T="HT型钢" Idx="3" />
+    </node>
+  </node>
+</node>

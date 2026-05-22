@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.06.00"/>
+    <PROJECT value="te_dsgn_cb6.bpl"/>
+    <OBJFILES value="te_dsgn_cb6.obj ksthemebuttons.obj ksthemecheckboxs.obj 
+      ksthemecomboboxs.obj ksthemecontrolbars.obj ksthemeedits.obj 
+      ksthemeengine.obj ksthemeforms.obj ksthemegrids.obj ksthemegroupboxs.obj 
+      ksthemeheader.obj ksthemehints.obj ksthemeinplaceedit.obj ksthemeitems.obj 
+      ksthemelabels.obj ksthemelistboxs.obj ksthememenuform.obj ksthememenus.obj 
+      ksthememessages.obj ksthemepanels.obj ksthemeprogress.obj ksthemereg.obj 
+      ksthemescrollbars.obj ksthemespeedbuttons.obj ksthemespinbuttons.obj 
+      ksthemespinedit.obj ksthemesplitter.obj ksthemestatusbar.obj 
+      ksthemestdcontrol.obj ksthemeswitch.obj ksthemetabs.obj ksthemethemes.obj 
+      ksthemetoolbars.obj ksthemetrackbars.obj ksthemeversion.obj te_const.obj 
+      te_controls.obj te_convert.obj te_designer.obj te_reg.obj te_shared.obj 
+      te_win2k.obj te_winxp.obj tethemeflat.obj tethemehighlight.obj 
+      tethemelines.obj TeThemeLuna.obj tethememetalluna.obj tethemecoolflat.obj 
+      tethemekde.obj tethemeofficexp.obj tethemestd.obj"/>
+    <RESFILES value="te_dsgn_cb6.res ksthemereg.dcr"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES)"/>
+    <LIBFILES value=""/>
+    <LIBRARIES value=""/>
+    <SPARELIBS value="rtl.lib vcl.lib vclx.lib"/>
+    <PACKAGES value="rtl.bpi vcl.bpi vclx.bpi bcbsmp.bpi designide.bpi"/>
+    <PATHCPP value=".;"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="ilink32"/>
+    <USERDEFINES value=""/>
+    <SYSDEFINES value="_RTLDLL;NO_STRICT;USEPACKAGES"/>
+    <MAINSOURCE value="te_dsgn_cb6.cpp"/>
+    <INCLUDEPATH value="$(BCB)\include;$(BCB)\include\vcl"/>
+    <LIBPATH value="$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib;$(BCB)\Projects\bpl"/>
+    <WARNINGS value="-w-par -w-8027 -w-8026"/>
+    <WARNOPTSTR value=""/>
+    <OTHERFILES value=""/>
+  </MACROS>
+  <OPTIONS>
+    <IDLCFLAGS value="-I$(BCB)\include -I$(BCB)\include\vcl -src_suffix cpp -boa"/>
+    <CFLAG1 value="-O2 -H=e:\bin\borland\cbuilder6\lib\vcl60.csm -Hc -Vx -Ve -X- -a8 -b- -k- 
+      -vi -c -tWM"/>
+    <PFLAGS value="-H- -W- -$Y- -$L- -$D- -$C- -$A8 -v -JPHNE -M -LUdesignide -LUdclstd"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zn"/>
+    <LFLAGS value="-D&quot;ThemeEngine&quot; -aa -Tpp -Gpd -x -Gn -Gl -Gi"/>
+    <OTHERFILES value=""/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0pkg32.obj $(PACKAGES) Memmgr.Lib sysinit.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cp32mti.lib"/>
+    <OTHERFILES value=""/>
+  </LINKER>
+  <FILELIST>
+      <FILE FILENAME="te_dsgn_cb6.cpp" FORMNAME="" UNITNAME="te_dsgn_cb6" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="te_dsgn_cb6.res" FORMNAME="" UNITNAME="te_dsgn_cb6.res" CONTAINERID="ResTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemebuttons.pas" FORMNAME="" UNITNAME="ksthemebuttons" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemecheckboxs.pas" FORMNAME="" UNITNAME="ksthemecheckboxs" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemecomboboxs.pas" FORMNAME="" UNITNAME="ksthemecomboboxs" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemecontrolbars.pas" FORMNAME="" UNITNAME="ksthemecontrolbars" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemeedits.pas" FORMNAME="" UNITNAME="ksthemeedits" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemeengine.pas" FORMNAME="" UNITNAME="ksthemeengine" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemeforms.pas" FORMNAME="" UNITNAME="ksthemeforms" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemegrids.pas" FORMNAME="" UNITNAME="ksthemegrids" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemegroupboxs.pas" FORMNAME="" UNITNAME="ksthemegroupboxs" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemeheader.pas" FORMNAME="" UNITNAME="ksthemeheader" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemehints.pas" FORMNAME="" UNITNAME="ksthemehints" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemeinplaceedit.pas" FORMNAME="" UNITNAME="ksthemeinplaceedit" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemeitems.pas" FORMNAME="" UNITNAME="ksthemeitems" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemelabels.pas" FORMNAME="" UNITNAME="ksthemelabels" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemelistboxs.pas" FORMNAME="" UNITNAME="ksthemelistboxs" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthememenuform.pas" FORMNAME="" UNITNAME="ksthememenuform" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthememenus.pas" FORMNAME="" UNITNAME="ksthememenus" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthememessages.pas" FORMNAME="" UNITNAME="ksthememessages" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemepanels.pas" FORMNAME="" UNITNAME="ksthemepanels" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemeprogress.pas" FORMNAME="" UNITNAME="ksthemeprogress" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemereg.pas" FORMNAME="" UNITNAME="ksthemereg" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemereg.dcr" FORMNAME="" UNITNAME="ksthemereg" CONTAINERID="DcrTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemescrollbars.pas" FORMNAME="" UNITNAME="ksthemescrollbars" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemespeedbuttons.pas" FORMNAME="" UNITNAME="ksthemespeedbuttons" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemespinbuttons.pas" FORMNAME="" UNITNAME="ksthemespinbuttons" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemespinedit.pas" FORMNAME="" UNITNAME="ksthemespinedit" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemesplitter.pas" FORMNAME="" UNITNAME="ksthemesplitter" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemestatusbar.pas" FORMNAME="" UNITNAME="ksthemestatusbar" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemestdcontrol.pas" FORMNAME="" UNITNAME="ksthemestdcontrol" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemeswitch.pas" FORMNAME="" UNITNAME="ksthemeswitch" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemetabs.pas" FORMNAME="" UNITNAME="ksthemetabs" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemethemes.pas" FORMNAME="" UNITNAME="ksthemethemes" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemetoolbars.pas" FORMNAME="" UNITNAME="ksthemetoolbars" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemetrackbars.pas" FORMNAME="" UNITNAME="ksthemetrackbars" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ksthemeversion.pas" FORMNAME="" UNITNAME="ksthemeversion" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="te_const.pas" FORMNAME="" UNITNAME="te_const" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="te_controls.pas" FORMNAME="" UNITNAME="te_controls" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="te_convert.pas" FORMNAME="" UNITNAME="te_convert" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="te_designer.pas" FORMNAME="" UNITNAME="te_designer" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="te_reg.pas" FORMNAME="" UNITNAME="te_reg" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="te_shared.pas" FORMNAME="" UNITNAME="te_shared" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="te_win2k.pas" FORMNAME="" UNITNAME="te_win2k" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="te_winxp.pas" FORMNAME="" UNITNAME="te_winxp" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="tethemeflat.pas" FORMNAME="" UNITNAME="tethemeflat" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="tethemehighlight.pas" FORMNAME="" UNITNAME="tethemehighlight" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="tethemelines.pas" FORMNAME="" UNITNAME="tethemelines" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TeThemeLuna.pas" FORMNAME="" UNITNAME="TeThemeLuna" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="tethememetalluna.pas" FORMNAME="" UNITNAME="tethememetalluna" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="C:\Borland\CBuilder6\Lib\rtl.bpi" FORMNAME="" UNITNAME="rtl" CONTAINERID="BPITool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="C:\Borland\CBuilder6\Lib\vcl.bpi" FORMNAME="" UNITNAME="vcl" CONTAINERID="BPITool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="C:\Borland\CBuilder6\Lib\vclx.bpi" FORMNAME="" UNITNAME="vclx" CONTAINERID="BPITool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="C:\Borland\CBuilder6\Lib\bcbsmp.bpi" FORMNAME="" UNITNAME="bcbsmp" CONTAINERID="BPITool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="C:\Borland\CBuilder6\Lib\designide.bpi" FORMNAME="" UNITNAME="designide" CONTAINERID="BPITool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="tethemecoolflat.pas" FORMNAME="" UNITNAME="tethemecoolflat" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="tethemekde.pas" FORMNAME="" UNITNAME="tethemekde" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="tethemeofficexp.pas" FORMNAME="" UNITNAME="tethemeofficexp" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="tethemestd.pas" FORMNAME="" UNITNAME="tethemestd" CONTAINERID="PascalCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+  </FILELIST>
+  <BUILDTOOLS>
+  </BUILDTOOLS>
+
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=1
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1049
+CodePage=1251
+
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[HistoryLists\hlIncludePath]
+Count=1
+Item0=$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=9
+Item0=$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib;$(BCB)\Projects\bpl
+Item1=$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib;$(BCB)\Projects\lib;;$(BCB)\Projects\bpl
+Item2=$(BCB)\lib\obj;$(BCB)\lib
+Item3=c:\borland\CBuilder4\Projects\Lib\;C:\Borland\CBuilder4\Lib\Release\;$(BCB)\lib\obj;$(BCB)\lib;..\..\common\sources
+Item4=c:\borland\CBuilder4\Projects\Lib;C:\Borland\CBuilder4\Lib\Release;C:\Borland\CBuilder4\Lib\Release\;c:\borland\CBuilder4\Projects\Lib\;$(BCB)\lib\obj;$(BCB)\lib;..\..\common\sources
+Item5=c:\borland\CBuilder4\Projects\Lib;c:\borland\CBuilder4\Projects\Lib\;$(BCB)\lib\obj;$(BCB)\lib
+Item6=c:\borland\CBuilder4\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib
+Item7=$(BCB)\lib\obj;$(BCB)\lib;
+Item8=$(BCB)\lib\obj;$(BCB)\lib;d:\libraries\common\sources
+
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=$(BCB)\source\vcl
+
+[Debugging]
+DebugSourceDirs=$(BCB)\source\vcl
+
+[Parameters]
+RunParams=
+Launcher=
+UseLauncher=0
+DebugCWD=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteLauncher=
+RemoteCWD=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=0
+LinkDebugVcl=0
+
+[Linker]
+LibPrefix=
+LibSuffix=
+LibVersion=
+  </IDEOPTIONS>
+</PROJECT>

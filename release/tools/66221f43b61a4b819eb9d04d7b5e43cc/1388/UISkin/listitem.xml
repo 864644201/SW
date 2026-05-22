@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window >
+  <?Font id="100" name="宋体" size="18" underline="true" shared="true"/?>
+  <ListContainerElement height="28" >
+
+      <VerticalLayout >
+        
+        <Control height="1" bkimage="file='framwline_01.png' fade='50' " />
+
+        <HorizontalLayout >
+
+          <Control width="1" />
+          <HorizontalLayout width="56" bordersize="1" bkimage="file='framwline_01.png' fade='10' " >
+  				    <Label name="item" text="" align="center" float="false" font="3"  pos="22,0,0,0" textcolor="#c0c0c0" enabled="false" />
+          </HorizontalLayout>
+          <Control width="1" bkimage="file='framwline_01.png' fade='50' " />
+
+          <RichEdit name="zhijing" text="" inset="0,5,0,0" align="center" float="false"  font="9" width="99"  bordersize="1" focusbordercolor="238EB8"  textcolor="#b0f0f7" autohscroll="true" multiline="false" rich="false" wantreturn="false" wanttab="false"  />
+
+          <Control width="1" bkimage="file='framwline_01.png' fade='50' " />
+
+          <RichEdit name="luoju" text=""  inset="0,5,0,0" align="center" float="false"  font="9"  width="99" bordersize="1" focusbordercolor="238EB8"  textcolor="#b0f0f7" autohscroll="true" multiline="false" rich="false" wantreturn="false" wanttab="false"  />
+
+          <Control width="1" bkimage="file='framwline_01.png' fade='50' " />
+
+          <RichEdit name="quanshu"  text=""  inset="0,5,0,0" align="center" float="false"  font="9"  width="99" bordersize="1" focusbordercolor="238EB8"   textcolor="#b0f0f7" autohscroll="true" multiline="false" rich="false" wantreturn="false" wanttab="false"  />
+
+          <Control width="1" bkimage="file='framwline_01.png' fade='50' " />
+
+          <RichEdit name="pycc"  text=""  inset="0,5,0,0" align="center" float="false"  font="9"  width="99"  bordersize="1" focusbordercolor="238EB8"  textcolor="#b0f0f7" autohscroll="true" multiline="false" rich="false" wantreturn="false" wanttab="false"  />
+
+          <Control width="1" bkimage="file='framwline_01.png' fade='50' " />
+
+          <RichEdit name="pyfx"  text=""  inset="0,5,0,0" align="center" float="false"  font="9"  width="99"  bordersize="1" focusbordercolor="238EB8"  textcolor="#b0f0f7" autohscroll="true" multiline="false" rich="false" wantreturn="false" wanttab="false"  />
+
+          <Control width="1" bkimage="file='framwline_01.png' fade='50' " />
+
+          <RichEdit name="wqd"  text=""  inset="0,5,0,0" align="center" float="false"  font="9"  width="100"  bordersize="1"  focusbordercolor="238EB8"  textcolor="#b0f0f7" autohscroll="true" multiline="false" rich="false" wantreturn="false" wanttab="false"  />
+
+          <Control width="1" bkimage="file='framwline_01.png' fade='50' " />
+
+          <VerticalLayout width="100"  bordersize="1" bkimage="file='framwline_01.png' fade='10' "  >
+            <Control height="2" />
+              <Control />
+              <RichEdit name="ddheight" text="" align="center" float="false"  font="3" height="18" textcolor="#c0c0c0" enabled="false" autohscroll="true" multiline="false" rich="false" wantreturn="false" wanttab="false" />
+              <Control />
+          </VerticalLayout>
+          <Control width="1" bkimage="file='framwline_01.png' fade='50' " />
+          <VerticalLayout width="100"  bordersize="1" bkimage="file='framwline_01.png' fade='10' "  >
+            <Control height="2" />
+              <Control />
+              <RichEdit name="minheight" text="" align="center" float="false"  font="3" height="18" textcolor="#c0c0c0" enabled="false" autohscroll="true" multiline="false" rich="false" wantreturn="false" wanttab="false" />
+              <Control />
+          </VerticalLayout>
+          <Control width="1" bkimage="file='framwline_01.png' fade='50' " />
+          <VerticalLayout width="100"  bordersize="1" bkimage="file='framwline_01.png' fade='10' " >
+            <Control height="2" />
+              <Control />
+              <RichEdit name="maxheight" text="" align="center" float="false"  font="3" height="18" textcolor="#c0c0c0" enabled="false" autohscroll="true" multiline="false" rich="false" wantreturn="false" wanttab="false" />
+              <Control />
+          </VerticalLayout>
+          <Control width="1" />
+
+        </HorizontalLayout>
+
+      </VerticalLayout>
+
+  </ListContainerElement>
+</Window>

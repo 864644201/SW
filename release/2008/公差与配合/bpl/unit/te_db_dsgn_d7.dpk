@@ -1,0 +1,70 @@
+package te_db_dsgn_d7;
+
+{$R *.res}
+{$R 'KsThemeDBReg.dcr'}
+{$R 'ksthemereg.dcr'}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$IMPLICITBUILD OFF}
+
+requires
+  rtl,
+  vcl,
+  dbrtl,
+  vcldb,
+  te_dsgn_d7,
+  designide,
+  vclactnband,
+  vclx;
+
+contains
+  ksthemebuttons in 'ksthemebuttons.pas',
+  ksthemecheckboxs in 'ksthemecheckboxs.pas',
+  ksthemecontrolbars in 'ksthemecontrolbars.pas',
+  ksthemedbcontrols in 'KsThemeDBControls.pas',
+  ksthemedbreg in 'KsThemeDBReg.pas',
+  ksthemeedits in 'ksthemeedits.pas',
+  ksthemegrids in 'ksthemegrids.pas',
+  ksthemegroupboxs in 'ksthemegroupboxs.pas',
+  ksthemeheader in 'ksthemeheader.pas',
+  ksthemehints in 'ksthemehints.pas',
+  ksthemeinplaceedit in 'ksthemeinplaceedit.pas',
+  ksthemelabels in 'ksthemelabels.pas',
+  ksthememessages in 'ksthememessages.pas',
+  ksthemepanels in 'ksthemepanels.pas',
+  ksthemeprogress in 'ksthemeprogress.pas',
+  ksthemereg in 'ksthemereg.pas',
+  ksthemespeedbuttons in 'ksthemespeedbuttons.pas',
+  ksthemespinbuttons in 'ksthemespinbuttons.pas',
+  ksthemespinedit in 'ksthemespinedit.pas',
+  ksthemesplitter in 'ksthemesplitter.pas',
+  ksthemestatusbar in 'ksthemestatusbar.pas',
+  ksthemestdcontrol in 'ksthemestdcontrol.pas',
+  ksthemetabs in 'ksthemetabs.pas',
+  ksthemetoolbars in 'ksthemetoolbars.pas',
+  ksthemetrackbars in 'ksthemetrackbars.pas',
+  te_convert in 'te_convert.pas',
+  te_designer in 'te_designer.pas',
+  te_reg in 'te_reg.pas',
+  te_win2k in 'te_win2k.pas';
+
+end.

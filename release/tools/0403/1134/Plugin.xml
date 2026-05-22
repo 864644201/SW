@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>日积月累</name>
+  <classname>常用工具</classname>
+  <classid>2090_2219_2223</classid>
+  <version>1.1.0</version>
+  <softkey>0403</softkey>
+  <username>迈迪设计宝</username>
+  <userid>83193</userid>
+  <startexe>pgrun.exe</startexe>
+  <isMd>False</isMd>
+  <explain><![CDATA[为了方便用户，解决很多设计师在工作时无法使用互联网查询数据的问题，将部分技术资料，合成到本版的日积月累软件中，供设计者方便调取查询。另外，针对设计者自身经常用到的资料，如图纸、文档、图片、声音、视频等]]></explain>
+</plugin>

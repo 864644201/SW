@@ -1,0 +1,16 @@
+program Project1;
+
+uses
+  Forms,
+  Ugcph in 'Ugcph.pas' {frmgcph},
+  DataUnit in 'DataUnit.pas' {Data: TDataModule};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.Title:='公差与配合查询';
+  Application.CreateForm(Tfrmgcph, frmgcph);
+  Application.CreateForm(TData2, Data2);
+  Application.Run;
+end.

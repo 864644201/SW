@@ -1,0 +1,359 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=Generator content="Microsoft Word 11 (filtered)">
+<title>滑动螺旋传动设计</title>
+
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Times New Roman";}
+ /* Page Definitions */
+ @page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	layout-grid:15.6pt;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+
+</head>
+
+<body lang=ZH-CN style='text-justify-trim:punctuation'>
+
+<div class=Section1 style='layout-grid:15.6pt'>
+
+<p class=MsoNormal><b><span style='font-family:宋体'>滑动螺旋传动设计</span></b></p>
+
+<p class=MsoNormal><b><span lang=EN-US>1 </span></b><b><span style='font-family:
+宋体'>滑动螺旋传动的特点</span></b></p>
+
+<p class=MsoNormal style='margin-left:16.5pt'><span lang=EN-US>1</span><span
+style='font-family:宋体'>、摩擦阻力大，传动效率低（通常为</span><span lang=EN-US>30</span><span
+style='font-family:宋体'>％～</span><span lang=EN-US>60</span><span
+style='font-family:宋体'>％）压紧力大</span></p>
+
+<p class=MsoNormal style='margin-left:34.5pt;text-indent:-18.0pt'><span
+lang=EN-US>2、<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
+style='font-family:宋体'>结构简单，加工方便</span></p>
+
+<p class=MsoNormal style='margin-left:34.5pt;text-indent:-18.0pt'><span
+lang=EN-US>3、<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
+style='font-family:宋体'>易于自锁</span></p>
+
+<p class=MsoNormal style='margin-left:34.5pt;text-indent:-18.0pt'><span
+lang=EN-US>4、<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><span
+style='font-family:宋体'>运转平稳，但低速或微调时可能出现爬行</span></p>
+
+<p class=MsoNormal style='margin-left:31.5pt;text-indent:-31.5pt'><span
+lang=EN-US>&nbsp;&nbsp; 5</span><span style='font-family:宋体'>、螺纹有侧向间隙，反向时有空行程，定位精度和轴向刚度较差（采用消隙机构可提高定位精度）</span></p>
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp; 6</span><span
+style='font-family:宋体'>、磨损快</span></p>
+
+<p class=MsoNormal style='margin-left:16.5pt'><span style='font-family:宋体'>该设计的导航面板如下：</span></p>
+
+<p class=MsoNormal style='margin-left:16.5pt'><span lang=EN-US><img width=224
+height=456 src="滑动螺旋传动设计.files/image001.jpg"></span></p>
+
+<p class=MsoNormal><b><span lang=EN-US>2 </span></b><b><span style='font-family:
+宋体'>滑动螺旋传动设计计算</span></b></p>
+
+<p class=MsoNormal><span lang=EN-US>&nbsp;&nbsp; </span><span style='font-family:
+宋体'>启动系统开始一个新的设计，点击导航栏中“开始新的计算”按钮，提示用户输入设计信息，如下图所示：</span></p>
+
+<p class=MsoNormal><span lang=EN-US><img width=252 height=230
+src="滑动螺旋传动设计.files/image002.jpg"></span></p>
+
+<p class=MsoNormal><span style='font-family:宋体'>其中，设计者为设计人姓名，单位为设计者工作单位，这两个值均可缺省，缺省后系统按照空白处理，在设计结束后可在报表中手工填写，按“确定”按钮后系统提示选择待设计的螺旋传动类型，如下图所示：</span></p>
+
+<p class=MsoNormal><span lang=EN-US><img width=407 height=427
+src="滑动螺旋传动设计.files/image003.jpg"></span></p>
+
+<p class=MsoNormal><span style='font-family:宋体'>在该界面中提示了常用螺旋传动类型及设计特点，用户选择后点击“确定”按钮。</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US>2.1</span></b><b><span style='font-family:
+宋体'>初始条件输入</span></b></p>
+
+<p class=MsoNormal style='layout-grid-mode:char'><span lang=EN-US>&nbsp;&nbsp; </span><span
+style='font-family:宋体'>本界面主要用来输入滑动螺旋传动相关的初始条件，如下图所示：</span></p>
+
+<p class=MsoNormal style='layout-grid-mode:char'><span lang=EN-US
+style='font-size:12.0pt'><img width=341 height=343
+src="滑动螺旋传动设计.files/image004.jpg"></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;layout-grid-mode:char'><span
+lang=EN-US>1</span><span style='font-family:宋体'>、轴向载荷，单位为</span><span
+lang=EN-US>N</span><span style='font-family:宋体'>。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;layout-grid-mode:char'><span
+lang=EN-US>2</span><span style='font-family:宋体'>、选择“螺母形式”、“滑动速度范围”、“螺杆材料”、“螺母材料”。</span></p>
+
+<p class=MsoNormal style='text-indent:27.0pt'><span style='font-family:宋体'>“确定”：当确认输入参数后点击进入下一步；</span></p>
+
+<p class=MsoNormal style='text-indent:27.0pt'><span style='font-family:宋体'>“说明”：点击说明按钮弹出网页说明该界面的参数及简单操作。如下图所示：</span></p>
+
+<p class=MsoNormal><span lang=EN-US><img width=336 height=258
+src="滑动螺旋传动设计.files/image005.jpg"></span></p>
+
+<p class=MsoNormal><b><span lang=EN-US>2.2</span></b><b><span style='font-family:
+宋体'>耐磨性计算</span></b></p>
+
+<p class=MsoNormal style='text-indent:27.0pt;layout-grid-mode:char'><span
+style='font-family:宋体'>本界面进行耐磨性计算，如下图所示：</span></p>
+
+<p class=MsoNormal style='layout-grid-mode:char'><span lang=EN-US><img
+width=401 height=406 src="滑动螺旋传动设计.files/image006.jpg"></span></p>
+
+<p class=MsoNormal style='margin-left:36.75pt;text-indent:-15.75pt;layout-grid-mode:
+char'><span lang=EN-US>1</span><span style='font-family:宋体'>、输入“φ的值”、“许用压强</span><span
+lang=EN-US>[p]</span><span style='font-family:宋体'>的值”，但必须在提示范围内，否则，弹出提示对话框，显示输入的数据不合法。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;layout-grid-mode:char'><span
+lang=EN-US>2</span><span style='font-family:宋体'>、“计算”：当计算完成后，“确定”按钮才可用；</span></p>
+
+<p class=MsoNormal style='text-indent:31.5pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“确定”：当点击确定后，弹出“螺杆中径及螺距的确定”对话框；</span></p>
+
+<p class=MsoNormal style='text-indent:32.25pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“说明”：点击说明按钮弹出网页说明该界面的参数及简单操作。</span></p>
+
+<p class=MsoNormal style='layout-grid-mode:char'><span lang=EN-US><img
+width=554 height=305 src="滑动螺旋传动设计.files/image007.jpg"></span></p>
+
+<p class=MsoNormal style='margin-left:36.75pt;text-indent:-15.75pt;layout-grid-mode:
+char'><span lang=EN-US>1</span><span style='font-family:宋体'>、选定螺杆的各个参数；</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;layout-grid-mode:char'><span
+lang=EN-US>2</span><span style='font-family:宋体'>、“确定”：当点击确定后，返回主界面；</span></p>
+
+<p class=MsoNormal style='text-indent:32.25pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“说明”：点击说明按钮弹出网页说明该界面的参数及简单操作。</span></p>
+
+<p class=MsoNormal style='layout-grid-mode:char'><span lang=EN-US><img
+width=384 height=317 src="滑动螺旋传动设计.files/image008.jpg"></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;layout-grid-mode:char'><span
+lang=EN-US>1</span><span style='font-family:宋体'>、“计算”：当点击计算后，“校核”按钮可用；</span></p>
+
+<p class=MsoNormal style='margin-left:78.75pt;text-indent:-47.25pt;layout-grid-mode:
+char'><span style='font-family:宋体'>“校核”：当点击校核后，若校核通过，则“确定”按钮可用，校核通不过，则需返回重做；</span></p>
+
+<p class=MsoNormal style='text-indent:31.5pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“确定”：当点击确定后，进入下一步；</span></p>
+
+<p class=MsoNormal style='text-indent:32.25pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“说明”：点击说明按钮弹出网页说明该界面的简单操作。</span></p>
+
+<p class=MsoNormal style='layout-grid-mode:char'><span lang=EN-US><img
+width=222 height=157 src="滑动螺旋传动设计.files/image009.jpg">&nbsp;<img width=200
+height=160 src="滑动螺旋传动设计.files/image010.jpg"></span></p>
+
+<p class=MsoNormal><b><span lang=EN-US>2.3</span></b><b><span style='font-family:
+宋体'>验算自锁情况</span></b></p>
+
+<p class=MsoNormal style='layout-grid-mode:char'><span lang=EN-US><img
+width=360 height=300 src="滑动螺旋传动设计.files/image011.jpg"></span></p>
+
+<p class=MsoNormal style='margin-left:36.75pt;text-indent:-15.75pt;layout-grid-mode:
+char'><span lang=EN-US>1</span><span style='font-family:宋体'>、输入“螺旋副的摩擦系数μ</span><sub><span
+lang=EN-US>s</span></sub><span style='font-family:宋体'>”，但必须在提示范围内，否则，弹出提示对话框，显示输入的数据不合法。</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;layout-grid-mode:char'><span
+lang=EN-US>2</span><span style='font-family:宋体'>、“计算”：当点击计算后，“校核”按钮可用；</span></p>
+
+<p class=MsoNormal style='margin-left:78.75pt;text-indent:-47.25pt;layout-grid-mode:
+char'><span style='font-family:宋体'>“校核”：当点击校核后，若校核通过，则“确定”按钮可用，校核通不过，则需返回重做；</span></p>
+
+<p class=MsoNormal style='text-indent:31.5pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“确定”：当点击确定后，进入下一步；</span></p>
+
+<p class=MsoNormal style='text-indent:32.25pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“说明”：点击说明按钮弹出网页说明该界面的简单操作。</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US>2.4 </span></b><b><span
+style='font-family:宋体'>计算驱动转距</span></b></p>
+
+<p class=MsoNormal style='layout-grid-mode:char'><span lang=EN-US><img
+width=324 height=211 src="滑动螺旋传动设计.files/image012.jpg"></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;layout-grid-mode:char'><span
+lang=EN-US>1</span><span style='font-family:宋体'>、“计算”：当点击计算后，“确定”按钮可用；</span></p>
+
+<p class=MsoNormal style='text-indent:31.5pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“确定”：当点击确定后，进入下一步；</span></p>
+
+<p class=MsoNormal style='text-indent:32.25pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“说明”：点击说明按钮弹出网页说明该界面的简单操作。</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US>2.5 </span></b><b><span
+style='font-family:宋体'>计算螺杆强度</span></b></p>
+
+<p class=MsoNormal style='layout-grid-mode:char'><span lang=EN-US><img
+width=387 height=292 src="滑动螺旋传动设计.files/image013.jpg"></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;layout-grid-mode:char'><span
+lang=EN-US>1</span><span style='font-family:宋体'>、“计算”：当点击计算后，“校核”按钮可用；</span></p>
+
+<p class=MsoNormal style='margin-left:78.75pt;text-indent:-47.25pt;layout-grid-mode:
+char'><span style='font-family:宋体'>“校核”：当点击校核后，若校核通过，则“确定”按钮可用，校核通不过，则需返回重做；</span></p>
+
+<p class=MsoNormal style='text-indent:31.5pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“确定”：当点击确定后，进入下一步；</span></p>
+
+<p class=MsoNormal style='text-indent:32.25pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“说明”：点击说明按钮弹出网页说明该界面的简单操作。</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US>2.6 </span></b><b><span
+style='font-family:宋体'>计算螺纹牙强度</span></b></p>
+
+<p class=MsoNormal><span lang=EN-US><img width=426 height=437
+src="滑动螺旋传动设计.files/image014.jpg"></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;layout-grid-mode:char'><span
+lang=EN-US>1</span><span style='font-family:宋体'>、“计算”：当点击计算后，“校核”按钮可用；</span></p>
+
+<p class=MsoNormal style='margin-left:78.75pt;text-indent:-47.25pt;layout-grid-mode:
+char'><span style='font-family:宋体'>“校核”：当点击校核后，若校核通过，则“确定”按钮可用，校核通不过，则需返回重做；</span></p>
+
+<p class=MsoNormal style='text-indent:31.5pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“确定”：当点击确定后，进入下一步；</span></p>
+
+<p class=MsoNormal style='text-indent:32.25pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“说明”：点击说明按钮弹出网页说明该界面的简单操作。</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US>2.7 </span></b><b><span
+style='font-family:宋体'>验算螺杆稳定性</span></b></p>
+
+<p class=MsoNormal><span lang=EN-US><img width=324 height=227
+src="滑动螺旋传动设计.files/image015.jpg"></span></p>
+
+<p class=MsoNormal style='margin-left:36.75pt;text-indent:-15.75pt;layout-grid-mode:
+char'><span lang=EN-US>1</span><span style='font-family:宋体'>、输入“螺杆的最大工作长度</span><span
+lang=EN-US>l</span><span style='font-family:宋体'>”的值；</span></p>
+
+<p class=MsoNormal style='margin-left:36.75pt;text-indent:-15.75pt;layout-grid-mode:
+char'><span lang=EN-US>2</span><span style='font-family:宋体'>、选择螺杆端部结构，从而确定“长度系数μ”；</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;layout-grid-mode:char'><span
+lang=EN-US>3</span><span style='font-family:宋体'>、“计算”：当点击计算后，“确定”按钮可用；</span></p>
+
+<p class=MsoNormal style='text-indent:31.5pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“确定”：当点击确定后，进入下一界面；</span></p>
+
+<p class=MsoNormal style='text-indent:32.25pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“说明”：点击说明按钮弹出网页说明该界面的简单操作。</span></p>
+
+<p class=MsoNormal><span lang=EN-US><img width=344 height=386
+src="滑动螺旋传动设计.files/image016.jpg"></span></p>
+
+<p class=MsoNormal style='margin-left:36.75pt;text-indent:-15.75pt;layout-grid-mode:
+char'><span lang=EN-US>1</span><span style='font-family:宋体'>、输入“螺杆材料的弹性模量”的值，但必须与提示的数值相吻合；</span></p>
+
+<p class=MsoNormal style='margin-left:36.75pt;text-indent:-15.75pt;layout-grid-mode:
+char'><span lang=EN-US>2</span><span style='font-family:宋体'>、根据提示的</span><span
+lang=EN-US>(</span><span style='font-family:宋体'>μ</span><span lang=EN-US>l/i)</span><span
+style='font-family:宋体'>的值，选择右侧按钮为计算选择公式；</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;layout-grid-mode:char'><span
+lang=EN-US>3</span><span style='font-family:宋体'>、“计算”：当点击计算后，“校核”按钮可用；</span></p>
+
+<p class=MsoNormal style='margin-left:78.75pt;text-indent:-47.25pt;layout-grid-mode:
+char'><span style='font-family:宋体'>“校核”：当点击校核后，若校核通过，则“确定”按钮可用，校核通不过，则需返回重做；</span></p>
+
+<p class=MsoNormal style='text-indent:31.5pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“确定”：当点击确定后，进入下一步；</span></p>
+
+<p class=MsoNormal style='text-indent:32.25pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“说明”：点击说明按钮弹出网页说明该界面的简单操作。</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US>2.8 </span></b><b><span
+style='font-family:宋体'>计算螺杆刚度</span></b></p>
+
+<p class=MsoNormal><span lang=EN-US><img width=311 height=331
+src="滑动螺旋传动设计.files/image017.jpg"></span></p>
+
+<p class=MsoNormal style='margin-left:36.75pt;text-indent:-15.75pt;layout-grid-mode:
+char'><span lang=EN-US>1</span><span style='font-family:宋体'>、输入“螺杆材料的切变模量”的值，但必须与提示的数值相吻合；</span></p>
+
+<p class=MsoNormal style='margin-left:36.75pt;text-indent:-15.75pt;layout-grid-mode:
+char'><span lang=EN-US>2</span><span style='font-family:宋体'>、选择“轴向载荷与运动方向”；</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;layout-grid-mode:char'><span
+lang=EN-US>3</span><span style='font-family:宋体'>、“计算”：当点击计算后，“确定”按钮可用；</span></p>
+
+<p class=MsoNormal style='text-indent:26.25pt;layout-grid-mode:char'><span
+lang=EN-US>&nbsp;</span><span style='font-family:宋体'>“确定”：当点击确定后，进入下一步；</span></p>
+
+<p class=MsoNormal style='text-indent:32.25pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“说明”：点击说明按钮弹出网页说明该界面的简单操作。</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US>2.9 </span></b><b><span
+style='font-family:宋体'>计算横向振动</span></b></p>
+
+<p class=MsoNormal><span lang=EN-US><img width=335 height=368
+src="滑动螺旋传动设计.files/image018.jpg"></span></p>
+
+<p class=MsoNormal style='margin-left:36.75pt;text-indent:-15.75pt;layout-grid-mode:
+char'><span lang=EN-US>1</span><span style='font-family:宋体'>、输入“螺杆两支承间的最大距离</span><span
+lang=EN-US>l<sub>c</sub></span><span style='font-family:宋体'>”的值；</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>2</span><span
+style='font-family:宋体'>、“系数μ</span><sub><span
+ lang=EN-US>1</span></sub><span style='font-family:宋体'>”</span><span
+style='font-family:宋体'>已由</span><b><span lang=EN-US>2.7 </span></b><b><span
+style='font-family:宋体'>验算螺杆稳定性</span></b><b> </b><span style='font-family:宋体'>时所</span><span
+style='font-family:宋体'>选择螺杆端部结构确定；</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;layout-grid-mode:char'><span
+lang=EN-US>3</span><span style='font-family:宋体'>、“计算”：当点击计算后，“确定”按钮可用；</span></p>
+
+<p class=MsoNormal style='text-indent:31.5pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“确定”：当点击确定后，进入下一步；</span></p>
+
+<p class=MsoNormal style='text-indent:32.25pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“说明”：点击说明按钮弹出网页说明该界面的简单操作。</span></p>
+
+<p class=MsoNormal><b><span lang=EN-US>2.10 </span></b><b><span
+style='font-family:宋体'>计算效率</span></b></p>
+
+<p class=MsoNormal><span lang=EN-US><img width=300 height=280
+src="滑动螺旋传动设计.files/image019.jpg"></span></p>
+
+<p class=MsoNormal style='margin-left:36.75pt;text-indent:-15.75pt;layout-grid-mode:
+char'><span lang=EN-US>1</span><span style='font-family:宋体'>、输入“轴承效率”的值，但必须在提示范围之内，否则弹出提示对话框，显示输入的轴承效率不合法；</span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt'><span lang=EN-US>2</span><span
+style='font-family:宋体'>、“计算”：当点击计算后，“确定”按钮可用；</span></p>
+
+<p class=MsoNormal style='text-indent:31.5pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“确定”：当点击确定后，点击左侧导航板的“结束”按钮，可显示简单报表；</span></p>
+
+<p class=MsoNormal style='text-indent:32.25pt;layout-grid-mode:char'><span
+style='font-family:宋体'>“说明”：点击说明按钮弹出网页说明该界面的简单操作。</span></p>
+
+</div>
+
+</body>
+
+</html>

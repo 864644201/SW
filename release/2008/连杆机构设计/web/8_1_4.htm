@@ -1,0 +1,235 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">工艺轨迹机构</span></td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>掘薯机固定凸轮机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/743.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 凸轮 1固定在机架上，在地面上滚动的圆轮3上装有摆动杠杆2，2的一端以滚子A靠紧凸轮轮廓，另一端装有挖掘器M。当轮3绕凸轮轴向前转动时，以铰链B带动摆杆2同向转动，滚子A随着凸轮向径的增大，使杆2另一端上的M点逐渐外伸，并按图示点划线轨迹运动，完成挖掘马铃薯的动作。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>机动插秧机分插机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/744.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 铰链五杆机构CDFGH中，摆杆CD的运动由曲柄连杆机构OABC控制，摆杆HG的配合运动由凸轮控制，连杆FD（秧爪）上一点M按图示点划线轨迹运动。为减少铰链间隙对秧爪运动精度的影响，把凸轮机构的 力封闭弹簧2放在JE上，因为作用于连杆FD上的弹簧力使构件间的接触相对稳定，从而提高分秧精度。弹簧1用于平衡秧爪的惯性冲击力，使机构平稳地工作。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>实现任意轨迹的固定槽凸轮机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/745.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 槽形凸轮4固定，当曲柄1转动时，带动从动件 2使其上M点按要求轨迹运动，图中从动件2上的M点轨迹（即图示点划线）为近似正方形，凸轮槽依据轨迹要求设计。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>接纸凸轮连杆机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/751.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 双联凸轮中的1控制构件6和与其固联的套管7一起绕A转动，凸轮2通过构件3、4控制5在7中作相对移动，使构件8的左端M沿轨迹K运动，完成接纸动作。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>近似矩形送料凸轮连杆机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/752.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 双联凸轮1、2作主动件，分别与滚子A、H接触。凸轮1驱动滚子A，通过平行四杆机构 BCFE中的摆杆 BC延伸部分CD、EF延伸部分FG上所铰接的滑块 4、5带动送料台3上升或下降。凸轮2驱动滚子H，通过曲柄滑块机构IJK，由铰接点K带动送料台3左右移动。送料台3的运动轨迹近似矩形，完成送料动作。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>推瓶凸轮连杆机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/753.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 洗瓶机中要求推瓶机构的推头M沿轨迹ab（点划线）以较慢的匀速推瓶，并快速退回。以铰链四杆机构ABCD实 现连杆上M点的推瓶运动轨迹，又以凸轮1通过与滚子从动件固联的扇形齿轮2控制与齿轮3固联的摇杆 CD，使连杆BC上的M点运动能满足预期轨迹与速度要求。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>实现任意轨迹的凸轮连杆组合机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/754.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 凸轮l、6分别和齿轮2、5固联一体，当主动齿轮2转动时，凸轮1推动滚子A和连杆8，轮2通过从动轮5、凸轮6推动滚子B和连杆7使M点按预先设计轨迹运动，图上的M点轨迹为"5"字形。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>飞剪同步剪切机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/755.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 剪切时，要求剪刀与不断送给的钢板同步运动，并按一定长度循环剪断钢板。图示摆动式飞剪机构，摆杆6上E点处装上 剪刃、滑块8上F点处装下剪刃。飞轮1转动时，E、F 和A点按图示点划线轨迹运动，当E、F重合时，上下剪刃将钢板剪断。调整G、O两点距离（图中未表示调整机构），可改变H和E、F点的速度，以保证剪切时剪刃与钢板同步。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>振摆式轧钢机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/761.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 上下对称的两个五杆机构（下半部省略），由主动件1、4通过中间杆2、3和支承辊5带动工作辊的中心F按α曲线轨迹运动，并对钢材实行轧制。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

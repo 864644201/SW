@@ -1,0 +1,5 @@
+把解压出来的文件复制到
+SolidWorks\data\weldment profiles目录下
+
+
+

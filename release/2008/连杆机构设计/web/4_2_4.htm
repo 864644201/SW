@@ -1,0 +1,156 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center">
+  <tr>
+    <td colspan="2"><span class="Title">摇杆调节机构</span></td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>换向配气机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/561.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 铰链五杆机构ABCDE有2个自由度，当摇杆DE根据生产工艺要求固定在D 1 E或D 2 E时，该机构就变成为曲柄摇杆机构ABCD。曲柄AB作主动件转动，通过连杆BF、FG推动滑块2移动。当改变DE的位置后，可使滑块2完成生产工艺上所要求的换向配气工作。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>供油泵机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/562.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 图示机构为调节式柴油机的供油泵机构，可根据供油的需要量将摇杆1调节至规定位置，使铰链A在相应的位置上固定，从而改变杆4端部的滚子与凸轮从动件5的接触位置，达到控制柱塞3的行程和供油量。主动凸轮6通过杆5、4带动柱塞3供油。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>双滑杆调节机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/563.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动件1通过连杆2、摇杆3带动从动件4作往复移动。弯槽形摇杆3的长度由槽中铰链A的固定位置决定，铰链A的位置可根据需要进行调节，这样就改变了杆3的长度， 同时调节从动件4的行程。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td align="middle"><p>滑块行程调节机构 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/564.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 改变滑块A的导轨1的导向，可以调节机构运动。导轨1在α角范围内绕B转动，当将其调节到某个需要的位置时，阀门2可得到恰当的行程，并满足换气要求，从而可为活塞3提供必要的气体压力使之正常工作。 <br>
+        　　 导轨1调妥后应固定在所需要的位置上，活塞3作主动件，并通过中间各杆与阀门2联动，以保证正常的工作。 </p></td>
+  </tr>
+</table>
+</body>
+</html>

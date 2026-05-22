@@ -1,0 +1,3978 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WormGearAndWormDesign</name>
+    </assembly>
+    <members>
+        <member name="T:Interop.Office.Core.Material">
+            <summary>
+            材料类
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Material.dContact">
+            <summary>
+            接触疲劳强度
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Material.dBend">
+            <summary>
+            弯曲疲劳强度
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.GearT">
+            <summary>
+            齿轮公差类
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.aDeFine">
+            <summary>
+            定义,圆柱齿轮，圆锥齿轮，蜗轮蜗杆共用的类
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.aDeFine.gMat1">
+            <summary>
+            齿轮1的材料类
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.aDeFine.gMat2">
+            <summary>
+            齿轮2的材料
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.aDeFine.Inv(System.Double,System.Boolean)">
+            <summary>
+            渐开线函数'如果是角度,则必须转为弧度。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.aDeFine.Inv(System.Double)">
+            <summary>
+            渐开线函数'如果是角度,则必须转为弧度。bAngle = false;
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.aDeFine.Ainv(System.Double)">
+            <summary>
+            '反求渐开线函数
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.aDeFine.GetArr(System.Double[],System.Double)">
+            <summary>
+            从数组Arr，返回一个比t略大的数。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.aDeFine.TGetFromArr(System.Double[],System.Double)">
+            <summary>
+            为计算公差而设计，返回上下值的几何平均数
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.aDeFine.TCalFromFive(System.Double,System.Int16)">
+            <summary>
+            为计算公差，通过计算5级精度规定的值，然后乘以级间公比得到当前等级下的精度值
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.aDeFine.TGetRoundValue(System.Double)">
+            <summary>
+            计算公差用，返回适当的精度值,输入是μm，输出的是mm
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.aDeFine.Average(System.Double[],System.Int16)">
+            <summary>
+            算几何平均数。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.aDeFine.SumAverage(System.Double,System.Double,System.Int16,System.Int16)">
+            <summary>
+            求算术平均数
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.aDeFine.Delay(System.Double@)">
+            <summary>
+            系统动态延时(精确到0.01秒)//这个方法需要改进
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.aGmodGear">
+             <summary>
+             '本模块功能包括：
+            1、所有公众变量的定义
+             </summary>
+        </member>
+        <member name="F:Interop.Office.Core.aGmodGear.Mw">
+            <summary>
+            '模数系列
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.aGmodGear.Dmb">
+            <summary>
+            '标准圆柱销的直径系列 
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.aGmodGear.Dtb">
+            <summary>
+            '分度圆直径D系列
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.aGmodGear.Mtb">
+            <summary>
+            '为计算公差而准备的模数系列
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.aGmodGear.Btb">
+            <summary>
+            '为计算公差而准备的齿宽
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.afrm2ZX1.#ctor(System.Double,System.Double)">
+            <summary>
+            输入两个参数,返回LessT对象( Transmission.DefIns.M  , Transmission.DefIns.Z1)
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.afrm2ZX1.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.afrm2ZX1.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.afrm2ZX1.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.afrminv.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.afrminv.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.afrminv.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.afrmIso.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.afrmIso.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.afrmIso.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmKa.iFlag">
+            <summary>
+            原动机
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmKa.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmKa.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.frmKa.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmKhb.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmKhb.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.frmKhb.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmYsg.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmYsg.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.frmYsg.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmZr.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmZr.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.frmZr.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.gear">
+            <summary>
+            定义了齿轮这个类
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.z">
+            <summary>
+            齿数
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.m">
+            <summary>
+            法面模数,单位为mm
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.x">
+            <summary>
+            变位系数
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.bOutGear">
+            <summary>
+            True为外齿轮，False为内齿轮 
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.bDirRight">
+            <summary>
+            '斜齿的旋向.True为右旋，False 为左旋（如果B为0则为直齿）
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.hax">
+            <summary>
+            齿顶高系数
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.cx">
+            <summary>
+            顶隙系数
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.pfp">
+            <summary>
+            齿根圆半径.
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.alf">
+            <summary>
+            '法面压力角,单位为弧度值,默认为20度对应的弧度值
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.beta">
+            <summary>
+            螺旋角单位为弧度值,并自动计算端面压力角
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.Dy">
+            <summary>
+            齿顶高变动系数
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.Width">
+            <summary>
+             齿宽,单位为m
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.iWidth">
+            <summary>
+            齿宽系数,圆锥齿轮用到的
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Du">
+            <summary>
+            '外齿轮的最外圆直径//'仅对外齿轮有效。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Ha">
+            <summary>
+            齿顶高 ' 由传动类得到
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Hf">
+            <summary>
+            齿根高'OK
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.Df">
+            <summary>
+            齿根圆直径  this.Db - 0.5*M;
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Rf">
+            <summary>
+            齿根圆（半径）
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.Da">
+            <summary>
+            由于内齿轮的齿顶高与z1有关，因此，放在了传动里计算
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Ra">
+            <summary>
+            齿顶圆（半径）
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.alf_t">
+            <summary>
+            斜齿轮端面压力角
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Dn">
+            <summary>
+            分度圆直径
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Db">
+            <summary>
+            基圆直径
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Rb">
+            <summary>
+            基圆（半径）
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.H">
+            <summary>
+            '齿全高
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.St">
+            <summary>
+            端面齿厚
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.P">
+            <summary>
+            分度圆齿距 Math.PI * m 
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Pt">
+            <summary>
+            '端面齿距
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Ptb">
+            <summary>
+            '基圆齿距
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Stc">
+            <summary>
+            '齿槽宽
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Mt">
+            <summary>
+            '端面模数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Aat">
+            <summary>
+            '齿顶圆压力角 '计算T.Ea时用到
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Bb">
+            <summary>
+            '基圆螺旋角
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Zv">
+            <summary>
+            '当量齿数 
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.zw">
+            <summary>
+            '计算跨测齿数用 z'的值
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.m_W1">
+            <summary>
+            计算公法长度时用到
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.m_W2">
+            <summary>
+            '计算公法长度时用到
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.k">
+            <summary>
+            '跨测齿数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.W">
+            <summary>
+            '公法线长度
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Sw">
+            <summary>
+            分度圆 端面 齿厚
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Sc">
+            <summary>
+            '固定玄齿厚
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Hcn">
+            <summary>
+             '固定玄齿高
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Ba">
+            <summary>
+            '齿顶螺旋角
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.m_temp">
+            <summary>
+            一个临时的中转值
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Dy1">
+            <summary>
+            '测量径向跳动用，量柱
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Ayt">
+            <summary>
+            '测量径向跳动用，量柱
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Syt">
+            <summary>
+            '测量径向跳动用，量柱
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.yyt">
+            <summary>
+            'ηyt
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.MD">
+            <summary>
+            '跨球（圆柱）尺寸
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Amt">
+            <summary>
+            '计算量柱（球）中心所在圆的压力角
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.m_bReCalDm">
+            <summary>
+            尺寸参数里---是否需要计算
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Dm">
+            <summary>
+            尺寸参数里用到的
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.gear.Er">
+            <summary>
+            重合度
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Jmin">
+            <summary>
+            齿厚上偏差
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Jmax">
+            <summary>
+            齿厚下偏差
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Dtw">
+            <summary>
+            '公差计算中实际用到的D值
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Mtw">
+            <summary>
+            '公差计算中实际用到的M值
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Btw">
+            <summary>
+            '公差计算中实际用到的B值
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Fpt">
+            <summary>
+             '单个齿距偏差的极限偏差带+_号±±±±
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Fpk">
+            <summary>
+            '齿距累积偏差的极限偏差带±号
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Fp">
+            <summary>
+            '齿距累积总偏差的公差Fp，不带±号
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Fa">
+            <summary>
+             '齿廓总偏差的公差Fa '还不道公差组是否为2.
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Fb">
+            <summary>
+            '螺旋线总偏差的公差Fβ '又叫接触线公差Fb 它是按有效齿宽得到的，所以应该是两个齿轮中的较小值。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Kt">
+            <summary>
+            '计算一齿切向综合公差Fiw (f'i)用到的中间值
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.fiw">
+            <summary>
+            '一齿切向综合公差Fiw (f'i)
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Fi">
+            <summary>
+            '切向综合总公差 Fi(F'i)
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.ffa">
+            <summary>
+            '齿廓形状公差ffa
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.fha">
+            <summary>
+            '齿廓倾斜极限偏差±
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Ffb">
+            <summary>
+            '螺旋线形状公差
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.sfHb">
+            <summary>
+            '螺旋线倾斜极限偏差±
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Fr">
+            <summary>
+            '径向跳动公差Fr
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.fiww">
+            <summary>
+            '一齿径向综合公差
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.Fwwi">
+            <summary>
+            '径向综合总公差F''i
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.fx">
+            <summary>
+            'X方向轴线平行度公差 fx
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.gear.fy">
+            <summary>
+            'Y方向轴线平行度公差 fy
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.gear.CalPfp">
+            <summary>
+             '计算齿根圆角半径
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.AllData.SwEventPtr">
+            <summary>
+            带事件的
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.AllData.iSWVersion">
+            <summary>
+            版本号：15－2007，16－2008，17－2009，18－2010，19－2011
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.AllData.iSWLanguage">
+            <summary>
+            SolidWorks语言（简体中文1--chinese-simplified）， （英文2-english）， （繁体中文3--chinese）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AllData.NewDoc(System.Boolean,System.Boolean,System.String)">
+            <summary>
+            在SolidWorks中新建一个零件，并返回
+            </summary>
+            <param name="bCheckRefPlaneChineseName">是否判断特征的名称是中文 如:前视基准面</param>
+            <param name="bAlertForm">模板不是中文时是否提醒</param>
+            <param name="templatePath">指定模板路径或空</param>
+        </member>
+        <member name="P:Interop.Office.Core.AllData.StartUpPath">
+            <summary>
+            程序的运行目录最后没有"\"
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.AllData.WYXPath">
+            <summary>
+            王逸心程序专用路径,StartUpPath + "\\WYX\\";
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.AllData.strHelpFile">
+            <summary>
+            帮助文件的路径
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.AllData.CurDrog">
+            <summary>
+            用于拖放过程中的图标
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AllData.setPartMaterial(SolidWorks.Interop.sldworks.IModelDoc2,SolidWorks.Interop.sldworks.PartDoc,System.String,System.String,System.String)">
+            <summary>
+            设置零件的材质,成功返回True（swModel和swPart二者指定其一）
+            </summary>
+            <param name="DBFullName">材料库路径，可以不指定</param>
+            <param name="cfgName">零件配置名称</param>
+            <param name="strValue">材质名称</param>
+        </member>
+        <member name="P:Interop.Office.Core.AllData.AllMaterialDBs">
+            <summary>
+            得到所有的材料文件全名称
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AllData.getDBMethod(Interop.Office.Core.dbnames)">
+            <summary>
+            得到新的数据库链接对象DBMethod
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.aDefine">
+            <summary>
+            齿轮函数处理类
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.i">
+            <summary>
+            传动比。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.A">
+            <summary>
+            '压力角,单位为角度
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.B">
+            <summary>
+            '螺旋角,单位为角度值
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Dir">
+            <summary>
+             '齿轮的旋向
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Type">
+            <summary>
+            '传动的类型 True 为外啮合,False为内啮合 '传动的类型,类型的改变用导到齿轮2类型的改变。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Hc">
+            <summary>
+            '齿顶高系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Pfp">
+            <summary>
+             '齿轮的齿根圆角半径.
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.C">
+            <summary>
+              '顶隙系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.M">
+            <summary>
+              '模数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Z1">
+            <summary>
+             '小齿轮数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Z2">
+            <summary>
+             '大齿轮数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.ia">
+            <summary>
+            '实际齿数比
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.iDe">
+            <summary>
+             '齿数比误差 ,百分号
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.B1">
+            <summary>
+            '小齿轮齿宽,单位为mm
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.B2">
+            <summary>
+              '大齿轮齿宽,单位为mm
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Bw">
+            <summary>
+            '有效的齿宽
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Fd1">
+            <summary>
+            '齿宽系数1
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Fd2">
+            <summary>
+            '齿宽系数2
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Awt">
+            <summary>
+             '节圆上的压力角
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Atw">
+            <summary>
+            '节圆上的端面压力角也叫啮合角
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.at">
+            <summary>
+            '端面分度圆啮合角  at'  'rad
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Bb">
+            <summary>
+            '基圆螺旋角
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Ag">
+            <summary>
+            '理论中心距
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.Aw">
+            <summary>
+            实际中心距
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Hf1">
+            <summary>
+             '齿轮1的齿根高
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Hf2">
+            <summary>
+            '齿轮2的齿根高
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Df1">
+            <summary>
+             '齿根圆直径
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Df2">
+            <summary>
+            '齿轮2齿根圆直径
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Ea">
+            <summary>
+            '端面重合度(G1.aat与顶圆直径有关，此值不对，则以后都不正确。)
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Eb">
+            <summary>
+            '纵向重合度
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Er">
+            <summary>
+             '总重合度
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Dw1">
+            <summary>
+            小齿轮节圆直径
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Dw2">
+            <summary>
+            '大齿轮节圆直径
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Da1">
+            <summary>
+            齿轮1的齿顶圆
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Da2">
+            <summary>
+            齿轮2的齿顶圆
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.bPlanet">
+            <summary>
+            是否是少差齿行星轮
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Ha1">
+            <summary>
+            '齿轮1的齿顶高
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Ha2">
+            <summary>
+             '齿轮2的齿顶高
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Dy">
+            <summary>
+             '齿顶高变动系数
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.m_Atw">
+            <summary>
+            这也是中心距
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.CalType">
+            <summary>
+            几何计算的类型
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.b_XorB">
+            <summary>
+            计算X还是计算B，为True时由B计算X，为False时由X计算B
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.b_WorU">
+            <summary>
+            齿宽值，用户自定为True ，计算得到为False
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Transmission.CalT">
+            <summary>
+            进行传动计算
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.X">
+            <summary>
+            总变位系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.X1">
+            <summary>
+             '小齿轮的变位系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.X2">
+            <summary>
+             '大齿轮的变位系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Xa1">
+            <summary>
+             '齿轮1 齿顶不过薄时的最小变位系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Xa2">
+            <summary>
+            '齿轮2 齿顶不过薄时的最小变位系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Xb1">
+            <summary>
+             '齿轮1 不根切时的最小变位系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Xb2">
+            <summary>
+             '齿轮2 不根切时的最小变位系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Xc1">
+            <summary>
+            '齿轮1 少量根切时的最小变位系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Xc2">
+            <summary>
+             '齿轮2  少量根切时的最小变位系数
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.xType">
+            <summary>
+            向导-变位系数的分配
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Transmission.CalX(System.Boolean)">
+            <summary>
+            根据向导选择的不同，对变位系数进行分配。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.LoadType">
+            <summary>
+            负载的计算类型
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Transmission.CalLoad">
+            <summary>
+             '功率的计算
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.P1">
+            <summary>
+            齿轮1的传递功率(载荷中的)
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.P2">
+            <summary>
+            齿轮2的传递的功率(载荷中的)
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.E">
+            <summary>
+            效率(使用系数)
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.N1">
+            <summary>
+            转速1
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.N2">
+            <summary>
+            转速2
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.Mk1">
+            <summary>
+            传递转矩1
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.Mk2">
+            <summary>
+            传递转矩2
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Ft">
+            <summary>
+             '切向力
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Fr">
+            <summary>
+            '径向力
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Fx">
+            <summary>
+            '轴向力
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Fn">
+            <summary>
+            '法向力
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.v">
+            <summary>
+            '圆周速度
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.nE">
+            <summary>
+             '极限转速
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.T1">
+            <summary>
+            '公差组1
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.T2">
+            <summary>
+            '公差组2
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.T3">
+            <summary>
+            '公差组3
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.Dd">
+            <summary>
+            齿厚上偏差
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.Du">
+            <summary>
+            齿厚下偏差
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.Cons">
+            <summary>
+            布置方式,1为对称布置
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.ConsFace">
+            <summary>
+            1 为软齿面
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.ConsMade">
+            <summary>
+            装配时是否做检验调整及对研跑和
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.Ka">
+            <summary>
+            工作系数
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.KaFlag">
+            <summary>
+            工作系数Ka的相关值_原动机和工作机的工作状态
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.KaValue">
+            <summary>
+            工作系数Ka的相关值_原动机和工作机的工作状态
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Ze">
+            <summary>
+            弹性系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.KH">
+            <summary>
+            载荷系数KH = KA KHv KHb KHa
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.KF">
+            <summary>
+            载荷系数KF = KA KHv KHb KHa
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Kfa">
+            <summary>
+             '计算Kfa齿间载荷分配系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Kfb">
+            <summary>
+            计算Kfb:齿向载荷分配系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Kha">
+            <summary>
+            '计算Kha齿间载荷分配系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Khb">
+            <summary>
+            计算Khbs:齿向载荷分配系数
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.Kv">
+            <summary>
+            '动载系数
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.kFv">
+            <summary>
+            动载系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Zb">
+            <summary>
+            '小轮单对啮合系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.ZD">
+            <summary>
+             '大轮单对啮合系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Zh">
+            <summary>
+             '节点安全系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Zbt">
+            <summary>
+            '螺旋角系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Zeps">
+            <summary>
+            '重合度系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Znt1">
+            <summary>
+            '接触强度的寿命系数。不太完整
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Transmission.Znt2">
+            <summary>
+             '接触强度的寿命系数。不太完
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.Yf1">
+            <summary>
+            齿型系数1
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Transmission.Yf2">
+            <summary>
+            齿型系数2
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Transmission.CalStrength">
+            <summary>
+            '强度分析
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.backMethod.ChangeTBToString(System.Data.DataTable)">
+            <summary>
+            把表转换成文本文件//不加密
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.backMethod.ChangeDGVToString(System.Windows.Forms.DataGridView)">
+            <summary>
+            把dgv转换成文本文件//不加密
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.backMethod.readDatFileToTB(System.String,System.Boolean@)">
+            <summary>
+            根据文件路径,把文本文件还原成表 ,以UTF8读取//有解密过程,(ref 是不是正版用户专用 false) 
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.backMethod.ReadTextFile(System.String,System.Text.Encoding,System.Boolean)">
+            <summary>
+            读取文本文件//编码方式//要解密吗//注意这里连换行符也一块读出来了，\r\n
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.backMethod.WriteTextFileCreate(System.String,System.String,System.Text.Encoding)">
+            <summary>
+            写入文本文件--创建
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.BeltT_XX.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.BeltT_XX.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.BeltT_XX.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.SetupNames">
+            <summary>
+            所有的配置名称都从这里头获取
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.cfgInfo">
+            <summary>
+            读写配置信息的类
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.checkCfgFileName(System.String)">
+            <summary>
+            检测cfgFileName 是文件名，还是全名称，并自动转换成全名称
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.getValue(System.String)">
+            <summary>
+            读取一个设置项(属性名称,配置文件全称或仅名称如"app.cfg","C:\\printer.cfg");
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.getValue(System.String,System.String)">
+            <summary>
+            读取一个设置项(属性名称,配置文件全称或仅名称如"app.cfg","C:\\printer.cfg");
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.getAllValue(System.String)">
+            <summary>
+            读取所有的属性,返回一个哈希表[属性名称--属性值](配置文件全称或仅名称如"app.cfg","C:\\printer.cfg");
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.setValue(System.String,System.String)">
+            <summary>
+            设置一个属性的新值
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.setValue(System.String,System.String,System.String)">
+            <summary>
+            设置一个属性的新值(属性名，属性值，配置文件全称或仅名称如"app.cfg","C:\\printer.cfg");
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.setAllValue(System.Collections.Hashtable,System.String)">
+            <summary>
+            设置多个属性的值,这个函数性能不高,也是一个一个的设
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.addValue(System.String,System.String)">
+            <summary>
+            向多个值中添加一个值，如“11,22,33”中添加“44”，变成“11,22,33,44”
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.addValue(System.String,System.String,System.String)">
+            <summary>
+            向多个值中添加一个值，如“11,22,33”中添加“44”，变成“11,22,33,44”
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.addOneValueToList(System.String,System.String)">
+            <summary>
+            向多个值中添加一个值，如“11,22,33”中添加“44”，变成“11,22,33,44”
+            </summary>
+            <param name="oldValue">长值</param>
+            <param name="newValue">要添加的值</param>
+            <returns>新的值</returns>
+        </member>
+        <member name="M:Interop.Office.Core.cfgInfo.removeValue(System.String,System.String)">
+            <summary>
+            清空一个值，保存值的名称
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.chzz.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.chzz.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.chzz.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.ConstMethod">
+            <summary>
+            把一些常量和常量有关的方法写到这个类里面
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ConstMethod.getKeyValue(System.Single)">
+            <summary>
+            原先的表[Key_Belt_GB1096A]，根据轴的直径，获取键槽的两个值b,t1
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.DBMethod">
+            <summary>
+            统一Sql和Access 操作的接口
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DBMethod.checkSql(System.String)">
+            <summary>
+            检查Sql语句
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DBMethod.GetAllTableNames">
+            <summary>
+            得到数据库中所有的表
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DBMethod.CreateTable(System.Data.DataTable,System.String)">
+            <summary>
+            根据Datatable在数据库中创建一个表
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DBMethod.ReadFile(System.String,System.String)">
+            <summary>
+            根据查询语句从数据库中读取一个文件，并保存到指定的目录下,返回是否成功
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DBMethod.WriteFile(System.String,System.String,System.String,System.Boolean)">
+            <summary>
+             把一个文件存入数据库，（文件路径，sql语句，文件参数名@file ,要加密吗 ),返回受影响的行数
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.Dbtool">
+            <summary>
+            Database.OperateDB 的摘要说明。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Dbtool.ConnectionString">
+            <summary>
+            数据库的连接字符串
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Dbtool.Connstr">
+            <summary>
+            接口
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Dbtool.TimeOut">
+            <summary>
+            连接超时最长时间
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Dbtool.cn">
+            <summary>
+            数据库的连接对象
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.FirstValue(System.String)">
+            <summary>
+            得到第一行第一列的值
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.DBTable(System.String)">
+            <summary>
+            执行Sql命令,返回一个数据表
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.DBReader(System.String)">
+            <summary>
+            执行Sql命令,返回数据流
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.DBDataSet(System.String)">
+            <summary>
+            执行Sql命令返回数据集
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.Excute(System.String)">
+            <summary>
+             执行Sql命令,返回受影响的行数
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.Excute(System.String[])">
+            <summary>
+            执行多个SQL语句,
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.GetAllTableNames">
+            <summary>
+             得到一个数据库中的所有表名称
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.CreateTable(System.Data.DataTable,System.String)">
+            <summary>
+            把一个DataTable写入到数据库中(新建),返回插入行数，并添加新的标识列【ID20】因为ID列有可能和其它表关联，这个ID20是一个无关联的自动编号列，如果原先有ID20这一列，会删去这一列。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.checkSql(System.String)">
+            <summary>
+            把Access的习惯改成Sql
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.ReadFile(System.String,System.String)">
+            <summary>
+            根据查询语句从数据库中读取一个文件，并保存到指定的目录下,返回是否成功
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.WriteFile(System.String,System.String,System.String,System.Boolean)">
+            <summary>
+            把一个文件存入数据库
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.ReadFileToString(System.String)">
+            <summary>
+            根据查询语句从数据库中读取一个文件流，并返回String
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.ReadFileToString(System.String,System.Text.Encoding)">
+            <summary>
+            根据查询语句从数据库中读取一个文件流，并返回String
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool.ReadFileToByte(System.String)">
+            <summary>
+            根据查询语句从数据库中读取一个文件流，并返回byte[],出错返回null
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.Dbtool1">
+            <summary>
+            Database.OperateDB 的摘要说明。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Dbtool1.ConnectionString">
+            <summary>
+            数据库的连接字符串
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Dbtool1.TimeOut">
+            <summary>
+            连接超时最长时间
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Dbtool1.cn">
+            <summary>
+            数据库的连接对象
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.Open">
+            <summary>
+            打开数据库操作
+            </summary>
+            <returns>成功返回空,否则返回错误信息</returns>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.Close">
+            <summary>
+            关闭数据库操作
+            </summary>
+            <returns>成功返回空,否则返回错误信息</returns>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.FirstValue(System.String)">
+            <summary>
+            得到第一行第一列的值
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.DBTable(System.String)">
+            <summary>
+            执行Sql命令,返回一个数据表
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.DBReader(System.String)">
+            <summary>
+            执行Sql命令,返回数据流
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.Excute(System.String)">
+            <summary>
+            执行Sql命令
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.Excute(System.String,System.String,System.String)">
+            <summary>
+            执行Sql命令//有Param，如@aaa,则ParamName=aaa;
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.Excute2(System.String)">
+            <summary>
+            返回受影响的行数
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool1.DBDataSet(System.String)">
+            <summary>
+            执行Sql命令返回数据集
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Dbtool2.ConnectionString">
+            <summary>
+            数据库的连接字符串
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.Dbtool2.TimeOut">
+            <summary>
+            连接超时最长时间
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool2.Open">
+            <summary>
+            打开数据库操作
+            </summary>
+            <returns>成功返回空,否则返回错误信息</returns>
+        </member>
+        <member name="M:Interop.Office.Core.Dbtool2.Close">
+            <summary>
+            关闭数据库操作
+            </summary>
+            <returns>成功返回空,否则返回错误信息</returns>
+        </member>
+        <member name="T:Interop.Office.Core.DbtoolSP">
+            <summary>
+            执行与存储过程有关的SQL命令
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.DbtoolSP.ConnectionString">
+            <summary>
+            数据库的连接字符串
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.DbtoolSP.TimeOut">
+            <summary>
+            连接超时最长时间
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.DbtoolSP._DataSource">
+            <summary>
+            获得数据库名称
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.DbtoolSP.cn">
+            <summary>
+            数据库的连接对象
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.Open">
+            <summary>
+            打开数据库操作
+            </summary>
+            <returns>成功返回空,否则返回错误信息</returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.Close">
+            <summary>
+            关闭数据库操作
+            </summary>
+            <returns>成功返回空,否则返回错误信息</returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.DBTable(System.String,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程,返回一个数据表
+            </summary>
+            <param name="myProc">存储过程名称</param>
+            <param name="myParam">存储过程参数</param>
+            <returns>数据集</returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.DBTable(System.String,System.Data.CommandType,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程或Sql命令,返回数据表
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.DBReader(System.String,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程,返回数据流
+            </summary>
+            <param name="myProc">存储过程名称</param>
+            <param name="myParam">存储过程参数</param>
+            <returns>数据流</returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.DBReader(System.String,System.Data.CommandType,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程或Sql命令,返回数据流
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.ReturnValue(System.String,System.Int32,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程,返回存储过程的返回值
+            </summary>
+            <param name="myProc">存储过程名称</param>
+            <param name="index">存储过程返回值的索引</param>
+            <param name="myParam">存储过程参数</param>
+            <returns>返回值</returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.ReturnValue(System.String,System.String,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程,返回存储过程的返回值
+            </summary>
+            <param name="myProc">存储过程名称</param>
+            <param name="index">存储过程返回值的名称</param>
+            <param name="myParam">存储过程参数</param>
+            <returns>返回值</returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.Excute(System.String,System.Data.CommandType,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行带占位符的Sql命令或存储过程,通过CommandType来判断
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.Excute(System.String,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程
+            </summary>
+            <param name="myProc"></param>
+            <param name="myParam"></param>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.DBDataSet(System.String,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程返回数据集
+            </summary>
+            <param name="myProc"></param>
+            <param name="myParam"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.DBDataSet(System.String,System.Data.CommandType,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程或Sql命令返回记录集
+            </summary>
+            <param name="SqlString"></param>
+            <param name="CmdType"></param>
+            <param name="myParam"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolSP.FirstValue(System.String,System.Boolean,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行存储过程或Sql命令,返回OBJECT类型的FirstValeu
+            </summary>
+            <param name="SqlString"></param>
+            <param name="IsProc"></param>
+            <param name="myParam"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Interop.Office.Core.DbtoolTrans">
+            <summary>
+            执行与事务有关的操作
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.DbtoolTrans.ConnectionString">
+            <summary>
+            数据库的连接字符串
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.DbtoolTrans.TimeOut">
+            <summary>
+            连接超时最长时间
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.DbtoolTrans._DataSource">
+            <summary>
+            获得数据库名称
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.DbtoolTrans.cn">
+            <summary>
+            数据库的连接对象
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.Open">
+            <summary>
+            打开数据库操作
+            </summary>
+            <returns>成功返回空,否则返回错误信息</returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.Close">
+            <summary>
+            关闭数据库操作
+            </summary>
+            <returns>成功返回空,否则返回错误信息</returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.BeginTran">
+            <summary>
+            开始事务
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.CommitTran">
+            <summary>
+            保存事务
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.RollbackTran">
+            <summary>
+            回滚事务
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.ExcuteTran(System.String)">
+            <summary>
+            执行带有事务的数据库操作
+            </summary>
+            <param name="sql"></param>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.ExcuteTran(System.String,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行带有事务的数据库操作
+            </summary>
+            <param name="sqlString"></param>
+            <param name="myParam"></param>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.DBTableTran(System.String)">
+            <summary>
+            执行带有事务的操作，且返回一个数据表
+            </summary>
+            <param name="sqlString"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.DBTableTran(System.String,System.Data.OleDb.OleDbParameter[])">
+            <summary>
+            执行带有事务的操作，且返回一个数据表
+            </summary>
+            <param name="sqlString"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Interop.Office.Core.DbtoolTrans.DBDataSetTran(System.String)">
+            <summary>
+            执行带有事务的操作, 且返回一个DataSet
+            </summary>
+            <param name="sqlString"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Interop.Office.Core.DisplayTable">
+            <summary>
+            执行Sql时，如果单行执行，Sql文件的扩展名为.txt , 如果一次执行多行，sql文件的扩展名为.sql
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.DisplayTable.bCanEditRow">
+            <summary>
+            是否允许添加删除行
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.DisplayTable.bCanEditColumn">
+            <summary>
+            是否允许添加删除列
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.DisplayTable.Title">
+            <summary>
+            可以指定窗口的标题,如果不指定,就显示表的名称
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.DisplayTable.htColumnNames">
+            <summary>
+            可以指定列的别名,如果别名为"",就不显示这一列, [列名称]---[显示的文本]
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.DisplayTable.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.DisplayTable.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.DisplayTable.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.KillExcelProcess(System.DateTime,Microsoft.Office.Interop.Excel.Application)">
+            <summary>
+            清理Excel进程(最好不要有打开的Excel,要是有清除不彻底)时间一定是创建Excel之前的时间,在这个时间之后的Excel进程被杀掉 
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.KillExcelProcess">
+            <summary>
+            清理Excel进程
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.NAR(System.Object)">
+            <summary>
+            //清除Excel对象//常规方法,不一定有效
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.GetExcelRowCount(System.String)">
+            <summary>
+            得到Excel文件的第一个表的行数
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.bHasSetUpExcel">
+            <summary>
+            判断是否安装了Excel
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.bHasSetUpExcel2">
+            <summary>
+            是否安装了Excel，要有读取注册表的权限，0：没安装，3:Excel2003,7：Excel2007 ,10:Excel2010
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:Interop.Office.Core.ExcelOperate.ExcelOpt">
+            <summary>
+            空
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.OpenOneExcelFile(System.String)">
+            <summary>
+            根据路径打开一个Excel文档
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.OpenAndNewBooks">
+            <summary>
+            打开Excel，并新建一个Excel工作薄，然后返回这个工作薄，出错会抛出异常。参数（是否保存，若保存指定保存全路径）
+            若需要Excel对象，根据工作薄得到(workbook.Application)
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.GetTableFromExcelBySQL2(System.String)">
+            <summary>
+            打开一个Excel文件,返回一个数据表,这里包含选择文件框,返回Excel的第一个表(调用下面的方法）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.GetTableFromExcelBySQL(System.String,System.Int32)">
+            <summary>
+            从Excel读取内容,返回一个表,采用Sql的方式操作,不一定得到所有的数据,一列数据格式不一样时出错
+            </summary>
+            <param name="ExcelFile">Excel文件的全名,Excel中第几个表,一般是第一个为:0</param>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.GetTableNamesFromExcelBySql(System.String)">
+            <summary>
+            得到一个Excel中所有的表名称
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.GetTableFromExcelbyCOM">
+            <summary>
+            打开一个Excel文件,返回一个数据表,这里包含选择文件框,返回Excel的第一个表,
+            列全是String类型,但正确,Com方式,Excel第一行为表的列名
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.GetTableFromExcelbyCOM(System.String,System.Int32)">
+            <summary>
+            tableindex从一开始,默认为一,没找到文件时返回null
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.GetTableFromExcelbyCOM(System.String,System.String)">
+            <summary>
+            根据Sheet的名称获取Sheet
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.SetExcelFromTableCOM(System.Data.DataTable,System.Int32,System.Int32,System.String,System.Collections.ArrayList)">
+            <summary>
+            由一个DataTable和Range的开始,和Excel文件的路径,和特殊的单元格的值列表 设置Excel数据
+            (输出数据表,Range开始行,Range开始列,Excel模版复制后的路径,特殊单元格的值列表)
+            </summary>
+            <param name="dt">数据表</param>
+            <param name="RangeStartCell">开始写数的行,默认为1</param>
+            <param name="RangeEndCell">开始写数的列,默认为1</param>
+            <param name="arSpecialCells" >单元格坐标ぺ数值(用来写入特殊的固定的单元格的值)</param>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.SetExcelFromTableCOM(System.Object[0:,0:],System.Int32,System.Int32,System.String,System.Collections.ArrayList)">
+            <summary>
+            由一个object[,]的数据 和Range的开始,和Excel文件的路径,和特殊的单元格的值列表 设置Excel数据
+            (输出数据表,Range开始行,Range开始列,Excel模版复制后的路径,特殊单元格的值列表)
+            </summary>
+            <param name="dt">数据表</param>
+            <param name="RangeStartCell">开始写数的行,默认为1</param>
+            <param name="RangeEndCell">开始写数的列,默认为1</param>
+            <param name="arSpecialCells" >单元格坐标ぺ数值(用来写入特殊的固定的单元格的值)</param>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.SetExcelFromTableCOM(System.Data.DataTable,System.String,System.Collections.ArrayList,System.Boolean,System.Boolean)">
+            <summary>
+            这一个把Table写入Excel从第一个格开始写，也可写待写单元格的内容
+            还有参数：是否显示Excel,最后是否退出Excel
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.SetExcelFromTableCOMBom2(System.Object[0:,0:],System.Int32,System.Int32,System.String,System.Collections.ArrayList)">
+            <summary>
+            由一个object[,]的数据 和Range的开始,和Excel文件的路径,和特殊的单元格的值列表 设置Excel数据
+            分页显示，每页35行
+            </summary>
+            <param name="dt">数据表</param>
+            <param name="RangeStartCell">开始写数的行,默认为1</param>
+            <param name="RangeEndCell">开始写数的列,默认为1</param>
+            <param name="arSpecialCells" >单元格坐标ぺ数值(用来写入特殊的固定的单元格的值)</param>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.SetExcelFromTableCOMBom3(System.Object[0:,0:],System.Int32,System.Int32,System.String,System.Collections.ArrayList)">
+            <summary>
+            由一个object[,]的数据 和Range的开始,和Excel文件的路径,和特殊的单元格的值列表 设置Excel数据
+            分页显示，每页35行
+            </summary>
+            <param name="dt">数据表</param>
+            <param name="RangeStartCell">开始写数的行,默认为1</param>
+            <param name="RangeEndCell">开始写数的列,默认为1</param>
+            <param name="arSpecialCells" >单元格坐标ぺ数值(用来写入特殊的固定的单元格的值)</param>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.OutExcelFromDGV(System.Windows.Forms.DataGridView)">
+            <summary>
+            把Datagridview中的数据导出到一个普通的Excel文件中
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.OutExcelFromDataTableVisible(System.Data.DataTable)">
+            <summary>
+            把Datagridview中的数据导出到一个普通的Excel文件中
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.OutExcelFromDataArray(System.Object[0:,0:])">
+            <summary>
+            把Datagridview中的数据导出到一个普通的Excel文件中
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.OutExcelFromDGVSelectedRow(System.Windows.Forms.DataGridView)">
+            <summary>
+            把Datagridview中选中的数据导出到一个普通的Excel文件中
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.OutExcelFromDGVSelectedRow(System.Windows.Forms.DataGridView,System.Int32)">
+            <summary>
+            把Datagridview中选中的数据导出到一个普通的Excel文件中,最后n列不显示，临时措施，不能通用
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.ChangeExcelCellValue(System.String)">
+            <summary>
+            赛迪专用，修改设计表单元格的值
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.AutoMergerExcelRows">
+            <summary>
+            获取当前Excel进程
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.ExcelOperate.OutExcelFromDataTableTemp(System.Data.DataTable,System.String)">
+            <summary>
+            把Datagridview中的数据导出到一个普通的Excel文件中
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmExpert_1.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmExpert_1.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.frmExpert_1.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmExpert_Belel.sei">
+            <summary>
+            轴交角（角度）    大于0小于180
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.ssei">
+            <summary>
+            轴交角(弧度）    大于0小于180
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmExpert_Belel.at">
+            <summary>
+            法向端面齿形角
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.sat">
+            <summary>
+            法向端面齿形角(弧度）
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.san">
+            <summary>
+            法向压力角（公式来自机械设计手册14-214页）
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmExpert_Belel.bb">
+            <summary>
+            大端螺旋角
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.sbb">
+            <summary>
+            大端螺旋角的弧度值
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmExpert_Belel.han">
+            <summary>
+            齿顶高系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.shan">
+            <summary>
+            齿顶高系数
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmExpert_Belel.cn">
+            <summary>
+            顶隙系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.scn">
+            <summary>
+            顶隙系数
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmExpert_Belel.ppn">
+            <summary>
+            齿根圆角系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.sppn">
+            <summary>
+            齿根圆角系数
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmExpert_Belel.Mt">
+            <summary>
+            模数  大端端面模数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.sMt">
+            <summary>
+            模数  大端端面模数
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "P:Interop.Office.Core.frmExpert_Belel.si" -->
+        <member name="F:Interop.Office.Core.frmExpert_Belel.Z1">
+            <summary>
+            小齿轮 Z1=16~30
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.sZ1">
+            <summary>
+            小齿轮 Z1=16~30
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmExpert_Belel.Z2">
+            <summary>
+            大齿轮齿数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.sZ2">
+            <summary>
+            大齿轮齿数
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmExpert_Belel.xn">
+            <summary>
+            变位系数的分配
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.sxn">
+            <summary>
+            变位系数的分配
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmExpert_Belel.x1n">
+            <summary>
+            齿轮1变位系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.sx1n">
+            <summary>
+            齿轮1变位系数
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmExpert_Belel.x2n">
+            <summary>
+            齿轮2变位系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.sx2n">
+            <summary>
+            齿轮2变位系数
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmExpert_Belel.ooor1">
+            <summary>
+            齿宽系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.sooor1">
+            <summary>
+            齿宽系数
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmExpert_Belel.GetPoints2(System.Boolean)">
+            <summary>
+            计算渐开线上所有的点
+            点的个数保存在数组的最后一位中,P[100, 0]
+            如果是斜齿轮,螺距pitchT保存在:P[100,1]
+            </summary>  
+        </member>
+        <member name="M:Interop.Office.Core.frmExpert_Belel.Inv(System.Double,System.Boolean)">
+            <summary>
+            渐开线函数'如果是角度,则必须转为弧度。; 返回值为展角
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmExpert_Belel.Inv(System.Double)">
+            <summary>
+            渐开线函数'如果是角度,则必须转为弧度。bAngle = false; 返回值为展角
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmExpert_Belel.GetArr(System.Double[],System.Double)">
+            <summary>
+            从数组Arr，返回一个比t略大的数。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmExpert_Belel.Ainv(System.Double)">
+            <summary>
+            '反求渐开线函数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.Xa1">
+            <summary>
+             '齿轮1 齿顶不过薄时的最小变位系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.Xa2">
+            <summary>
+            '齿轮2 齿顶不过薄时的最小变位系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.Xb1">
+            <summary>
+             '齿轮1 不根切时的最小变位系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.Xb2">
+            <summary>
+             '齿轮2 不根切时的最小变位系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.Xc1">
+            <summary>
+            '齿轮1 少量根切时的最小变位系数
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.frmExpert_Belel.Xc2">
+            <summary>
+             '齿轮2  少量根切时的最小变位系数
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmExpert_Belel.shengchengjisuan(System.Boolean)">
+            <summary>
+            生成计算，有30个参数，没有都用到
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmExpert_Belel.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmExpert_Belel.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.frmExpert_Belel.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmExpert_Worm.CheckStandardZ1">
+            <summary>
+            查询蜗杆基本尺寸表
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmExpert_Worm.JKXWormorGear(System.String)">
+            <summary>
+            生成蜗杆或齿轮
+            </summary>
+            <param name="type">蜗杆还是此轮</param>
+        </member>
+        <member name="M:Interop.Office.Core.frmExpert_Worm.GetPoints(System.Boolean)">
+            <summary>
+            计算渐开线上所有的点
+            点的个数保存在数组的最后一位中,P[100, 0]
+            如果是斜齿轮,螺距pitchT保存在:P[100,1]
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmExpert_Worm.Inv(System.Double)">
+            <summary>
+            渐开线函数'如果是角度,则必须转为弧度。bAngle = false;
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmExpert_Worm.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmExpert_Worm.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.frmExpert_Worm.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.frmGear.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.frmGear.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Interop.Office.Core.frmGear.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.SystemPathName">
+            <summary>
+            系统路径的名称
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.Desktop">
+            <summary>
+            Windows用户桌面路径
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.Fonts">
+            <summary>
+            Windows用户字体目录路径
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.Nethood">
+            <summary>
+            Windows用户网络邻居路径
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.Personal">
+            <summary>
+            Windows用户我的文档路径
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.Programs">
+            <summary>
+            Windows用户开始菜单程序路径
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.ProgramFiles">
+            <summary>
+            Windows用户程序目录
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.Recent">
+            <summary>
+            Windows用户存放用户最近访问文档快捷方式的目录路径
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.Sendto">
+            <summary>
+            Windows用户发送到目录路径
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.Startmenu">
+            <summary>
+            Windows用户开始菜单目录路径
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.Startup">
+            <summary>
+            Windows用户开始菜单启动项目录路径
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.Favorites">
+            <summary>
+            Windows用户收藏夹目录路径
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.History">
+            <summary>
+            Windows用户网页历史目录路径
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.Cookies">
+            <summary>
+            Windows用户Cookies目录路径
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.Cache">
+            <summary>
+            Windows用户Cache目录路径
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.Appdata">
+            <summary>
+            Windows用户应用程式数据目录路径
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.Printhood">
+            <summary>
+             Windows用户打印目录路径
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.System">
+            <summary>
+            系统目录
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SystemPathName.Templates">
+            <summary>
+            文档模板目录
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.GetSystemPath.getPath(Interop.Office.Core.SystemPathName)">
+            <summary>
+            得到系统路径,尽量不访问注册表
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OneSldPPt.name">
+            <summary>
+            属性名
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OneSldPPt.value">
+            <summary>
+            属性值
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OneSldPPt.solValue">
+            <summary>
+            解析值
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OneSldPPt.iType">
+            <summary>
+            数据类型：1 文字 2:日期 3数字 4是否
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.OnePPt">
+            <summary>
+            记录一个属性的信息,保存在Combox的Tag中
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.OnePPt.#ctor(System.Data.DataRow)">
+            <summary>
+            属性表中的一行，生成一个属性信息
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.AttValue">
+            <summary>
+            有可能是表达式 //如: "\"SW-Mass@@" + cfgname2 + "@" + swModel.GetTitle() + "\"";
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.AttSolveValue">
+            <summary>
+            实际值
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.pMDName">
+            <summary>
+            迈迪固定的属性名称
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.pName">
+            <summary>
+            用户可改的属性名称
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.pName2">
+            <summary>
+            别名,V5.0新添加的,但是还没有用到
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.DefaultVal">
+            <summary>
+            默认值,数量的默认值是1,材料的默认值是SW-Material,质量的默认值是SW-Mass
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.bSaveLastVal">
+            <summary>
+            是否记录上一个输入的值，并默认选中这个值
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.iType">
+            <summary>
+            数据类型
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.strRef">
+            <summary>
+            关联数据
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.bHas">
+            <summary>
+            是否原先就有这个属性
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.bHas2">
+            <summary>
+            是否原先就有这个属性的别名,如果有pName1这个属性, bHas2=false
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.OnePPt.bGeneralPPT">
+            <summary>
+            是自定义属性吗，默认否
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Program.Main">
+            <summary>
+            应用程序的主入口点。
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.iDecimals">
+            <summary>
+            标准件重量单位显示几位小数,默认3
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.bIsKg">
+            <summary>
+            重量单位默认是千克,默认true
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.bSetUniteIsKG">
+            <summary>
+            生成零件后设置文件的重量单位为KG,默认True
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.bIsBig5Encoding">
+            <summary>
+            是否使用繁体中文版本
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.bUsingType_Client">
+            <summary>
+            是否作为内网客户端使用
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.fntWeb_UsingType">
+            <summary>
+            作为单机版使用StandAlone，作为客户端使用Client，作为服务器使用Server
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.fntWeb_ServerIP">
+            <summary>
+            与服务器通信的Ip地址,这里必需写入注册表,和UpdateLAN.exe共享
+            </summary>
+        </member>
+        <member name="P:Interop.Office.Core.PSetUp.ExcelExtension">
+            <summary>
+            Excel文件的扩展名是多少,返回小写,没有设置之前返回“.xls”
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.Setting_Excel.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.Setting_Excel.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Interop.Office.Core.Setting_Excel.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.SetAtrByCompAndAtrName(SolidWorks.Interop.sldworks.Component2,System.String,System.Object)">
+            <summary>
+            根据Comp和属性名称得到零件的属性,并保存(返回是否成功）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.SetAtrByWeldmentFeature(SolidWorks.Interop.sldworks.Feature,System.String,System.Object)">
+            <summary>
+            设置切割清单特征的用户定义属性(不保存）(返回是否成功）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.SetAtrByModel(System.String,System.String,SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            设置零件的属性(当前配置)
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.SetAtrByModel(System.String,System.String,SolidWorks.Interop.sldworks.IModelDoc2)">
+            <summary>
+            设置零件的属性(自定义属性,齿轮专用)
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.SetAtrByModel(System.String,System.String,SolidWorks.Interop.sldworks.ModelDoc2,System.String)">
+            <summary>
+            设置零件的属性(配置为空时写入到自定义属性中)
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAtrByCompAndAtrName(System.String[],SolidWorks.Interop.sldworks.Component2)">
+            <summary>
+            根据Component得到零件的属性,一次可以得到多个属性
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAttValueByName(System.String,SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            根据ModelDoc得到零件的属性
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAttValueByName(System.String,SolidWorks.Interop.sldworks.ModelDoc2,System.String)">
+            <summary>
+            根据ModelDoc得到零件的属性
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAttValueByName(System.String,SolidWorks.Interop.sldworks.Feature)">
+            <summary>
+            根据weldmentFeature得到焊件的属性
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllCustomPropertyName(SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            得到当前配置下所有自定义属性的名称
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllCustomPropertyInfo(SolidWorks.Interop.sldworks.ModelDoc2,SolidWorks.Interop.sldworks.Component2,System.Boolean,System.Boolean,SolidWorks.Interop.sldworks.Feature)">
+            <summary>
+            得到一个Component的所有属性，未指定的值为"",是否包括配置属性默认是，是否包括全局的属性，如果包括全局属性在最后
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllCustomPropertyInfo(SolidWorks.Interop.sldworks.ModelDoc2,System.String,System.Collections.ArrayList,SolidWorks.Interop.sldworks.Feature)">
+            <summary>
+            得到一个配置下所有的属性名和值，如果是全局属性cfgname="",当前配置的属性cfgname="ActiveCfg" ，未指定的值为"" 
+            </summary>
+            <param name="swModel">swModel和weldmentFeature二者要指定其一</param>
+            <param name="cfgname">配置名称，读取焊件清单属性时不用指定</param>
+            <param name="arAttNames"></param>
+            <param name="weldmentFeature">焊件清单特征</param>
+            <returns></returns>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllCfgCustomPropertyInfo(SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            得到所有的配置，每个配置所有的属性信息
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.CreateDesignTableFromModelDoc(SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            自动根据每个配置的属性生成一个表，包括所有component和配置，所有的属性，但是不包括尺寸。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.CreateDesignTableFromPart(SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            自动根据每个配置的属性生成一个表，包括所有的属性，但是不包括尺寸
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.getGolbalVariablesValue(System.String,SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            获取方程式中全局变量的值，Golbal Variables
+            </summary>
+            <param name="VariableName">全局变量的名称</param>
+            <param name="Part">模型</param>
+            <returns>如果没有找到这个全局变量，返回-1</returns>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllDimensions(SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            得到一个零件下的所有尺寸信息。，并返回ArrayList组
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllDimensions(SolidWorks.Interop.sldworks.ModelDoc2,SolidWorks.Interop.sldworks.Feature)">
+            <summary>
+            得到一个特征下的所有尺寸信息,可以是特征，也可以是草图等等，如果Feature为空，自动获取当前选中的Feature
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetRefPlaneNames(SolidWorks.Interop.sldworks.IModelDoc2)">
+            <summary>
+            得到三个基准面的名称:1:前视基准面,2上视基准面,3右视基准面
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.SolidWorksMethod.swRefPlaneNames">
+            <summary>
+            前视，上视，右视，三个基准面的名称。
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SolidWorksMethod.swRefPlaneNames.FrontPlaneName">
+            <summary>
+            前视基准面
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SolidWorksMethod.swRefPlaneNames.TopPlaneName">
+            <summary>
+            上视基准面
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.SolidWorksMethod.swRefPlaneNames.RightPlaneName">
+            <summary>
+            右视基准面
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.getAxisName(SolidWorks.Interop.sldworks.IModelDoc2)">
+            <summary>
+            得到第一个基准轴的名称,如果没有基准轴，返回“”
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAssemblyTotalWeight(SolidWorks.Interop.sldworks.ModelDoc2,System.Boolean,System.String)">
+            <summary>
+            自动计算装配体的重量, 出错就返回0 WeightAttName=重量，单重等等。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetDwgSize(SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            得到图纸的大小
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetDwgSizeNameByDwgSizeID(System.Int32)">
+            <summary>
+            由swDwgPaperSizes_e得到图纸名称
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetTwoPointDistinct(System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            由两点坐标得到距离
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.CheckTwoLineCross(System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            知道两条线段的四个点(线一点一,线一点二,线二点一,线二点二)判断两条线段是否相交,
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.getPointInLineX(System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            知道一条线段上的两点，和第三点的Y坐标，求第三点的X坐标
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.getPointInLineY(System.Double,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            知道一条线段上的两点，和第三点的X坐标，求第三点的Y坐标
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetModelDoc2FromOpenDocs(System.String)">
+            <summary>
+            在SW打开的文件中，根据提供的路径返回，
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllOpenDocuments(System.Boolean)">
+            <summary>
+            得到所有打开的文件，可以设置 参数（是否只显示装配）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllOpenDocsPath(System.Boolean)">
+            <summary>
+            得到所有打开的文件，可以设置 参数（是否只显示装配）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllAssemblyDocs(SolidWorks.Interop.sldworks.AssemblyDoc)">
+            <summary>
+            得到一个装配体下所有的文件路径
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetAllAssemblyComponents(SolidWorks.Interop.sldworks.AssemblyDoc)">
+            <summary>
+            得到一个装配体下所有的零件Component
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetPartVolumn(SolidWorks.Interop.sldworks.ModelDoc2,System.Int32)">
+            <summary>
+            得到零件的体积
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetPartWeight(SolidWorks.Interop.sldworks.ModelDoc2,System.Int32)">
+            <summary>
+            得到质量， 小数位数
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetPartSurfaceArea(SolidWorks.Interop.sldworks.ModelDoc2,System.Int32)">
+            <summary>
+            得到零件的表面积
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetPartBoxXYZ_ref(SolidWorks.Interop.sldworks.ModelDoc2,SolidWorks.Interop.sldworks.Body2,System.Boolean,System.Double@)">
+            <summary>
+            得到弯管，工字钢的表示方式，没有返回""
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetPartDwgSize(SolidWorks.Interop.sldworks.ModelDoc2,SolidWorks.Interop.sldworks.Component2)">
+            <summary>
+            得到模型对应的工程图的纸张大小, 返回如A0，A1
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.bIsWeldment(SolidWorks.Interop.sldworks.IModelDoc2,SolidWorks.Interop.sldworks.Component2)">
+            <summary>
+            判断一下是不是焊件零件
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.getAllWeldmentFeature(SolidWorks.Interop.sldworks.ModelDoc2)">
+            <summary>
+            得到所有的切割清单特征
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod.GetDistanceByTwoVertex(System.Double[],System.Double[])">
+            <summary>
+            由两个点得到两点之间的距离,注意这里是三坐标（x,y,z)
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.SolidWorksMethod2">
+            <summary>
+            修改了材料,单重也变化
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod2.CheckConfigName(SolidWorks.Interop.sldworks.ModelDoc2,System.String)">
+            <summary>
+            验证配置名称是否正确
+            如果不正确，返回一个正确的,即在名称后加-2,-3,-4....
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod2.getFeatureByFeatureTypeName(SolidWorks.Interop.sldworks.ModelDoc2,System.String,System.Boolean)">
+            <summary>
+            根据特征类别名称，在特征树中得到一个特征( 特征类别名称，是否查找子特征）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.SolidWorksMethod2.getFeatureByFeatureTypeName_ref(SolidWorks.Interop.sldworks.Feature,System.String,System.Boolean)">
+            <summary>
+            根据特征类别名查找子特征
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.StringOperate">
+            <summary>
+            字符串处理函数，文本文件读写，Bype[]转换
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.WriteFileByByte(System.String,System.Byte[])">
+            <summary>
+            根据byte[]创建文件并写入指定的目录WritePath(包含文件名)下//false表示出错
+            </summary>
+            <param name="WritePath">要写入文件到什么地方//包含路径全名//文件名</param>
+            <param name="byt">byte[];一个序列化的文件//要满的,即没有空的内容</param>
+            <returns>是否成功</returns>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.WriteFileByByte(System.String,System.Byte[],System.Int32)">
+            <summary>
+            根据byte[]创建文件并写入指定的目录WritePath(包含文件名)下//false表示出错
+            这个方法可以指定byte[]数组的写入长度,如byt.length=1000,但是我要写入前800
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.GetByteByFilePath(System.String)">
+            <summary>
+            由文件全名序列化后得到byte[]//出错时返回1长度的byte,//文件不存在返回null,文件正在使用时无法读取
+            </summary>
+            <param name="fileFullName">文件的路径和名称</param>
+            <returns>序列化后得到的byte</returns>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.ConvertCode(System.String,System.Text.Encoding,System.Text.Encoding)">
+            <summary>
+            把一个字符串编码为另一种编码的字符串
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.ReadTextFile(System.String)">
+            <summary>
+            读取文本文件
+            </summary>
+            <param name="FullPath"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.ReadTextFile(System.String,System.Text.Encoding)">
+            <summary>
+            指定编码读取文件
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.ReadTextFileByByte(System.String)">
+            <summary>
+            读取文本文件,注意是读取的byte然后转换的,Encoding.UTF8，注意这里连换行符也一块读出来了，\r\n
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.ReadTextFile(System.String,System.Text.Encoding,System.Boolean)">
+            <summary>
+            指定编码读取文件的每一行，返回一个数组，第三个参数是否包括空行，编码默认是GB2312,可以是null
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.WriteTextFileCreate(System.String,System.String)">
+            <summary>
+            写入文本文件--创建//不需要编码信息
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.WriteTextFileCreate(System.String,System.String,System.Text.Encoding)">
+            <summary>
+            写入文本文件--创建
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.WriteTextFileAppend(System.String,System.String)">
+            <summary>
+            写入文本文件--追加
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.GetStringLength(System.String)">
+            <summary>
+            得到一个字符串的绝对长度,中文的长度为2
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.BackStringByDouble(System.Double,System.Int32)">
+            <summary>
+            字符串处理，保留多少位小数//关键是不足这些位数的化后面要加0
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.BackStringByDouble(System.String,System.Int32)">
+            <summary>
+            返回小数位数为count 的字符串,等同于Math.Round()
+            </summary>
+            <param name="doubleValue">要处理的数</param>
+            <param name="count">小数位数</param>
+            <returns>处理完的字符串</returns>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.CutUnicodeString(System.String,System.Int32)">
+            <summary>
+            处理文本，把一个长字符串剪切成固定长度的数组
+            其中，中文占两个长度，英文占一个长度
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.RemoveNumber(System.String)">
+            <summary>
+            正则表达式 去掉字符串中的数字
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.RemoveNotNumber(System.String)">
+            <summary>
+            正则表达式 去掉字符串中的非数字
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.RemoveNotGB2312(System.String)">
+            <summary>
+            正则表达式 去掉所有非汉字，只返回汉字
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.RemoveGB2312(System.String)">
+            <summary>
+            正则表达式 去掉所有汉字
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.bIsChinese(System.String)">
+            <summary>
+            正则表达式判断是否为中文
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.bHasChinese(System.String)">
+            <summary>
+            判断是否为ASCII编码为255以下的字符组成的
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.isInterger(System.String)">
+            <summary>
+            判断是不是全数字
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.IsIP(System.String)">
+            <summary>
+            判断是否为ip
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.StringOperate.LOCALE_SYSTEM_DEFAULT">
+            <summary>
+            中文字符工具类
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.ToSimplified(System.String)">
+            <summary>
+            将字符转换成简体中文
+            </summary>
+            <param name="s">输入要转换的字符串</param>
+            <returns>转换完成后的字符串</returns>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.ToTraditional(System.String)">
+            <summary>
+            讲字符转换为繁体中文
+            </summary>
+            <param name="s">输入要转换的字符串</param>
+            <returns>转换完成后的字符串</returns>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.Big5Convert(System.String)">
+            <summary>
+            将字符串转换成繁体，（带判断是否需要转换）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.Big5Convert(System.Windows.Forms.Form)">
+            <summary>
+            如果设置为繁体，把窗体的所有字符转换为繁体
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.Big5Convert(System.Windows.Forms.Control)">
+            <summary>
+            如果设置为繁体，把控件的所有字体转换为繁体,如果Tag为NoReEncoding就不转换，如果Tag为CanReEncoding就一定要转换，除此之外只转换Label等基本控件
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.Big5Convert(System.Data.DataTable)">
+            <summary>
+            把一个表格转换为繁体
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.Big5Convert(System.Windows.Forms.DataGridView)">
+            <summary>
+            把一个表格转换为繁体
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.Big5Convert(System.Windows.Forms.TreeNodeCollection)">
+            <summary>
+            把一个表格转换为繁体
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.CEN(System.String)">
+            <summary>
+            把中文特征名称转换成英文，或转换成繁体中文。
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.Alert(System.String)">
+            <summary>
+            提示框，如果是繁体自动转换
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.AlertDebug(System.String)">
+            <summary>
+            迈迪专用错误提示，如果是迈迪自己就会提示，否则不提示，写入到日志中
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StringOperate.Alert(System.String,System.String,System.Windows.Forms.MessageBoxButtons,System.Windows.Forms.MessageBoxIcon)">
+            <summary>
+            提示框，如果是繁体自动转换
+            </summary>
+        </member>
+        <member name="F:Interop.Office.Core.StrReplace.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.StrReplace.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Interop.Office.Core.StrReplace.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.WinFormMethod">
+            <summary>
+            有关控件操作的函数
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.RemoveListItemBetweenListBox(System.Windows.Forms.ListBox,System.Windows.Forms.ListBox)">
+            <summary>
+            在两个ListBox之间移动选项,即把一个ListBox中的选中项移动到另一个ListBox中
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.RemoveListItemBetweenListBox(System.Windows.Forms.ListBox,System.Windows.Forms.ListBox,System.Boolean,System.Boolean)">
+            <summary>
+            把ListA中的选中项复制一份,移动到ListB中,移动前先检查ListB中是否有了,
+            如果CanRepeat=true,则可以重复
+            如果DeleteRemoveItem=true,则移动后删除ListA中的项
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.AddListItem(System.Windows.Forms.ListBox,System.String,System.Boolean,System.Int32)">
+            <summary>
+            向listA中添加一个新项( CanRepeat =是否允许重复, index=插入的位置,-1标识最后)
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.DeleteListItem(System.Windows.Forms.ListBox,System.String)">
+            <summary>
+            删除一项
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.RemoveListItemUpOrDown(System.Windows.Forms.ListBox,System.Boolean)">
+            <summary>
+            移动ListItem项往上或者往下
+            </summary>
+            <param name="isRemoveUP"></param>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.RemoveListItemUpOrDown2(System.Windows.Forms.ListBox,System.Boolean)">
+            <summary>
+            移动ListItem项往上或者往下//并返回当前选中的Index
+            </summary>
+            <param name="isRemoveUP"></param>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.getNearValue(System.Windows.Forms.ComboBox,System.String)">
+            <summary>
+            得到Combox中和strVal最接近的index,这里如果转换不成数字就有可能出错
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.getDGVDataAreaWidth(System.Windows.Forms.DataGridView,System.Int32,System.Int32)">
+            <summary>
+            获取datagridveiw数据区域的尺寸宽度，就是所有的列的宽度之和( dgv, 最大宽度-为0时不管，最小宽度-为0时不管）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.getDGVDataAreaHeight(System.Windows.Forms.DataGridView,System.Int32,System.Int32)">
+            <summary>
+            获取datagridveiw数据区域的尺寸高度，就是行数* 行高( dgv, 最大高度-为0时不管，最小高度-为0时不管）
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.WinFormMethod.SetDGVCellValue(System.Windows.Forms.DataGridViewCell,System.Object)">
+            <summary>
+            设置一个DataGridViewCell的值，自动转换类型,若成功，返回“”，否则返回错误提示
+            </summary>
+            <param name="cell"></param>
+            <param name="objValue"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Interop.Office.Core.AddToolTips">
+            <summary>
+            向任何控件添加一个ToolTip
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.AddToolTips.AddToolTipTxt(System.Windows.Forms.Control,System.String)">
+            <summary>
+            为控件添加ToolTipText
+            </summary>
+        </member>
+        <member name="T:Interop.Office.Core.TreeViewMethod">
+            <summary>
+            操作树视图的类
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.TreeViewMethod.getAllTreeNodes(System.Windows.Forms.TreeView)">
+            <summary>
+            得到一个树的所有节点，不分级别
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.TreeViewMethod.getAllTreeNodes(System.Windows.Forms.TreeNode)">
+            <summary>
+            得到一个树的所有节点，不分级别,tn自身也加进去
+            </summary>
+        </member>
+        <member name="M:Interop.Office.Core.TreeViewMethod.GetNodeByName(System.String,System.Windows.Forms.TreeView)">
+            <summary>
+            得到一个树的指定名称的节点,没有返回null
+            </summary>
+        </member>
+        <member name="M:SprocketDesign.SQLite.SQLiteHelper.#ctor(System.String)">
+            <summary>
+            构造方法
+            </summary>
+            <param name="connString"></param>
+        </member>
+        <member name="M:WormGearAndWormDesign.ExcelHelp.SetValue(System.Data.DataTable)">
+            <summary>
+            设置单元格内容
+            </summary>
+        </member>
+        <member name="M:WormGearAndWormDesign.ExcelHelp.ExportToExcel(System.String)">
+            <summary>
+            写入到Excel文档
+            </summary>
+        </member>
+        <member name="F:WormGearAndWormDesign.Form1.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:WormGearAndWormDesign.Form1.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:WormGearAndWormDesign.Form1.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要修改
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="T:WormGearAndWormDesign.Properties.Resources">
+            <summary>
+              一个强类型的资源类，用于查找本地化的字符串等。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.ResourceManager">
+            <summary>
+              返回此类使用的缓存的 ResourceManager 实例。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Culture">
+            <summary>
+              重写当前线程的 CurrentUICulture 属性，对
+              使用此强类型资源类的所有资源查找执行重写。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.A012">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.A013">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.A04">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.A05">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.add">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.app">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.asmbly2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.backup_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.banjinxialiao">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.banjinxialiao1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Bend">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.bg">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.BoltCheck">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.boltD">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.boltP">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.boltT">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.boltV">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Calcurate">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.caolun">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.chain1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.chain2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.CharDot">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.CharMore">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.chongmu">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Computer">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Copy">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Cursor8">
+            <summary>
+              查找 System.Byte[] 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.database_form_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.database_table_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.delete">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.delete2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.diankg3">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.dianKongGui">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Dimension">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.down_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.editmenu">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Excel">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Favorite">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.file">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.file_add">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.flance2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.folder_edit">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.folder_open">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.fx">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.g1_1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.g1_2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.g1_3">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.g1_4">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.g1_5left">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.g1_5Right">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.g2_1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.g2_2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.g2_3">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.g2_4">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.g3_1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.gangjiegou">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.gear1">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.gear2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.gear4">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.guanjian">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.help">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.help_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.HuaDong">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.ie">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Info">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Information">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Key">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.LAN">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.left">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.loading">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Lock">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.lock_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.LSF">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.md16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.mdico">
+            <summary>
+              查找类似于 (图标) 的 System.Drawing.Icon 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.mdpkgs">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.MDSolid">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.NoteAdd">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.ok_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.PartNumber">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Paste">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.PDFfile">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.PEN04">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.picExternal">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.PicExternalD">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.picExternalM">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.picInteralM">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.picInternal">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.picInternalD">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.picLoad">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.PictureBox3">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.picWidth">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.pipe">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.PlayerStop">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Printer">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.property">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.redo1_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.refresh">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.refresh_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.registration1_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.restore_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.reverse_direction">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.right_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.save_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.search">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Search_Add">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Search_Del">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Search2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.settings">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.settings2_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.sigang">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.sketch">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.sldcancel">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.slddrw">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.sldhole">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.sldok">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.sldPart">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.sldStalk">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.sort">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Standed">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.symbol">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.text">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.tooltip">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.tree">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Tulun">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.undo1_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.up_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.up_16x161">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.update">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.user3_16x16">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.Video_32px">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.WebDownload">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.xingwei2">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="P:WormGearAndWormDesign.Properties.Resources.zuhejj">
+            <summary>
+              查找 System.Drawing.Bitmap 类型的本地化资源。
+            </summary>
+        </member>
+        <member name="T:DbClient">
+            <summary>
+            Database.OperateDB 的摘要说明。
+            </summary>
+        </member>
+        <member name="P:DbClient.Connstr">
+            <summary>
+            接口
+            </summary>
+        </member>
+        <member name="M:DbClient.FirstValue(System.String)">
+            <summary>
+            得到第一行第一列的值,返回String结果
+            </summary>
+        </member>
+        <member name="M:DbClient.Excute(System.String)">
+            <summary>
+             执行Sql命令,返回受影响的行数
+            </summary>
+        </member>
+        <member name="M:DbClient.Excute(System.String[])">
+            <summary>
+            执行多个SQL语句,,成功返回“”，出错返回ErrorServer:
+            </summary>
+        </member>
+        <member name="M:DbClient.DBTable(System.String)">
+            <summary>
+            执行Sql命令,返回一个数据表
+            </summary>
+        </member>
+        <member name="M:DbClient.GetAllTableNames">
+            <summary>
+             得到一个数据库中的所有表名称
+            </summary>
+        </member>
+        <member name="M:DbClient.CreateTable(System.Data.DataTable,System.String)">
+            <summary>
+            把一个DataTable写入到数据库中(新建),返回插入行数，并添加新的标识列【ID20】因为ID列有可能和其它表关联，这个ID20是一个无关联的自动编号列，如果原先有ID20这一列，会删去这一列。
+            </summary>
+        </member>
+        <member name="M:DbClient.checkSql(System.String)">
+            <summary>
+            把Access的习惯改成Sql
+            </summary>
+        </member>
+        <member name="M:DbClient.ReadFile(System.String,System.String)">
+            <summary>
+            根据查询语句从数据库中读取一个文件，并保存到指定的目录下,返回是否成功
+            </summary>
+        </member>
+        <member name="M:DbClient.WriteFile(System.String,System.String,System.String,System.Boolean)">
+            <summary>
+            把一个文件存入数据库，（文件路径，sql语句，文件参数名@file ,要加密吗 ),返回受影响的行数
+            </summary>
+        </member>
+        <member name="M:DbClient.ReadFileToImage(System.String)">
+            <summary>
+            根据查询语句从数据库中读取一个文件流，并返回一张图片,出错返回null
+            </summary>
+        </member>
+        <member name="M:DbClient.ReadFileToImageArr(System.String)">
+            <summary>
+            根据查询语句从数据库中读取多个文件流，并返回一个图片数组,出错返回null
+            </summary>
+        </member>
+        <member name="M:DbClient.ReadFileToString(System.String)">
+            <summary>
+            根据查询语句从数据库中读取一个文件流，并返回String
+            </summary>
+        </member>
+        <member name="M:DbClient.ReadFileToString(System.String,System.Text.Encoding)">
+            <summary>
+            根据查询语句从数据库中读取一个文件流，并返回String
+            </summary>
+        </member>
+        <member name="M:DbClient.ReadFileToByte(System.String)">
+            <summary>
+            根据查询语句从数据库中读取一个文件流，并返回byte[],出错返回null
+            </summary>
+        </member>
+        <member name="M:DbClient.ReduceByteArr(System.Byte[])">
+            <summary>
+            文件的解密
+            </summary>
+        </member>
+        <member name="T:SerializeInfo">
+            <summary>
+            类型转换类
+            </summary>
+        </member>
+        <member name="M:SerializeInfo.Serialize(System.Object)">
+            <summary>
+            序列化object对象//无法序列SqlParameter[]
+            </summary>
+            <param name="ds">object类型的参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:SerializeInfo.deSerialize(System.Byte[])">
+            <summary>
+            反序列化为object
+            </summary>
+            <param name="binaryData">byte[]参数</param>
+            <returns></returns>
+        </member>
+        <member name="M:SerializeInfo.ArrayListToArr(System.Collections.ArrayList)">
+            <summary>
+            把ArrayList类型的参数转换成string[]
+            </summary>
+        </member>
+        <member name="M:SerializeInfo.ArrayListToObj(System.Collections.ArrayList)">
+            <summary>
+            把ArrayList类型的参数转换成string[]
+            </summary>
+        </member>
+        <member name="M:SerializeInfo.ChangeType(System.Type)">
+            <summary>
+            类型转换,返回"varchar (100)","int",等等字符串
+            </summary>
+        </member>
+        <member name="M:SerializeInfo.ToType(System.Type,System.String)">
+            <summary>
+            将字符串转换成指定类型的Object数据
+            </summary>
+            <param name="type"></param>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="F:ShowMyDialogOK.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:ShowMyDialogOK.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:ShowMyDialogOK.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+        <member name="M:TransAccess.#ctor(System.String,System.Int32)">
+            <summary>
+            ErrorClient:客户端错误提示
+            ErrorServer:服务器端错误提示
+            </summary>
+        </member>
+        <member name="M:TransAccess.TCPString(System.String)">
+            <summary>
+            去String命令，返回string处理结果，没有具体缓存长度 (如果出错，以 ErrorServer：ErrorClient:  开头)
+            </summary>
+        </member>
+        <member name="M:TransAccess.TCPDataTable(System.String,System.String@)">
+            <summary>
+            读取一个数据表,出错返回ErrorClient：或ErrorServer：
+            </summary>
+        </member>
+        <member name="M:TransAccess.TCPUpTable(System.String,System.Byte[])">
+            <summary>
+            插入一个表，返回插入的行数，出错返回ErrorClient：或ErrorServer：
+            </summary>
+        </member>
+        <member name="F:Z_chilun.lmbb">
+            <summary>
+            螺旋线计值范围lmbb
+            </summary>
+        </member>
+        <member name="F:Z_chilun.lma">
+            <summary>
+            齿廓计值范围lma
+            </summary>
+        </member>
+        <member name="F:Z_chilun.components">
+            <summary>
+            必需的设计器变量。
+            </summary>
+        </member>
+        <member name="M:Z_chilun.Dispose(System.Boolean)">
+            <summary>
+            清理所有正在使用的资源。
+            </summary>
+            <param name="disposing">如果应释放托管资源，为 true；否则为 false。</param>
+        </member>
+        <member name="M:Z_chilun.InitializeComponent">
+            <summary>
+            设计器支持所需的方法 - 不要
+            使用代码编辑器修改此方法的内容。
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,140 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>无标题文档</title>
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+<!--
+ //***********************禁止右键***************************
+if (window.Event) 
+  document.captureEvents(Event.MOUSEUP); 
+ 
+function nocontextmenu() 
+{
+ event.cancelBubble = true
+ event.returnValue = false;
+ 
+ return false;
+}
+ 
+function norightclick(e) 
+{
+ if (window.Event) 
+ {
+  if (e.which == 2 || e.which == 3)
+   return false;
+ }
+ else
+  if (event.button == 2 || event.button == 3)
+  {
+   event.cancelBubble = true
+   event.returnValue = false;
+   return false;
+  }
+}
+
+//************************禁止选择***************************
+function noSelect()
+{
+	return false;
+}
+
+//************************禁止拖曳***************************
+function noDragstart()
+{
+  return false;	
+}
+
+//************************清空剪切板*************************
+ function keyDown()
+ {
+  var iekey = event.keyCode; 
+  //alert(iekey);
+    if(iekey == 42)
+    {
+    //window.clipboardData.setData('img','')
+	
+	window.clipboardData.clearData();
+    }
+ } 
+
+//-->
+</script>
+
+<!--禁止网页另存为-->
+<link href="css/web.css" rel="stylesheet" type="text/css">
+<NOSCRIPT><IFRAME SRC="/include/security/1.htm" HEIGHT="0" WIDTH="0"></IFRAME></NOSCRIPT>
+
+<SCRIPT language=JavaScript>
+  document.oncontextmenu = nocontextmenu;
+  document.onmousedown = norightclick;
+  document.ondragstart = noDragstart;
+  document.onselectstart = noSelect;
+  document.onselect = document.selection.empty();
+  document.onkeydown = keyDown;
+</SCRIPT>
+</head>
+
+<body>
+<table width="100%" border="1" align="center" cellpadding="0" cellspacing="2">
+  <tr>
+    <td colspan="2" class="Title"> 单侧停歇摆动机构</td>
+  </tr>
+  <tr>
+    <td width="26%"><p align="center" class="thth">机构示意图 </p></td>
+    <td width="68%"><p align="center" class="thth">机构特性简介 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td  align="middle"><p>利用连杆曲线作单侧停歇 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/611.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动曲柄AO通过四杆机构OABC的连杆AB带动II级杆组MDF，使从动件EF作间歇摆动。连杆AB上 M点的曲线轨迹m类似椭圆形，选DM的长度近似等于M点处曲线段的曲率半径，D点相当于曲率中心，以期M点在此段曲线处近似实现杆EF停歇不动，停歇时间约等于曲柄转过半周的时间。 <br>
+        　　 各杆长与其夹角可按下列数据比例选取：AB=BC=BM=1，AO=0.305，CO=0.76，φ=114°，MD＝0.66，FD=0.8，CF=1.66，OF=2.36。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td  align="middle"><p>利用连杆曲线直线段作单侧停歇 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/612.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动曲柄AB通过四杆机构ABCD的连杆BC 上的M点带动II级杆组MFE，使从动件EF绕E点作间歇摆动。连杆上M点的轨迹m中M 1 M 2 段近似直线，在此位置上连杆带动滑块1在从动件2上移动，使从动导杆2近似停歇，实现单侧停歇摆动。 </p></td>
+  </tr>
+  <tr>
+    <td valign="top" width="26%"><table cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+        <tr>
+          <td  align="middle"><p>利用沟槽作单侧停歇 </p></td>
+        </tr>
+        <tr>
+          <td></td>
+        </tr>
+      </table>
+        <p><img src="images/613.gif"></p></td>
+    <td valign="top" width="68%"><p><br>
+        　　 主动曲柄l通过连杆2使摇杆3摆动，摇杆3上的滚子A 在A 1 A 2 圆弧范围内摆动，从而带动从动摆杆4摆动。但当滚子A由摆杆4的沟槽中脱离时，摇杆3上的锁止弧B锁止摆杆4，使摆杆4停歇不动、该机构停歇只在一侧，即当滚子A脱离摆杆4的沟槽时停歇，当滚子进入摆杆4槽内时，将继续带动摇杆4作摆动。 </p></td>
+  </tr>
+</table>
+</body>
+</html>
