@@ -23,6 +23,11 @@ namespace MaidouBao.Plugin
         /// <summary>
         /// 表格工具大全，分类标识 2090_2219_2224。
         /// </summary>
-        TableTools = 4
+        TableTools = 4,
+
+        /// <summary>
+        /// 机械设计手册，分类标识 2090_2219_2225。
+        /// </summary>
+        ManualTools = 5
     }
 }

@@ -97,6 +97,22 @@
                 </DockPanel>
             </TabItem>
 
+            <!-- 机械设计手册 -->
+            <TabItem Header="机械设计手册">
+                <DockPanel>
+                    <Border DockPanel.Dock="Top" Background="#FFF4F8FC" Padding="14,10" BorderBrush="#FFE2E8EF" BorderThickness="0,0,0,1">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="经典机械设计手册工具，来源于迈迪设计宝 v1 版本。涵盖传动、轴系、公差、连接等设计计算。" Foreground="#FF5C6E7E" VerticalAlignment="Center"/>
+                            <Button Content="刷新" Click="BtnRefreshManualTools_Click" Padding="12,4" Margin="16,0,0,0"/>
+                            <TextBlock x:Name="manualToolsHint" Text="" VerticalAlignment="Center" FontSize="11" Foreground="#FF888888" Margin="16,0,0,0"/>
+                        </StackPanel>
+                    </Border>
+                    <ScrollViewer VerticalScrollBarVisibility="Auto">
+                        <WrapPanel x:Name="manualToolsPanel" Margin="10"/>
+                    </ScrollViewer>
+                </DockPanel>
+            </TabItem>
+
             <!-- 大国工匠 -->
             <TabItem Header="大国工匠">
                 <Grid>

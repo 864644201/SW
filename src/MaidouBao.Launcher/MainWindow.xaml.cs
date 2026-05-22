@@ -26,6 +26,8 @@ namespace MaidouBao.Launcher
         private List<CustomToolEntry> _customTools;
         private string _customToolsFile;
         private Dictionary<string, string> _toolsNameMap;
+        private string _manualDir;
+        private List<CustomToolEntry> _manualTools;
 
         public MainWindow()
         {
@@ -44,6 +46,7 @@ namespace MaidouBao.Launcher
             _sortOrderFile = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "tools_sort.txt");
             _sortOrder = new List<string>();
             _customToolsFile = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "custom_tools.txt");
+            _manualDir = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "2008");
             if (!Directory.Exists(_dataDir)) Directory.CreateDirectory(_dataDir);
             if (!Directory.Exists(_toolsDir)) Directory.CreateDirectory(_toolsDir);
             if (!Directory.Exists(_tablesDir)) Directory.CreateDirectory(_tablesDir);
@@ -55,6 +58,7 @@ namespace MaidouBao.Launcher
             LoadCustomTools();
             LoadTableTools();
             LoadBooks();
+            LoadManualTools();
         }
 
         private void LoadAllPlugins()
@@ -284,6 +288,20 @@ namespace MaidouBao.Launcher
                     groups[cat].Add(plugin);
                 }
 
+                // 搜索机械设计手册
+                var matchedManualTools = new List<CustomToolEntry>();
+                if (_manualTools != null)
+                {
+                    foreach (var entry in _manualTools)
+                    {
+                        if ((entry.Name?.IndexOf(keyword, StringComparison.OrdinalIgnoreCase) ?? -1) >= 0)
+                        {
+                            matchedManualTools.Add(entry);
+                            visibleCount++;
+                        }
+                    }
+                }
+
                 // 搜索大国工匠
                 var matchedCustomTools = new List<CustomToolEntry>();
                 if (_customTools != null)
@@ -316,6 +334,31 @@ namespace MaidouBao.Launcher
                             visibleCount++;
                         }
                     }
+                }
+
+                // 机械设计手册分组
+                if (matchedManualTools.Count > 0)
+                {
+                    searchResultPanel.Children.Add(new TextBlock
+                    {
+                        Text = $"机械设计手册（{matchedManualTools.Count}）",
+                        FontSize = 15,
+                        FontWeight = FontWeights.Bold,
+                        Foreground = new SolidColorBrush(Color.FromRgb(45, 95, 138)),
+                        Margin = new Thickness(4, 12, 4, 6)
+                    });
+                    searchResultPanel.Children.Add(new Border
+                    {
+                        Height = 1,
+                        Background = new SolidColorBrush(Color.FromRgb(220, 225, 230)),
+                        Margin = new Thickness(4, 0, 4, 4)
+                    });
+                    var manualWrap = new WrapPanel { Margin = new Thickness(2, 0, 2, 8) };
+                    foreach (var entry in matchedManualTools)
+                    {
+                        manualWrap.Children.Add(CreateManualToolButton(entry));
+                    }
+                    searchResultPanel.Children.Add(manualWrap);
                 }
 
                 // 按固定顺序渲染分组
@@ -399,8 +442,9 @@ namespace MaidouBao.Launcher
                     searchResultPanel.Children.Add(booksWrap);
                 }
 
-                moduleSummaryText.Text = $"自研模块 {_allModuleEntries.Count} 个，当前显示 {visibleCount} 个";
-                statusText.Text = "搜索\"" + keyword + "\"得到 " + visibleCount + " 个模块";
+                var manualCount = _manualTools?.Count ?? 0;
+                moduleSummaryText.Text = $"自研模块 {_allModuleEntries.Count} 个，手册工具 {manualCount} 个，当前显示 {visibleCount} 个";
+                statusText.Text = "搜索\"" + keyword + "\"得到 " + visibleCount + " 个结果";
                 return;
             }
 
@@ -1170,6 +1214,166 @@ namespace MaidouBao.Launcher
         private void BtnRefreshTableTools_Click(object sender, RoutedEventArgs e)
         {
             LoadTableTools();
+        }
+
+        // ========== 机械设计手册 ==========
+
+        private void LoadManualTools()
+        {
+            _manualTools = new List<CustomToolEntry>();
+            manualToolsPanel.Children.Clear();
+
+            if (!Directory.Exists(_manualDir))
+            {
+                manualToolsHint.Text = "2008 目录不存在";
+                return;
+            }
+
+            foreach (var dir in Directory.GetDirectories(_manualDir))
+            {
+                var dirName = Path.GetFileName(dir);
+                var allExes = Directory.GetFiles(dir, "*.exe", SearchOption.AllDirectories);
+                if (allExes.Length == 0) continue;
+
+                // 优先选择与目录名匹配的中文 exe
+                string mainExe = null;
+                foreach (var exe in allExes)
+                {
+                    var exeBaseName = Path.GetFileNameWithoutExtension(exe);
+                    if (exeBaseName.Equals(dirName, StringComparison.OrdinalIgnoreCase))
+                    {
+                        mainExe = exe;
+                        break;
+                    }
+                }
+                // 其次选中文命名的 exe（包含中文字符）
+                if (mainExe == null)
+                {
+                    foreach (var exe in allExes)
+                    {
+                        var exeBaseName = Path.GetFileNameWithoutExtension(exe);
+                        bool hasChinese = false;
+                        foreach (char c in exeBaseName) { if (c >= 0x4e00 && c <= 0x9fff) { hasChinese = true; break; } }
+                        if (hasChinese) { mainExe = exe; break; }
+                    }
+                }
+                // 兜底选第一个
+                if (mainExe == null) mainExe = allExes[0];
+
+                var entry = new CustomToolEntry { Name = dirName, ExePath = mainExe, IsAutoDiscovered = true };
+                _manualTools.Add(entry);
+            }
+
+            // 按排序顺序排列
+            _manualTools.Sort((a, b) =>
+            {
+                int ia = GetSortIndex(a.Name);
+                int ib = GetSortIndex(b.Name);
+                return ia.CompareTo(ib);
+            });
+
+            foreach (var entry in _manualTools)
+            {
+                manualToolsPanel.Children.Add(CreateManualToolButton(entry));
+            }
+
+            manualToolsHint.Text = $"共 {_manualTools.Count} 个手册工具";
+        }
+
+        private Button CreateManualToolButton(CustomToolEntry entry)
+        {
+            var btn = new Button
+            {
+                Style = (Style)FindResource("ModuleButton"),
+                Tag = entry,
+                Content = new StackPanel
+                {
+                    Children =
+                    {
+                        new TextBlock
+                        {
+                            Text = entry.Name,
+                            TextWrapping = TextWrapping.Wrap,
+                            TextAlignment = TextAlignment.Left,
+                            Foreground = Brushes.White,
+                            FontSize = 15,
+                            FontWeight = FontWeights.Bold
+                        },
+                        new TextBlock
+                        {
+                            Text = "机械设计手册",
+                            TextWrapping = TextWrapping.Wrap,
+                            TextAlignment = TextAlignment.Left,
+                            Foreground = new SolidColorBrush(Color.FromRgb(230, 240, 250)),
+                            FontSize = 11,
+                            Margin = new Thickness(0, 8, 0, 6)
+                        },
+                        new TextBlock
+                        {
+                            Text = "单击启动  |  右键打开目录",
+                            TextAlignment = TextAlignment.Left,
+                            Foreground = new SolidColorBrush(Color.FromRgb(210, 225, 240)),
+                            FontSize = 10
+                        }
+                    }
+                }
+            };
+            btn.Click += ManualToolButton_Click;
+            ToolTipService.SetToolTip(btn, entry.ExePath);
+
+            var menu = new ContextMenu();
+            var topItem = new MenuItem { Header = "置顶" };
+            topItem.Click += (s, args) => MoveModuleSort(entry.Name, "top");
+            var upItem = new MenuItem { Header = "上移" };
+            upItem.Click += (s, args) => MoveModuleSort(entry.Name, "up");
+            var downItem = new MenuItem { Header = "下移" };
+            downItem.Click += (s, args) => MoveModuleSort(entry.Name, "down");
+            var bottomItem = new MenuItem { Header = "置底" };
+            bottomItem.Click += (s, args) => MoveModuleSort(entry.Name, "bottom");
+            var openFolderItem = new MenuItem { Header = "打开文件夹" };
+            openFolderItem.Click += (s, args) =>
+            {
+                var dir = Path.GetDirectoryName(entry.ExePath);
+                if (Directory.Exists(dir))
+                    Process.Start(new ProcessStartInfo { FileName = dir, UseShellExecute = true });
+            };
+            menu.Items.Add(topItem);
+            menu.Items.Add(upItem);
+            menu.Items.Add(downItem);
+            menu.Items.Add(bottomItem);
+            menu.Items.Add(new Separator());
+            menu.Items.Add(openFolderItem);
+            btn.ContextMenu = menu;
+
+            return btn;
+        }
+
+        private void ManualToolButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender is Button btn && btn.Tag is CustomToolEntry entry)
+            {
+                try
+                {
+                    var psi = new ProcessStartInfo
+                    {
+                        FileName = entry.ExePath,
+                        WorkingDirectory = Path.GetDirectoryName(entry.ExePath)
+                    };
+                    Process.Start(psi);
+                    statusText.Text = $"已启动: {entry.Name}";
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"启动失败: {ex.Message}", "错误",
+                        MessageBoxButton.OK, MessageBoxImage.Error);
+                }
+            }
+        }
+
+        private void BtnRefreshManualTools_Click(object sender, RoutedEventArgs e)
+        {
+            LoadManualTools();
+            statusText.Text = $"已刷新机械设计手册，共 {_manualTools.Count} 个工具";
         }
 
         // ========== 模块排序 ==========
