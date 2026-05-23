@@ -9,6 +9,7 @@
 ![Rr]elease/books/
 ![Rr]elease/2008/
 [Rr]elease/*.exe
+![Rr]elease/mdb.exe
 [Rr]elease/*.dll
 [Rr]elease/*.config
 *.pdb
