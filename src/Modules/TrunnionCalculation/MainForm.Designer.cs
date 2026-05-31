@@ -1,4 +1,4 @@
-namespace Interop.Office.Core
+﻿namespace Interop.Office.Core
 {
     partial class zhouj
     {
@@ -593,6 +593,7 @@ namespace Interop.Office.Core
             // ===== tabControl6 =====
             this.tabControl6.Controls.Add(this.tabPage12);
             this.tabControl6.Controls.Add(this.tabPage13);
+            this.tabControl6.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabControl6.Location = new System.Drawing.Point(0, 0);
             this.tabControl6.Name = "tabControl6";
             this.tabControl6.SelectedIndex = 0;
@@ -841,17 +842,18 @@ namespace Interop.Office.Core
 
             // ===== Form: zhouj =====
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(372, 310);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.AutoScroll = true;
+            this.ClientSize = new System.Drawing.Size(420, 360);
             this.Controls.Add(this.tabControl6);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Sizable;
             this.MaximizeBox = true;
             this.MinimizeBox = false;
+            this.MinimumSize = new System.Drawing.Size(400, 350);
             this.Name = "zhouj";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Tag = "3";
             this.Text = "计算最小轴径";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.zhouj_Load);
 
             this.ResumeLayout(false);

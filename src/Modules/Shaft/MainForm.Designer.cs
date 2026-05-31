@@ -1,4 +1,4 @@
-namespace ShaftDesign
+﻿namespace ShaftDesign
 {
     partial class MainForm
     {
@@ -21,7 +21,6 @@ namespace ShaftDesign
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
 
             // === 主布局 ===
-            this.splitContainerMain = new System.Windows.Forms.SplitContainer();
             this.panelLeft = new System.Windows.Forms.Panel();
             this.panelRight = new System.Windows.Forms.Panel();
 
@@ -52,6 +51,7 @@ namespace ShaftDesign
             this.colType = new System.Windows.Forms.DataGridViewComboBoxColumn();
             this.colPosition = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colDiameter = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.panelComponentButtons = new System.Windows.Forms.Panel();
             this.btnAddComponent = new System.Windows.Forms.Button();
             this.btnRemoveComponent = new System.Windows.Forms.Button();
 
@@ -63,6 +63,7 @@ namespace ShaftDesign
             this.colFr = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colFt = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colFa = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.panelLoadButtons = new System.Windows.Forms.Panel();
             this.btnAddLoad = new System.Windows.Forms.Button();
             this.btnRemoveLoad = new System.Windows.Forms.Button();
 
@@ -84,6 +85,7 @@ namespace ShaftDesign
             this.txtAllowableS = new System.Windows.Forms.TextBox();
 
             // === 按钮 ===
+            this.panelActionButtons = new System.Windows.Forms.Panel();
             this.btnCalculate = new System.Windows.Forms.Button();
             this.btnReset = new System.Windows.Forms.Button();
 
@@ -123,10 +125,6 @@ namespace ShaftDesign
             this.toolStripStatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
 
             // === 初始化 ===
-            ((System.ComponentModel.ISupportInitialize)(this.splitContainerMain)).BeginInit();
-            this.splitContainerMain.Panel1.SuspendLayout();
-            this.splitContainerMain.Panel2.SuspendLayout();
-            this.splitContainerMain.SuspendLayout();
             this.panelLeft.SuspendLayout();
             this.panelRight.SuspendLayout();
             this.groupBoxInput.SuspendLayout();
@@ -135,6 +133,9 @@ namespace ShaftDesign
             ((System.ComponentModel.ISupportInitialize)(this.dgvComponents)).BeginInit();
             this.groupBoxLoads.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvLoads)).BeginInit();
+            this.panelComponentButtons.SuspendLayout();
+            this.panelLoadButtons.SuspendLayout();
+            this.panelActionButtons.SuspendLayout();
             this.groupBoxCycle.SuspendLayout();
             this.groupBoxOther.SuspendLayout();
             this.tabControlResults.SuspendLayout();
@@ -147,19 +148,16 @@ namespace ShaftDesign
             this.SuspendLayout();
 
             // ========================================
-            // splitContainerMain
             // ========================================
-            this.splitContainerMain.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.splitContainerMain.FixedPanel = System.Windows.Forms.FixedPanel.Panel1;
-            this.splitContainerMain.Location = new System.Drawing.Point(0, 0);
-            this.splitContainerMain.Name = "splitContainerMain";
-            this.splitContainerMain.SplitterDistance = 420;
 
             // ========================================
             // panelLeft (输入面板)
             // ========================================
             this.panelLeft.AutoScroll = true;
-            this.panelLeft.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panelLeft.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panelLeft.Width = 420;
+            this.panelLeft.MinimumSize = new System.Drawing.Size(400, 0);
+            this.panelLeft.Padding = new System.Windows.Forms.Padding(4);
             this.panelLeft.Padding = new System.Windows.Forms.Padding(8);
 
             // --- groupBoxInput ---
@@ -214,23 +212,23 @@ namespace ShaftDesign
             this.labelSigmaS.Location = new System.Drawing.Point(15, 78);
             this.labelSigmaS.AutoSize = true;
             this.txtSigmaS.Location = new System.Drawing.Point(80, 75);
-            this.txtSigmaS.Size = new System.Drawing.Size(60, 23);
+            this.txtSigmaS.Size = new System.Drawing.Size(70, 23);
             this.txtSigmaS.ReadOnly = true;
             this.txtSigmaS.BackColor = System.Drawing.SystemColors.Control;
 
             this.labelSigmaMinus1.Text = "sigma_-1:";
-            this.labelSigmaMinus1.Location = new System.Drawing.Point(155, 78);
+            this.labelSigmaMinus1.Location = new System.Drawing.Point(165, 78);
             this.labelSigmaMinus1.AutoSize = true;
-            this.txtSigmaMinus1.Location = new System.Drawing.Point(225, 75);
-            this.txtSigmaMinus1.Size = new System.Drawing.Size(60, 23);
+            this.txtSigmaMinus1.Location = new System.Drawing.Point(240, 75);
+            this.txtSigmaMinus1.Size = new System.Drawing.Size(70, 23);
             this.txtSigmaMinus1.ReadOnly = true;
             this.txtSigmaMinus1.BackColor = System.Drawing.SystemColors.Control;
 
             this.labelTauMinus1.Text = "tau_-1:";
-            this.labelTauMinus1.Location = new System.Drawing.Point(300, 78);
+            this.labelTauMinus1.Location = new System.Drawing.Point(325, 78);
             this.labelTauMinus1.AutoSize = true;
-            this.txtTauMinus1.Location = new System.Drawing.Point(350, 75);
-            this.txtTauMinus1.Size = new System.Drawing.Size(60, 23);
+            this.txtTauMinus1.Location = new System.Drawing.Point(380, 75);
+            this.txtTauMinus1.Size = new System.Drawing.Size(70, 23);
             this.txtTauMinus1.ReadOnly = true;
             this.txtTauMinus1.BackColor = System.Drawing.SystemColors.Control;
 
@@ -245,15 +243,15 @@ namespace ShaftDesign
             this.groupBoxLayout.Text = "轴上零件布局";
             this.groupBoxLayout.Dock = System.Windows.Forms.DockStyle.Top;
             this.groupBoxLayout.Top = 220;
-            this.groupBoxLayout.Height = 200;
+            this.groupBoxLayout.Height = 220;
             this.groupBoxLayout.Padding = new System.Windows.Forms.Padding(10, 5, 10, 5);
 
-            this.dgvComponents.Location = new System.Drawing.Point(10, 22);
-            this.dgvComponents.Size = new System.Drawing.Size(390, 130);
+            this.dgvComponents.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgvComponents.AllowUserToAddRows = false;
             this.dgvComponents.AllowUserToDeleteRows = false;
             this.dgvComponents.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvComponents.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvComponents.RowHeadersVisible = false;
 
             this.colName.HeaderText = "名称";
             this.colName.Name = "colName";
@@ -276,19 +274,25 @@ namespace ShaftDesign
                 this.colName, this.colType, this.colPosition, this.colDiameter
             });
 
+            this.panelComponentButtons.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.panelComponentButtons.Height = 36;
+
             this.btnAddComponent.Text = "添加";
-            this.btnAddComponent.Location = new System.Drawing.Point(10, 158);
+            this.btnAddComponent.Location = new System.Drawing.Point(4, 4);
             this.btnAddComponent.Size = new System.Drawing.Size(60, 28);
             this.btnAddComponent.Click += new System.EventHandler(this.BtnAddComponent_Click);
 
             this.btnRemoveComponent.Text = "删除";
-            this.btnRemoveComponent.Location = new System.Drawing.Point(80, 158);
+            this.btnRemoveComponent.Location = new System.Drawing.Point(70, 4);
             this.btnRemoveComponent.Size = new System.Drawing.Size(60, 28);
             this.btnRemoveComponent.Click += new System.EventHandler(this.BtnRemoveComponent_Click);
 
-            this.groupBoxLayout.Controls.AddRange(new System.Windows.Forms.Control[] {
-                this.dgvComponents, this.btnAddComponent, this.btnRemoveComponent
+            this.panelComponentButtons.Controls.AddRange(new System.Windows.Forms.Control[] {
+                this.btnAddComponent, this.btnRemoveComponent
             });
+
+            this.groupBoxLayout.Controls.Add(this.dgvComponents);
+            this.groupBoxLayout.Controls.Add(this.panelComponentButtons);
 
             // --- groupBoxLoads ---
             this.groupBoxLoads.Text = "载荷输入";
@@ -297,12 +301,12 @@ namespace ShaftDesign
             this.groupBoxLoads.Height = 220;
             this.groupBoxLoads.Padding = new System.Windows.Forms.Padding(10, 5, 10, 5);
 
-            this.dgvLoads.Location = new System.Drawing.Point(10, 22);
-            this.dgvLoads.Size = new System.Drawing.Size(390, 150);
+            this.dgvLoads.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgvLoads.AllowUserToAddRows = false;
             this.dgvLoads.AllowUserToDeleteRows = false;
             this.dgvLoads.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvLoads.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvLoads.RowHeadersVisible = false;
 
             this.colLoadName.HeaderText = "名称";
             this.colLoadName.Name = "colLoadName";
@@ -328,24 +332,30 @@ namespace ShaftDesign
                 this.colLoadName, this.colLoadPos, this.colFr, this.colFt, this.colFa
             });
 
+            this.panelLoadButtons.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.panelLoadButtons.Height = 36;
+
             this.btnAddLoad.Text = "添加";
-            this.btnAddLoad.Location = new System.Drawing.Point(10, 178);
+            this.btnAddLoad.Location = new System.Drawing.Point(4, 4);
             this.btnAddLoad.Size = new System.Drawing.Size(60, 28);
             this.btnAddLoad.Click += new System.EventHandler(this.BtnAddLoad_Click);
 
             this.btnRemoveLoad.Text = "删除";
-            this.btnRemoveLoad.Location = new System.Drawing.Point(80, 178);
+            this.btnRemoveLoad.Location = new System.Drawing.Point(70, 4);
             this.btnRemoveLoad.Size = new System.Drawing.Size(60, 28);
             this.btnRemoveLoad.Click += new System.EventHandler(this.BtnRemoveLoad_Click);
 
-            this.groupBoxLoads.Controls.AddRange(new System.Windows.Forms.Control[] {
-                this.dgvLoads, this.btnAddLoad, this.btnRemoveLoad
+            this.panelLoadButtons.Controls.AddRange(new System.Windows.Forms.Control[] {
+                this.btnAddLoad, this.btnRemoveLoad
             });
+
+            this.groupBoxLoads.Controls.Add(this.dgvLoads);
+            this.groupBoxLoads.Controls.Add(this.panelLoadButtons);
 
             // --- groupBoxCycle ---
             this.groupBoxCycle.Text = "载荷循环类型";
             this.groupBoxCycle.Dock = System.Windows.Forms.DockStyle.Top;
-            this.groupBoxCycle.Top = 640;
+            this.groupBoxCycle.Top = 660;
             this.groupBoxCycle.Height = 55;
             this.groupBoxCycle.Padding = new System.Windows.Forms.Padding(10, 2, 10, 2);
 
@@ -369,8 +379,8 @@ namespace ShaftDesign
             // --- groupBoxOther ---
             this.groupBoxOther.Text = "其他参数";
             this.groupBoxOther.Dock = System.Windows.Forms.DockStyle.Top;
-            this.groupBoxOther.Top = 695;
-            this.groupBoxOther.Height = 110;
+            this.groupBoxOther.Top = 715;
+            this.groupBoxOther.Height = 120;
             this.groupBoxOther.Padding = new System.Windows.Forms.Padding(10, 5, 10, 5);
 
             this.labelKeyway.Text = "键槽数:";
@@ -414,11 +424,14 @@ namespace ShaftDesign
                 this.labelAllowableS, this.txtAllowableS
             });
 
-            // --- 按钮 ---
+            // --- panelActionButtons ---
+            this.panelActionButtons.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panelActionButtons.Height = 50;
+            this.panelActionButtons.Padding = new System.Windows.Forms.Padding(0, 4, 0, 4);
+
             this.btnCalculate.Text = "计算";
-            this.btnCalculate.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btnCalculate.Top = 805;
-            this.btnCalculate.Height = 40;
+            this.btnCalculate.Dock = System.Windows.Forms.DockStyle.Left;
+            this.btnCalculate.Width = 180;
             this.btnCalculate.Font = new System.Drawing.Font("Microsoft YaHei", 10F, System.Drawing.FontStyle.Bold);
             this.btnCalculate.BackColor = System.Drawing.Color.FromArgb(0, 120, 215);
             this.btnCalculate.ForeColor = System.Drawing.Color.White;
@@ -426,14 +439,15 @@ namespace ShaftDesign
             this.btnCalculate.Click += new System.EventHandler(this.BtnCalculate_Click);
 
             this.btnReset.Text = "重置";
-            this.btnReset.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btnReset.Top = 845;
-            this.btnReset.Height = 32;
+            this.btnReset.Dock = System.Windows.Forms.DockStyle.Left;
+            this.btnReset.Width = 80;
             this.btnReset.Click += new System.EventHandler(this.BtnReset_Click);
 
+            this.panelActionButtons.Controls.Add(this.btnReset);
+            this.panelActionButtons.Controls.Add(this.btnCalculate);
+
             // 组装左侧
-            this.panelLeft.Controls.Add(this.btnReset);
-            this.panelLeft.Controls.Add(this.btnCalculate);
+            this.panelLeft.Controls.Add(this.panelActionButtons);
             this.panelLeft.Controls.Add(this.groupBoxOther);
             this.panelLeft.Controls.Add(this.groupBoxCycle);
             this.panelLeft.Controls.Add(this.groupBoxLoads);
@@ -466,20 +480,40 @@ namespace ShaftDesign
             this.dgvStrength.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgvStrength.ReadOnly = true;
             this.dgvStrength.AllowUserToAddRows = false;
-            this.dgvStrength.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
+            this.dgvStrength.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvStrength.RowHeadersVisible = false;
             this.dgvStrength.AlternatingRowsDefaultCellStyle.BackColor = System.Drawing.Color.FromArgb(240, 248, 255);
 
-            this.colSecPos.HeaderText = "位置(mm)";
-            this.colSecD.HeaderText = "直径(mm)";
-            this.colSecM.HeaderText = "M(N.mm)";
-            this.colSecT.HeaderText = "T(N.mm)";
-            this.colSecMe.HeaderText = "Me(N.mm)";
-            this.colSecSigma.HeaderText = "sigma(MPa)";
-            this.colSecTau.HeaderText = "tau(MPa)";
-            this.colSecSigmaE.HeaderText = "sigma_e(MPa)";
-            this.colSecN.HeaderText = "n";
-            this.colSecPass.HeaderText = "结论";
+            this.colSecPos.Name = "colSecPos";
+            colSecPos.HeaderText = "位置(mm)";
+            this.colSecPos.FillWeight = 40;
+            this.colSecD.Name = "colSecD";
+            colSecD.HeaderText = "直径(mm)";
+            this.colSecD.FillWeight = 35;
+            this.colSecM.Name = "colSecM";
+            colSecM.HeaderText = "M(N.mm)";
+            this.colSecM.FillWeight = 40;
+            this.colSecT.Name = "colSecT";
+            colSecT.HeaderText = "T(N.mm)";
+            this.colSecT.FillWeight = 40;
+            this.colSecMe.Name = "colSecMe";
+            colSecMe.HeaderText = "Me(N.mm)";
+            this.colSecMe.FillWeight = 40;
+            this.colSecSigma.Name = "colSecSigma";
+            colSecSigma.HeaderText = "sigma(MPa)";
+            this.colSecSigma.FillWeight = 35;
+            this.colSecTau.Name = "colSecTau";
+            colSecTau.HeaderText = "tau(MPa)";
+            this.colSecTau.FillWeight = 35;
+            this.colSecSigmaE.Name = "colSecSigmaE";
+            colSecSigmaE.HeaderText = "sigma_e(MPa)";
+            this.colSecSigmaE.FillWeight = 35;
+            this.colSecN.Name = "colSecN";
+            colSecN.HeaderText = "n";
+            this.colSecN.FillWeight = 20;
+            this.colSecPass.Name = "colSecPass";
+            colSecPass.HeaderText = "结论";
+            this.colSecPass.FillWeight = 30;
 
             this.dgvStrength.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
                 this.colSecPos, this.colSecD, this.colSecM, this.colSecT, this.colSecMe,
@@ -493,16 +527,28 @@ namespace ShaftDesign
             this.dgvFatigue.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgvFatigue.ReadOnly = true;
             this.dgvFatigue.AllowUserToAddRows = false;
-            this.dgvFatigue.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
+            this.dgvFatigue.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvFatigue.RowHeadersVisible = false;
             this.dgvFatigue.AlternatingRowsDefaultCellStyle.BackColor = System.Drawing.Color.FromArgb(255, 248, 240);
 
-            this.colFatPos.HeaderText = "位置(mm)";
-            this.colFatD.HeaderText = "直径(mm)";
-            this.colFatSSigma.HeaderText = "S_sigma";
-            this.colFatSTau.HeaderText = "S_tau";
-            this.colFatS.HeaderText = "S(综合)";
-            this.colFatPass.HeaderText = "结论";
+            this.colFatPos.Name = "colFatPos";
+            colFatPos.HeaderText = "位置(mm)";
+            this.colFatPos.FillWeight = 40;
+            this.colFatD.Name = "colFatD";
+            colFatD.HeaderText = "直径(mm)";
+            this.colFatD.FillWeight = 35;
+            this.colFatSSigma.Name = "colFatSSigma";
+            colFatSSigma.HeaderText = "S_sigma";
+            this.colFatSSigma.FillWeight = 35;
+            this.colFatSTau.Name = "colFatSTau";
+            colFatSTau.HeaderText = "S_tau";
+            this.colFatSTau.FillWeight = 35;
+            this.colFatS.Name = "colFatS";
+            colFatS.HeaderText = "S(综合)";
+            this.colFatS.FillWeight = 35;
+            this.colFatPass.Name = "colFatPass";
+            colFatPass.HeaderText = "结论";
+            this.colFatPass.FillWeight = 30;
 
             this.dgvFatigue.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
                 this.colFatPos, this.colFatD, this.colFatSSigma, this.colFatSTau, this.colFatS, this.colFatPass
@@ -516,10 +562,7 @@ namespace ShaftDesign
             this.panelRight.Controls.Add(this.tabControlResults);
 
             // ========================================
-            // splitContainerMain 组装
             // ========================================
-            this.splitContainerMain.Panel1.Controls.Add(this.panelLeft);
-            this.splitContainerMain.Panel2.Controls.Add(this.panelRight);
 
             // ========================================
             // statusStrip
@@ -531,21 +574,17 @@ namespace ShaftDesign
             // MainForm
             // ========================================
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1100, 700);
-            this.Controls.Add(this.splitContainerMain);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.ClientSize = new System.Drawing.Size(1200, 750);
+            this.Controls.Add(this.panelRight);
+            this.Controls.Add(this.panelLeft);
             this.Controls.Add(this.statusStrip);
             this.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
-            this.MinimumSize = new System.Drawing.Size(900, 600);
+            this.MinimumSize = new System.Drawing.Size(1080, 700);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "轴设计 - 麦豆宝";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
 
-            ((System.ComponentModel.ISupportInitialize)(this.splitContainerMain)).EndInit();
-            this.splitContainerMain.Panel1.ResumeLayout(false);
-            this.splitContainerMain.Panel2.ResumeLayout(false);
-            this.splitContainerMain.ResumeLayout(false);
             this.panelLeft.ResumeLayout(false);
             this.panelRight.ResumeLayout(false);
             this.groupBoxInput.ResumeLayout(false);
@@ -556,6 +595,9 @@ namespace ShaftDesign
             ((System.ComponentModel.ISupportInitialize)(this.dgvComponents)).EndInit();
             this.groupBoxLoads.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgvLoads)).EndInit();
+            this.panelComponentButtons.ResumeLayout(false);
+            this.panelLoadButtons.ResumeLayout(false);
+            this.panelActionButtons.ResumeLayout(false);
             this.groupBoxCycle.ResumeLayout(false);
             this.groupBoxCycle.PerformLayout();
             this.groupBoxOther.ResumeLayout(false);
@@ -576,7 +618,6 @@ namespace ShaftDesign
         #endregion
 
         private System.Windows.Forms.ToolTip toolTip1;
-        private System.Windows.Forms.SplitContainer splitContainerMain;
         private System.Windows.Forms.Panel panelLeft;
         private System.Windows.Forms.Panel panelRight;
 
@@ -607,6 +648,7 @@ namespace ShaftDesign
         private System.Windows.Forms.DataGridViewComboBoxColumn colType;
         private System.Windows.Forms.DataGridViewTextBoxColumn colPosition;
         private System.Windows.Forms.DataGridViewTextBoxColumn colDiameter;
+        private System.Windows.Forms.Panel panelComponentButtons;
         private System.Windows.Forms.Button btnAddComponent;
         private System.Windows.Forms.Button btnRemoveComponent;
 
@@ -618,6 +660,7 @@ namespace ShaftDesign
         private System.Windows.Forms.DataGridViewTextBoxColumn colFr;
         private System.Windows.Forms.DataGridViewTextBoxColumn colFt;
         private System.Windows.Forms.DataGridViewTextBoxColumn colFa;
+        private System.Windows.Forms.Panel panelLoadButtons;
         private System.Windows.Forms.Button btnAddLoad;
         private System.Windows.Forms.Button btnRemoveLoad;
 
@@ -640,6 +683,7 @@ namespace ShaftDesign
         private System.Windows.Forms.TextBox txtAllowableS;
 
         // 按钮
+        private System.Windows.Forms.Panel panelActionButtons;
         private System.Windows.Forms.Button btnCalculate;
         private System.Windows.Forms.Button btnReset;
 

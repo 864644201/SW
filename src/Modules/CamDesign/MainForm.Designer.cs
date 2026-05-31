@@ -1,4 +1,4 @@
-namespace CamDesign
+﻿namespace CamDesign
 {
     partial class MainForm
     {
@@ -23,12 +23,12 @@ namespace CamDesign
             // 主窗体设置
             // ============================================
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.ClientSize = new System.Drawing.Size(1100, 750);
             this.Name = "MainForm";
             this.Text = "迈迪凸轮设计系统";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.MinimumSize = new System.Drawing.Size(1020, 700);
             this.Load += new System.EventHandler(this.MainForm_Load);
 
             // ============================================

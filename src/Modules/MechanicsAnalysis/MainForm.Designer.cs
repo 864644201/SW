@@ -1,4 +1,4 @@
-using System.Drawing;
+﻿using System.Drawing;
 using System.Windows.Forms;
 
 namespace MDSolids
@@ -747,7 +747,7 @@ namespace MDSolids
 
             // === MainForm ===
             this.AutoScaleDimensions = new SizeF(7F, 17F);
-            this.AutoScaleMode = AutoScaleMode.Font;
+            this.AutoScaleMode = AutoScaleMode.None;
             this.ClientSize = new Size(684, 511);
             this.Controls.Add(this.pnlMaterial);
             this.Controls.Add(this.tabControl);
@@ -755,10 +755,10 @@ namespace MDSolids
             this.Font = new Font("Microsoft YaHei", 9F);
             this.FormBorderStyle = FormBorderStyle.Sizable;
             this.MaximizeBox = true;
+            this.MinimumSize = new Size(700, 550);
             this.Name = "MainForm";
             this.StartPosition = FormStartPosition.CenterScreen;
             this.Text = "力学分析";
-            this.WindowState = FormWindowState.Maximized;
 
             this.tabControl.ResumeLayout(false);
             this.tabBending.ResumeLayout(false);

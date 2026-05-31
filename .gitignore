@@ -40,3 +40,17 @@ Desktop.ini
 *.tmp
 *.log
 custom_tools.txt
+
+## Root-level binary/resource directories
+/2008/
+/tools/
+/books/
+/tables/
+/data/
+*.dll
+*.exe
+!mdb.exe
+!mdb.exe.config
+/memory-*.md
+/packaging/
+*.bak

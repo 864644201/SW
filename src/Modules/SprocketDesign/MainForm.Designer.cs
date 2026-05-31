@@ -1,9 +1,8 @@
-namespace SprocketDesign
+﻿namespace SprocketDesign
 {
     partial class MainForm
     {
         private System.ComponentModel.IContainer components = null;
-
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -12,12 +11,12 @@ namespace SprocketDesign
             }
             base.Dispose(disposing);
         }
-
         #region Windows Form Designer generated code
-
         private void InitializeComponent()
         {
+            this.panelLeft = new System.Windows.Forms.Panel();
             this.grpInput = new System.Windows.Forms.GroupBox();
+            this.tableLayoutInput = new System.Windows.Forms.TableLayoutPanel();
             this.lblPower = new System.Windows.Forms.Label();
             this.txtPower = new System.Windows.Forms.TextBox();
             this.lblPowerUnit = new System.Windows.Forms.Label();
@@ -36,279 +35,271 @@ namespace SprocketDesign
             this.lblCenterDistUnit = new System.Windows.Forms.Label();
             this.btnRecommend = new System.Windows.Forms.Button();
             this.btnCalculate = new System.Windows.Forms.Button();
-
+            this.panelRight = new System.Windows.Forms.Panel();
             this.grpOutput = new System.Windows.Forms.GroupBox();
             this.dgvResult = new System.Windows.Forms.DataGridView();
             this.colParam = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colValue = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colUnit = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colCheck = new System.Windows.Forms.DataGridViewTextBoxColumn();
-
             this.grpCheck = new System.Windows.Forms.GroupBox();
             this.txtRemarks = new System.Windows.Forms.TextBox();
-
+            this.panelLeft.SuspendLayout();
             this.grpInput.SuspendLayout();
+            this.tableLayoutInput.SuspendLayout();
+            this.panelRight.SuspendLayout();
             this.grpOutput.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvResult)).BeginInit();
             this.grpCheck.SuspendLayout();
             this.SuspendLayout();
-
+            // panelLeft
+            this.panelLeft.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panelLeft.Width = 380;
+            this.panelLeft.MinimumSize = new System.Drawing.Size(360, 0);
+            this.panelLeft.Padding = new System.Windows.Forms.Padding(4);
+            this.panelLeft.Controls.Add(this.grpInput);
             // grpInput
-            this.grpInput.Controls.Add(this.lblPower);
-            this.grpInput.Controls.Add(this.txtPower);
-            this.grpInput.Controls.Add(this.lblPowerUnit);
-            this.grpInput.Controls.Add(this.lblN1);
-            this.grpInput.Controls.Add(this.txtN1);
-            this.grpInput.Controls.Add(this.lblN1Unit);
-            this.grpInput.Controls.Add(this.lblRatio);
-            this.grpInput.Controls.Add(this.txtRatio);
-            this.grpInput.Controls.Add(this.lblChainNumber);
-            this.grpInput.Controls.Add(this.cboChainNumber);
-            this.grpInput.Controls.Add(this.lblZ1);
-            this.grpInput.Controls.Add(this.txtZ1);
-            this.grpInput.Controls.Add(this.lblZ1Hint);
-            this.grpInput.Controls.Add(this.lblCenterDist);
-            this.grpInput.Controls.Add(this.txtCenterDist);
-            this.grpInput.Controls.Add(this.lblCenterDistUnit);
-            this.grpInput.Controls.Add(this.btnRecommend);
-            this.grpInput.Controls.Add(this.btnCalculate);
-            this.grpInput.Location = new System.Drawing.Point(12, 12);
-            this.grpInput.Name = "grpInput";
-            this.grpInput.Size = new System.Drawing.Size(350, 400);
+            this.grpInput.Dock = System.Windows.Forms.DockStyle.Fill;
             this.grpInput.TabIndex = 0;
             this.grpInput.TabStop = false;
-            this.grpInput.Text = "输入参数";
-
+            this.grpInput.Text = " 输入参数 ";
+            this.grpInput.Font = new System.Drawing.Font("Microsoft YaHei", 9.5F);
+            this.grpInput.Controls.Add(this.tableLayoutInput);
+            // tableLayoutInput
+            this.tableLayoutInput.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tableLayoutInput.ColumnCount = 3;
+            this.tableLayoutInput.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 130F));
+            this.tableLayoutInput.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tableLayoutInput.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 60F));
+            this.tableLayoutInput.RowCount = 10;
+            this.tableLayoutInput.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 36F));
+            this.tableLayoutInput.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 36F));
+            this.tableLayoutInput.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 36F));
+            this.tableLayoutInput.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 36F));
+            this.tableLayoutInput.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 36F));
+            this.tableLayoutInput.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 24F));
+            this.tableLayoutInput.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 36F));
+            this.tableLayoutInput.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 42F));
+            this.tableLayoutInput.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 42F));
+            this.tableLayoutInput.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tableLayoutInput.Padding = new System.Windows.Forms.Padding(8, 4, 8, 4);
             // lblPower
+            this.lblPower.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.lblPower.AutoSize = true;
-            this.lblPower.Location = new System.Drawing.Point(15, 30);
-            this.lblPower.Name = "lblPower";
-            this.lblPower.Size = new System.Drawing.Size(95, 13);
             this.lblPower.Text = "传递功率 P:";
-
+            this.lblPower.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.lblPower.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
             // txtPower
-            this.txtPower.Location = new System.Drawing.Point(130, 27);
-            this.txtPower.Name = "txtPower";
-            this.txtPower.Size = new System.Drawing.Size(120, 20);
-            this.txtPower.TabIndex = 1;
+            this.txtPower.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.txtPower.Size = new System.Drawing.Size(100, 24);
             this.txtPower.Text = "5.5";
-
+            this.txtPower.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
             // lblPowerUnit
+            this.lblPowerUnit.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.lblPowerUnit.AutoSize = true;
-            this.lblPowerUnit.Location = new System.Drawing.Point(256, 30);
-            this.lblPowerUnit.Name = "lblPowerUnit";
-            this.lblPowerUnit.Size = new System.Drawing.Size(28, 13);
             this.lblPowerUnit.Text = "kW";
-
+            this.lblPowerUnit.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.lblPowerUnit.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
             // lblN1
+            this.lblN1.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.lblN1.AutoSize = true;
-            this.lblN1.Location = new System.Drawing.Point(15, 60);
-            this.lblN1.Name = "lblN1";
-            this.lblN1.Size = new System.Drawing.Size(105, 13);
             this.lblN1.Text = "小链轮转速 n1:";
-
+            this.lblN1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.lblN1.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
             // txtN1
-            this.txtN1.Location = new System.Drawing.Point(130, 57);
-            this.txtN1.Name = "txtN1";
-            this.txtN1.Size = new System.Drawing.Size(120, 20);
-            this.txtN1.TabIndex = 2;
-            this.txtN1.Text = "600";
-
+            this.txtN1.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.txtN1.Size = new System.Drawing.Size(100, 24);
+            this.txtN1.Text = "1450";
+            this.txtN1.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
             // lblN1Unit
+            this.lblN1Unit.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.lblN1Unit.AutoSize = true;
-            this.lblN1Unit.Location = new System.Drawing.Point(256, 60);
-            this.lblN1Unit.Name = "lblN1Unit";
-            this.lblN1Unit.Size = new System.Drawing.Size(28, 13);
             this.lblN1Unit.Text = "rpm";
-
+            this.lblN1Unit.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.lblN1Unit.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
             // lblRatio
+            this.lblRatio.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.lblRatio.AutoSize = true;
-            this.lblRatio.Location = new System.Drawing.Point(15, 90);
-            this.lblRatio.Name = "lblRatio";
-            this.lblRatio.Size = new System.Drawing.Size(60, 13);
             this.lblRatio.Text = "传动比 i:";
-
+            this.lblRatio.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.lblRatio.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
             // txtRatio
-            this.txtRatio.Location = new System.Drawing.Point(130, 87);
-            this.txtRatio.Name = "txtRatio";
-            this.txtRatio.Size = new System.Drawing.Size(120, 20);
-            this.txtRatio.TabIndex = 3;
-            this.txtRatio.Text = "3";
-
+            this.txtRatio.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.txtRatio.Size = new System.Drawing.Size(100, 24);
+            this.txtRatio.Text = "2";
+            this.txtRatio.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
             // lblChainNumber
+            this.lblChainNumber.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.lblChainNumber.AutoSize = true;
-            this.lblChainNumber.Location = new System.Drawing.Point(15, 120);
-            this.lblChainNumber.Name = "lblChainNumber";
-            this.lblChainNumber.Size = new System.Drawing.Size(60, 13);
             this.lblChainNumber.Text = "链号:";
-
+            this.lblChainNumber.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.lblChainNumber.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
             // cboChainNumber
+            this.cboChainNumber.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.cboChainNumber.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cboChainNumber.Items.AddRange(new object[] {
-                "08A (p=12.70mm)", "10A (p=15.875mm)", "12A (p=19.05mm)",
-                "16A (p=25.40mm)", "20A (p=31.75mm)", "24A (p=38.10mm)"
-            });
-            this.cboChainNumber.Location = new System.Drawing.Point(130, 117);
-            this.cboChainNumber.Name = "cboChainNumber";
-            this.cboChainNumber.Size = new System.Drawing.Size(150, 21);
-            this.cboChainNumber.TabIndex = 4;
-            this.cboChainNumber.SelectedIndex = 2; // 默认12A
-
+            this.cboChainNumber.Items.AddRange(new object[] { "08A", "10A", "12A", "16A", "20A", "24A" });
+            this.cboChainNumber.Size = new System.Drawing.Size(100, 25);
+            this.cboChainNumber.SelectedIndex = 0;
+            this.cboChainNumber.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
             // lblZ1
+            this.lblZ1.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.lblZ1.AutoSize = true;
-            this.lblZ1.Location = new System.Drawing.Point(15, 150);
-            this.lblZ1.Name = "lblZ1";
-            this.lblZ1.Size = new System.Drawing.Size(105, 13);
-            this.lblZ1.Text = "小链轮齿数 Z1 (0=自动):";
-
+            this.lblZ1.Text = "小链轮齿数 Z1:";
+            this.lblZ1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.lblZ1.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
             // txtZ1
-            this.txtZ1.Location = new System.Drawing.Point(130, 147);
-            this.txtZ1.Name = "txtZ1";
-            this.txtZ1.Size = new System.Drawing.Size(120, 20);
-            this.txtZ1.TabIndex = 5;
+            this.txtZ1.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.txtZ1.Size = new System.Drawing.Size(100, 24);
             this.txtZ1.Text = "0";
-
+            this.txtZ1.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
             // lblZ1Hint
+            this.lblZ1Hint.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.lblZ1Hint.AutoSize = true;
-            this.lblZ1Hint.ForeColor = System.Drawing.SystemColors.GrayText;
-            this.lblZ1Hint.Location = new System.Drawing.Point(256, 150);
-            this.lblZ1Hint.Name = "lblZ1Hint";
-            this.lblZ1Hint.Size = new System.Drawing.Size(80, 13);
-            this.lblZ1Hint.Text = "推荐17-31";
-
+            this.lblZ1Hint.Text = "(0=自动推荐)";
+            this.lblZ1Hint.ForeColor = System.Drawing.Color.Gray;
+            this.lblZ1Hint.Font = new System.Drawing.Font("Microsoft YaHei", 8F);
             // lblCenterDist
+            this.lblCenterDist.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.lblCenterDist.AutoSize = true;
-            this.lblCenterDist.Location = new System.Drawing.Point(15, 180);
-            this.lblCenterDist.Name = "lblCenterDist";
-            this.lblCenterDist.Size = new System.Drawing.Size(105, 13);
-            this.lblCenterDist.Text = "中心距 a0 (0=自动):";
-
+            this.lblCenterDist.Text = "中心距 a (0=自动):";
+            this.lblCenterDist.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.lblCenterDist.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
             // txtCenterDist
-            this.txtCenterDist.Location = new System.Drawing.Point(130, 177);
-            this.txtCenterDist.Name = "txtCenterDist";
-            this.txtCenterDist.Size = new System.Drawing.Size(120, 20);
-            this.txtCenterDist.TabIndex = 6;
+            this.txtCenterDist.Anchor = System.Windows.Forms.AnchorStyles.Left;
+            this.txtCenterDist.Size = new System.Drawing.Size(100, 24);
             this.txtCenterDist.Text = "0";
-
+            this.txtCenterDist.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
             // lblCenterDistUnit
+            this.lblCenterDistUnit.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.lblCenterDistUnit.AutoSize = true;
-            this.lblCenterDistUnit.Location = new System.Drawing.Point(256, 180);
-            this.lblCenterDistUnit.Name = "lblCenterDistUnit";
-            this.lblCenterDistUnit.Size = new System.Drawing.Size(23, 13);
             this.lblCenterDistUnit.Text = "mm";
-
+            this.lblCenterDistUnit.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.lblCenterDistUnit.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
             // btnRecommend
-            this.btnRecommend.Location = new System.Drawing.Point(15, 220);
-            this.btnRecommend.Name = "btnRecommend";
-            this.btnRecommend.Size = new System.Drawing.Size(150, 30);
-            this.btnRecommend.TabIndex = 7;
+            this.btnRecommend.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.btnRecommend.Size = new System.Drawing.Size(110, 34);
             this.btnRecommend.Text = "推荐链号";
-            this.btnRecommend.UseVisualStyleBackColor = true;
+            this.btnRecommend.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnRecommend.BackColor = System.Drawing.Color.FromArgb(66, 133, 244);
+            this.btnRecommend.ForeColor = System.Drawing.Color.White;
+            this.btnRecommend.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold);
+            this.btnRecommend.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnRecommend.Click += new System.EventHandler(this.btnRecommend_Click);
-
             // btnCalculate
-            this.btnCalculate.Location = new System.Drawing.Point(175, 220);
-            this.btnCalculate.Name = "btnCalculate";
-            this.btnCalculate.Size = new System.Drawing.Size(150, 30);
-            this.btnCalculate.TabIndex = 8;
-            this.btnCalculate.Text = "计算";
-            this.btnCalculate.UseVisualStyleBackColor = true;
+            this.btnCalculate.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.btnCalculate.Size = new System.Drawing.Size(110, 34);
+            this.btnCalculate.Text = "计 算";
+            this.btnCalculate.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCalculate.BackColor = System.Drawing.Color.FromArgb(52, 168, 83);
+            this.btnCalculate.ForeColor = System.Drawing.Color.White;
+            this.btnCalculate.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold);
+            this.btnCalculate.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
-
+            // TableLayoutPanel controls
+            this.tableLayoutInput.Controls.Add(this.lblPower, 0, 0);
+            this.tableLayoutInput.Controls.Add(this.txtPower, 1, 0);
+            this.tableLayoutInput.Controls.Add(this.lblPowerUnit, 2, 0);
+            this.tableLayoutInput.Controls.Add(this.lblN1, 0, 1);
+            this.tableLayoutInput.Controls.Add(this.txtN1, 1, 1);
+            this.tableLayoutInput.Controls.Add(this.lblN1Unit, 2, 1);
+            this.tableLayoutInput.Controls.Add(this.lblRatio, 0, 2);
+            this.tableLayoutInput.Controls.Add(this.txtRatio, 1, 2);
+            this.tableLayoutInput.Controls.Add(this.lblChainNumber, 0, 3);
+            this.tableLayoutInput.Controls.Add(this.cboChainNumber, 1, 3);
+            this.tableLayoutInput.Controls.Add(this.lblZ1, 0, 4);
+            this.tableLayoutInput.Controls.Add(this.txtZ1, 1, 4);
+            this.tableLayoutInput.Controls.Add(this.lblZ1Hint, 1, 5);
+            this.tableLayoutInput.Controls.Add(this.lblCenterDist, 0, 6);
+            this.tableLayoutInput.Controls.Add(this.txtCenterDist, 1, 6);
+            this.tableLayoutInput.Controls.Add(this.lblCenterDistUnit, 2, 6);
+            this.tableLayoutInput.Controls.Add(this.btnRecommend, 0, 7);
+            this.tableLayoutInput.SetColumnSpan(this.btnRecommend, 2);
+            this.tableLayoutInput.Controls.Add(this.btnCalculate, 0, 8);
+            this.tableLayoutInput.SetColumnSpan(this.btnCalculate, 2);
+            // panelRight
+            this.panelRight.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panelRight.Padding = new System.Windows.Forms.Padding(4);
+            this.panelRight.Controls.Add(this.grpOutput);
+            this.panelRight.Controls.Add(this.grpCheck);
             // grpOutput
-            this.grpOutput.Controls.Add(this.dgvResult);
-            this.grpOutput.Location = new System.Drawing.Point(375, 12);
-            this.grpOutput.Name = "grpOutput";
-            this.grpOutput.Size = new System.Drawing.Size(520, 400);
+            this.grpOutput.Dock = System.Windows.Forms.DockStyle.Fill;
             this.grpOutput.TabIndex = 1;
             this.grpOutput.TabStop = false;
-            this.grpOutput.Text = "计算结果";
-
+            this.grpOutput.Text = " 计算结果 ";
+            this.grpOutput.Font = new System.Drawing.Font("Microsoft YaHei", 9.5F);
+            this.grpOutput.Controls.Add(this.dgvResult);
             // dgvResult
+            this.dgvResult.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dgvResult.AllowUserToAddRows = false;
             this.dgvResult.AllowUserToDeleteRows = false;
-            this.dgvResult.AllowUserToResizeRows = false;
-            this.dgvResult.BackgroundColor = System.Drawing.SystemColors.Window;
+            this.dgvResult.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvResult.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvResult.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-                this.colParam, this.colValue, this.colUnit, this.colCheck
-            });
-            this.dgvResult.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dgvResult.Location = new System.Drawing.Point(3, 16);
-            this.dgvResult.Name = "dgvResult";
             this.dgvResult.ReadOnly = true;
             this.dgvResult.RowHeadersVisible = false;
             this.dgvResult.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvResult.TabIndex = 0;
-
-            // colParam
+            this.dgvResult.BackgroundColor = System.Drawing.Color.White;
+            this.dgvResult.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.dgvResult.AlternatingRowsDefaultCellStyle.BackColor = System.Drawing.Color.FromArgb(245, 248, 255);
+            this.dgvResult.DefaultCellStyle.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
+            this.dgvResult.ColumnHeadersDefaultCellStyle.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold);
+            this.dgvResult.ColumnHeadersDefaultCellStyle.BackColor = System.Drawing.Color.FromArgb(240, 244, 252);
             this.colParam.HeaderText = "参数";
             this.colParam.Name = "colParam";
-            this.colParam.Width = 150;
-            this.colParam.ReadOnly = true;
-
-            // colValue
+            this.colParam.FillWeight = 35;
             this.colValue.HeaderText = "数值";
             this.colValue.Name = "colValue";
-            this.colValue.Width = 120;
-            this.colValue.ReadOnly = true;
-
-            // colUnit
+            this.colValue.FillWeight = 25;
             this.colUnit.HeaderText = "单位";
             this.colUnit.Name = "colUnit";
-            this.colUnit.Width = 60;
-            this.colUnit.ReadOnly = true;
-
-            // colCheck
+            this.colUnit.FillWeight = 15;
             this.colCheck.HeaderText = "校核";
             this.colCheck.Name = "colCheck";
-            this.colCheck.Width = 160;
-            this.colCheck.ReadOnly = true;
-
+            this.colCheck.FillWeight = 25;
+            this.dgvResult.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+                this.colParam, this.colValue, this.colUnit, this.colCheck
+            });
             // grpCheck
-            this.grpCheck.Controls.Add(this.txtRemarks);
-            this.grpCheck.Location = new System.Drawing.Point(12, 425);
-            this.grpCheck.Name = "grpCheck";
-            this.grpCheck.Size = new System.Drawing.Size(883, 150);
+            this.grpCheck.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.grpCheck.Height = 180;
+            this.grpCheck.MinimumSize = new System.Drawing.Size(0, 120);
             this.grpCheck.TabIndex = 2;
             this.grpCheck.TabStop = false;
-            this.grpCheck.Text = "设计说明与校核";
-
+            this.grpCheck.Text = " 设计说明与校核 ";
+            this.grpCheck.Font = new System.Drawing.Font("Microsoft YaHei", 9.5F);
+            this.grpCheck.Controls.Add(this.txtRemarks);
             // txtRemarks
             this.txtRemarks.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.txtRemarks.Location = new System.Drawing.Point(3, 16);
             this.txtRemarks.Multiline = true;
-            this.txtRemarks.Name = "txtRemarks";
             this.txtRemarks.ReadOnly = true;
             this.txtRemarks.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txtRemarks.Size = new System.Drawing.Size(877, 131);
-            this.txtRemarks.TabIndex = 0;
-
+            this.txtRemarks.BackColor = System.Drawing.Color.White;
+            this.txtRemarks.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtRemarks.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
             // MainForm
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(910, 590);
-            this.Controls.Add(this.grpInput);
-            this.Controls.Add(this.grpOutput);
-            this.Controls.Add(this.grpCheck);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.MaximizeBox = true;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.ClientSize = new System.Drawing.Size(1100, 700);
+            this.Controls.Add(this.panelRight);
+            this.Controls.Add(this.panelLeft);
+            this.Font = new System.Drawing.Font("Microsoft YaHei", 9F);
+            this.MinimumSize = new System.Drawing.Size(900, 550);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "链传动设计 - SprocketDesign";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.panelLeft.ResumeLayout(false);
             this.grpInput.ResumeLayout(false);
-            this.grpInput.PerformLayout();
+            this.tableLayoutInput.ResumeLayout(false);
+            this.tableLayoutInput.PerformLayout();
+            this.panelRight.ResumeLayout(false);
             this.grpOutput.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgvResult)).EndInit();
             this.grpCheck.ResumeLayout(false);
             this.grpCheck.PerformLayout();
             this.ResumeLayout(false);
         }
-
         #endregion
-
+        private System.Windows.Forms.Panel panelLeft;
         private System.Windows.Forms.GroupBox grpInput;
+        private System.Windows.Forms.TableLayoutPanel tableLayoutInput;
         private System.Windows.Forms.Label lblPower;
         private System.Windows.Forms.TextBox txtPower;
         private System.Windows.Forms.Label lblPowerUnit;
@@ -327,14 +318,13 @@ namespace SprocketDesign
         private System.Windows.Forms.Label lblCenterDistUnit;
         private System.Windows.Forms.Button btnRecommend;
         private System.Windows.Forms.Button btnCalculate;
-
+        private System.Windows.Forms.Panel panelRight;
         private System.Windows.Forms.GroupBox grpOutput;
         private System.Windows.Forms.DataGridView dgvResult;
         private System.Windows.Forms.DataGridViewTextBoxColumn colParam;
         private System.Windows.Forms.DataGridViewTextBoxColumn colValue;
         private System.Windows.Forms.DataGridViewTextBoxColumn colUnit;
         private System.Windows.Forms.DataGridViewTextBoxColumn colCheck;
-
         private System.Windows.Forms.GroupBox grpCheck;
         private System.Windows.Forms.TextBox txtRemarks;
     }

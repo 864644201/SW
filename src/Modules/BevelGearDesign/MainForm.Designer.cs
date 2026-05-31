@@ -1,4 +1,4 @@
-namespace BevelGearDesign
+﻿namespace BevelGearDesign
 {
     partial class MainForm
     {
@@ -317,7 +317,7 @@ namespace BevelGearDesign
 
             // ===== Form =====
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.ClientSize = new System.Drawing.Size(1100, 760);
             this.Controls.Add(this.grpBasic);
             this.Controls.Add(this.grpGeometry);
@@ -331,10 +331,10 @@ namespace BevelGearDesign
             this.Controls.Add(this.txtResult);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Sizable;
             this.MaximizeBox = true;
+            this.MinimumSize = new System.Drawing.Size(1020, 700);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "圆锥齿轮设计 - 直齿圆锥齿轮几何参数与强度计算";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.ResumeLayout(false);
             this.PerformLayout();
         }

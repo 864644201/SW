@@ -77,44 +77,92 @@ namespace MaidouBao.Launcher
             RenderModuleTabs();
         }
 
+        private static UIElement CreateCardContent(string title, string subtitle, string footer, Color accentColor)
+        {
+            var root = new Grid();
+            root.RowDefinitions.Add(new RowDefinition { Height = GridLength.Auto });
+            root.RowDefinitions.Add(new RowDefinition { Height = new GridLength(1, GridUnitType.Star) });
+            root.RowDefinitions.Add(new RowDefinition { Height = GridLength.Auto });
+
+            var titleRow = new Grid { Margin = new Thickness(0, 0, 0, 8) };
+            titleRow.ColumnDefinitions.Add(new ColumnDefinition { Width = GridLength.Auto });
+            titleRow.ColumnDefinitions.Add(new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) });
+
+            titleRow.Children.Add(new Border
+            {
+                Width = 4,
+                Height = 34,
+                CornerRadius = new CornerRadius(2),
+                Background = new SolidColorBrush(accentColor),
+                Margin = new Thickness(0, 2, 10, 0)
+            });
+
+            var titleBlock = new TextBlock
+            {
+                Text = title,
+                TextWrapping = TextWrapping.Wrap,
+                TextTrimming = TextTrimming.CharacterEllipsis,
+                TextAlignment = TextAlignment.Left,
+                Foreground = new SolidColorBrush(Color.FromRgb(23, 32, 51)),
+                FontSize = 15,
+                FontWeight = FontWeights.SemiBold,
+                LineHeight = 19,
+                MaxHeight = 40
+            };
+            Grid.SetColumn(titleBlock, 1);
+            titleRow.Children.Add(titleBlock);
+            Grid.SetRow(titleRow, 0);
+            root.Children.Add(titleRow);
+
+            var subtitleBlock = new TextBlock
+            {
+                Text = subtitle,
+                TextWrapping = TextWrapping.Wrap,
+                TextTrimming = TextTrimming.CharacterEllipsis,
+                TextAlignment = TextAlignment.Left,
+                Foreground = new SolidColorBrush(Color.FromRgb(100, 116, 139)),
+                FontSize = 11.5,
+                LineHeight = 17,
+                MaxHeight = 36
+            };
+            Grid.SetRow(subtitleBlock, 1);
+            root.Children.Add(subtitleBlock);
+
+            var footerBadge = new Border
+            {
+                Background = new SolidColorBrush(Color.FromArgb(24, accentColor.R, accentColor.G, accentColor.B)),
+                CornerRadius = new CornerRadius(6),
+                Padding = new Thickness(8, 4, 8, 4),
+                HorizontalAlignment = HorizontalAlignment.Left,
+                Margin = new Thickness(0, 8, 0, 0),
+                Child = new TextBlock
+                {
+                    Text = footer,
+                    TextWrapping = TextWrapping.NoWrap,
+                    TextTrimming = TextTrimming.CharacterEllipsis,
+                    Foreground = new SolidColorBrush(accentColor),
+                    FontSize = 10.5,
+                    FontWeight = FontWeights.SemiBold,
+                    MaxWidth = 164
+                }
+            };
+            Grid.SetRow(footerBadge, 2);
+            root.Children.Add(footerBadge);
+
+            return root;
+        }
+
         private Button CreateModuleButton(PluginInfo plugin)
         {
             var btn = new Button
             {
                 Style = (Style)FindResource("ModuleButton"),
                 Tag = plugin,
-                Content = new StackPanel
-                {
-                    Children =
-                    {
-                        new TextBlock
-                        {
-                            Text = plugin.Name,
-                            TextWrapping = TextWrapping.Wrap,
-                            TextAlignment = TextAlignment.Left,
-                            Foreground = Brushes.White,
-                            FontSize = 15,
-                            FontWeight = FontWeights.Bold
-                        },
-                        new TextBlock
-                        {
-                            Text = plugin.Explain ?? "点击启动模块",
-                            TextWrapping = TextWrapping.Wrap,
-                            TextAlignment = TextAlignment.Left,
-                            Foreground = new SolidColorBrush(Color.FromRgb(230, 240, 250)),
-                            FontSize = 11,
-                            Margin = new Thickness(0, 8, 0, 6),
-                            MaxHeight = 34
-                        },
-                        new TextBlock
-                        {
-                            Text = "单击启动  |  右键排序/打开目录",
-                            TextAlignment = TextAlignment.Left,
-                            Foreground = new SolidColorBrush(Color.FromRgb(210, 225, 240)),
-                            FontSize = 10
-                        }
-                    }
-                }
+                Content = CreateCardContent(
+                    plugin.Name,
+                    plugin.Explain ?? "点击启动模块",
+                    "启动 / 排序 / 目录",
+                    Color.FromRgb(45, 111, 168))
             };
             btn.Click += ModuleButton_Click;
             ToolTipService.SetToolTip(btn, plugin.Explain ?? plugin.Name);
@@ -677,28 +725,12 @@ namespace MaidouBao.Launcher
                 catch
                 {
                     // 图片加载失败，回退到纯文字
-                    content = new TextBlock
-                    {
-                        Text = entry.Name,
-                        TextWrapping = TextWrapping.Wrap,
-                        TextAlignment = TextAlignment.Center,
-                        HorizontalAlignment = HorizontalAlignment.Stretch,
-                        VerticalAlignment = VerticalAlignment.Center,
-                        Foreground = Brushes.White
-                    };
+                    content = CreateCardContent(entry.Name, "外部工具", "启动 / 目录 / 管理", Color.FromRgb(14, 143, 104));
                 }
             }
             else
             {
-                content = new TextBlock
-                {
-                    Text = entry.Name,
-                    TextWrapping = TextWrapping.Wrap,
-                    TextAlignment = TextAlignment.Center,
-                    HorizontalAlignment = HorizontalAlignment.Stretch,
-                    VerticalAlignment = VerticalAlignment.Center,
-                    Foreground = Brushes.White
-                };
+                content = CreateCardContent(entry.Name, "外部工具", "启动 / 目录 / 管理", Color.FromRgb(14, 143, 104));
             }
 
             var btn = new Button
@@ -1140,37 +1172,7 @@ namespace MaidouBao.Launcher
             {
                 Style = (Style)FindResource("ModuleButton"),
                 Tag = filePath,
-                Content = new StackPanel
-                {
-                    Children =
-                    {
-                        new TextBlock
-                        {
-                            Text = fileName,
-                            TextWrapping = TextWrapping.Wrap,
-                            TextAlignment = TextAlignment.Left,
-                            Foreground = Brushes.White,
-                            FontSize = 15,
-                            FontWeight = FontWeights.Bold
-                        },
-                        new TextBlock
-                        {
-                            Text = $"大小: {sizeText}",
-                            TextWrapping = TextWrapping.Wrap,
-                            TextAlignment = TextAlignment.Left,
-                            Foreground = new SolidColorBrush(Color.FromRgb(230, 240, 250)),
-                            FontSize = 11,
-                            Margin = new Thickness(0, 8, 0, 6)
-                        },
-                        new TextBlock
-                        {
-                            Text = "单击打开表格  |  右键打开目录",
-                            TextAlignment = TextAlignment.Left,
-                            Foreground = new SolidColorBrush(Color.FromRgb(210, 225, 240)),
-                            FontSize = 10
-                        }
-                    }
-                }
+                Content = CreateCardContent(fileName, $"Excel 表格 | {sizeText}", "打开 / 所在目录", Color.FromRgb(14, 143, 104))
             };
             btn.Click += TableToolButton_Click;
             ToolTipService.SetToolTip(btn, filePath);
@@ -1232,36 +1234,48 @@ namespace MaidouBao.Launcher
             foreach (var dir in Directory.GetDirectories(_manualDir))
             {
                 var dirName = Path.GetFileName(dir);
-                var allExes = Directory.GetFiles(dir, "*.exe", SearchOption.AllDirectories);
-                if (allExes.Length == 0) continue;
+                // 只扫描顶层目录的 exe（不递归，避免子目录干扰）
+                var topExes = Directory.GetFiles(dir, "*.exe", SearchOption.TopDirectoryOnly);
+                if (topExes.Length == 0) continue;
 
-                // 优先选择与目录名匹配的中文 exe
-                string mainExe = null;
-                foreach (var exe in allExes)
+                // 收集中文命名的 exe
+                var chineseExes = new List<string>();
+                foreach (var exe in topExes)
                 {
                     var exeBaseName = Path.GetFileNameWithoutExtension(exe);
-                    if (exeBaseName.Equals(dirName, StringComparison.OrdinalIgnoreCase))
-                    {
-                        mainExe = exe;
-                        break;
-                    }
+                    bool hasChinese = false;
+                    foreach (char c in exeBaseName) { if (c >= 0x4e00 && c <= 0x9fff) { hasChinese = true; break; } }
+                    if (hasChinese) chineseExes.Add(exe);
                 }
-                // 其次选中文命名的 exe（包含中文字符）
-                if (mainExe == null)
-                {
-                    foreach (var exe in allExes)
-                    {
-                        var exeBaseName = Path.GetFileNameWithoutExtension(exe);
-                        bool hasChinese = false;
-                        foreach (char c in exeBaseName) { if (c >= 0x4e00 && c <= 0x9fff) { hasChinese = true; break; } }
-                        if (hasChinese) { mainExe = exe; break; }
-                    }
-                }
-                // 兜底选第一个
-                if (mainExe == null) mainExe = allExes[0];
 
-                var entry = new CustomToolEntry { Name = dirName, ExePath = mainExe, IsAutoDiscovered = true };
-                _manualTools.Add(entry);
+                if (chineseExes.Count > 1)
+                {
+                    // 多个中文 exe：每个单独生成按钮（如"连接设计"目录有键和螺钉两个工具）
+                    foreach (var exe in chineseExes)
+                    {
+                        var exeName = Path.GetFileNameWithoutExtension(exe);
+                        var entry = new CustomToolEntry { Name = exeName, ExePath = exe, IsAutoDiscovered = true };
+                        _manualTools.Add(entry);
+                    }
+                }
+                else
+                {
+                    // 单个或无中文 exe：选一个最佳的
+                    string mainExe = null;
+                    // 优先选与目录名匹配的
+                    foreach (var exe in topExes)
+                    {
+                        if (Path.GetFileNameWithoutExtension(exe).Equals(dirName, StringComparison.OrdinalIgnoreCase))
+                        { mainExe = exe; break; }
+                    }
+                    // 其次选中文命名的
+                    if (mainExe == null && chineseExes.Count > 0) mainExe = chineseExes[0];
+                    // 兜底选第一个
+                    if (mainExe == null) mainExe = topExes[0];
+
+                    var entry = new CustomToolEntry { Name = dirName, ExePath = mainExe, IsAutoDiscovered = true };
+                    _manualTools.Add(entry);
+                }
             }
 
             // 按排序顺序排列
@@ -1286,37 +1300,7 @@ namespace MaidouBao.Launcher
             {
                 Style = (Style)FindResource("ModuleButton"),
                 Tag = entry,
-                Content = new StackPanel
-                {
-                    Children =
-                    {
-                        new TextBlock
-                        {
-                            Text = entry.Name,
-                            TextWrapping = TextWrapping.Wrap,
-                            TextAlignment = TextAlignment.Left,
-                            Foreground = Brushes.White,
-                            FontSize = 15,
-                            FontWeight = FontWeights.Bold
-                        },
-                        new TextBlock
-                        {
-                            Text = "机械设计手册",
-                            TextWrapping = TextWrapping.Wrap,
-                            TextAlignment = TextAlignment.Left,
-                            Foreground = new SolidColorBrush(Color.FromRgb(230, 240, 250)),
-                            FontSize = 11,
-                            Margin = new Thickness(0, 8, 0, 6)
-                        },
-                        new TextBlock
-                        {
-                            Text = "单击启动  |  右键打开目录",
-                            TextAlignment = TextAlignment.Left,
-                            Foreground = new SolidColorBrush(Color.FromRgb(210, 225, 240)),
-                            FontSize = 10
-                        }
-                    }
-                }
+                Content = CreateCardContent(entry.Name, "机械设计手册", "启动 / 排序 / 目录", Color.FromRgb(121, 92, 40))
             };
             btn.Click += ManualToolButton_Click;
             ToolTipService.SetToolTip(btn, entry.ExePath);
@@ -1683,40 +1667,7 @@ namespace MaidouBao.Launcher
             {
                 Style = (Style)FindResource("ModuleButton"),
                 Tag = filePath,
-                Content = new StackPanel
-                {
-                    Children =
-                    {
-                        new TextBlock
-                        {
-                            Text = fileName,
-                            TextWrapping = TextWrapping.Wrap,
-                            TextAlignment = TextAlignment.Left,
-                            Foreground = Brushes.White,
-                            FontSize = 15,
-                            FontWeight = FontWeights.Bold,
-                            MaxHeight = 40
-                        },
-                        new TextBlock
-                        {
-                            Text = $"{ext}  |  {sizeText}",
-                            TextWrapping = TextWrapping.Wrap,
-                            TextAlignment = TextAlignment.Left,
-                            Foreground = new SolidColorBrush(Color.FromRgb(230, 240, 250)),
-                            FontSize = 11,
-                            Margin = new Thickness(0, 8, 0, 4)
-                        },
-                        new TextBlock
-                        {
-                            Text = catText,
-                            TextWrapping = TextWrapping.Wrap,
-                            TextAlignment = TextAlignment.Left,
-                            Foreground = new SolidColorBrush(catColor),
-                            FontSize = 10,
-                            Margin = new Thickness(0, 0, 0, 4)
-                        }
-                    }
-                }
+                Content = CreateCardContent(fileName, $"{ext} | {sizeText} | {catText}", "阅读 / 分类 / 目录", Color.FromRgb(176, 99, 18))
             };
             btn.Click += BookButton_Click;
             ToolTipService.SetToolTip(btn, filePath);

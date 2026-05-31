@@ -1,4 +1,4 @@
-namespace Leadscrew
+﻿namespace Leadscrew
 {
     partial class MainForm
     {
@@ -277,17 +277,18 @@ namespace Leadscrew
 
             // MainForm
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(910, 520);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.AutoScroll = true;
+            this.ClientSize = new System.Drawing.Size(930, 560);
             this.Controls.Add(this.grpInput);
             this.Controls.Add(this.grpResult);
             this.Controls.Add(this.grpStatus);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Sizable;
             this.MaximizeBox = true;
+            this.MinimumSize = new System.Drawing.Size(920, 560);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "丝杠设计计算";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
 
             this.grpInput.ResumeLayout(false);
             this.grpInput.PerformLayout();

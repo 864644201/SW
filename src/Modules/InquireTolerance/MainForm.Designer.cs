@@ -1,4 +1,4 @@
-namespace InquireTolerance
+﻿namespace InquireTolerance
 {
     partial class MainForm
     {
@@ -373,7 +373,7 @@ namespace InquireTolerance
 
             // ===== MainForm =====
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.ClientSize = new System.Drawing.Size(784, 461);
             this.MinimumSize = new System.Drawing.Size(800, 500);
             this.Font = new System.Drawing.Font("Microsoft YaHei UI", 9F);

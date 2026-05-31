@@ -1,4 +1,4 @@
-namespace GearDesign
+﻿namespace GearDesign
 {
     partial class MainForm
     {
@@ -90,7 +90,6 @@ namespace GearDesign
             // ===== 面板布局 =====
             this.panelLeft = new System.Windows.Forms.Panel();
             this.panelRight = new System.Windows.Forms.Panel();
-            this.splitMain = new System.Windows.Forms.SplitContainer();
 
             this.groupBoxInput.SuspendLayout();
             this.groupBoxGear.SuspendLayout();
@@ -103,10 +102,6 @@ namespace GearDesign
             ((System.ComponentModel.ISupportInitialize)(this.dgvStrength)).BeginInit();
             this.panelLeft.SuspendLayout();
             this.panelRight.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.splitMain)).BeginInit();
-            this.splitMain.Panel1.SuspendLayout();
-            this.splitMain.Panel2.SuspendLayout();
-            this.splitMain.SuspendLayout();
             this.SuspendLayout();
 
             // ===== groupBoxInput =====
@@ -343,7 +338,10 @@ namespace GearDesign
 
             // ===== panelLeft =====
             this.panelLeft.AutoScroll = true;
-            this.panelLeft.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panelLeft.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panelLeft.Width = 380;
+            this.panelLeft.MinimumSize = new System.Drawing.Size(360, 0);
+            this.panelLeft.Padding = new System.Windows.Forms.Padding(4);
             this.panelLeft.MinimumSize = new System.Drawing.Size(350, 0);
             this.panelLeft.Padding = new System.Windows.Forms.Padding(5);
             this.panelLeft.Controls.Add(this.btnReset);
@@ -466,30 +464,18 @@ namespace GearDesign
             this.panelRight.Controls.Add(this.groupBoxLoad);
             this.panelRight.Controls.Add(this.groupBoxGeometry);
 
-            // ===== splitMain =====
-            this.splitMain.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.splitMain.FixedPanel = System.Windows.Forms.FixedPanel.Panel1;
-            this.splitMain.Location = new System.Drawing.Point(0, 0);
-            this.splitMain.Name = "splitMain";
-            this.splitMain.Panel1.Controls.Add(this.panelLeft);
-            this.splitMain.Panel1MinSize = 350;
-            this.splitMain.Panel2.Controls.Add(this.panelRight);
-            this.splitMain.Panel2MinSize = 400;
-            this.splitMain.Size = new System.Drawing.Size(984, 661);
-            this.splitMain.SplitterDistance = 360;
-            this.splitMain.TabIndex = 0;
 
             // ===== MainForm =====
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.ClientSize = new System.Drawing.Size(984, 661);
-            this.Controls.Add(this.splitMain);
+            this.Controls.Add(this.panelRight);
+            this.Controls.Add(this.panelLeft);
             this.Font = new System.Drawing.Font("Microsoft YaHei UI", 9F);
             this.MinimumSize = new System.Drawing.Size(800, 550);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "圆柱齿轮设计 - 麦豆宝";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
 
             this.groupBoxInput.ResumeLayout(false);
             this.groupBoxInput.PerformLayout();
@@ -507,10 +493,6 @@ namespace GearDesign
             ((System.ComponentModel.ISupportInitialize)(this.dgvStrength)).EndInit();
             this.panelLeft.ResumeLayout(false);
             this.panelRight.ResumeLayout(false);
-            this.splitMain.Panel1.ResumeLayout(false);
-            this.splitMain.Panel2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.splitMain)).EndInit();
-            this.splitMain.ResumeLayout(false);
             this.ResumeLayout(false);
         }
 
@@ -587,6 +569,5 @@ namespace GearDesign
         // 布局
         private System.Windows.Forms.Panel panelLeft;
         private System.Windows.Forms.Panel panelRight;
-        private System.Windows.Forms.SplitContainer splitMain;
     }
 }

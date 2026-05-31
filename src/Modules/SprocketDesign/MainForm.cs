@@ -87,22 +87,48 @@ namespace SprocketDesign
         {
             dgvResult.Rows.Clear();
 
-            AddRow("链节距 p", result.Pitch.ToString("F3"), "mm", "");
+            // 链条规格
+            AddRow("══════ 链条规格 ══════", "", "", "");
+            AddRow("链号", result.ChainTypeName ?? "-", "", "");
+            AddRow("链节距 p", result.ChainPitch.ToString("F3"), "mm", "");
+            AddRow("滚子直径 d1", result.RollerDia.ToString("F2"), "mm", "");
+            AddRow("内链节内宽 b1", result.InnerWidth.ToString("F2"), "mm", "");
+            AddRow("极限拉伸载荷 Q", result.BreakingLoad.ToString("F1"), "kN", "");
+            AddRow("每米质量 q", result.MassPerMeter.ToString("F2"), "kg/m", "");
+
+            // 链轮参数
+            AddRow("══════ 链轮参数 ══════", "", "", "");
             AddRow("小链轮齿数 Z1", result.Z1.ToString(), "",
                    result.Z1Check ? "合格" : "偏少!");
             AddRow("大链轮齿数 Z2", result.Z2.ToString(), "",
                    result.Z2Check ? "合格" : "超标!");
+            AddRow("齿数系数 Kz", result.Kz.ToString("F3"), "", "");
+
+            // 运动参数
+            AddRow("══════ 运动参数 ══════", "", "", "");
             AddRow("链速 v", result.ChainSpeed.ToString("F3"), "m/s",
                    result.SpeedCheck ? "合格" : "超标!");
+            AddRow("有效圆周力 Ft", result.Ft.ToString("F1"), "N", "");
+            AddRow("压轴力 Fr", result.ShaftForce.ToString("F1"), "N", "");
+
+            // 中心距与链长
+            AddRow("══════ 中心距与链长 ══════", "", "", "");
             AddRow("初估中心距 a0", result.InitialCenterDist.ToString("F1"), "mm", "");
             AddRow("计算链节数 Lp", result.ChainLinks.ToString("F2"), "节", "");
-            AddRow("圆整链节数 Lp", result.ChainLinksRounded.ToString(), "节 (偶数)", "");
+            AddRow("圆整链节数 Lp", result.ChainLinksRounded.ToString(), "节(偶数)", "");
+            AddRow("链条总长", result.ChainLengthMm.ToString("F1"), "mm", "");
             AddRow("实际中心距 a", result.ActualCenterDist.ToString("F1"), "mm", "");
+            AddRow("中心距推荐范围", $"{result.CenterDistMin:F0}~{result.CenterDistMax:F0}", "mm",
+                   result.CenterDistCheck ? "合格" : "超出范围!");
+
+            // 强度校核
+            AddRow("══════ 强度校核 ══════", "", "", "");
             AddRow("额定功率 P0", result.RatedPower.ToString("F3"), "kW", "");
             AddRow("安全系数 S", result.SafetyFactor.ToString("F2"), "",
                    result.SafetyFactor >= 1.0 ? "安全" : "不足!");
-            AddRow("磨损校核", result.WearCheck ? "通过" : "不通过", "",
+            AddRow("铰链比压 σp", result.SpecificPressure.ToString("F2"), "MPa",
                    result.WearCheck ? "合格" : "超标!");
+            AddRow("磨损校核", result.WearCheck ? "通过" : "不通过", "", "");
             AddRow("推荐润滑", GetLubricationName(result.Lubrication), "", "");
 
             txtRemarks.Text = result.Remarks;

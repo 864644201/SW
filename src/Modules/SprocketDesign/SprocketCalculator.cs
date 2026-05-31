@@ -68,6 +68,22 @@ namespace SprocketDesign
         public bool SpeedCheck { get; set; }          // 链速校核
         public bool WearCheck { get; set; }           // 磨损校核
         public string Remarks { get; set; }           // 备注
+
+        // 详细参数
+        public string ChainTypeName { get; set; }      // 链号名称
+        public double ChainPitch { get; set; }         // 链节距 mm
+        public double RollerDia { get; set; }          // 滚子直径 mm
+        public double InnerWidth { get; set; }         // 内链节内宽 mm
+        public double BreakingLoad { get; set; }       // 极限拉伸载荷 kN
+        public double MassPerMeter { get; set; }       // 每米质量 kg/m
+        public double ChainLengthMm { get; set; }      // 链条总长 mm
+        public double Ft { get; set; }                 // 有效圆周力 N
+        public double ShaftForce { get; set; }         // 压轴力 N
+        public double Kz { get; set; }                 // 齿数系数
+        public double SpecificPressure { get; set; }   // 铰链比压 MPa
+        public double CenterDistMin { get; set; }      // 中心距最小推荐值 mm
+        public double CenterDistMax { get; set; }      // 中心距最大推荐值 mm
+        public bool CenterDistCheck { get; set; }      // 中心距范围校核
     }
 
     /// <summary>
@@ -138,6 +154,13 @@ namespace SprocketDesign
             // 1. 获取链条参数
             ChainParams chain = GetChainParams(chainNumber);
             result.Pitch = chain.Pitch;
+            // 记录链条规格
+            result.ChainTypeName = GetChainName(chainNumber);
+            result.ChainPitch = chain.Pitch;
+            result.RollerDia = chain.RollerDia;
+            result.InnerWidth = chain.InnerWidth;
+            result.BreakingLoad = chain.BreakingLoad;
+            result.MassPerMeter = chain.MassPerMeter;
 
             // 2. 小链轮齿数确定
             if (z1 <= 0)
@@ -248,6 +271,22 @@ namespace SprocketDesign
 
             // 11. 压轴力估算 (简化: Ft * 1.2~1.3)
             double shaftForce = Ft * 1.25;
+
+            // 记录详细参数
+            result.Ft = Ft;
+            result.ShaftForce = shaftForce;
+            result.Kz = Kz;
+            result.SpecificPressure = specificPressure;
+            result.ChainLengthMm = result.ChainLinksRounded * chain.Pitch;
+
+            // 中心距范围校核
+            result.CenterDistMin = 30.0 * chain.Pitch;
+            result.CenterDistMax = 80.0 * chain.Pitch;
+            result.CenterDistCheck = result.ActualCenterDist >= result.CenterDistMin && result.ActualCenterDist <= result.CenterDistMax;
+            if (!result.CenterDistCheck)
+            {
+                remarks.AppendLine($"[注意] 中心距 {result.ActualCenterDist:F1}mm 超出推荐范围 [{result.CenterDistMin:F0}, {result.CenterDistMax:F0}]mm");
+            }
             remarks.AppendLine($"估算压轴力 Fr = {shaftForce:F1} N");
 
             result.Remarks = remarks.ToString();
@@ -298,6 +337,23 @@ namespace SprocketDesign
             if (pv <= 20000) return ChainNumber._16A;
             if (pv <= 50000) return ChainNumber._20A;
             return ChainNumber._24A;
+        }
+
+        /// <summary>
+        /// 获取链号名称
+        /// </summary>
+        private static string GetChainName(ChainNumber chainNumber)
+        {
+            switch (chainNumber)
+            {
+                case ChainNumber._08A: return "08A";
+                case ChainNumber._10A: return "10A";
+                case ChainNumber._12A: return "12A";
+                case ChainNumber._16A: return "16A";
+                case ChainNumber._20A: return "20A";
+                case ChainNumber._24A: return "24A";
+                default: return "未知";
+            }
         }
     }
 }

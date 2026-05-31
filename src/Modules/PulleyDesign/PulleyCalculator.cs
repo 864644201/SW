@@ -59,6 +59,24 @@ namespace PulleyDesign
         public bool SpeedCheck { get; set; }     // 带速校核
         public bool WrapAngleCheck { get; set; } // 包角校核
         public string Remarks { get; set; }      // 备注
+
+        // 详细参数
+        public string BeltTypeName { get; set; }      // 带型名称
+        public double BeltTopWidth { get; set; }      // 带顶宽 mm
+        public double BeltHeight { get; set; }        // 带高度 mm
+        public double MinPulleyDia { get; set; }      // 最小带轮直径 mm
+        public double BeltUnitMass { get; set; }      // 带单位质量 kg/m
+        public double DesignPower { get; set; }       // 设计功率 kW
+        public double Ka { get; set; }                // 工况系数
+        public double P0 { get; set; }               // 单根额定功率 kW
+        public double Kalpha { get; set; }           // 包角修正系数
+        public double KL { get; set; }               // 带长修正系数
+        public double SlipRateValue { get; set; }     // 弹性滑动率
+        public bool D1Check { get; set; }             // 小带轮直径校核
+        public bool CenterDistCheck { get; set; }     // 中心距范围校核
+        public double CenterDistMin { get; set; }     // 中心距最小推荐值 mm
+        public double CenterDistMax { get; set; }     // 中心距最大推荐值 mm
+        public double BeltLengthError { get; set; }   // 带长相对误差 %
     }
 
     /// <summary>
@@ -135,6 +153,12 @@ namespace PulleyDesign
             if (isVBelt)
             {
                 beltParams = GetVBeltParams(beltType);
+                // 记录带型规格
+                result.BeltTypeName = GetBeltTypeName(beltType);
+                result.BeltTopWidth = beltParams.TopWidth;
+                result.BeltHeight = beltParams.Height;
+                result.MinPulleyDia = beltParams.MinPulleyDia;
+                result.BeltUnitMass = beltParams.UnitMass;
             }
 
             // 2. 大带轮直径: d2 = i * d1 * (1 - epsilon)
@@ -249,6 +273,25 @@ namespace PulleyDesign
                     // 10. 轴压力: Fr = 2*z*F0*sin(alpha1/2)
                     double alphaRad = result.WrapAngle1 * Math.PI / 180.0;
                     result.ShaftForce = 2 * result.BeltCount * result.PreTension * Math.Sin(alphaRad / 2.0);
+
+                    // 记录详细参数
+                    result.P0 = P0;
+                    result.Kalpha = Kalpha;
+                    result.KL = Kl;
+                    result.Ka = Ka;
+                    result.SlipRateValue = SlipRate;
+                    result.DesignPower = Ka * power;
+
+                    // 小带轮直径校核
+                    result.D1Check = d1 >= beltParams.MinPulleyDia;
+
+                    // 中心距范围校核
+                    result.CenterDistMin = aMin;
+                    result.CenterDistMax = aMax;
+                    result.CenterDistCheck = result.ActualCenterDist >= aMin && result.ActualCenterDist <= aMax;
+
+                    // 带长相对误差
+                    result.BeltLengthError = Math.Abs(result.BeltLengthL0 - result.StandardBeltLength) / result.StandardBeltLength * 100;
                 }
                 else
                 {
@@ -339,6 +382,25 @@ namespace PulleyDesign
             if (power <= 7.5) return BeltType.V_C;
             if (power <= 20.0) return BeltType.V_D;
             return BeltType.V_E;
+        }
+
+
+        /// <summary>
+        /// 获取带型名称
+        /// </summary>
+        private static string GetBeltTypeName(BeltType type)
+        {
+            switch (type)
+            {
+                case BeltType.V_A: return "A";
+                case BeltType.V_B: return "B";
+                case BeltType.V_C: return "C";
+                case BeltType.V_D: return "D";
+                case BeltType.V_E: return "E";
+                case BeltType.Flat: return "平带";
+                case BeltType.Timing: return "同步带";
+                default: return "未知";
+            }
         }
     }
 }

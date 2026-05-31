@@ -1,4 +1,4 @@
-namespace ComprehensiveTolerance
+﻿namespace ComprehensiveTolerance
 {
     partial class MainForm
     {
@@ -551,7 +551,7 @@ namespace ComprehensiveTolerance
 
             // ===== MainForm =====
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.ClientSize = new System.Drawing.Size(784, 561);
             this.Controls.Add(this.tabControl);
             this.MinimumSize = new System.Drawing.Size(800, 600);
